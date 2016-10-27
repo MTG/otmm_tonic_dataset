@@ -10,11 +10,14 @@ Introduction
 
 This repository contains datasets of annotated tonic frequencies of the audio recordings of Ottoman-Turkish makam music. The annotations are compiled from several [research papers](#References) published under the CompMusic project. For more information about the original datasets, please refer to the relevant paper.
 
-The data is stored as JSON file. Each annotated recording is uniquely identified with a [MusicBrainz MBID](https://musicbrainz.org/doc/MusicBrainz_Identifier). The tonic symbol is also for each recording given in the format [letter][octave](accidental)(comma), e.g. *B4b1* (according to AEU theory).
+Each annotated recording is uniquely identified with a [MusicBrainz MBID](https://musicbrainz.org/doc/MusicBrainz_Identifier). The tonic symbol is also for each recording given in the format [letter][octave](accidental)(comma), e.g. *B4b1* (according to AEU theory).
 
 Each recording is annotated by at least expert musician or musicologists. The annotations are stored as a list with each annotation including the annotated frequency, source dataset, relevant publication, additional observations written by the annotator and whether the octave of the annotated value is considered (for example orchestral instrumental recordings the octave is ambiguous).
 
-The structure of a recording is given below:
+Annotation structure
+------------
+
+The data is stored as JSON file and organized as a dictionary of recordings. An example recording is displayed below:
 
 ```json
 {
@@ -39,6 +42,10 @@ The structure of a recording is given below:
   "tonic_symbol": "D4"
 }
 ```
+
+Additional resources
+------------
+Most of the recordings in this dataset cannot be shared due to copyright. However relevant features are already computed and they can be downloaded from the [Dunya-makam](dunya.compmusic.upf.edu/makam) after registration. Please refer to the API documentation at http://dunya.compmusic.upf.edu/docs/makam.html to how to access the data. 
 
 <a name="References"></a>References
 --------------------
