@@ -28783,7 +28783,7 @@
         "source": "https://github.com/MTG/otmm_tonic_dataset/blob/7f28c1a3261b9146042155ee5e0f9e644d9ebcfa/senturk2013karar_ismir/tonic_annotations.csv", 
         "value": 362.6867, 
         "octave_wrapped": true, 
-        "observations": "During the performance Niyazi Sayin uses a mansur ney, which also implies the ahenk (transposiiton). Nevertheless the first two works have their karar (tonic) note as rast (G4) and the karar of the Acema\u015firan makam is the acema\u015firan note (F4). Until the end of Pesendide Sazsemaisi the tonic is performed approximately at 403 Hz. Then it shifts to 362 Hz within the performance of 3rd Taksim and stays the same throughout the performance of Acema\u015firan Pe\u015frev."
+        "observations": "During the performance Niyazi Sayin uses a mansur ney, which also implies the ahenk (transposiiton). The first two works have their karar (tonic) note as rast (G4). Until the end of Pesendide Sazsemaisi the tonic is performed approximately at 403 Hz."
       }, 
       {
         "time_interval": [
@@ -28795,7 +28795,7 @@
         "source": "https://github.com/MTG/otmm_tonic_dataset/blob/7f28c1a3261b9146042155ee5e0f9e644d9ebcfa/atli2015tonic_fma/TD2.csv", 
         "value": 362, 
         "octave_wrapped": true, 
-        "observations": "During the performance Niyazi Sayin uses a mansur ney, which also implies the ahenk (transposiiton). Nevertheless the first two works have their karar (tonic) note as rast (G4) and the karar of the Acema\u015firan makam is the acema\u015firan note (F4). Until the end of Pesendide Sazsemaisi the tonic is performed approximately at 403 Hz. Then it shifts to 362 Hz within the performance of 3rd Taksim and stays the same throughout the performance of Acema\u015firan Pe\u015frev."
+        "observations": "During the performance Niyazi Sayin uses a mansur ney, which also implies the ahenk (transposiiton). The first two works have their karar (tonic) note as rast (G4). Until the end of Pesendide Sazsemaisi the tonic is performed approximately at 403 Hz."
       }, 
       {
         "time_interval": [
@@ -28807,7 +28807,7 @@
         "source": "https://github.com/MTG/otmm_tonic_dataset/", 
         "value": 403, 
         "octave_wrapped": true, 
-        "observations": "During the performance Niyazi Sayin uses a mansur ney, which also implies the ahenk (transposiiton). Nevertheless the first two works have their karar (tonic) note as rast (G4) and the karar of the Acema\u015firan makam is the acema\u015firan note (F4). Until the end of Pesendide Sazsemaisi the tonic is performed approximately at 403 Hz. Then it shifts to 362 Hz within the performance of 3rd Taksim and stays the same throughout the performance of Acema\u015firan Pe\u015frev."
+        "observations": "During the performance Niyazi Sayin uses a mansur ney, which also implies the ahenk (transposiiton). The tonic of the Acema\u015firan makam is the acema\u015firan note (F4). The tonic shifts to 362 Hz within the performance of 3rd Taksim and stays the same throughout the performance of Acema\u015firan Pe\u015frev."
       }
     ]
   }, 
@@ -32173,22 +32173,52 @@
     "verified": false, 
     "annotations": [
       {
-        "time_interval": [], 
+        "time_interval": [
+          1,
+          244
+        ], 
         "citation": "\u015eent\u00fcrk, S., Gulati, S., and Serra, X. (2013). Score Informed Tonic Identification for Makam Music of Turkey. In Proceedings of 14th International Society for Music Information Retrieval Conference (ISMIR 2013), pages 175\u2013180, Curitiba, Brazil.", 
         "value": 175.7427, 
         "source": "https://github.com/MTG/otmm_tonic_dataset/blob/7f28c1a3261b9146042155ee5e0f9e644d9ebcfa/senturk2013karar_ismir/tonic_annotations.csv", 
         "tonic_symbol": "", 
         "octave_wrapped": true, 
-        "observations": ""
+        "observations": "The musicians start playing (in Isfahan Peşrev) the tonic approximately at 175Hz."
       }, 
       {
-        "time_interval": [], 
+        "time_interval": [
+          1,
+          244
+        ],
         "citation": "Atl\u0131, H. S., Bozkurt, B., \u015eent\u00fcrk, S. (2015). A Method for Tonic Frequency Identification of Turkish Makam Music Recordings. In Proceedings of 5th International Workshop on Folk Music Analysis (FMA 2015), pages 119\u2013122, Paris, France.", 
         "value": 175, 
         "source": "https://github.com/MTG/otmm_tonic_dataset/blob/7f28c1a3261b9146042155ee5e0f9e644d9ebcfa/atli2015tonic_fma/TD2.csv", 
         "tonic_symbol": "", 
         "octave_wrapped": true, 
-        "observations": ""
+        "observations": "The musicians start playing (in Isfahan Peşrev) the tonic approximately at 175Hz."
+      }, 
+      {
+        "time_interval": [
+          245,
+          324
+        ],
+        "citation": "\u015eent\u00fcrk, S. (2016). Computational Analysis of Audio Recordings and Music Scores for the Description and Discovery of Ottoman-Turkish Makam Music. PhD thesis, Universitat Pompeu Fabra, Barcelona, Spain.", 
+        "value": 185, 
+        "source": "https://github.com/MTG/otmm_tonic_dataset/", 
+        "tonic_symbol": "", 
+        "octave_wrapped": true, 
+        "observations": "At the 245th second mark, the virtuosos somehow lose their coordination and the melodic intervals are mixed. The tonic played at the conclusion (e.g. the karar note) of the first performance (Isfahan Peşrev) is around 185 Hz."
+      }, 
+      {
+        "time_interval": [
+          326,
+          866
+        ],
+        "citation": "\u015eent\u00fcrk, S. (2016). Computational Analysis of Audio Recordings and Music Scores for the Description and Discovery of Ottoman-Turkish Makam Music. PhD thesis, Universitat Pompeu Fabra, Barcelona, Spain.", 
+        "value": 169, 
+        "source": "https://github.com/MTG/otmm_tonic_dataset/", 
+        "tonic_symbol": "", 
+        "octave_wrapped": true, 
+        "observations": "Isfahan Sazsemaisi has a relatively stable tonic frequency at around 169Hz. Note that the historical recordings tend to have local pitch shifts which makes it hard to identify a precise or correct tonic frequency."
       }
     ]
   }, 
