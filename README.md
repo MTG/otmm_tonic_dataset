@@ -26,7 +26,7 @@ Annotation structure
 The data is stored as JSON file and organized as a dictionary of recordings. An example recording is displayed below:
 
 ```json
-{
+"ed189797-5c50-4fde-abfa-cb1c8a2a2571": {
   "mbid": "http://musicbrainz.org/recording/ed189797-5c50-4fde-abfa-cb1c8a2a2571", 
   "verified": true, 
   "annotations": [
