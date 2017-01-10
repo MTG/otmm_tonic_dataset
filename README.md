@@ -10,7 +10,11 @@ The tonic test datasets for classical Ottoman-Turkish makam music
 Introduction
 ------------
 
-This repository contains datasets of annotated tonic frequencies of the audio recordings of Ottoman-Turkish makam music. The annotations are compiled from several [research papers](#References) published under the CompMusic project. For more information about the original datasets, please refer to the relevant paper.
+This repository contains datasets of annotated tonic frequencies of the audio recordings of Ottoman-Turkish makam music. If you use the dataset in your work, please cite:
+
+> Şentürk, S. (2016). Computational Analysis of Audio Recordings and Music Scores for the Description and Discovery of Ottoman-Turkish Makam Music. PhD thesis, Universitat Pompeu Fabra, Barcelona, Spain.
+
+Note that the annotations are compiled from several [research papers](#References) published under the CompMusic project. For more information about the original datasets, please refer to the relevant paper.
 
 Each annotated recording is uniquely identified with a [MusicBrainz MBID](https://musicbrainz.org/doc/MusicBrainz_Identifier). The tonic symbol is also for each recording given in the format [letter][octave][accidental][comma], e.g. *B4b1* (according to AEU theory).
 
@@ -23,25 +27,45 @@ The data is stored as JSON file and organized as a dictionary of recordings. An 
 
 ```json
 {
-  "mbid": "http://musicbrainz.org/recording/e3a22684-d237-48b5-ac27-e9b77ddd3c18", 
+  "mbid": "http://musicbrainz.org/recording/ed189797-5c50-4fde-abfa-cb1c8a2a2571", 
   "verified": true, 
   "annotations": [
     {
-      "source": "https://github.com/MTG/otmm_tonic_dataset/blob/7f28c1a3261b9146042155ee5e0f9e644d9ebcfa/senturk2013karar_ismir/tonic_annotations.csv", 
+      "time_interval": [
+        1, 
+        244
+      ], 
       "citation": "Şentürk, S., Gulati, S., and Serra, X. (2013). Score Informed Tonic Identification for Makam Music of Turkey. In Proceedings of 14th International Society for Music Information Retrieval Conference (ISMIR 2013), pages 175–180, Curitiba, Brazil.", 
+      "value": 175.7, 
+      "source": "https://github.com/MTG/otmm_tonic_dataset/blob/7f28c1a3261b9146042155ee5e0f9e644d9ebcfa/senturk2013karar_ismir/tonic_annotations.csv", 
+      "tonic_symbol": "A4", 
       "octave_wrapped": true, 
-      "observations": "", 
-      "value": 296.9597
+      "observations": "The musicians start playing (in Isfahan Peşrev) the tonic approximately at 175Hz."
+    },
+    {
+      "time_interval": [
+        245, 
+        324
+      ], 
+      "citation": "Şentürk, S. (2016). Computational Analysis of Audio Recordings and Music Scores for the Description and Discovery of Ottoman-Turkish Makam Music. PhD thesis, Universitat Pompeu Fabra, Barcelona, Spain.", 
+      "value": 185.0, 
+      "source": "https://github.com/MTG/otmm_tonic_dataset/", 
+      "tonic_symbol": "A4", 
+      "octave_wrapped": true, 
+      "observations": "At the 245th second mark, the virtuosos somehow lose their coordination and the melodic intervals are mixed. The tonic played at the conclusion (e.g. the karar note) of the first performance (Isfahan Peşrev) is around 185 Hz."
     }, 
     {
-      "source": "https://github.com/MTG/otmm_tonic_dataset/blob/7f28c1a3261b9146042155ee5e0f9e644d9ebcfa/atli2015tonic_fma/TD2.csv", 
-      "citation": "Atlı, H. S., Bozkurt, B., Şentürk, S. (2015). A Method for Tonic Frequency Identification of Turkish Makam Music Recordings. In Proceedings of 5th International Workshop on Folk Music Analysis (FMA 2015), pages 119–122, Paris, France.", 
+      "time_interval": [
+        326, 
+        866
+      ], 
+      "citation": "Şentürk, S. (2016). Computational Analysis of Audio Recordings and Music Scores for the Description and Discovery of Ottoman-Turkish Makam Music. PhD thesis, Universitat Pompeu Fabra, Barcelona, Spain.", 
+      "value": 169.0, 
+      "source": "https://github.com/MTG/otmm_tonic_dataset/", 
+      "tonic_symbol": "A4", 
       "octave_wrapped": true, 
-      "observations": "", 
-      "value": 296
+      "observations": "Isfahan Sazsemaisi has a relatively stable tonic frequency at around 169Hz. Note that the historical recordings tend to have local pitch shifts which makes it hard to identify a precise or correct tonic frequency."
     }
-  ], 
-  "tonic_symbol": "D4"
 }
 ```
 
@@ -51,6 +75,8 @@ Most of the recordings in this dataset cannot be shared due to copyright. Howeve
 
 <a name="References"></a>References
 --------------------
+
+> Şentürk, S. (2016). Computational Analysis of Audio Recordings and Music Scores for the Description and Discovery of Ottoman-Turkish Makam Music. PhD thesis, Universitat Pompeu Fabra, Barcelona, Spain.
 
 > Şentürk, S., & Serra X. (2016). Composition Identification in Ottoman-Turkish Makam Music Using Transposition-Invariant Partial Audio-Score Alignment. In Proceedings of 13th Sound and Music Computing Conference (SMC 2016). pages 434-441, Hamburg, Germany
 
