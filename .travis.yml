@@ -3,8 +3,18 @@ language: python
 python:
   - "2.7"
 
+# packages to install
+addons:
+  apt:
+    packages:
+      - libblas-dev
+      - liblapack-dev
+      - gfortran
+
 # command to install dependencies
 install:
+  - pip install -U pip pip-tools
+  - pip-compile
   - pip install -r unittests/requirements
   - pip install flake8
 
