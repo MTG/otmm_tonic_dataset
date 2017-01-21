@@ -1,6 +1,6 @@
 [![DOI](https://zenodo.org/badge/23745687.svg)](https://zenodo.org/badge/latestdoi/23745687) [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-ff69b4.svg)](http://creativecommons.org/licenses/by-nc-sa/4.0/)
 
-turkish_makam_tonic_test_datasets
+otmm_tonic_dataset
 =================================
 
 **Erratum:** We have recently discovered a few errors in the tonic annotations listed in atli2015tonic_fma. The annotations are currently being revised.
@@ -26,7 +26,7 @@ Annotation structure
 The data is stored as JSON file and organized as a dictionary of recordings. An example recording is displayed below:
 
 ```json
-{
+"ed189797-5c50-4fde-abfa-cb1c8a2a2571": {
   "mbid": "http://musicbrainz.org/recording/ed189797-5c50-4fde-abfa-cb1c8a2a2571", 
   "verified": true, 
   "annotations": [
