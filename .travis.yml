@@ -20,7 +20,7 @@ install:
 
 # command to run before the tests
 before_script:
-  - "flake8 unittests --ignore=F401"
+  - "flake8 unittests --ignore=F401,F841"
 
 # command to run tests
 script: 
