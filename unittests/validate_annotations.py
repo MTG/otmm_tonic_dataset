@@ -1,6 +1,10 @@
 from morty.evaluator import Evaluator
 import json
 import numpy as np
+import logging
+
+logger = logging.getLogger()
+logger.setLevel(logging.INFO)
 
 
 def test_annotations():
@@ -12,7 +16,7 @@ def test_annotations():
     num_verified = 0
     num_single_anno = 0
 
-    print("- Validating {:d} recordings".format(len(all_annos)))
+    logger.info("- Validating {:d} recordings".format(len(all_annos)))
     print("")
 
     for rec_mbid, rec_annos in all_annos.items():
@@ -37,10 +41,11 @@ def test_annotations():
 
     print("")
     if num_single_anno != 0:
-        print(u"- {:d}/{:d} recordings have a single annotation. They could"
-              u"not be validated.".format(num_single_anno, len(all_annos)))
+        logging.warning(u"- {:d}/{:d} recordings have a single annotation. "
+                        u"They can not be validated.".format(num_single_anno,
+                                                             len(all_annos)))
     if num_verified != len(all_annos):
-        print(u"- {:d}/{:d} recordings are not verified".format(
+        logging.warning(u"- {:d}/{:d} recordings are not verified".format(
             len(all_annos) - num_verified, len(all_annos)))
 
     assert not mismatch_mbid, u"Annotations in {:d} recording(s) are " \
@@ -67,10 +72,10 @@ def check_mismatches(rec_mbid, anno_times, mismatch_mbid, time_ignored_mbid):
         warnstr = u"* Ignored http://dunya.compmusic.upf.edu/" \
                   u"makam/recording/{} due to tonic changing in " \
                   u"time. Please check the recording manually".format(rec_mbid)
-        print(warnstr)
+        logging.warning(warnstr)
         time_ignored_mbid.append(rec_mbid)
     else:
         warnstr = u"> Mismatch in http://dunya.compmusic.upf.edu/" \
                   u"makam/recording/{}".format(rec_mbid)
-        print(warnstr)
+        logging.warning(warnstr)
         mismatch_mbid.append(rec_mbid)
