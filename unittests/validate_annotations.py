@@ -11,6 +11,7 @@ def test_annotations():
     mismatch_mbid = []
     time_ignored_mbid = []  # ignored recordings due to tonic changing in time
     num_verified = 0
+    num_single_anno = 0
     for rec_mbid, rec_annos in all_annos.items():
         num_verified += rec_annos['verified']
 
@@ -19,21 +20,28 @@ def test_annotations():
         anno_times = [anno['time_interval']
                       for anno in rec_annos['annotations']]
 
-        # evaluate
-        evals = cross_evaluate_annotations(anno_freqs)
+        if len(anno_freqs) == 1:
+            # cannot validate with a single annotation
+            num_single_anno += 1
+        else:
+            # evaluate annotations wrt each other
+            evals = cross_evaluate_annotations(anno_freqs)
 
-        eval_dict[rec_mbid] = {'all': evals.all(), 'eval': evals}
-        if not evals.all():
-            check_mismatches(rec_mbid, anno_times, mismatch_mbid,
-                             time_ignored_mbid)
+            eval_dict[rec_mbid] = {'all': evals.all(), 'eval': evals}
+            if not evals.all():
+                check_mismatches(rec_mbid, anno_times, mismatch_mbid,
+                                 time_ignored_mbid)
 
+    if num_single_anno != 0:
+        warnings.warn(u"There are {:d} recordings with a single annotation. "
+                      u"They could not be validated.".format(num_single_anno))
     if num_verified != len(all_annos):
-        warnstr = "{:d}/{:d} recordings are not verified".format(
+        warnstr = u"{:d}/{:d} recordings are not verified".format(
             len(all_annos) - num_verified, len(all_annos))
         warnings.warn(warnstr)
 
-    assert not mismatch_mbid, "Annotations in %d recording(s) are " \
-                              "inconsistent" % len(mismatch_mbid)
+    assert not mismatch_mbid, u"Annotations in {:d} recording(s) are " \
+                              u"inconsistent".format(len(mismatch_mbid))
 
 
 def cross_evaluate_annotations(anno_freqs):
@@ -56,10 +64,10 @@ def check_mismatches(rec_mbid, anno_times, mismatch_mbid, time_ignored_mbid):
         warnstr = u"Ignored http://dunya.compmusic.upf.edu/" \
                   u"makam/recording/{} due to tonic changing in " \
                   u"time. Please check the recording manually".format(rec_mbid)
-        warnings.warn(warnstr)
+        print(warnstr)
         time_ignored_mbid.append(rec_mbid)
     else:
         warnstr = u"Mismatch in http://dunya.compmusic.upf.edu/" \
                   u"makam/recording/{}".format(rec_mbid)
-        warnings.warn(warnstr)
+        print(warnstr)
         mismatch_mbid.append(rec_mbid)
