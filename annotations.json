@@ -41940,12 +41940,12 @@
   }, 
   "632656b7-6a0f-476a-80cd-ced396bdb57c": {
     "mbid": "http://musicbrainz.org/recording/632656b7-6a0f-476a-80cd-ced396bdb57c", 
-    "verified": false, 
+    "verified": true, 
     "annotations": [
       {
         "time_interval": [], 
         "citation": "Atl\u0131, H. S., Bozkurt, B., \u015eent\u00fcrk, S. (2015). A Method for Tonic Frequency Identification of Turkish Makam Music Recordings. In Proceedings of 5th International Workshop on Folk Music Analysis (FMA 2015), pages 119\u2013122, Paris, France.", 
-        "value": 270.0, 
+        "value": 179.5, 
         "source": "https://github.com/MTG/otmm_tonic_dataset/blob/7f28c1a3261b9146042155ee5e0f9e644d9ebcfa/atli2015tonic_fma/TD2.csv", 
         "tonic_symbol": "", 
         "octave_wrapped": true, 
