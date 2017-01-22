@@ -10,6 +10,8 @@ addons:
       - libblas-dev
       - liblapack-dev
       - gfortran
+  code_climate:
+      repo_token: a53300eb1ece76e7f821f7b982051634ba1373d11a724b23940e101d436c087c
 
 # command to install dependencies
 install:
@@ -17,12 +19,16 @@ install:
   #- pip-compile
   - pip install -r unittests/requirements
   - pip install flake8
+  #- pip install codecov
 
 # command to run before the tests
 before_script:
-  - "flake8 unittests --ignore=F841"
+  - "flake8 unittests"
 
 # command to run tests
 script: 
-  - nosetests unittests/validate_annotations.py
+  - nosetests unittests/validate_annotations.py  --with-coverage
 
+after_success:
+  #- codecov
+  - codeclimate-test-reporter

@@ -1,2 +1,5 @@
-#tonic evaluation
+# tonic evaluation
 git+https://github.com/altugkarakurt/morty.git@v1.2.1#egg=morty
+
+# code coverage
+codeclimate-test-reporter
