@@ -1,7 +1,6 @@
 from morty.evaluator import Evaluator
 import json
 import numpy as np
-import warnings
 
 
 def test_annotations():
@@ -12,6 +11,10 @@ def test_annotations():
     time_ignored_mbid = []  # ignored recordings due to tonic changing in time
     num_verified = 0
     num_single_anno = 0
+
+    print("- Validating {:d} recordings".format(len(all_annos)))
+    print("")
+
     for rec_mbid, rec_annos in all_annos.items():
         num_verified += rec_annos['verified']
 
@@ -32,13 +35,13 @@ def test_annotations():
                 check_mismatches(rec_mbid, anno_times, mismatch_mbid,
                                  time_ignored_mbid)
 
+    print("")
     if num_single_anno != 0:
-        warnings.warn(u"There are {:d} recordings with a single annotation. "
-                      u"They could not be validated.".format(num_single_anno))
+        print(u"- {:d}/{:d} recordings have a single annotation. They could"
+              u"not be validated.".format(num_single_anno, len(all_annos)))
     if num_verified != len(all_annos):
-        warnstr = u"{:d}/{:d} recordings are not verified".format(
-            len(all_annos) - num_verified, len(all_annos))
-        warnings.warn(warnstr)
+        print(u"- {:d}/{:d} recordings are not verified".format(
+            len(all_annos) - num_verified, len(all_annos)))
 
     assert not mismatch_mbid, u"Annotations in {:d} recording(s) are " \
                               u"inconsistent".format(len(mismatch_mbid))
