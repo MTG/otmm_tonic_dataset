@@ -1,6 +1,7 @@
 from morty.evaluator import Evaluator
 import json
 import numpy as np
+import warnings
 
 
 def test_annotations():
@@ -8,7 +9,9 @@ def test_annotations():
     all_annos = json.load(open('annotations.json'))
     eval_dict = {}
     mismatch_mbid = []
+    num_verified = 0
     for rec_mbid, rec_annos in all_annos.items():
+        num_verified += rec_annos['verified']
         anno_freqs = [anno['value'] for anno in rec_annos['annotations']]
 
         # evaluate
@@ -19,6 +22,11 @@ def test_annotations():
             print('http://dunya.compmusic.upf.edu/makam/recording/' + rec_mbid)
             mismatch_mbid.append(rec_mbid)
 
+    if num_verified != len(all_annos):
+        warnings.warn(RuntimeWarning,
+                      "{:d}/{:d} recordings are not verified".format(
+                          len(all_annos) - num_verified, len(all_annos)))
+        
     assert not mismatch_mbid, "There are inconsistent annotations in %d " \
                               "recordings" % len(mismatch_mbid)
 

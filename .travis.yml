@@ -27,7 +27,7 @@ before_script:
 
 # command to run tests
 script: 
-  - nosetests unittests/validate_annotations.py  --with-coverage
+  - nosetests unittests/validate_annotations.py --with-coverage
 
 after_success:
   #- codecov
