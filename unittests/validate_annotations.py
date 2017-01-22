@@ -3,6 +3,7 @@ import json
 import numpy as np
 import logging
 
+
 logger = logging.getLogger()
 logger.setLevel(logging.INFO)
 
@@ -17,7 +18,6 @@ def test_annotations():
     num_single_anno = 0
 
     logger.info("- Validating {:d} recordings".format(len(all_annos)))
-    print("")
 
     for rec_mbid, rec_annos in all_annos.items():
         num_verified += rec_annos['verified']
@@ -39,7 +39,6 @@ def test_annotations():
                 check_mismatches(rec_mbid, anno_times, mismatch_mbid,
                                  time_ignored_mbid)
 
-    print("")
     if num_single_anno != 0:
         logging.warning(u"- {:d}/{:d} recordings have a single annotation. "
                         u"They can not be validated.".format(num_single_anno,
@@ -75,7 +74,7 @@ def check_mismatches(rec_mbid, anno_times, mismatch_mbid, time_ignored_mbid):
         logging.warning(warnstr)
         time_ignored_mbid.append(rec_mbid)
     else:
-        warnstr = u"> Mismatch in http://dunya.compmusic.upf.edu/" \
-                  u"makam/recording/{}".format(rec_mbid)
-        logging.warning(warnstr)
+        errstr = u"> Mismatch in http://dunya.compmusic.upf.edu/makam/" \
+                 u"recording/{}".format(rec_mbid)
+        logging.error(errstr)
         mismatch_mbid.append(rec_mbid)
