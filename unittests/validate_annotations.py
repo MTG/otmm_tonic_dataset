@@ -23,10 +23,10 @@ def test_annotations():
             mismatch_mbid.append(rec_mbid)
 
     if num_verified != len(all_annos):
-        warnings.warn(RuntimeWarning,
-                      "{:d}/{:d} recordings are not verified".format(
-                          len(all_annos) - num_verified, len(all_annos)))
-        
+        warnstr = "{:d}/{:d} recordings are not verified".format(
+            len(all_annos) - num_verified, len(all_annos))
+        warnings.warn(RuntimeWarning, warnstr)
+
     assert not mismatch_mbid, "There are inconsistent annotations in %d " \
                               "recordings" % len(mismatch_mbid)
 
