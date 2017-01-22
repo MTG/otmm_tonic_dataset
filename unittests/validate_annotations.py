@@ -9,26 +9,31 @@ def test_annotations():
     all_annos = json.load(open('annotations.json'))
     eval_dict = {}
     mismatch_mbid = []
+    time_ignored_mbid = []  # ignored recordings due to tonic changing in time
     num_verified = 0
     for rec_mbid, rec_annos in all_annos.items():
         num_verified += rec_annos['verified']
+
+        # get annotated frequency and time interval
         anno_freqs = [anno['value'] for anno in rec_annos['annotations']]
+        anno_times = [anno['time_interval']
+                      for anno in rec_annos['annotations']]
 
         # evaluate
         evals = cross_evaluate_annotations(anno_freqs)
 
         eval_dict[rec_mbid] = {'all': evals.all(), 'eval': evals}
         if not evals.all():
-            print('http://dunya.compmusic.upf.edu/makam/recording/' + rec_mbid)
-            mismatch_mbid.append(rec_mbid)
+            check_mismatches(rec_mbid, anno_times, mismatch_mbid,
+                             time_ignored_mbid)
 
     if num_verified != len(all_annos):
-        warnstr = "{:d}/{:d} recordings are not verified.".format(
+        warnstr = "{:d}/{:d} recordings are not verified".format(
             len(all_annos) - num_verified, len(all_annos))
         warnings.warn(warnstr)
 
-    assert not mismatch_mbid, "There are inconsistent annotations in %d " \
-                              "recordings" % len(mismatch_mbid)
+    assert not mismatch_mbid, "Annotations in %d recording(s) are " \
+                              "inconsistent" % len(mismatch_mbid)
 
 
 def cross_evaluate_annotations(anno_freqs):
@@ -40,3 +45,21 @@ def cross_evaluate_annotations(anno_freqs):
             evals[i1, i2] = evaluator.evaluate_tonic(v1, v2)['tonic_eval']
 
     return evals
+
+
+def check_mismatches(rec_mbid, anno_times, mismatch_mbid, time_ignored_mbid):
+    # the annotations, which do not have the "time_interval" key set (i.e.
+    # it is an empty list) imply the annotation holds for the complete
+    # recording. IF the time_interval is set, the recording should be
+    # ignored and checked manually.
+    if any(anno_times):
+        warnstr = u"Ignored http://dunya.compmusic.upf.edu/" \
+                  u"makam/recording/{} due to tonic changing in " \
+                  u"time. Please check the recording manually".format(rec_mbid)
+        warnings.warn(warnstr)
+        time_ignored_mbid.append(rec_mbid)
+    else:
+        warnstr = u"Mismatch in http://dunya.compmusic.upf.edu/" \
+                  u"makam/recording/{}".format(rec_mbid)
+        warnings.warn(warnstr)
+        mismatch_mbid.append(rec_mbid)
