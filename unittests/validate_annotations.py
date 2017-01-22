@@ -61,13 +61,13 @@ def check_mismatches(rec_mbid, anno_times, mismatch_mbid, time_ignored_mbid):
     # recording. IF the time_interval is set, the recording should be
     # ignored and checked manually.
     if any(anno_times):
-        warnstr = u"Ignored http://dunya.compmusic.upf.edu/" \
+        warnstr = u"* Ignored http://dunya.compmusic.upf.edu/" \
                   u"makam/recording/{} due to tonic changing in " \
                   u"time. Please check the recording manually".format(rec_mbid)
         print(warnstr)
         time_ignored_mbid.append(rec_mbid)
     else:
-        warnstr = u"Mismatch in http://dunya.compmusic.upf.edu/" \
+        warnstr = u"> Mismatch in http://dunya.compmusic.upf.edu/" \
                   u"makam/recording/{}".format(rec_mbid)
         print(warnstr)
         mismatch_mbid.append(rec_mbid)
