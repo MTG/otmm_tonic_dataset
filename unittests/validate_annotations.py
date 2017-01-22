@@ -4,24 +4,31 @@ import numpy as np
 
 
 def test_annotations():
-    evaluator = Evaluator()
-
     # load the tonic annotations
-    annos = json.load(open('annotations.json'))
+    all_annos = json.load(open('annotations.json'))
     eval_dict = {}
     mismatch_mbid = []
-    for rm, av in annos.items():
-        # evaluate
-        vals = [ava['value'] for ava in av['annotations']]
-        evals = np.zeros((len(vals), len(vals)), dtype=bool)
-        for i1, v1 in enumerate(vals):
-            for i2, v2 in enumerate(vals):
-                evals[i1, i2] = evaluator.evaluate_tonic(v1, v2)['tonic_eval']
+    for rec_mbid, rec_annos in all_annos.items():
+        anno_freqs = [anno['value'] for anno in rec_annos['annotations']]
 
-        eval_dict[rm] = {'all': evals.all(), 'eval': evals}
+        # evaluate
+        evals = cross_evaluate_annotations(anno_freqs)
+
+        eval_dict[rec_mbid] = {'all': evals.all(), 'eval': evals}
         if not evals.all():
-            print('http://dunya.compmusic.upf.edu/makam/recording/' + rm)
-            mismatch_mbid.append(rm)
+            print('http://dunya.compmusic.upf.edu/makam/recording/' + rec_mbid)
+            mismatch_mbid.append(rec_mbid)
 
     assert not mismatch_mbid, "There are inconsistent annotations in %d " \
                               "recordings" % len(mismatch_mbid)
+
+
+def cross_evaluate_annotations(anno_freqs):
+    evaluator = Evaluator()
+
+    evals = np.zeros((len(anno_freqs), len(anno_freqs)), dtype=bool)
+    for i1, v1 in enumerate(anno_freqs):
+        for i2, v2 in enumerate(anno_freqs):
+            evals[i1, i2] = evaluator.evaluate_tonic(v1, v2)['tonic_eval']
+
+    return evals
