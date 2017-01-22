@@ -7,4 +7,3 @@ def test_annotations():
     evaluator = Evaluator()
 
     print("yay")
-    raise TypeError
