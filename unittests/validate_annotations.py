@@ -7,9 +7,6 @@ import logging
 logger = logging.getLogger()
 logger.setLevel(logging.INFO)
 
-def test_certainfail():
-    asdfasd
-
 def test_annotations():
     # load the tonic annotations
     all_annos = json.load(open('annotations.json'))
