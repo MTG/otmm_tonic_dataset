@@ -29,6 +29,6 @@ before_script:
 script: 
   - nosetests unittests/validate_annotations.py --with-coverage
 
-after_success:
+#after_success:
   #- codecov
-  - codeclimate-test-reporter
+  #- codeclimate-test-reporter
