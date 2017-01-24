@@ -70,7 +70,7 @@ def check_mismatches(rec_mbid, anno_times, mismatch_mbid, time_ignored_mbid):
     if any(anno_times):
         warnstr = u"* Ignored http://dunya.compmusic.upf.edu/" \
                   u"makam/recording/{} due to tonic changing in " \
-                  u"time. Please check the recording manually".format(rec_mbid)
+                  u"time. Please check the recording manually.".format(rec_mbid)
         logging.warning(warnstr)
         time_ignored_mbid.append(rec_mbid)
     else:
