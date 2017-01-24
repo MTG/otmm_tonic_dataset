@@ -52,7 +52,7 @@ def test_annotations():
 
 
 def cross_evaluate_annotations(anno_freqs):
-    evaluator = Evaluator()
+    evaluator = Evaluator(tonic_tolerance=20)  # cents
 
     evals = np.zeros((len(anno_freqs), len(anno_freqs)), dtype=bool)
     for i1, v1 in enumerate(anno_freqs):
