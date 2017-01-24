@@ -19,6 +19,7 @@ install:
   - pip install -r unittests/requirements
   - pip install flake8
   - pip install codeclimate-test-reporter
+  - pip install pytest
   #- pip install codecov
 
 # command to run before the tests
@@ -27,7 +28,7 @@ before_script:
 
 # command to run tests
 script: 
-  - nosetests unittests/validate_annotations.py #--with-coverage
+  - pytest ./unittests/validate_annotations.py #--with-coverage
 
 #after_success:
   #- codecov
