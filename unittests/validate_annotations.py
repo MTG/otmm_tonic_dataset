@@ -39,16 +39,35 @@ def test_annotations():
                 check_mismatches(rec_mbid, anno_times, mismatch_mbid,
                                  time_ignored_mbid)
 
+        # warn missing tonic symbols
+        num_missing_symbol = check_missing_tonic_symbol(rec_annos, rec_mbid)
+
     if num_single_anno != 0:
         logging.warning(u"- {:d}/{:d} recordings have a single annotation. "
                         u"They can not be validated.".format(num_single_anno,
                                                              len(all_annos)))
+    if num_missing_symbol > 0:
+        logging.warning(u"- Annotations in {:d}/{:d} recordings have missing "
+                        u"tonic symbol.".format(num_missing_symbol,
+                                                len(all_annos)))
+
     if num_verified != len(all_annos):
         logging.warning(u"- {:d}/{:d} recordings are not verified".format(
             len(all_annos) - num_verified, len(all_annos)))
 
     assert not mismatch_mbid, u"Annotations in {:d} recording(s) are " \
                               u"inconsistent".format(len(mismatch_mbid))
+
+
+def check_missing_tonic_symbol(rec_annos, rec_mbid):
+    anno_symbols = [anno['tonic_symbol']
+                    for anno in rec_annos['annotations']]
+    num_missing_symbol = 0
+    if not all(anno_sym for anno_sym in anno_symbols):
+        num_missing_symbol += 1
+        logging.warning(u"* Missing tonic symbol for http://dunya.compmusic."
+                        u"upf.edu/makam/recording/{}".format(rec_mbid))
+    return num_missing_symbol
 
 
 def cross_evaluate_annotations(anno_freqs):
@@ -78,23 +97,3 @@ def check_mismatches(rec_mbid, anno_times, mismatch_mbid, time_ignored_mbid):
                  u"recording/{}".format(rec_mbid)
         logging.error(errstr)
         mismatch_mbid.append(rec_mbid)
-
-
-def test_tonic_symbols():
-    """
-    This test lists the recording, which have missing tonic symbol annotations.
-    They are reported as a warning, hence the test always succeed.
-    :return:
-    """
-    all_annos = json.load(open('annotations.json'))
-
-    logger.info("- Checking the existence of tonic symbols".format(
-        len(all_annos)))
-
-    for rec_mbid, rec_annos in all_annos.items():
-        for anno in rec_annos['annotations']:
-            if not anno['tonic_symbol']:
-                logging.warning(u"* Missing tonic symbol for {}".format(
-                    rec_mbid))
-
-    assert True
