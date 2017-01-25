@@ -97,3 +97,33 @@ def check_mismatches(rec_mbid, anno_times, mismatch_mbid, time_ignored_mbid):
                  u"recording/{}".format(rec_mbid)
         logging.error(errstr)
         mismatch_mbid.append(rec_mbid)
+
+
+def test_removed():
+    """
+    This test checks whether one of the removed recordings are re-introduced
+    to the test dataset by mistake. If yes, it prompts to recheck the
+    recording(s) manually
+    """
+    all_annos = json.load(open('annotations.json'))
+    removed_annos = json.load(open('removed.json'))
+
+    all_mbids = all_annos.keys()
+    removed_mbids = removed_annos.keys()
+
+    num_removed = 0
+    for am in all_mbids:
+        if am in removed_mbids:
+            logging.error(u"http://dunya.compmusic.upf.edu/makam/recording/{} "
+                          u"was removed from annotations in  the past. "
+                          u"Please recheck the comment given in removed.json "
+                          u"for the explanation. If you think, the removal "
+                          u"was a mistake, please re-annotate and remove the "
+                          u"recording from removed.json".format(am))
+            num_removed += 1
+
+    assert_str = u"There are {:d}/{:d} recordings, which were removed from " \
+                 u"annotations in the past and later re-introduced again " \
+                 u"without revising removed.json".format(num_removed,
+                                                         len(all_annos))
+    assert num_removed == 0, assert_str
