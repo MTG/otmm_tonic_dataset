@@ -3,8 +3,6 @@
 otmm_tonic_dataset
 =================================
 
-**Erratum:** We have recently discovered a few errors in the tonic annotations. The annotations are currently being revised.
-
 The tonic test datasets for classical Ottoman-Turkish makam music
 
 Introduction
@@ -21,6 +19,12 @@ The annotations are compiled from several [research papers](#AnnotationSources) 
 There are approximately 2000 recordings annotated in the latest version. Each recording is annotated by at least one expert and half of the recordings are annotated by at least two annotators. When the score is available, score-informed tonic identification _(Şentürk, S., 2016)_ is applied to the recording. The result is included in the dataset after it is verified by a human. 
 
 For detailed statistics, please refer to the the Jupyter notebook, [extras/statistics.ipynb](https://github.com/MTG/otmm_tonic_dataset/blob/master/extras/statistics.ipynb).
+
+Erratum
+------------
+In November 2016, we discovered several errors in the tonic annotations. Since then, 50 percent of the recordings have been verified by a human annotator and/or by the score-informed tonic identification method proposed in (Şentürk, S., Gulati, S., and Serra, X., 2013). This method is reported to provide near perfect results (>99% on paper's dataset). In addition, the annotations of each recording are automatically cross-validated among each other using continous integration (see: the section [Automatic Validation](#automatic-validation)). 
+
+So far, we have introduced ~90 changes among approximately 2100 annotations. This correspond to a error of 4.3%, which is acceptable given the rigor of the task. Note that most of the fixes are simply adjusting the annotated tonic frequency into a finer precision (<20 cents). 
 
 Annotation structure
 ------------
