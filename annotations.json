@@ -3862,22 +3862,7 @@
         "octave_wrapped": true
       }
     ]
-  }, 
-  "6e67de84-0162-45f6-9993-75fa8c687303": {
-    "mbid": "http://musicbrainz.org/recording/6e67de84-0162-45f6-9993-75fa8c687303", 
-    "verified": false, 
-    "annotations": [
-      {
-        "time_interval": [], 
-        "citation": "Atl\u0131, H. S., Bozkurt, B., \u015eent\u00fcrk, S. (2015). A Method for Tonic Frequency Identification of Turkish Makam Music Recordings. In Proceedings of 5th International Workshop on Folk Music Analysis (FMA 2015), pages 119\u2013122, Paris, France.", 
-        "value": 225.0, 
-        "source": "https://github.com/MTG/otmm_tonic_dataset/blob/7f28c1a3261b9146042155ee5e0f9e644d9ebcfa/atli2015tonic_fma/TD2.csv", 
-        "tonic_symbol": "", 
-        "octave_wrapped": true, 
-        "observations": ""
-      }
-    ]
-  }, 
+  },
   "1e14ece7-f5cd-4a58-aa15-b82253b1b858": {
     "mbid": "http://musicbrainz.org/recording/1e14ece7-f5cd-4a58-aa15-b82253b1b858", 
     "verified": false, 
@@ -4639,21 +4624,6 @@
         "observations": "Tonic identified from the note models obtained by joint audio-score analysis", 
         "tonic_symbol": "A4", 
         "octave_wrapped": true
-      }
-    ]
-  }, 
-  "bdc85416-7278-4f0f-b7a8-7626e25c79aa": {
-    "mbid": "http://musicbrainz.org/recording/bdc85416-7278-4f0f-b7a8-7626e25c79aa", 
-    "verified": false, 
-    "annotations": [
-      {
-        "time_interval": [], 
-        "citation": "Atl\u0131, H. S., Bozkurt, B., \u015eent\u00fcrk, S. (2015). A Method for Tonic Frequency Identification of Turkish Makam Music Recordings. In Proceedings of 5th International Workshop on Folk Music Analysis (FMA 2015), pages 119\u2013122, Paris, France.", 
-        "value": 243.0, 
-        "source": "https://github.com/MTG/otmm_tonic_dataset/blob/7f28c1a3261b9146042155ee5e0f9e644d9ebcfa/atli2015tonic_fma/TD2.csv", 
-        "tonic_symbol": "", 
-        "octave_wrapped": true, 
-        "observations": ""
       }
     ]
   }, 
@@ -10097,7 +10067,7 @@
         "citation": "\u015eent\u00fcrk, S., Gulati, S., and Serra, X. (2013). Score Informed Tonic Identification for Makam Music of Turkey. In Proceedings of 14th International Society for Music Information Retrieval Conference (ISMIR 2013), pages 175\u2013180, Curitiba, Brazil.", 
         "value": 300.2, 
         "source": "https://github.com/MTG/otmm_tonic_dataset/blob/7f28c1a3261b9146042155ee5e0f9e644d9ebcfa/senturk2013karar_ismir/tonic_annotations.csv", 
-        "tonic_symbol": "", 
+        "tonic_symbol": "G4", 
         "octave_wrapped": true, 
         "observations": ""
       }, 
@@ -10106,7 +10076,7 @@
         "citation": "Atl\u0131, H. S., Bozkurt, B., \u015eent\u00fcrk, S. (2015). A Method for Tonic Frequency Identification of Turkish Makam Music Recordings. In Proceedings of 5th International Workshop on Folk Music Analysis (FMA 2015), pages 119\u2013122, Paris, France.", 
         "value": 299.0, 
         "source": "https://github.com/MTG/otmm_tonic_dataset/blob/7f28c1a3261b9146042155ee5e0f9e644d9ebcfa/atli2015tonic_fma/TD2.csv", 
-        "tonic_symbol": "", 
+        "tonic_symbol": "G4", 
         "octave_wrapped": true, 
         "observations": ""
       }, 
@@ -10115,7 +10085,7 @@
         "citation": "Karakurt, A., \u015eent\u00fcrk S., & Serra X. (2016). MORTY: A Toolbox for Mode Recognition and Tonic Identification. In Proceedings of 3rd International Digital Libraries for Musicology Workshop (DLfM 2016). pages 9-16, New York, NY, USA", 
         "value": 303.0, 
         "source": "https://github.com/MTG/otmm_makam_recognition_dataset/blob/216a7b30632032b2a8c2692d5f5895bedbc743e0/annotations.json", 
-        "tonic_symbol": "", 
+        "tonic_symbol": "G4", 
         "octave_wrapped": true, 
         "observations": ""
       }, 
@@ -10944,21 +10914,6 @@
       }
     ]
   }, 
-  "ed1336fc-bb67-4d96-ae0c-81861f1b4106": {
-    "mbid": "http://musicbrainz.org/recording/ed1336fc-bb67-4d96-ae0c-81861f1b4106", 
-    "verified": false, 
-    "annotations": [
-      {
-        "time_interval": [], 
-        "citation": "Atl\u0131, H. S., Bozkurt, B., \u015eent\u00fcrk, S. (2015). A Method for Tonic Frequency Identification of Turkish Makam Music Recordings. In Proceedings of 5th International Workshop on Folk Music Analysis (FMA 2015), pages 119\u2013122, Paris, France.", 
-        "value": 546.0, 
-        "source": "https://github.com/MTG/otmm_tonic_dataset/blob/7f28c1a3261b9146042155ee5e0f9e644d9ebcfa/atli2015tonic_fma/TD2.csv", 
-        "tonic_symbol": "", 
-        "octave_wrapped": true, 
-        "observations": ""
-      }
-    ]
-  }, 
   "2f9fc522-41da-40d9-8fe1-0082ca1a07c4": {
     "mbid": "http://musicbrainz.org/recording/2f9fc522-41da-40d9-8fe1-0082ca1a07c4", 
     "verified": false, 
@@ -10996,21 +10951,6 @@
         "observations": "Tonic identified from the note models obtained by joint audio-score analysis", 
         "tonic_symbol": "A4", 
         "octave_wrapped": true
-      }
-    ]
-  }, 
-  "bf2a6d51-6696-4939-8702-f77188a46138": {
-    "mbid": "http://musicbrainz.org/recording/bf2a6d51-6696-4939-8702-f77188a46138", 
-    "verified": false, 
-    "annotations": [
-      {
-        "time_interval": [], 
-        "citation": "Atl\u0131, H. S., Bozkurt, B., \u015eent\u00fcrk, S. (2015). A Method for Tonic Frequency Identification of Turkish Makam Music Recordings. In Proceedings of 5th International Workshop on Folk Music Analysis (FMA 2015), pages 119\u2013122, Paris, France.", 
-        "value": 182.0, 
-        "source": "https://github.com/MTG/otmm_tonic_dataset/blob/7f28c1a3261b9146042155ee5e0f9e644d9ebcfa/atli2015tonic_fma/TD2.csv", 
-        "tonic_symbol": "", 
-        "octave_wrapped": true, 
-        "observations": ""
       }
     ]
   }, 
@@ -19510,21 +19450,6 @@
       }
     ]
   }, 
-  "e0052988-cfb3-4b20-862b-659a0622bf8b": {
-    "mbid": "http://musicbrainz.org/recording/e0052988-cfb3-4b20-862b-659a0622bf8b", 
-    "verified": false, 
-    "annotations": [
-      {
-        "time_interval": [], 
-        "citation": "Atl\u0131, H. S., Bozkurt, B., \u015eent\u00fcrk, S. (2015). A Method for Tonic Frequency Identification of Turkish Makam Music Recordings. In Proceedings of 5th International Workshop on Folk Music Analysis (FMA 2015), pages 119\u2013122, Paris, France.", 
-        "value": 204.0, 
-        "source": "https://github.com/MTG/otmm_tonic_dataset/blob/7f28c1a3261b9146042155ee5e0f9e644d9ebcfa/atli2015tonic_fma/TD2.csv", 
-        "tonic_symbol": "", 
-        "octave_wrapped": true, 
-        "observations": ""
-      }
-    ]
-  }, 
   "2fdcb0fb-43f4-4ec3-af59-65349fa53fea": {
     "mbid": "http://musicbrainz.org/recording/2fdcb0fb-43f4-4ec3-af59-65349fa53fea", 
     "verified": false, 
@@ -20205,7 +20130,7 @@
         "citation": "Atl\u0131, H. S., Bozkurt, B., \u015eent\u00fcrk, S. (2015). A Method for Tonic Frequency Identification of Turkish Makam Music Recordings. In Proceedings of 5th International Workshop on Folk Music Analysis (FMA 2015), pages 119\u2013122, Paris, France.", 
         "value": 438.0, 
         "source": "https://github.com/MTG/otmm_tonic_dataset/blob/7f28c1a3261b9146042155ee5e0f9e644d9ebcfa/atli2015tonic_fma/TD2.csv", 
-        "tonic_symbol": "", 
+        "tonic_symbol": "G4", 
         "octave_wrapped": true, 
         "observations": ""
       }, 
@@ -20302,21 +20227,6 @@
         "observations": "Tonic identified from the note models obtained by joint audio-score analysis", 
         "tonic_symbol": "A4", 
         "octave_wrapped": true
-      }
-    ]
-  }, 
-  "c9050b0d-7065-447c-b7a3-79119092b810": {
-    "mbid": "http://musicbrainz.org/recording/c9050b0d-7065-447c-b7a3-79119092b810", 
-    "verified": false, 
-    "annotations": [
-      {
-        "time_interval": [], 
-        "citation": "Atl\u0131, H. S., Bozkurt, B., \u015eent\u00fcrk, S. (2015). A Method for Tonic Frequency Identification of Turkish Makam Music Recordings. In Proceedings of 5th International Workshop on Folk Music Analysis (FMA 2015), pages 119\u2013122, Paris, France.", 
-        "value": 258.0, 
-        "source": "https://github.com/MTG/otmm_tonic_dataset/blob/7f28c1a3261b9146042155ee5e0f9e644d9ebcfa/atli2015tonic_fma/TD2.csv", 
-        "tonic_symbol": "", 
-        "octave_wrapped": true, 
-        "observations": ""
       }
     ]
   }, 
@@ -24665,21 +24575,6 @@
       }
     ]
   }, 
-  "9a7fd7c9-76a0-4e00-8f13-98792f5e6601": {
-    "mbid": "http://musicbrainz.org/recording/9a7fd7c9-76a0-4e00-8f13-98792f5e6601", 
-    "verified": false, 
-    "annotations": [
-      {
-        "time_interval": [], 
-        "citation": "Atl\u0131, H. S., Bozkurt, B., \u015eent\u00fcrk, S. (2015). A Method for Tonic Frequency Identification of Turkish Makam Music Recordings. In Proceedings of 5th International Workshop on Folk Music Analysis (FMA 2015), pages 119\u2013122, Paris, France.", 
-        "value": 183.0, 
-        "source": "https://github.com/MTG/otmm_tonic_dataset/blob/7f28c1a3261b9146042155ee5e0f9e644d9ebcfa/atli2015tonic_fma/TD2.csv", 
-        "tonic_symbol": "", 
-        "octave_wrapped": true, 
-        "observations": ""
-      }
-    ]
-  }, 
   "761d5a3d-8ded-47cc-b545-c3a49397c9df": {
     "mbid": "http://musicbrainz.org/recording/761d5a3d-8ded-47cc-b545-c3a49397c9df", 
     "verified": false, 
@@ -25156,21 +25051,6 @@
         "observations": "Tonic identified from the note models obtained by joint audio-score analysis", 
         "tonic_symbol": "A4", 
         "octave_wrapped": true
-      }
-    ]
-  }, 
-  "4937c41c-a432-4998-b0d8-99e2c1b3a635": {
-    "mbid": "http://musicbrainz.org/recording/4937c41c-a432-4998-b0d8-99e2c1b3a635", 
-    "verified": false, 
-    "annotations": [
-      {
-        "time_interval": [], 
-        "citation": "Atl\u0131, H. S., Bozkurt, B., \u015eent\u00fcrk, S. (2015). A Method for Tonic Frequency Identification of Turkish Makam Music Recordings. In Proceedings of 5th International Workshop on Folk Music Analysis (FMA 2015), pages 119\u2013122, Paris, France.", 
-        "value": 194.0, 
-        "source": "https://github.com/MTG/otmm_tonic_dataset/blob/7f28c1a3261b9146042155ee5e0f9e644d9ebcfa/atli2015tonic_fma/TD2.csv", 
-        "tonic_symbol": "", 
-        "octave_wrapped": true, 
-        "observations": ""
       }
     ]
   }, 
@@ -31646,7 +31526,7 @@
         "source": "https://github.com/MTG/otmm_makam_recognition_dataset/blob/216a7b30632032b2a8c2692d5f5895bedbc743e0/annotations.json", 
         "tonic_symbol": "", 
         "octave_wrapped": true, 
-        "observations": ""
+        "observations": "D5"
       }
     ]
   }, 
@@ -37992,7 +37872,7 @@
         "citation": "Atl\u0131, H. S., Bozkurt, B., \u015eent\u00fcrk, S. (2015). A Method for Tonic Frequency Identification of Turkish Makam Music Recordings. In Proceedings of 5th International Workshop on Folk Music Analysis (FMA 2015), pages 119\u2013122, Paris, France.", 
         "value": 304.0, 
         "source": "https://github.com/MTG/otmm_tonic_dataset/blob/7f28c1a3261b9146042155ee5e0f9e644d9ebcfa/atli2015tonic_fma/TD2.csv", 
-        "tonic_symbol": "", 
+        "tonic_symbol": "E4", 
         "octave_wrapped": true, 
         "observations": ""
       }
@@ -40292,7 +40172,7 @@
         "citation": "Atl\u0131, H. S., Bozkurt, B., \u015eent\u00fcrk, S. (2015). A Method for Tonic Frequency Identification of Turkish Makam Music Recordings. In Proceedings of 5th International Workshop on Folk Music Analysis (FMA 2015), pages 119\u2013122, Paris, France.", 
         "value": 133.0, 
         "source": "https://github.com/MTG/otmm_tonic_dataset/blob/7f28c1a3261b9146042155ee5e0f9e644d9ebcfa/atli2015tonic_fma/TD2.csv", 
-        "tonic_symbol": "", 
+        "tonic_symbol": "G4", 
         "octave_wrapped": true, 
         "observations": ""
       }
@@ -40569,21 +40449,6 @@
         "time_interval": [], 
         "citation": "Atl\u0131, H. S., Bozkurt, B., \u015eent\u00fcrk, S. (2015). A Method for Tonic Frequency Identification of Turkish Makam Music Recordings. In Proceedings of 5th International Workshop on Folk Music Analysis (FMA 2015), pages 119\u2013122, Paris, France.", 
         "value": 441.0, 
-        "source": "https://github.com/MTG/otmm_tonic_dataset/blob/7f28c1a3261b9146042155ee5e0f9e644d9ebcfa/atli2015tonic_fma/TD2.csv", 
-        "tonic_symbol": "", 
-        "octave_wrapped": true, 
-        "observations": ""
-      }
-    ]
-  }, 
-  "52b51152-a32e-4d9a-903f-050801c9acd0": {
-    "mbid": "http://musicbrainz.org/recording/52b51152-a32e-4d9a-903f-050801c9acd0", 
-    "verified": false, 
-    "annotations": [
-      {
-        "time_interval": [], 
-        "citation": "Atl\u0131, H. S., Bozkurt, B., \u015eent\u00fcrk, S. (2015). A Method for Tonic Frequency Identification of Turkish Makam Music Recordings. In Proceedings of 5th International Workshop on Folk Music Analysis (FMA 2015), pages 119\u2013122, Paris, France.", 
-        "value": 161.0, 
         "source": "https://github.com/MTG/otmm_tonic_dataset/blob/7f28c1a3261b9146042155ee5e0f9e644d9ebcfa/atli2015tonic_fma/TD2.csv", 
         "tonic_symbol": "", 
         "octave_wrapped": true, 
@@ -41889,21 +41754,6 @@
         "value": 239.0, 
         "source": "https://github.com/MTG/otmm_tonic_dataset/blob/7f28c1a3261b9146042155ee5e0f9e644d9ebcfa/atli2015tonic_fma/TD2.csv", 
         "tonic_symbol": "D4", 
-        "octave_wrapped": true, 
-        "observations": ""
-      }
-    ]
-  }, 
-  "1e6d6e3d-0fde-4784-8894-02b98e933f24": {
-    "mbid": "http://musicbrainz.org/recording/1e6d6e3d-0fde-4784-8894-02b98e933f24", 
-    "verified": false, 
-    "annotations": [
-      {
-        "time_interval": [], 
-        "citation": "Atl\u0131, H. S., Bozkurt, B., \u015eent\u00fcrk, S. (2015). A Method for Tonic Frequency Identification of Turkish Makam Music Recordings. In Proceedings of 5th International Workshop on Folk Music Analysis (FMA 2015), pages 119\u2013122, Paris, France.", 
-        "value": 242.0, 
-        "source": "https://github.com/MTG/otmm_tonic_dataset/blob/7f28c1a3261b9146042155ee5e0f9e644d9ebcfa/atli2015tonic_fma/TD2.csv", 
-        "tonic_symbol": "", 
         "octave_wrapped": true, 
         "observations": ""
       }
