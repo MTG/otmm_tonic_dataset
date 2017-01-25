@@ -18,7 +18,7 @@ If you use the dataset in your work, please cite:
 
 The annotations are compiled from several [research papers](#AnnotationSources) published under the CompMusic project. For more information about the original datasets, please refer to the relevant paper.
 
-There are approximately 2000 recordings annotated in the latest version. Each recording is annotated by at least one expert and half of the recordings are annotated by at least two annotators. When the score is available, score-informed tonic identification (Şentürk, S., 2016) is applied to the recording. The result is included in the dataset after it verified by a human. 
+There are approximately 2000 recordings annotated in the latest version. Each recording is annotated by at least one expert and half of the recordings are annotated by at least two annotators. When the score is available, score-informed tonic identification _(Şentürk, S., 2016)_ is applied to the recording. The result is included in the dataset after it is verified by a human. 
 
 For detailed statistics, please refer to the the Jupyter notebook, [extras/statistics.ipynb](https://github.com/MTG/otmm_tonic_dataset/blob/master/extras/statistics.ipynb).
 
