@@ -51,7 +51,6 @@ def test_annotations():
                                                              len(all_annos)))
 
     # report missing tonic symbols
-    logging.error(len(rec_missing_symbol))
     if rec_missing_symbol:
         for rr in rec_missing_symbol:
             logging.warning(u"* Missing tonic symbol for http://dunya."
