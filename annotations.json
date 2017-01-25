@@ -11307,7 +11307,7 @@
       {
         "time_interval": [], 
         "citation": "\u015eent\u00fcrk, S., Gulati, S., and Serra, X. (2013). Score Informed Tonic Identification for Makam Music of Turkey. In Proceedings of 14th International Society for Music Information Retrieval Conference (ISMIR 2013), pages 175\u2013180, Curitiba, Brazil.", 
-        "value": 216.4, 
+        "value": 217.4, 
         "source": "https://github.com/MTG/otmm_tonic_dataset/blob/7f28c1a3261b9146042155ee5e0f9e644d9ebcfa/senturk2013karar_ismir/tonic_annotations.csv", 
         "tonic_symbol": "G4", 
         "octave_wrapped": true, 
@@ -11325,7 +11325,7 @@
       {
         "time_interval": [], 
         "citation": "Karakurt, A., \u015eent\u00fcrk S., & Serra X. (2016). MORTY: A Toolbox for Mode Recognition and Tonic Identification. In Proceedings of 3rd International Digital Libraries for Musicology Workshop (DLfM 2016). pages 9-16, New York, NY, USA", 
-        "value": 216.4, 
+        "value": 217.0, 
         "source": "https://github.com/MTG/otmm_makam_recognition_dataset/blob/216a7b30632032b2a8c2692d5f5895bedbc743e0/annotations.json", 
         "tonic_symbol": "G4", 
         "octave_wrapped": true, 
