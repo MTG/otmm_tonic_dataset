@@ -3,7 +3,7 @@ import json
 import numpy as np
 import logging
 
-
+logging.basicConfig()  # removes
 logger = logging.getLogger()
 logger.setLevel(logging.INFO)
 
@@ -27,8 +27,12 @@ def test_annotations(all_annos=None):
 
         # get annotated frequency and time interval
         anno_freqs = [anno['value'] for anno in rec_annos['annotations']]
-        anno_times = [anno['time_interval']
-                      for anno in rec_annos['annotations']]
+
+        try:
+            anno_times = [anno['time_interval']
+                          for anno in rec_annos['annotations']]
+        except KeyError:  # no time_interval key; handle pre-releases of v3.0.0
+            anno_times = [[] for anno in rec_annos['annotations']]
 
         if len(anno_freqs) == 1:
             # cannot validate with a single annotation
@@ -43,8 +47,11 @@ def test_annotations(all_annos=None):
                                  time_ignored_mbid)
 
         # warn missing tonic symbols
-        rec_missing_symbol = check_missing_tonic_symbol(rec_annos, rec_mbid,
-                                                        rec_missing_symbol)
+        try:
+            rec_missing_symbol = check_missing_tonic_symbol(
+                rec_annos, rec_mbid, rec_missing_symbol)
+        except KeyError:  # no tonic_symbol key; handle pre-releases of v3.0.0
+            pass
 
     # report recordings with a single annotation
     if num_single_anno != 0:
