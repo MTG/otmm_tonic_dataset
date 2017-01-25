@@ -123,34 +123,36 @@ Additional resources
 ------------
 Most of the recordings in this dataset cannot be shared due to copyright. However relevant features are already computed and they can be downloaded from the [Dunya-makam](dunya.compmusic.upf.edu/makam) after registration. Please refer to the API documentation (http://dunya.compmusic.upf.edu/docs/makam.html) to how to access the data. 
 
-During verification, several annotations are removed from time to time due to practical reasons. These recordings are listed in [removed.json](https://github.com/MTG/otmm_tonic_dataset/blob/master/removed.json) with the reason why each particular recording is removed.
+During verification, several annotations are removed from time to time due to practical reasons. These recordings are listed in [removed.json](https://github.com/MTG/otmm_tonic_dataset/blob/master/removed.json). You can inspect the json file to see why each particular recording is removed.
 
 Automatic validation
 ------------
 After each commit the annotations in the dataset are validated automatically by running several tests using Travis CI ([link](https://travis-ci.org/MTG/otmm_tonic_dataset)). Currently the tests are:
-1. Cross-checking whether all annotations of a recording are at maximum 20 cents apart from each other. Recordings with tonic varying over time are omitted.
-2. The removed annotations in [removed.json](https://github.com/MTG/otmm_tonic_dataset/blob/master/removed.json) are not re-introduced again.
+
+1. Cross-checking whether all annotations of a recording are at maximum 20 cents apart from each other. Recordings with tonic varying over time are omitted.  
+2. The removed annotations in [removed.json](https://github.com/MTG/otmm_tonic_dataset/blob/master/removed.json) are not re-introduced again.  
 
 The tests also report several warnings:
-1. The recordings with annotations, which do not have the tonic symbol written.
-2. The number of recordings, which only have a single annotation, hence not cross-checked
-3. The number of recordings, which have not been verified by a final human.
 
-These warning will only be shown in Travis CI, if there is a validation error separately. If you'd like to produce the warnings, you have to run the test manually in Python 2.7. To do so:
-- Open a terminal
-- Clone the Github repository to your local machine to the current directory
+1. The recordings with annotations, which do not have the tonic symbol written.  
+2. The number of recordings, which only have a single annotation, hence not cross-checked.  
+3. The number of recordings, which have not been verified by a final human.  
+
+These warning will only be shown in Travis CI, if there is a validation error separately. If you'd like to produce the warnings, you have to run the test manually in Python 2.7. To do so:  
+- Open a terminal  
+- Clone the Github repository to your local machine to the current directory  
 ```bash
 clone https://github.com/MTG/otmm_tonic_dataset.git
 ```
-- Enter to the folder of the repository
+- Enter to the folder of the repository  
 ```bash
 cd otmm_tonic_dataset
 ```
-- run "python"
+- run "python"  
 ```bash
 python
 ```
-- Then in the Python shell, run:
+- Then in the Python shell, run:  
 ```python
 from unittests.validate_annotations import test_annotations
 test_annotations()
