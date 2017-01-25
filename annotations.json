@@ -10060,7 +10060,7 @@
   }, 
   "d2ebf684-8b56-418c-866a-0fa6b8acda1e": {
     "mbid": "http://musicbrainz.org/recording/d2ebf684-8b56-418c-866a-0fa6b8acda1e", 
-    "verified": false, 
+    "verified": true, 
     "annotations": [
       {
         "time_interval": [], 
@@ -14477,16 +14477,6 @@
         "tonic_symbol": "G4", 
         "octave_wrapped": true, 
         "observations": ""
-      }, 
-      {
-        "time_interval": [], 
-        "music_score": "https://github.com/MTG/SymbTr/tree/v2.4.3/txt/nihavent--sarki--duyek--bir_ihtimal--osman_nihat_akin", 
-        "citation": "\u015eent\u00fcrk, S. (2016). Computational Analysis of Audio Recordings and Music Scores for the Description and Discovery of Ottoman-Turkish Makam Music. PhD thesis, Universitat Pompeu Fabra, Barcelona, Spain.", 
-        "value": 258.5, 
-        "source": "https://github.com/sertansenturk/tomato/blob/v0.9.1/tomato/joint/jointanalyzer.py#L90", 
-        "observations": "Tonic identified from the note models obtained by joint audio-score analysis", 
-        "tonic_symbol": "G4", 
-        "octave_wrapped": true
       }
     ]
   }, 
