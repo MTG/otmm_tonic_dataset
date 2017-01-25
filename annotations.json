@@ -1920,7 +1920,7 @@
         "value": 164.4, 
         "source": "https://github.com/sertansenturk/tomato/blob/v0.9.1/tomato/joint/jointanalyzer.py#L90", 
         "observations": "Tonic identified from the note models obtained by joint audio-score analysis", 
-        "tonic_symbol": "D5", 
+        "tonic_symbol": "D4", 
         "octave_wrapped": true
       }
     ]
