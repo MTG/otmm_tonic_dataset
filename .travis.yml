@@ -16,7 +16,7 @@ addons:
 # command to install dependencies
 install:
   - pip install -U pip pip-tools
-  - pip install -r unittests/requirements
+  - pip install -r extras/unittests/requirements
   - pip install flake8
   - pip install codeclimate-test-reporter
   - pip install codecov
