@@ -78,3 +78,23 @@ def check_mismatches(rec_mbid, anno_times, mismatch_mbid, time_ignored_mbid):
                  u"recording/{}".format(rec_mbid)
         logging.error(errstr)
         mismatch_mbid.append(rec_mbid)
+
+
+def test_tonic_symbols():
+    """
+    This test lists the recording, which have missing tonic symbol annotations.
+    They are reported as a warning, hence the test always succeed.
+    :return:
+    """
+    all_annos = json.load(open('annotations.json'))
+
+    logger.info("- Checking the existence of tonic symbols".format(
+        len(all_annos)))
+
+    for rec_mbid, rec_annos in all_annos.items():
+        for anno in rec_annos['annotations']:
+            if not anno['tonic_symbol']:
+                logging.warning(u"* Missing tonic symbol for {}".format(
+                    rec_mbid))
+
+    assert True
