@@ -37,52 +37,85 @@ An example recording is displayed below:
         1, 
         244
       ], 
-      "citation": "Şentürk, S., Gulati, S., and Serra, X. (2013). Score Informed Tonic Identification for Makam Music of Turkey. In Proceedings of 14th International Society for Music Information Retrieval Conference (ISMIR 2013), pages 175–180, Curitiba, Brazil.", 
-      "value": 175.7, 
-      "source": "https://github.com/MTG/otmm_tonic_dataset/blob/7f28c1a3261b9146042155ee5e0f9e644d9ebcfa/senturk2013karar_ismir/tonic_annotations.csv", 
+      "citation": "\u015eent\u00fcrk, S., Gulati, S., and Serra, X. (2013). Score Informed Tonic Identification for Makam Music of Turkey. In Proceedings of 14th International Society for Music Information Retrieval Conference (ISMIR 2013), pages 175\u2013180, Curitiba, Brazil.", 
       "tonic_symbol": "A4", 
+      "source": "https://github.com/MTG/otmm_tonic_dataset/blob/7f28c1a3261b9146042155ee5e0f9e644d9ebcfa/senturk2013karar_ismir/tonic_annotations.csv", 
+      "value": 175.7, 
       "octave_wrapped": true, 
-      "observations": "The musicians start playing (in Isfahan Peşrev) the tonic approximately at 175Hz."
-    },
+      "observations": "The musicians start playing (in Isfahan Pe\u015frev) the tonic approximately at 175Hz."
+    }, 
+    {
+      "time_interval": [
+        1, 
+        244
+      ], 
+      "citation": "Atl\u0131, H. S., Bozkurt, B., \u015eent\u00fcrk, S. (2015). A Method for Tonic Frequency Identification of Turkish Makam Music Recordings. In Proceedings of 5th International Workshop on Folk Music Analysis (FMA 2015), pages 119\u2013122, Paris, France.", 
+      "tonic_symbol": "A4", 
+      "source": "https://github.com/MTG/otmm_tonic_dataset/blob/7f28c1a3261b9146042155ee5e0f9e644d9ebcfa/atli2015tonic_fma/TD2.csv", 
+      "value": 175.0, 
+      "octave_wrapped": true, 
+      "observations": "The musicians start playing (in Isfahan Pe\u015frev) the tonic approximately at 175Hz."
+    }, 
     {
       "time_interval": [
         245, 
         324
       ], 
-      "citation": "Şentürk, S. (2016). Computational Analysis of Audio Recordings and Music Scores for the Description and Discovery of Ottoman-Turkish Makam Music. PhD thesis, Universitat Pompeu Fabra, Barcelona, Spain.", 
-      "value": 185.0, 
-      "source": "https://github.com/MTG/otmm_tonic_dataset/tree/senturk2016thesis", 
+      "citation": "\u015eent\u00fcrk, S. (2016). Computational Analysis of Audio Recordings and Music Scores for the Description and Discovery of Ottoman-Turkish Makam Music. PhD thesis, Universitat Pompeu Fabra, Barcelona, Spain.", 
       "tonic_symbol": "A4", 
+      "source": "https://github.com/MTG/otmm_tonic_dataset/tree/senturk2016thesis", 
+      "value": 185.0, 
       "octave_wrapped": true, 
-      "observations": "At the 245th second mark, the virtuosos somehow lose their coordination and the melodic intervals are mixed. The tonic played at the conclusion (e.g. the karar note) of the first performance (Isfahan Peşrev) is around 185 Hz."
+      "observations": "At the 245th second mark, the virtuosos somehow lose their coordination and the melodic intervals are mixed. The tonic played at the conclusion (e.g. the karar note) of the first performance (Isfahan Pe\u015frev) is around 185 Hz."
     }, 
     {
       "time_interval": [
         326, 
         866
       ], 
-      "citation": "Şentürk, S. (2016). Computational Analysis of Audio Recordings and Music Scores for the Description and Discovery of Ottoman-Turkish Makam Music. PhD thesis, Universitat Pompeu Fabra, Barcelona, Spain.", 
-      "value": 169.0, 
-      "source": "https://github.com/MTG/otmm_tonic_dataset/tree/senturk2016thesis", 
+      "citation": "\u015eent\u00fcrk, S. (2016). Computational Analysis of Audio Recordings and Music Scores for the Description and Discovery of Ottoman-Turkish Makam Music. PhD thesis, Universitat Pompeu Fabra, Barcelona, Spain.", 
       "tonic_symbol": "A4", 
+      "source": "https://github.com/MTG/otmm_tonic_dataset/tree/senturk2016thesis", 
+      "value": 169.0, 
       "octave_wrapped": true, 
       "observations": "Isfahan Sazsemaisi has a relatively stable tonic frequency at around 169Hz. Note that the historical recordings tend to have local pitch shifts which makes it hard to identify a precise or correct tonic frequency."
+    }, 
+    {
+      "time_interval": [], 
+      "music_score": "https://github.com/MTG/SymbTr/tree/v2.4.3/txt/isfahan--pesrev--devrikebir----tanburi_cemil_bey", 
+      "citation": "\u015eent\u00fcrk, S. (2016). Computational Analysis of Audio Recordings and Music Scores for the Description and Discovery of Ottoman-Turkish Makam Music. PhD thesis, Universitat Pompeu Fabra, Barcelona, Spain.", 
+      "value": 88.0, 
+      "source": "https://github.com/sertansenturk/tomato/blob/v0.9.1/tomato/joint/jointanalyzer.py#L90", 
+      "observations": "Tonic identified from the note models obtained by joint audio-score analysis", 
+      "tonic_symbol": "A4", 
+      "octave_wrapped": true
+    }, 
+    {
+      "time_interval": [], 
+      "music_score": "https://github.com/MTG/SymbTr/tree/v2.4.3/txt/isfahan--sazsemaisi--aksaksemai----tanburi_cemil_bey", 
+      "citation": "\u015eent\u00fcrk, S. (2016). Computational Analysis of Audio Recordings and Music Scores for the Description and Discovery of Ottoman-Turkish Makam Music. PhD thesis, Universitat Pompeu Fabra, Barcelona, Spain.", 
+      "value": 167.3, 
+      "source": "https://github.com/sertansenturk/tomato/blob/v0.9.1/tomato/joint/jointanalyzer.py#L90", 
+      "observations": "Tonic identified from the note models obtained by joint audio-score analysis", 
+      "tonic_symbol": "A4", 
+      "octave_wrapped": true
     }
+  ]
 }
 ```
 
 Below, each dictionary key is explained in detail:
 
-__mbid__: String. The URL of the recording MBID in [MusicBrainz](musicbrainz.org)
-__verified__: Boolean. "True" means all annotations in the recording have been verified by another person within a window of 20 cents. 20 cents is a 
-__annotations__: List. Holds the list of annotation dictionaries
-__time_interval__: 2 x 1 list of floats. The start and end time stamp of the tonic annotation in the recording. It is used when the tonic frequency (or symbol) changes within the performance. If there is no change, its value is empty.
-__citation__: String. Relevant research paper the annotation is taken from.
-__value__: Float. The annotation frequency in Hz.
-__source__: String. The URL where the annotation is originally taken from. It point to the relevant commit/tag and file, where applicable. Note that the value might be different from the original by the final verifier.
-__tonic_symbol__: String. Symbol of the tonic note according to the AEU theory. It is given in the [SymbTr](https://github.com/MTG/SymbTr) format, i.e. [letter][octave][accidental][comma]. Example: *B4b1*.
-__octave_wrapped__: Boolean. True, if the annotator did/could not consider the octave information. 
-__observations__: String. The comments provided by the annotator.
+__mbid__: String. The URL of the recording MBID in [MusicBrainz](musicbrainz.org)  
+__verified__: Boolean. "True" means all annotations in the recording have been verified by another person within a window of 20 cents to the actual tonic frequency. See _Seeger, C. (1958)_ for the musicological justification of the cent precision.  
+__annotations__: List. Holds the list of annotation dictionaries  
+__time_interval__: 2 x 1 list of floats. The start and end time stamp of the tonic annotation in the recording. It is used when the tonic frequency (or symbol) changes within the performance. If there is no change, its value is empty.  
+__citation__: String. Relevant research paper the annotation is taken from.  
+__value__: Float. The annotation frequency in Hz.  
+__source__: String. The URL where the annotation is originally taken from. It point to the relevant commit/tag and file, where applicable. Note that the value might be different from the original by the final verifier.  
+__tonic_symbol__: String. Symbol of the tonic note according to the AEU theory. It is given in the [SymbTr](https://github.com/MTG/SymbTr) format, i.e. [letter][octave][accidental][comma]. Example: *B4b1*.  
+__octave_wrapped__: Boolean. True, if the annotator did/could not consider the octave information.  
+__observations__: String. The comments provided by the annotator.  
 
 During verification, several annotations are removed from time to time due to practical reasons. These recordings are listed in [removed.json](https://github.com/MTG/otmm_tonic_dataset/blob/master/removed.json) with the reason why each particular recording is removed.
 
@@ -93,7 +126,7 @@ Most of the recordings in this dataset cannot be shared due to copyright. Howeve
 <a name="References"></a>References
 --------------------
 
-> C. Seeger. Prescriptive and descriptive music-writing. Music Quarterly, 64(2):184–195, 1958.
+> Seeger, C. (1958). Prescriptive and descriptive music-writing. Music Quarterly, 64(2):184–195.
 
 <a name="AnnotationSources"></a>Annotation Sources
 --------------------
