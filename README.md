@@ -107,14 +107,14 @@ An example recording is displayed below:
 Below, each dictionary key is explained in detail:
 
 __mbid__: String. The URL of the recording MBID in [MusicBrainz](musicbrainz.org)  
-__verified__: Boolean. "True" means all annotations in the recording have been verified by another person within a window of 20 cents to the actual tonic frequency. See _Seeger, C. (1958)_ for the musicological justification of the cent precision.  
+__verified__: Boolean. _True_ means all annotations in the recording have been verified by another person within a window of 20 cents to the actual tonic frequency. See _Seeger, C. (1958)_ for the musicological justification of the cent precision.  
 __annotations__: List. Holds the list of annotation dictionaries  
 __time_interval__: 2 x 1 list of floats. The start and end time stamp of the tonic annotation in the recording. It is used when the tonic frequency (or symbol) changes within the performance. If there is no change, its value is empty.  
 __citation__: String. Relevant research paper the annotation is taken from.  
 __value__: Float. The annotation frequency in Hz.  
 __source__: String. The URL where the annotation is originally taken from. It point to the relevant commit/tag and file, where applicable. Note that the value might be different from the original by the final verifier.  
 __tonic_symbol__: String. Symbol of the tonic note according to the AEU theory. It is given in the [SymbTr](https://github.com/MTG/SymbTr) format, i.e. [letter][octave][accidental][comma]. Example: *B4b1*.  
-__octave_wrapped__: Boolean. True, if the annotator did/could not consider the octave information.  
+__octave_wrapped__: Boolean. _True_, if the annotator did/could not consider the octave information.  
 __observations__: String. The comments provided by the annotator.  
 
 During verification, several annotations are removed from time to time due to practical reasons. These recordings are listed in [removed.json](https://github.com/MTG/otmm_tonic_dataset/blob/master/removed.json) with the reason why each particular recording is removed.
