@@ -23,7 +23,7 @@ install:
 
 # command to run before the tests
 before_script:
-  - "flake8 unittests"
+  - "flake8 extras/unittests"
 
 # command to run tests
 script: 
