@@ -18230,7 +18230,7 @@
       {
         "time_interval": [], 
         "citation": "Karakurt, A., \u015eent\u00fcrk S., & Serra X. (2016). MORTY: A Toolbox for Mode Recognition and Tonic Identification. In Proceedings of 3rd International Digital Libraries for Musicology Workshop (DLfM 2016). pages 9-16, New York, NY, USA", 
-        "value": 168.2, 
+        "value": 169.7, 
         "source": "https://github.com/MTG/otmm_makam_recognition_dataset/blob/216a7b30632032b2a8c2692d5f5895bedbc743e0/annotations.json", 
         "tonic_symbol": "A4", 
         "octave_wrapped": true, 
