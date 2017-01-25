@@ -8,9 +8,11 @@ logger = logging.getLogger()
 logger.setLevel(logging.INFO)
 
 
-def test_annotations():
-    # load the tonic annotations
-    all_annos = json.load(open('annotations.json'))
+def test_annotations(all_annos=None):
+    # load the tonic annotations if not specified externally
+    if all_annos is None:
+        all_annos = json.load(open('annotations.json'))
+
     eval_dict = {}
     mismatch_mbid = []
     time_ignored_mbid = []  # ignored recordings due to tonic changing in time
