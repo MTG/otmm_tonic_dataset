@@ -130,7 +130,7 @@ Automatic validation
 After each commit the annotations in the dataset are validated automatically by running several tests using Travis CI ([link](https://travis-ci.org/MTG/otmm_tonic_dataset)). Currently the tests are:
 
 1. Cross-checking whether all annotations of a recording are at maximum 20 cents apart from each other. Recordings with tonic varying over time are omitted.  
-2. The removed annotations in [removed.json](https://github.com/MTG/otmm_tonic_dataset/blob/master/removed.json) are not re-introduced again.  
+2. The removed annotations in [removed.json](https://github.com/MTG/otmm_tonic_dataset/blob/master/removed.json) are not re-introduced by mistake.  
 
 The tests also report several warnings:
 
@@ -138,9 +138,10 @@ The tests also report several warnings:
 2. The number of recordings, which only have a single annotation, hence not cross-checked.  
 3. The number of recordings, which have not been verified by a final human.  
 
-These warning will only be shown in Travis CI, if there is a validation error separately. If you'd like to produce the warnings, you have to run the test manually in Python 2.7. To do so:  
+These warning will only be shown in Travis CI, if there is a validation error separately. If you'd like to produce the warnings, you have to run the test manually in Python 2.7. To do so:
+
 - Open a terminal  
-- Clone the Github repository to your local machine to the current directory  
+- Clone the Github repository to your local machine into the current directory  (or wherever you want)
 ```bash
 clone https://github.com/MTG/otmm_tonic_dataset.git
 ```
