@@ -16,6 +16,7 @@ def test_annotations():
     time_ignored_mbid = []  # ignored recordings due to tonic changing in time
     num_verified = 0
     num_single_anno = 0
+    rec_missing_symbol = []
 
     logger.info("- Validating {:d} recordings".format(len(all_annos)))
 
@@ -40,17 +41,27 @@ def test_annotations():
                                  time_ignored_mbid)
 
         # warn missing tonic symbols
-        num_missing_symbol = check_missing_tonic_symbol(rec_annos, rec_mbid)
+        rec_missing_symbol = check_missing_tonic_symbol(rec_annos, rec_mbid,
+                                                        rec_missing_symbol)
 
+    # report recordings with a single annotation
     if num_single_anno != 0:
         logging.warning(u"- {:d}/{:d} recordings have a single annotation. "
                         u"They can not be validated.".format(num_single_anno,
                                                              len(all_annos)))
-    if num_missing_symbol > 0:
-        logging.warning(u"- Annotations in {:d}/{:d} recordings have missing "
-                        u"tonic symbol.".format(num_missing_symbol,
-                                                len(all_annos)))
 
+    # report missing tonic symbols
+    logging.error(len(rec_missing_symbol))
+    if rec_missing_symbol:
+        for rr in rec_missing_symbol:
+            logging.warning(u"* Missing tonic symbol for http://dunya."
+                            u"compmusic.upf.edu/makam/recording/{}".format(rr))
+        logging.warning(
+            u"- Annotations in {:d}/{:d} recordings have missing "
+            u"tonic symbol.".format(len(rec_missing_symbol),
+                                    len(all_annos)))
+
+    # report not verified recordings
     if num_verified != len(all_annos):
         logging.warning(u"- {:d}/{:d} recordings are not verified".format(
             len(all_annos) - num_verified, len(all_annos)))
@@ -59,15 +70,14 @@ def test_annotations():
                               u"inconsistent".format(len(mismatch_mbid))
 
 
-def check_missing_tonic_symbol(rec_annos, rec_mbid):
+def check_missing_tonic_symbol(rec_annos, rec_mbid, rec_missing_symbol):
     anno_symbols = [anno['tonic_symbol']
                     for anno in rec_annos['annotations']]
-    num_missing_symbol = 0
+
     if not all(anno_sym for anno_sym in anno_symbols):
-        num_missing_symbol += 1
-        logging.warning(u"* Missing tonic symbol for http://dunya.compmusic."
-                        u"upf.edu/makam/recording/{}".format(rec_mbid))
-    return num_missing_symbol
+        rec_missing_symbol.append(rec_mbid)
+
+    return rec_missing_symbol
 
 
 def cross_evaluate_annotations(anno_freqs):
