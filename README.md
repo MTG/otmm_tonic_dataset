@@ -22,9 +22,9 @@ For detailed statistics, please refer to the the Jupyter notebook, [extras/stati
 
 Erratum
 ------------
-In November 2016, we discovered several errors in the tonic annotations. Since then, 50 percent of the recordings have been verified by a human annotator and/or by the score-informed tonic identification method proposed in (Şentürk, S., Gulati, S., and Serra, X., 2013). This method is reported to provide near perfect results (>99% on paper's dataset). In addition, the annotations of each recording are automatically cross-validated among each other using continous integration (see: the section [Automatic Validation](#automatic-validation)). 
+In November 2016, we discovered several errors in the tonic annotations. Since then, approximately 45 percent of the recordings have been verified by a human annotator and/or by the score-informed tonic identification method proposed in (Şentürk, S., Gulati, S., and Serra, X., 2013). This method is reported to provide near perfect results (>99% on paper's dataset). In addition, the annotations of each recording are cross-validated automatically among each other using continous integration (see: the section [Automatic Validation](#automatic-validation) for details). 
 
-So far, we have changed ~90 annotations out of approximately 2100. This correspond to a human error of 4.3%, which is acceptable given the rigor of the task. Note that most of the fixes are simply adjusting the annotated tonic frequency into a finer precision (<20 cents). 
+So far, we have validated 2000 annotations and changed around 100 of them. This correspond to a human error of 5%, which is acceptable given the rigor of the task. Note that most of the fixes have been simply adjusting the annotated tonic frequency into a finer precision (<20 cents). 
 
 Annotation structure
 ------------
