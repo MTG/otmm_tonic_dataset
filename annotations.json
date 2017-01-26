@@ -13962,7 +13962,7 @@
   }, 
   "132cb194-c083-4002-9cc9-720b8cbfc61c": {
     "mbid": "http://musicbrainz.org/recording/132cb194-c083-4002-9cc9-720b8cbfc61c", 
-    "verified": false, 
+    "verified": true, 
     "annotations": [
       {
         "time_interval": [], 
@@ -15412,7 +15412,7 @@
   }, 
   "af5e7ec4-7c21-4a5c-80e4-7f11db588631": {
     "mbid": "http://musicbrainz.org/recording/af5e7ec4-7c21-4a5c-80e4-7f11db588631", 
-    "verified": false, 
+    "verified": true, 
     "annotations": [
       {
         "time_interval": [], 
@@ -18611,7 +18611,7 @@
   }, 
   "e54a1762-9464-45c6-b399-0fb3ec6aff67": {
     "mbid": "http://musicbrainz.org/recording/e54a1762-9464-45c6-b399-0fb3ec6aff67", 
-    "verified": false, 
+    "verified": true, 
     "annotations": [
       {
         "time_interval": [], 
@@ -20088,7 +20088,7 @@
   }, 
   "f36261b0-2b0e-47dc-9477-91e555d41226": {
     "mbid": "http://musicbrainz.org/recording/f36261b0-2b0e-47dc-9477-91e555d41226", 
-    "verified": false, 
+    "verified": true, 
     "annotations": [
       {
         "time_interval": [], 
@@ -22508,7 +22508,7 @@
   }, 
   "c6f29931-6281-4c55-98fe-159e9873f496": {
     "mbid": "http://musicbrainz.org/recording/c6f29931-6281-4c55-98fe-159e9873f496", 
-    "verified": false, 
+    "verified": true, 
     "annotations": [
       {
         "time_interval": [], 
@@ -23933,7 +23933,7 @@
   }, 
   "a527a6bf-3ddd-4622-abb8-f93d80848e6c": {
     "mbid": "http://musicbrainz.org/recording/a527a6bf-3ddd-4622-abb8-f93d80848e6c", 
-    "verified": false, 
+    "verified": true, 
     "annotations": [
       {
         "time_interval": [], 
@@ -24555,7 +24555,7 @@
   }, 
   "3a2da49a-bf3e-4d90-8033-a9b221cbb292": {
     "mbid": "http://musicbrainz.org/recording/3a2da49a-bf3e-4d90-8033-a9b221cbb292", 
-    "verified": false, 
+    "verified": true, 
     "annotations": [
       {
         "time_interval": [], 
@@ -25084,7 +25084,7 @@
   }, 
   "a7a9c147-695d-423a-a0ad-96cd373b4ab5": {
     "mbid": "http://musicbrainz.org/recording/a7a9c147-695d-423a-a0ad-96cd373b4ab5", 
-    "verified": false, 
+    "verified": true, 
     "annotations": [
       {
         "time_interval": [], 
@@ -38339,7 +38339,7 @@
   }, 
   "91b39d5b-7e8b-49fb-8e12-24381c364460": {
     "mbid": "http://musicbrainz.org/recording/91b39d5b-7e8b-49fb-8e12-24381c364460", 
-    "verified": false, 
+    "verified": true, 
     "annotations": [
       {
         "time_interval": [], 
@@ -39160,7 +39160,7 @@
   }, 
   "c3716445-ad74-459c-8fda-16d47d24f85a": {
     "mbid": "http://musicbrainz.org/recording/c3716445-ad74-459c-8fda-16d47d24f85a", 
-    "verified": false, 
+    "verified": true, 
     "annotations": [
       {
         "time_interval": [], 
@@ -40340,7 +40340,7 @@
   }, 
   "430eb7d0-5326-4883-ad04-a6c8f2383ee9": {
     "mbid": "http://musicbrainz.org/recording/430eb7d0-5326-4883-ad04-a6c8f2383ee9", 
-    "verified": false, 
+    "verified": true, 
     "annotations": [
       {
         "time_interval": [], 

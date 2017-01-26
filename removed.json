@@ -63,5 +63,15 @@
     "comment": "More than one makam with different tonic symbols are annotated", 
     "remove_commit": "https://github.com/MTG/otmm_tonic_dataset/commit/18f62f49e6f27b9433fb88096245dba4c53917ac", 
     "recording_mbid": "http://musicbrainz.org/recording/c1890e4e-9bbf-4006-a27a-b5c4f1d02fe7"
+  }, 
+  "1e716ab1-3501-43c8-807b-4fc6180a91f1": {
+    "comment": "Playback speed and hence tonic frequency is gradually increasing", 
+    "remove_commit": "https://github.com/MTG/otmm_tonic_dataset/commit/53ed02a3eab93d348c8c1c1879039188e476bf4d", 
+    "recording_mbid": "http://musicbrainz.org/recording/1e716ab1-3501-43c8-807b-4fc6180a91f1"
+  }, 
+  "5a44e069-3b0e-4a28-b515-b7b257b6373a": {
+    "comment": "The tonic frequency of the vocal and the tonic frequency of the ney do not belong to the same pitch class", 
+    "remove_commit": "https://github.com/MTG/otmm_tonic_dataset/commit/17d78b72b4f2c11c25e564ae8a9571bf512f588b", 
+    "recording_mbid": "http://musicbrainz.org/recording/5a44e069-3b0e-4a28-b515-b7b257b6373a"
   }
 }
