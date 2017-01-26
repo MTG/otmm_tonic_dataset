@@ -21973,16 +21973,7 @@
         "tonic_symbol": "D4", 
         "octave_wrapped": false, 
         "observations": ""
-      }, 
-      {
-        "time_interval": [], 
-        "citation": "\u015eent\u00fcrk, S. (2016). Computational Analysis of Audio Recordings and Music Scores for the Description and Discovery of Ottoman-Turkish Makam Music. PhD thesis, Universitat Pompeu Fabra, Barcelona, Spain.", 
-        "value": 275.3, 
-        "source": "https://github.com/sertansenturk/tomato/blob/v0.9.1/tomato/joint/jointanalyzer.py#L90", 
-        "tonic_symbol": "D4", 
-        "octave_wrapped": true, 
-        "observations": "Tonic identified from the note models obtained by joint audio-score analysis"
-      }, 
+      },
       {
         "time_interval": [], 
         "music_score": "https://github.com/MTG/SymbTr/tree/v2.4.3/txt/ferahfeza--sazsemaisi--aksaksemai----serif_muhittin_targan", 
@@ -22570,16 +22561,7 @@
         "tonic_symbol": "A4", 
         "octave_wrapped": true, 
         "observations": ""
-      }, 
-      {
-        "time_interval": [], 
-        "citation": "\u015eent\u00fcrk, S. (2016). Computational Analysis of Audio Recordings and Music Scores for the Description and Discovery of Ottoman-Turkish Makam Music. PhD thesis, Universitat Pompeu Fabra, Barcelona, Spain.", 
-        "value": 220.9, 
-        "source": "https://github.com/sertansenturk/tomato/blob/v0.9.1/tomato/joint/jointanalyzer.py#L90", 
-        "tonic_symbol": "A4", 
-        "octave_wrapped": true, 
-        "observations": "Tonic identified from the note models obtained by joint audio-score analysis"
-      }, 
+      },
       {
         "time_interval": [], 
         "music_score": "https://github.com/MTG/SymbTr/tree/v2.4.3/txt/neva--pesrev--devrikebir----tanburi_cemil_bey", 
@@ -22796,16 +22778,7 @@
         "tonic_symbol": "G4", 
         "octave_wrapped": true, 
         "observations": ""
-      }, 
-      {
-        "time_interval": [], 
-        "citation": "\u015eent\u00fcrk, S. (2016). Computational Analysis of Audio Recordings and Music Scores for the Description and Discovery of Ottoman-Turkish Makam Music. PhD thesis, Universitat Pompeu Fabra, Barcelona, Spain.", 
-        "value": 131.0, 
-        "source": "https://github.com/sertansenturk/tomato/blob/v0.9.1/tomato/joint/jointanalyzer.py#L90", 
-        "tonic_symbol": "G4", 
-        "octave_wrapped": true, 
-        "observations": "Tonic identified from the note models obtained by joint audio-score analysis"
-      }, 
+      },
       {
         "time_interval": [], 
         "music_score": "https://github.com/MTG/SymbTr/tree/v2.4.3/txt/rast--sarki--duyek--bana_nasil--alaeddin_yavasca", 
@@ -25029,15 +25002,6 @@
       }, 
       {
         "time_interval": [], 
-        "citation": "\u015eent\u00fcrk, S. (2016). Computational Analysis of Audio Recordings and Music Scores for the Description and Discovery of Ottoman-Turkish Makam Music. PhD thesis, Universitat Pompeu Fabra, Barcelona, Spain.", 
-        "value": 387.0, 
-        "source": "https://github.com/sertansenturk/tomato/blob/v0.9.1/tomato/joint/jointanalyzer.py#L90", 
-        "tonic_symbol": "F4", 
-        "octave_wrapped": true, 
-        "observations": "Tonic identified from the note models obtained by joint audio-score analysis"
-      }, 
-      {
-        "time_interval": [], 
         "music_score": "https://github.com/MTG/SymbTr/tree/v2.4.3/txt/acemasiran--sazsemaisi--aksaksemai----misirli_udi_ibrahim_efendi", 
         "citation": "\u015eent\u00fcrk, S. (2016). Computational Analysis of Audio Recordings and Music Scores for the Description and Discovery of Ottoman-Turkish Makam Music. PhD thesis, Universitat Pompeu Fabra, Barcelona, Spain.", 
         "value": 387.0, 
@@ -25995,16 +25959,7 @@
         "tonic_symbol": "B4b1", 
         "octave_wrapped": true, 
         "observations": ""
-      }, 
-      {
-        "time_interval": [], 
-        "citation": "\u015eent\u00fcrk, S. (2016). Computational Analysis of Audio Recordings and Music Scores for the Description and Discovery of Ottoman-Turkish Makam Music. PhD thesis, Universitat Pompeu Fabra, Barcelona, Spain.", 
-        "value": 172.9, 
-        "source": "https://github.com/sertansenturk/tomato/blob/v0.9.1/tomato/joint/jointanalyzer.py#L90", 
-        "tonic_symbol": "B4b1", 
-        "octave_wrapped": true, 
-        "observations": "Tonic identified from the note models obtained by joint audio-score analysis"
-      }, 
+      },
       {
         "time_interval": [], 
         "music_score": "https://github.com/MTG/SymbTr/tree/v2.4.3/txt/huzzam--sarki--ciftesofyan--ey_gul-i--dede_efendi", 
@@ -26029,16 +25984,7 @@
         "tonic_symbol": "B4b1", 
         "octave_wrapped": true, 
         "observations": ""
-      }, 
-      {
-        "time_interval": [], 
-        "citation": "\u015eent\u00fcrk, S. (2016). Computational Analysis of Audio Recordings and Music Scores for the Description and Discovery of Ottoman-Turkish Makam Music. PhD thesis, Universitat Pompeu Fabra, Barcelona, Spain.", 
-        "value": 212.5, 
-        "source": "https://github.com/sertansenturk/tomato/blob/v0.9.1/tomato/joint/jointanalyzer.py#L90", 
-        "tonic_symbol": "B4b1", 
-        "octave_wrapped": true, 
-        "observations": "Tonic identified from the note models obtained by joint audio-score analysis"
-      }, 
+      },
       {
         "time_interval": [], 
         "music_score": "https://github.com/MTG/SymbTr/tree/v2.4.3/txt/segah--sarki--curcuna--olmaz_ilac--haci_arif_bey", 
@@ -30084,15 +30030,6 @@
       }, 
       {
         "time_interval": [], 
-        "citation": "\u015eent\u00fcrk, S. (2016). Computational Analysis of Audio Recordings and Music Scores for the Description and Discovery of Ottoman-Turkish Makam Music. PhD thesis, Universitat Pompeu Fabra, Barcelona, Spain.", 
-        "value": 166.9, 
-        "source": "https://github.com/sertansenturk/tomato/blob/v0.9.1/tomato/joint/jointanalyzer.py#L90", 
-        "tonic_symbol": "A4", 
-        "octave_wrapped": true, 
-        "observations": "Tonic identified from the note models obtained by joint audio-score analysis"
-      }, 
-      {
-        "time_interval": [], 
         "music_score": "https://github.com/MTG/SymbTr/tree/v2.4.3/txt/ussak--sazsemaisi--aksaksemai----neyzen_aziz_dede", 
         "citation": "\u015eent\u00fcrk, S. (2016). Computational Analysis of Audio Recordings and Music Scores for the Description and Discovery of Ottoman-Turkish Makam Music. PhD thesis, Universitat Pompeu Fabra, Barcelona, Spain.", 
         "value": 166.9, 
@@ -30224,16 +30161,7 @@
         "tonic_symbol": "F4#4", 
         "octave_wrapped": true, 
         "observations": ""
-      }, 
-      {
-        "time_interval": [], 
-        "citation": "\u015eent\u00fcrk, S. (2016). Computational Analysis of Audio Recordings and Music Scores for the Description and Discovery of Ottoman-Turkish Makam Music. PhD thesis, Universitat Pompeu Fabra, Barcelona, Spain.", 
-        "value": 119.4, 
-        "source": "https://github.com/sertansenturk/tomato/blob/v0.9.1/tomato/joint/jointanalyzer.py#L90", 
-        "tonic_symbol": "F4#4", 
-        "octave_wrapped": true, 
-        "observations": "Tonic identified from the note models obtained by joint audio-score analysis"
-      }, 
+      },
       {
         "time_interval": [], 
         "music_score": "https://github.com/MTG/SymbTr/tree/v2.4.3/txt/evic--sarki--agiraksak--bulbul_asa--dellalzade_haci_ismail_efendi", 
@@ -30723,16 +30651,7 @@
         "tonic_symbol": "B4b1", 
         "octave_wrapped": true, 
         "observations": ""
-      }, 
-      {
-        "time_interval": [], 
-        "citation": "\u015eent\u00fcrk, S. (2016). Computational Analysis of Audio Recordings and Music Scores for the Description and Discovery of Ottoman-Turkish Makam Music. PhD thesis, Universitat Pompeu Fabra, Barcelona, Spain.", 
-        "value": 137.8, 
-        "source": "https://github.com/sertansenturk/tomato/blob/v0.9.1/tomato/joint/jointanalyzer.py#L90", 
-        "tonic_symbol": "B4b1", 
-        "octave_wrapped": true, 
-        "observations": "Tonic identified from the note models obtained by joint audio-score analysis"
-      }, 
+      },
       {
         "time_interval": [], 
         "music_score": "https://github.com/MTG/SymbTr/tree/v2.4.3/txt/huzzam--sarki--agiraksak--ben_esir-i--udi_arsak_comlekciyan", 
@@ -30881,16 +30800,7 @@
         "tonic_symbol": "B4b1", 
         "octave_wrapped": true, 
         "observations": ""
-      }, 
-      {
-        "time_interval": [], 
-        "citation": "\u015eent\u00fcrk, S. (2016). Computational Analysis of Audio Recordings and Music Scores for the Description and Discovery of Ottoman-Turkish Makam Music. PhD thesis, Universitat Pompeu Fabra, Barcelona, Spain.", 
-        "value": 139.1, 
-        "source": "https://github.com/sertansenturk/tomato/blob/v0.9.1/tomato/joint/jointanalyzer.py#L90", 
-        "tonic_symbol": "B4b1", 
-        "octave_wrapped": true, 
-        "observations": "Tonic identified from the note models obtained by joint audio-score analysis"
-      }, 
+      },
       {
         "time_interval": [], 
         "music_score": "https://github.com/MTG/SymbTr/tree/v2.4.3/txt/segah--yuruksemai--yuruksemai--etti_o_guzel--ebubekir_aga", 
@@ -30970,16 +30880,7 @@
         "tonic_symbol": "A4", 
         "octave_wrapped": true, 
         "observations": ""
-      }, 
-      {
-        "time_interval": [], 
-        "citation": "\u015eent\u00fcrk, S. (2016). Computational Analysis of Audio Recordings and Music Scores for the Description and Discovery of Ottoman-Turkish Makam Music. PhD thesis, Universitat Pompeu Fabra, Barcelona, Spain.", 
-        "value": 163.2, 
-        "source": "https://github.com/sertansenturk/tomato/blob/v0.9.1/tomato/joint/jointanalyzer.py#L90", 
-        "tonic_symbol": "A4", 
-        "octave_wrapped": true, 
-        "observations": "Tonic identified from the note models obtained by joint audio-score analysis"
-      }, 
+      },
       {
         "time_interval": [], 
         "music_score": "https://github.com/MTG/SymbTr/tree/v2.4.3/txt/beyati--sarki--ciftesofyan--cikalim_sayd_u--tanburi_mustafa_cavus", 
@@ -35132,16 +35033,7 @@
         "tonic_symbol": "A4", 
         "octave_wrapped": true, 
         "observations": ""
-      }, 
-      {
-        "time_interval": [], 
-        "citation": "\u015eent\u00fcrk, S. (2016). Computational Analysis of Audio Recordings and Music Scores for the Description and Discovery of Ottoman-Turkish Makam Music. PhD thesis, Universitat Pompeu Fabra, Barcelona, Spain.", 
-        "value": 147.0, 
-        "source": "https://github.com/sertansenturk/tomato/blob/v0.9.1/tomato/joint/jointanalyzer.py#L90", 
-        "tonic_symbol": "A4", 
-        "octave_wrapped": true, 
-        "observations": "Tonic identified from the note models obtained by joint audio-score analysis"
-      }, 
+      },
       {
         "time_interval": [], 
         "music_score": "https://github.com/MTG/SymbTr/tree/v2.4.3/txt/hicaz_humayun--beste--hafif--olmada_diller--abdulhalim_aga", 
@@ -35737,16 +35629,7 @@
         "tonic_symbol": "A4", 
         "octave_wrapped": false, 
         "observations": ""
-      }, 
-      {
-        "time_interval": [], 
-        "citation": "\u015eent\u00fcrk, S. (2016). Computational Analysis of Audio Recordings and Music Scores for the Description and Discovery of Ottoman-Turkish Makam Music. PhD thesis, Universitat Pompeu Fabra, Barcelona, Spain.", 
-        "value": 165.1, 
-        "source": "https://github.com/sertansenturk/tomato/blob/v0.9.1/tomato/joint/jointanalyzer.py#L90", 
-        "tonic_symbol": "A4", 
-        "octave_wrapped": true, 
-        "observations": "Tonic identified from the note models obtained by joint audio-score analysis"
-      }, 
+      },
       {
         "time_interval": [], 
         "music_score": "https://github.com/MTG/SymbTr/tree/v2.4.3/txt/acemkurdi--pesrev--fahte----muallim_ismail_hakki_bey", 
@@ -35984,16 +35867,7 @@
         "tonic_symbol": "A4", 
         "octave_wrapped": true, 
         "observations": ""
-      }, 
-      {
-        "time_interval": [], 
-        "citation": "\u015eent\u00fcrk, S. (2016). Computational Analysis of Audio Recordings and Music Scores for the Description and Discovery of Ottoman-Turkish Makam Music. PhD thesis, Universitat Pompeu Fabra, Barcelona, Spain.", 
-        "value": 224.2, 
-        "source": "https://github.com/sertansenturk/tomato/blob/v0.9.1/tomato/joint/jointanalyzer.py#L90", 
-        "tonic_symbol": "A4", 
-        "octave_wrapped": true, 
-        "observations": "Tonic identified from the note models obtained by joint audio-score analysis"
-      }, 
+      },
       {
         "time_interval": [], 
         "music_score": "https://github.com/MTG/SymbTr/tree/v2.4.3/txt/huseyni--sarki--musemmen--hem_cemalin--zeki_duygulu", 
@@ -37966,16 +37840,7 @@
         "tonic_symbol": "A4", 
         "octave_wrapped": true, 
         "observations": ""
-      }, 
-      {
-        "time_interval": [], 
-        "citation": "\u015eent\u00fcrk, S. (2016). Computational Analysis of Audio Recordings and Music Scores for the Description and Discovery of Ottoman-Turkish Makam Music. PhD thesis, Universitat Pompeu Fabra, Barcelona, Spain.", 
-        "value": 135.6, 
-        "source": "https://github.com/sertansenturk/tomato/blob/v0.9.1/tomato/joint/jointanalyzer.py#L90", 
-        "tonic_symbol": "A4", 
-        "octave_wrapped": true, 
-        "observations": "Tonic identified from the note models obtained by joint audio-score analysis"
-      }, 
+      },
       {
         "time_interval": [], 
         "music_score": "https://github.com/MTG/SymbTr/tree/v2.4.3/txt/isfahan--sazsemaisi--aksaksemai----tanburi_cemil_bey", 
@@ -38229,16 +38094,7 @@
         "tonic_symbol": "A4", 
         "octave_wrapped": true, 
         "observations": ""
-      }, 
-      {
-        "time_interval": [], 
-        "citation": "\u015eent\u00fcrk, S. (2016). Computational Analysis of Audio Recordings and Music Scores for the Description and Discovery of Ottoman-Turkish Makam Music. PhD thesis, Universitat Pompeu Fabra, Barcelona, Spain.", 
-        "value": 203.1, 
-        "source": "https://github.com/sertansenturk/tomato/blob/v0.9.1/tomato/joint/jointanalyzer.py#L90", 
-        "tonic_symbol": "A4", 
-        "octave_wrapped": true, 
-        "observations": "Tonic identified from the note models obtained by joint audio-score analysis"
-      }, 
+      },
       {
         "time_interval": [], 
         "music_score": "https://github.com/MTG/SymbTr/tree/v2.4.3/txt/hicaz_humayun--sarki--nimsofyan--kapildim_gidiyorum--kaptanzade_ali_riza_bey", 
@@ -38582,16 +38438,7 @@
         "tonic_symbol": "A4", 
         "octave_wrapped": true, 
         "observations": ""
-      }, 
-      {
-        "time_interval": [], 
-        "citation": "\u015eent\u00fcrk, S. (2016). Computational Analysis of Audio Recordings and Music Scores for the Description and Discovery of Ottoman-Turkish Makam Music. PhD thesis, Universitat Pompeu Fabra, Barcelona, Spain.", 
-        "value": 248.1, 
-        "source": "https://github.com/sertansenturk/tomato/blob/v0.9.1/tomato/joint/jointanalyzer.py#L90", 
-        "tonic_symbol": "A4", 
-        "octave_wrapped": true, 
-        "observations": "Tonic identified from the note models obtained by joint audio-score analysis"
-      }, 
+      },
       {
         "time_interval": [], 
         "music_score": "https://github.com/MTG/SymbTr/tree/v2.4.3/txt/hicaz--sarki--aksak--hastayim_yasiyorum--udi_hrant", 
@@ -40935,16 +40782,7 @@
         "tonic_symbol": "G4", 
         "octave_wrapped": true, 
         "observations": ""
-      }, 
-      {
-        "time_interval": [], 
-        "citation": "\u015eent\u00fcrk, S. (2016). Computational Analysis of Audio Recordings and Music Scores for the Description and Discovery of Ottoman-Turkish Makam Music. PhD thesis, Universitat Pompeu Fabra, Barcelona, Spain.", 
-        "value": 440.3, 
-        "source": "https://github.com/sertansenturk/tomato/blob/v0.9.1/tomato/joint/jointanalyzer.py#L90", 
-        "tonic_symbol": "G4", 
-        "octave_wrapped": true, 
-        "observations": "Tonic identified from the note models obtained by joint audio-score analysis"
-      }, 
+      },
       {
         "time_interval": [], 
         "music_score": "https://github.com/MTG/SymbTr/tree/v2.4.3/txt/mahur--pesrev--hafif----rauf_yekta", 
@@ -42131,16 +41969,7 @@
         "tonic_symbol": "G4", 
         "octave_wrapped": true, 
         "observations": ""
-      }, 
-      {
-        "time_interval": [], 
-        "citation": "\u015eent\u00fcrk, S. (2016). Computational Analysis of Audio Recordings and Music Scores for the Description and Discovery of Ottoman-Turkish Makam Music. PhD thesis, Universitat Pompeu Fabra, Barcelona, Spain.", 
-        "value": 110.6, 
-        "source": "https://github.com/sertansenturk/tomato/blob/v0.9.1/tomato/joint/jointanalyzer.py#L90", 
-        "tonic_symbol": "G4", 
-        "octave_wrapped": true, 
-        "observations": "Tonic identified from the note models obtained by joint audio-score analysis"
-      }, 
+      },
       {
         "time_interval": [], 
         "music_score": "https://github.com/MTG/SymbTr/tree/v2.4.3/txt/kurdilihicazkar--sarki--yuruksemai--sen_gozlerine--misirli_udi_ibrahim_efendi", 
