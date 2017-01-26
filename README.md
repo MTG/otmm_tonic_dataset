@@ -122,6 +122,7 @@ __source__: String. The URL where the annotation is originally taken from. It po
 __tonic_symbol__: String. Symbol of the tonic note according to the AEU theory. It is given in the [SymbTr](https://github.com/MTG/SymbTr) format, i.e. [letter][octave][accidental][comma]. Example: *B4b1*.  
 __octave_wrapped__: Boolean. _True_, if the annotator did/could not consider the octave information.  
 __observations__: String. The comments provided by the annotator.  
+__music_score__: String (joint audio-score analysis only). The name of the SymbTr-score used in the joint analysis
 
 Additional resources
 ------------
