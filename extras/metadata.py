@@ -40,21 +40,23 @@ class MetadataWrapper(object):
     @staticmethod
     def solo_instrumental(instrument_vocal_list):
         return len(instrument_vocal_list) == 1 and \
-               instrument_vocal_list[0] == 'instrument'
+               instrument_vocal_list[0] in ['instrument', 'performer']
 
     # Duo Instrumental
     # There is no vocal and only two instrument
     @staticmethod
     def duo_instrumental(instrument_vocal_list):
         return len(instrument_vocal_list) == 2 and \
-               all(iv == 'instrument' for iv in instrument_vocal_list)
+               all(iv in ['instrument', 'performer']
+                   for iv in instrument_vocal_list)
 
     # Trio Instrumental
     # There is no vocal and only three instrument
     @staticmethod
     def trio_instrumental(instrument_vocal_list):
         return len(instrument_vocal_list) == 3 and \
-               all(iv == 'instrument' for iv in instrument_vocal_list)
+               all(iv in ['instrument', 'performer']
+                   for iv in instrument_vocal_list)
 
     # Ensemble
     # There is no vocal and many instruments OR Orchestra relation
@@ -68,7 +70,7 @@ class MetadataWrapper(object):
     @classmethod
     def check_voice_instrumentation(cls, instrument_vocal_list):
         assert all(
-            [iv in ['vocal', 'instrument', 'performing orchestra',
+            [iv in ['vocal', 'instrument', 'performing orchestra', 'performer',
                     'choir_vocals'] for iv in instrument_vocal_list]), \
             "Unknown artist attrib."
         if cls.solo_instrumental(instrument_vocal_list):
@@ -100,27 +102,27 @@ class MetadataWrapper(object):
 
         for ii, m in enumerate(mbids):
             save_file = os.path.join('..', 'metadata', m+'.json')
+            if not os.path.exists(save_file):
+                print('{0:d}: {1:s}'.format(ii, m))
+                # Get audio metadata
+                audio_meta = audio_metadata.from_musicbrainz(m)
 
-            print('{0:d}: {1:s}'.format(ii, m))
-            # Get audio metadata
-            audio_meta = audio_metadata.from_musicbrainz(m)
+                vocal_instrument = []
+                for a in audio_meta['artists']:
+                    choir_bool = a['type'] == 'vocal' and \
+                                 'attribute-list' in a.keys() and \
+                                 'choir_vocals' in a['attribute-list']
+                    if choir_bool:
+                        vocal_instrument.append(a['attribute-list'])
+                    elif a['type'] in ['conductor']:
+                        pass
+                    else:
+                        vocal_instrument.append(a['type'])
 
-            vocal_instrument = []
-            for a in audio_meta['artists']:
-                choir_bool = a['type'] == 'vocal' and \
-                             'attribute-list' in a.keys() and \
-                             'choir_vocals' in a['attribute-list']
-                if choir_bool:
-                    vocal_instrument.append(a['attribute-list'])
-                elif a['type'] in ['conductor']:
-                    pass
-                else:
-                    vocal_instrument.append(a['type'])
+                audio_meta['instrumentation_voicing'] = \
+                    cls.check_voice_instrumentation(vocal_instrument)
 
-            audio_meta['instrumentation_voicing'] = \
-                cls.check_voice_instrumentation(vocal_instrument)
-
-            json.dump(audio_meta, open(save_file, 'w'), indent=4)
+                json.dump(audio_meta, open(save_file, 'w'), indent=4)
 
 mw = MetadataWrapper()
 mw.run()
