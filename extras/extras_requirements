@@ -1,6 +1,6 @@
 git+https://github.com/altugkarakurt/morty.git@v1.2.1#egg=morty
 git+https://github.com/sertansenturk/ahenkidentifier.git@v1.5.2#egg=ahenkidentifier
-git+https://github.com/sertansenturk/makammusicbrainz.git@v1.3.0#egg=makammusicbrainz
+git+https://github.com/sertansenturk/makammusicbrainz.git@v1.4.0#egg=makammusicbrainz
 git+https://github.com/sertansenturk/fileoperations_python.git@v1.1.1#egg=fileoperations_python
 
 numpy>=1.9.0  # numerical operations
