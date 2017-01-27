@@ -1,0 +1,67 @@
+{
+    "usul": [
+        {
+            "attribute_key": "aksaksemai", 
+            "mb_attribute": "Aksaksemai", 
+            "source": "http://musicbrainz.org/work/eadeb598-7511-4a35-81f4-965e212f1980"
+        }, 
+        {
+            "attribute_key": "aksaksemai", 
+            "mb_tag": "aksaksemai", 
+            "source": "http://musicbrainz.org/recording/120a0dfb-7873-46ca-a5bd-e7bccfe5bee3"
+        }
+    ], 
+    "form": [
+        {
+            "attribute_key": "sazsemaisi", 
+            "mb_attribute": "Sazsemaisi", 
+            "source": "http://musicbrainz.org/work/eadeb598-7511-4a35-81f4-965e212f1980"
+        }, 
+        {
+            "attribute_key": "sazsemaisi", 
+            "mb_tag": "sazsemaisi", 
+            "source": "http://musicbrainz.org/recording/120a0dfb-7873-46ca-a5bd-e7bccfe5bee3"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "5bd7a46e-c6bd-490e-96b2-847305c9bfaa", 
+            "title": "Tatyos Efendi K\u00fclliyat\u0131"
+        }
+    ], 
+    "title": "K\u00fcrdili Hicazkar Saz Semai", 
+    "url": "http://musicbrainz.org/recording/120a0dfb-7873-46ca-a5bd-e7bccfe5bee3", 
+    "artist_credits": [
+        {
+            "mbid": "0868a083-608c-41c5-89b0-bc5b9a616dbd", 
+            "name": "Kudsi Erguner Ensemble"
+        }
+    ], 
+    "mbid": "120a0dfb-7873-46ca-a5bd-e7bccfe5bee3", 
+    "makam": [
+        {
+            "attribute_key": "kurdilihicazkar", 
+            "mb_attribute": "K\u00fcrdilihicazkar", 
+            "source": "http://musicbrainz.org/work/eadeb598-7511-4a35-81f4-965e212f1980"
+        }, 
+        {
+            "attribute_key": "kurdilihicazkar", 
+            "mb_tag": "k\u00fcrdilihicazkar", 
+            "source": "http://musicbrainz.org/recording/120a0dfb-7873-46ca-a5bd-e7bccfe5bee3"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "0868a083-608c-41c5-89b0-bc5b9a616dbd", 
+            "type": "performing orchestra", 
+            "name": "Kudsi Erguner Ensemble"
+        }
+    ], 
+    "instrumentation_voicing": "Ensemble instrumental", 
+    "works": [
+        {
+            "mbid": "eadeb598-7511-4a35-81f4-965e212f1980", 
+            "title": "K\u00fcrdilihicazkar Sazsemaisi"
+        }
+    ]
+}

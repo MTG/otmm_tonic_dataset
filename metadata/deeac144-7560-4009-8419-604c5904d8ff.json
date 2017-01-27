@@ -1,0 +1,77 @@
+{
+    "usul": [
+        {
+            "attribute_key": "hafif", 
+            "mb_attribute": "Hafif", 
+            "source": "http://musicbrainz.org/work/0984224d-2f97-484f-a7b7-e6f78884f30f"
+        }
+    ], 
+    "form": [
+        {
+            "attribute_key": "pesrev", 
+            "mb_attribute": "Pe\u015frev", 
+            "source": "http://musicbrainz.org/work/0984224d-2f97-484f-a7b7-e6f78884f30f"
+        }, 
+        {
+            "attribute_key": "pesrev", 
+            "mb_tag": "pe\u015frev", 
+            "source": "http://musicbrainz.org/recording/deeac144-7560-4009-8419-604c5904d8ff"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "5a5f124a-766c-441c-bbf3-410a11b96c09", 
+            "title": "Ahenk 2"
+        }
+    ], 
+    "title": "U\u015f\u015f\u00e2k Pe\u015frevi", 
+    "url": "http://musicbrainz.org/recording/deeac144-7560-4009-8419-604c5904d8ff", 
+    "artist_credits": [
+        {
+            "mbid": "9b6e98f8-b695-45da-8c9c-68d4bab460fd", 
+            "name": "Murat Aydemir"
+        }, 
+        {
+            "mbid": "b80cd1ab-a00c-4f98-89c1-a798deb2d5c2", 
+            "name": "Derya T\u00fcrkan"
+        }
+    ], 
+    "mbid": "deeac144-7560-4009-8419-604c5904d8ff", 
+    "makam": [
+        {
+            "attribute_key": "ussak", 
+            "mb_attribute": "U\u015f\u015fak", 
+            "source": "http://musicbrainz.org/work/0984224d-2f97-484f-a7b7-e6f78884f30f"
+        }, 
+        {
+            "attribute_key": "ussak", 
+            "mb_tag": "u\u015f\u015fak", 
+            "source": "http://musicbrainz.org/recording/deeac144-7560-4009-8419-604c5904d8ff"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "9b6e98f8-b695-45da-8c9c-68d4bab460fd", 
+            "attribute-list": [
+                "tanbur"
+            ], 
+            "type": "instrument", 
+            "name": "Murat Aydemir"
+        }, 
+        {
+            "mbid": "b80cd1ab-a00c-4f98-89c1-a798deb2d5c2", 
+            "attribute-list": [
+                "classical kemen\u00e7e"
+            ], 
+            "type": "instrument", 
+            "name": "Derya T\u00fcrkan"
+        }
+    ], 
+    "instrumentation_voicing": "Duo instrumental", 
+    "works": [
+        {
+            "mbid": "0984224d-2f97-484f-a7b7-e6f78884f30f", 
+            "title": "U\u015f\u015fak Pe\u015frev"
+        }
+    ]
+}

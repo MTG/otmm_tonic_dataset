@@ -1,0 +1,71 @@
+{
+    "usul": [
+        {
+            "attribute_key": "aksaksemai", 
+            "mb_attribute": "Aksaksemai", 
+            "source": "http://musicbrainz.org/work/ad9fb46e-eb95-4446-93ad-e3bf13c01a95"
+        }, 
+        {
+            "attribute_key": "aksaksemai", 
+            "mb_tag": "aksaksemai", 
+            "source": "http://musicbrainz.org/recording/457d9db5-b3a0-4663-b46f-2ed0c6ce5eb0"
+        }
+    ], 
+    "form": [
+        {
+            "attribute_key": "sazsemaisi", 
+            "mb_attribute": "Sazsemaisi", 
+            "source": "http://musicbrainz.org/work/ad9fb46e-eb95-4446-93ad-e3bf13c01a95"
+        }, 
+        {
+            "attribute_key": "sazsemaisi", 
+            "mb_tag": "sazsemaisi", 
+            "source": "http://musicbrainz.org/recording/457d9db5-b3a0-4663-b46f-2ed0c6ce5eb0"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "aa9ec1d7-5633-481b-abca-0866afbf8f6f", 
+            "title": "Osmanl\u0131'dan Bug\u00fcne T\u00fcrk Musikisi- Tambur"
+        }
+    ], 
+    "title": "U\u015f\u015fak Saz Semaisi", 
+    "url": "http://musicbrainz.org/recording/457d9db5-b3a0-4663-b46f-2ed0c6ce5eb0", 
+    "artist_credits": [
+        {
+            "mbid": "7608f1ca-51f8-401f-8ed8-ec66252a2fb6", 
+            "name": "Hulusi Babal\u0131k"
+        }
+    ], 
+    "mbid": "457d9db5-b3a0-4663-b46f-2ed0c6ce5eb0", 
+    "makam": [
+        {
+            "attribute_key": "ussak", 
+            "mb_attribute": "U\u015f\u015fak", 
+            "source": "http://musicbrainz.org/work/ad9fb46e-eb95-4446-93ad-e3bf13c01a95"
+        }, 
+        {
+            "attribute_key": "ussak", 
+            "mb_tag": "u\u015f\u015fak", 
+            "source": "http://musicbrainz.org/recording/457d9db5-b3a0-4663-b46f-2ed0c6ce5eb0"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "7608f1ca-51f8-401f-8ed8-ec66252a2fb6", 
+            "attribute-list": [
+                "solo", 
+                "tanbur"
+            ], 
+            "type": "instrument", 
+            "name": "Hulusi Babal\u0131k"
+        }
+    ], 
+    "instrumentation_voicing": "Solo instrumental", 
+    "works": [
+        {
+            "mbid": "ad9fb46e-eb95-4446-93ad-e3bf13c01a95", 
+            "title": "U\u015f\u015fak Sazsemaisi"
+        }
+    ]
+}

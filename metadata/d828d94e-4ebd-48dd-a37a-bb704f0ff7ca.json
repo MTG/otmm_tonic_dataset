@@ -1,0 +1,78 @@
+{
+    "usul": [
+        {
+            "attribute_key": "zencir", 
+            "mb_attribute": "Zencir", 
+            "source": "http://musicbrainz.org/work/d1bb61c1-a779-4515-81f6-cda83473374a"
+        }, 
+        {
+            "attribute_key": "zencir", 
+            "mb_tag": "zencir", 
+            "source": "http://musicbrainz.org/recording/d828d94e-4ebd-48dd-a37a-bb704f0ff7ca"
+        }
+    ], 
+    "form": [
+        {
+            "attribute_key": "pesrev", 
+            "mb_attribute": "Pe\u015frev", 
+            "source": "http://musicbrainz.org/work/d1bb61c1-a779-4515-81f6-cda83473374a"
+        }, 
+        {
+            "attribute_key": "pesrev", 
+            "mb_tag": "pe\u015frev", 
+            "source": "http://musicbrainz.org/recording/d828d94e-4ebd-48dd-a37a-bb704f0ff7ca"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "805a3604-92e6-482f-a0e3-6620c4523d7a", 
+            "title": "Tanburi Cemil Bey - Volumes II & III"
+        }
+    ], 
+    "title": "\u015eehnaz Pe\u015frev", 
+    "url": "http://musicbrainz.org/recording/d828d94e-4ebd-48dd-a37a-bb704f0ff7ca", 
+    "artist_credits": [
+        {
+            "mbid": "4cc5200e-a3f7-4d5d-8b15-9b10a8f9a9a2", 
+            "name": "Tanburi Cemil Bey"
+        }
+    ], 
+    "mbid": "d828d94e-4ebd-48dd-a37a-bb704f0ff7ca", 
+    "makam": [
+        {
+            "attribute_key": "sehnaz", 
+            "mb_attribute": "\u015eehnaz", 
+            "source": "http://musicbrainz.org/work/d1bb61c1-a779-4515-81f6-cda83473374a"
+        }, 
+        {
+            "attribute_key": "sehnaz", 
+            "mb_tag": "\u015fehnaz", 
+            "source": "http://musicbrainz.org/recording/d828d94e-4ebd-48dd-a37a-bb704f0ff7ca"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "4cc5200e-a3f7-4d5d-8b15-9b10a8f9a9a2", 
+            "attribute-list": [
+                "classical kemen\u00e7e"
+            ], 
+            "type": "instrument", 
+            "name": "Tanburi Cemil Bey"
+        }, 
+        {
+            "mbid": "7586560f-2457-485e-a099-41b45e9af5ab", 
+            "attribute-list": [
+                "oud"
+            ], 
+            "type": "instrument", 
+            "name": "\u015eevki Bey"
+        }
+    ], 
+    "instrumentation_voicing": "Duo instrumental", 
+    "works": [
+        {
+            "mbid": "d1bb61c1-a779-4515-81f6-cda83473374a", 
+            "title": "\u015eehnaz Pe\u015frev"
+        }
+    ]
+}

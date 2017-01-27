@@ -1,0 +1,67 @@
+{
+    "usul": [
+        {
+            "attribute_key": "duyek", 
+            "mb_tag": "d\u00fcyek", 
+            "source": "http://musicbrainz.org/recording/9ee7f4f2-4e4f-4a59-adf4-c97cbc3d3f14"
+        }, 
+        {
+            "attribute_key": "yuruksemai", 
+            "mb_tag": "y\u00fcr\u00fcksemai", 
+            "source": "http://musicbrainz.org/recording/9ee7f4f2-4e4f-4a59-adf4-c97cbc3d3f14"
+        }
+    ], 
+    "form": [
+        {
+            "attribute_key": "ayin_i_serif", 
+            "mb_attribute": "Ayin-i \u015eerif", 
+            "source": "http://musicbrainz.org/work/c6cdec1a-8763-48dd-9aa9-ad89d5a5e322"
+        }, 
+        {
+            "attribute_key": "ayin_i_serif", 
+            "mb_tag": "ayin-i \u015ferif", 
+            "source": "http://musicbrainz.org/recording/9ee7f4f2-4e4f-4a59-adf4-c97cbc3d3f14"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "430058da-7be0-48ec-abac-9b88b87e293f", 
+            "title": "Mevlevi Sesler"
+        }
+    ], 
+    "title": "Son Y\u00fcr\u00fcksemai", 
+    "url": "http://musicbrainz.org/recording/9ee7f4f2-4e4f-4a59-adf4-c97cbc3d3f14", 
+    "artist_credits": [
+        {
+            "mbid": "81081f45-a36e-4248-9d33-43d4a3445f6d", 
+            "name": "Dede Efendi"
+        }
+    ], 
+    "mbid": "9ee7f4f2-4e4f-4a59-adf4-c97cbc3d3f14", 
+    "makam": [
+        {
+            "attribute_key": "ferahfeza", 
+            "mb_attribute": "Ferahfeza", 
+            "source": "http://musicbrainz.org/work/c6cdec1a-8763-48dd-9aa9-ad89d5a5e322"
+        }, 
+        {
+            "attribute_key": "ferahfeza", 
+            "mb_tag": "ferahfeza", 
+            "source": "http://musicbrainz.org/recording/9ee7f4f2-4e4f-4a59-adf4-c97cbc3d3f14"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "713ad8af-1c98-4569-a445-71f7b9395945", 
+            "type": "performing orchestra", 
+            "name": "Dede Efendi T\u00fcrk M\u00fczi\u011fi Toplulu\u011fu"
+        }
+    ], 
+    "instrumentation_voicing": "Ensemble instrumental", 
+    "works": [
+        {
+            "mbid": "c6cdec1a-8763-48dd-9aa9-ad89d5a5e322", 
+            "title": "Ferahfeza Ayin-i \u015eerif"
+        }
+    ]
+}

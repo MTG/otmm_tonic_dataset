@@ -1,0 +1,70 @@
+{
+    "usul": [
+        {
+            "attribute_key": "duyek", 
+            "mb_attribute": "D\u00fcyek", 
+            "source": "http://musicbrainz.org/work/9ad5ac27-4e1d-453c-85cb-72e87277f810"
+        }, 
+        {
+            "attribute_key": "duyek", 
+            "mb_tag": "d\u00fcyek", 
+            "source": "http://musicbrainz.org/recording/a7e9e44b-2a6f-4d97-9bab-8a63261eb5fc"
+        }
+    ], 
+    "form": [
+        {
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
+            "source": "http://musicbrainz.org/work/9ad5ac27-4e1d-453c-85cb-72e87277f810"
+        }, 
+        {
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
+            "source": "http://musicbrainz.org/recording/a7e9e44b-2a6f-4d97-9bab-8a63261eb5fc"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "27272058-7500-4ce2-a357-f9e038ef6be9", 
+            "title": "T\u00fcrk M\u00fczi\u011finde Kanun ile Sevilen \u015eark\u0131lar - Enstr\u00fcmantal"
+        }
+    ], 
+    "title": "Menek\u015fe G\u00f6zler H\u00fclyal\u0131", 
+    "url": "http://musicbrainz.org/recording/a7e9e44b-2a6f-4d97-9bab-8a63261eb5fc", 
+    "artist_credits": [
+        {
+            "mbid": "230670ce-4f8c-4515-9a99-b747b7bd53c5", 
+            "name": "Ahmet Meter"
+        }
+    ], 
+    "mbid": "a7e9e44b-2a6f-4d97-9bab-8a63261eb5fc", 
+    "makam": [
+        {
+            "attribute_key": "ussak", 
+            "mb_attribute": "U\u015f\u015fak", 
+            "source": "http://musicbrainz.org/work/9ad5ac27-4e1d-453c-85cb-72e87277f810"
+        }, 
+        {
+            "attribute_key": "ussak", 
+            "mb_tag": "u\u015f\u015fak", 
+            "source": "http://musicbrainz.org/recording/a7e9e44b-2a6f-4d97-9bab-8a63261eb5fc"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "230670ce-4f8c-4515-9a99-b747b7bd53c5", 
+            "attribute-list": [
+                "kanun"
+            ], 
+            "type": "instrument", 
+            "name": "Ahmet Meter"
+        }
+    ], 
+    "instrumentation_voicing": "Solo instrumental", 
+    "works": [
+        {
+            "mbid": "9ad5ac27-4e1d-453c-85cb-72e87277f810", 
+            "title": "Menek\u015fe G\u00f6zler H\u00fclyal\u0131"
+        }
+    ]
+}

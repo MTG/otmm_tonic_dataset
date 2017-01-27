@@ -1,0 +1,86 @@
+{
+    "usul": [
+        {
+            "attribute_key": "devrirevan", 
+            "mb_attribute": "Devr-i Revan", 
+            "source": "http://musicbrainz.org/work/f9e6e6e7-1bce-4653-9f63-4f78dd334922"
+        }, 
+        {
+            "attribute_key": "devrirevan", 
+            "mb_tag": "devr-i revan", 
+            "source": "http://musicbrainz.org/recording/ab96e550-a449-4c86-b516-b8f3931f9867"
+        }
+    ], 
+    "form": [
+        {
+            "attribute_key": "ayin_i_serif", 
+            "mb_attribute": "Ayin-i \u015eerif", 
+            "source": "http://musicbrainz.org/work/c6cdec1a-8763-48dd-9aa9-ad89d5a5e322"
+        }, 
+        {
+            "attribute_key": "selam", 
+            "mb_attribute": "Selam", 
+            "source": "http://musicbrainz.org/work/f9e6e6e7-1bce-4653-9f63-4f78dd334922"
+        }, 
+        {
+            "attribute_key": "ayin_i_serif", 
+            "mb_tag": "ayin-i \u015ferif", 
+            "source": "http://musicbrainz.org/recording/ab96e550-a449-4c86-b516-b8f3931f9867"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "430058da-7be0-48ec-abac-9b88b87e293f", 
+            "title": "Mevlevi Sesler"
+        }
+    ], 
+    "title": "1. Selam", 
+    "url": "http://musicbrainz.org/recording/ab96e550-a449-4c86-b516-b8f3931f9867", 
+    "artist_credits": [
+        {
+            "mbid": "81081f45-a36e-4248-9d33-43d4a3445f6d", 
+            "name": "Dede Efendi"
+        }
+    ], 
+    "mbid": "ab96e550-a449-4c86-b516-b8f3931f9867", 
+    "makam": [
+        {
+            "attribute_key": "ferahfeza", 
+            "mb_attribute": "Ferahfeza", 
+            "source": "http://musicbrainz.org/work/c6cdec1a-8763-48dd-9aa9-ad89d5a5e322"
+        }, 
+        {
+            "attribute_key": "ferahfeza", 
+            "mb_attribute": "Ferahfeza", 
+            "source": "http://musicbrainz.org/work/f9e6e6e7-1bce-4653-9f63-4f78dd334922"
+        }, 
+        {
+            "attribute_key": "ferahfeza", 
+            "mb_tag": "ferahfeza", 
+            "source": "http://musicbrainz.org/recording/ab96e550-a449-4c86-b516-b8f3931f9867"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "125d9569-09ea-463c-a7b2-87ca30b55be0", 
+            "type": "vocal", 
+            "name": "Mehmet Ak\u00e7a"
+        }, 
+        {
+            "mbid": "713ad8af-1c98-4569-a445-71f7b9395945", 
+            "type": "performing orchestra", 
+            "name": "Dede Efendi T\u00fcrk M\u00fczi\u011fi Toplulu\u011fu"
+        }
+    ], 
+    "instrumentation_voicing": "Solo vocal with accompaniment", 
+    "works": [
+        {
+            "mbid": "c6cdec1a-8763-48dd-9aa9-ad89d5a5e322", 
+            "title": "Ferahfeza Ayin-i \u015eerif"
+        }, 
+        {
+            "mbid": "f9e6e6e7-1bce-4653-9f63-4f78dd334922", 
+            "title": "1. Selam"
+        }
+    ]
+}

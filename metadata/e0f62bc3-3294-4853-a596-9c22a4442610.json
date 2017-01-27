@@ -1,0 +1,72 @@
+{
+    "usul": [
+        {
+            "attribute_key": "agirduyek", 
+            "mb_attribute": "A\u011f\u0131rd\u00fcyek", 
+            "source": "http://musicbrainz.org/work/787d2c10-4cfd-45dd-9713-ec173719695a"
+        }, 
+        {
+            "attribute_key": "agirduyek", 
+            "mb_tag": "a\u011f\u0131rd\u00fcyek", 
+            "source": "http://musicbrainz.org/recording/e0f62bc3-3294-4853-a596-9c22a4442610"
+        }
+    ], 
+    "form": [
+        {
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
+            "source": "http://musicbrainz.org/work/787d2c10-4cfd-45dd-9713-ec173719695a"
+        }, 
+        {
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
+            "source": "http://musicbrainz.org/recording/e0f62bc3-3294-4853-a596-9c22a4442610"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "6b94e631-734e-4ebb-9acd-0741183608fe", 
+            "title": "Bekir S\u0131dk\u0131 Sezgin 22"
+        }
+    ], 
+    "title": "Kime Halim Diyeyim Kime Feryad Edeyim", 
+    "url": "http://musicbrainz.org/recording/e0f62bc3-3294-4853-a596-9c22a4442610", 
+    "artist_credits": [
+        {
+            "mbid": "7ef61959-65f2-41ab-9ae2-ba890812b7b4", 
+            "name": "Bekir S\u0131dk\u0131 Sezgin"
+        }
+    ], 
+    "mbid": "e0f62bc3-3294-4853-a596-9c22a4442610", 
+    "makam": [
+        {
+            "attribute_key": "acemasiran", 
+            "mb_attribute": "Acema\u015firan", 
+            "source": "http://musicbrainz.org/work/787d2c10-4cfd-45dd-9713-ec173719695a"
+        }, 
+        {
+            "attribute_key": "acemasiran", 
+            "mb_tag": "acema\u015firan", 
+            "source": "http://musicbrainz.org/recording/e0f62bc3-3294-4853-a596-9c22a4442610"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
+            "type": "performing orchestra", 
+            "name": "[unknown]"
+        }, 
+        {
+            "mbid": "7ef61959-65f2-41ab-9ae2-ba890812b7b4", 
+            "type": "vocal", 
+            "name": "Bekir S\u0131dk\u0131 Sezgin"
+        }
+    ], 
+    "instrumentation_voicing": "Solo vocal with accompaniment", 
+    "works": [
+        {
+            "mbid": "787d2c10-4cfd-45dd-9713-ec173719695a", 
+            "title": "Kime Halim Diyeyim/ Kime \u015eekva Edeyim"
+        }
+    ]
+}

@@ -1,0 +1,67 @@
+{
+    "usul": [
+        {
+            "attribute_key": "cifteduyek", 
+            "mb_attribute": "\u00c7ifted\u00fcyek", 
+            "source": "http://musicbrainz.org/work/01510767-677e-4c52-aed4-3e18e2fd2c61"
+        }, 
+        {
+            "attribute_key": "cifteduyek", 
+            "mb_tag": "\u00e7ifted\u00fcyek", 
+            "source": "http://musicbrainz.org/recording/ca886e4e-b7ba-4231-8446-d19b49d7f3da"
+        }
+    ], 
+    "form": [
+        {
+            "attribute_key": "pesrev", 
+            "mb_attribute": "Pe\u015frev", 
+            "source": "http://musicbrainz.org/work/01510767-677e-4c52-aed4-3e18e2fd2c61"
+        }, 
+        {
+            "attribute_key": "pesrev", 
+            "mb_tag": "pe\u015frev", 
+            "source": "http://musicbrainz.org/recording/ca886e4e-b7ba-4231-8446-d19b49d7f3da"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "5bd7a46e-c6bd-490e-96b2-847305c9bfaa", 
+            "title": "Tatyos Efendi K\u00fclliyat\u0131"
+        }
+    ], 
+    "title": "Karc\u0131\u011far Pe\u015frev", 
+    "url": "http://musicbrainz.org/recording/ca886e4e-b7ba-4231-8446-d19b49d7f3da", 
+    "artist_credits": [
+        {
+            "mbid": "0868a083-608c-41c5-89b0-bc5b9a616dbd", 
+            "name": "Kudsi Erguner Ensemble"
+        }
+    ], 
+    "mbid": "ca886e4e-b7ba-4231-8446-d19b49d7f3da", 
+    "makam": [
+        {
+            "attribute_key": "karcigar", 
+            "mb_attribute": "Karc\u0131\u011far", 
+            "source": "http://musicbrainz.org/work/01510767-677e-4c52-aed4-3e18e2fd2c61"
+        }, 
+        {
+            "attribute_key": "huseyni", 
+            "mb_tag": "karc\u0131\u011far", 
+            "source": "http://musicbrainz.org/recording/ca886e4e-b7ba-4231-8446-d19b49d7f3da"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "0868a083-608c-41c5-89b0-bc5b9a616dbd", 
+            "type": "performing orchestra", 
+            "name": "Kudsi Erguner Ensemble"
+        }
+    ], 
+    "instrumentation_voicing": "Ensemble instrumental", 
+    "works": [
+        {
+            "mbid": "01510767-677e-4c52-aed4-3e18e2fd2c61", 
+            "title": "Karc\u0131\u011far Pe\u015frev"
+        }
+    ]
+}

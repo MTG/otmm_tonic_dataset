@@ -1,0 +1,82 @@
+{
+    "usul": [
+        {
+            "attribute_key": "zencir", 
+            "mb_attribute": "Zencir", 
+            "source": "http://musicbrainz.org/work/d1bb61c1-a779-4515-81f6-cda83473374a"
+        }, 
+        {
+            "attribute_key": "zencir", 
+            "mb_tag": "zencir", 
+            "source": "http://musicbrainz.org/recording/a7069ec6-bdd1-464c-8ff6-c16da0c2fe2b"
+        }
+    ], 
+    "form": [
+        {
+            "attribute_key": "pesrev", 
+            "mb_attribute": "Pe\u015frev", 
+            "source": "http://musicbrainz.org/work/d1bb61c1-a779-4515-81f6-cda83473374a"
+        }, 
+        {
+            "attribute_key": "pesrev", 
+            "mb_tag": "pe\u015frev", 
+            "source": "http://musicbrainz.org/recording/a7069ec6-bdd1-464c-8ff6-c16da0c2fe2b"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "1ddaa8b3-a005-4c68-8323-1d566a3ca31e", 
+            "title": "T\u00fcrk M\u00fczi\u011fi Ustalar\u0131 - 1"
+        }
+    ], 
+    "title": "\u015eehnaz Pe\u015frev", 
+    "url": "http://musicbrainz.org/recording/a7069ec6-bdd1-464c-8ff6-c16da0c2fe2b", 
+    "artist_credits": [
+        {
+            "mbid": "4acf1b6d-910a-4540-9a8f-aadcef86eb0c", 
+            "name": "Niyazi Say\u0131n"
+        }, 
+        {
+            "mbid": "eb150720-40d5-4da9-8c8b-b149601c73e5", 
+            "name": "Necdet Ya\u015far"
+        }
+    ], 
+    "mbid": "a7069ec6-bdd1-464c-8ff6-c16da0c2fe2b", 
+    "makam": [
+        {
+            "attribute_key": "sehnaz", 
+            "mb_attribute": "\u015eehnaz", 
+            "source": "http://musicbrainz.org/work/d1bb61c1-a779-4515-81f6-cda83473374a"
+        }, 
+        {
+            "attribute_key": "sehnaz", 
+            "mb_tag": "\u015fehnaz", 
+            "source": "http://musicbrainz.org/recording/a7069ec6-bdd1-464c-8ff6-c16da0c2fe2b"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "4acf1b6d-910a-4540-9a8f-aadcef86eb0c", 
+            "attribute-list": [
+                "ney"
+            ], 
+            "type": "instrument", 
+            "name": "Niyazi Say\u0131n"
+        }, 
+        {
+            "mbid": "eb150720-40d5-4da9-8c8b-b149601c73e5", 
+            "attribute-list": [
+                "tanbur"
+            ], 
+            "type": "instrument", 
+            "name": "Necdet Ya\u015far"
+        }
+    ], 
+    "instrumentation_voicing": "Duo instrumental", 
+    "works": [
+        {
+            "mbid": "d1bb61c1-a779-4515-81f6-cda83473374a", 
+            "title": "\u015eehnaz Pe\u015frev"
+        }
+    ]
+}

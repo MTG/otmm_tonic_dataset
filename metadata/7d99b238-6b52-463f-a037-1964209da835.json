@@ -1,0 +1,138 @@
+{
+    "usul": [
+        {
+            "attribute_key": "kapali_curcuna", 
+            "mb_attribute": "Kapal\u0131 Curcuna", 
+            "source": "http://musicbrainz.org/work/7f7c44c0-a5cb-4572-9771-d177c9e58943"
+        }, 
+        {
+            "attribute_key": "kapali_curcuna", 
+            "mb_tag": "curcuna", 
+            "source": "http://musicbrainz.org/recording/7d99b238-6b52-463f-a037-1964209da835"
+        }
+    ], 
+    "form": [
+        {
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
+            "source": "http://musicbrainz.org/work/7f7c44c0-a5cb-4572-9771-d177c9e58943"
+        }, 
+        {
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
+            "source": "http://musicbrainz.org/recording/7d99b238-6b52-463f-a037-1964209da835"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "5bdc8ef2-27b9-4dac-8bc6-3b5872883d88", 
+            "title": "Ermeni Bestekarlar -1- (Armenian Composers)"
+        }
+    ], 
+    "title": "Mestim Bu Gece Sende Bana Mest Olarak Gel", 
+    "url": "http://musicbrainz.org/recording/7d99b238-6b52-463f-a037-1964209da835", 
+    "artist_credits": [
+        {
+            "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
+            "name": "[unknown]"
+        }
+    ], 
+    "mbid": "7d99b238-6b52-463f-a037-1964209da835", 
+    "makam": [
+        {
+            "attribute_key": "hicazkar", 
+            "mb_attribute": "Hicazkar", 
+            "source": "http://musicbrainz.org/work/7f7c44c0-a5cb-4572-9771-d177c9e58943"
+        }, 
+        {
+            "attribute_key": "hicazkar", 
+            "mb_tag": "hicazkar", 
+            "source": "http://musicbrainz.org/recording/7d99b238-6b52-463f-a037-1964209da835"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "2a6ce2b8-d83f-4971-9180-9d0c89729d96", 
+            "type": "vocal", 
+            "name": "Nusret Y\u0131lmaz"
+        }, 
+        {
+            "mbid": "7a3adb1f-ebe6-4dbe-a0cc-c71f034d4091", 
+            "attribute-list": [
+                "ney"
+            ], 
+            "type": "instrument", 
+            "name": "Volkan Y\u0131lmaz"
+        }, 
+        {
+            "mbid": "8cf45553-41e7-4544-8070-45ff74f7fb18", 
+            "attribute-list": [
+                "classical kemen\u00e7e"
+            ], 
+            "type": "instrument", 
+            "name": "Ahmet Kadri Rizeli"
+        }, 
+        {
+            "mbid": "9b6e98f8-b695-45da-8c9c-68d4bab460fd", 
+            "attribute-list": [
+                "tanbur"
+            ], 
+            "type": "instrument", 
+            "name": "Murat Aydemir"
+        }, 
+        {
+            "mbid": "9e96870c-5143-40cd-8e8b-c48995976346", 
+            "type": "vocal", 
+            "name": "Serhat Sarpel"
+        }, 
+        {
+            "mbid": "ad21dcd0-0028-4096-81b4-01c20bb179e0", 
+            "type": "vocal", 
+            "name": "Recep Birgit"
+        }, 
+        {
+            "mbid": "b5e2f977-cadd-458a-8171-cafdfe6a331c", 
+            "attribute-list": [
+                "percussion"
+            ], 
+            "type": "instrument", 
+            "name": "Fahrettin Yark\u0131n"
+        }, 
+        {
+            "mbid": "cfe6aea2-c362-4760-9ad1-b95db1605b6e", 
+            "attribute-list": [
+                "cello"
+            ], 
+            "type": "instrument", 
+            "name": "U\u011fur I\u015f\u0131k"
+        }, 
+        {
+            "mbid": "e3c7ff4d-27fe-4225-9e04-91c84a9a303c", 
+            "type": "vocal", 
+            "name": "Ayta\u00e7 Ergen"
+        }, 
+        {
+            "mbid": "e504a080-2092-4855-9135-45914556ca70", 
+            "attribute-list": [
+                "bendir"
+            ], 
+            "type": "instrument", 
+            "name": "Vahit Anadolu"
+        }, 
+        {
+            "mbid": "eec97a99-ab73-4707-84b5-d7a7e667cb11", 
+            "attribute-list": [
+                "kanun"
+            ], 
+            "type": "instrument", 
+            "name": "Safinaz Rizeli"
+        }
+    ], 
+    "instrumentation_voicing": "Choir", 
+    "works": [
+        {
+            "mbid": "7f7c44c0-a5cb-4572-9771-d177c9e58943", 
+            "title": "Mestim Bu Gece Sende Bana Mest Olarak Gel"
+        }
+    ]
+}

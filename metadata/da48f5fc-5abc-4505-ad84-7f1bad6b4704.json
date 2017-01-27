@@ -1,0 +1,60 @@
+{
+    "usul": [
+        {
+            "attribute_key": "sofyan", 
+            "mb_tag": "sofyan", 
+            "source": "http://musicbrainz.org/recording/da48f5fc-5abc-4505-ad84-7f1bad6b4704"
+        }
+    ], 
+    "form": [
+        {
+            "attribute_key": null, 
+            "mb_tag": "serbest", 
+            "source": "http://musicbrainz.org/recording/da48f5fc-5abc-4505-ad84-7f1bad6b4704"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "b631dac8-f47d-494d-9063-45e9b2ace879", 
+            "title": "Osmanl\u0131'dan Bug\u00fcne T\u00fcrk Musikisi- Keman"
+        }
+    ], 
+    "title": "Nihavent Sigan", 
+    "url": "http://musicbrainz.org/recording/da48f5fc-5abc-4505-ad84-7f1bad6b4704", 
+    "artist_credits": [
+        {
+            "mbid": "b8b24ca8-e429-414a-9336-272ed8f131e0", 
+            "name": "Fahri Karaduman"
+        }
+    ], 
+    "mbid": "da48f5fc-5abc-4505-ad84-7f1bad6b4704", 
+    "makam": [
+        {
+            "attribute_key": "nihavent", 
+            "mb_attribute": "Nihavent", 
+            "source": "http://musicbrainz.org/work/b1538459-3ab5-42dd-9579-b10504daed0c"
+        }, 
+        {
+            "attribute_key": "nihavent", 
+            "mb_tag": "nihavent", 
+            "source": "http://musicbrainz.org/recording/da48f5fc-5abc-4505-ad84-7f1bad6b4704"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "b8b24ca8-e429-414a-9336-272ed8f131e0", 
+            "attribute-list": [
+                "violin"
+            ], 
+            "type": "instrument", 
+            "name": "Fahri Karaduman"
+        }
+    ], 
+    "instrumentation_voicing": "Solo instrumental", 
+    "works": [
+        {
+            "mbid": "b1538459-3ab5-42dd-9579-b10504daed0c", 
+            "title": "Nihavent Sigan"
+        }
+    ]
+}

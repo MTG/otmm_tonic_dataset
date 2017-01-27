@@ -1,0 +1,70 @@
+{
+    "usul": [
+        {
+            "attribute_key": "devrikebir", 
+            "mb_attribute": "Devr-i Kebir", 
+            "source": "http://musicbrainz.org/work/1d7aa01a-8bf2-43e1-b972-714699db563d"
+        }, 
+        {
+            "attribute_key": "devrikebir", 
+            "mb_tag": "devrikebir", 
+            "source": "http://musicbrainz.org/recording/d622b79a-a6f8-40f9-b002-3b68890e4e25"
+        }
+    ], 
+    "form": [
+        {
+            "attribute_key": "pesrev", 
+            "mb_attribute": "Pe\u015frev", 
+            "source": "http://musicbrainz.org/work/1d7aa01a-8bf2-43e1-b972-714699db563d"
+        }, 
+        {
+            "attribute_key": "pesrev", 
+            "mb_tag": "pe\u015frev", 
+            "source": "http://musicbrainz.org/recording/d622b79a-a6f8-40f9-b002-3b68890e4e25"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "9d63cb14-4233-48ea-a4c9-e3c60d880786", 
+            "title": "Tanbur"
+        }
+    ], 
+    "title": "A\u011f\u0131z armonikasi refakatinde tanbur", 
+    "url": "http://musicbrainz.org/recording/d622b79a-a6f8-40f9-b002-3b68890e4e25", 
+    "artist_credits": [
+        {
+            "mbid": "ef7f9168-eec5-4ecd-a142-132ef3355fc1", 
+            "name": "Erc\u00fcmend Batanay"
+        }
+    ], 
+    "mbid": "d622b79a-a6f8-40f9-b002-3b68890e4e25", 
+    "makam": [
+        {
+            "attribute_key": "nihavent", 
+            "mb_attribute": "Nihavent", 
+            "source": "http://musicbrainz.org/work/1d7aa01a-8bf2-43e1-b972-714699db563d"
+        }, 
+        {
+            "attribute_key": "nihavent", 
+            "mb_tag": "nihavent", 
+            "source": "http://musicbrainz.org/recording/d622b79a-a6f8-40f9-b002-3b68890e4e25"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "ef7f9168-eec5-4ecd-a142-132ef3355fc1", 
+            "attribute-list": [
+                "tanbur"
+            ], 
+            "type": "instrument", 
+            "name": "Erc\u00fcmend Batanay"
+        }
+    ], 
+    "instrumentation_voicing": "Solo instrumental", 
+    "works": [
+        {
+            "mbid": "1d7aa01a-8bf2-43e1-b972-714699db563d", 
+            "title": "Nihavend Pe\u015frev"
+        }
+    ]
+}

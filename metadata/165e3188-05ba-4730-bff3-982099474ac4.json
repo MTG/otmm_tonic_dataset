@@ -1,0 +1,67 @@
+{
+    "usul": [
+        {
+            "attribute_key": "sofyan", 
+            "mb_attribute": "Sofyan", 
+            "source": "http://musicbrainz.org/work/8c3dba8c-f08e-4219-b1a4-b7b6eca29946"
+        }, 
+        {
+            "attribute_key": "sofyan", 
+            "mb_tag": "sofyan", 
+            "source": "http://musicbrainz.org/recording/165e3188-05ba-4730-bff3-982099474ac4"
+        }
+    ], 
+    "form": [
+        {
+            "attribute_key": "turku", 
+            "mb_attribute": "T\u00fcrk\u00fc", 
+            "source": "http://musicbrainz.org/work/8c3dba8c-f08e-4219-b1a4-b7b6eca29946"
+        }, 
+        {
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
+            "source": "http://musicbrainz.org/recording/165e3188-05ba-4730-bff3-982099474ac4"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "4469247f-6e65-4a35-8661-321c399dacb9", 
+            "title": "Fasl-\u0131 \u015eahane Enstrumantal, Volume 5"
+        }
+    ], 
+    "title": "Beyo\u011flu'nda Gezersin", 
+    "url": "http://musicbrainz.org/recording/165e3188-05ba-4730-bff3-982099474ac4", 
+    "artist_credits": [
+        {
+            "mbid": "ef074ab6-a2a8-42f7-a454-068265023697", 
+            "name": "Aziz T\u00fcrk Sanat M\u00fczi\u011fi Grubu"
+        }
+    ], 
+    "mbid": "165e3188-05ba-4730-bff3-982099474ac4", 
+    "makam": [
+        {
+            "attribute_key": "mahur", 
+            "mb_attribute": "Mahur", 
+            "source": "http://musicbrainz.org/work/8c3dba8c-f08e-4219-b1a4-b7b6eca29946"
+        }, 
+        {
+            "attribute_key": "mahur", 
+            "mb_tag": "mahur", 
+            "source": "http://musicbrainz.org/recording/165e3188-05ba-4730-bff3-982099474ac4"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "ef074ab6-a2a8-42f7-a454-068265023697", 
+            "type": "performing orchestra", 
+            "name": "Aziz T\u00fcrk Sanat M\u00fczi\u011fi Grubu"
+        }
+    ], 
+    "instrumentation_voicing": "Ensemble instrumental", 
+    "works": [
+        {
+            "mbid": "8c3dba8c-f08e-4219-b1a4-b7b6eca29946", 
+            "title": "Beyo\u011flu'nda Gezersin"
+        }
+    ]
+}

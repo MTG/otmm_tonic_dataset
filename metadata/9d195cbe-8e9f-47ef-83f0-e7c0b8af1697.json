@@ -1,0 +1,67 @@
+{
+    "usul": [
+        {
+            "attribute_key": "aksaksemai", 
+            "mb_attribute": "Aksaksemai", 
+            "source": "http://musicbrainz.org/work/ecbd1847-79bd-4083-b9e5-833c90e6d8cc"
+        }, 
+        {
+            "attribute_key": "aksaksemai", 
+            "mb_tag": "aksaksemai", 
+            "source": "http://musicbrainz.org/recording/9d195cbe-8e9f-47ef-83f0-e7c0b8af1697"
+        }
+    ], 
+    "form": [
+        {
+            "attribute_key": "sazsemaisi", 
+            "mb_attribute": "Sazsemaisi", 
+            "source": "http://musicbrainz.org/work/ecbd1847-79bd-4083-b9e5-833c90e6d8cc"
+        }, 
+        {
+            "attribute_key": "sazsemaisi", 
+            "mb_tag": "sazsemaisi", 
+            "source": "http://musicbrainz.org/recording/9d195cbe-8e9f-47ef-83f0-e7c0b8af1697"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "5bd7a46e-c6bd-490e-96b2-847305c9bfaa", 
+            "title": "Tatyos Efendi K\u00fclliyat\u0131"
+        }
+    ], 
+    "title": "H\u00fcseyni Saz Semai", 
+    "url": "http://musicbrainz.org/recording/9d195cbe-8e9f-47ef-83f0-e7c0b8af1697", 
+    "artist_credits": [
+        {
+            "mbid": "0868a083-608c-41c5-89b0-bc5b9a616dbd", 
+            "name": "Kudsi Erguner Ensemble"
+        }
+    ], 
+    "mbid": "9d195cbe-8e9f-47ef-83f0-e7c0b8af1697", 
+    "makam": [
+        {
+            "attribute_key": "huseyni", 
+            "mb_attribute": "H\u00fcseyni", 
+            "source": "http://musicbrainz.org/work/ecbd1847-79bd-4083-b9e5-833c90e6d8cc"
+        }, 
+        {
+            "attribute_key": "huseyni", 
+            "mb_tag": "h\u00fcseyni", 
+            "source": "http://musicbrainz.org/recording/9d195cbe-8e9f-47ef-83f0-e7c0b8af1697"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "0868a083-608c-41c5-89b0-bc5b9a616dbd", 
+            "type": "performing orchestra", 
+            "name": "Kudsi Erguner Ensemble"
+        }
+    ], 
+    "instrumentation_voicing": "Ensemble instrumental", 
+    "works": [
+        {
+            "mbid": "ecbd1847-79bd-4083-b9e5-833c90e6d8cc", 
+            "title": "H\u00fcseyni Sazsemaisi"
+        }
+    ]
+}

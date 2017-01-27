@@ -1,0 +1,74 @@
+{
+    "usul": [
+        {
+            "attribute_key": "aksaksemai", 
+            "mb_attribute": "Aksaksemai", 
+            "source": "http://musicbrainz.org/work/18a9743c-cf07-4a5b-9321-76ef1d9d8909"
+        }, 
+        {
+            "attribute_key": "aksaksemai", 
+            "mb_tag": "aksaksemai", 
+            "source": "http://musicbrainz.org/recording/0fca8b08-0623-4de7-b89d-a71744023297"
+        }
+    ], 
+    "form": [
+        {
+            "attribute_key": "sazsemaisi", 
+            "mb_attribute": "Sazsemaisi", 
+            "source": "http://musicbrainz.org/work/18a9743c-cf07-4a5b-9321-76ef1d9d8909"
+        }, 
+        {
+            "attribute_key": "sazsemaisi", 
+            "mb_tag": "sazsemaisi", 
+            "source": "http://musicbrainz.org/recording/0fca8b08-0623-4de7-b89d-a71744023297"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "9d63cb14-4233-48ea-a4c9-e3c60d880786", 
+            "title": "Tanbur"
+        }
+    ], 
+    "title": "Ferahfeza Saz Semaisi (Udi Ar\u015fak'\u0131n)", 
+    "url": "http://musicbrainz.org/recording/0fca8b08-0623-4de7-b89d-a71744023297", 
+    "artist_credits": [
+        {
+            "mbid": "ef7f9168-eec5-4ecd-a142-132ef3355fc1", 
+            "name": "Erc\u00fcmend Batanay"
+        }, 
+        {
+            "mbid": "e969355f-8500-43e3-bb44-177cab7b64a4", 
+            "name": "Nubar Tekyay"
+        }
+    ], 
+    "mbid": "0fca8b08-0623-4de7-b89d-a71744023297", 
+    "makam": [
+        {
+            "attribute_key": "ferahfeza", 
+            "mb_attribute": "Ferahfeza", 
+            "source": "http://musicbrainz.org/work/18a9743c-cf07-4a5b-9321-76ef1d9d8909"
+        }, 
+        {
+            "attribute_key": "ferahfeza", 
+            "mb_tag": "ferahfeza", 
+            "source": "http://musicbrainz.org/recording/0fca8b08-0623-4de7-b89d-a71744023297"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "ef7f9168-eec5-4ecd-a142-132ef3355fc1", 
+            "attribute-list": [
+                "tanbur"
+            ], 
+            "type": "instrument", 
+            "name": "Erc\u00fcmend Batanay"
+        }
+    ], 
+    "instrumentation_voicing": "Solo instrumental", 
+    "works": [
+        {
+            "mbid": "18a9743c-cf07-4a5b-9321-76ef1d9d8909", 
+            "title": "Ferahfeza Sazsemaisi"
+        }
+    ]
+}

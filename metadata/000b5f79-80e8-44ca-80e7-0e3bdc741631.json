@@ -1,0 +1,70 @@
+{
+    "usul": [
+        {
+            "attribute_key": "semai", 
+            "mb_attribute": "Semai", 
+            "source": "http://musicbrainz.org/work/a4cec42c-5a75-4ba4-9ef7-4ad29fbcedb5"
+        }, 
+        {
+            "attribute_key": "semai", 
+            "mb_tag": "semai", 
+            "source": "http://musicbrainz.org/recording/000b5f79-80e8-44ca-80e7-0e3bdc741631"
+        }
+    ], 
+    "form": [
+        {
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
+            "source": "http://musicbrainz.org/work/a4cec42c-5a75-4ba4-9ef7-4ad29fbcedb5"
+        }, 
+        {
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
+            "source": "http://musicbrainz.org/recording/000b5f79-80e8-44ca-80e7-0e3bdc741631"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "f371b65d-8ec2-4516-ae77-563fe10776c5", 
+            "title": "Alaeddin Yava\u015f\u00e7a"
+        }
+    ], 
+    "title": "Mavi G\u00f6k Mavi Deniz", 
+    "url": "http://musicbrainz.org/recording/000b5f79-80e8-44ca-80e7-0e3bdc741631", 
+    "artist_credits": [
+        {
+            "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
+            "name": "[unknown]"
+        }
+    ], 
+    "mbid": "000b5f79-80e8-44ca-80e7-0e3bdc741631", 
+    "makam": [
+        {
+            "attribute_key": "kurdilihicazkar", 
+            "mb_attribute": "K\u00fcrdilihicazkar", 
+            "source": "http://musicbrainz.org/work/a4cec42c-5a75-4ba4-9ef7-4ad29fbcedb5"
+        }, 
+        {
+            "attribute_key": "kurdilihicazkar", 
+            "mb_tag": "k\u00fcrdilihicazkar", 
+            "source": "http://musicbrainz.org/recording/000b5f79-80e8-44ca-80e7-0e3bdc741631"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
+            "attribute-list": [
+                "choir vocals"
+            ], 
+            "type": "vocal", 
+            "name": "[unknown]"
+        }
+    ], 
+    "instrumentation_voicing": "Solo vocal without accompaniment", 
+    "works": [
+        {
+            "mbid": "a4cec42c-5a75-4ba4-9ef7-4ad29fbcedb5", 
+            "title": "Mavi G\u00f6k Mavi Deniz"
+        }
+    ]
+}

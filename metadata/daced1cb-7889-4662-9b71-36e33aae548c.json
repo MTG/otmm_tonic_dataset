@@ -1,0 +1,65 @@
+{
+    "usul": [
+        {
+            "attribute_key": "aksaksemai", 
+            "mb_attribute": "Aksaksemai", 
+            "source": "http://musicbrainz.org/work/ad9fb46e-eb95-4446-93ad-e3bf13c01a95"
+        }
+    ], 
+    "form": [
+        {
+            "attribute_key": "sazsemaisi", 
+            "mb_attribute": "Sazsemaisi", 
+            "source": "http://musicbrainz.org/work/ad9fb46e-eb95-4446-93ad-e3bf13c01a95"
+        }, 
+        {
+            "attribute_key": "sazsemaisi", 
+            "mb_tag": "sazsemaisi", 
+            "source": "http://musicbrainz.org/recording/daced1cb-7889-4662-9b71-36e33aae548c"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "93d37c26-9732-4558-afc9-b2e5d3f58cb0", 
+            "title": "Ney ile \u0130cra Edilmi\u015f Saz Eserleri"
+        }
+    ], 
+    "title": "U\u015f\u015fak Saz Semai (M\u00fcstahsen Ney)", 
+    "url": "http://musicbrainz.org/recording/daced1cb-7889-4662-9b71-36e33aae548c", 
+    "artist_credits": [
+        {
+            "mbid": "7a3adb1f-ebe6-4dbe-a0cc-c71f034d4091", 
+            "name": "Volkan Y\u0131lmaz"
+        }
+    ], 
+    "mbid": "daced1cb-7889-4662-9b71-36e33aae548c", 
+    "makam": [
+        {
+            "attribute_key": "ussak", 
+            "mb_attribute": "U\u015f\u015fak", 
+            "source": "http://musicbrainz.org/work/ad9fb46e-eb95-4446-93ad-e3bf13c01a95"
+        }, 
+        {
+            "attribute_key": "ussak", 
+            "mb_tag": "u\u015f\u015fak", 
+            "source": "http://musicbrainz.org/recording/daced1cb-7889-4662-9b71-36e33aae548c"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "7a3adb1f-ebe6-4dbe-a0cc-c71f034d4091", 
+            "attribute-list": [
+                "ney"
+            ], 
+            "type": "instrument", 
+            "name": "Volkan Y\u0131lmaz"
+        }
+    ], 
+    "instrumentation_voicing": "Solo instrumental", 
+    "works": [
+        {
+            "mbid": "ad9fb46e-eb95-4446-93ad-e3bf13c01a95", 
+            "title": "U\u015f\u015fak Sazsemaisi"
+        }
+    ]
+}

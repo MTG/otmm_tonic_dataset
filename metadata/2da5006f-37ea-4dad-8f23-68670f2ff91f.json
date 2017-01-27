@@ -1,0 +1,59 @@
+{
+    "instrumentation_voicing": "Solo instrumental", 
+    "form": [
+        {
+            "attribute_key": "taksim", 
+            "mb_tag": "taksim", 
+            "source": "http://musicbrainz.org/recording/2da5006f-37ea-4dad-8f23-68670f2ff91f"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "abb360bb-6fe2-46f5-a301-fbea5795762b", 
+            "title": "Sufi Breaths - \u015eah-\u0131 Devran"
+        }
+    ], 
+    "title": "Taksim (Improvisations)", 
+    "url": "http://musicbrainz.org/recording/2da5006f-37ea-4dad-8f23-68670f2ff91f", 
+    "artist_credits": [
+        {
+            "mbid": "5121835d-84fb-44c6-8eed-8a8da4c444ba", 
+            "name": "Ahmet \u015eahin"
+        }
+    ], 
+    "mbid": "2da5006f-37ea-4dad-8f23-68670f2ff91f", 
+    "makam": [
+        {
+            "attribute_key": "muhayyersunbule", 
+            "mb_tag": "muhayyers\u00fcnb\u00fcle", 
+            "source": "http://musicbrainz.org/recording/2da5006f-37ea-4dad-8f23-68670f2ff91f"
+        }, 
+        {
+            "attribute_key": "beyati_araban", 
+            "mb_tag": "beyati-araban", 
+            "source": "http://musicbrainz.org/recording/2da5006f-37ea-4dad-8f23-68670f2ff91f"
+        }, 
+        {
+            "attribute_key": "huseyni", 
+            "mb_tag": "karc\u0131\u011far", 
+            "source": "http://musicbrainz.org/recording/2da5006f-37ea-4dad-8f23-68670f2ff91f"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "5121835d-84fb-44c6-8eed-8a8da4c444ba", 
+            "attribute-list": [
+                "ney"
+            ], 
+            "type": "instrument", 
+            "name": "Ahmet \u015eahin"
+        }
+    ], 
+    "usul": [
+        {
+            "attribute_key": "serbest", 
+            "mb_tag": "serbest", 
+            "source": "http://musicbrainz.org/recording/2da5006f-37ea-4dad-8f23-68670f2ff91f"
+        }
+    ]
+}

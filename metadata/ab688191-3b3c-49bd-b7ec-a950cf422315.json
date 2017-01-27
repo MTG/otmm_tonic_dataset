@@ -1,0 +1,67 @@
+{
+    "usul": [
+        {
+            "attribute_key": "yuruksemai", 
+            "mb_attribute": "Y\u00fcr\u00fcksemai", 
+            "source": "http://musicbrainz.org/work/d461e990-e760-4b20-9be7-268b5ce7c346"
+        }, 
+        {
+            "attribute_key": "yuruksemai", 
+            "mb_tag": "y\u00fcr\u00fcksemai", 
+            "source": "http://musicbrainz.org/recording/ab688191-3b3c-49bd-b7ec-a950cf422315"
+        }
+    ], 
+    "form": [
+        {
+            "attribute_key": "yuruksemai", 
+            "mb_attribute": "Y\u00fcr\u00fcksemai", 
+            "source": "http://musicbrainz.org/work/d461e990-e760-4b20-9be7-268b5ce7c346"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "e8e5fd78-af90-40e2-a5bd-de5217f899ff", 
+            "title": "Bekir S\u0131dk\u0131 Sezgin 25"
+        }
+    ], 
+    "title": "Ey Dil Heves-i Vuslat-\u0131 Canan Sana D\u00fc\u015fmez", 
+    "url": "http://musicbrainz.org/recording/ab688191-3b3c-49bd-b7ec-a950cf422315", 
+    "artist_credits": [
+        {
+            "mbid": "7ef61959-65f2-41ab-9ae2-ba890812b7b4", 
+            "name": "Bekir S\u0131dk\u0131 Sezgin"
+        }
+    ], 
+    "mbid": "ab688191-3b3c-49bd-b7ec-a950cf422315", 
+    "makam": [
+        {
+            "attribute_key": "suzinak", 
+            "mb_attribute": "Suzinak", 
+            "source": "http://musicbrainz.org/work/d461e990-e760-4b20-9be7-268b5ce7c346"
+        }, 
+        {
+            "attribute_key": "suzinak", 
+            "mb_tag": "suzinak", 
+            "source": "http://musicbrainz.org/recording/ab688191-3b3c-49bd-b7ec-a950cf422315"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
+            "type": "performing orchestra", 
+            "name": "[unknown]"
+        }, 
+        {
+            "mbid": "7ef61959-65f2-41ab-9ae2-ba890812b7b4", 
+            "type": "vocal", 
+            "name": "Bekir S\u0131dk\u0131 Sezgin"
+        }
+    ], 
+    "instrumentation_voicing": "Solo vocal with accompaniment", 
+    "works": [
+        {
+            "mbid": "d461e990-e760-4b20-9be7-268b5ce7c346", 
+            "title": "Ey Dil Heves-i Vuslat-\u0131 Canan Sana D\u00fc\u015fmez"
+        }
+    ]
+}

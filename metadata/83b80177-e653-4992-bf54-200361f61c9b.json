@@ -1,0 +1,70 @@
+{
+    "usul": [
+        {
+            "attribute_key": "aksaksemai", 
+            "mb_attribute": "Aksaksemai", 
+            "source": "http://musicbrainz.org/work/128bbaa3-e7f2-417e-924e-0eac99880556"
+        }, 
+        {
+            "attribute_key": "aksaksemai", 
+            "mb_tag": "aksaksemai", 
+            "source": "http://musicbrainz.org/recording/83b80177-e653-4992-bf54-200361f61c9b"
+        }
+    ], 
+    "form": [
+        {
+            "attribute_key": "sazsemaisi", 
+            "mb_attribute": "Sazsemaisi", 
+            "source": "http://musicbrainz.org/work/128bbaa3-e7f2-417e-924e-0eac99880556"
+        }, 
+        {
+            "attribute_key": "sazsemaisi", 
+            "mb_tag": "sazsemaisi", 
+            "source": "http://musicbrainz.org/recording/83b80177-e653-4992-bf54-200361f61c9b"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "8d71678a-4324-4754-9520-af5394356891", 
+            "title": "Turkish Music Makam Guide"
+        }
+    ], 
+    "title": "Isfahan Sazsemaisi", 
+    "url": "http://musicbrainz.org/recording/83b80177-e653-4992-bf54-200361f61c9b", 
+    "artist_credits": [
+        {
+            "mbid": "9b6e98f8-b695-45da-8c9c-68d4bab460fd", 
+            "name": "Murat Aydemir"
+        }
+    ], 
+    "mbid": "83b80177-e653-4992-bf54-200361f61c9b", 
+    "makam": [
+        {
+            "attribute_key": "isfahan", 
+            "mb_attribute": "Isfahan", 
+            "source": "http://musicbrainz.org/work/128bbaa3-e7f2-417e-924e-0eac99880556"
+        }, 
+        {
+            "attribute_key": "isfahan", 
+            "mb_tag": "\u0131sfahan", 
+            "source": "http://musicbrainz.org/recording/83b80177-e653-4992-bf54-200361f61c9b"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "9b6e98f8-b695-45da-8c9c-68d4bab460fd", 
+            "attribute-list": [
+                "tanbur"
+            ], 
+            "type": "instrument", 
+            "name": "Murat Aydemir"
+        }
+    ], 
+    "instrumentation_voicing": "Solo instrumental", 
+    "works": [
+        {
+            "mbid": "128bbaa3-e7f2-417e-924e-0eac99880556", 
+            "title": "Isfahan Sazsemaisi"
+        }
+    ]
+}

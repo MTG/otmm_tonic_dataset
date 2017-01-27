@@ -1,0 +1,72 @@
+{
+    "usul": [
+        {
+            "attribute_key": "duyek", 
+            "mb_attribute": "D\u00fcyek", 
+            "source": "http://musicbrainz.org/work/12dbd03f-0959-4751-96dc-5761938081fd"
+        }, 
+        {
+            "attribute_key": "duyek", 
+            "mb_tag": "d\u00fcyek", 
+            "source": "http://musicbrainz.org/recording/09c12dd2-55d3-47f6-ab41-53ea921ebb3a"
+        }
+    ], 
+    "form": [
+        {
+            "attribute_key": "beste", 
+            "mb_attribute": "Beste", 
+            "source": "http://musicbrainz.org/work/12dbd03f-0959-4751-96dc-5761938081fd"
+        }, 
+        {
+            "attribute_key": "beste", 
+            "mb_tag": "beste", 
+            "source": "http://musicbrainz.org/recording/09c12dd2-55d3-47f6-ab41-53ea921ebb3a"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "8bf2ac3f-26f7-4a78-ac00-467cd2667bf6", 
+            "title": "Hicaz 13"
+        }
+    ], 
+    "title": "Cevr-i Yare Sab\u0131r Buldum \u00d6mr\u00fcm Ahzana Kald\u0131", 
+    "url": "http://musicbrainz.org/recording/09c12dd2-55d3-47f6-ab41-53ea921ebb3a", 
+    "artist_credits": [
+        {
+            "mbid": "7ef61959-65f2-41ab-9ae2-ba890812b7b4", 
+            "name": "Bekir S\u0131dk\u0131 Sezgin"
+        }
+    ], 
+    "mbid": "09c12dd2-55d3-47f6-ab41-53ea921ebb3a", 
+    "makam": [
+        {
+            "attribute_key": "hicaz", 
+            "mb_attribute": "Hicaz", 
+            "source": "http://musicbrainz.org/work/12dbd03f-0959-4751-96dc-5761938081fd"
+        }, 
+        {
+            "attribute_key": "hicaz", 
+            "mb_tag": "hicaz", 
+            "source": "http://musicbrainz.org/recording/09c12dd2-55d3-47f6-ab41-53ea921ebb3a"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
+            "type": "performing orchestra", 
+            "name": "[unknown]"
+        }, 
+        {
+            "mbid": "7ef61959-65f2-41ab-9ae2-ba890812b7b4", 
+            "type": "vocal", 
+            "name": "Bekir S\u0131dk\u0131 Sezgin"
+        }
+    ], 
+    "instrumentation_voicing": "Solo vocal with accompaniment", 
+    "works": [
+        {
+            "mbid": "12dbd03f-0959-4751-96dc-5761938081fd", 
+            "title": "Cevr-i Yare Sab\u0131r Buldum"
+        }
+    ]
+}

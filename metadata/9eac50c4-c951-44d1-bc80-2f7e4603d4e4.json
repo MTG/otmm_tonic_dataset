@@ -1,0 +1,51 @@
+{
+    "instrumentation_voicing": "Solo vocal without accompaniment", 
+    "form": [
+        {
+            "attribute_key": "gazel", 
+            "mb_tag": "gazel", 
+            "source": "http://musicbrainz.org/recording/9eac50c4-c951-44d1-bc80-2f7e4603d4e4"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "a59bec8b-8d42-4203-9e90-78b1d56419fd", 
+            "title": "Ge\u00e7mi\u015ften G\u00fcn\u00fcm\u00fcze T\u00fcrk M\u00fczi\u011fi Dersaadet'te Ak\u015fam"
+        }
+    ], 
+    "title": "A\u015fk Ehline Alemde Dil-ara M\u0131 Bulumaz", 
+    "url": "http://musicbrainz.org/recording/9eac50c4-c951-44d1-bc80-2f7e4603d4e4", 
+    "artist_credits": [
+        {
+            "mbid": "f31e522b-853e-409c-97fe-5d3cd59849b9", 
+            "name": "Haf\u0131z Ahmed Bey"
+        }
+    ], 
+    "mbid": "9eac50c4-c951-44d1-bc80-2f7e4603d4e4", 
+    "makam": [
+        {
+            "attribute_key": "hicaz", 
+            "mb_tag": "hicaz", 
+            "source": "http://musicbrainz.org/recording/9eac50c4-c951-44d1-bc80-2f7e4603d4e4"
+        }, 
+        {
+            "attribute_key": "neva", 
+            "mb_tag": "neva", 
+            "source": "http://musicbrainz.org/recording/9eac50c4-c951-44d1-bc80-2f7e4603d4e4"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "f31e522b-853e-409c-97fe-5d3cd59849b9", 
+            "type": "vocal", 
+            "name": "Haf\u0131z Ahmed Bey"
+        }
+    ], 
+    "usul": [
+        {
+            "attribute_key": "serbest", 
+            "mb_tag": "serbest", 
+            "source": "http://musicbrainz.org/recording/9eac50c4-c951-44d1-bc80-2f7e4603d4e4"
+        }
+    ]
+}

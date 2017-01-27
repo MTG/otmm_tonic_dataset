@@ -1,0 +1,76 @@
+{
+    "usul": [
+        {
+            "attribute_key": "duyek", 
+            "mb_attribute": "D\u00fcyek", 
+            "source": "http://musicbrainz.org/work/dde597c9-c87b-4f75-9c74-2d808268e317"
+        }, 
+        {
+            "attribute_key": "duyek", 
+            "mb_tag": "d\u00fcyek", 
+            "source": "http://musicbrainz.org/recording/572f30ed-5321-40a9-8003-5b5d7ec45f3b"
+        }
+    ], 
+    "form": [
+        {
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
+            "source": "http://musicbrainz.org/work/dde597c9-c87b-4f75-9c74-2d808268e317"
+        }, 
+        {
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
+            "source": "http://musicbrainz.org/recording/572f30ed-5321-40a9-8003-5b5d7ec45f3b"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "7bb7eb2b-cfef-48bd-ac3f-7b44cb627b5b", 
+            "title": "T\u00fcrk M\u00fczi\u011fi Koleksiyonu 5: Avni An\u0131l"
+        }
+    ], 
+    "title": "Kader", 
+    "url": "http://musicbrainz.org/recording/572f30ed-5321-40a9-8003-5b5d7ec45f3b", 
+    "artist_credits": [
+        {
+            "mbid": "f7cde484-31d6-415d-a5ae-82ab5a1191da", 
+            "name": "Mediha \u015een Sancako\u011flu"
+        }, 
+        {
+            "mbid": "e259b60c-50a0-4984-bf1e-786e76c5d553", 
+            "name": "Adnan Yavuzer"
+        }
+    ], 
+    "mbid": "572f30ed-5321-40a9-8003-5b5d7ec45f3b", 
+    "makam": [
+        {
+            "attribute_key": "hicaz", 
+            "mb_attribute": "Hicaz", 
+            "source": "http://musicbrainz.org/work/dde597c9-c87b-4f75-9c74-2d808268e317"
+        }, 
+        {
+            "attribute_key": "hicaz", 
+            "mb_tag": "hicaz", 
+            "source": "http://musicbrainz.org/recording/572f30ed-5321-40a9-8003-5b5d7ec45f3b"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
+            "type": "performing orchestra", 
+            "name": "[unknown]"
+        }, 
+        {
+            "mbid": "f7cde484-31d6-415d-a5ae-82ab5a1191da", 
+            "type": "vocal", 
+            "name": "Mediha \u015een Sancako\u011flu"
+        }
+    ], 
+    "instrumentation_voicing": "Solo vocal with accompaniment", 
+    "works": [
+        {
+            "mbid": "dde597c9-c87b-4f75-9c74-2d808268e317", 
+            "title": "Kader Kime \u015eikayet Edeyim Seni"
+        }
+    ]
+}

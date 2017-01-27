@@ -1,0 +1,70 @@
+{
+    "usul": [
+        {
+            "attribute_key": "devrikebir", 
+            "mb_attribute": "Devr-i Kebir", 
+            "source": "http://musicbrainz.org/work/97ffb9f6-7eca-4dc3-bc45-4d6c14e0fb2d"
+        }, 
+        {
+            "attribute_key": "devrikebir", 
+            "mb_tag": "devr-i kebir", 
+            "source": "http://musicbrainz.org/recording/fdb79bb2-f598-46f6-816c-e13eff4a0300"
+        }
+    ], 
+    "form": [
+        {
+            "attribute_key": "pesrev", 
+            "mb_attribute": "Pe\u015frev", 
+            "source": "http://musicbrainz.org/work/97ffb9f6-7eca-4dc3-bc45-4d6c14e0fb2d"
+        }, 
+        {
+            "attribute_key": "pesrev", 
+            "mb_tag": "pe\u015frev", 
+            "source": "http://musicbrainz.org/recording/fdb79bb2-f598-46f6-816c-e13eff4a0300"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "b631dac8-f47d-494d-9063-45e9b2ace879", 
+            "title": "Osmanl\u0131'dan Bug\u00fcne T\u00fcrk Musikisi- Keman"
+        }
+    ], 
+    "title": "Segah Pe\u015frev", 
+    "url": "http://musicbrainz.org/recording/fdb79bb2-f598-46f6-816c-e13eff4a0300", 
+    "artist_credits": [
+        {
+            "mbid": "b8b24ca8-e429-414a-9336-272ed8f131e0", 
+            "name": "Fahri Karaduman"
+        }
+    ], 
+    "mbid": "fdb79bb2-f598-46f6-816c-e13eff4a0300", 
+    "makam": [
+        {
+            "attribute_key": "segah", 
+            "mb_attribute": "Segah", 
+            "source": "http://musicbrainz.org/work/97ffb9f6-7eca-4dc3-bc45-4d6c14e0fb2d"
+        }, 
+        {
+            "attribute_key": "segah", 
+            "mb_tag": "segah", 
+            "source": "http://musicbrainz.org/recording/fdb79bb2-f598-46f6-816c-e13eff4a0300"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "b8b24ca8-e429-414a-9336-272ed8f131e0", 
+            "attribute-list": [
+                "violin"
+            ], 
+            "type": "instrument", 
+            "name": "Fahri Karaduman"
+        }
+    ], 
+    "instrumentation_voicing": "Solo instrumental", 
+    "works": [
+        {
+            "mbid": "97ffb9f6-7eca-4dc3-bc45-4d6c14e0fb2d", 
+            "title": "Seg\u00e2h Pe\u015frev"
+        }
+    ]
+}

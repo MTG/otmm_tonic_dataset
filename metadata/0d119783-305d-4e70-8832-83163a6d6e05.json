@@ -1,0 +1,72 @@
+{
+    "usul": [
+        {
+            "attribute_key": "semai", 
+            "mb_attribute": "Semai", 
+            "source": "http://musicbrainz.org/work/4ab1c1d9-6839-45e7-9d65-0a101dab6717"
+        }, 
+        {
+            "attribute_key": "duyek", 
+            "mb_attribute": "D\u00fcyek", 
+            "source": "http://musicbrainz.org/work/4ab1c1d9-6839-45e7-9d65-0a101dab6717"
+        }, 
+        {
+            "attribute_key": "semai", 
+            "mb_tag": "semai", 
+            "source": "http://musicbrainz.org/recording/0d119783-305d-4e70-8832-83163a6d6e05"
+        }
+    ], 
+    "form": [
+        {
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
+            "source": "http://musicbrainz.org/work/4ab1c1d9-6839-45e7-9d65-0a101dab6717"
+        }, 
+        {
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
+            "source": "http://musicbrainz.org/recording/0d119783-305d-4e70-8832-83163a6d6e05"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "659e23be-4186-4b89-b758-addf78c27b6a", 
+            "title": "Fasl-\u0131 \u015eahane Enstrumantal, Volume 4"
+        }
+    ], 
+    "title": "Ben Seni Unutmak \u0130\u00e7in Sevmedim", 
+    "url": "http://musicbrainz.org/recording/0d119783-305d-4e70-8832-83163a6d6e05", 
+    "artist_credits": [
+        {
+            "mbid": "ef074ab6-a2a8-42f7-a454-068265023697", 
+            "name": "Aziz T\u00fcrk Sanat M\u00fczi\u011fi Grubu"
+        }
+    ], 
+    "mbid": "0d119783-305d-4e70-8832-83163a6d6e05", 
+    "makam": [
+        {
+            "attribute_key": "segah", 
+            "mb_attribute": "Segah", 
+            "source": "http://musicbrainz.org/work/4ab1c1d9-6839-45e7-9d65-0a101dab6717"
+        }, 
+        {
+            "attribute_key": "segah", 
+            "mb_tag": "segah", 
+            "source": "http://musicbrainz.org/recording/0d119783-305d-4e70-8832-83163a6d6e05"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "ef074ab6-a2a8-42f7-a454-068265023697", 
+            "type": "performing orchestra", 
+            "name": "Aziz T\u00fcrk Sanat M\u00fczi\u011fi Grubu"
+        }
+    ], 
+    "instrumentation_voicing": "Ensemble instrumental", 
+    "works": [
+        {
+            "mbid": "4ab1c1d9-6839-45e7-9d65-0a101dab6717", 
+            "title": "Ben Seni Unutmak \u0130\u00e7in Sevmedim"
+        }
+    ]
+}

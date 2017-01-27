@@ -1,0 +1,87 @@
+{
+    "usul": [
+        {
+            "attribute_key": "duyek", 
+            "mb_attribute": "D\u00fcyek", 
+            "source": "http://musicbrainz.org/work/e2d35746-f8c9-48a5-ba21-0646fa8ba56b"
+        }, 
+        {
+            "attribute_key": "curcuna", 
+            "mb_attribute": "Curcuna", 
+            "source": "http://musicbrainz.org/work/e2d35746-f8c9-48a5-ba21-0646fa8ba56b"
+        }, 
+        {
+            "attribute_key": "kapali_curcuna", 
+            "mb_tag": "curcuna", 
+            "source": "http://musicbrainz.org/recording/eceff368-5780-4d78-8283-87ce60691663"
+        }, 
+        {
+            "attribute_key": "sofyan", 
+            "mb_tag": "sofyan", 
+            "source": "http://musicbrainz.org/recording/eceff368-5780-4d78-8283-87ce60691663"
+        }, 
+        {
+            "attribute_key": "duyek", 
+            "mb_tag": "d\u00fcyek", 
+            "source": "http://musicbrainz.org/recording/eceff368-5780-4d78-8283-87ce60691663"
+        }
+    ], 
+    "form": [
+        {
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
+            "source": "http://musicbrainz.org/work/e2d35746-f8c9-48a5-ba21-0646fa8ba56b"
+        }, 
+        {
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
+            "source": "http://musicbrainz.org/recording/eceff368-5780-4d78-8283-87ce60691663"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "6b94e631-734e-4ebb-9acd-0741183608fe", 
+            "title": "Bekir S\u0131dk\u0131 Sezgin 22"
+        }
+    ], 
+    "title": "Leyla Acep Neden Ses Vermiyor Feryad\u0131ma", 
+    "url": "http://musicbrainz.org/recording/eceff368-5780-4d78-8283-87ce60691663", 
+    "artist_credits": [
+        {
+            "mbid": "7ef61959-65f2-41ab-9ae2-ba890812b7b4", 
+            "name": "Bekir S\u0131dk\u0131 Sezgin"
+        }
+    ], 
+    "mbid": "eceff368-5780-4d78-8283-87ce60691663", 
+    "makam": [
+        {
+            "attribute_key": "hicazkar", 
+            "mb_attribute": "Hicazkar", 
+            "source": "http://musicbrainz.org/work/e2d35746-f8c9-48a5-ba21-0646fa8ba56b"
+        }, 
+        {
+            "attribute_key": "hicazkar", 
+            "mb_tag": "hicazkar", 
+            "source": "http://musicbrainz.org/recording/eceff368-5780-4d78-8283-87ce60691663"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
+            "type": "performing orchestra", 
+            "name": "[unknown]"
+        }, 
+        {
+            "mbid": "7ef61959-65f2-41ab-9ae2-ba890812b7b4", 
+            "type": "vocal", 
+            "name": "Bekir S\u0131dk\u0131 Sezgin"
+        }
+    ], 
+    "instrumentation_voicing": "Solo vocal with accompaniment", 
+    "works": [
+        {
+            "mbid": "e2d35746-f8c9-48a5-ba21-0646fa8ba56b", 
+            "title": "Leyla Aceb Neden Ses Vermiyor Feryad\u0131ma"
+        }
+    ]
+}

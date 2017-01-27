@@ -1,0 +1,75 @@
+{
+    "usul": [
+        {
+            "attribute_key": "hafif", 
+            "mb_attribute": "Hafif", 
+            "source": "http://musicbrainz.org/work/f1fd86a8-f3ff-4daf-83c2-2e0b7d9b269f"
+        }, 
+        {
+            "attribute_key": "hafif", 
+            "mb_tag": "hafif", 
+            "source": "http://musicbrainz.org/recording/04a7bb96-29aa-4c9c-a3db-93e251e34c07"
+        }
+    ], 
+    "form": [
+        {
+            "attribute_key": "pesrev", 
+            "mb_attribute": "Pe\u015frev", 
+            "source": "http://musicbrainz.org/work/f1fd86a8-f3ff-4daf-83c2-2e0b7d9b269f"
+        }, 
+        {
+            "attribute_key": "pesrev", 
+            "mb_tag": "pe\u015frev", 
+            "source": "http://musicbrainz.org/recording/04a7bb96-29aa-4c9c-a3db-93e251e34c07"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "8d71678a-4324-4754-9520-af5394356891", 
+            "title": "Turkish Music Makam Guide"
+        }
+    ], 
+    "title": "Nev'eser Pe\u015frev", 
+    "url": "http://musicbrainz.org/recording/04a7bb96-29aa-4c9c-a3db-93e251e34c07", 
+    "artist_credits": [
+        {
+            "mbid": "9b6e98f8-b695-45da-8c9c-68d4bab460fd", 
+            "name": "Murat Aydemir"
+        }
+    ], 
+    "mbid": "04a7bb96-29aa-4c9c-a3db-93e251e34c07", 
+    "makam": [
+        {
+            "attribute_key": "neveser", 
+            "mb_attribute": "Neveser", 
+            "source": "http://musicbrainz.org/work/f1fd86a8-f3ff-4daf-83c2-2e0b7d9b269f"
+        }, 
+        {
+            "attribute_key": "neveser", 
+            "mb_tag": "nev'eser", 
+            "source": "http://musicbrainz.org/recording/04a7bb96-29aa-4c9c-a3db-93e251e34c07"
+        }, 
+        {
+            "attribute_key": "neveser", 
+            "mb_tag": "neveser", 
+            "source": "http://musicbrainz.org/recording/04a7bb96-29aa-4c9c-a3db-93e251e34c07"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "9b6e98f8-b695-45da-8c9c-68d4bab460fd", 
+            "attribute-list": [
+                "tanbur"
+            ], 
+            "type": "instrument", 
+            "name": "Murat Aydemir"
+        }
+    ], 
+    "instrumentation_voicing": "Solo instrumental", 
+    "works": [
+        {
+            "mbid": "f1fd86a8-f3ff-4daf-83c2-2e0b7d9b269f", 
+            "title": "Neveser Pe\u015frev"
+        }
+    ]
+}

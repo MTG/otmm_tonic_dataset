@@ -1,0 +1,70 @@
+{
+    "usul": [
+        {
+            "attribute_key": "aksaksemai", 
+            "mb_attribute": "Aksaksemai", 
+            "source": "http://musicbrainz.org/work/71710555-64c8-4293-aa85-edf072abbdbe"
+        }, 
+        {
+            "attribute_key": "aksaksemai", 
+            "mb_tag": "aksaksemai", 
+            "source": "http://musicbrainz.org/recording/fb34b4d9-7087-490f-b036-a0c69b53bed8"
+        }
+    ], 
+    "form": [
+        {
+            "attribute_key": "sazsemaisi", 
+            "mb_attribute": "Sazsemaisi", 
+            "source": "http://musicbrainz.org/work/71710555-64c8-4293-aa85-edf072abbdbe"
+        }, 
+        {
+            "attribute_key": "sazsemaisi", 
+            "mb_tag": "sazsemaisi", 
+            "source": "http://musicbrainz.org/recording/fb34b4d9-7087-490f-b036-a0c69b53bed8"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "1843f8d1-f6b8-440c-ab54-59fc8c3898a6", 
+            "title": "Yayl\u0131 Tanbur"
+        }
+    ], 
+    "title": "\u015eehnaz Sazsemaisi", 
+    "url": "http://musicbrainz.org/recording/fb34b4d9-7087-490f-b036-a0c69b53bed8", 
+    "artist_credits": [
+        {
+            "mbid": "6256ace7-f139-4a22-a5e2-e9e46bffb0d4", 
+            "name": "Fahrettin \u00c7imenli"
+        }
+    ], 
+    "mbid": "fb34b4d9-7087-490f-b036-a0c69b53bed8", 
+    "makam": [
+        {
+            "attribute_key": "sehnaz", 
+            "mb_attribute": "\u015eehnaz", 
+            "source": "http://musicbrainz.org/work/71710555-64c8-4293-aa85-edf072abbdbe"
+        }, 
+        {
+            "attribute_key": "sehnaz", 
+            "mb_tag": "\u015fehnaz", 
+            "source": "http://musicbrainz.org/recording/fb34b4d9-7087-490f-b036-a0c69b53bed8"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "6256ace7-f139-4a22-a5e2-e9e46bffb0d4", 
+            "attribute-list": [
+                "tanbur"
+            ], 
+            "type": "instrument", 
+            "name": "Fahrettin \u00c7imenli"
+        }
+    ], 
+    "instrumentation_voicing": "Solo instrumental", 
+    "works": [
+        {
+            "mbid": "71710555-64c8-4293-aa85-edf072abbdbe", 
+            "title": "\u015eehnaz Sazsemaisi"
+        }
+    ]
+}

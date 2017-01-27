@@ -1,0 +1,49 @@
+{
+    "instrumentation_voicing": "Solo instrumental", 
+    "form": [
+        {
+            "attribute_key": "taksim", 
+            "mb_tag": "taksim", 
+            "source": "http://musicbrainz.org/recording/464c1a59-c64d-4797-8f1e-86e0d9a28d3a"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "291a62d1-907b-41b0-8f38-44666de278dc", 
+            "title": "14 Makamda Keman Taksimleri"
+        }
+    ], 
+    "title": "Karc\u0131\u011far Taksimi", 
+    "url": "http://musicbrainz.org/recording/464c1a59-c64d-4797-8f1e-86e0d9a28d3a", 
+    "artist_credits": [
+        {
+            "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
+            "name": "[unknown]"
+        }
+    ], 
+    "mbid": "464c1a59-c64d-4797-8f1e-86e0d9a28d3a", 
+    "makam": [
+        {
+            "attribute_key": "huseyni", 
+            "mb_tag": "karc\u0131\u011far", 
+            "source": "http://musicbrainz.org/recording/464c1a59-c64d-4797-8f1e-86e0d9a28d3a"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
+            "attribute-list": [
+                "violin"
+            ], 
+            "type": "instrument", 
+            "name": "[unknown]"
+        }
+    ], 
+    "usul": [
+        {
+            "attribute_key": "serbest", 
+            "mb_tag": "serbest", 
+            "source": "http://musicbrainz.org/recording/464c1a59-c64d-4797-8f1e-86e0d9a28d3a"
+        }
+    ]
+}

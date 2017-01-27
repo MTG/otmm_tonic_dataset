@@ -1,0 +1,70 @@
+{
+    "usul": [
+        {
+            "attribute_key": "hafif", 
+            "mb_attribute": "Hafif", 
+            "source": "http://musicbrainz.org/work/52cfbdfb-ddb5-49b7-894b-f822caab2d02"
+        }, 
+        {
+            "attribute_key": "hafif", 
+            "mb_tag": "hafif", 
+            "source": "http://musicbrainz.org/recording/21027234-1656-4263-8e27-c14e2f76abe5"
+        }
+    ], 
+    "form": [
+        {
+            "attribute_key": "pesrev", 
+            "mb_attribute": "Pe\u015frev", 
+            "source": "http://musicbrainz.org/work/52cfbdfb-ddb5-49b7-894b-f822caab2d02"
+        }, 
+        {
+            "attribute_key": "pesrev", 
+            "mb_tag": "pe\u015frev", 
+            "source": "http://musicbrainz.org/recording/21027234-1656-4263-8e27-c14e2f76abe5"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "b631dac8-f47d-494d-9063-45e9b2ace879", 
+            "title": "Osmanl\u0131'dan Bug\u00fcne T\u00fcrk Musikisi- Keman"
+        }
+    ], 
+    "title": "Hicaz Pe\u015frev", 
+    "url": "http://musicbrainz.org/recording/21027234-1656-4263-8e27-c14e2f76abe5", 
+    "artist_credits": [
+        {
+            "mbid": "b8b24ca8-e429-414a-9336-272ed8f131e0", 
+            "name": "Fahri Karaduman"
+        }
+    ], 
+    "mbid": "21027234-1656-4263-8e27-c14e2f76abe5", 
+    "makam": [
+        {
+            "attribute_key": "hicaz", 
+            "mb_attribute": "Hicaz", 
+            "source": "http://musicbrainz.org/work/52cfbdfb-ddb5-49b7-894b-f822caab2d02"
+        }, 
+        {
+            "attribute_key": "hicaz", 
+            "mb_tag": "hicaz", 
+            "source": "http://musicbrainz.org/recording/21027234-1656-4263-8e27-c14e2f76abe5"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "b8b24ca8-e429-414a-9336-272ed8f131e0", 
+            "attribute-list": [
+                "violin"
+            ], 
+            "type": "instrument", 
+            "name": "Fahri Karaduman"
+        }
+    ], 
+    "instrumentation_voicing": "Solo instrumental", 
+    "works": [
+        {
+            "mbid": "52cfbdfb-ddb5-49b7-894b-f822caab2d02", 
+            "title": "Hicaz Pe\u015frev"
+        }
+    ]
+}

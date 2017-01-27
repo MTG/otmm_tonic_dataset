@@ -1,0 +1,72 @@
+{
+    "usul": [
+        {
+            "attribute_key": "agiraksak", 
+            "mb_attribute": "A\u011f\u0131raksak", 
+            "source": "http://musicbrainz.org/work/e41ab346-4c6f-4639-9ac0-e9de1caccdf4"
+        }, 
+        {
+            "attribute_key": "agiraksak", 
+            "mb_tag": "a\u011f\u0131raksak", 
+            "source": "http://musicbrainz.org/recording/eecf1051-00ce-4abf-8c2d-bdf2d5e351fb"
+        }
+    ], 
+    "form": [
+        {
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
+            "source": "http://musicbrainz.org/work/e41ab346-4c6f-4639-9ac0-e9de1caccdf4"
+        }, 
+        {
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
+            "source": "http://musicbrainz.org/recording/eecf1051-00ce-4abf-8c2d-bdf2d5e351fb"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "def8324c-f183-437e-b51e-76e3b2129707", 
+            "title": "Trt Ar\u015fiv Serisi 28 - Bekir S\u0131tk\u0131 Sezgin'den Se\u00e7meler"
+        }
+    ], 
+    "title": "Bana Hemdem Eyleyen Ey Gam Seni", 
+    "url": "http://musicbrainz.org/recording/eecf1051-00ce-4abf-8c2d-bdf2d5e351fb", 
+    "artist_credits": [
+        {
+            "mbid": "7ef61959-65f2-41ab-9ae2-ba890812b7b4", 
+            "name": "Bekir S\u0131dk\u0131 Sezgin"
+        }
+    ], 
+    "mbid": "eecf1051-00ce-4abf-8c2d-bdf2d5e351fb", 
+    "makam": [
+        {
+            "attribute_key": "hicazkar", 
+            "mb_attribute": "Hicazkar", 
+            "source": "http://musicbrainz.org/work/e41ab346-4c6f-4639-9ac0-e9de1caccdf4"
+        }, 
+        {
+            "attribute_key": "hicazkar", 
+            "mb_tag": "hicazkar", 
+            "source": "http://musicbrainz.org/recording/eecf1051-00ce-4abf-8c2d-bdf2d5e351fb"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
+            "type": "performing orchestra", 
+            "name": "[unknown]"
+        }, 
+        {
+            "mbid": "7ef61959-65f2-41ab-9ae2-ba890812b7b4", 
+            "type": "vocal", 
+            "name": "Bekir S\u0131dk\u0131 Sezgin"
+        }
+    ], 
+    "instrumentation_voicing": "Solo vocal with accompaniment", 
+    "works": [
+        {
+            "mbid": "e41ab346-4c6f-4639-9ac0-e9de1caccdf4", 
+            "title": "Bana Hem Dem Eyleyen Ey Gam Seni"
+        }
+    ]
+}

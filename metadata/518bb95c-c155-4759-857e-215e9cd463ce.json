@@ -1,0 +1,66 @@
+{
+    "usul": [
+        {
+            "attribute_key": "aksaksemai", 
+            "mb_attribute": "Aksaksemai", 
+            "source": "http://musicbrainz.org/work/fd510c52-1e03-4e4e-ada1-1b533e18a585"
+        }
+    ], 
+    "form": [
+        {
+            "attribute_key": "sazsemaisi", 
+            "mb_attribute": "Sazsemaisi", 
+            "source": "http://musicbrainz.org/work/fd510c52-1e03-4e4e-ada1-1b533e18a585"
+        }, 
+        {
+            "attribute_key": "sazsemaisi", 
+            "mb_tag": "sazsemaisi", 
+            "source": "http://musicbrainz.org/recording/518bb95c-c155-4759-857e-215e9cd463ce"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "93d37c26-9732-4558-afc9-b2e5d3f58cb0", 
+            "title": "Ney ile \u0130cra Edilmi\u015f Saz Eserleri"
+        }
+    ], 
+    "title": "Neva Saz Semai (K\u0131z Ney)", 
+    "url": "http://musicbrainz.org/recording/518bb95c-c155-4759-857e-215e9cd463ce", 
+    "artist_credits": [
+        {
+            "mbid": "3a57e3a4-4e48-4ce2-aae0-c5b5275721eb", 
+            "name": "Salih Bilgin"
+        }
+    ], 
+    "mbid": "518bb95c-c155-4759-857e-215e9cd463ce", 
+    "makam": [
+        {
+            "attribute_key": "neva", 
+            "mb_attribute": "Neva", 
+            "source": "http://musicbrainz.org/work/fd510c52-1e03-4e4e-ada1-1b533e18a585"
+        }, 
+        {
+            "attribute_key": "neva", 
+            "mb_tag": "neva", 
+            "source": "http://musicbrainz.org/recording/518bb95c-c155-4759-857e-215e9cd463ce"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "3a57e3a4-4e48-4ce2-aae0-c5b5275721eb", 
+            "attribute-list": [
+                "ney", 
+                "solo"
+            ], 
+            "type": "instrument", 
+            "name": "Salih Bilgin"
+        }
+    ], 
+    "instrumentation_voicing": "Solo instrumental", 
+    "works": [
+        {
+            "mbid": "fd510c52-1e03-4e4e-ada1-1b533e18a585", 
+            "title": "Nev\u00e2 Sazsem\u00e2\u00eesi"
+        }
+    ]
+}

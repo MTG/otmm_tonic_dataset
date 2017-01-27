@@ -1,0 +1,62 @@
+{
+    "usul": [
+        {
+            "attribute_key": "devrikebir", 
+            "mb_attribute": "Devr-i Kebir", 
+            "source": "http://musicbrainz.org/work/92def4f6-dca5-452c-88d5-acc4aa87ab0b"
+        }, 
+        {
+            "attribute_key": "yuruksemai", 
+            "mb_tag": "y\u00fcr\u00fcksemai", 
+            "source": "http://musicbrainz.org/recording/a0f0e53e-558b-43bb-8d06-3e17c77cbcac"
+        }
+    ], 
+    "form": [
+        {
+            "attribute_key": "pesrev", 
+            "mb_attribute": "Pe\u015frev", 
+            "source": "http://musicbrainz.org/work/92def4f6-dca5-452c-88d5-acc4aa87ab0b"
+        }, 
+        {
+            "attribute_key": "ayin_i_serif", 
+            "mb_tag": "ayin-i \u015ferif", 
+            "source": "http://musicbrainz.org/recording/a0f0e53e-558b-43bb-8d06-3e17c77cbcac"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "430058da-7be0-48ec-abac-9b88b87e293f", 
+            "title": "Mevlevi Sesler"
+        }
+    ], 
+    "title": "Son Y\u00fcr\u00fcksemai", 
+    "url": "http://musicbrainz.org/recording/a0f0e53e-558b-43bb-8d06-3e17c77cbcac", 
+    "artist_credits": [
+        {
+            "mbid": "81081f45-a36e-4248-9d33-43d4a3445f6d", 
+            "name": "Dede Efendi"
+        }
+    ], 
+    "mbid": "a0f0e53e-558b-43bb-8d06-3e17c77cbcac", 
+    "makam": [
+        {
+            "attribute_key": "neva", 
+            "mb_attribute": "Neva", 
+            "source": "http://musicbrainz.org/work/92def4f6-dca5-452c-88d5-acc4aa87ab0b"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "713ad8af-1c98-4569-a445-71f7b9395945", 
+            "type": "performing orchestra", 
+            "name": "Dede Efendi T\u00fcrk M\u00fczi\u011fi Toplulu\u011fu"
+        }
+    ], 
+    "instrumentation_voicing": "Ensemble instrumental", 
+    "works": [
+        {
+            "mbid": "92def4f6-dca5-452c-88d5-acc4aa87ab0b", 
+            "title": "Neva Ayin-i \u015eerif"
+        }
+    ]
+}

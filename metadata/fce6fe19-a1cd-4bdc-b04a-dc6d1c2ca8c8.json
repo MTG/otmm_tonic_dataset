@@ -1,0 +1,72 @@
+{
+    "usul": [
+        {
+            "attribute_key": "agiraksak", 
+            "mb_attribute": "A\u011f\u0131raksak", 
+            "source": "http://musicbrainz.org/work/435acee6-921f-4b85-9d5b-7b0b48e81f79"
+        }, 
+        {
+            "attribute_key": "agiraksak", 
+            "mb_tag": "a\u011f\u0131raksak", 
+            "source": "http://musicbrainz.org/recording/fce6fe19-a1cd-4bdc-b04a-dc6d1c2ca8c8"
+        }
+    ], 
+    "form": [
+        {
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
+            "source": "http://musicbrainz.org/work/435acee6-921f-4b85-9d5b-7b0b48e81f79"
+        }, 
+        {
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
+            "source": "http://musicbrainz.org/recording/fce6fe19-a1cd-4bdc-b04a-dc6d1c2ca8c8"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "3bd738e1-2251-47d3-ae48-c5cd1fb1577f", 
+            "title": "Klasikler - 2"
+        }
+    ], 
+    "title": "Bekledim Y\u0131llarca (H\u00fczzam \u015eark\u0131)", 
+    "url": "http://musicbrainz.org/recording/fce6fe19-a1cd-4bdc-b04a-dc6d1c2ca8c8", 
+    "artist_credits": [
+        {
+            "mbid": "7ef61959-65f2-41ab-9ae2-ba890812b7b4", 
+            "name": "Bekir S\u0131dk\u0131 Sezgin"
+        }
+    ], 
+    "mbid": "fce6fe19-a1cd-4bdc-b04a-dc6d1c2ca8c8", 
+    "makam": [
+        {
+            "attribute_key": "huzzam", 
+            "mb_attribute": "H\u00fczzam", 
+            "source": "http://musicbrainz.org/work/435acee6-921f-4b85-9d5b-7b0b48e81f79"
+        }, 
+        {
+            "attribute_key": "huzzam", 
+            "mb_tag": "h\u00fczzam", 
+            "source": "http://musicbrainz.org/recording/fce6fe19-a1cd-4bdc-b04a-dc6d1c2ca8c8"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
+            "type": "performing orchestra", 
+            "name": "[unknown]"
+        }, 
+        {
+            "mbid": "7ef61959-65f2-41ab-9ae2-ba890812b7b4", 
+            "type": "vocal", 
+            "name": "Bekir S\u0131dk\u0131 Sezgin"
+        }
+    ], 
+    "instrumentation_voicing": "Solo vocal with accompaniment", 
+    "works": [
+        {
+            "mbid": "435acee6-921f-4b85-9d5b-7b0b48e81f79", 
+            "title": "Bekledim Y\u0131llarca Lakin"
+        }
+    ]
+}

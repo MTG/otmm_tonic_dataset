@@ -1,0 +1,89 @@
+{
+    "usul": [
+        {
+            "attribute_key": "agirduyek", 
+            "mb_attribute": "A\u011f\u0131rd\u00fcyek", 
+            "source": "http://musicbrainz.org/work/e3691957-a2bd-4e40-8041-582af3a02b4e"
+        }
+    ], 
+    "form": [
+        {
+            "attribute_key": "pesrev", 
+            "mb_attribute": "Pe\u015frev", 
+            "source": "http://musicbrainz.org/work/e3691957-a2bd-4e40-8041-582af3a02b4e"
+        }, 
+        {
+            "attribute_key": "pesrev", 
+            "mb_tag": "pe\u015frev", 
+            "source": "http://musicbrainz.org/recording/01b485c1-4c1a-4916-b8a5-1ec913da1c45"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "933a4ccf-ddda-4bd3-98e5-660634005054", 
+            "title": "Rum Bestek\u00e2rlar"
+        }
+    ], 
+    "title": "K\u00fcrdilihicazkar Pe\u015frev", 
+    "url": "http://musicbrainz.org/recording/01b485c1-4c1a-4916-b8a5-1ec913da1c45", 
+    "artist_credits": [
+        {
+            "mbid": "8cf45553-41e7-4544-8070-45ff74f7fb18", 
+            "name": "Ahmet Kadri Rizeli"
+        }
+    ], 
+    "mbid": "01b485c1-4c1a-4916-b8a5-1ec913da1c45", 
+    "makam": [
+        {
+            "attribute_key": "kurdilihicazkar", 
+            "mb_attribute": "K\u00fcrdilihicazkar", 
+            "source": "http://musicbrainz.org/work/e3691957-a2bd-4e40-8041-582af3a02b4e"
+        }, 
+        {
+            "attribute_key": "kurdilihicazkar", 
+            "mb_tag": "k\u00fcrdilihicazkar", 
+            "source": "http://musicbrainz.org/recording/01b485c1-4c1a-4916-b8a5-1ec913da1c45"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
+            "attribute-list": [
+                "ney"
+            ], 
+            "type": "instrument", 
+            "name": "[unknown]"
+        }, 
+        {
+            "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
+            "attribute-list": [
+                "tanbur"
+            ], 
+            "type": "instrument", 
+            "name": "[unknown]"
+        }, 
+        {
+            "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
+            "attribute-list": [
+                "kanun"
+            ], 
+            "type": "instrument", 
+            "name": "[unknown]"
+        }, 
+        {
+            "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
+            "attribute-list": [
+                "percussion"
+            ], 
+            "type": "instrument", 
+            "name": "[unknown]"
+        }
+    ], 
+    "instrumentation_voicing": "Ensemble instrumental", 
+    "works": [
+        {
+            "mbid": "e3691957-a2bd-4e40-8041-582af3a02b4e", 
+            "title": "K\u00fcrdilihicazkar Pe\u015frev"
+        }
+    ]
+}

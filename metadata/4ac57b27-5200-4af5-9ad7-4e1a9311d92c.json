@@ -1,0 +1,67 @@
+{
+    "usul": [
+        {
+            "attribute_key": "duyek", 
+            "mb_attribute": "D\u00fcyek", 
+            "source": "http://musicbrainz.org/work/196dee2d-321d-4408-b22e-9c27d5b27bb3"
+        }, 
+        {
+            "attribute_key": "duyek", 
+            "mb_tag": "d\u00fcyek", 
+            "source": "http://musicbrainz.org/recording/4ac57b27-5200-4af5-9ad7-4e1a9311d92c"
+        }
+    ], 
+    "form": [
+        {
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
+            "source": "http://musicbrainz.org/work/196dee2d-321d-4408-b22e-9c27d5b27bb3"
+        }, 
+        {
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
+            "source": "http://musicbrainz.org/recording/4ac57b27-5200-4af5-9ad7-4e1a9311d92c"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "088ca7fd-f53e-48ce-bbdb-1102d1d4133b", 
+            "title": "Fasl-\u0131 \u015eahane Enstrumantal, Volume 1"
+        }
+    ], 
+    "title": "Unut Beni", 
+    "url": "http://musicbrainz.org/recording/4ac57b27-5200-4af5-9ad7-4e1a9311d92c", 
+    "artist_credits": [
+        {
+            "mbid": "ef074ab6-a2a8-42f7-a454-068265023697", 
+            "name": "Aziz T\u00fcrk Sanat M\u00fczi\u011fi Grubu"
+        }
+    ], 
+    "mbid": "4ac57b27-5200-4af5-9ad7-4e1a9311d92c", 
+    "makam": [
+        {
+            "attribute_key": "rast", 
+            "mb_attribute": "Rast", 
+            "source": "http://musicbrainz.org/work/196dee2d-321d-4408-b22e-9c27d5b27bb3"
+        }, 
+        {
+            "attribute_key": "rast", 
+            "mb_tag": "rast", 
+            "source": "http://musicbrainz.org/recording/4ac57b27-5200-4af5-9ad7-4e1a9311d92c"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "ef074ab6-a2a8-42f7-a454-068265023697", 
+            "type": "performing orchestra", 
+            "name": "Aziz T\u00fcrk Sanat M\u00fczi\u011fi Grubu"
+        }
+    ], 
+    "instrumentation_voicing": "Ensemble instrumental", 
+    "works": [
+        {
+            "mbid": "196dee2d-321d-4408-b22e-9c27d5b27bb3", 
+            "title": "Unut Beni"
+        }
+    ]
+}

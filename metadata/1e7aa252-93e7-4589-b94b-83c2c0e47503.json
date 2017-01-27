@@ -1,0 +1,72 @@
+{
+    "usul": [
+        {
+            "attribute_key": "aksaksemai", 
+            "mb_attribute": "Aksaksemai", 
+            "source": "http://musicbrainz.org/work/50f8563f-9077-4a49-989a-d6e5daacf8d7"
+        }, 
+        {
+            "attribute_key": "aksaksemai", 
+            "mb_tag": "aksaksemai", 
+            "source": "http://musicbrainz.org/recording/1e7aa252-93e7-4589-b94b-83c2c0e47503"
+        }
+    ], 
+    "form": [
+        {
+            "attribute_key": "agirsemai", 
+            "mb_attribute": "A\u011f\u0131rsemai", 
+            "source": "http://musicbrainz.org/work/50f8563f-9077-4a49-989a-d6e5daacf8d7"
+        }, 
+        {
+            "attribute_key": "agirsemai", 
+            "mb_tag": "a\u011f\u0131rsemai", 
+            "source": "http://musicbrainz.org/recording/1e7aa252-93e7-4589-b94b-83c2c0e47503"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "cbbfd68e-1247-4042-aae9-ce8112f8973a", 
+            "title": "Bekir S\u0131dk\u0131 Sezgin 13"
+        }
+    ], 
+    "title": "Nice Bir B\u00fclb\u00fcl-i Nalan Gibi Feryad Edeyim", 
+    "url": "http://musicbrainz.org/recording/1e7aa252-93e7-4589-b94b-83c2c0e47503", 
+    "artist_credits": [
+        {
+            "mbid": "7ef61959-65f2-41ab-9ae2-ba890812b7b4", 
+            "name": "Bekir S\u0131dk\u0131 Sezgin"
+        }
+    ], 
+    "mbid": "1e7aa252-93e7-4589-b94b-83c2c0e47503", 
+    "makam": [
+        {
+            "attribute_key": "sazkar", 
+            "mb_attribute": "Sazkar", 
+            "source": "http://musicbrainz.org/work/50f8563f-9077-4a49-989a-d6e5daacf8d7"
+        }, 
+        {
+            "attribute_key": "sazkar", 
+            "mb_tag": "sazkar", 
+            "source": "http://musicbrainz.org/recording/1e7aa252-93e7-4589-b94b-83c2c0e47503"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
+            "type": "performing orchestra", 
+            "name": "[unknown]"
+        }, 
+        {
+            "mbid": "7ef61959-65f2-41ab-9ae2-ba890812b7b4", 
+            "type": "vocal", 
+            "name": "Bekir S\u0131dk\u0131 Sezgin"
+        }
+    ], 
+    "instrumentation_voicing": "Solo vocal with accompaniment", 
+    "works": [
+        {
+            "mbid": "50f8563f-9077-4a49-989a-d6e5daacf8d7", 
+            "title": "Nice Bir B\u00fclb\u00fcl-i Nal\u00e2n Edeyim"
+        }
+    ]
+}

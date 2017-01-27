@@ -1,0 +1,70 @@
+{
+    "usul": [
+        {
+            "attribute_key": "raksaksagi", 
+            "mb_attribute": "Raksaksa\u011f\u0131", 
+            "source": "http://musicbrainz.org/work/36a7a9a1-faac-439d-90bb-117597e13ffc"
+        }, 
+        {
+            "attribute_key": "raksaksagi_ii", 
+            "mb_tag": "raksaksa\u011f\u0131", 
+            "source": "http://musicbrainz.org/recording/2fdcb0fb-43f4-4ec3-af59-65349fa53fea"
+        }
+    ], 
+    "form": [
+        {
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
+            "source": "http://musicbrainz.org/work/36a7a9a1-faac-439d-90bb-117597e13ffc"
+        }, 
+        {
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
+            "source": "http://musicbrainz.org/recording/2fdcb0fb-43f4-4ec3-af59-65349fa53fea"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "27272058-7500-4ce2-a357-f9e038ef6be9", 
+            "title": "T\u00fcrk M\u00fczi\u011finde Kanun ile Sevilen \u015eark\u0131lar - Enstr\u00fcmantal"
+        }
+    ], 
+    "title": "Benim yarim geli\u015finden bellidir", 
+    "url": "http://musicbrainz.org/recording/2fdcb0fb-43f4-4ec3-af59-65349fa53fea", 
+    "artist_credits": [
+        {
+            "mbid": "230670ce-4f8c-4515-9a99-b747b7bd53c5", 
+            "name": "Ahmet Meter"
+        }
+    ], 
+    "mbid": "2fdcb0fb-43f4-4ec3-af59-65349fa53fea", 
+    "makam": [
+        {
+            "attribute_key": "hicaz", 
+            "mb_attribute": "Hicaz", 
+            "source": "http://musicbrainz.org/work/36a7a9a1-faac-439d-90bb-117597e13ffc"
+        }, 
+        {
+            "attribute_key": "hicaz", 
+            "mb_tag": "hicaz", 
+            "source": "http://musicbrainz.org/recording/2fdcb0fb-43f4-4ec3-af59-65349fa53fea"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "230670ce-4f8c-4515-9a99-b747b7bd53c5", 
+            "attribute-list": [
+                "kanun"
+            ], 
+            "type": "instrument", 
+            "name": "Ahmet Meter"
+        }
+    ], 
+    "instrumentation_voicing": "Solo instrumental", 
+    "works": [
+        {
+            "mbid": "36a7a9a1-faac-439d-90bb-117597e13ffc", 
+            "title": "Benim Yarim Geli\u015finden Bellidir"
+        }
+    ]
+}

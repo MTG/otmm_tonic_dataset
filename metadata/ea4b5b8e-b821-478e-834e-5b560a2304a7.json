@@ -1,0 +1,67 @@
+{
+    "usul": [
+        {
+            "attribute_key": "serbest", 
+            "mb_attribute": "Serbest", 
+            "source": "http://musicbrainz.org/work/7678c132-72bc-42ea-829a-e8d89e648a76"
+        }, 
+        {
+            "attribute_key": "serbest", 
+            "mb_tag": "serbest", 
+            "source": "http://musicbrainz.org/recording/ea4b5b8e-b821-478e-834e-5b560a2304a7"
+        }
+    ], 
+    "form": [
+        {
+            "attribute_key": "gazel", 
+            "mb_attribute": "Gazel", 
+            "source": "http://musicbrainz.org/work/7678c132-72bc-42ea-829a-e8d89e648a76"
+        }, 
+        {
+            "attribute_key": "gazel", 
+            "mb_tag": "gazel", 
+            "source": "http://musicbrainz.org/recording/ea4b5b8e-b821-478e-834e-5b560a2304a7"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "a59bec8b-8d42-4203-9e90-78b1d56419fd", 
+            "title": "Ge\u00e7mi\u015ften G\u00fcn\u00fcm\u00fcze T\u00fcrk M\u00fczi\u011fi Dersaadet'te Ak\u015fam"
+        }
+    ], 
+    "title": "Yeter Art\u0131k \u00c7eker Oldum", 
+    "url": "http://musicbrainz.org/recording/ea4b5b8e-b821-478e-834e-5b560a2304a7", 
+    "artist_credits": [
+        {
+            "mbid": "65803e8c-3b03-48bd-b2fc-a1516f8dfc6d", 
+            "name": "Haf\u0131z Osman"
+        }
+    ], 
+    "mbid": "ea4b5b8e-b821-478e-834e-5b560a2304a7", 
+    "makam": [
+        {
+            "attribute_key": "hicaz", 
+            "mb_attribute": "Hicaz", 
+            "source": "http://musicbrainz.org/work/7678c132-72bc-42ea-829a-e8d89e648a76"
+        }, 
+        {
+            "attribute_key": "hicaz", 
+            "mb_tag": "hicaz", 
+            "source": "http://musicbrainz.org/recording/ea4b5b8e-b821-478e-834e-5b560a2304a7"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "e9bfa361-28a3-407a-bcb2-1e2cfa298c82", 
+            "type": "vocal", 
+            "name": "Haf\u0131z \u015ea\u015f\u0131 Osman Efendi"
+        }
+    ], 
+    "instrumentation_voicing": "Solo vocal without accompaniment", 
+    "works": [
+        {
+            "mbid": "7678c132-72bc-42ea-829a-e8d89e648a76", 
+            "title": "Yeter Art\u0131k \u00c7eker Oldum"
+        }
+    ]
+}

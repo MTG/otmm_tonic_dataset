@@ -1,0 +1,67 @@
+{
+    "usul": [
+        {
+            "attribute_key": "curcuna", 
+            "mb_attribute": "Curcuna", 
+            "source": "http://musicbrainz.org/work/5fe97db5-f8c0-4e3a-bab8-c578173cae3c"
+        }, 
+        {
+            "attribute_key": "kapali_curcuna", 
+            "mb_tag": "curcuna", 
+            "source": "http://musicbrainz.org/recording/13fa7387-df73-4c24-9175-27977e6ab7b9"
+        }
+    ], 
+    "form": [
+        {
+            "attribute_key": "turku", 
+            "mb_attribute": "T\u00fcrk\u00fc", 
+            "source": "http://musicbrainz.org/work/5fe97db5-f8c0-4e3a-bab8-c578173cae3c"
+        }, 
+        {
+            "attribute_key": "turku", 
+            "mb_tag": "t\u00fcrk\u00fc", 
+            "source": "http://musicbrainz.org/recording/13fa7387-df73-4c24-9175-27977e6ab7b9"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "c58f2002-8862-4efb-953b-7324bb7f3e31", 
+            "title": "T\u00fcrk Sanat M\u00fczi\u011fi Besteleri Saz Eserleri 3"
+        }
+    ], 
+    "title": "Sar\u0131 Gelin", 
+    "url": "http://musicbrainz.org/recording/13fa7387-df73-4c24-9175-27977e6ab7b9", 
+    "artist_credits": [
+        {
+            "mbid": "ef074ab6-a2a8-42f7-a454-068265023697", 
+            "name": "Aziz T\u00fcrk Sanat M\u00fczi\u011fi Grubu"
+        }
+    ], 
+    "mbid": "13fa7387-df73-4c24-9175-27977e6ab7b9", 
+    "makam": [
+        {
+            "attribute_key": "huseyni", 
+            "mb_attribute": "H\u00fcseyni", 
+            "source": "http://musicbrainz.org/work/5fe97db5-f8c0-4e3a-bab8-c578173cae3c"
+        }, 
+        {
+            "attribute_key": "huseyni", 
+            "mb_tag": "h\u00fcseyni", 
+            "source": "http://musicbrainz.org/recording/13fa7387-df73-4c24-9175-27977e6ab7b9"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "ef074ab6-a2a8-42f7-a454-068265023697", 
+            "type": "performing orchestra", 
+            "name": "Aziz T\u00fcrk Sanat M\u00fczi\u011fi Grubu"
+        }
+    ], 
+    "instrumentation_voicing": "Ensemble instrumental", 
+    "works": [
+        {
+            "mbid": "5fe97db5-f8c0-4e3a-bab8-c578173cae3c", 
+            "title": "Sar\u0131 Gelin"
+        }
+    ]
+}

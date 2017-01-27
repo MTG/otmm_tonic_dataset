@@ -1,0 +1,67 @@
+{
+    "usul": [
+        {
+            "attribute_key": "duyek", 
+            "mb_attribute": "D\u00fcyek", 
+            "source": "http://musicbrainz.org/work/e9305087-0a65-4320-8370-9749b3c0b627"
+        }, 
+        {
+            "attribute_key": "duyek", 
+            "mb_tag": "d\u00fcyek", 
+            "source": "http://musicbrainz.org/recording/3ec0ce4f-37d4-44ef-8c16-a9f2d247999f"
+        }
+    ], 
+    "form": [
+        {
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
+            "source": "http://musicbrainz.org/work/e9305087-0a65-4320-8370-9749b3c0b627"
+        }, 
+        {
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
+            "source": "http://musicbrainz.org/recording/3ec0ce4f-37d4-44ef-8c16-a9f2d247999f"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "83f3321c-8fec-4736-ae45-aa1d2edc9b8b", 
+            "title": "T\u00fcrk Sanat M\u00fczi\u011fi Besteleri Saz Eserleri 2"
+        }
+    ], 
+    "title": "Her Mevsim", 
+    "url": "http://musicbrainz.org/recording/3ec0ce4f-37d4-44ef-8c16-a9f2d247999f", 
+    "artist_credits": [
+        {
+            "mbid": "ef074ab6-a2a8-42f7-a454-068265023697", 
+            "name": "Aziz T\u00fcrk Sanat M\u00fczi\u011fi Grubu"
+        }
+    ], 
+    "mbid": "3ec0ce4f-37d4-44ef-8c16-a9f2d247999f", 
+    "makam": [
+        {
+            "attribute_key": "ussak", 
+            "mb_attribute": "U\u015f\u015fak", 
+            "source": "http://musicbrainz.org/work/e9305087-0a65-4320-8370-9749b3c0b627"
+        }, 
+        {
+            "attribute_key": "ussak", 
+            "mb_tag": "u\u015f\u015fak", 
+            "source": "http://musicbrainz.org/recording/3ec0ce4f-37d4-44ef-8c16-a9f2d247999f"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "ef074ab6-a2a8-42f7-a454-068265023697", 
+            "type": "performing orchestra", 
+            "name": "Aziz T\u00fcrk Sanat M\u00fczi\u011fi Grubu"
+        }
+    ], 
+    "instrumentation_voicing": "Ensemble instrumental", 
+    "works": [
+        {
+            "mbid": "e9305087-0a65-4320-8370-9749b3c0b627", 
+            "title": "Her Mevsim \u0130\u00e7imden"
+        }
+    ]
+}

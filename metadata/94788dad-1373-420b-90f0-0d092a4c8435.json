@@ -1,0 +1,70 @@
+{
+    "usul": [
+        {
+            "attribute_key": "senginsemai", 
+            "mb_attribute": "Senginsemai", 
+            "source": "http://musicbrainz.org/work/8ff4d355-dd46-4074-b266-aeacabaf875a"
+        }, 
+        {
+            "attribute_key": "senginsemai", 
+            "mb_tag": "senginsemai", 
+            "source": "http://musicbrainz.org/recording/94788dad-1373-420b-90f0-0d092a4c8435"
+        }
+    ], 
+    "form": [
+        {
+            "attribute_key": "sazsemaisi", 
+            "mb_attribute": "Sazsemaisi", 
+            "source": "http://musicbrainz.org/work/8ff4d355-dd46-4074-b266-aeacabaf875a"
+        }, 
+        {
+            "attribute_key": "sazsemaisi", 
+            "mb_tag": "sazsemaisi", 
+            "source": "http://musicbrainz.org/recording/94788dad-1373-420b-90f0-0d092a4c8435"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "0fcce9c6-7aa0-4e0c-8c0a-9e423bcfdd92", 
+            "title": "Dem"
+        }
+    ], 
+    "title": "Nihavent Sazsemaisi", 
+    "url": "http://musicbrainz.org/recording/94788dad-1373-420b-90f0-0d092a4c8435", 
+    "artist_credits": [
+        {
+            "mbid": "61a32817-7ab6-432a-8c87-b0c99880df84", 
+            "name": "Murat Salim Toka\u00e7"
+        }
+    ], 
+    "mbid": "94788dad-1373-420b-90f0-0d092a4c8435", 
+    "makam": [
+        {
+            "attribute_key": "nihavent", 
+            "mb_attribute": "Nihavent", 
+            "source": "http://musicbrainz.org/work/8ff4d355-dd46-4074-b266-aeacabaf875a"
+        }, 
+        {
+            "attribute_key": "nihavent", 
+            "mb_tag": "nihavent", 
+            "source": "http://musicbrainz.org/recording/94788dad-1373-420b-90f0-0d092a4c8435"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "61a32817-7ab6-432a-8c87-b0c99880df84", 
+            "attribute-list": [
+                "ney"
+            ], 
+            "type": "instrument", 
+            "name": "Murat Salim Toka\u00e7"
+        }
+    ], 
+    "instrumentation_voicing": "Solo instrumental", 
+    "works": [
+        {
+            "mbid": "8ff4d355-dd46-4074-b266-aeacabaf875a", 
+            "title": "Nihavend Saz Semai"
+        }
+    ]
+}

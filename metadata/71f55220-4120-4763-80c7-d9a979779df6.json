@@ -1,0 +1,70 @@
+{
+    "usul": [
+        {
+            "attribute_key": "semai", 
+            "mb_attribute": "Semai", 
+            "source": "http://musicbrainz.org/work/e3f48221-7447-499d-84d0-b4c5b13367db"
+        }, 
+        {
+            "attribute_key": "semai", 
+            "mb_tag": "semai", 
+            "source": "http://musicbrainz.org/recording/71f55220-4120-4763-80c7-d9a979779df6"
+        }
+    ], 
+    "form": [
+        {
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
+            "source": "http://musicbrainz.org/work/e3f48221-7447-499d-84d0-b4c5b13367db"
+        }, 
+        {
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
+            "source": "http://musicbrainz.org/recording/71f55220-4120-4763-80c7-d9a979779df6"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "f371b65d-8ec2-4516-ae77-563fe10776c5", 
+            "title": "Alaeddin Yava\u015f\u00e7a"
+        }
+    ], 
+    "title": "G\u00f6nl\u00fcm\u00fcn B\u00fclb\u00fcl\u00fcs\u00fcn A\u015fk Bah\u00e7emin G\u00fcl\u00fcs\u00fcn", 
+    "url": "http://musicbrainz.org/recording/71f55220-4120-4763-80c7-d9a979779df6", 
+    "artist_credits": [
+        {
+            "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
+            "name": "[unknown]"
+        }
+    ], 
+    "mbid": "71f55220-4120-4763-80c7-d9a979779df6", 
+    "makam": [
+        {
+            "attribute_key": "nihavent", 
+            "mb_attribute": "Nihavent", 
+            "source": "http://musicbrainz.org/work/e3f48221-7447-499d-84d0-b4c5b13367db"
+        }, 
+        {
+            "attribute_key": "nihavent", 
+            "mb_tag": "nihavent", 
+            "source": "http://musicbrainz.org/recording/71f55220-4120-4763-80c7-d9a979779df6"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
+            "attribute-list": [
+                "choir vocals"
+            ], 
+            "type": "vocal", 
+            "name": "[unknown]"
+        }
+    ], 
+    "instrumentation_voicing": "Solo vocal without accompaniment", 
+    "works": [
+        {
+            "mbid": "e3f48221-7447-499d-84d0-b4c5b13367db", 
+            "title": "G\u00f6nl\u00fcm\u00fcn B\u00fclb\u00fcl\u00fcs\u00fcn A\u015fk Bah\u00e7emin G\u00fcl\u00fcs\u00fcn"
+        }
+    ]
+}

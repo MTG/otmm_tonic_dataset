@@ -1,0 +1,49 @@
+{
+    "instrumentation_voicing": "Solo instrumental", 
+    "form": [
+        {
+            "attribute_key": "taksim", 
+            "mb_tag": "taksim", 
+            "source": "http://musicbrainz.org/recording/34e55f84-546f-4e0b-9adc-6cc677609daf"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "291a62d1-907b-41b0-8f38-44666de278dc", 
+            "title": "14 Makamda Keman Taksimleri"
+        }
+    ], 
+    "title": "Segah Taksimi", 
+    "url": "http://musicbrainz.org/recording/34e55f84-546f-4e0b-9adc-6cc677609daf", 
+    "artist_credits": [
+        {
+            "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
+            "name": "[unknown]"
+        }
+    ], 
+    "mbid": "34e55f84-546f-4e0b-9adc-6cc677609daf", 
+    "makam": [
+        {
+            "attribute_key": "segah", 
+            "mb_tag": "segah", 
+            "source": "http://musicbrainz.org/recording/34e55f84-546f-4e0b-9adc-6cc677609daf"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
+            "attribute-list": [
+                "violin"
+            ], 
+            "type": "instrument", 
+            "name": "[unknown]"
+        }
+    ], 
+    "usul": [
+        {
+            "attribute_key": "serbest", 
+            "mb_tag": "serbest", 
+            "source": "http://musicbrainz.org/recording/34e55f84-546f-4e0b-9adc-6cc677609daf"
+        }
+    ]
+}

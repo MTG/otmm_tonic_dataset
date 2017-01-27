@@ -1,0 +1,50 @@
+{
+    "instrumentation_voicing": "Solo instrumental", 
+    "form": [
+        {
+            "attribute_key": "taksim", 
+            "mb_tag": "taksim", 
+            "source": "http://musicbrainz.org/recording/1a6bede3-1b9f-4ff1-84ae-03f0cde91c13"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "cfc5e2f7-7533-4f23-8e90-cae81dcc57a5", 
+            "title": "Kanun Sololar\u0131"
+        }
+    ], 
+    "title": "Acemk\u00fcrdi Taksim", 
+    "url": "http://musicbrainz.org/recording/1a6bede3-1b9f-4ff1-84ae-03f0cde91c13", 
+    "artist_credits": [
+        {
+            "mbid": "92e61b85-9fd6-4c4b-9d1a-297ffbfbe0b9", 
+            "name": "Erol Deran"
+        }
+    ], 
+    "mbid": "1a6bede3-1b9f-4ff1-84ae-03f0cde91c13", 
+    "makam": [
+        {
+            "attribute_key": "acemkurdi", 
+            "mb_tag": "acemk\u00fcrdi", 
+            "source": "http://musicbrainz.org/recording/1a6bede3-1b9f-4ff1-84ae-03f0cde91c13"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "92e61b85-9fd6-4c4b-9d1a-297ffbfbe0b9", 
+            "attribute-list": [
+                "kanun", 
+                "solo"
+            ], 
+            "type": "instrument", 
+            "name": "Erol Deran"
+        }
+    ], 
+    "usul": [
+        {
+            "attribute_key": "serbest", 
+            "mb_tag": "serbest", 
+            "source": "http://musicbrainz.org/recording/1a6bede3-1b9f-4ff1-84ae-03f0cde91c13"
+        }
+    ]
+}

@@ -1,0 +1,102 @@
+{
+    "usul": [
+        {
+            "attribute_key": "devrikebir", 
+            "mb_attribute": "Devr-i Kebir", 
+            "source": "http://musicbrainz.org/work/40300628-d472-4232-81ce-df599f4fbacc"
+        }, 
+        {
+            "attribute_key": "devrikebir", 
+            "mb_tag": "devr-i kebir", 
+            "source": "http://musicbrainz.org/recording/ef3b1912-d6d5-4041-bd8b-14b82b2399fa"
+        }
+    ], 
+    "form": [
+        {
+            "attribute_key": "pesrev", 
+            "mb_attribute": "Pe\u015frev", 
+            "source": "http://musicbrainz.org/work/40300628-d472-4232-81ce-df599f4fbacc"
+        }, 
+        {
+            "attribute_key": "pesrev", 
+            "mb_tag": "pe\u015frev", 
+            "source": "http://musicbrainz.org/recording/ef3b1912-d6d5-4041-bd8b-14b82b2399fa"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "f60de373-b1d3-4a04-b417-261434ba968a", 
+            "title": "Kubbealt\u0131 T\u00fcrk Musikisi Klasik Eserler Serisi \u2013 4 (Suzidil ve Segah)"
+        }
+    ], 
+    "title": "Suzidil Pe\u015frev", 
+    "url": "http://musicbrainz.org/recording/ef3b1912-d6d5-4041-bd8b-14b82b2399fa", 
+    "artist_credits": [
+        {
+            "mbid": "b0bbd0fe-42f7-421c-82de-f4df6323984b", 
+            "name": "Meral U\u011furlu"
+        }
+    ], 
+    "mbid": "ef3b1912-d6d5-4041-bd8b-14b82b2399fa", 
+    "makam": [
+        {
+            "attribute_key": "suzidil", 
+            "mb_attribute": "Suzidil", 
+            "source": "http://musicbrainz.org/work/40300628-d472-4232-81ce-df599f4fbacc"
+        }, 
+        {
+            "attribute_key": "suzidil", 
+            "mb_tag": "suzidil", 
+            "source": "http://musicbrainz.org/recording/ef3b1912-d6d5-4041-bd8b-14b82b2399fa"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
+            "attribute-list": [
+                "classical kemen\u00e7e"
+            ], 
+            "type": "instrument", 
+            "name": "[unknown]"
+        }, 
+        {
+            "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
+            "attribute-list": [
+                "ney"
+            ], 
+            "type": "instrument", 
+            "name": "[unknown]"
+        }, 
+        {
+            "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
+            "attribute-list": [
+                "tanbur"
+            ], 
+            "type": "instrument", 
+            "name": "[unknown]"
+        }, 
+        {
+            "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
+            "attribute-list": [
+                "kanun"
+            ], 
+            "type": "instrument", 
+            "name": "[unknown]"
+        }, 
+        {
+            "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
+            "attribute-list": [
+                "percussion"
+            ], 
+            "type": "instrument", 
+            "name": "[unknown]"
+        }
+    ], 
+    "instrumentation_voicing": "Ensemble instrumental", 
+    "works": [
+        {
+            "mbid": "40300628-d472-4232-81ce-df599f4fbacc", 
+            "title": "Suzidil Pe\u015frev"
+        }
+    ]
+}

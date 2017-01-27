@@ -1,0 +1,49 @@
+{
+    "instrumentation_voicing": "Solo instrumental", 
+    "form": [
+        {
+            "attribute_key": "taksim", 
+            "mb_tag": "taksim", 
+            "source": "http://musicbrainz.org/recording/4935311e-eac5-4946-aec7-70b757d35b78"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "291a62d1-907b-41b0-8f38-44666de278dc", 
+            "title": "14 Makamda Keman Taksimleri"
+        }
+    ], 
+    "title": "Ferahfeza Taksimi", 
+    "url": "http://musicbrainz.org/recording/4935311e-eac5-4946-aec7-70b757d35b78", 
+    "artist_credits": [
+        {
+            "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
+            "name": "[unknown]"
+        }
+    ], 
+    "mbid": "4935311e-eac5-4946-aec7-70b757d35b78", 
+    "makam": [
+        {
+            "attribute_key": "ferahfeza", 
+            "mb_tag": "ferahfeza", 
+            "source": "http://musicbrainz.org/recording/4935311e-eac5-4946-aec7-70b757d35b78"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
+            "attribute-list": [
+                "violin"
+            ], 
+            "type": "instrument", 
+            "name": "[unknown]"
+        }
+    ], 
+    "usul": [
+        {
+            "attribute_key": "serbest", 
+            "mb_tag": "serbest", 
+            "source": "http://musicbrainz.org/recording/4935311e-eac5-4946-aec7-70b757d35b78"
+        }
+    ]
+}

@@ -1,0 +1,72 @@
+{
+    "usul": [
+        {
+            "attribute_key": "aksak", 
+            "mb_attribute": "Aksak", 
+            "source": "http://musicbrainz.org/work/bffbd01f-252a-45ee-8e3c-34855650cf60"
+        }, 
+        {
+            "attribute_key": "aksak", 
+            "mb_tag": "aksak", 
+            "source": "http://musicbrainz.org/recording/61c81e80-2704-4b3a-a29d-d96b618378d3"
+        }
+    ], 
+    "form": [
+        {
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
+            "source": "http://musicbrainz.org/work/bffbd01f-252a-45ee-8e3c-34855650cf60"
+        }, 
+        {
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
+            "source": "http://musicbrainz.org/recording/61c81e80-2704-4b3a-a29d-d96b618378d3"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "8024b6af-73d3-47ac-a20c-06d4114363f5", 
+            "title": "Bekir S\u0131dk\u0131 Sezgin 15"
+        }
+    ], 
+    "title": "Bir Yareli Ku\u015f \u00c7\u0131rp\u0131n\u0131yor Sanki Telinde", 
+    "url": "http://musicbrainz.org/recording/61c81e80-2704-4b3a-a29d-d96b618378d3", 
+    "artist_credits": [
+        {
+            "mbid": "7ef61959-65f2-41ab-9ae2-ba890812b7b4", 
+            "name": "Bekir S\u0131dk\u0131 Sezgin"
+        }
+    ], 
+    "mbid": "61c81e80-2704-4b3a-a29d-d96b618378d3", 
+    "makam": [
+        {
+            "attribute_key": "karcigar", 
+            "mb_attribute": "Karc\u0131\u011far", 
+            "source": "http://musicbrainz.org/work/bffbd01f-252a-45ee-8e3c-34855650cf60"
+        }, 
+        {
+            "attribute_key": "huseyni", 
+            "mb_tag": "karc\u0131\u011far", 
+            "source": "http://musicbrainz.org/recording/61c81e80-2704-4b3a-a29d-d96b618378d3"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
+            "type": "performing orchestra", 
+            "name": "[unknown]"
+        }, 
+        {
+            "mbid": "7ef61959-65f2-41ab-9ae2-ba890812b7b4", 
+            "type": "vocal", 
+            "name": "Bekir S\u0131dk\u0131 Sezgin"
+        }
+    ], 
+    "instrumentation_voicing": "Solo vocal with accompaniment", 
+    "works": [
+        {
+            "mbid": "bffbd01f-252a-45ee-8e3c-34855650cf60", 
+            "title": "Bir Yareli Ku\u015f"
+        }
+    ]
+}

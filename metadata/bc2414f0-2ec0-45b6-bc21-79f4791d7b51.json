@@ -1,0 +1,49 @@
+{
+    "instrumentation_voicing": "Solo instrumental", 
+    "form": [
+        {
+            "attribute_key": "taksim", 
+            "mb_tag": "taksim", 
+            "source": "http://musicbrainz.org/recording/bc2414f0-2ec0-45b6-bc21-79f4791d7b51"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "a401a3ef-3869-450b-9ae0-a32036f2b2bd", 
+            "title": "A\u015fk"
+        }
+    ], 
+    "title": "M\u00fcste\u00e2r Taksim", 
+    "url": "http://musicbrainz.org/recording/bc2414f0-2ec0-45b6-bc21-79f4791d7b51", 
+    "artist_credits": [
+        {
+            "mbid": "215fd94e-6a6e-4ab3-98d8-7e81c873dd26", 
+            "name": "Aka G\u00fcnd\u00fcz Kutbay"
+        }
+    ], 
+    "mbid": "bc2414f0-2ec0-45b6-bc21-79f4791d7b51", 
+    "makam": [
+        {
+            "attribute_key": "mustear", 
+            "mb_tag": "m\u00fcstear", 
+            "source": "http://musicbrainz.org/recording/bc2414f0-2ec0-45b6-bc21-79f4791d7b51"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "215fd94e-6a6e-4ab3-98d8-7e81c873dd26", 
+            "attribute-list": [
+                "ney"
+            ], 
+            "type": "instrument", 
+            "name": "Aka G\u00fcnd\u00fcz Kutbay"
+        }
+    ], 
+    "usul": [
+        {
+            "attribute_key": "serbest", 
+            "mb_tag": "serbest", 
+            "source": "http://musicbrainz.org/recording/bc2414f0-2ec0-45b6-bc21-79f4791d7b51"
+        }
+    ]
+}

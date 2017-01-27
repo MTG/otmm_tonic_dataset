@@ -1,0 +1,52 @@
+{
+    "usul": [
+        {
+            "attribute_key": "duyek", 
+            "mb_tag": "d\u00fcyek", 
+            "source": "http://musicbrainz.org/recording/e2292def-492f-465f-9883-540a05a92dcf"
+        }
+    ], 
+    "form": [
+        {
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
+            "source": "http://musicbrainz.org/recording/e2292def-492f-465f-9883-540a05a92dcf"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "83f3321c-8fec-4736-ae45-aa1d2edc9b8b", 
+            "title": "T\u00fcrk Sanat M\u00fczi\u011fi Besteleri Saz Eserleri 2"
+        }
+    ], 
+    "title": "Sevmekten Kim Usan\u0131r", 
+    "url": "http://musicbrainz.org/recording/e2292def-492f-465f-9883-540a05a92dcf", 
+    "artist_credits": [
+        {
+            "mbid": "ef074ab6-a2a8-42f7-a454-068265023697", 
+            "name": "Aziz T\u00fcrk Sanat M\u00fczi\u011fi Grubu"
+        }
+    ], 
+    "mbid": "e2292def-492f-465f-9883-540a05a92dcf", 
+    "makam": [
+        {
+            "attribute_key": "rast", 
+            "mb_tag": "rast", 
+            "source": "http://musicbrainz.org/recording/e2292def-492f-465f-9883-540a05a92dcf"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "ef074ab6-a2a8-42f7-a454-068265023697", 
+            "type": "performing orchestra", 
+            "name": "Aziz T\u00fcrk Sanat M\u00fczi\u011fi Grubu"
+        }
+    ], 
+    "instrumentation_voicing": "Ensemble instrumental", 
+    "works": [
+        {
+            "mbid": "ff450475-daaf-457f-98e6-9f7c7fb527ab", 
+            "title": "Sevmekten Kim Usan\u0131r"
+        }
+    ]
+}

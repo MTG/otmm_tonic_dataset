@@ -1,0 +1,70 @@
+{
+    "usul": [
+        {
+            "attribute_key": "aksaksemai", 
+            "mb_attribute": "Aksaksemai", 
+            "source": "http://musicbrainz.org/work/d1086c07-fb1f-4eb2-9585-9f22ea850f12"
+        }, 
+        {
+            "attribute_key": "aksaksemai", 
+            "mb_tag": "aksaksemai", 
+            "source": "http://musicbrainz.org/recording/9c4dac10-62ab-48ab-9bc3-0f1927ee0f9b"
+        }
+    ], 
+    "form": [
+        {
+            "attribute_key": "sazsemaisi", 
+            "mb_attribute": "Sazsemaisi", 
+            "source": "http://musicbrainz.org/work/d1086c07-fb1f-4eb2-9585-9f22ea850f12"
+        }, 
+        {
+            "attribute_key": "sazsemaisi", 
+            "mb_tag": "sazsemaisi", 
+            "source": "http://musicbrainz.org/recording/9c4dac10-62ab-48ab-9bc3-0f1927ee0f9b"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "32cc0631-2bcc-40b0-ab6e-bc558b0ed907", 
+            "title": "Osmanl\u0131'dan Bug\u00fcne T\u00fcrk Musikisi- Ney"
+        }
+    ], 
+    "title": "Pasendide Sazsemaisi", 
+    "url": "http://musicbrainz.org/recording/9c4dac10-62ab-48ab-9bc3-0f1927ee0f9b", 
+    "artist_credits": [
+        {
+            "mbid": "5bbdd002-8e2e-4529-a9e1-ac30edab9a00", 
+            "name": "Can G\u00fclbol"
+        }
+    ], 
+    "mbid": "9c4dac10-62ab-48ab-9bc3-0f1927ee0f9b", 
+    "makam": [
+        {
+            "attribute_key": "pesendide", 
+            "mb_attribute": "Pesendide", 
+            "source": "http://musicbrainz.org/work/d1086c07-fb1f-4eb2-9585-9f22ea850f12"
+        }, 
+        {
+            "attribute_key": "pesendide", 
+            "mb_tag": "pesendide", 
+            "source": "http://musicbrainz.org/recording/9c4dac10-62ab-48ab-9bc3-0f1927ee0f9b"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "5bbdd002-8e2e-4529-a9e1-ac30edab9a00", 
+            "attribute-list": [
+                "ney"
+            ], 
+            "type": "instrument", 
+            "name": "Can G\u00fclbol"
+        }
+    ], 
+    "instrumentation_voicing": "Solo instrumental", 
+    "works": [
+        {
+            "mbid": "d1086c07-fb1f-4eb2-9585-9f22ea850f12", 
+            "title": "Pesend\u00eede Saz Semaisi"
+        }
+    ]
+}

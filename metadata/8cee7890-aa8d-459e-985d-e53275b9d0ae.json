@@ -1,0 +1,71 @@
+{
+    "usul": [
+        {
+            "attribute_key": "yuruksemai", 
+            "mb_attribute": "Y\u00fcr\u00fcksemai", 
+            "source": "http://musicbrainz.org/work/bf4f8c62-bed1-41d9-833b-e1354c186a30"
+        }, 
+        {
+            "attribute_key": "yuruksemai", 
+            "mb_tag": "y\u00fcr\u00fcksemai", 
+            "source": "http://musicbrainz.org/recording/8cee7890-aa8d-459e-985d-e53275b9d0ae"
+        }
+    ], 
+    "form": [
+        {
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
+            "source": "http://musicbrainz.org/work/bf4f8c62-bed1-41d9-833b-e1354c186a30"
+        }, 
+        {
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
+            "source": "http://musicbrainz.org/recording/8cee7890-aa8d-459e-985d-e53275b9d0ae"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "83f3321c-8fec-4736-ae45-aa1d2edc9b8b", 
+            "title": "T\u00fcrk Sanat M\u00fczi\u011fi Besteleri Saz Eserleri 2"
+        }, 
+        {
+            "mbid": "c58f2002-8862-4efb-953b-7324bb7f3e31", 
+            "title": "T\u00fcrk Sanat M\u00fczi\u011fi Besteleri Saz Eserleri 3"
+        }
+    ], 
+    "title": "Eski Dostlar", 
+    "url": "http://musicbrainz.org/recording/8cee7890-aa8d-459e-985d-e53275b9d0ae", 
+    "artist_credits": [
+        {
+            "mbid": "ef074ab6-a2a8-42f7-a454-068265023697", 
+            "name": "Aziz T\u00fcrk Sanat M\u00fczi\u011fi Grubu"
+        }
+    ], 
+    "mbid": "8cee7890-aa8d-459e-985d-e53275b9d0ae", 
+    "makam": [
+        {
+            "attribute_key": "rast", 
+            "mb_attribute": "Rast", 
+            "source": "http://musicbrainz.org/work/bf4f8c62-bed1-41d9-833b-e1354c186a30"
+        }, 
+        {
+            "attribute_key": "rast", 
+            "mb_tag": "rast", 
+            "source": "http://musicbrainz.org/recording/8cee7890-aa8d-459e-985d-e53275b9d0ae"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "ef074ab6-a2a8-42f7-a454-068265023697", 
+            "type": "performing orchestra", 
+            "name": "Aziz T\u00fcrk Sanat M\u00fczi\u011fi Grubu"
+        }
+    ], 
+    "instrumentation_voicing": "Ensemble instrumental", 
+    "works": [
+        {
+            "mbid": "bf4f8c62-bed1-41d9-833b-e1354c186a30", 
+            "title": "Unutulmu\u015f Birer Birer"
+        }
+    ]
+}

@@ -1,0 +1,67 @@
+{
+    "usul": [
+        {
+            "attribute_key": "duyek", 
+            "mb_attribute": "D\u00fcyek", 
+            "source": "http://musicbrainz.org/work/31cfc649-c2af-4981-9a9e-2d8af97d50f0"
+        }, 
+        {
+            "attribute_key": "duyek", 
+            "mb_tag": "d\u00fcyek", 
+            "source": "http://musicbrainz.org/recording/f2f17f09-a7cc-418d-8885-268e49d10e85"
+        }
+    ], 
+    "form": [
+        {
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
+            "source": "http://musicbrainz.org/work/31cfc649-c2af-4981-9a9e-2d8af97d50f0"
+        }, 
+        {
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
+            "source": "http://musicbrainz.org/recording/f2f17f09-a7cc-418d-8885-268e49d10e85"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "f371b65d-8ec2-4516-ae77-563fe10776c5", 
+            "title": "Alaeddin Yava\u015f\u00e7a"
+        }
+    ], 
+    "title": "Bo\u011fazi\u00e7i \u015een G\u00f6n\u00fcller Yata\u011f\u0131", 
+    "url": "http://musicbrainz.org/recording/f2f17f09-a7cc-418d-8885-268e49d10e85", 
+    "artist_credits": [
+        {
+            "mbid": "1dbb8fd5-7331-46d2-8816-edf2e4392648", 
+            "name": "Alaeddin Yava\u015fca"
+        }
+    ], 
+    "mbid": "f2f17f09-a7cc-418d-8885-268e49d10e85", 
+    "makam": [
+        {
+            "attribute_key": "hicaz", 
+            "mb_attribute": "Hicaz", 
+            "source": "http://musicbrainz.org/work/31cfc649-c2af-4981-9a9e-2d8af97d50f0"
+        }, 
+        {
+            "attribute_key": "hicaz_zirgule", 
+            "mb_tag": "hicaz-zirg\u00fcle", 
+            "source": "http://musicbrainz.org/recording/f2f17f09-a7cc-418d-8885-268e49d10e85"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "1dbb8fd5-7331-46d2-8816-edf2e4392648", 
+            "type": "vocal", 
+            "name": "Alaeddin Yava\u015fca"
+        }
+    ], 
+    "instrumentation_voicing": "Solo vocal without accompaniment", 
+    "works": [
+        {
+            "mbid": "31cfc649-c2af-4981-9a9e-2d8af97d50f0", 
+            "title": "Bo\u011fazi\u00e7i \u015een G\u00f6n\u00fcller Yata\u011f\u0131"
+        }
+    ]
+}

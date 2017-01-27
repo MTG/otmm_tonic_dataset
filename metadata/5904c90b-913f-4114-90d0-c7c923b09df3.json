@@ -1,0 +1,67 @@
+{
+    "usul": [
+        {
+            "attribute_key": "duyek", 
+            "mb_attribute": "D\u00fcyek", 
+            "source": "http://musicbrainz.org/work/ec29d232-7802-4af7-80c8-c77cfeda4bfa"
+        }, 
+        {
+            "attribute_key": "duyek", 
+            "mb_tag": "d\u00fcyek", 
+            "source": "http://musicbrainz.org/recording/5904c90b-913f-4114-90d0-c7c923b09df3"
+        }
+    ], 
+    "form": [
+        {
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
+            "source": "http://musicbrainz.org/work/ec29d232-7802-4af7-80c8-c77cfeda4bfa"
+        }, 
+        {
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
+            "source": "http://musicbrainz.org/recording/5904c90b-913f-4114-90d0-c7c923b09df3"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "5af543f0-7287-4ced-92a3-f8f92f52e836", 
+            "title": "Ferit Sidal - S\u00f6zl\u00fc Eserlerden \u00d6rnekler - Enstrumantal Eserlerden \u00d6rnekler"
+        }
+    ], 
+    "title": "G\u00f6nl\u00fcm\u00fc Avutamad\u0131m", 
+    "url": "http://musicbrainz.org/recording/5904c90b-913f-4114-90d0-c7c923b09df3", 
+    "artist_credits": [
+        {
+            "mbid": "c3f57620-e89e-4b63-bc00-4a100c3e91a8", 
+            "name": "Melihat G\u00fclses"
+        }
+    ], 
+    "mbid": "5904c90b-913f-4114-90d0-c7c923b09df3", 
+    "makam": [
+        {
+            "attribute_key": "hicaz", 
+            "mb_attribute": "Hicaz", 
+            "source": "http://musicbrainz.org/work/ec29d232-7802-4af7-80c8-c77cfeda4bfa"
+        }, 
+        {
+            "attribute_key": "hicaz", 
+            "mb_tag": "hicaz", 
+            "source": "http://musicbrainz.org/recording/5904c90b-913f-4114-90d0-c7c923b09df3"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "c3f57620-e89e-4b63-bc00-4a100c3e91a8", 
+            "type": "vocal", 
+            "name": "Melihat G\u00fclses"
+        }
+    ], 
+    "instrumentation_voicing": "Solo vocal without accompaniment", 
+    "works": [
+        {
+            "mbid": "ec29d232-7802-4af7-80c8-c77cfeda4bfa", 
+            "title": "G\u00f6nl\u00fcm\u00fc Avutamad\u0131m"
+        }
+    ]
+}

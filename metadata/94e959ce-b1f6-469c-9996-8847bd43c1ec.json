@@ -1,0 +1,67 @@
+{
+    "usul": [
+        {
+            "attribute_key": "aksak", 
+            "mb_attribute": "Aksak", 
+            "source": "http://musicbrainz.org/work/9aaf5c0b-4642-40fd-97ba-c861265872ce"
+        }, 
+        {
+            "attribute_key": "aksak", 
+            "mb_tag": "aksak", 
+            "source": "http://musicbrainz.org/recording/94e959ce-b1f6-469c-9996-8847bd43c1ec"
+        }
+    ], 
+    "form": [
+        {
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
+            "source": "http://musicbrainz.org/work/9aaf5c0b-4642-40fd-97ba-c861265872ce"
+        }, 
+        {
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
+            "source": "http://musicbrainz.org/recording/94e959ce-b1f6-469c-9996-8847bd43c1ec"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "4469247f-6e65-4a35-8661-321c399dacb9", 
+            "title": "Fasl-\u0131 \u015eahane Enstrumantal, Volume 5"
+        }
+    ], 
+    "title": "Gel G\u00fczelim \u00c7aml\u0131ca'ya", 
+    "url": "http://musicbrainz.org/recording/94e959ce-b1f6-469c-9996-8847bd43c1ec", 
+    "artist_credits": [
+        {
+            "mbid": "ef074ab6-a2a8-42f7-a454-068265023697", 
+            "name": "Aziz T\u00fcrk Sanat M\u00fczi\u011fi Grubu"
+        }
+    ], 
+    "mbid": "94e959ce-b1f6-469c-9996-8847bd43c1ec", 
+    "makam": [
+        {
+            "attribute_key": "nihavent", 
+            "mb_attribute": "Nihavent", 
+            "source": "http://musicbrainz.org/work/9aaf5c0b-4642-40fd-97ba-c861265872ce"
+        }, 
+        {
+            "attribute_key": "nihavent", 
+            "mb_tag": "nihavent", 
+            "source": "http://musicbrainz.org/recording/94e959ce-b1f6-469c-9996-8847bd43c1ec"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "ef074ab6-a2a8-42f7-a454-068265023697", 
+            "type": "performing orchestra", 
+            "name": "Aziz T\u00fcrk Sanat M\u00fczi\u011fi Grubu"
+        }
+    ], 
+    "instrumentation_voicing": "Ensemble instrumental", 
+    "works": [
+        {
+            "mbid": "9aaf5c0b-4642-40fd-97ba-c861265872ce", 
+            "title": "Gel G\u00fczelim \u00c7aml\u0131ca'ya"
+        }
+    ]
+}

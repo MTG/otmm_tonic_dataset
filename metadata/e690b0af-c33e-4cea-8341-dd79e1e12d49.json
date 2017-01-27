@@ -1,0 +1,66 @@
+{
+    "usul": [
+        {
+            "attribute_key": "aksaksemai", 
+            "mb_attribute": "Aksaksemai", 
+            "source": "http://musicbrainz.org/work/baabfe67-5f03-4f6a-8d0d-592e36a2894b"
+        }
+    ], 
+    "form": [
+        {
+            "attribute_key": "sazsemaisi", 
+            "mb_attribute": "Sazsemaisi", 
+            "source": "http://musicbrainz.org/work/baabfe67-5f03-4f6a-8d0d-592e36a2894b"
+        }, 
+        {
+            "attribute_key": "sazsemaisi", 
+            "mb_tag": "sazsemaisi", 
+            "source": "http://musicbrainz.org/recording/e690b0af-c33e-4cea-8341-dd79e1e12d49"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "93d37c26-9732-4558-afc9-b2e5d3f58cb0", 
+            "title": "Ney ile \u0130cra Edilmi\u015f Saz Eserleri"
+        }
+    ], 
+    "title": "Acem A\u015firan Saz Semai (K\u0131z Ney)", 
+    "url": "http://musicbrainz.org/recording/e690b0af-c33e-4cea-8341-dd79e1e12d49", 
+    "artist_credits": [
+        {
+            "mbid": "3a57e3a4-4e48-4ce2-aae0-c5b5275721eb", 
+            "name": "Salih Bilgin"
+        }
+    ], 
+    "mbid": "e690b0af-c33e-4cea-8341-dd79e1e12d49", 
+    "makam": [
+        {
+            "attribute_key": "acemasiran", 
+            "mb_attribute": "Acema\u015firan", 
+            "source": "http://musicbrainz.org/work/baabfe67-5f03-4f6a-8d0d-592e36a2894b"
+        }, 
+        {
+            "attribute_key": "acemasiran", 
+            "mb_tag": "acema\u015firan", 
+            "source": "http://musicbrainz.org/recording/e690b0af-c33e-4cea-8341-dd79e1e12d49"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "3a57e3a4-4e48-4ce2-aae0-c5b5275721eb", 
+            "attribute-list": [
+                "ney", 
+                "solo"
+            ], 
+            "type": "instrument", 
+            "name": "Salih Bilgin"
+        }
+    ], 
+    "instrumentation_voicing": "Solo instrumental", 
+    "works": [
+        {
+            "mbid": "baabfe67-5f03-4f6a-8d0d-592e36a2894b", 
+            "title": "Acema\u015firan Sazsemaisi"
+        }
+    ]
+}

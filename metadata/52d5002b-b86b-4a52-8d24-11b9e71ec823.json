@@ -1,0 +1,126 @@
+{
+    "usul": [
+        {
+            "attribute_key": "agiraksak", 
+            "mb_attribute": "A\u011f\u0131raksak", 
+            "source": "http://musicbrainz.org/work/193c36c0-3603-4be4-a97e-c2f30b47f0cd"
+        }, 
+        {
+            "attribute_key": "agiraksak", 
+            "mb_tag": "a\u011f\u0131raksak", 
+            "source": "http://musicbrainz.org/recording/52d5002b-b86b-4a52-8d24-11b9e71ec823"
+        }
+    ], 
+    "form": [
+        {
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
+            "source": "http://musicbrainz.org/work/193c36c0-3603-4be4-a97e-c2f30b47f0cd"
+        }, 
+        {
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
+            "source": "http://musicbrainz.org/recording/52d5002b-b86b-4a52-8d24-11b9e71ec823"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "5bdc8ef2-27b9-4dac-8bc6-3b5872883d88", 
+            "title": "Ermeni Bestekarlar -1- (Armenian Composers)"
+        }
+    ], 
+    "title": "Ho\u015f Ola Bu Nev-bahar Ey G\u00fcl Sana", 
+    "url": "http://musicbrainz.org/recording/52d5002b-b86b-4a52-8d24-11b9e71ec823", 
+    "artist_credits": [
+        {
+            "mbid": "7906972c-4510-4da6-a60d-054bffedb6e8", 
+            "name": "Filiz \u015eat\u0131ro\u011flu"
+        }
+    ], 
+    "mbid": "52d5002b-b86b-4a52-8d24-11b9e71ec823", 
+    "makam": [
+        {
+            "attribute_key": "buselik", 
+            "mb_attribute": "Buselik", 
+            "source": "http://musicbrainz.org/work/193c36c0-3603-4be4-a97e-c2f30b47f0cd"
+        }, 
+        {
+            "attribute_key": "buselik", 
+            "mb_tag": "buselik", 
+            "source": "http://musicbrainz.org/recording/52d5002b-b86b-4a52-8d24-11b9e71ec823"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "7906972c-4510-4da6-a60d-054bffedb6e8", 
+            "attribute-list": [
+                "solo"
+            ], 
+            "type": "vocal", 
+            "name": "Filiz \u015eat\u0131ro\u011flu"
+        }, 
+        {
+            "mbid": "7a3adb1f-ebe6-4dbe-a0cc-c71f034d4091", 
+            "attribute-list": [
+                "ney"
+            ], 
+            "type": "instrument", 
+            "name": "Volkan Y\u0131lmaz"
+        }, 
+        {
+            "mbid": "8cf45553-41e7-4544-8070-45ff74f7fb18", 
+            "attribute-list": [
+                "classical kemen\u00e7e"
+            ], 
+            "type": "instrument", 
+            "name": "Ahmet Kadri Rizeli"
+        }, 
+        {
+            "mbid": "9b6e98f8-b695-45da-8c9c-68d4bab460fd", 
+            "attribute-list": [
+                "tanbur"
+            ], 
+            "type": "instrument", 
+            "name": "Murat Aydemir"
+        }, 
+        {
+            "mbid": "b5e2f977-cadd-458a-8171-cafdfe6a331c", 
+            "attribute-list": [
+                "percussion"
+            ], 
+            "type": "instrument", 
+            "name": "Fahrettin Yark\u0131n"
+        }, 
+        {
+            "mbid": "cfe6aea2-c362-4760-9ad1-b95db1605b6e", 
+            "attribute-list": [
+                "cello"
+            ], 
+            "type": "instrument", 
+            "name": "U\u011fur I\u015f\u0131k"
+        }, 
+        {
+            "mbid": "e504a080-2092-4855-9135-45914556ca70", 
+            "attribute-list": [
+                "bendir"
+            ], 
+            "type": "instrument", 
+            "name": "Vahit Anadolu"
+        }, 
+        {
+            "mbid": "eec97a99-ab73-4707-84b5-d7a7e667cb11", 
+            "attribute-list": [
+                "kanun"
+            ], 
+            "type": "instrument", 
+            "name": "Safinaz Rizeli"
+        }
+    ], 
+    "instrumentation_voicing": "Solo vocal with accompaniment", 
+    "works": [
+        {
+            "mbid": "193c36c0-3603-4be4-a97e-c2f30b47f0cd", 
+            "title": "Ho\u015f Ola Bu Nev-bahar Ey G\u00fcl Sana"
+        }
+    ]
+}

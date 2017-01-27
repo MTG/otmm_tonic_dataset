@@ -1,0 +1,49 @@
+{
+    "instrumentation_voicing": "Solo instrumental", 
+    "form": [
+        {
+            "attribute_key": "taksim", 
+            "mb_tag": "taksim", 
+            "source": "http://musicbrainz.org/recording/12142a0b-9424-4a30-9f63-75d1ec27dc00"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "8a880160-5ee1-4d21-910f-e1636f17a9e9", 
+            "title": "16 Makamda Ud Taksimleri"
+        }
+    ], 
+    "title": "K\u00fcrdilihicazkar", 
+    "url": "http://musicbrainz.org/recording/12142a0b-9424-4a30-9f63-75d1ec27dc00", 
+    "artist_credits": [
+        {
+            "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
+            "name": "[unknown]"
+        }
+    ], 
+    "mbid": "12142a0b-9424-4a30-9f63-75d1ec27dc00", 
+    "makam": [
+        {
+            "attribute_key": "kurdilihicazkar", 
+            "mb_tag": "k\u00fcrdilihicazkar", 
+            "source": "http://musicbrainz.org/recording/12142a0b-9424-4a30-9f63-75d1ec27dc00"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
+            "attribute-list": [
+                "oud"
+            ], 
+            "type": "instrument", 
+            "name": "[unknown]"
+        }
+    ], 
+    "usul": [
+        {
+            "attribute_key": "serbest", 
+            "mb_tag": "serbest", 
+            "source": "http://musicbrainz.org/recording/12142a0b-9424-4a30-9f63-75d1ec27dc00"
+        }
+    ]
+}

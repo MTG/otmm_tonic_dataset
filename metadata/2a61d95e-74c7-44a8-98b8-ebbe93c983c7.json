@@ -1,0 +1,56 @@
+{
+    "usul": [], 
+    "form": [
+        {
+            "attribute_key": "oyunhavasi", 
+            "mb_attribute": "Oyunhavas\u0131", 
+            "source": "http://musicbrainz.org/work/1f3f35d3-25d0-49b5-9f8a-4bd880301902"
+        }, 
+        {
+            "attribute_key": "oyunhavasi", 
+            "mb_tag": "oyunhavas\u0131", 
+            "source": "http://musicbrainz.org/recording/2a61d95e-74c7-44a8-98b8-ebbe93c983c7"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "4469247f-6e65-4a35-8661-321c399dacb9", 
+            "title": "Fasl-\u0131 \u015eahane Enstrumantal, Volume 5"
+        }
+    ], 
+    "title": "Rast Oyun Havas\u0131", 
+    "url": "http://musicbrainz.org/recording/2a61d95e-74c7-44a8-98b8-ebbe93c983c7", 
+    "artist_credits": [
+        {
+            "mbid": "ef074ab6-a2a8-42f7-a454-068265023697", 
+            "name": "Aziz T\u00fcrk Sanat M\u00fczi\u011fi Grubu"
+        }
+    ], 
+    "mbid": "2a61d95e-74c7-44a8-98b8-ebbe93c983c7", 
+    "makam": [
+        {
+            "attribute_key": "rast", 
+            "mb_attribute": "Rast", 
+            "source": "http://musicbrainz.org/work/1f3f35d3-25d0-49b5-9f8a-4bd880301902"
+        }, 
+        {
+            "attribute_key": "rast", 
+            "mb_tag": "rast", 
+            "source": "http://musicbrainz.org/recording/2a61d95e-74c7-44a8-98b8-ebbe93c983c7"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "ef074ab6-a2a8-42f7-a454-068265023697", 
+            "type": "performing orchestra", 
+            "name": "Aziz T\u00fcrk Sanat M\u00fczi\u011fi Grubu"
+        }
+    ], 
+    "instrumentation_voicing": "Ensemble instrumental", 
+    "works": [
+        {
+            "mbid": "1f3f35d3-25d0-49b5-9f8a-4bd880301902", 
+            "title": "Rast Oyun Havas\u0131"
+        }
+    ]
+}

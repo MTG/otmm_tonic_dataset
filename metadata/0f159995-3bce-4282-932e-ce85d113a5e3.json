@@ -1,0 +1,67 @@
+{
+    "usul": [
+        {
+            "attribute_key": "sofyan", 
+            "mb_attribute": "Sofyan", 
+            "source": "http://musicbrainz.org/work/b971a070-11a1-4b3d-bb26-5d4b1243d82d"
+        }, 
+        {
+            "attribute_key": "sofyan", 
+            "mb_tag": "sofyan", 
+            "source": "http://musicbrainz.org/recording/0f159995-3bce-4282-932e-ce85d113a5e3"
+        }
+    ], 
+    "form": [
+        {
+            "attribute_key": "turku", 
+            "mb_attribute": "T\u00fcrk\u00fc", 
+            "source": "http://musicbrainz.org/work/b971a070-11a1-4b3d-bb26-5d4b1243d82d"
+        }, 
+        {
+            "attribute_key": "turku", 
+            "mb_tag": "t\u00fcrk\u00fc", 
+            "source": "http://musicbrainz.org/recording/0f159995-3bce-4282-932e-ce85d113a5e3"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "659e23be-4186-4b89-b758-addf78c27b6a", 
+            "title": "Fasl-\u0131 \u015eahane Enstrumantal, Volume 4"
+        }
+    ], 
+    "title": "\u0130ndim Havuz Ba\u015f\u0131na", 
+    "url": "http://musicbrainz.org/recording/0f159995-3bce-4282-932e-ce85d113a5e3", 
+    "artist_credits": [
+        {
+            "mbid": "ef074ab6-a2a8-42f7-a454-068265023697", 
+            "name": "Aziz T\u00fcrk Sanat M\u00fczi\u011fi Grubu"
+        }
+    ], 
+    "mbid": "0f159995-3bce-4282-932e-ce85d113a5e3", 
+    "makam": [
+        {
+            "attribute_key": "huzzam", 
+            "mb_attribute": "H\u00fczzam", 
+            "source": "http://musicbrainz.org/work/b971a070-11a1-4b3d-bb26-5d4b1243d82d"
+        }, 
+        {
+            "attribute_key": "huzzam", 
+            "mb_tag": "h\u00fczzam", 
+            "source": "http://musicbrainz.org/recording/0f159995-3bce-4282-932e-ce85d113a5e3"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "ef074ab6-a2a8-42f7-a454-068265023697", 
+            "type": "performing orchestra", 
+            "name": "Aziz T\u00fcrk Sanat M\u00fczi\u011fi Grubu"
+        }
+    ], 
+    "instrumentation_voicing": "Ensemble instrumental", 
+    "works": [
+        {
+            "mbid": "b971a070-11a1-4b3d-bb26-5d4b1243d82d", 
+            "title": "\u0130ndim Havuz Ba\u015f\u0131na"
+        }
+    ]
+}

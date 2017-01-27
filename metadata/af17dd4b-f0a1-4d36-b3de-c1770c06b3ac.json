@@ -1,0 +1,72 @@
+{
+    "usul": [
+        {
+            "attribute_key": "aksaksemai", 
+            "mb_attribute": "Aksaksemai", 
+            "source": "http://musicbrainz.org/work/343a3ce3-1903-40a6-8dec-724dc3ca09b3"
+        }, 
+        {
+            "attribute_key": "aksaksemai", 
+            "mb_tag": "aksaksemai", 
+            "source": "http://musicbrainz.org/recording/af17dd4b-f0a1-4d36-b3de-c1770c06b3ac"
+        }
+    ], 
+    "form": [
+        {
+            "attribute_key": "agirsemai", 
+            "mb_attribute": "A\u011f\u0131rsemai", 
+            "source": "http://musicbrainz.org/work/343a3ce3-1903-40a6-8dec-724dc3ca09b3"
+        }, 
+        {
+            "attribute_key": "agirsemai", 
+            "mb_tag": "a\u011f\u0131rsemai", 
+            "source": "http://musicbrainz.org/recording/af17dd4b-f0a1-4d36-b3de-c1770c06b3ac"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "ba3a521f-b406-4314-b6be-6075a9b0a507", 
+            "title": "Bekir S\u0131dk\u0131 Sezgin 23"
+        }
+    ], 
+    "title": "G\u00fczelsin Bi-bedelsin Naz-perversin Dil-aras\u0131n", 
+    "url": "http://musicbrainz.org/recording/af17dd4b-f0a1-4d36-b3de-c1770c06b3ac", 
+    "artist_credits": [
+        {
+            "mbid": "7ef61959-65f2-41ab-9ae2-ba890812b7b4", 
+            "name": "Bekir S\u0131dk\u0131 Sezgin"
+        }
+    ], 
+    "mbid": "af17dd4b-f0a1-4d36-b3de-c1770c06b3ac", 
+    "makam": [
+        {
+            "attribute_key": "kurdi", 
+            "mb_attribute": "K\u00fcrdi", 
+            "source": "http://musicbrainz.org/work/343a3ce3-1903-40a6-8dec-724dc3ca09b3"
+        }, 
+        {
+            "attribute_key": "kurdi", 
+            "mb_tag": "k\u00fcrdi", 
+            "source": "http://musicbrainz.org/recording/af17dd4b-f0a1-4d36-b3de-c1770c06b3ac"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
+            "type": "performing orchestra", 
+            "name": "[unknown]"
+        }, 
+        {
+            "mbid": "7ef61959-65f2-41ab-9ae2-ba890812b7b4", 
+            "type": "vocal", 
+            "name": "Bekir S\u0131dk\u0131 Sezgin"
+        }
+    ], 
+    "instrumentation_voicing": "Solo vocal with accompaniment", 
+    "works": [
+        {
+            "mbid": "343a3ce3-1903-40a6-8dec-724dc3ca09b3", 
+            "title": "G\u00fczelsin Bi-bedelsin"
+        }
+    ]
+}

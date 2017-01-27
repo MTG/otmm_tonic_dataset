@@ -1,0 +1,67 @@
+{
+    "usul": [
+        {
+            "attribute_key": "duyek", 
+            "mb_attribute": "D\u00fcyek", 
+            "source": "http://musicbrainz.org/work/1d3193f4-eb7b-47db-8f1c-d3049736a45c"
+        }, 
+        {
+            "attribute_key": "duyek", 
+            "mb_tag": "d\u00fcyek", 
+            "source": "http://musicbrainz.org/recording/5ba09072-4a04-40c5-8145-96146182c63f"
+        }
+    ], 
+    "form": [
+        {
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
+            "source": "http://musicbrainz.org/work/1d3193f4-eb7b-47db-8f1c-d3049736a45c"
+        }, 
+        {
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
+            "source": "http://musicbrainz.org/recording/5ba09072-4a04-40c5-8145-96146182c63f"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "f371b65d-8ec2-4516-ae77-563fe10776c5", 
+            "title": "Alaeddin Yava\u015f\u00e7a"
+        }
+    ], 
+    "title": "Art\u0131k Bu Solan Bah\u00e7ede B\u00fclb\u00fcllere Yer Yok", 
+    "url": "http://musicbrainz.org/recording/5ba09072-4a04-40c5-8145-96146182c63f", 
+    "artist_credits": [
+        {
+            "mbid": "7906972c-4510-4da6-a60d-054bffedb6e8", 
+            "name": "Filiz \u015eat\u0131ro\u011flu"
+        }
+    ], 
+    "mbid": "5ba09072-4a04-40c5-8145-96146182c63f", 
+    "makam": [
+        {
+            "attribute_key": "hicaz", 
+            "mb_attribute": "Hicaz", 
+            "source": "http://musicbrainz.org/work/1d3193f4-eb7b-47db-8f1c-d3049736a45c"
+        }, 
+        {
+            "attribute_key": "hicaz", 
+            "mb_tag": "hicaz", 
+            "source": "http://musicbrainz.org/recording/5ba09072-4a04-40c5-8145-96146182c63f"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "7906972c-4510-4da6-a60d-054bffedb6e8", 
+            "type": "vocal", 
+            "name": "Filiz \u015eat\u0131ro\u011flu"
+        }
+    ], 
+    "instrumentation_voicing": "Solo vocal without accompaniment", 
+    "works": [
+        {
+            "mbid": "1d3193f4-eb7b-47db-8f1c-d3049736a45c", 
+            "title": "Art\u0131k Bu Solan Bah\u00e7ede B\u00fclb\u00fcllere Yer Yok"
+        }
+    ]
+}

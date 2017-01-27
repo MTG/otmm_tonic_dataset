@@ -1,0 +1,45 @@
+{
+    "usul": [
+        {
+            "attribute_key": "serbest", 
+            "mb_tag": "serbest", 
+            "source": "http://musicbrainz.org/recording/a8cd450e-e8d9-4245-b670-2a9626e14b0c"
+        }
+    ], 
+    "form": [], 
+    "releases": [
+        {
+            "mbid": "0c8d1e05-0265-4765-97d0-378b85491e87", 
+            "title": "Gazeller ve Naatlar"
+        }
+    ], 
+    "title": "Mecnun Gibi Leyla Diyerek A\u015fk\u0131na Kand\u0131m", 
+    "url": "http://musicbrainz.org/recording/a8cd450e-e8d9-4245-b670-2a9626e14b0c", 
+    "artist_credits": [
+        {
+            "mbid": "7ef61959-65f2-41ab-9ae2-ba890812b7b4", 
+            "name": "Bekir S\u0131dk\u0131 Sezgin"
+        }
+    ], 
+    "mbid": "a8cd450e-e8d9-4245-b670-2a9626e14b0c", 
+    "makam": [], 
+    "artists": [
+        {
+            "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
+            "type": "performing orchestra", 
+            "name": "[unknown]"
+        }, 
+        {
+            "mbid": "7ef61959-65f2-41ab-9ae2-ba890812b7b4", 
+            "type": "vocal", 
+            "name": "Bekir S\u0131dk\u0131 Sezgin"
+        }
+    ], 
+    "instrumentation_voicing": "Solo vocal with accompaniment", 
+    "works": [
+        {
+            "mbid": "157c0c22-960b-45c4-9596-ff3506423951", 
+            "title": "Mecnun Gibi Leyla Diyerek A\u015fk\u0131na Kand\u0131m"
+        }
+    ]
+}

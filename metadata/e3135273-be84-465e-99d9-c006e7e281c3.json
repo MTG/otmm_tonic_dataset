@@ -1,0 +1,72 @@
+{
+    "usul": [
+        {
+            "attribute_key": "aksak", 
+            "mb_attribute": "Aksak", 
+            "source": "http://musicbrainz.org/work/a6f1e216-df3b-46c8-b4a9-70268be5bef6"
+        }, 
+        {
+            "attribute_key": "aksak", 
+            "mb_tag": "aksak", 
+            "source": "http://musicbrainz.org/recording/e3135273-be84-465e-99d9-c006e7e281c3"
+        }
+    ], 
+    "form": [
+        {
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
+            "source": "http://musicbrainz.org/work/a6f1e216-df3b-46c8-b4a9-70268be5bef6"
+        }, 
+        {
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
+            "source": "http://musicbrainz.org/recording/e3135273-be84-465e-99d9-c006e7e281c3"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "6b94e631-734e-4ebb-9acd-0741183608fe", 
+            "title": "Bekir S\u0131dk\u0131 Sezgin 22"
+        }
+    ], 
+    "title": "Kimseyi B\u00f6yle Peri\u015fan Etme Allah\u0131m Yeter", 
+    "url": "http://musicbrainz.org/recording/e3135273-be84-465e-99d9-c006e7e281c3", 
+    "artist_credits": [
+        {
+            "mbid": "7ef61959-65f2-41ab-9ae2-ba890812b7b4", 
+            "name": "Bekir S\u0131dk\u0131 Sezgin"
+        }
+    ], 
+    "mbid": "e3135273-be84-465e-99d9-c006e7e281c3", 
+    "makam": [
+        {
+            "attribute_key": "hicaz", 
+            "mb_attribute": "Hicaz", 
+            "source": "http://musicbrainz.org/work/a6f1e216-df3b-46c8-b4a9-70268be5bef6"
+        }, 
+        {
+            "attribute_key": "hicaz", 
+            "mb_tag": "hicaz", 
+            "source": "http://musicbrainz.org/recording/e3135273-be84-465e-99d9-c006e7e281c3"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
+            "type": "performing orchestra", 
+            "name": "[unknown]"
+        }, 
+        {
+            "mbid": "7ef61959-65f2-41ab-9ae2-ba890812b7b4", 
+            "type": "vocal", 
+            "name": "Bekir S\u0131dk\u0131 Sezgin"
+        }
+    ], 
+    "instrumentation_voicing": "Solo vocal with accompaniment", 
+    "works": [
+        {
+            "mbid": "a6f1e216-df3b-46c8-b4a9-70268be5bef6", 
+            "title": "Kimseyi B\u00f6yle Peri\u015fan Etme Allah\u0131m Yeter"
+        }
+    ]
+}

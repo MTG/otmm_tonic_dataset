@@ -1,0 +1,72 @@
+{
+    "usul": [
+        {
+            "attribute_key": "muhammes", 
+            "mb_attribute": "Muhammes", 
+            "source": "http://musicbrainz.org/work/0d7f26ab-f303-45d0-9047-22bf00852979"
+        }, 
+        {
+            "attribute_key": "muhammes", 
+            "mb_tag": "muhammes", 
+            "source": "http://musicbrainz.org/recording/bb9fc9e0-b38e-4db2-a3c2-327ad3d1fde1"
+        }
+    ], 
+    "form": [
+        {
+            "attribute_key": "beste", 
+            "mb_attribute": "Beste", 
+            "source": "http://musicbrainz.org/work/0d7f26ab-f303-45d0-9047-22bf00852979"
+        }, 
+        {
+            "attribute_key": "beste", 
+            "mb_tag": "beste", 
+            "source": "http://musicbrainz.org/recording/bb9fc9e0-b38e-4db2-a3c2-327ad3d1fde1"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "8024b6af-73d3-47ac-a20c-06d4114363f5", 
+            "title": "Bekir S\u0131dk\u0131 Sezgin 15"
+        }
+    ], 
+    "title": "Bezm-i Meyde Mutriba Bir Na\u011fme-i Dilcu Kopar", 
+    "url": "http://musicbrainz.org/recording/bb9fc9e0-b38e-4db2-a3c2-327ad3d1fde1", 
+    "artist_credits": [
+        {
+            "mbid": "7ef61959-65f2-41ab-9ae2-ba890812b7b4", 
+            "name": "Bekir S\u0131dk\u0131 Sezgin"
+        }
+    ], 
+    "mbid": "bb9fc9e0-b38e-4db2-a3c2-327ad3d1fde1", 
+    "makam": [
+        {
+            "attribute_key": "segah", 
+            "mb_attribute": "Segah", 
+            "source": "http://musicbrainz.org/work/0d7f26ab-f303-45d0-9047-22bf00852979"
+        }, 
+        {
+            "attribute_key": "segah", 
+            "mb_tag": "segah", 
+            "source": "http://musicbrainz.org/recording/bb9fc9e0-b38e-4db2-a3c2-327ad3d1fde1"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
+            "type": "performing orchestra", 
+            "name": "[unknown]"
+        }, 
+        {
+            "mbid": "7ef61959-65f2-41ab-9ae2-ba890812b7b4", 
+            "type": "vocal", 
+            "name": "Bekir S\u0131dk\u0131 Sezgin"
+        }
+    ], 
+    "instrumentation_voicing": "Solo vocal with accompaniment", 
+    "works": [
+        {
+            "mbid": "0d7f26ab-f303-45d0-9047-22bf00852979", 
+            "title": "Bezm-i Meyde Mutr\u0131ba Bir Na\u011fme-i Dil-cu Kopar"
+        }
+    ]
+}

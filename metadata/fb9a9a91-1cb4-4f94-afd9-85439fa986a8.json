@@ -1,0 +1,81 @@
+{
+    "usul": [
+        {
+            "attribute_key": "devrikebir", 
+            "mb_attribute": "Devr-i Kebir", 
+            "source": "http://musicbrainz.org/work/b35f8221-5992-4585-9cb3-f153beaa4e62"
+        }, 
+        {
+            "attribute_key": "devrikebir", 
+            "mb_tag": "devrikebir", 
+            "source": "http://musicbrainz.org/recording/fb9a9a91-1cb4-4f94-afd9-85439fa986a8"
+        }
+    ], 
+    "form": [
+        {
+            "attribute_key": "pesrev", 
+            "mb_attribute": "Pe\u015frev", 
+            "source": "http://musicbrainz.org/work/b35f8221-5992-4585-9cb3-f153beaa4e62"
+        }, 
+        {
+            "attribute_key": "ayin_i_serif", 
+            "mb_attribute": "Ayin-i \u015eerif", 
+            "source": "http://musicbrainz.org/work/c6cdec1a-8763-48dd-9aa9-ad89d5a5e322"
+        }, 
+        {
+            "attribute_key": "pesrev", 
+            "mb_tag": "pe\u015frev", 
+            "source": "http://musicbrainz.org/recording/fb9a9a91-1cb4-4f94-afd9-85439fa986a8"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "430058da-7be0-48ec-abac-9b88b87e293f", 
+            "title": "Mevlevi Sesler"
+        }
+    ], 
+    "title": "Pe\u015frev", 
+    "url": "http://musicbrainz.org/recording/fb9a9a91-1cb4-4f94-afd9-85439fa986a8", 
+    "artist_credits": [
+        {
+            "mbid": "81081f45-a36e-4248-9d33-43d4a3445f6d", 
+            "name": "Dede Efendi"
+        }
+    ], 
+    "mbid": "fb9a9a91-1cb4-4f94-afd9-85439fa986a8", 
+    "makam": [
+        {
+            "attribute_key": "ferahfeza", 
+            "mb_attribute": "Ferahfeza", 
+            "source": "http://musicbrainz.org/work/b35f8221-5992-4585-9cb3-f153beaa4e62"
+        }, 
+        {
+            "attribute_key": "ferahfeza", 
+            "mb_attribute": "Ferahfeza", 
+            "source": "http://musicbrainz.org/work/c6cdec1a-8763-48dd-9aa9-ad89d5a5e322"
+        }, 
+        {
+            "attribute_key": "ferahfeza", 
+            "mb_tag": "ferahfeza", 
+            "source": "http://musicbrainz.org/recording/fb9a9a91-1cb4-4f94-afd9-85439fa986a8"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "713ad8af-1c98-4569-a445-71f7b9395945", 
+            "type": "performing orchestra", 
+            "name": "Dede Efendi T\u00fcrk M\u00fczi\u011fi Toplulu\u011fu"
+        }
+    ], 
+    "instrumentation_voicing": "Ensemble instrumental", 
+    "works": [
+        {
+            "mbid": "b35f8221-5992-4585-9cb3-f153beaa4e62", 
+            "title": "Ferahfeza Pe\u015frev"
+        }, 
+        {
+            "mbid": "c6cdec1a-8763-48dd-9aa9-ad89d5a5e322", 
+            "title": "Ferahfeza Ayin-i \u015eerif"
+        }
+    ]
+}

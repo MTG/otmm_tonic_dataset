@@ -1,0 +1,86 @@
+{
+    "usul": [
+        {
+            "attribute_key": "aksaksemai", 
+            "mb_attribute": "Aksaksemai", 
+            "source": "http://musicbrainz.org/work/e9456d5a-8cf7-42c2-a819-8c29bbe6af01"
+        }, 
+        {
+            "attribute_key": "aksaksemai", 
+            "mb_tag": "aksaksemai", 
+            "source": "http://musicbrainz.org/recording/89d2c6d4-d66d-4f0e-b38c-f0ed7c833923"
+        }
+    ], 
+    "form": [
+        {
+            "attribute_key": "sazsemaisi", 
+            "mb_attribute": "Sazsemaisi", 
+            "source": "http://musicbrainz.org/work/e9456d5a-8cf7-42c2-a819-8c29bbe6af01"
+        }, 
+        {
+            "attribute_key": "sazsemaisi", 
+            "mb_tag": "sazsemaisi", 
+            "source": "http://musicbrainz.org/recording/89d2c6d4-d66d-4f0e-b38c-f0ed7c833923"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "c351559c-4931-4f8f-a6b1-3652d383f6cb", 
+            "title": "Tanburi Cemil Bey Vols. IV & V"
+        }
+    ], 
+    "title": "Tahirbuselik Saz Semai", 
+    "url": "http://musicbrainz.org/recording/89d2c6d4-d66d-4f0e-b38c-f0ed7c833923", 
+    "artist_credits": [
+        {
+            "mbid": "4cc5200e-a3f7-4d5d-8b15-9b10a8f9a9a2", 
+            "name": "Tanburi Cemil Bey"
+        }
+    ], 
+    "mbid": "89d2c6d4-d66d-4f0e-b38c-f0ed7c833923", 
+    "makam": [
+        {
+            "attribute_key": "tahirbuselik", 
+            "mb_attribute": "Tahirbuselik", 
+            "source": "http://musicbrainz.org/work/e9456d5a-8cf7-42c2-a819-8c29bbe6af01"
+        }, 
+        {
+            "attribute_key": "tahirbuselik", 
+            "mb_tag": "tahirbuselik", 
+            "source": "http://musicbrainz.org/recording/89d2c6d4-d66d-4f0e-b38c-f0ed7c833923"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "025f6ee1-9536-4912-8758-20fbecf9b26f", 
+            "attribute-list": [
+                "oud"
+            ], 
+            "type": "instrument", 
+            "name": "Udi Nevres Bey"
+        }, 
+        {
+            "mbid": "4cc5200e-a3f7-4d5d-8b15-9b10a8f9a9a2", 
+            "attribute-list": [
+                "classical kemen\u00e7e"
+            ], 
+            "type": "instrument", 
+            "name": "Tanburi Cemil Bey"
+        }, 
+        {
+            "mbid": "7586560f-2457-485e-a099-41b45e9af5ab", 
+            "attribute-list": [
+                "oud"
+            ], 
+            "type": "instrument", 
+            "name": "\u015eevki Bey"
+        }
+    ], 
+    "instrumentation_voicing": "Trio instrumental", 
+    "works": [
+        {
+            "mbid": "e9456d5a-8cf7-42c2-a819-8c29bbe6af01", 
+            "title": "Tahirbuselik Sazsemaisi"
+        }
+    ]
+}

@@ -1,0 +1,82 @@
+{
+    "usul": [
+        {
+            "attribute_key": "aksaksemai", 
+            "mb_attribute": "Aksaksemai", 
+            "source": "http://musicbrainz.org/work/1eb2ca1e-249b-424c-9ff5-0e1561590257"
+        }, 
+        {
+            "attribute_key": "aksaksemai", 
+            "mb_tag": "aksaksemai", 
+            "source": "http://musicbrainz.org/recording/efae832f-1b2c-4e3f-b7e6-62e08353b9b4"
+        }
+    ], 
+    "form": [
+        {
+            "attribute_key": "sazsemaisi", 
+            "mb_attribute": "Sazsemaisi", 
+            "source": "http://musicbrainz.org/work/1eb2ca1e-249b-424c-9ff5-0e1561590257"
+        }, 
+        {
+            "attribute_key": "sazsemaisi", 
+            "mb_tag": "sazsemaisi", 
+            "source": "http://musicbrainz.org/recording/efae832f-1b2c-4e3f-b7e6-62e08353b9b4"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "23a69389-518b-4b31-b7d7-7175db138665", 
+            "title": "C\u00fcneyd Orhon"
+        }
+    ], 
+    "title": "\u015eedaraban Sazsemaisi", 
+    "url": "http://musicbrainz.org/recording/efae832f-1b2c-4e3f-b7e6-62e08353b9b4", 
+    "artist_credits": [
+        {
+            "mbid": "92805785-a644-43f7-8bd8-4dd51bf48529", 
+            "name": "C\u00fcneyd Orhon"
+        }, 
+        {
+            "mbid": "ab923148-30d0-4c94-b5e3-ae7780fa0e73", 
+            "name": "Mutlu Torun"
+        }
+    ], 
+    "mbid": "efae832f-1b2c-4e3f-b7e6-62e08353b9b4", 
+    "makam": [
+        {
+            "attribute_key": "sedaraban", 
+            "mb_attribute": "\u015eedaraban", 
+            "source": "http://musicbrainz.org/work/1eb2ca1e-249b-424c-9ff5-0e1561590257"
+        }, 
+        {
+            "attribute_key": "sedaraban", 
+            "mb_tag": "\u015fedaraban", 
+            "source": "http://musicbrainz.org/recording/efae832f-1b2c-4e3f-b7e6-62e08353b9b4"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "92805785-a644-43f7-8bd8-4dd51bf48529", 
+            "attribute-list": [
+                "classical kemen\u00e7e"
+            ], 
+            "type": "instrument", 
+            "name": "C\u00fcneyd Orhon"
+        }, 
+        {
+            "mbid": "ab923148-30d0-4c94-b5e3-ae7780fa0e73", 
+            "attribute-list": [
+                "oud"
+            ], 
+            "type": "instrument", 
+            "name": "Mutlu Torun"
+        }
+    ], 
+    "instrumentation_voicing": "Duo instrumental", 
+    "works": [
+        {
+            "mbid": "1eb2ca1e-249b-424c-9ff5-0e1561590257", 
+            "title": "\u015eedaraban Sazsemaisi"
+        }
+    ]
+}

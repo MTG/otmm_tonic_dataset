@@ -1,0 +1,66 @@
+{
+    "usul": [
+        {
+            "attribute_key": "hafif", 
+            "mb_attribute": "Hafif", 
+            "source": "http://musicbrainz.org/work/32a9c5dc-1e57-47dc-9b97-6e0a611df9e4"
+        }
+    ], 
+    "form": [
+        {
+            "attribute_key": "pesrev", 
+            "mb_attribute": "Pe\u015frev", 
+            "source": "http://musicbrainz.org/work/32a9c5dc-1e57-47dc-9b97-6e0a611df9e4"
+        }, 
+        {
+            "attribute_key": "pesrev", 
+            "mb_tag": "pe\u015frev", 
+            "source": "http://musicbrainz.org/recording/9ddf9418-0de9-4678-8219-f788f2b7a794"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "93d37c26-9732-4558-afc9-b2e5d3f58cb0", 
+            "title": "Ney ile \u0130cra Edilmi\u015f Saz Eserleri"
+        }
+    ], 
+    "title": "Mahur Pe\u015frev (Mansur Ney)", 
+    "url": "http://musicbrainz.org/recording/9ddf9418-0de9-4678-8219-f788f2b7a794", 
+    "artist_credits": [
+        {
+            "mbid": "3a57e3a4-4e48-4ce2-aae0-c5b5275721eb", 
+            "name": "Salih Bilgin"
+        }
+    ], 
+    "mbid": "9ddf9418-0de9-4678-8219-f788f2b7a794", 
+    "makam": [
+        {
+            "attribute_key": "mahur", 
+            "mb_attribute": "Mahur", 
+            "source": "http://musicbrainz.org/work/32a9c5dc-1e57-47dc-9b97-6e0a611df9e4"
+        }, 
+        {
+            "attribute_key": "mahur", 
+            "mb_tag": "mahur", 
+            "source": "http://musicbrainz.org/recording/9ddf9418-0de9-4678-8219-f788f2b7a794"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "3a57e3a4-4e48-4ce2-aae0-c5b5275721eb", 
+            "attribute-list": [
+                "ney", 
+                "solo"
+            ], 
+            "type": "instrument", 
+            "name": "Salih Bilgin"
+        }
+    ], 
+    "instrumentation_voicing": "Solo instrumental", 
+    "works": [
+        {
+            "mbid": "32a9c5dc-1e57-47dc-9b97-6e0a611df9e4", 
+            "title": "Mahur Pe\u015frevi"
+        }
+    ]
+}

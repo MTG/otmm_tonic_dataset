@@ -1,0 +1,72 @@
+{
+    "usul": [
+        {
+            "attribute_key": "turkaksagi", 
+            "mb_attribute": "T\u00fcrkaksa\u011f\u0131", 
+            "source": "http://musicbrainz.org/work/2a0a8089-1b0e-4e4d-b931-3a20e4a44bc8"
+        }, 
+        {
+            "attribute_key": "turkaksagi_ii", 
+            "mb_tag": "t\u00fcrkaksa\u011f\u0131", 
+            "source": "http://musicbrainz.org/recording/01b26654-960a-4a5d-8f91-4cbd96631715"
+        }
+    ], 
+    "form": [
+        {
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
+            "source": "http://musicbrainz.org/work/2a0a8089-1b0e-4e4d-b931-3a20e4a44bc8"
+        }, 
+        {
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
+            "source": "http://musicbrainz.org/recording/01b26654-960a-4a5d-8f91-4cbd96631715"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "6a11e408-fd68-4161-8f72-d18493965464", 
+            "title": "Evcara 3"
+        }
+    ], 
+    "title": "Kalbimde A\u00e7\u0131lm\u0131\u015f Da\u011f\u0131lan Bir Kuru G\u00fcld\u00fcn", 
+    "url": "http://musicbrainz.org/recording/01b26654-960a-4a5d-8f91-4cbd96631715", 
+    "artist_credits": [
+        {
+            "mbid": "7ef61959-65f2-41ab-9ae2-ba890812b7b4", 
+            "name": "Bekir S\u0131dk\u0131 Sezgin"
+        }
+    ], 
+    "mbid": "01b26654-960a-4a5d-8f91-4cbd96631715", 
+    "makam": [
+        {
+            "attribute_key": "evic", 
+            "mb_attribute": "Evi\u00e7", 
+            "source": "http://musicbrainz.org/work/2a0a8089-1b0e-4e4d-b931-3a20e4a44bc8"
+        }, 
+        {
+            "attribute_key": "evic", 
+            "mb_tag": "evi\u00e7", 
+            "source": "http://musicbrainz.org/recording/01b26654-960a-4a5d-8f91-4cbd96631715"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
+            "type": "performing orchestra", 
+            "name": "[unknown]"
+        }, 
+        {
+            "mbid": "7ef61959-65f2-41ab-9ae2-ba890812b7b4", 
+            "type": "vocal", 
+            "name": "Bekir S\u0131dk\u0131 Sezgin"
+        }
+    ], 
+    "instrumentation_voicing": "Solo vocal with accompaniment", 
+    "works": [
+        {
+            "mbid": "2a0a8089-1b0e-4e4d-b931-3a20e4a44bc8", 
+            "title": "Kalbimde A\u00e7\u0131lm\u0131\u015f Da\u011f\u0131lan Bir Kuru G\u00fcld\u00fcn"
+        }
+    ]
+}

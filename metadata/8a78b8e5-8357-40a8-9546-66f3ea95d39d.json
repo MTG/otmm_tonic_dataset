@@ -1,0 +1,72 @@
+{
+    "usul": [
+        {
+            "attribute_key": "aksak", 
+            "mb_attribute": "Aksak", 
+            "source": "http://musicbrainz.org/work/8d7350ad-f8d1-44c7-868f-cd6e22b4927f"
+        }, 
+        {
+            "attribute_key": "aksak", 
+            "mb_tag": "aksak", 
+            "source": "http://musicbrainz.org/recording/8a78b8e5-8357-40a8-9546-66f3ea95d39d"
+        }
+    ], 
+    "form": [
+        {
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
+            "source": "http://musicbrainz.org/work/8d7350ad-f8d1-44c7-868f-cd6e22b4927f"
+        }, 
+        {
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
+            "source": "http://musicbrainz.org/recording/8a78b8e5-8357-40a8-9546-66f3ea95d39d"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "859229ff-6bac-4bf0-8687-a7a820750c89", 
+            "title": "Bekir S\u0131dk\u0131 Sezgin 16"
+        }
+    ], 
+    "title": "Sen Serv-i Naz\u0131n Ruhsar-\u0131 Ali", 
+    "url": "http://musicbrainz.org/recording/8a78b8e5-8357-40a8-9546-66f3ea95d39d", 
+    "artist_credits": [
+        {
+            "mbid": "7ef61959-65f2-41ab-9ae2-ba890812b7b4", 
+            "name": "Bekir S\u0131dk\u0131 Sezgin"
+        }
+    ], 
+    "mbid": "8a78b8e5-8357-40a8-9546-66f3ea95d39d", 
+    "makam": [
+        {
+            "attribute_key": "ussak", 
+            "mb_attribute": "U\u015f\u015fak", 
+            "source": "http://musicbrainz.org/work/8d7350ad-f8d1-44c7-868f-cd6e22b4927f"
+        }, 
+        {
+            "attribute_key": "ussak", 
+            "mb_tag": "u\u015f\u015fak", 
+            "source": "http://musicbrainz.org/recording/8a78b8e5-8357-40a8-9546-66f3ea95d39d"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
+            "type": "performing orchestra", 
+            "name": "[unknown]"
+        }, 
+        {
+            "mbid": "7ef61959-65f2-41ab-9ae2-ba890812b7b4", 
+            "type": "vocal", 
+            "name": "Bekir S\u0131dk\u0131 Sezgin"
+        }
+    ], 
+    "instrumentation_voicing": "Solo vocal with accompaniment", 
+    "works": [
+        {
+            "mbid": "8d7350ad-f8d1-44c7-868f-cd6e22b4927f", 
+            "title": "Sen Serv-i Naz\u0131n"
+        }
+    ]
+}

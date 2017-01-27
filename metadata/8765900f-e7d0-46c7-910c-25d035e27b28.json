@@ -1,0 +1,74 @@
+{
+    "usul": [
+        {
+            "attribute_key": "devrikebir", 
+            "mb_attribute": "Devr-i Kebir", 
+            "source": "http://musicbrainz.org/work/608def1b-d955-46e0-acde-1e3190d4f49b"
+        }, 
+        {
+            "attribute_key": "devrikebir", 
+            "mb_tag": "devr-i kebir", 
+            "source": "http://musicbrainz.org/recording/8765900f-e7d0-46c7-910c-25d035e27b28"
+        }
+    ], 
+    "form": [
+        {
+            "attribute_key": "pesrev", 
+            "mb_attribute": "Pe\u015frev", 
+            "source": "http://musicbrainz.org/work/608def1b-d955-46e0-acde-1e3190d4f49b"
+        }, 
+        {
+            "attribute_key": "pesrev", 
+            "mb_tag": "pe\u015frev", 
+            "source": "http://musicbrainz.org/recording/8765900f-e7d0-46c7-910c-25d035e27b28"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "1ca2ba03-e886-4d6a-ac05-1641f17f666b", 
+            "title": "Yasemin"
+        }, 
+        {
+            "mbid": "a30f64aa-dc94-4042-b4f3-3616c7513e28", 
+            "title": "Yasemin"
+        }
+    ], 
+    "title": "Muhayyer Pe\u015frev", 
+    "url": "http://musicbrainz.org/recording/8765900f-e7d0-46c7-910c-25d035e27b28", 
+    "artist_credits": [
+        {
+            "mbid": "0a7cf3b7-97a1-4187-ac32-698a3ceb27a2", 
+            "name": "Necati \u00c7elik"
+        }
+    ], 
+    "mbid": "8765900f-e7d0-46c7-910c-25d035e27b28", 
+    "makam": [
+        {
+            "attribute_key": "muhayyer", 
+            "mb_attribute": "Muhayyer", 
+            "source": "http://musicbrainz.org/work/608def1b-d955-46e0-acde-1e3190d4f49b"
+        }, 
+        {
+            "attribute_key": "muhayyer", 
+            "mb_tag": "muhayyer", 
+            "source": "http://musicbrainz.org/recording/8765900f-e7d0-46c7-910c-25d035e27b28"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "0a7cf3b7-97a1-4187-ac32-698a3ceb27a2", 
+            "attribute-list": [
+                "oud"
+            ], 
+            "type": "instrument", 
+            "name": "Necati \u00c7elik"
+        }
+    ], 
+    "instrumentation_voicing": "Solo instrumental", 
+    "works": [
+        {
+            "mbid": "608def1b-d955-46e0-acde-1e3190d4f49b", 
+            "title": "Muhayyer Pe\u015frev"
+        }
+    ]
+}

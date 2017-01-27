@@ -1,0 +1,82 @@
+{
+    "usul": [
+        {
+            "attribute_key": "fahte", 
+            "mb_attribute": "Fahte", 
+            "source": "http://musicbrainz.org/work/83291c8a-4ef1-4ffc-8b50-3fc03890f5a4"
+        }, 
+        {
+            "attribute_key": "fahte", 
+            "mb_tag": "fahte", 
+            "source": "http://musicbrainz.org/recording/e97d55c1-1516-4a6d-b59f-4a3a8eec7734"
+        }
+    ], 
+    "form": [
+        {
+            "attribute_key": "pesrev", 
+            "mb_attribute": "Pe\u015frev", 
+            "source": "http://musicbrainz.org/work/83291c8a-4ef1-4ffc-8b50-3fc03890f5a4"
+        }, 
+        {
+            "attribute_key": "pesrev", 
+            "mb_tag": "pe\u015frev", 
+            "source": "http://musicbrainz.org/recording/e97d55c1-1516-4a6d-b59f-4a3a8eec7734"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "93d37c26-9732-4558-afc9-b2e5d3f58cb0", 
+            "title": "Ney ile \u0130cra Edilmi\u015f Saz Eserleri"
+        }
+    ], 
+    "title": "\u015eedd-i Araban Pe\u015frev (K\u0131z Ney)", 
+    "url": "http://musicbrainz.org/recording/e97d55c1-1516-4a6d-b59f-4a3a8eec7734", 
+    "artist_credits": [
+        {
+            "mbid": "b5b62276-f52c-47bc-a86d-76dd39ac7f52", 
+            "name": "Burcu Karada\u011f"
+        }, 
+        {
+            "mbid": "5ed8e36f-50fa-4912-b380-e0a2549ca606", 
+            "name": "Alper Uzkur"
+        }
+    ], 
+    "mbid": "e97d55c1-1516-4a6d-b59f-4a3a8eec7734", 
+    "makam": [
+        {
+            "attribute_key": "sedaraban", 
+            "mb_attribute": "\u015eedaraban", 
+            "source": "http://musicbrainz.org/work/83291c8a-4ef1-4ffc-8b50-3fc03890f5a4"
+        }, 
+        {
+            "attribute_key": "sedaraban", 
+            "mb_tag": "\u015fedaraban", 
+            "source": "http://musicbrainz.org/recording/e97d55c1-1516-4a6d-b59f-4a3a8eec7734"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "5ed8e36f-50fa-4912-b380-e0a2549ca606", 
+            "attribute-list": [
+                "tanbur"
+            ], 
+            "type": "instrument", 
+            "name": "Alper Uzkur"
+        }, 
+        {
+            "mbid": "b5b62276-f52c-47bc-a86d-76dd39ac7f52", 
+            "attribute-list": [
+                "ney"
+            ], 
+            "type": "instrument", 
+            "name": "Burcu Karada\u011f"
+        }
+    ], 
+    "instrumentation_voicing": "Duo instrumental", 
+    "works": [
+        {
+            "mbid": "83291c8a-4ef1-4ffc-8b50-3fc03890f5a4", 
+            "title": "\u015eedaraban Pe\u015frevi"
+        }
+    ]
+}

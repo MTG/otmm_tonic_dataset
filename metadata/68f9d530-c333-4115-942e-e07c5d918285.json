@@ -1,0 +1,70 @@
+{
+    "usul": [
+        {
+            "attribute_key": "agirduyek", 
+            "mb_attribute": "A\u011f\u0131rd\u00fcyek", 
+            "source": "http://musicbrainz.org/work/e3691957-a2bd-4e40-8041-582af3a02b4e"
+        }, 
+        {
+            "attribute_key": "agirduyek", 
+            "mb_tag": "a\u011f\u0131rd\u00fcyek", 
+            "source": "http://musicbrainz.org/recording/68f9d530-c333-4115-942e-e07c5d918285"
+        }
+    ], 
+    "form": [
+        {
+            "attribute_key": "pesrev", 
+            "mb_attribute": "Pe\u015frev", 
+            "source": "http://musicbrainz.org/work/e3691957-a2bd-4e40-8041-582af3a02b4e"
+        }, 
+        {
+            "attribute_key": "pesrev", 
+            "mb_tag": "pe\u015frev", 
+            "source": "http://musicbrainz.org/recording/68f9d530-c333-4115-942e-e07c5d918285"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "212450ff-da1e-4967-85de-5b841675da83", 
+            "title": "Osmanl\u0131'dan Bug\u00fcne T\u00fcrk Musikisi- Ud"
+        }
+    ], 
+    "title": "K\u00fcrdilihicazkar Pe\u015frev", 
+    "url": "http://musicbrainz.org/recording/68f9d530-c333-4115-942e-e07c5d918285", 
+    "artist_credits": [
+        {
+            "mbid": "c470e6d2-320d-47a8-9daa-e2febd6cf4ae", 
+            "name": "Enver Mete Aslan"
+        }
+    ], 
+    "mbid": "68f9d530-c333-4115-942e-e07c5d918285", 
+    "makam": [
+        {
+            "attribute_key": "kurdilihicazkar", 
+            "mb_attribute": "K\u00fcrdilihicazkar", 
+            "source": "http://musicbrainz.org/work/e3691957-a2bd-4e40-8041-582af3a02b4e"
+        }, 
+        {
+            "attribute_key": "kurdilihicazkar", 
+            "mb_tag": "k\u00fcrdilihicazkar", 
+            "source": "http://musicbrainz.org/recording/68f9d530-c333-4115-942e-e07c5d918285"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "c470e6d2-320d-47a8-9daa-e2febd6cf4ae", 
+            "attribute-list": [
+                "oud"
+            ], 
+            "type": "instrument", 
+            "name": "Enver Mete Aslan"
+        }
+    ], 
+    "instrumentation_voicing": "Solo instrumental", 
+    "works": [
+        {
+            "mbid": "e3691957-a2bd-4e40-8041-582af3a02b4e", 
+            "title": "K\u00fcrdilihicazkar Pe\u015frev"
+        }
+    ]
+}

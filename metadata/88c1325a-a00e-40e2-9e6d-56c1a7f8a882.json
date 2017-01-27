@@ -1,0 +1,72 @@
+{
+    "usul": [
+        {
+            "attribute_key": "lenkfahte", 
+            "mb_attribute": "Lenk Fahte", 
+            "source": "http://musicbrainz.org/work/905de2ab-5197-4ef9-aca4-b3993985d72b"
+        }, 
+        {
+            "attribute_key": "lenkfahte", 
+            "mb_tag": "lenk fahte", 
+            "source": "http://musicbrainz.org/recording/88c1325a-a00e-40e2-9e6d-56c1a7f8a882"
+        }
+    ], 
+    "form": [
+        {
+            "attribute_key": "beste", 
+            "mb_attribute": "Beste", 
+            "source": "http://musicbrainz.org/work/905de2ab-5197-4ef9-aca4-b3993985d72b"
+        }, 
+        {
+            "attribute_key": "beste", 
+            "mb_tag": "beste", 
+            "source": "http://musicbrainz.org/recording/88c1325a-a00e-40e2-9e6d-56c1a7f8a882"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "def8324c-f183-437e-b51e-76e3b2129707", 
+            "title": "Trt Ar\u015fiv Serisi 28 - Bekir S\u0131tk\u0131 Sezgin'den Se\u00e7meler"
+        }
+    ], 
+    "title": "Bir \u015eeh ki Tac Daran Olmakta Hak-i Rah\u0131", 
+    "url": "http://musicbrainz.org/recording/88c1325a-a00e-40e2-9e6d-56c1a7f8a882", 
+    "artist_credits": [
+        {
+            "mbid": "7ef61959-65f2-41ab-9ae2-ba890812b7b4", 
+            "name": "Bekir S\u0131dk\u0131 Sezgin"
+        }
+    ], 
+    "mbid": "88c1325a-a00e-40e2-9e6d-56c1a7f8a882", 
+    "makam": [
+        {
+            "attribute_key": "acem", 
+            "mb_attribute": "Acem", 
+            "source": "http://musicbrainz.org/work/905de2ab-5197-4ef9-aca4-b3993985d72b"
+        }, 
+        {
+            "attribute_key": "acem", 
+            "mb_tag": "acem", 
+            "source": "http://musicbrainz.org/recording/88c1325a-a00e-40e2-9e6d-56c1a7f8a882"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
+            "type": "performing orchestra", 
+            "name": "[unknown]"
+        }, 
+        {
+            "mbid": "7ef61959-65f2-41ab-9ae2-ba890812b7b4", 
+            "type": "vocal", 
+            "name": "Bekir S\u0131dk\u0131 Sezgin"
+        }
+    ], 
+    "instrumentation_voicing": "Solo vocal with accompaniment", 
+    "works": [
+        {
+            "mbid": "905de2ab-5197-4ef9-aca4-b3993985d72b", 
+            "title": "Bir \u015eeh ki Tac-daran Olmakta"
+        }
+    ]
+}

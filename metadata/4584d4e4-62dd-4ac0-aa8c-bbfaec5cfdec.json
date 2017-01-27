@@ -1,0 +1,67 @@
+{
+    "usul": [
+        {
+            "attribute_key": "fahte", 
+            "mb_attribute": "Fahte", 
+            "source": "http://musicbrainz.org/work/995e922d-ef6a-456a-b1e0-23250330d188"
+        }, 
+        {
+            "attribute_key": "fahte", 
+            "mb_tag": "fahte", 
+            "source": "http://musicbrainz.org/recording/4584d4e4-62dd-4ac0-aa8c-bbfaec5cfdec"
+        }
+    ], 
+    "form": [
+        {
+            "attribute_key": "pesrev", 
+            "mb_attribute": "Pe\u015frev", 
+            "source": "http://musicbrainz.org/work/995e922d-ef6a-456a-b1e0-23250330d188"
+        }, 
+        {
+            "attribute_key": "pesrev", 
+            "mb_tag": "pe\u015frev", 
+            "source": "http://musicbrainz.org/recording/4584d4e4-62dd-4ac0-aa8c-bbfaec5cfdec"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "b3d24274-4756-4862-8dde-27b56a117525", 
+            "title": "1955 - 63 Kay\u0131tlar\u0131 - Ar\u015fiv Serisi"
+        }
+    ], 
+    "title": "Hicaz Pe\u015frev", 
+    "url": "http://musicbrainz.org/recording/4584d4e4-62dd-4ac0-aa8c-bbfaec5cfdec", 
+    "artist_credits": [
+        {
+            "mbid": "9fcda3ab-a467-4ea9-8569-ae975de0f473", 
+            "name": "Zeki M\u00fcren"
+        }
+    ], 
+    "mbid": "4584d4e4-62dd-4ac0-aa8c-bbfaec5cfdec", 
+    "makam": [
+        {
+            "attribute_key": "hicaz", 
+            "mb_attribute": "Hicaz", 
+            "source": "http://musicbrainz.org/work/995e922d-ef6a-456a-b1e0-23250330d188"
+        }, 
+        {
+            "attribute_key": "hicaz", 
+            "mb_tag": "hicaz", 
+            "source": "http://musicbrainz.org/recording/4584d4e4-62dd-4ac0-aa8c-bbfaec5cfdec"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
+            "type": "performing orchestra", 
+            "name": "[unknown]"
+        }
+    ], 
+    "instrumentation_voicing": "Ensemble instrumental", 
+    "works": [
+        {
+            "mbid": "995e922d-ef6a-456a-b1e0-23250330d188", 
+            "title": "Hicaz Pe\u015frev"
+        }
+    ]
+}

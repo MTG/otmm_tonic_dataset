@@ -1,0 +1,96 @@
+{
+    "usul": [
+        {
+            "attribute_key": "aksaksemai", 
+            "mb_attribute": "Aksaksemai", 
+            "source": "http://musicbrainz.org/work/7d338307-ca89-4b5c-b93e-c797d0a4bf8d"
+        }, 
+        {
+            "attribute_key": "aksaksemai", 
+            "mb_tag": "aksaksemai", 
+            "source": "http://musicbrainz.org/recording/d898b79b-e79a-4a61-9d32-481ce8620090"
+        }, 
+        {
+            "attribute_key": "serbest", 
+            "mb_tag": "serbest", 
+            "source": "http://musicbrainz.org/recording/d898b79b-e79a-4a61-9d32-481ce8620090"
+        }
+    ], 
+    "form": [
+        {
+            "attribute_key": "sazsemaisi", 
+            "mb_attribute": "Sazsemaisi", 
+            "source": "http://musicbrainz.org/work/7d338307-ca89-4b5c-b93e-c797d0a4bf8d"
+        }, 
+        {
+            "attribute_key": "sazsemaisi", 
+            "mb_tag": "sazsemaisi", 
+            "source": "http://musicbrainz.org/recording/d898b79b-e79a-4a61-9d32-481ce8620090"
+        }, 
+        {
+            "attribute_key": "taksim", 
+            "mb_tag": "taksim", 
+            "source": "http://musicbrainz.org/recording/d898b79b-e79a-4a61-9d32-481ce8620090"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "906fbc02-b66f-4fd7-858a-55774846d184", 
+            "title": "\u00dcstad'lardan Saz Eserleri ve Taksimler, Volume II"
+        }
+    ], 
+    "title": "Kemen\u00e7e- Tanbur Taksimi / \u015eevkefza Saz Semaisi", 
+    "url": "http://musicbrainz.org/recording/d898b79b-e79a-4a61-9d32-481ce8620090", 
+    "artist_credits": [
+        {
+            "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
+            "name": "[unknown]"
+        }
+    ], 
+    "mbid": "d898b79b-e79a-4a61-9d32-481ce8620090", 
+    "makam": [
+        {
+            "attribute_key": "sevkefza", 
+            "mb_attribute": "\u015eevkefza", 
+            "source": "http://musicbrainz.org/work/7d338307-ca89-4b5c-b93e-c797d0a4bf8d"
+        }, 
+        {
+            "attribute_key": "sevkefza", 
+            "mb_tag": "\u015fevkefza", 
+            "source": "http://musicbrainz.org/recording/d898b79b-e79a-4a61-9d32-481ce8620090"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "7a3adb1f-ebe6-4dbe-a0cc-c71f034d4091", 
+            "attribute-list": [
+                "ney"
+            ], 
+            "type": "instrument", 
+            "name": "Volkan Y\u0131lmaz"
+        }, 
+        {
+            "mbid": "8cf45553-41e7-4544-8070-45ff74f7fb18", 
+            "attribute-list": [
+                "classical kemen\u00e7e"
+            ], 
+            "type": "instrument", 
+            "name": "Ahmet Kadri Rizeli"
+        }, 
+        {
+            "mbid": "9b6e98f8-b695-45da-8c9c-68d4bab460fd", 
+            "attribute-list": [
+                "tanbur"
+            ], 
+            "type": "instrument", 
+            "name": "Murat Aydemir"
+        }
+    ], 
+    "instrumentation_voicing": "Trio instrumental", 
+    "works": [
+        {
+            "mbid": "7d338307-ca89-4b5c-b93e-c797d0a4bf8d", 
+            "title": "\u015eevkefza Sazsemaisi"
+        }
+    ]
+}

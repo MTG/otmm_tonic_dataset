@@ -1,0 +1,49 @@
+{
+    "instrumentation_voicing": "Solo instrumental", 
+    "form": [
+        {
+            "attribute_key": "taksim", 
+            "mb_tag": "taksim", 
+            "source": "http://musicbrainz.org/recording/126c1231-3502-4524-a675-3b2b3eacaa52"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "a401a3ef-3869-450b-9ae0-a32036f2b2bd", 
+            "title": "A\u015fk"
+        }
+    ], 
+    "title": "Pen\u00e7g\u00e2h Ba\u015f Taksim (\u00e2yinden)", 
+    "url": "http://musicbrainz.org/recording/126c1231-3502-4524-a675-3b2b3eacaa52", 
+    "artist_credits": [
+        {
+            "mbid": "215fd94e-6a6e-4ab3-98d8-7e81c873dd26", 
+            "name": "Aka G\u00fcnd\u00fcz Kutbay"
+        }
+    ], 
+    "mbid": "126c1231-3502-4524-a675-3b2b3eacaa52", 
+    "makam": [
+        {
+            "attribute_key": "pencgah", 
+            "mb_tag": "pen\u00e7gah", 
+            "source": "http://musicbrainz.org/recording/126c1231-3502-4524-a675-3b2b3eacaa52"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "215fd94e-6a6e-4ab3-98d8-7e81c873dd26", 
+            "attribute-list": [
+                "ney"
+            ], 
+            "type": "instrument", 
+            "name": "Aka G\u00fcnd\u00fcz Kutbay"
+        }
+    ], 
+    "usul": [
+        {
+            "attribute_key": "serbest", 
+            "mb_tag": "serbest", 
+            "source": "http://musicbrainz.org/recording/126c1231-3502-4524-a675-3b2b3eacaa52"
+        }
+    ]
+}

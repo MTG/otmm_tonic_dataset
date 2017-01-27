@@ -1,0 +1,132 @@
+{
+    "usul": [
+        {
+            "attribute_key": "murekkepnimsofyan", 
+            "mb_attribute": "M\u00fcrekkep Nimsofyan", 
+            "source": "http://musicbrainz.org/work/d4a4f918-c8ca-4d97-bbb0-fb40246caec2"
+        }, 
+        {
+            "attribute_key": "semai", 
+            "mb_tag": "semai", 
+            "source": "http://musicbrainz.org/recording/1fca47e6-3e21-4db4-85fe-ad7eddba38d9"
+        }
+    ], 
+    "form": [
+        {
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
+            "source": "http://musicbrainz.org/work/d4a4f918-c8ca-4d97-bbb0-fb40246caec2"
+        }, 
+        {
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
+            "source": "http://musicbrainz.org/recording/1fca47e6-3e21-4db4-85fe-ad7eddba38d9"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "9874d15c-8f37-4985-be86-ef4fbf4e7743", 
+            "title": "Canl\u0131 Fas\u0131l 7 - Segah"
+        }
+    ], 
+    "title": "\u00d6l\u00fcrsem Yaz\u0131kt\u0131r Sana Kanmadan", 
+    "url": "http://musicbrainz.org/recording/1fca47e6-3e21-4db4-85fe-ad7eddba38d9", 
+    "artist_credits": [
+        {
+            "mbid": "ef074ab6-a2a8-42f7-a454-068265023697", 
+            "name": "Aziz T\u00fcrk Sanat M\u00fczi\u011fi Grubu"
+        }
+    ], 
+    "mbid": "1fca47e6-3e21-4db4-85fe-ad7eddba38d9", 
+    "makam": [
+        {
+            "attribute_key": "segah", 
+            "mb_attribute": "Segah", 
+            "source": "http://musicbrainz.org/work/d4a4f918-c8ca-4d97-bbb0-fb40246caec2"
+        }, 
+        {
+            "attribute_key": "segah", 
+            "mb_tag": "segah", 
+            "source": "http://musicbrainz.org/recording/1fca47e6-3e21-4db4-85fe-ad7eddba38d9"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "029d95e2-615e-4a0a-a162-94e1ef18806f", 
+            "type": "vocal", 
+            "name": "Arzu Kopuz"
+        }, 
+        {
+            "mbid": "0c27b773-2d39-469d-8ad7-0343e6d3499d", 
+            "type": "vocal", 
+            "name": "Burhan Tuzer"
+        }, 
+        {
+            "mbid": "29f8e3a7-e2b7-46a5-9f0b-f3f707e0df23", 
+            "type": "vocal", 
+            "name": "Neveser Gerginok"
+        }, 
+        {
+            "mbid": "30380155-5974-4cf5-aed9-60371470005d", 
+            "attribute-list": [
+                "oud"
+            ], 
+            "type": "instrument", 
+            "name": "Y\u0131ld\u0131ran G\u00fcz"
+        }, 
+        {
+            "mbid": "3411c847-4801-4a19-893c-521e5719cf44", 
+            "attribute-list": [
+                "clarinet"
+            ], 
+            "type": "instrument", 
+            "name": "\u015e\u00fckr\u00fc Kabac\u0131"
+        }, 
+        {
+            "mbid": "6f063869-ecd9-4ceb-9800-42e96ffbd4a7", 
+            "attribute-list": [
+                "kanun"
+            ], 
+            "type": "instrument", 
+            "name": "G\u00f6ksel Kartal"
+        }, 
+        {
+            "mbid": "761c091c-e5f3-4856-80f9-3a0c5a07bc25", 
+            "attribute-list": [
+                "violin"
+            ], 
+            "type": "instrument", 
+            "name": "\u00d6mer \u00d6cal"
+        }, 
+        {
+            "mbid": "93680e86-21a6-4b57-846f-e6b9e1427b3a", 
+            "type": "vocal", 
+            "name": "M\u00fczeyyen P\u0131nar"
+        }, 
+        {
+            "mbid": "9c4ca0aa-89ff-4711-a9cd-c3817b8abd88", 
+            "type": "vocal", 
+            "name": "Asl\u0131 G\u00fcn"
+        }, 
+        {
+            "mbid": "d23e30d5-12b1-4cb5-a129-aff5ffc16216", 
+            "type": "vocal", 
+            "name": "Atakan Akda\u015f"
+        }, 
+        {
+            "mbid": "d78b0d8d-d207-4ceb-993d-c270caa478f3", 
+            "attribute-list": [
+                "percussion"
+            ], 
+            "type": "instrument", 
+            "name": "Seyhun \u00c7elik"
+        }
+    ], 
+    "instrumentation_voicing": "Choir", 
+    "works": [
+        {
+            "mbid": "d4a4f918-c8ca-4d97-bbb0-fb40246caec2", 
+            "title": "\u00d6l\u00fcrsem Yaz\u0131kt\u0131r Sana Kanmadan"
+        }
+    ]
+}

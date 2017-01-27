@@ -1,0 +1,72 @@
+{
+    "usul": [
+        {
+            "attribute_key": "curcuna", 
+            "mb_attribute": "Curcuna", 
+            "source": "http://musicbrainz.org/work/50c5fca0-f0e1-434f-9736-7f1805d91cda"
+        }, 
+        {
+            "attribute_key": "kapali_curcuna", 
+            "mb_tag": "curcuna", 
+            "source": "http://musicbrainz.org/recording/ce48b4ee-ac4a-46f3-b99f-dc1d5912a304"
+        }
+    ], 
+    "form": [
+        {
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
+            "source": "http://musicbrainz.org/work/50c5fca0-f0e1-434f-9736-7f1805d91cda"
+        }, 
+        {
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
+            "source": "http://musicbrainz.org/recording/ce48b4ee-ac4a-46f3-b99f-dc1d5912a304"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "189bbe93-186a-46b8-a6da-df8864e6dd4a", 
+            "title": "Bekir S\u0131dk\u0131 Sezgin 14"
+        }
+    ], 
+    "title": "Pek Revad\u0131r Sevdi\u011fim Ettiklerin", 
+    "url": "http://musicbrainz.org/recording/ce48b4ee-ac4a-46f3-b99f-dc1d5912a304", 
+    "artist_credits": [
+        {
+            "mbid": "7ef61959-65f2-41ab-9ae2-ba890812b7b4", 
+            "name": "Bekir S\u0131dk\u0131 Sezgin"
+        }
+    ], 
+    "mbid": "ce48b4ee-ac4a-46f3-b99f-dc1d5912a304", 
+    "makam": [
+        {
+            "attribute_key": "suzinak", 
+            "mb_attribute": "Suzinak", 
+            "source": "http://musicbrainz.org/work/50c5fca0-f0e1-434f-9736-7f1805d91cda"
+        }, 
+        {
+            "attribute_key": "suzinak", 
+            "mb_tag": "suzinak", 
+            "source": "http://musicbrainz.org/recording/ce48b4ee-ac4a-46f3-b99f-dc1d5912a304"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
+            "type": "performing orchestra", 
+            "name": "[unknown]"
+        }, 
+        {
+            "mbid": "7ef61959-65f2-41ab-9ae2-ba890812b7b4", 
+            "type": "vocal", 
+            "name": "Bekir S\u0131dk\u0131 Sezgin"
+        }
+    ], 
+    "instrumentation_voicing": "Solo vocal with accompaniment", 
+    "works": [
+        {
+            "mbid": "50c5fca0-f0e1-434f-9736-7f1805d91cda", 
+            "title": "Pek Revad\u0131r Sevdi\u011fim"
+        }
+    ]
+}

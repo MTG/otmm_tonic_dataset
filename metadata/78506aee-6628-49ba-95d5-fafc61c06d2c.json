@@ -1,0 +1,66 @@
+{
+    "usul": [
+        {
+            "attribute_key": "devrikebir", 
+            "mb_attribute": "Devr-i Kebir", 
+            "source": "http://musicbrainz.org/work/1ef86e00-6fee-45fd-bd5c-4b22853710f8"
+        }
+    ], 
+    "form": [
+        {
+            "attribute_key": "pesrev", 
+            "mb_attribute": "Pe\u015frev", 
+            "source": "http://musicbrainz.org/work/1ef86e00-6fee-45fd-bd5c-4b22853710f8"
+        }, 
+        {
+            "attribute_key": "pesrev", 
+            "mb_tag": "pe\u015frev", 
+            "source": "http://musicbrainz.org/recording/78506aee-6628-49ba-95d5-fafc61c06d2c"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "b8768e6d-65ed-4d26-9b47-51793c24b5a0", 
+            "title": "T\u00fcrk Sanat M\u00fczi\u011fi Besteleri Saz Eserleri 1"
+        }, 
+        {
+            "mbid": "c58f2002-8862-4efb-953b-7324bb7f3e31", 
+            "title": "T\u00fcrk Sanat M\u00fczi\u011fi Besteleri Saz Eserleri 3"
+        }
+    ], 
+    "title": "Pe\u015frev", 
+    "url": "http://musicbrainz.org/recording/78506aee-6628-49ba-95d5-fafc61c06d2c", 
+    "artist_credits": [
+        {
+            "mbid": "ef074ab6-a2a8-42f7-a454-068265023697", 
+            "name": "Aziz T\u00fcrk Sanat M\u00fczi\u011fi Grubu"
+        }
+    ], 
+    "mbid": "78506aee-6628-49ba-95d5-fafc61c06d2c", 
+    "makam": [
+        {
+            "attribute_key": "huzzam", 
+            "mb_attribute": "H\u00fczzam", 
+            "source": "http://musicbrainz.org/work/1ef86e00-6fee-45fd-bd5c-4b22853710f8"
+        }, 
+        {
+            "attribute_key": "huzzam", 
+            "mb_tag": "h\u00fczzam", 
+            "source": "http://musicbrainz.org/recording/78506aee-6628-49ba-95d5-fafc61c06d2c"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "ef074ab6-a2a8-42f7-a454-068265023697", 
+            "type": "performing orchestra", 
+            "name": "Aziz T\u00fcrk Sanat M\u00fczi\u011fi Grubu"
+        }
+    ], 
+    "instrumentation_voicing": "Ensemble instrumental", 
+    "works": [
+        {
+            "mbid": "1ef86e00-6fee-45fd-bd5c-4b22853710f8", 
+            "title": "H\u00fczzam Pe\u015frev"
+        }
+    ]
+}

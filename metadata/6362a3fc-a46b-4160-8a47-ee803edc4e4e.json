@@ -1,0 +1,49 @@
+{
+    "instrumentation_voicing": "Solo instrumental", 
+    "form": [
+        {
+            "attribute_key": "taksim", 
+            "mb_tag": "taksim", 
+            "source": "http://musicbrainz.org/recording/6362a3fc-a46b-4160-8a47-ee803edc4e4e"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "3bd738e1-2251-47d3-ae48-c5cd1fb1577f", 
+            "title": "Klasikler - 2"
+        }
+    ], 
+    "title": "Hicaz Kemen\u00e7e Taksimi", 
+    "url": "http://musicbrainz.org/recording/6362a3fc-a46b-4160-8a47-ee803edc4e4e", 
+    "artist_credits": [
+        {
+            "mbid": "31b24c3b-9072-44c5-87f9-7114f4d5c7fe", 
+            "name": "\u0130hsan \u00d6zgen"
+        }
+    ], 
+    "mbid": "6362a3fc-a46b-4160-8a47-ee803edc4e4e", 
+    "makam": [
+        {
+            "attribute_key": "hicaz", 
+            "mb_tag": "hicaz", 
+            "source": "http://musicbrainz.org/recording/6362a3fc-a46b-4160-8a47-ee803edc4e4e"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "31b24c3b-9072-44c5-87f9-7114f4d5c7fe", 
+            "attribute-list": [
+                "classical kemen\u00e7e"
+            ], 
+            "type": "instrument", 
+            "name": "\u0130hsan \u00d6zgen"
+        }
+    ], 
+    "usul": [
+        {
+            "attribute_key": "serbest", 
+            "mb_tag": "serbest", 
+            "source": "http://musicbrainz.org/recording/6362a3fc-a46b-4160-8a47-ee803edc4e4e"
+        }
+    ]
+}

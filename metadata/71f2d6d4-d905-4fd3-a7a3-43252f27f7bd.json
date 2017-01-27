@@ -1,0 +1,72 @@
+{
+    "usul": [
+        {
+            "attribute_key": "senginsemai", 
+            "mb_attribute": "Senginsemai", 
+            "source": "http://musicbrainz.org/work/dbb658be-8076-4074-b581-ea94fa05a3c6"
+        }, 
+        {
+            "attribute_key": "senginsemai", 
+            "mb_tag": "senginsemai", 
+            "source": "http://musicbrainz.org/recording/71f2d6d4-d905-4fd3-a7a3-43252f27f7bd"
+        }
+    ], 
+    "form": [
+        {
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
+            "source": "http://musicbrainz.org/work/dbb658be-8076-4074-b581-ea94fa05a3c6"
+        }, 
+        {
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
+            "source": "http://musicbrainz.org/recording/71f2d6d4-d905-4fd3-a7a3-43252f27f7bd"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "e8e5fd78-af90-40e2-a5bd-de5217f899ff", 
+            "title": "Bekir S\u0131dk\u0131 Sezgin 25"
+        }
+    ], 
+    "title": "Zevkin Ne ise So\u0308yle Hicab Eyleme Benden", 
+    "url": "http://musicbrainz.org/recording/71f2d6d4-d905-4fd3-a7a3-43252f27f7bd", 
+    "artist_credits": [
+        {
+            "mbid": "7ef61959-65f2-41ab-9ae2-ba890812b7b4", 
+            "name": "Bekir S\u0131dk\u0131 Sezgin"
+        }
+    ], 
+    "mbid": "71f2d6d4-d905-4fd3-a7a3-43252f27f7bd", 
+    "makam": [
+        {
+            "attribute_key": "suzinak", 
+            "mb_attribute": "Suzinak", 
+            "source": "http://musicbrainz.org/work/dbb658be-8076-4074-b581-ea94fa05a3c6"
+        }, 
+        {
+            "attribute_key": "suzinak", 
+            "mb_tag": "suzinak", 
+            "source": "http://musicbrainz.org/recording/71f2d6d4-d905-4fd3-a7a3-43252f27f7bd"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
+            "type": "performing orchestra", 
+            "name": "[unknown]"
+        }, 
+        {
+            "mbid": "7ef61959-65f2-41ab-9ae2-ba890812b7b4", 
+            "type": "vocal", 
+            "name": "Bekir S\u0131dk\u0131 Sezgin"
+        }
+    ], 
+    "instrumentation_voicing": "Solo vocal with accompaniment", 
+    "works": [
+        {
+            "mbid": "dbb658be-8076-4074-b581-ea94fa05a3c6", 
+            "title": "Zevkin Ne \u0130se S\u00f6yle, Hicab Eyleme Benden"
+        }
+    ]
+}

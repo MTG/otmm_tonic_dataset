@@ -1,0 +1,49 @@
+{
+    "instrumentation_voicing": "Solo instrumental", 
+    "form": [
+        {
+            "attribute_key": "taksim", 
+            "mb_tag": "taksim", 
+            "source": "http://musicbrainz.org/recording/49f3cc2e-6021-4370-b1bd-462a007e7472"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "8a880160-5ee1-4d21-910f-e1636f17a9e9", 
+            "title": "16 Makamda Ud Taksimleri"
+        }
+    ], 
+    "title": "Muhayyer", 
+    "url": "http://musicbrainz.org/recording/49f3cc2e-6021-4370-b1bd-462a007e7472", 
+    "artist_credits": [
+        {
+            "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
+            "name": "[unknown]"
+        }
+    ], 
+    "mbid": "49f3cc2e-6021-4370-b1bd-462a007e7472", 
+    "makam": [
+        {
+            "attribute_key": "muhayyer", 
+            "mb_tag": "muhayyer", 
+            "source": "http://musicbrainz.org/recording/49f3cc2e-6021-4370-b1bd-462a007e7472"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
+            "attribute-list": [
+                "oud"
+            ], 
+            "type": "instrument", 
+            "name": "[unknown]"
+        }
+    ], 
+    "usul": [
+        {
+            "attribute_key": "serbest", 
+            "mb_tag": "serbest", 
+            "source": "http://musicbrainz.org/recording/49f3cc2e-6021-4370-b1bd-462a007e7472"
+        }
+    ]
+}

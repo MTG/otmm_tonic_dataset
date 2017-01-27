@@ -1,0 +1,71 @@
+{
+    "usul": [
+        {
+            "attribute_key": "duyek", 
+            "mb_attribute": "D\u00fcyek", 
+            "source": "http://musicbrainz.org/work/53bf3f1b-c618-425f-a179-d463db2ca918"
+        }, 
+        {
+            "attribute_key": "duyek", 
+            "mb_tag": "d\u00fcyek", 
+            "source": "http://musicbrainz.org/recording/cc994013-d025-4a04-bb3f-8c49445c09f5"
+        }
+    ], 
+    "form": [
+        {
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
+            "source": "http://musicbrainz.org/work/53bf3f1b-c618-425f-a179-d463db2ca918"
+        }, 
+        {
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
+            "source": "http://musicbrainz.org/recording/cc994013-d025-4a04-bb3f-8c49445c09f5"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "83f3321c-8fec-4736-ae45-aa1d2edc9b8b", 
+            "title": "T\u00fcrk Sanat M\u00fczi\u011fi Besteleri Saz Eserleri 2"
+        }, 
+        {
+            "mbid": "c58f2002-8862-4efb-953b-7324bb7f3e31", 
+            "title": "T\u00fcrk Sanat M\u00fczi\u011fi Besteleri Saz Eserleri 3"
+        }
+    ], 
+    "title": "Bir \u0130htimal Daha Var", 
+    "url": "http://musicbrainz.org/recording/cc994013-d025-4a04-bb3f-8c49445c09f5", 
+    "artist_credits": [
+        {
+            "mbid": "ef074ab6-a2a8-42f7-a454-068265023697", 
+            "name": "Aziz T\u00fcrk Sanat M\u00fczi\u011fi Grubu"
+        }
+    ], 
+    "mbid": "cc994013-d025-4a04-bb3f-8c49445c09f5", 
+    "makam": [
+        {
+            "attribute_key": "nihavent", 
+            "mb_attribute": "Nihavent", 
+            "source": "http://musicbrainz.org/work/53bf3f1b-c618-425f-a179-d463db2ca918"
+        }, 
+        {
+            "attribute_key": "nihavent", 
+            "mb_tag": "nihavent", 
+            "source": "http://musicbrainz.org/recording/cc994013-d025-4a04-bb3f-8c49445c09f5"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "ef074ab6-a2a8-42f7-a454-068265023697", 
+            "type": "performing orchestra", 
+            "name": "Aziz T\u00fcrk Sanat M\u00fczi\u011fi Grubu"
+        }
+    ], 
+    "instrumentation_voicing": "Ensemble instrumental", 
+    "works": [
+        {
+            "mbid": "53bf3f1b-c618-425f-a179-d463db2ca918", 
+            "title": "Bir \u0130htimal Daha Var o da \u00d6lmek mi Dersin"
+        }
+    ]
+}

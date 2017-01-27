@@ -1,0 +1,67 @@
+{
+    "usul": [
+        {
+            "attribute_key": "cenber", 
+            "mb_attribute": "\u00c7enber", 
+            "source": "http://musicbrainz.org/work/270f55e1-d479-47d0-832f-930a2d20f90a"
+        }, 
+        {
+            "attribute_key": "sofyan", 
+            "mb_tag": "sofyan", 
+            "source": "http://musicbrainz.org/recording/3b86eab6-3c17-494f-9ee6-e43a04ff1645"
+        }
+    ], 
+    "form": [
+        {
+            "attribute_key": "pesrev", 
+            "mb_attribute": "Pe\u015frev", 
+            "source": "http://musicbrainz.org/work/270f55e1-d479-47d0-832f-930a2d20f90a"
+        }, 
+        {
+            "attribute_key": "pesrev", 
+            "mb_tag": "pe\u015frev", 
+            "source": "http://musicbrainz.org/recording/3b86eab6-3c17-494f-9ee6-e43a04ff1645"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "b3d24274-4756-4862-8dde-27b56a117525", 
+            "title": "1955 - 63 Kay\u0131tlar\u0131 - Ar\u015fiv Serisi"
+        }
+    ], 
+    "title": "S\u00fczn\u00e2k Pe\u015frev (1. Hane - Teslim)", 
+    "url": "http://musicbrainz.org/recording/3b86eab6-3c17-494f-9ee6-e43a04ff1645", 
+    "artist_credits": [
+        {
+            "mbid": "9fcda3ab-a467-4ea9-8569-ae975de0f473", 
+            "name": "Zeki M\u00fcren"
+        }
+    ], 
+    "mbid": "3b86eab6-3c17-494f-9ee6-e43a04ff1645", 
+    "makam": [
+        {
+            "attribute_key": "suzinak", 
+            "mb_attribute": "Suzinak", 
+            "source": "http://musicbrainz.org/work/270f55e1-d479-47d0-832f-930a2d20f90a"
+        }, 
+        {
+            "attribute_key": "suzinak", 
+            "mb_tag": "suzinak", 
+            "source": "http://musicbrainz.org/recording/3b86eab6-3c17-494f-9ee6-e43a04ff1645"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
+            "type": "performing orchestra", 
+            "name": "[unknown]"
+        }
+    ], 
+    "instrumentation_voicing": "Ensemble instrumental", 
+    "works": [
+        {
+            "mbid": "270f55e1-d479-47d0-832f-930a2d20f90a", 
+            "title": "Suzinak Pe\u015frev"
+        }
+    ]
+}

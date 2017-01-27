@@ -1,0 +1,70 @@
+{
+    "usul": [
+        {
+            "attribute_key": "muhammes", 
+            "mb_attribute": "Muhammes", 
+            "source": "http://musicbrainz.org/work/d689c032-ab60-4162-b872-b56cf3b24db6"
+        }, 
+        {
+            "attribute_key": "muhammes", 
+            "mb_tag": "muhammes", 
+            "source": "http://musicbrainz.org/recording/77c61ffe-adab-48b6-94d0-cb03ae761195"
+        }
+    ], 
+    "form": [
+        {
+            "attribute_key": "pesrev", 
+            "mb_attribute": "Pe\u015frev", 
+            "source": "http://musicbrainz.org/work/d689c032-ab60-4162-b872-b56cf3b24db6"
+        }, 
+        {
+            "attribute_key": "pesrev", 
+            "mb_tag": "pe\u015frev", 
+            "source": "http://musicbrainz.org/recording/77c61ffe-adab-48b6-94d0-cb03ae761195"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "8d71678a-4324-4754-9520-af5394356891", 
+            "title": "Turkish Music Makam Guide"
+        }
+    ], 
+    "title": "K\u00fcrdilihicazkar Pe\u015frev", 
+    "url": "http://musicbrainz.org/recording/77c61ffe-adab-48b6-94d0-cb03ae761195", 
+    "artist_credits": [
+        {
+            "mbid": "9b6e98f8-b695-45da-8c9c-68d4bab460fd", 
+            "name": "Murat Aydemir"
+        }
+    ], 
+    "mbid": "77c61ffe-adab-48b6-94d0-cb03ae761195", 
+    "makam": [
+        {
+            "attribute_key": "kurdilihicazkar", 
+            "mb_attribute": "K\u00fcrdilihicazkar", 
+            "source": "http://musicbrainz.org/work/d689c032-ab60-4162-b872-b56cf3b24db6"
+        }, 
+        {
+            "attribute_key": "kurdilihicazkar", 
+            "mb_tag": "k\u00fcrdilihicazkar", 
+            "source": "http://musicbrainz.org/recording/77c61ffe-adab-48b6-94d0-cb03ae761195"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "9b6e98f8-b695-45da-8c9c-68d4bab460fd", 
+            "attribute-list": [
+                "tanbur"
+            ], 
+            "type": "instrument", 
+            "name": "Murat Aydemir"
+        }
+    ], 
+    "instrumentation_voicing": "Solo instrumental", 
+    "works": [
+        {
+            "mbid": "d689c032-ab60-4162-b872-b56cf3b24db6", 
+            "title": "K\u00fcrd\u00eelihicazk\u00e2r Pe\u015frevi"
+        }
+    ]
+}

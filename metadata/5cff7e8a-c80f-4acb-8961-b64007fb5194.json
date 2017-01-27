@@ -1,0 +1,81 @@
+{
+    "usul": [
+        {
+            "attribute_key": "devrikebir", 
+            "mb_attribute": "Devr-i Kebir", 
+            "source": "http://musicbrainz.org/work/b12e5131-6424-4fae-a4a7-f614ee639159"
+        }, 
+        {
+            "attribute_key": "devrikebir", 
+            "mb_tag": "devrikebir", 
+            "source": "http://musicbrainz.org/recording/5cff7e8a-c80f-4acb-8961-b64007fb5194"
+        }
+    ], 
+    "form": [
+        {
+            "attribute_key": "ayin_i_serif", 
+            "mb_attribute": "Ayin-i \u015eerif", 
+            "source": "http://musicbrainz.org/work/2612a010-8d83-4056-90c2-7aa6569603e7"
+        }, 
+        {
+            "attribute_key": "pesrev", 
+            "mb_attribute": "Pe\u015frev", 
+            "source": "http://musicbrainz.org/work/b12e5131-6424-4fae-a4a7-f614ee639159"
+        }, 
+        {
+            "attribute_key": "pesrev", 
+            "mb_tag": "pe\u015frev", 
+            "source": "http://musicbrainz.org/recording/5cff7e8a-c80f-4acb-8961-b64007fb5194"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "430058da-7be0-48ec-abac-9b88b87e293f", 
+            "title": "Mevlevi Sesler"
+        }
+    ], 
+    "title": "Pe\u015frev", 
+    "url": "http://musicbrainz.org/recording/5cff7e8a-c80f-4acb-8961-b64007fb5194", 
+    "artist_credits": [
+        {
+            "mbid": "81081f45-a36e-4248-9d33-43d4a3445f6d", 
+            "name": "Dede Efendi"
+        }
+    ], 
+    "mbid": "5cff7e8a-c80f-4acb-8961-b64007fb5194", 
+    "makam": [
+        {
+            "attribute_key": "sababuselik", 
+            "mb_attribute": "Sababuselik", 
+            "source": "http://musicbrainz.org/work/2612a010-8d83-4056-90c2-7aa6569603e7"
+        }, 
+        {
+            "attribute_key": "sababuselik", 
+            "mb_attribute": "Sababuselik", 
+            "source": "http://musicbrainz.org/work/b12e5131-6424-4fae-a4a7-f614ee639159"
+        }, 
+        {
+            "attribute_key": "sababuselik", 
+            "mb_tag": "sababuselik", 
+            "source": "http://musicbrainz.org/recording/5cff7e8a-c80f-4acb-8961-b64007fb5194"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "713ad8af-1c98-4569-a445-71f7b9395945", 
+            "type": "performing orchestra", 
+            "name": "Dede Efendi T\u00fcrk M\u00fczi\u011fi Toplulu\u011fu"
+        }
+    ], 
+    "instrumentation_voicing": "Ensemble instrumental", 
+    "works": [
+        {
+            "mbid": "2612a010-8d83-4056-90c2-7aa6569603e7", 
+            "title": "Sababuselik Ayin-i \u015eerif"
+        }, 
+        {
+            "mbid": "b12e5131-6424-4fae-a4a7-f614ee639159", 
+            "title": "Sababuselik Pe\u015frev"
+        }
+    ]
+}

@@ -1,0 +1,72 @@
+{
+    "usul": [
+        {
+            "attribute_key": "duyek", 
+            "mb_attribute": "D\u00fcyek", 
+            "source": "http://musicbrainz.org/work/c4d707dd-393d-4511-a9a9-297226964e1c"
+        }, 
+        {
+            "attribute_key": "duyek", 
+            "mb_tag": "d\u00fcyek", 
+            "source": "http://musicbrainz.org/recording/95a4c5dc-7e33-46fd-931a-6ac4c615b33e"
+        }
+    ], 
+    "form": [
+        {
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
+            "source": "http://musicbrainz.org/work/c4d707dd-393d-4511-a9a9-297226964e1c"
+        }, 
+        {
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
+            "source": "http://musicbrainz.org/recording/95a4c5dc-7e33-46fd-931a-6ac4c615b33e"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "cbbfd68e-1247-4042-aae9-ce8112f8973a", 
+            "title": "Bekir S\u0131dk\u0131 Sezgin 13"
+        }
+    ], 
+    "title": "Bin H\u00fcz\u00fcn \u00c7\u00f6kt\u00fc Yine G\u00f6nl\u00fcme Ak\u015famla Benim", 
+    "url": "http://musicbrainz.org/recording/95a4c5dc-7e33-46fd-931a-6ac4c615b33e", 
+    "artist_credits": [
+        {
+            "mbid": "7ef61959-65f2-41ab-9ae2-ba890812b7b4", 
+            "name": "Bekir S\u0131dk\u0131 Sezgin"
+        }
+    ], 
+    "mbid": "95a4c5dc-7e33-46fd-931a-6ac4c615b33e", 
+    "makam": [
+        {
+            "attribute_key": "huzzam", 
+            "mb_attribute": "H\u00fczzam", 
+            "source": "http://musicbrainz.org/work/c4d707dd-393d-4511-a9a9-297226964e1c"
+        }, 
+        {
+            "attribute_key": "huzzam", 
+            "mb_tag": "h\u00fczzam", 
+            "source": "http://musicbrainz.org/recording/95a4c5dc-7e33-46fd-931a-6ac4c615b33e"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
+            "type": "performing orchestra", 
+            "name": "[unknown]"
+        }, 
+        {
+            "mbid": "7ef61959-65f2-41ab-9ae2-ba890812b7b4", 
+            "type": "vocal", 
+            "name": "Bekir S\u0131dk\u0131 Sezgin"
+        }
+    ], 
+    "instrumentation_voicing": "Solo vocal with accompaniment", 
+    "works": [
+        {
+            "mbid": "c4d707dd-393d-4511-a9a9-297226964e1c", 
+            "title": "Bin H\u00fcz\u00fcn \u00c7\u00f6kt\u00fc Yine G\u00f6nl\u00fcme"
+        }
+    ]
+}

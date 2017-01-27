@@ -1,0 +1,72 @@
+{
+    "usul": [
+        {
+            "attribute_key": "yuruksemai", 
+            "mb_attribute": "Y\u00fcr\u00fcksemai", 
+            "source": "http://musicbrainz.org/work/fc359c13-6106-4b20-b782-4c7d635a62ad"
+        }, 
+        {
+            "attribute_key": "yuruksemai", 
+            "mb_tag": "y\u00fcr\u00fcksemai", 
+            "source": "http://musicbrainz.org/recording/76b3b054-70aa-40ea-89a0-f5b4dde182d1"
+        }
+    ], 
+    "form": [
+        {
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
+            "source": "http://musicbrainz.org/work/fc359c13-6106-4b20-b782-4c7d635a62ad"
+        }, 
+        {
+            "attribute_key": "yuruksemai", 
+            "mb_tag": "y\u00fcr\u00fcksemai", 
+            "source": "http://musicbrainz.org/recording/76b3b054-70aa-40ea-89a0-f5b4dde182d1"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "e8e5fd78-af90-40e2-a5bd-de5217f899ff", 
+            "title": "Bekir S\u0131dk\u0131 Sezgin 25"
+        }
+    ], 
+    "title": "Bilmezdim \u00d6z\u00fcm Gamzene Meftun imi\u015fim Ben", 
+    "url": "http://musicbrainz.org/recording/76b3b054-70aa-40ea-89a0-f5b4dde182d1", 
+    "artist_credits": [
+        {
+            "mbid": "7ef61959-65f2-41ab-9ae2-ba890812b7b4", 
+            "name": "Bekir S\u0131dk\u0131 Sezgin"
+        }
+    ], 
+    "mbid": "76b3b054-70aa-40ea-89a0-f5b4dde182d1", 
+    "makam": [
+        {
+            "attribute_key": "nihavent", 
+            "mb_attribute": "Nihavent", 
+            "source": "http://musicbrainz.org/work/fc359c13-6106-4b20-b782-4c7d635a62ad"
+        }, 
+        {
+            "attribute_key": "nihavent", 
+            "mb_tag": "nihavent", 
+            "source": "http://musicbrainz.org/recording/76b3b054-70aa-40ea-89a0-f5b4dde182d1"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
+            "type": "performing orchestra", 
+            "name": "[unknown]"
+        }, 
+        {
+            "mbid": "7ef61959-65f2-41ab-9ae2-ba890812b7b4", 
+            "type": "vocal", 
+            "name": "Bekir S\u0131dk\u0131 Sezgin"
+        }
+    ], 
+    "instrumentation_voicing": "Solo vocal with accompaniment", 
+    "works": [
+        {
+            "mbid": "fc359c13-6106-4b20-b782-4c7d635a62ad", 
+            "title": "Bilmezdim \u00d6z\u00fcm Gamzene Meftun \u0130mi\u015fim Ben"
+        }
+    ]
+}

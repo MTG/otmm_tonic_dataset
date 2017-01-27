@@ -1,0 +1,52 @@
+{
+    "usul": [
+        {
+            "attribute_key": "agirduyek", 
+            "mb_attribute": "A\u011f\u0131rd\u00fcyek", 
+            "source": "http://musicbrainz.org/work/e3691957-a2bd-4e40-8041-582af3a02b4e"
+        }
+    ], 
+    "form": [
+        {
+            "attribute_key": "pesrev", 
+            "mb_attribute": "Pe\u015frev", 
+            "source": "http://musicbrainz.org/work/e3691957-a2bd-4e40-8041-582af3a02b4e"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "3f73b971-7072-4fb8-af39-52696876f4cf", 
+            "title": "T\u00fcrk M\u00fczi\u011fi Koleksiyonu 6- Pe\u015frev Saz Semaileri"
+        }
+    ], 
+    "title": "K\u00fcrdili Hicazkar Pe\u015frev", 
+    "url": "http://musicbrainz.org/recording/5b734939-3f33-4f8d-8e83-1c29879dffb5", 
+    "artist_credits": [
+        {
+            "mbid": "ef074ab6-a2a8-42f7-a454-068265023697", 
+            "name": "Aziz T\u00fcrk Sanat M\u00fczi\u011fi Grubu"
+        }
+    ], 
+    "mbid": "5b734939-3f33-4f8d-8e83-1c29879dffb5", 
+    "makam": [
+        {
+            "attribute_key": "kurdilihicazkar", 
+            "mb_attribute": "K\u00fcrdilihicazkar", 
+            "source": "http://musicbrainz.org/work/e3691957-a2bd-4e40-8041-582af3a02b4e"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "ef074ab6-a2a8-42f7-a454-068265023697", 
+            "type": "performing orchestra", 
+            "name": "Aziz T\u00fcrk Sanat M\u00fczi\u011fi Grubu"
+        }
+    ], 
+    "instrumentation_voicing": "Ensemble instrumental", 
+    "works": [
+        {
+            "mbid": "e3691957-a2bd-4e40-8041-582af3a02b4e", 
+            "title": "K\u00fcrdilihicazkar Pe\u015frev"
+        }
+    ]
+}

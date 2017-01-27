@@ -1,0 +1,70 @@
+{
+    "usul": [
+        {
+            "attribute_key": "curcuna", 
+            "mb_attribute": "Curcuna", 
+            "source": "http://musicbrainz.org/work/12567f93-4ae7-4198-a55b-1422b7a3935c"
+        }, 
+        {
+            "attribute_key": "kapali_curcuna", 
+            "mb_tag": "curcuna", 
+            "source": "http://musicbrainz.org/recording/8b24352c-035d-4c14-97ea-838511ec03c0"
+        }
+    ], 
+    "form": [
+        {
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
+            "source": "http://musicbrainz.org/work/12567f93-4ae7-4198-a55b-1422b7a3935c"
+        }, 
+        {
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
+            "source": "http://musicbrainz.org/recording/8b24352c-035d-4c14-97ea-838511ec03c0"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "0c506750-1626-4971-953d-4a9c2d3fbe00", 
+            "title": "T\u00fcrk M\u00fczi\u011finde Keman \u0130le \u00d6lmeyen \u015eark\u0131lar 1"
+        }
+    ], 
+    "title": "Olmaz \u0130la\u00e7 Sine-i Sad Pareme", 
+    "url": "http://musicbrainz.org/recording/8b24352c-035d-4c14-97ea-838511ec03c0", 
+    "artist_credits": [
+        {
+            "mbid": "da15d351-a427-4183-9897-cf1026b4b9b6", 
+            "name": "\u0130lyas Tetik"
+        }
+    ], 
+    "mbid": "8b24352c-035d-4c14-97ea-838511ec03c0", 
+    "makam": [
+        {
+            "attribute_key": "segah", 
+            "mb_attribute": "Segah", 
+            "source": "http://musicbrainz.org/work/12567f93-4ae7-4198-a55b-1422b7a3935c"
+        }, 
+        {
+            "attribute_key": "segah", 
+            "mb_tag": "segah", 
+            "source": "http://musicbrainz.org/recording/8b24352c-035d-4c14-97ea-838511ec03c0"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "da15d351-a427-4183-9897-cf1026b4b9b6", 
+            "attribute-list": [
+                "violin"
+            ], 
+            "type": "instrument", 
+            "name": "\u0130lyas Tetik"
+        }
+    ], 
+    "instrumentation_voicing": "Solo instrumental", 
+    "works": [
+        {
+            "mbid": "12567f93-4ae7-4198-a55b-1422b7a3935c", 
+            "title": "Olmaz \u0130la\u00e7 Sine-i Sad Pareme"
+        }
+    ]
+}

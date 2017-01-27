@@ -1,0 +1,72 @@
+{
+    "usul": [
+        {
+            "attribute_key": "yuruksemai", 
+            "mb_attribute": "Y\u00fcr\u00fcksemai", 
+            "source": "http://musicbrainz.org/work/9b170a99-839a-4305-b21a-fef3e8512ece"
+        }, 
+        {
+            "attribute_key": "yuruksemai", 
+            "mb_tag": "y\u00fcr\u00fcksemai", 
+            "source": "http://musicbrainz.org/recording/519b78fe-7171-4e39-9ce3-780fb952998f"
+        }
+    ], 
+    "form": [
+        {
+            "attribute_key": "yuruksemai", 
+            "mb_attribute": "Y\u00fcr\u00fcksemai", 
+            "source": "http://musicbrainz.org/work/9b170a99-839a-4305-b21a-fef3e8512ece"
+        }, 
+        {
+            "attribute_key": "yuruksemai", 
+            "mb_tag": "y\u00fcr\u00fcksemai", 
+            "source": "http://musicbrainz.org/recording/519b78fe-7171-4e39-9ce3-780fb952998f"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "cbbfd68e-1247-4042-aae9-ce8112f8973a", 
+            "title": "Bekir S\u0131dk\u0131 Sezgin 13"
+        }
+    ], 
+    "title": "Biya ki Kadd-i T\u00fc Der Ba\u011f", 
+    "url": "http://musicbrainz.org/recording/519b78fe-7171-4e39-9ce3-780fb952998f", 
+    "artist_credits": [
+        {
+            "mbid": "7ef61959-65f2-41ab-9ae2-ba890812b7b4", 
+            "name": "Bekir S\u0131dk\u0131 Sezgin"
+        }
+    ], 
+    "mbid": "519b78fe-7171-4e39-9ce3-780fb952998f", 
+    "makam": [
+        {
+            "attribute_key": "sazkar", 
+            "mb_attribute": "Sazkar", 
+            "source": "http://musicbrainz.org/work/9b170a99-839a-4305-b21a-fef3e8512ece"
+        }, 
+        {
+            "attribute_key": "sazkar", 
+            "mb_tag": "sazkar", 
+            "source": "http://musicbrainz.org/recording/519b78fe-7171-4e39-9ce3-780fb952998f"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
+            "type": "performing orchestra", 
+            "name": "[unknown]"
+        }, 
+        {
+            "mbid": "7ef61959-65f2-41ab-9ae2-ba890812b7b4", 
+            "type": "vocal", 
+            "name": "Bekir S\u0131dk\u0131 Sezgin"
+        }
+    ], 
+    "instrumentation_voicing": "Solo vocal with accompaniment", 
+    "works": [
+        {
+            "mbid": "9b170a99-839a-4305-b21a-fef3e8512ece", 
+            "title": "Biya ki Kadd-\u0131 T\u00fc Der"
+        }
+    ]
+}

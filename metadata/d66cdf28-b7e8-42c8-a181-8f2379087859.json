@@ -1,0 +1,66 @@
+{
+    "form": [
+        {
+            "attribute_key": "sazsemaisi", 
+            "mb_tag": "sazsemaisi", 
+            "source": "http://musicbrainz.org/recording/d66cdf28-b7e8-42c8-a181-8f2379087859"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "fabc564c-e3dd-4903-a224-1ddf48438197", 
+            "title": "Minstrel's Era"
+        }
+    ], 
+    "title": "Nihavend Semai", 
+    "url": "http://musicbrainz.org/recording/d66cdf28-b7e8-42c8-a181-8f2379087859", 
+    "artist_credits": [
+        {
+            "mbid": "b80cd1ab-a00c-4f98-89c1-a798deb2d5c2", 
+            "name": "Derya T\u00fcrkan"
+        }, 
+        {
+            "mbid": "59d8bee3-a751-4849-9f1f-42e9f343baf1", 
+            "name": "Renaud Garcia-Fons"
+        }, 
+        {
+            "mbid": "cfe6aea2-c362-4760-9ad1-b95db1605b6e", 
+            "name": "U\u011fur I\u015f\u0131k"
+        }
+    ], 
+    "mbid": "d66cdf28-b7e8-42c8-a181-8f2379087859", 
+    "makam": [
+        {
+            "attribute_key": "nihavent", 
+            "mb_tag": "nihavent", 
+            "source": "http://musicbrainz.org/recording/d66cdf28-b7e8-42c8-a181-8f2379087859"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "59d8bee3-a751-4849-9f1f-42e9f343baf1", 
+            "attribute-list": [
+                "double bass"
+            ], 
+            "type": "instrument", 
+            "name": "Renaud Garcia-Fons"
+        }, 
+        {
+            "mbid": "b80cd1ab-a00c-4f98-89c1-a798deb2d5c2", 
+            "attribute-list": [
+                "classical kemen\u00e7e"
+            ], 
+            "type": "instrument", 
+            "name": "Derya T\u00fcrkan"
+        }, 
+        {
+            "mbid": "cfe6aea2-c362-4760-9ad1-b95db1605b6e", 
+            "attribute-list": [
+                "cello"
+            ], 
+            "type": "instrument", 
+            "name": "U\u011fur I\u015f\u0131k"
+        }
+    ], 
+    "instrumentation_voicing": "Trio instrumental"
+}

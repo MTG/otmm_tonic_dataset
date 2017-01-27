@@ -1,0 +1,66 @@
+{
+    "usul": [
+        {
+            "attribute_key": "devrikebir", 
+            "mb_attribute": "Devr-i Kebir", 
+            "source": "http://musicbrainz.org/work/608def1b-d955-46e0-acde-1e3190d4f49b"
+        }
+    ], 
+    "form": [
+        {
+            "attribute_key": "pesrev", 
+            "mb_attribute": "Pe\u015frev", 
+            "source": "http://musicbrainz.org/work/608def1b-d955-46e0-acde-1e3190d4f49b"
+        }, 
+        {
+            "attribute_key": "pesrev", 
+            "mb_tag": "pe\u015frev", 
+            "source": "http://musicbrainz.org/recording/10ea34da-47c8-40b6-bc6d-98d119438476"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "93d37c26-9732-4558-afc9-b2e5d3f58cb0", 
+            "title": "Ney ile \u0130cra Edilmi\u015f Saz Eserleri"
+        }
+    ], 
+    "title": "Muhayyer Pe\u015frev (K\u0131z Ney)", 
+    "url": "http://musicbrainz.org/recording/10ea34da-47c8-40b6-bc6d-98d119438476", 
+    "artist_credits": [
+        {
+            "mbid": "3a57e3a4-4e48-4ce2-aae0-c5b5275721eb", 
+            "name": "Salih Bilgin"
+        }
+    ], 
+    "mbid": "10ea34da-47c8-40b6-bc6d-98d119438476", 
+    "makam": [
+        {
+            "attribute_key": "muhayyer", 
+            "mb_attribute": "Muhayyer", 
+            "source": "http://musicbrainz.org/work/608def1b-d955-46e0-acde-1e3190d4f49b"
+        }, 
+        {
+            "attribute_key": "muhayyer", 
+            "mb_tag": "muhayyer", 
+            "source": "http://musicbrainz.org/recording/10ea34da-47c8-40b6-bc6d-98d119438476"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "3a57e3a4-4e48-4ce2-aae0-c5b5275721eb", 
+            "attribute-list": [
+                "ney", 
+                "solo"
+            ], 
+            "type": "instrument", 
+            "name": "Salih Bilgin"
+        }
+    ], 
+    "instrumentation_voicing": "Solo instrumental", 
+    "works": [
+        {
+            "mbid": "608def1b-d955-46e0-acde-1e3190d4f49b", 
+            "title": "Muhayyer Pe\u015frev"
+        }
+    ]
+}

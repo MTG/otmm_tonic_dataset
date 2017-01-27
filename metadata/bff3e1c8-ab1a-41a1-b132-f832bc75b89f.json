@@ -1,0 +1,72 @@
+{
+    "usul": [
+        {
+            "attribute_key": "agiraksak", 
+            "mb_attribute": "A\u011f\u0131raksak", 
+            "source": "http://musicbrainz.org/work/66d797be-a11e-4143-be78-5357f2dbd510"
+        }, 
+        {
+            "attribute_key": "agiraksak", 
+            "mb_tag": "a\u011f\u0131raksak", 
+            "source": "http://musicbrainz.org/recording/bff3e1c8-ab1a-41a1-b132-f832bc75b89f"
+        }
+    ], 
+    "form": [
+        {
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
+            "source": "http://musicbrainz.org/work/66d797be-a11e-4143-be78-5357f2dbd510"
+        }, 
+        {
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
+            "source": "http://musicbrainz.org/recording/bff3e1c8-ab1a-41a1-b132-f832bc75b89f"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "6a11e408-fd68-4161-8f72-d18493965464", 
+            "title": "Evcara 3"
+        }
+    ], 
+    "title": "Ald\u0131 Elden G\u00fcl\u015feni Bad-\u0131 Hazan", 
+    "url": "http://musicbrainz.org/recording/bff3e1c8-ab1a-41a1-b132-f832bc75b89f", 
+    "artist_credits": [
+        {
+            "mbid": "7ef61959-65f2-41ab-9ae2-ba890812b7b4", 
+            "name": "Bekir S\u0131dk\u0131 Sezgin"
+        }
+    ], 
+    "mbid": "bff3e1c8-ab1a-41a1-b132-f832bc75b89f", 
+    "makam": [
+        {
+            "attribute_key": "evcara", 
+            "mb_attribute": "Evcara", 
+            "source": "http://musicbrainz.org/work/66d797be-a11e-4143-be78-5357f2dbd510"
+        }, 
+        {
+            "attribute_key": "evcara", 
+            "mb_tag": "evcara", 
+            "source": "http://musicbrainz.org/recording/bff3e1c8-ab1a-41a1-b132-f832bc75b89f"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
+            "type": "performing orchestra", 
+            "name": "[unknown]"
+        }, 
+        {
+            "mbid": "7ef61959-65f2-41ab-9ae2-ba890812b7b4", 
+            "type": "vocal", 
+            "name": "Bekir S\u0131dk\u0131 Sezgin"
+        }
+    ], 
+    "instrumentation_voicing": "Solo vocal with accompaniment", 
+    "works": [
+        {
+            "mbid": "66d797be-a11e-4143-be78-5357f2dbd510", 
+            "title": "Ald\u0131 Elden G\u00fcl\u015feni Bad-\u0131 Hazan"
+        }
+    ]
+}

@@ -1,0 +1,67 @@
+{
+    "usul": [
+        {
+            "attribute_key": "kapali_curcuna", 
+            "mb_attribute": "Kapal\u0131 Curcuna", 
+            "source": "http://musicbrainz.org/work/f8a79c74-cb05-328a-924e-fc751733763b"
+        }, 
+        {
+            "attribute_key": "kapali_curcuna", 
+            "mb_tag": "curcuna", 
+            "source": "http://musicbrainz.org/recording/c0ff469f-9b1a-4a7f-a47a-d04382d03a29"
+        }
+    ], 
+    "form": [
+        {
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
+            "source": "http://musicbrainz.org/work/f8a79c74-cb05-328a-924e-fc751733763b"
+        }, 
+        {
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
+            "source": "http://musicbrainz.org/recording/c0ff469f-9b1a-4a7f-a47a-d04382d03a29"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "659e23be-4186-4b89-b758-addf78c27b6a", 
+            "title": "Fasl-\u0131 \u015eahane Enstrumantal, Volume 4"
+        }
+    ], 
+    "title": "Kimseye Etmem \u015eikayet", 
+    "url": "http://musicbrainz.org/recording/c0ff469f-9b1a-4a7f-a47a-d04382d03a29", 
+    "artist_credits": [
+        {
+            "mbid": "ef074ab6-a2a8-42f7-a454-068265023697", 
+            "name": "Aziz T\u00fcrk Sanat M\u00fczi\u011fi Grubu"
+        }
+    ], 
+    "mbid": "c0ff469f-9b1a-4a7f-a47a-d04382d03a29", 
+    "makam": [
+        {
+            "attribute_key": "nihavent", 
+            "mb_attribute": "Nihavent", 
+            "source": "http://musicbrainz.org/work/f8a79c74-cb05-328a-924e-fc751733763b"
+        }, 
+        {
+            "attribute_key": "nihavent", 
+            "mb_tag": "nihavent", 
+            "source": "http://musicbrainz.org/recording/c0ff469f-9b1a-4a7f-a47a-d04382d03a29"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "ef074ab6-a2a8-42f7-a454-068265023697", 
+            "type": "performing orchestra", 
+            "name": "Aziz T\u00fcrk Sanat M\u00fczi\u011fi Grubu"
+        }
+    ], 
+    "instrumentation_voicing": "Ensemble instrumental", 
+    "works": [
+        {
+            "mbid": "f8a79c74-cb05-328a-924e-fc751733763b", 
+            "title": "Kimseye Etmem \u015eikayet"
+        }
+    ]
+}

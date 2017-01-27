@@ -1,0 +1,82 @@
+{
+    "usul": [
+        {
+            "attribute_key": "aksak", 
+            "mb_attribute": "Aksak", 
+            "source": "http://musicbrainz.org/work/4ccfe707-49e1-42b9-90a6-9145523c2b73"
+        }, 
+        {
+            "attribute_key": "aksak", 
+            "mb_tag": "aksak", 
+            "source": "http://musicbrainz.org/recording/2d6c58a2-44c7-4616-80c4-8d68c0f1adb8"
+        }, 
+        {
+            "attribute_key": null, 
+            "mb_tag": "\u015fark\u0131", 
+            "source": "http://musicbrainz.org/recording/2d6c58a2-44c7-4616-80c4-8d68c0f1adb8"
+        }
+    ], 
+    "form": [
+        {
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
+            "source": "http://musicbrainz.org/work/4ccfe707-49e1-42b9-90a6-9145523c2b73"
+        }, 
+        {
+            "attribute_key": null, 
+            "mb_tag": "aksak", 
+            "source": "http://musicbrainz.org/recording/2d6c58a2-44c7-4616-80c4-8d68c0f1adb8"
+        }, 
+        {
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
+            "source": "http://musicbrainz.org/recording/2d6c58a2-44c7-4616-80c4-8d68c0f1adb8"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "189bbe93-186a-46b8-a6da-df8864e6dd4a", 
+            "title": "Bekir S\u0131dk\u0131 Sezgin 14"
+        }
+    ], 
+    "title": "\u00c7ekme Elem \u00fc Derdini Bu Dehri Fenan\u0131n", 
+    "url": "http://musicbrainz.org/recording/2d6c58a2-44c7-4616-80c4-8d68c0f1adb8", 
+    "artist_credits": [
+        {
+            "mbid": "7ef61959-65f2-41ab-9ae2-ba890812b7b4", 
+            "name": "Bekir S\u0131dk\u0131 Sezgin"
+        }
+    ], 
+    "mbid": "2d6c58a2-44c7-4616-80c4-8d68c0f1adb8", 
+    "makam": [
+        {
+            "attribute_key": "hicaz", 
+            "mb_attribute": "Hicaz", 
+            "source": "http://musicbrainz.org/work/4ccfe707-49e1-42b9-90a6-9145523c2b73"
+        }, 
+        {
+            "attribute_key": "suzinak", 
+            "mb_tag": "suzinak", 
+            "source": "http://musicbrainz.org/recording/2d6c58a2-44c7-4616-80c4-8d68c0f1adb8"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
+            "type": "performing orchestra", 
+            "name": "[unknown]"
+        }, 
+        {
+            "mbid": "7ef61959-65f2-41ab-9ae2-ba890812b7b4", 
+            "type": "vocal", 
+            "name": "Bekir S\u0131dk\u0131 Sezgin"
+        }
+    ], 
+    "instrumentation_voicing": "Solo vocal with accompaniment", 
+    "works": [
+        {
+            "mbid": "4ccfe707-49e1-42b9-90a6-9145523c2b73", 
+            "title": "\u00c7ekme Elem \u00fc Derdini"
+        }
+    ]
+}

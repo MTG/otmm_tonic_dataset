@@ -1,0 +1,67 @@
+{
+    "usul": [
+        {
+            "attribute_key": "aksak", 
+            "mb_attribute": "Aksak", 
+            "source": "http://musicbrainz.org/work/0ffe2ca5-65c0-4d6e-bdb2-d9e7d288176f"
+        }, 
+        {
+            "attribute_key": "aksak", 
+            "mb_tag": "aksak", 
+            "source": "http://musicbrainz.org/recording/973d2d68-548c-432f-b095-79e9af40884a"
+        }
+    ], 
+    "form": [
+        {
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
+            "source": "http://musicbrainz.org/work/0ffe2ca5-65c0-4d6e-bdb2-d9e7d288176f"
+        }, 
+        {
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
+            "source": "http://musicbrainz.org/recording/973d2d68-548c-432f-b095-79e9af40884a"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "4469247f-6e65-4a35-8661-321c399dacb9", 
+            "title": "Fasl-\u0131 \u015eahane Enstrumantal, Volume 5"
+        }
+    ], 
+    "title": "Bir Esmere G\u00f6n\u00fcl Verdim", 
+    "url": "http://musicbrainz.org/recording/973d2d68-548c-432f-b095-79e9af40884a", 
+    "artist_credits": [
+        {
+            "mbid": "ef074ab6-a2a8-42f7-a454-068265023697", 
+            "name": "Aziz T\u00fcrk Sanat M\u00fczi\u011fi Grubu"
+        }
+    ], 
+    "mbid": "973d2d68-548c-432f-b095-79e9af40884a", 
+    "makam": [
+        {
+            "attribute_key": "saba", 
+            "mb_attribute": "Saba", 
+            "source": "http://musicbrainz.org/work/0ffe2ca5-65c0-4d6e-bdb2-d9e7d288176f"
+        }, 
+        {
+            "attribute_key": "saba", 
+            "mb_tag": "saba", 
+            "source": "http://musicbrainz.org/recording/973d2d68-548c-432f-b095-79e9af40884a"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "ef074ab6-a2a8-42f7-a454-068265023697", 
+            "type": "performing orchestra", 
+            "name": "Aziz T\u00fcrk Sanat M\u00fczi\u011fi Grubu"
+        }
+    ], 
+    "instrumentation_voicing": "Ensemble instrumental", 
+    "works": [
+        {
+            "mbid": "0ffe2ca5-65c0-4d6e-bdb2-d9e7d288176f", 
+            "title": "Bir Esmere G\u00f6n\u00fcl Verdim"
+        }
+    ]
+}

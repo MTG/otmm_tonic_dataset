@@ -1,0 +1,62 @@
+{
+    "usul": [
+        {
+            "attribute_key": "devrikebir", 
+            "mb_attribute": "Devr-i Kebir", 
+            "source": "http://musicbrainz.org/work/31385d3e-7014-485e-b77e-943beb8f9e29"
+        }
+    ], 
+    "form": [
+        {
+            "attribute_key": "pesrev", 
+            "mb_attribute": "Pe\u015frev", 
+            "source": "http://musicbrainz.org/work/31385d3e-7014-485e-b77e-943beb8f9e29"
+        }, 
+        {
+            "attribute_key": "pesrev", 
+            "mb_tag": "pe\u015frev", 
+            "source": "http://musicbrainz.org/recording/a93b325d-41e1-4704-b9da-8ec5a6d1e584"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "e8e5fd78-af90-40e2-a5bd-de5217f899ff", 
+            "title": "Bekir S\u0131dk\u0131 Sezgin 25"
+        }
+    ], 
+    "title": "S\u00fczinak Pe\u015frevi", 
+    "url": "http://musicbrainz.org/recording/a93b325d-41e1-4704-b9da-8ec5a6d1e584", 
+    "artist_credits": [
+        {
+            "mbid": "7ef61959-65f2-41ab-9ae2-ba890812b7b4", 
+            "name": "Bekir S\u0131dk\u0131 Sezgin"
+        }
+    ], 
+    "mbid": "a93b325d-41e1-4704-b9da-8ec5a6d1e584", 
+    "makam": [
+        {
+            "attribute_key": "suzinak", 
+            "mb_attribute": "Suzinak", 
+            "source": "http://musicbrainz.org/work/31385d3e-7014-485e-b77e-943beb8f9e29"
+        }, 
+        {
+            "attribute_key": "suzinak", 
+            "mb_tag": "suzinak", 
+            "source": "http://musicbrainz.org/recording/a93b325d-41e1-4704-b9da-8ec5a6d1e584"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
+            "type": "performing orchestra", 
+            "name": "[unknown]"
+        }
+    ], 
+    "instrumentation_voicing": "Ensemble instrumental", 
+    "works": [
+        {
+            "mbid": "31385d3e-7014-485e-b77e-943beb8f9e29", 
+            "title": "Suzinak Pe\u015frev"
+        }
+    ]
+}

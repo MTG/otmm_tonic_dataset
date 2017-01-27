@@ -1,0 +1,82 @@
+{
+    "usul": [
+        {
+            "attribute_key": "aksaksemai", 
+            "mb_attribute": "Aksaksemai", 
+            "source": "http://musicbrainz.org/work/8caa157b-0163-4de7-8625-07e49f262a26"
+        }, 
+        {
+            "attribute_key": "aksaksemai", 
+            "mb_tag": "aksaksemai", 
+            "source": "http://musicbrainz.org/recording/f2119b61-26f6-462f-83c2-af5c455b9902"
+        }
+    ], 
+    "form": [
+        {
+            "attribute_key": "sazsemaisi", 
+            "mb_attribute": "Sazsemaisi", 
+            "source": "http://musicbrainz.org/work/8caa157b-0163-4de7-8625-07e49f262a26"
+        }, 
+        {
+            "attribute_key": "sazsemaisi", 
+            "mb_tag": "sazsemaisi", 
+            "source": "http://musicbrainz.org/recording/f2119b61-26f6-462f-83c2-af5c455b9902"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "7bbf7973-95f1-4dc5-8ec4-76991bec87e9", 
+            "title": "T\u00fcrk M\u00fczi\u011fi Ustalar\u0131 - Kemen\u00e7e"
+        }
+    ], 
+    "title": "Hicaz Sazsemaisi", 
+    "url": "http://musicbrainz.org/recording/f2119b61-26f6-462f-83c2-af5c455b9902", 
+    "artist_credits": [
+        {
+            "mbid": "efa05e6c-2bed-4781-8ff8-26583104f241", 
+            "name": "Hadiye \u00d6t\u00fcgen"
+        }, 
+        {
+            "mbid": "4abe7f3d-34ba-43a2-97f6-8ec00d54366e", 
+            "name": "Vecihe Daryal"
+        }
+    ], 
+    "mbid": "f2119b61-26f6-462f-83c2-af5c455b9902", 
+    "makam": [
+        {
+            "attribute_key": "hicaz", 
+            "mb_attribute": "Hicaz", 
+            "source": "http://musicbrainz.org/work/8caa157b-0163-4de7-8625-07e49f262a26"
+        }, 
+        {
+            "attribute_key": "hicaz", 
+            "mb_tag": "hicaz", 
+            "source": "http://musicbrainz.org/recording/f2119b61-26f6-462f-83c2-af5c455b9902"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "4abe7f3d-34ba-43a2-97f6-8ec00d54366e", 
+            "attribute-list": [
+                "kanun"
+            ], 
+            "type": "instrument", 
+            "name": "Vecihe Daryal"
+        }, 
+        {
+            "mbid": "efa05e6c-2bed-4781-8ff8-26583104f241", 
+            "attribute-list": [
+                "classical kemen\u00e7e"
+            ], 
+            "type": "instrument", 
+            "name": "Hadiye \u00d6t\u00fcgen"
+        }
+    ], 
+    "instrumentation_voicing": "Duo instrumental", 
+    "works": [
+        {
+            "mbid": "8caa157b-0163-4de7-8625-07e49f262a26", 
+            "title": "Hicaz Sazsemaisi"
+        }
+    ]
+}

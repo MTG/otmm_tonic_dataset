@@ -1,0 +1,82 @@
+{
+    "usul": [
+        {
+            "attribute_key": "aksaksemai", 
+            "mb_attribute": "Aksaksemai", 
+            "source": "http://musicbrainz.org/work/44eba3fc-ea1a-4549-82a9-a103592f557b"
+        }, 
+        {
+            "attribute_key": "aksaksemai", 
+            "mb_tag": "aksaksemai", 
+            "source": "http://musicbrainz.org/recording/e33c3076-98a1-47eb-ba7b-1ead82dedbe9"
+        }
+    ], 
+    "form": [
+        {
+            "attribute_key": "sazsemaisi", 
+            "mb_attribute": "Sazsemaisi", 
+            "source": "http://musicbrainz.org/work/44eba3fc-ea1a-4549-82a9-a103592f557b"
+        }, 
+        {
+            "attribute_key": "sazsemaisi", 
+            "mb_tag": "sazsemaisi", 
+            "source": "http://musicbrainz.org/recording/e33c3076-98a1-47eb-ba7b-1ead82dedbe9"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "23a69389-518b-4b31-b7d7-7175db138665", 
+            "title": "C\u00fcneyd Orhon"
+        }
+    ], 
+    "title": "Irak Sazsemaisi", 
+    "url": "http://musicbrainz.org/recording/e33c3076-98a1-47eb-ba7b-1ead82dedbe9", 
+    "artist_credits": [
+        {
+            "mbid": "92805785-a644-43f7-8bd8-4dd51bf48529", 
+            "name": "C\u00fcneyd Orhon"
+        }, 
+        {
+            "mbid": "ef4e5ece-e67c-4102-80e0-08076e238ae6", 
+            "name": "Nevzat S\u00fcmer"
+        }
+    ], 
+    "mbid": "e33c3076-98a1-47eb-ba7b-1ead82dedbe9", 
+    "makam": [
+        {
+            "attribute_key": "irak", 
+            "mb_attribute": "Irak", 
+            "source": "http://musicbrainz.org/work/44eba3fc-ea1a-4549-82a9-a103592f557b"
+        }, 
+        {
+            "attribute_key": "irak", 
+            "mb_tag": "\u0131rak", 
+            "source": "http://musicbrainz.org/recording/e33c3076-98a1-47eb-ba7b-1ead82dedbe9"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "92805785-a644-43f7-8bd8-4dd51bf48529", 
+            "attribute-list": [
+                "classical kemen\u00e7e"
+            ], 
+            "type": "instrument", 
+            "name": "C\u00fcneyd Orhon"
+        }, 
+        {
+            "mbid": "ef4e5ece-e67c-4102-80e0-08076e238ae6", 
+            "attribute-list": [
+                "kanun"
+            ], 
+            "type": "instrument", 
+            "name": "Nevzat S\u00fcmer"
+        }
+    ], 
+    "instrumentation_voicing": "Duo instrumental", 
+    "works": [
+        {
+            "mbid": "44eba3fc-ea1a-4549-82a9-a103592f557b", 
+            "title": "Irak Sazsemaisi"
+        }
+    ]
+}

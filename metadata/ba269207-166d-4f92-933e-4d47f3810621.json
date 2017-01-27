@@ -1,0 +1,72 @@
+{
+    "usul": [
+        {
+            "attribute_key": "agir_aksaksemai", 
+            "mb_attribute": "A\u011f\u0131r Aksaksemai", 
+            "source": "http://musicbrainz.org/work/272caadb-14d8-4c13-9744-564d26539101"
+        }, 
+        {
+            "attribute_key": "agir_aksaksemai", 
+            "mb_tag": "a\u011f\u0131r aksaksemai", 
+            "source": "http://musicbrainz.org/recording/ba269207-166d-4f92-933e-4d47f3810621"
+        }
+    ], 
+    "form": [
+        {
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
+            "source": "http://musicbrainz.org/work/272caadb-14d8-4c13-9744-564d26539101"
+        }, 
+        {
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
+            "source": "http://musicbrainz.org/recording/ba269207-166d-4f92-933e-4d47f3810621"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "8024b6af-73d3-47ac-a20c-06d4114363f5", 
+            "title": "Bekir S\u0131dk\u0131 Sezgin 15"
+        }
+    ], 
+    "title": "Doldur Getir Ey Saki-i G\u00fcl \u00c7ehre Piyale", 
+    "url": "http://musicbrainz.org/recording/ba269207-166d-4f92-933e-4d47f3810621", 
+    "artist_credits": [
+        {
+            "mbid": "7ef61959-65f2-41ab-9ae2-ba890812b7b4", 
+            "name": "Bekir S\u0131dk\u0131 Sezgin"
+        }
+    ], 
+    "mbid": "ba269207-166d-4f92-933e-4d47f3810621", 
+    "makam": [
+        {
+            "attribute_key": "segah", 
+            "mb_attribute": "Segah", 
+            "source": "http://musicbrainz.org/work/272caadb-14d8-4c13-9744-564d26539101"
+        }, 
+        {
+            "attribute_key": "segah", 
+            "mb_tag": "segah", 
+            "source": "http://musicbrainz.org/recording/ba269207-166d-4f92-933e-4d47f3810621"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
+            "type": "performing orchestra", 
+            "name": "[unknown]"
+        }, 
+        {
+            "mbid": "7ef61959-65f2-41ab-9ae2-ba890812b7b4", 
+            "type": "vocal", 
+            "name": "Bekir S\u0131dk\u0131 Sezgin"
+        }
+    ], 
+    "instrumentation_voicing": "Solo vocal with accompaniment", 
+    "works": [
+        {
+            "mbid": "272caadb-14d8-4c13-9744-564d26539101", 
+            "title": "Doldur Getir"
+        }
+    ]
+}

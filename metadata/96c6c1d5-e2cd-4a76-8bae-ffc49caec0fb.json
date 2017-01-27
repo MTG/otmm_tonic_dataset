@@ -1,0 +1,50 @@
+{
+    "instrumentation_voicing": "Solo instrumental", 
+    "form": [
+        {
+            "attribute_key": "taksim", 
+            "mb_tag": "taksim", 
+            "source": "http://musicbrainz.org/recording/96c6c1d5-e2cd-4a76-8bae-ffc49caec0fb"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "ea654a3e-6e4f-4c2c-a5d3-f8ecb7af2d3e", 
+            "title": "Musique Classique Ottomane - Makam"
+        }
+    ], 
+    "title": "Makam Rast / Ney Taksim", 
+    "url": "http://musicbrainz.org/recording/96c6c1d5-e2cd-4a76-8bae-ffc49caec0fb", 
+    "artist_credits": [
+        {
+            "mbid": "86299acc-2dd4-49d2-b20e-d1707c699d62", 
+            "name": "Kudsi Erguner"
+        }
+    ], 
+    "mbid": "96c6c1d5-e2cd-4a76-8bae-ffc49caec0fb", 
+    "makam": [
+        {
+            "attribute_key": "rast", 
+            "mb_tag": "rast", 
+            "source": "http://musicbrainz.org/recording/96c6c1d5-e2cd-4a76-8bae-ffc49caec0fb"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "86299acc-2dd4-49d2-b20e-d1707c699d62", 
+            "attribute-list": [
+                "ney", 
+                "solo"
+            ], 
+            "type": "instrument", 
+            "name": "Kudsi Erguner"
+        }
+    ], 
+    "usul": [
+        {
+            "attribute_key": "serbest", 
+            "mb_tag": "serbest", 
+            "source": "http://musicbrainz.org/recording/96c6c1d5-e2cd-4a76-8bae-ffc49caec0fb"
+        }
+    ]
+}

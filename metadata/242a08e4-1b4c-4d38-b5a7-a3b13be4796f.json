@@ -1,0 +1,67 @@
+{
+    "usul": [
+        {
+            "attribute_key": "agiraksak", 
+            "mb_attribute": "A\u011f\u0131raksak", 
+            "source": "http://musicbrainz.org/work/20040cbe-924a-4975-a0c8-1541037c52d9"
+        }, 
+        {
+            "attribute_key": "agiraksak", 
+            "mb_tag": "a\u011f\u0131raksak", 
+            "source": "http://musicbrainz.org/recording/242a08e4-1b4c-4d38-b5a7-a3b13be4796f"
+        }
+    ], 
+    "form": [
+        {
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
+            "source": "http://musicbrainz.org/work/20040cbe-924a-4975-a0c8-1541037c52d9"
+        }, 
+        {
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
+            "source": "http://musicbrainz.org/recording/242a08e4-1b4c-4d38-b5a7-a3b13be4796f"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "66122020-7d22-4fc6-89f2-9dd78b1a2c74", 
+            "title": "Fasl-\u0131 \u015eahane Enstrumantal, Volume 2"
+        }
+    ], 
+    "title": "Koparan Sinemi", 
+    "url": "http://musicbrainz.org/recording/242a08e4-1b4c-4d38-b5a7-a3b13be4796f", 
+    "artist_credits": [
+        {
+            "mbid": "ef074ab6-a2a8-42f7-a454-068265023697", 
+            "name": "Aziz T\u00fcrk Sanat M\u00fczi\u011fi Grubu"
+        }
+    ], 
+    "mbid": "242a08e4-1b4c-4d38-b5a7-a3b13be4796f", 
+    "makam": [
+        {
+            "attribute_key": "kurdilihicazkar", 
+            "mb_attribute": "K\u00fcrdilihicazkar", 
+            "source": "http://musicbrainz.org/work/20040cbe-924a-4975-a0c8-1541037c52d9"
+        }, 
+        {
+            "attribute_key": "kurdilihicazkar", 
+            "mb_tag": "k\u00fcrdilihicazkar", 
+            "source": "http://musicbrainz.org/recording/242a08e4-1b4c-4d38-b5a7-a3b13be4796f"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
+            "type": "performing orchestra", 
+            "name": "[unknown]"
+        }
+    ], 
+    "instrumentation_voicing": "Ensemble instrumental", 
+    "works": [
+        {
+            "mbid": "20040cbe-924a-4975-a0c8-1541037c52d9", 
+            "title": "Koparan Sinemi A\u011fyar Elidir"
+        }
+    ]
+}

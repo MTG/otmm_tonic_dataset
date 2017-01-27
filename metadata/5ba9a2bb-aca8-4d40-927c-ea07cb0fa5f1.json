@@ -1,0 +1,94 @@
+{
+    "usul": [
+        {
+            "attribute_key": "duyek", 
+            "mb_attribute": "D\u00fcyek", 
+            "source": "http://musicbrainz.org/work/abbbc04a-e02e-4881-b7ec-7a0806ce4800"
+        }, 
+        {
+            "attribute_key": "duyek", 
+            "mb_tag": "d\u00fcyek", 
+            "source": "http://musicbrainz.org/recording/5ba9a2bb-aca8-4d40-927c-ea07cb0fa5f1"
+        }
+    ], 
+    "form": [
+        {
+            "attribute_key": "pesrev", 
+            "mb_attribute": "Pe\u015frev", 
+            "source": "http://musicbrainz.org/work/abbbc04a-e02e-4881-b7ec-7a0806ce4800"
+        }, 
+        {
+            "attribute_key": "pesrev", 
+            "mb_tag": "pe\u015frev", 
+            "source": "http://musicbrainz.org/recording/5ba9a2bb-aca8-4d40-927c-ea07cb0fa5f1"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "fabc564c-e3dd-4903-a224-1ddf48438197", 
+            "title": "Minstrel's Era"
+        }
+    ], 
+    "title": "Nikriz Pe\u015frev", 
+    "url": "http://musicbrainz.org/recording/5ba9a2bb-aca8-4d40-927c-ea07cb0fa5f1", 
+    "artist_credits": [
+        {
+            "mbid": "b80cd1ab-a00c-4f98-89c1-a798deb2d5c2", 
+            "name": "Derya T\u00fcrkan"
+        }, 
+        {
+            "mbid": "59d8bee3-a751-4849-9f1f-42e9f343baf1", 
+            "name": "Renaud Garcia-Fons"
+        }, 
+        {
+            "mbid": "cfe6aea2-c362-4760-9ad1-b95db1605b6e", 
+            "name": "U\u011fur I\u015f\u0131k"
+        }
+    ], 
+    "mbid": "5ba9a2bb-aca8-4d40-927c-ea07cb0fa5f1", 
+    "makam": [
+        {
+            "attribute_key": "nikriz", 
+            "mb_attribute": "Nikriz", 
+            "source": "http://musicbrainz.org/work/abbbc04a-e02e-4881-b7ec-7a0806ce4800"
+        }, 
+        {
+            "attribute_key": "nikriz", 
+            "mb_tag": "nikriz", 
+            "source": "http://musicbrainz.org/recording/5ba9a2bb-aca8-4d40-927c-ea07cb0fa5f1"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "59d8bee3-a751-4849-9f1f-42e9f343baf1", 
+            "attribute-list": [
+                "double bass"
+            ], 
+            "type": "instrument", 
+            "name": "Renaud Garcia-Fons"
+        }, 
+        {
+            "mbid": "b80cd1ab-a00c-4f98-89c1-a798deb2d5c2", 
+            "attribute-list": [
+                "classical kemen\u00e7e"
+            ], 
+            "type": "instrument", 
+            "name": "Derya T\u00fcrkan"
+        }, 
+        {
+            "mbid": "cfe6aea2-c362-4760-9ad1-b95db1605b6e", 
+            "attribute-list": [
+                "cello"
+            ], 
+            "type": "instrument", 
+            "name": "U\u011fur I\u015f\u0131k"
+        }
+    ], 
+    "instrumentation_voicing": "Trio instrumental", 
+    "works": [
+        {
+            "mbid": "abbbc04a-e02e-4881-b7ec-7a0806ce4800", 
+            "title": "Nikriz Pe\u015frev"
+        }
+    ]
+}

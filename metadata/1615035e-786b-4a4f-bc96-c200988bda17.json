@@ -1,0 +1,49 @@
+{
+    "instrumentation_voicing": "Solo instrumental", 
+    "form": [
+        {
+            "attribute_key": "taksim", 
+            "mb_tag": "taksim", 
+            "source": "http://musicbrainz.org/recording/1615035e-786b-4a4f-bc96-c200988bda17"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "8a880160-5ee1-4d21-910f-e1636f17a9e9", 
+            "title": "16 Makamda Ud Taksimleri"
+        }
+    ], 
+    "title": "Rast", 
+    "url": "http://musicbrainz.org/recording/1615035e-786b-4a4f-bc96-c200988bda17", 
+    "artist_credits": [
+        {
+            "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
+            "name": "[unknown]"
+        }
+    ], 
+    "mbid": "1615035e-786b-4a4f-bc96-c200988bda17", 
+    "makam": [
+        {
+            "attribute_key": "rast", 
+            "mb_tag": "rast", 
+            "source": "http://musicbrainz.org/recording/1615035e-786b-4a4f-bc96-c200988bda17"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
+            "attribute-list": [
+                "oud"
+            ], 
+            "type": "instrument", 
+            "name": "[unknown]"
+        }
+    ], 
+    "usul": [
+        {
+            "attribute_key": "serbest", 
+            "mb_tag": "serbest", 
+            "source": "http://musicbrainz.org/recording/1615035e-786b-4a4f-bc96-c200988bda17"
+        }
+    ]
+}

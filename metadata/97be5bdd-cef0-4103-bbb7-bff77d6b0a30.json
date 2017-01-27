@@ -1,0 +1,106 @@
+{
+    "usul": [
+        {
+            "attribute_key": "fahte", 
+            "mb_attribute": "Fahte", 
+            "source": "http://musicbrainz.org/work/83291c8a-4ef1-4ffc-8b50-3fc03890f5a4"
+        }, 
+        {
+            "attribute_key": "aksaksemai", 
+            "mb_tag": "aksaksemai", 
+            "source": "http://musicbrainz.org/recording/97be5bdd-cef0-4103-bbb7-bff77d6b0a30"
+        }
+    ], 
+    "form": [
+        {
+            "attribute_key": "pesrev", 
+            "mb_attribute": "Pe\u015frev", 
+            "source": "http://musicbrainz.org/work/83291c8a-4ef1-4ffc-8b50-3fc03890f5a4"
+        }, 
+        {
+            "attribute_key": "sazsemaisi", 
+            "mb_tag": "sazsemaisi", 
+            "source": "http://musicbrainz.org/recording/97be5bdd-cef0-4103-bbb7-bff77d6b0a30"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "514b5fcb-e33e-4680-ae08-e41dfb196860", 
+            "title": "L'H\u00e9ritage Ottoman: The Ottoman Heritage"
+        }, 
+        {
+            "mbid": "6250214f-3da3-4896-b3e7-0e568e83a91d", 
+            "title": "L'H\u00e9ritage Ottoman"
+        }
+    ], 
+    "title": "\u015eedaraban Pe\u015frevi", 
+    "url": "http://musicbrainz.org/recording/97be5bdd-cef0-4103-bbb7-bff77d6b0a30", 
+    "artist_credits": [
+        {
+            "mbid": "0868a083-608c-41c5-89b0-bc5b9a616dbd", 
+            "name": "Kudsi Erguner Ensemble"
+        }
+    ], 
+    "mbid": "97be5bdd-cef0-4103-bbb7-bff77d6b0a30", 
+    "makam": [
+        {
+            "attribute_key": "sedaraban", 
+            "mb_attribute": "\u015eedaraban", 
+            "source": "http://musicbrainz.org/work/83291c8a-4ef1-4ffc-8b50-3fc03890f5a4"
+        }, 
+        {
+            "attribute_key": "sedaraban", 
+            "mb_tag": "\u015fedaraban", 
+            "source": "http://musicbrainz.org/recording/97be5bdd-cef0-4103-bbb7-bff77d6b0a30"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "019382cb-f1fa-4365-9199-3c56885450c0", 
+            "attribute-list": [
+                "oud"
+            ], 
+            "type": "instrument", 
+            "name": "Mehmet Bitmez"
+        }, 
+        {
+            "mbid": "65e0df9a-64a6-450c-acae-009a8c725661", 
+            "attribute-list": [
+                "tanbur"
+            ], 
+            "type": "instrument", 
+            "name": "Necip G\u00fclses"
+        }, 
+        {
+            "mbid": "86299acc-2dd4-49d2-b20e-d1707c699d62", 
+            "attribute-list": [
+                "ney"
+            ], 
+            "type": "instrument", 
+            "name": "Kudsi Erguner"
+        }, 
+        {
+            "mbid": "9300ce7f-ba52-4dd9-84cd-5314c0077170", 
+            "attribute-list": [
+                "kanun"
+            ], 
+            "type": "instrument", 
+            "name": "Hakan G\u00fcng\u00f6r"
+        }, 
+        {
+            "mbid": "e504a080-2092-4855-9135-45914556ca70", 
+            "attribute-list": [
+                "percussion"
+            ], 
+            "type": "instrument", 
+            "name": "Vahit Anadolu"
+        }
+    ], 
+    "instrumentation_voicing": "Ensemble instrumental", 
+    "works": [
+        {
+            "mbid": "83291c8a-4ef1-4ffc-8b50-3fc03890f5a4", 
+            "title": "\u015eedaraban Pe\u015frevi"
+        }
+    ]
+}

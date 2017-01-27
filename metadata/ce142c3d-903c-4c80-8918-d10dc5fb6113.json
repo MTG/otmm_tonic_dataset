@@ -1,0 +1,94 @@
+{
+    "usul": [
+        {
+            "attribute_key": "aksaksemai", 
+            "mb_attribute": "Aksaksemai", 
+            "source": "http://musicbrainz.org/work/ecbd1847-79bd-4083-b9e5-833c90e6d8cc"
+        }, 
+        {
+            "attribute_key": "aksaksemai", 
+            "mb_tag": "aksaksemai", 
+            "source": "http://musicbrainz.org/recording/ce142c3d-903c-4c80-8918-d10dc5fb6113"
+        }
+    ], 
+    "form": [
+        {
+            "attribute_key": "sazsemaisi", 
+            "mb_attribute": "Sazsemaisi", 
+            "source": "http://musicbrainz.org/work/ecbd1847-79bd-4083-b9e5-833c90e6d8cc"
+        }, 
+        {
+            "attribute_key": "sazsemaisi", 
+            "mb_tag": "sazsemaisi", 
+            "source": "http://musicbrainz.org/recording/ce142c3d-903c-4c80-8918-d10dc5fb6113"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "d53718c9-6497-44ab-82b8-1d6e8b91dde3", 
+            "title": "T\u00fcrk Musikisinin Ustalar\u0131 III"
+        }
+    ], 
+    "title": "H\u00fcseyni Sazsemaisi", 
+    "url": "http://musicbrainz.org/recording/ce142c3d-903c-4c80-8918-d10dc5fb6113", 
+    "artist_credits": [
+        {
+            "mbid": "58e7641d-565f-4be8-9eda-595f936456e3", 
+            "name": "Dar\u00fcttalim-i Musiki Heyeti"
+        }
+    ], 
+    "mbid": "ce142c3d-903c-4c80-8918-d10dc5fb6113", 
+    "makam": [
+        {
+            "attribute_key": "huseyni", 
+            "mb_attribute": "H\u00fcseyni", 
+            "source": "http://musicbrainz.org/work/ecbd1847-79bd-4083-b9e5-833c90e6d8cc"
+        }, 
+        {
+            "attribute_key": "huseyni", 
+            "mb_tag": "h\u00fcseyni", 
+            "source": "http://musicbrainz.org/recording/ce142c3d-903c-4c80-8918-d10dc5fb6113"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "1eac0f26-1554-4ae5-8ceb-6ba4635d3738", 
+            "attribute-list": [
+                "violin"
+            ], 
+            "type": "instrument", 
+            "name": "Cevdet \u00c7a\u011fla"
+        }, 
+        {
+            "mbid": "37ea753c-ae08-45be-a580-516f76ba4cbe", 
+            "attribute-list": [
+                "ney"
+            ], 
+            "type": "instrument", 
+            "name": "Neyzen \u0130hsan Aziz Bey"
+        }, 
+        {
+            "mbid": "b2415292-1cf4-4dc9-beea-3c350aba930b", 
+            "attribute-list": [
+                "kanun"
+            ], 
+            "type": "instrument", 
+            "name": "Hasan Ferit Alnar"
+        }, 
+        {
+            "mbid": "e3aa2c81-476b-4bee-b835-94c0c208de09", 
+            "attribute-list": [
+                "oud"
+            ], 
+            "type": "instrument", 
+            "name": "Mehmed Fahri Kopuz"
+        }
+    ], 
+    "instrumentation_voicing": "Ensemble instrumental", 
+    "works": [
+        {
+            "mbid": "ecbd1847-79bd-4083-b9e5-833c90e6d8cc", 
+            "title": "H\u00fcseyni Sazsemaisi"
+        }
+    ]
+}

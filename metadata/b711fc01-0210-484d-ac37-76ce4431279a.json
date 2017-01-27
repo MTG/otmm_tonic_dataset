@@ -1,0 +1,65 @@
+{
+    "usul": [
+        {
+            "attribute_key": "aksaksemai", 
+            "mb_attribute": "Aksaksemai", 
+            "source": "http://musicbrainz.org/work/c08c0594-cc01-4f32-8e9c-fe60949791dd"
+        }
+    ], 
+    "form": [
+        {
+            "attribute_key": "sazsemaisi", 
+            "mb_attribute": "Sazsemaisi", 
+            "source": "http://musicbrainz.org/work/c08c0594-cc01-4f32-8e9c-fe60949791dd"
+        }, 
+        {
+            "attribute_key": "sazsemaisi", 
+            "mb_tag": "sazsemaisi", 
+            "source": "http://musicbrainz.org/recording/b711fc01-0210-484d-ac37-76ce4431279a"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "bfd2fcde-2271-4d8a-af42-98e174e13a4b", 
+            "title": "Murat Aydemir"
+        }
+    ], 
+    "title": "Evc Saz Sem\u00e2isi", 
+    "url": "http://musicbrainz.org/recording/b711fc01-0210-484d-ac37-76ce4431279a", 
+    "artist_credits": [
+        {
+            "mbid": "9b6e98f8-b695-45da-8c9c-68d4bab460fd", 
+            "name": "Murat Aydemir"
+        }
+    ], 
+    "mbid": "b711fc01-0210-484d-ac37-76ce4431279a", 
+    "makam": [
+        {
+            "attribute_key": "evic", 
+            "mb_attribute": "Evi\u00e7", 
+            "source": "http://musicbrainz.org/work/c08c0594-cc01-4f32-8e9c-fe60949791dd"
+        }, 
+        {
+            "attribute_key": "evic", 
+            "mb_tag": "evi\u00e7", 
+            "source": "http://musicbrainz.org/recording/b711fc01-0210-484d-ac37-76ce4431279a"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "9b6e98f8-b695-45da-8c9c-68d4bab460fd", 
+            "attribute-list": [
+                "tanbur"
+            ], 
+            "type": "instrument", 
+            "name": "Murat Aydemir"
+        }
+    ], 
+    "instrumentation_voicing": "Solo instrumental", 
+    "works": [
+        {
+            "mbid": "c08c0594-cc01-4f32-8e9c-fe60949791dd", 
+            "title": "Evc Saz Sem\u00e2isi"
+        }
+    ]
+}

@@ -1,0 +1,70 @@
+{
+    "usul": [
+        {
+            "attribute_key": "aksaksemai", 
+            "mb_attribute": "Aksaksemai", 
+            "source": "http://musicbrainz.org/work/8caa157b-0163-4de7-8625-07e49f262a26"
+        }, 
+        {
+            "attribute_key": "aksaksemai", 
+            "mb_tag": "aksaksemai", 
+            "source": "http://musicbrainz.org/recording/f0663f1b-8e51-4a9f-8695-e5b36ae9a562"
+        }
+    ], 
+    "form": [
+        {
+            "attribute_key": "sazsemaisi", 
+            "mb_attribute": "Sazsemaisi", 
+            "source": "http://musicbrainz.org/work/8caa157b-0163-4de7-8625-07e49f262a26"
+        }, 
+        {
+            "attribute_key": "sazsemaisi", 
+            "mb_tag": "sazsemaisi", 
+            "source": "http://musicbrainz.org/recording/f0663f1b-8e51-4a9f-8695-e5b36ae9a562"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "ef3511f7-a2ea-4495-866c-82b041ea6691", 
+            "title": "Osmanl\u0131'dan Bug\u00fcne T\u00fcrk Musikisi- Kanun"
+        }
+    ], 
+    "title": "Hicaz Sazsemaisi", 
+    "url": "http://musicbrainz.org/recording/f0663f1b-8e51-4a9f-8695-e5b36ae9a562", 
+    "artist_credits": [
+        {
+            "mbid": "a4ec49ac-c69a-4426-a8d1-f2966745c5c1", 
+            "name": "Taner Kalkulo\u011flu"
+        }
+    ], 
+    "mbid": "f0663f1b-8e51-4a9f-8695-e5b36ae9a562", 
+    "makam": [
+        {
+            "attribute_key": "hicaz", 
+            "mb_attribute": "Hicaz", 
+            "source": "http://musicbrainz.org/work/8caa157b-0163-4de7-8625-07e49f262a26"
+        }, 
+        {
+            "attribute_key": "hicaz", 
+            "mb_tag": "hicaz", 
+            "source": "http://musicbrainz.org/recording/f0663f1b-8e51-4a9f-8695-e5b36ae9a562"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "a4ec49ac-c69a-4426-a8d1-f2966745c5c1", 
+            "attribute-list": [
+                "kanun"
+            ], 
+            "type": "instrument", 
+            "name": "Taner Kalkulo\u011flu"
+        }
+    ], 
+    "instrumentation_voicing": "Solo instrumental", 
+    "works": [
+        {
+            "mbid": "8caa157b-0163-4de7-8625-07e49f262a26", 
+            "title": "Hicaz Sazsemaisi"
+        }
+    ]
+}

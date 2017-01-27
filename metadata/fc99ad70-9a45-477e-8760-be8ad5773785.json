@@ -1,0 +1,72 @@
+{
+    "usul": [
+        {
+            "attribute_key": "aksak", 
+            "mb_attribute": "Aksak", 
+            "source": "http://musicbrainz.org/work/add497a1-e469-4642-893e-409999b56fc7"
+        }, 
+        {
+            "attribute_key": "aksak", 
+            "mb_tag": "aksak", 
+            "source": "http://musicbrainz.org/recording/fc99ad70-9a45-477e-8760-be8ad5773785"
+        }
+    ], 
+    "form": [
+        {
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
+            "source": "http://musicbrainz.org/work/add497a1-e469-4642-893e-409999b56fc7"
+        }, 
+        {
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
+            "source": "http://musicbrainz.org/recording/fc99ad70-9a45-477e-8760-be8ad5773785"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "e8e5fd78-af90-40e2-a5bd-de5217f899ff", 
+            "title": "Bekir S\u0131dk\u0131 Sezgin 25"
+        }
+    ], 
+    "title": "Meyhane mi Bu Bezm-i Tarabhane-i Cem mi", 
+    "url": "http://musicbrainz.org/recording/fc99ad70-9a45-477e-8760-be8ad5773785", 
+    "artist_credits": [
+        {
+            "mbid": "7ef61959-65f2-41ab-9ae2-ba890812b7b4", 
+            "name": "Bekir S\u0131dk\u0131 Sezgin"
+        }
+    ], 
+    "mbid": "fc99ad70-9a45-477e-8760-be8ad5773785", 
+    "makam": [
+        {
+            "attribute_key": "ussak", 
+            "mb_attribute": "U\u015f\u015fak", 
+            "source": "http://musicbrainz.org/work/add497a1-e469-4642-893e-409999b56fc7"
+        }, 
+        {
+            "attribute_key": "ussak", 
+            "mb_tag": "u\u015f\u015fak", 
+            "source": "http://musicbrainz.org/recording/fc99ad70-9a45-477e-8760-be8ad5773785"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
+            "type": "performing orchestra", 
+            "name": "[unknown]"
+        }, 
+        {
+            "mbid": "7ef61959-65f2-41ab-9ae2-ba890812b7b4", 
+            "type": "vocal", 
+            "name": "Bekir S\u0131dk\u0131 Sezgin"
+        }
+    ], 
+    "instrumentation_voicing": "Solo vocal with accompaniment", 
+    "works": [
+        {
+            "mbid": "add497a1-e469-4642-893e-409999b56fc7", 
+            "title": "Meyhane mi Bu"
+        }
+    ]
+}

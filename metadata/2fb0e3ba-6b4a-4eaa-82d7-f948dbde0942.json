@@ -1,0 +1,49 @@
+{
+    "instrumentation_voicing": "Solo instrumental", 
+    "form": [
+        {
+            "attribute_key": "taksim", 
+            "mb_tag": "taksim", 
+            "source": "http://musicbrainz.org/recording/2fb0e3ba-6b4a-4eaa-82d7-f948dbde0942"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "291a62d1-907b-41b0-8f38-44666de278dc", 
+            "title": "14 Makamda Keman Taksimleri"
+        }
+    ], 
+    "title": "H\u00fczzam Taksimi", 
+    "url": "http://musicbrainz.org/recording/2fb0e3ba-6b4a-4eaa-82d7-f948dbde0942", 
+    "artist_credits": [
+        {
+            "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
+            "name": "[unknown]"
+        }
+    ], 
+    "mbid": "2fb0e3ba-6b4a-4eaa-82d7-f948dbde0942", 
+    "makam": [
+        {
+            "attribute_key": "huzzam", 
+            "mb_tag": "h\u00fczzam", 
+            "source": "http://musicbrainz.org/recording/2fb0e3ba-6b4a-4eaa-82d7-f948dbde0942"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
+            "attribute-list": [
+                "violin"
+            ], 
+            "type": "instrument", 
+            "name": "[unknown]"
+        }
+    ], 
+    "usul": [
+        {
+            "attribute_key": "serbest", 
+            "mb_tag": "serbest", 
+            "source": "http://musicbrainz.org/recording/2fb0e3ba-6b4a-4eaa-82d7-f948dbde0942"
+        }
+    ]
+}

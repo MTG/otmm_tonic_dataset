@@ -1,0 +1,49 @@
+{
+    "instrumentation_voicing": "Solo instrumental", 
+    "form": [
+        {
+            "attribute_key": "taksim", 
+            "mb_tag": "taksim", 
+            "source": "http://musicbrainz.org/recording/f29a250c-fbf4-42c6-8de7-3afcfb171dc3"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "a401a3ef-3869-450b-9ae0-a32036f2b2bd", 
+            "title": "A\u015fk"
+        }
+    ], 
+    "title": "Seg\u00e2h Taksim", 
+    "url": "http://musicbrainz.org/recording/f29a250c-fbf4-42c6-8de7-3afcfb171dc3", 
+    "artist_credits": [
+        {
+            "mbid": "215fd94e-6a6e-4ab3-98d8-7e81c873dd26", 
+            "name": "Aka G\u00fcnd\u00fcz Kutbay"
+        }
+    ], 
+    "mbid": "f29a250c-fbf4-42c6-8de7-3afcfb171dc3", 
+    "makam": [
+        {
+            "attribute_key": "segah", 
+            "mb_tag": "segah", 
+            "source": "http://musicbrainz.org/recording/f29a250c-fbf4-42c6-8de7-3afcfb171dc3"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "215fd94e-6a6e-4ab3-98d8-7e81c873dd26", 
+            "attribute-list": [
+                "ney"
+            ], 
+            "type": "instrument", 
+            "name": "Aka G\u00fcnd\u00fcz Kutbay"
+        }
+    ], 
+    "usul": [
+        {
+            "attribute_key": "serbest", 
+            "mb_tag": "serbest", 
+            "source": "http://musicbrainz.org/recording/f29a250c-fbf4-42c6-8de7-3afcfb171dc3"
+        }
+    ]
+}

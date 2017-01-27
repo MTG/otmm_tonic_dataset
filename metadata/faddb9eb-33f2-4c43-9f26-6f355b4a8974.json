@@ -1,0 +1,72 @@
+{
+    "usul": [
+        {
+            "attribute_key": "curcuna", 
+            "mb_attribute": "Curcuna", 
+            "source": "http://musicbrainz.org/work/670beb49-9038-482c-9088-eca04a62ae2f"
+        }, 
+        {
+            "attribute_key": "kapali_curcuna", 
+            "mb_tag": "curcuna", 
+            "source": "http://musicbrainz.org/recording/faddb9eb-33f2-4c43-9f26-6f355b4a8974"
+        }
+    ], 
+    "form": [
+        {
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
+            "source": "http://musicbrainz.org/work/670beb49-9038-482c-9088-eca04a62ae2f"
+        }, 
+        {
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
+            "source": "http://musicbrainz.org/recording/faddb9eb-33f2-4c43-9f26-6f355b4a8974"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "6b94e631-734e-4ebb-9acd-0741183608fe", 
+            "title": "Bekir S\u0131dk\u0131 Sezgin 22"
+        }
+    ], 
+    "title": "Sislendi Hava Tarf\u0131 \u00c7emenzar\u0131 Nem Ald\u0131", 
+    "url": "http://musicbrainz.org/recording/faddb9eb-33f2-4c43-9f26-6f355b4a8974", 
+    "artist_credits": [
+        {
+            "mbid": "7ef61959-65f2-41ab-9ae2-ba890812b7b4", 
+            "name": "Bekir S\u0131dk\u0131 Sezgin"
+        }
+    ], 
+    "mbid": "faddb9eb-33f2-4c43-9f26-6f355b4a8974", 
+    "makam": [
+        {
+            "attribute_key": "hicaz", 
+            "mb_attribute": "Hicaz", 
+            "source": "http://musicbrainz.org/work/670beb49-9038-482c-9088-eca04a62ae2f"
+        }, 
+        {
+            "attribute_key": "hicaz", 
+            "mb_tag": "hicaz", 
+            "source": "http://musicbrainz.org/recording/faddb9eb-33f2-4c43-9f26-6f355b4a8974"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
+            "type": "performing orchestra", 
+            "name": "[unknown]"
+        }, 
+        {
+            "mbid": "7ef61959-65f2-41ab-9ae2-ba890812b7b4", 
+            "type": "vocal", 
+            "name": "Bekir S\u0131dk\u0131 Sezgin"
+        }
+    ], 
+    "instrumentation_voicing": "Solo vocal with accompaniment", 
+    "works": [
+        {
+            "mbid": "670beb49-9038-482c-9088-eca04a62ae2f", 
+            "title": "Sislendi Hava"
+        }
+    ]
+}

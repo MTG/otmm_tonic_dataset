@@ -1,0 +1,89 @@
+{
+    "usul": [
+        {
+            "attribute_key": "berefsan", 
+            "mb_attribute": "Beref\u015fan", 
+            "source": "http://musicbrainz.org/work/4124e972-4278-4638-922b-81ad4db9f49f"
+        }
+    ], 
+    "form": [
+        {
+            "attribute_key": "pesrev", 
+            "mb_attribute": "Pe\u015frev", 
+            "source": "http://musicbrainz.org/work/4124e972-4278-4638-922b-81ad4db9f49f"
+        }, 
+        {
+            "attribute_key": "pesrev", 
+            "mb_tag": "pe\u015frev", 
+            "source": "http://musicbrainz.org/recording/13f91d83-ff9d-4588-958d-d75af6014e03"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "fabc564c-e3dd-4903-a224-1ddf48438197", 
+            "title": "Minstrel's Era"
+        }
+    ], 
+    "title": "K\u00fcrdi Pe\u015frev", 
+    "url": "http://musicbrainz.org/recording/13f91d83-ff9d-4588-958d-d75af6014e03", 
+    "artist_credits": [
+        {
+            "mbid": "b80cd1ab-a00c-4f98-89c1-a798deb2d5c2", 
+            "name": "Derya T\u00fcrkan"
+        }, 
+        {
+            "mbid": "59d8bee3-a751-4849-9f1f-42e9f343baf1", 
+            "name": "Renaud Garcia-Fons"
+        }, 
+        {
+            "mbid": "cfe6aea2-c362-4760-9ad1-b95db1605b6e", 
+            "name": "U\u011fur I\u015f\u0131k"
+        }
+    ], 
+    "mbid": "13f91d83-ff9d-4588-958d-d75af6014e03", 
+    "makam": [
+        {
+            "attribute_key": "kurdi", 
+            "mb_attribute": "K\u00fcrdi", 
+            "source": "http://musicbrainz.org/work/4124e972-4278-4638-922b-81ad4db9f49f"
+        }, 
+        {
+            "attribute_key": "kurdi", 
+            "mb_tag": "k\u00fcrdi", 
+            "source": "http://musicbrainz.org/recording/13f91d83-ff9d-4588-958d-d75af6014e03"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "59d8bee3-a751-4849-9f1f-42e9f343baf1", 
+            "attribute-list": [
+                "double bass"
+            ], 
+            "type": "instrument", 
+            "name": "Renaud Garcia-Fons"
+        }, 
+        {
+            "mbid": "b80cd1ab-a00c-4f98-89c1-a798deb2d5c2", 
+            "attribute-list": [
+                "classical kemen\u00e7e"
+            ], 
+            "type": "instrument", 
+            "name": "Derya T\u00fcrkan"
+        }, 
+        {
+            "mbid": "cfe6aea2-c362-4760-9ad1-b95db1605b6e", 
+            "attribute-list": [
+                "cello"
+            ], 
+            "type": "instrument", 
+            "name": "U\u011fur I\u015f\u0131k"
+        }
+    ], 
+    "instrumentation_voicing": "Trio instrumental", 
+    "works": [
+        {
+            "mbid": "4124e972-4278-4638-922b-81ad4db9f49f", 
+            "title": "K\u00fcrdi Pe\u015frevi"
+        }
+    ]
+}

@@ -1,0 +1,70 @@
+{
+    "usul": [
+        {
+            "attribute_key": "curcuna", 
+            "mb_attribute": "Curcuna", 
+            "source": "http://musicbrainz.org/work/4f6e9373-860f-4bcb-a661-b994feacab48"
+        }, 
+        {
+            "attribute_key": "kapali_curcuna", 
+            "mb_tag": "curcuna", 
+            "source": "http://musicbrainz.org/recording/efff51fe-bd95-45ae-b456-f2712e37aeff"
+        }
+    ], 
+    "form": [
+        {
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
+            "source": "http://musicbrainz.org/work/4f6e9373-860f-4bcb-a661-b994feacab48"
+        }, 
+        {
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
+            "source": "http://musicbrainz.org/recording/efff51fe-bd95-45ae-b456-f2712e37aeff"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "e4503a92-f66d-4ca6-a50f-97ec98d0797a", 
+            "title": "Ney \u0130le E\u015flik Edece\u011finiz \u015eark\u0131lar - Enstrumantal Turkish Sufi Sounds"
+        }
+    ], 
+    "title": "K\u00fc\u015fade Talim", 
+    "url": "http://musicbrainz.org/recording/efff51fe-bd95-45ae-b456-f2712e37aeff", 
+    "artist_credits": [
+        {
+            "mbid": "5121835d-84fb-44c6-8eed-8a8da4c444ba", 
+            "name": "Ahmet \u015eahin"
+        }
+    ], 
+    "mbid": "efff51fe-bd95-45ae-b456-f2712e37aeff", 
+    "makam": [
+        {
+            "attribute_key": "huzzam", 
+            "mb_attribute": "H\u00fczzam", 
+            "source": "http://musicbrainz.org/work/4f6e9373-860f-4bcb-a661-b994feacab48"
+        }, 
+        {
+            "attribute_key": "huzzam", 
+            "mb_tag": "h\u00fczzam", 
+            "source": "http://musicbrainz.org/recording/efff51fe-bd95-45ae-b456-f2712e37aeff"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "5121835d-84fb-44c6-8eed-8a8da4c444ba", 
+            "attribute-list": [
+                "ney"
+            ], 
+            "type": "instrument", 
+            "name": "Ahmet \u015eahin"
+        }
+    ], 
+    "instrumentation_voicing": "Solo instrumental", 
+    "works": [
+        {
+            "mbid": "4f6e9373-860f-4bcb-a661-b994feacab48", 
+            "title": "Aman Saki"
+        }
+    ]
+}

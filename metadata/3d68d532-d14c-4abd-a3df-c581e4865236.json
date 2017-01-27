@@ -1,0 +1,58 @@
+{
+    "instrumentation_voicing": "Solo instrumental", 
+    "form": [
+        {
+            "attribute_key": "taksim", 
+            "mb_tag": "taksim", 
+            "source": "http://musicbrainz.org/recording/3d68d532-d14c-4abd-a3df-c581e4865236"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "9d63cb14-4233-48ea-a4c9-e3c60d880786", 
+            "title": "Tanbur"
+        }
+    ], 
+    "title": "Bayati'den Muhayyer'e ge\u00e7i\u015f taksimi", 
+    "url": "http://musicbrainz.org/recording/3d68d532-d14c-4abd-a3df-c581e4865236", 
+    "artist_credits": [
+        {
+            "mbid": "ef7f9168-eec5-4ecd-a142-132ef3355fc1", 
+            "name": "Erc\u00fcmend Batanay"
+        }, 
+        {
+            "mbid": "e1264eb5-b6d7-4c7e-b551-9a6bce7fb64a", 
+            "name": "Haluk Recai"
+        }
+    ], 
+    "mbid": "3d68d532-d14c-4abd-a3df-c581e4865236", 
+    "makam": [
+        {
+            "attribute_key": "beyati", 
+            "mb_tag": "beyati", 
+            "source": "http://musicbrainz.org/recording/3d68d532-d14c-4abd-a3df-c581e4865236"
+        }, 
+        {
+            "attribute_key": "muhayyer", 
+            "mb_tag": "muhayyer", 
+            "source": "http://musicbrainz.org/recording/3d68d532-d14c-4abd-a3df-c581e4865236"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "ef7f9168-eec5-4ecd-a142-132ef3355fc1", 
+            "attribute-list": [
+                "tanbur"
+            ], 
+            "type": "instrument", 
+            "name": "Erc\u00fcmend Batanay"
+        }
+    ], 
+    "usul": [
+        {
+            "attribute_key": "serbest", 
+            "mb_tag": "serbest", 
+            "source": "http://musicbrainz.org/recording/3d68d532-d14c-4abd-a3df-c581e4865236"
+        }
+    ]
+}

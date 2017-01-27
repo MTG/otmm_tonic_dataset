@@ -1,0 +1,94 @@
+{
+    "usul": [
+        {
+            "attribute_key": "aksaksemai", 
+            "mb_attribute": "Aksaksemai", 
+            "source": "http://musicbrainz.org/work/10cddd5e-6bd8-4c69-8561-0d0541f46f34"
+        }, 
+        {
+            "attribute_key": "aksaksemai", 
+            "mb_tag": "aksaksemai", 
+            "source": "http://musicbrainz.org/recording/14e268f3-118f-41f8-b736-d2982570740a"
+        }
+    ], 
+    "form": [
+        {
+            "attribute_key": "sazsemaisi", 
+            "mb_attribute": "Sazsemaisi", 
+            "source": "http://musicbrainz.org/work/10cddd5e-6bd8-4c69-8561-0d0541f46f34"
+        }, 
+        {
+            "attribute_key": "sazsemaisi", 
+            "mb_tag": "sazsemaisi", 
+            "source": "http://musicbrainz.org/recording/14e268f3-118f-41f8-b736-d2982570740a"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "917f9158-b14d-4abd-a132-30200d0a759b", 
+            "title": "Saz Musikimiz'den Se\u00e7meler 2"
+        }
+    ], 
+    "title": "H\u00fczzam Saz Semaisi", 
+    "url": "http://musicbrainz.org/recording/14e268f3-118f-41f8-b736-d2982570740a", 
+    "artist_credits": [
+        {
+            "mbid": "70c6c7e5-c878-4d28-a07a-36bff1feecf5", 
+            "name": "Bayram Co\u015fkuner"
+        }, 
+        {
+            "mbid": "b359fdcb-e48a-414e-bfb4-539d54a5bb85", 
+            "name": "Tahir Aydo\u011fdu"
+        }, 
+        {
+            "mbid": "ac61be44-cbd3-4f8e-9533-1642439fd34c", 
+            "name": "Turay Dinleyen"
+        }
+    ], 
+    "mbid": "14e268f3-118f-41f8-b736-d2982570740a", 
+    "makam": [
+        {
+            "attribute_key": "huzzam", 
+            "mb_attribute": "H\u00fczzam", 
+            "source": "http://musicbrainz.org/work/10cddd5e-6bd8-4c69-8561-0d0541f46f34"
+        }, 
+        {
+            "attribute_key": "huzzam", 
+            "mb_tag": "h\u00fczzam", 
+            "source": "http://musicbrainz.org/recording/14e268f3-118f-41f8-b736-d2982570740a"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "70c6c7e5-c878-4d28-a07a-36bff1feecf5", 
+            "attribute-list": [
+                "oud"
+            ], 
+            "type": "instrument", 
+            "name": "Bayram Co\u015fkuner"
+        }, 
+        {
+            "mbid": "ac61be44-cbd3-4f8e-9533-1642439fd34c", 
+            "attribute-list": [
+                "violin"
+            ], 
+            "type": "instrument", 
+            "name": "Turay Dinleyen"
+        }, 
+        {
+            "mbid": "b359fdcb-e48a-414e-bfb4-539d54a5bb85", 
+            "attribute-list": [
+                "kanun"
+            ], 
+            "type": "instrument", 
+            "name": "Tahir Aydo\u011fdu"
+        }
+    ], 
+    "instrumentation_voicing": "Trio instrumental", 
+    "works": [
+        {
+            "mbid": "10cddd5e-6bd8-4c69-8561-0d0541f46f34", 
+            "title": "H\u00fczzam Saz Semaisi"
+        }
+    ]
+}

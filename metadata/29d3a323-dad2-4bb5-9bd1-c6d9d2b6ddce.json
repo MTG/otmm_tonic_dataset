@@ -1,0 +1,65 @@
+{
+    "usul": [
+        {
+            "attribute_key": "evfer", 
+            "mb_attribute": "Evfer", 
+            "source": "http://musicbrainz.org/work/5242bca8-2eba-42ca-822d-89b62d170409"
+        }
+    ], 
+    "form": [
+        {
+            "attribute_key": "durak", 
+            "mb_attribute": "Durak", 
+            "source": "http://musicbrainz.org/work/5242bca8-2eba-42ca-822d-89b62d170409"
+        }, 
+        {
+            "attribute_key": "durak", 
+            "mb_tag": "durak", 
+            "source": "http://musicbrainz.org/recording/29d3a323-dad2-4bb5-9bd1-c6d9d2b6ddce"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "3486f24f-48db-481e-9b65-3814bc215292", 
+            "title": "T\u00fcrk Dini Musikisi"
+        }
+    ], 
+    "title": "Suz-I Dil Durak", 
+    "url": "http://musicbrainz.org/recording/29d3a323-dad2-4bb5-9bd1-c6d9d2b6ddce", 
+    "artist_credits": [
+        {
+            "mbid": "7ef61959-65f2-41ab-9ae2-ba890812b7b4", 
+            "name": "Bekir S\u0131dk\u0131 Sezgin"
+        }
+    ], 
+    "mbid": "29d3a323-dad2-4bb5-9bd1-c6d9d2b6ddce", 
+    "makam": [
+        {
+            "attribute_key": "suzidil", 
+            "mb_attribute": "Suzidil", 
+            "source": "http://musicbrainz.org/work/5242bca8-2eba-42ca-822d-89b62d170409"
+        }, 
+        {
+            "attribute_key": "suzidil", 
+            "mb_tag": "suzidil", 
+            "source": "http://musicbrainz.org/recording/29d3a323-dad2-4bb5-9bd1-c6d9d2b6ddce"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "7ef61959-65f2-41ab-9ae2-ba890812b7b4", 
+            "attribute-list": [
+                "solo"
+            ], 
+            "type": "vocal", 
+            "name": "Bekir S\u0131dk\u0131 Sezgin"
+        }
+    ], 
+    "instrumentation_voicing": "Solo vocal without accompaniment", 
+    "works": [
+        {
+            "mbid": "5242bca8-2eba-42ca-822d-89b62d170409", 
+            "title": "Aya\u011f\u0131n Tozunu S\u00fcrme \u00c7ekelden G\u00f6z\u00fcme"
+        }
+    ]
+}

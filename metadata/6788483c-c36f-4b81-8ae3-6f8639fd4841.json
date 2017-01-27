@@ -1,0 +1,70 @@
+{
+    "usul": [
+        {
+            "attribute_key": "aksaksemai", 
+            "mb_attribute": "Aksaksemai", 
+            "source": "http://musicbrainz.org/work/9bc17784-0c14-456d-8a59-f15e2c95b2d0"
+        }, 
+        {
+            "attribute_key": "aksaksemai", 
+            "mb_tag": "aksaksemai", 
+            "source": "http://musicbrainz.org/recording/6788483c-c36f-4b81-8ae3-6f8639fd4841"
+        }
+    ], 
+    "form": [
+        {
+            "attribute_key": "sazsemaisi", 
+            "mb_attribute": "Sazsemaisi", 
+            "source": "http://musicbrainz.org/work/9bc17784-0c14-456d-8a59-f15e2c95b2d0"
+        }, 
+        {
+            "attribute_key": "sazsemaisi", 
+            "mb_tag": "sazsemaisi", 
+            "source": "http://musicbrainz.org/recording/6788483c-c36f-4b81-8ae3-6f8639fd4841"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "9d63cb14-4233-48ea-a4c9-e3c60d880786", 
+            "title": "Tanbur"
+        }
+    ], 
+    "title": "Nihavend Saz Semaisi", 
+    "url": "http://musicbrainz.org/recording/6788483c-c36f-4b81-8ae3-6f8639fd4841", 
+    "artist_credits": [
+        {
+            "mbid": "ef7f9168-eec5-4ecd-a142-132ef3355fc1", 
+            "name": "Erc\u00fcmend Batanay"
+        }
+    ], 
+    "mbid": "6788483c-c36f-4b81-8ae3-6f8639fd4841", 
+    "makam": [
+        {
+            "attribute_key": "nihavent", 
+            "mb_attribute": "Nihavent", 
+            "source": "http://musicbrainz.org/work/9bc17784-0c14-456d-8a59-f15e2c95b2d0"
+        }, 
+        {
+            "attribute_key": "nihavent", 
+            "mb_tag": "nihavent", 
+            "source": "http://musicbrainz.org/recording/6788483c-c36f-4b81-8ae3-6f8639fd4841"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "ef7f9168-eec5-4ecd-a142-132ef3355fc1", 
+            "attribute-list": [
+                "tanbur"
+            ], 
+            "type": "instrument", 
+            "name": "Erc\u00fcmend Batanay"
+        }
+    ], 
+    "instrumentation_voicing": "Solo instrumental", 
+    "works": [
+        {
+            "mbid": "9bc17784-0c14-456d-8a59-f15e2c95b2d0", 
+            "title": "Nihavent Sazsemaisi"
+        }
+    ]
+}

@@ -1,0 +1,72 @@
+{
+    "usul": [
+        {
+            "attribute_key": "muhammes", 
+            "mb_attribute": "Muhammes", 
+            "source": "http://musicbrainz.org/work/726a739d-3e0e-4d15-be3a-7ff200ab8050"
+        }, 
+        {
+            "attribute_key": "muhammes", 
+            "mb_tag": "muhammes", 
+            "source": "http://musicbrainz.org/recording/a779a85d-f714-41bf-9b70-eb612852bfd8"
+        }
+    ], 
+    "form": [
+        {
+            "attribute_key": "beste", 
+            "mb_attribute": "Beste", 
+            "source": "http://musicbrainz.org/work/726a739d-3e0e-4d15-be3a-7ff200ab8050"
+        }, 
+        {
+            "attribute_key": "beste", 
+            "mb_tag": "beste", 
+            "source": "http://musicbrainz.org/recording/a779a85d-f714-41bf-9b70-eb612852bfd8"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "e8e5fd78-af90-40e2-a5bd-de5217f899ff", 
+            "title": "Bekir S\u0131dk\u0131 Sezgin 25"
+        }
+    ], 
+    "title": "Ruz u \u015eeb Ah Eylemekten \u00c7ak \u00c7ak Oldum Yeter", 
+    "url": "http://musicbrainz.org/recording/a779a85d-f714-41bf-9b70-eb612852bfd8", 
+    "artist_credits": [
+        {
+            "mbid": "7ef61959-65f2-41ab-9ae2-ba890812b7b4", 
+            "name": "Bekir S\u0131dk\u0131 Sezgin"
+        }
+    ], 
+    "mbid": "a779a85d-f714-41bf-9b70-eb612852bfd8", 
+    "makam": [
+        {
+            "attribute_key": "suzinak", 
+            "mb_attribute": "Suzinak", 
+            "source": "http://musicbrainz.org/work/726a739d-3e0e-4d15-be3a-7ff200ab8050"
+        }, 
+        {
+            "attribute_key": "suzinak", 
+            "mb_tag": "suzinak", 
+            "source": "http://musicbrainz.org/recording/a779a85d-f714-41bf-9b70-eb612852bfd8"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
+            "type": "performing orchestra", 
+            "name": "[unknown]"
+        }, 
+        {
+            "mbid": "7ef61959-65f2-41ab-9ae2-ba890812b7b4", 
+            "type": "vocal", 
+            "name": "Bekir S\u0131dk\u0131 Sezgin"
+        }
+    ], 
+    "instrumentation_voicing": "Solo vocal with accompaniment", 
+    "works": [
+        {
+            "mbid": "726a739d-3e0e-4d15-be3a-7ff200ab8050", 
+            "title": "R\u00fcz \u00fc \u015eeb Ah Eylemekten"
+        }
+    ]
+}

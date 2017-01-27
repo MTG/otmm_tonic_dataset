@@ -1,0 +1,70 @@
+{
+    "usul": [
+        {
+            "attribute_key": "zencir", 
+            "mb_attribute": "Zencir", 
+            "source": "http://musicbrainz.org/work/d1bb61c1-a779-4515-81f6-cda83473374a"
+        }, 
+        {
+            "attribute_key": "cifteduyek", 
+            "mb_tag": "\u00e7ifted\u00fcyek", 
+            "source": "http://musicbrainz.org/recording/29d61834-995b-4a7a-918f-dece85cd76c2"
+        }
+    ], 
+    "form": [
+        {
+            "attribute_key": "pesrev", 
+            "mb_attribute": "Pe\u015frev", 
+            "source": "http://musicbrainz.org/work/d1bb61c1-a779-4515-81f6-cda83473374a"
+        }, 
+        {
+            "attribute_key": "pesrev", 
+            "mb_tag": "pe\u015frev", 
+            "source": "http://musicbrainz.org/recording/29d61834-995b-4a7a-918f-dece85cd76c2"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "8d71678a-4324-4754-9520-af5394356891", 
+            "title": "Turkish Music Makam Guide"
+        }
+    ], 
+    "title": "\u015eehnaz Pe\u015frev", 
+    "url": "http://musicbrainz.org/recording/29d61834-995b-4a7a-918f-dece85cd76c2", 
+    "artist_credits": [
+        {
+            "mbid": "9b6e98f8-b695-45da-8c9c-68d4bab460fd", 
+            "name": "Murat Aydemir"
+        }
+    ], 
+    "mbid": "29d61834-995b-4a7a-918f-dece85cd76c2", 
+    "makam": [
+        {
+            "attribute_key": "sehnaz", 
+            "mb_attribute": "\u015eehnaz", 
+            "source": "http://musicbrainz.org/work/d1bb61c1-a779-4515-81f6-cda83473374a"
+        }, 
+        {
+            "attribute_key": "sehnaz", 
+            "mb_tag": "\u015fehnaz", 
+            "source": "http://musicbrainz.org/recording/29d61834-995b-4a7a-918f-dece85cd76c2"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "9b6e98f8-b695-45da-8c9c-68d4bab460fd", 
+            "attribute-list": [
+                "tanbur"
+            ], 
+            "type": "instrument", 
+            "name": "Murat Aydemir"
+        }
+    ], 
+    "instrumentation_voicing": "Solo instrumental", 
+    "works": [
+        {
+            "mbid": "d1bb61c1-a779-4515-81f6-cda83473374a", 
+            "title": "\u015eehnaz Pe\u015frev"
+        }
+    ]
+}

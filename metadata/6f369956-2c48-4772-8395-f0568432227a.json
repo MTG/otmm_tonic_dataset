@@ -1,0 +1,70 @@
+{
+    "usul": [
+        {
+            "attribute_key": "duyek", 
+            "mb_attribute": "D\u00fcyek", 
+            "source": "http://musicbrainz.org/work/56993a45-6426-4882-922d-7e15612e003c"
+        }, 
+        {
+            "attribute_key": "duyek", 
+            "mb_tag": "d\u00fcyek", 
+            "source": "http://musicbrainz.org/recording/6f369956-2c48-4772-8395-f0568432227a"
+        }
+    ], 
+    "form": [
+        {
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
+            "source": "http://musicbrainz.org/work/56993a45-6426-4882-922d-7e15612e003c"
+        }, 
+        {
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
+            "source": "http://musicbrainz.org/recording/6f369956-2c48-4772-8395-f0568432227a"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "d5466fa9-0ea2-411c-8f2b-a5034f96c80e", 
+            "title": "T\u00fcrk M\u00fczi\u011fi \u00dcstatlar\u0131 \u0130le Enstr\u00fcmantal Alt\u0131n \u015eark\u0131lar 2"
+        }
+    ], 
+    "title": "Pi\u015fman Olur Da Bir G\u00fcn", 
+    "url": "http://musicbrainz.org/recording/6f369956-2c48-4772-8395-f0568432227a", 
+    "artist_credits": [
+        {
+            "mbid": "e3eb44b9-f298-4994-8083-797aaba3ea9c", 
+            "name": "Ergin K\u0131z\u0131lay"
+        }
+    ], 
+    "mbid": "6f369956-2c48-4772-8395-f0568432227a", 
+    "makam": [
+        {
+            "attribute_key": "huzzam", 
+            "mb_attribute": "H\u00fczzam", 
+            "source": "http://musicbrainz.org/work/56993a45-6426-4882-922d-7e15612e003c"
+        }, 
+        {
+            "attribute_key": "huzzam", 
+            "mb_tag": "h\u00fczzam", 
+            "source": "http://musicbrainz.org/recording/6f369956-2c48-4772-8395-f0568432227a"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "e3eb44b9-f298-4994-8083-797aaba3ea9c", 
+            "attribute-list": [
+                "oud"
+            ], 
+            "type": "instrument", 
+            "name": "Ergin K\u0131z\u0131lay"
+        }
+    ], 
+    "instrumentation_voicing": "Solo instrumental", 
+    "works": [
+        {
+            "mbid": "56993a45-6426-4882-922d-7e15612e003c", 
+            "title": "Pi\u015fman Olur Da Bir G\u00fcn"
+        }
+    ]
+}

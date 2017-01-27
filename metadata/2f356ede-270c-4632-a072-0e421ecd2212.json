@@ -1,0 +1,77 @@
+{
+    "usul": [
+        {
+            "attribute_key": "aksaksemai", 
+            "mb_attribute": "Aksaksemai", 
+            "source": "http://musicbrainz.org/work/bbdb01a7-a8d9-4571-861c-3de1b671a498"
+        }
+    ], 
+    "form": [
+        {
+            "attribute_key": "sazsemaisi", 
+            "mb_attribute": "Sazsemaisi", 
+            "source": "http://musicbrainz.org/work/bbdb01a7-a8d9-4571-861c-3de1b671a498"
+        }, 
+        {
+            "attribute_key": "sazsemaisi", 
+            "mb_tag": "sazsemaisi", 
+            "source": "http://musicbrainz.org/recording/2f356ede-270c-4632-a072-0e421ecd2212"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "a401a3ef-3869-450b-9ae0-a32036f2b2bd", 
+            "title": "A\u015fk"
+        }
+    ], 
+    "title": "B\u00fbselik Saz Sem\u00e2\u00eesi", 
+    "url": "http://musicbrainz.org/recording/2f356ede-270c-4632-a072-0e421ecd2212", 
+    "artist_credits": [
+        {
+            "mbid": "215fd94e-6a6e-4ab3-98d8-7e81c873dd26", 
+            "name": "Aka G\u00fcnd\u00fcz Kutbay"
+        }, 
+        {
+            "mbid": "ab923148-30d0-4c94-b5e3-ae7780fa0e73", 
+            "name": "Mutlu Torun"
+        }
+    ], 
+    "mbid": "2f356ede-270c-4632-a072-0e421ecd2212", 
+    "makam": [
+        {
+            "attribute_key": "buselik", 
+            "mb_attribute": "Buselik", 
+            "source": "http://musicbrainz.org/work/bbdb01a7-a8d9-4571-861c-3de1b671a498"
+        }, 
+        {
+            "attribute_key": "buselik", 
+            "mb_tag": "buselik", 
+            "source": "http://musicbrainz.org/recording/2f356ede-270c-4632-a072-0e421ecd2212"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "215fd94e-6a6e-4ab3-98d8-7e81c873dd26", 
+            "attribute-list": [
+                "ney"
+            ], 
+            "type": "instrument", 
+            "name": "Aka G\u00fcnd\u00fcz Kutbay"
+        }, 
+        {
+            "mbid": "ab923148-30d0-4c94-b5e3-ae7780fa0e73", 
+            "attribute-list": [
+                "oud"
+            ], 
+            "type": "instrument", 
+            "name": "Mutlu Torun"
+        }
+    ], 
+    "instrumentation_voicing": "Duo instrumental", 
+    "works": [
+        {
+            "mbid": "bbdb01a7-a8d9-4571-861c-3de1b671a498", 
+            "title": "B\u00fbselik Saz Sem\u00e2\u00eesi"
+        }
+    ]
+}

@@ -1,0 +1,71 @@
+{
+    "usul": [], 
+    "form": [
+        {
+            "attribute_key": "pesrev", 
+            "mb_attribute": "Pe\u015frev", 
+            "source": "http://musicbrainz.org/work/07b72770-37f4-4893-90ce-2d40f4c10b6d"
+        }, 
+        {
+            "attribute_key": "pesrev", 
+            "mb_tag": "pe\u015frev", 
+            "source": "http://musicbrainz.org/recording/9a8f768c-a238-4626-aca5-0018b4fde79e"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "5a5f124a-766c-441c-bbf3-410a11b96c09", 
+            "title": "Ahenk 2"
+        }
+    ], 
+    "title": "Arazb\u00e2r Pe\u015frevi", 
+    "url": "http://musicbrainz.org/recording/9a8f768c-a238-4626-aca5-0018b4fde79e", 
+    "artist_credits": [
+        {
+            "mbid": "9b6e98f8-b695-45da-8c9c-68d4bab460fd", 
+            "name": "Murat Aydemir"
+        }, 
+        {
+            "mbid": "b80cd1ab-a00c-4f98-89c1-a798deb2d5c2", 
+            "name": "Derya T\u00fcrkan"
+        }
+    ], 
+    "mbid": "9a8f768c-a238-4626-aca5-0018b4fde79e", 
+    "makam": [
+        {
+            "attribute_key": "arazbar", 
+            "mb_attribute": "Arazbar", 
+            "source": "http://musicbrainz.org/work/07b72770-37f4-4893-90ce-2d40f4c10b6d"
+        }, 
+        {
+            "attribute_key": "arazbar", 
+            "mb_tag": "arazbar", 
+            "source": "http://musicbrainz.org/recording/9a8f768c-a238-4626-aca5-0018b4fde79e"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "9b6e98f8-b695-45da-8c9c-68d4bab460fd", 
+            "attribute-list": [
+                "tanbur"
+            ], 
+            "type": "instrument", 
+            "name": "Murat Aydemir"
+        }, 
+        {
+            "mbid": "b80cd1ab-a00c-4f98-89c1-a798deb2d5c2", 
+            "attribute-list": [
+                "classical kemen\u00e7e"
+            ], 
+            "type": "instrument", 
+            "name": "Derya T\u00fcrkan"
+        }
+    ], 
+    "instrumentation_voicing": "Duo instrumental", 
+    "works": [
+        {
+            "mbid": "07b72770-37f4-4893-90ce-2d40f4c10b6d", 
+            "title": "Arazb\u00e2r Pe\u015frevi"
+        }
+    ]
+}

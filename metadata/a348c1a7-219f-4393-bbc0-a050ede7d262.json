@@ -1,0 +1,67 @@
+{
+    "usul": [
+        {
+            "attribute_key": "duyek", 
+            "mb_attribute": "D\u00fcyek", 
+            "source": "http://musicbrainz.org/work/3e969504-0931-4407-8b74-96a61fc9e460"
+        }, 
+        {
+            "attribute_key": "duyek", 
+            "mb_tag": "d\u00fcyek", 
+            "source": "http://musicbrainz.org/recording/a348c1a7-219f-4393-bbc0-a050ede7d262"
+        }
+    ], 
+    "form": [
+        {
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
+            "source": "http://musicbrainz.org/work/3e969504-0931-4407-8b74-96a61fc9e460"
+        }, 
+        {
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
+            "source": "http://musicbrainz.org/recording/a348c1a7-219f-4393-bbc0-a050ede7d262"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "83f3321c-8fec-4736-ae45-aa1d2edc9b8b", 
+            "title": "T\u00fcrk Sanat M\u00fczi\u011fi Besteleri Saz Eserleri 2"
+        }
+    ], 
+    "title": "\u00d6mr\u00fcm\u00fcz\u00fcn Son Demi", 
+    "url": "http://musicbrainz.org/recording/a348c1a7-219f-4393-bbc0-a050ede7d262", 
+    "artist_credits": [
+        {
+            "mbid": "ef074ab6-a2a8-42f7-a454-068265023697", 
+            "name": "Aziz T\u00fcrk Sanat M\u00fczi\u011fi Grubu"
+        }
+    ], 
+    "mbid": "a348c1a7-219f-4393-bbc0-a050ede7d262", 
+    "makam": [
+        {
+            "attribute_key": "huzzam", 
+            "mb_attribute": "H\u00fczzam", 
+            "source": "http://musicbrainz.org/work/3e969504-0931-4407-8b74-96a61fc9e460"
+        }, 
+        {
+            "attribute_key": "huzzam", 
+            "mb_tag": "h\u00fczzam", 
+            "source": "http://musicbrainz.org/recording/a348c1a7-219f-4393-bbc0-a050ede7d262"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "ef074ab6-a2a8-42f7-a454-068265023697", 
+            "type": "performing orchestra", 
+            "name": "Aziz T\u00fcrk Sanat M\u00fczi\u011fi Grubu"
+        }
+    ], 
+    "instrumentation_voicing": "Ensemble instrumental", 
+    "works": [
+        {
+            "mbid": "3e969504-0931-4407-8b74-96a61fc9e460", 
+            "title": "\u00d6mr\u00fcm\u00fcz\u00fcn Son Demi"
+        }
+    ]
+}

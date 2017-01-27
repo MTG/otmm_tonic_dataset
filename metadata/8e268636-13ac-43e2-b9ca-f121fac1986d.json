@@ -1,0 +1,72 @@
+{
+    "usul": [
+        {
+            "attribute_key": "aksak", 
+            "mb_attribute": "Aksak", 
+            "source": "http://musicbrainz.org/work/86ec2ed8-5c1d-43ce-9113-0b0ccde04746"
+        }, 
+        {
+            "attribute_key": "aksak", 
+            "mb_tag": "aksak", 
+            "source": "http://musicbrainz.org/recording/8e268636-13ac-43e2-b9ca-f121fac1986d"
+        }
+    ], 
+    "form": [
+        {
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
+            "source": "http://musicbrainz.org/work/86ec2ed8-5c1d-43ce-9113-0b0ccde04746"
+        }, 
+        {
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
+            "source": "http://musicbrainz.org/recording/8e268636-13ac-43e2-b9ca-f121fac1986d"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "3bd738e1-2251-47d3-ae48-c5cd1fb1577f", 
+            "title": "Klasikler - 2"
+        }
+    ], 
+    "title": "Harab Oldu Yerim (K\u00fcrdilihicazkar \u015eark\u0131)", 
+    "url": "http://musicbrainz.org/recording/8e268636-13ac-43e2-b9ca-f121fac1986d", 
+    "artist_credits": [
+        {
+            "mbid": "7ef61959-65f2-41ab-9ae2-ba890812b7b4", 
+            "name": "Bekir S\u0131dk\u0131 Sezgin"
+        }
+    ], 
+    "mbid": "8e268636-13ac-43e2-b9ca-f121fac1986d", 
+    "makam": [
+        {
+            "attribute_key": "kurdilihicazkar", 
+            "mb_attribute": "K\u00fcrdilihicazkar", 
+            "source": "http://musicbrainz.org/work/86ec2ed8-5c1d-43ce-9113-0b0ccde04746"
+        }, 
+        {
+            "attribute_key": "kurdilihicazkar", 
+            "mb_tag": "k\u00fcrdilihicazkar", 
+            "source": "http://musicbrainz.org/recording/8e268636-13ac-43e2-b9ca-f121fac1986d"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
+            "type": "performing orchestra", 
+            "name": "[unknown]"
+        }, 
+        {
+            "mbid": "7ef61959-65f2-41ab-9ae2-ba890812b7b4", 
+            "type": "vocal", 
+            "name": "Bekir S\u0131dk\u0131 Sezgin"
+        }
+    ], 
+    "instrumentation_voicing": "Solo vocal with accompaniment", 
+    "works": [
+        {
+            "mbid": "86ec2ed8-5c1d-43ce-9113-0b0ccde04746", 
+            "title": "Harab Oldu Yerim Yurdum Ota\u011f\u0131m"
+        }
+    ]
+}

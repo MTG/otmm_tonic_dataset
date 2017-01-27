@@ -1,0 +1,82 @@
+{
+    "usul": [
+        {
+            "attribute_key": "agirduyek", 
+            "mb_attribute": "A\u011f\u0131rd\u00fcyek", 
+            "source": "http://musicbrainz.org/work/72222f36-76f1-4663-a5bf-d16f7af09dfa"
+        }, 
+        {
+            "attribute_key": "agirduyek", 
+            "mb_tag": "a\u011f\u0131rd\u00fcyek", 
+            "source": "http://musicbrainz.org/recording/feb8c6a4-f5b0-4888-b80a-72faccf6cdb1"
+        }
+    ], 
+    "form": [
+        {
+            "attribute_key": "pesrev", 
+            "mb_attribute": "Pe\u015frev", 
+            "source": "http://musicbrainz.org/work/72222f36-76f1-4663-a5bf-d16f7af09dfa"
+        }, 
+        {
+            "attribute_key": "pesrev", 
+            "mb_tag": "pe\u015frev", 
+            "source": "http://musicbrainz.org/recording/feb8c6a4-f5b0-4888-b80a-72faccf6cdb1"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "8e169015-211d-4d7e-a2a6-e33d7e57c17a", 
+            "title": "Be\u015fibiryerde"
+        }
+    ], 
+    "title": "Suz-idilara Pe\u015frevi", 
+    "url": "http://musicbrainz.org/recording/feb8c6a4-f5b0-4888-b80a-72faccf6cdb1", 
+    "artist_credits": [
+        {
+            "mbid": "eb150720-40d5-4da9-8c8b-b149601c73e5", 
+            "name": "Necdet Ya\u015far"
+        }, 
+        {
+            "mbid": "f7e5d6a4-7611-4fb9-a766-f7a5124963a5", 
+            "name": "\u00d6zer \u00d6zel"
+        }
+    ], 
+    "mbid": "feb8c6a4-f5b0-4888-b80a-72faccf6cdb1", 
+    "makam": [
+        {
+            "attribute_key": "suzidilara", 
+            "mb_attribute": "Suzidilara", 
+            "source": "http://musicbrainz.org/work/72222f36-76f1-4663-a5bf-d16f7af09dfa"
+        }, 
+        {
+            "attribute_key": "suzidilara", 
+            "mb_tag": "suzidilara", 
+            "source": "http://musicbrainz.org/recording/feb8c6a4-f5b0-4888-b80a-72faccf6cdb1"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "eb150720-40d5-4da9-8c8b-b149601c73e5", 
+            "attribute-list": [
+                "tanbur"
+            ], 
+            "type": "instrument", 
+            "name": "Necdet Ya\u015far"
+        }, 
+        {
+            "mbid": "f7e5d6a4-7611-4fb9-a766-f7a5124963a5", 
+            "attribute-list": [
+                "tanbur"
+            ], 
+            "type": "instrument", 
+            "name": "\u00d6zer \u00d6zel"
+        }
+    ], 
+    "instrumentation_voicing": "Duo instrumental", 
+    "works": [
+        {
+            "mbid": "72222f36-76f1-4663-a5bf-d16f7af09dfa", 
+            "title": "Suzidilara Pe\u015frev"
+        }
+    ]
+}

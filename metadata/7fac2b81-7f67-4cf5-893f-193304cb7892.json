@@ -1,0 +1,91 @@
+{
+    "usul": [
+        {
+            "attribute_key": "yuruksemai", 
+            "mb_attribute": "Y\u00fcr\u00fcksemai", 
+            "source": "http://musicbrainz.org/work/81c55651-85b2-4d6d-9a7a-78b2a3347f94"
+        }, 
+        {
+            "attribute_key": "yuruksemai", 
+            "mb_tag": "y\u00fcr\u00fcksemai", 
+            "source": "http://musicbrainz.org/recording/7fac2b81-7f67-4cf5-893f-193304cb7892"
+        }
+    ], 
+    "form": [
+        {
+            "attribute_key": "yuruksemai", 
+            "mb_attribute": "Y\u00fcr\u00fcksemai", 
+            "source": "http://musicbrainz.org/work/81c55651-85b2-4d6d-9a7a-78b2a3347f94"
+        }, 
+        {
+            "attribute_key": "yuruksemai", 
+            "mb_tag": "y\u00fcr\u00fcksemai", 
+            "source": "http://musicbrainz.org/recording/7fac2b81-7f67-4cf5-893f-193304cb7892"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "ea654a3e-6e4f-4c2c-a5d3-f8ecb7af2d3e", 
+            "title": "Musique Classique Ottomane - Makam"
+        }
+    ], 
+    "title": "Sultan-\u0131-Irak / Y\u00fcr\u00fcksemai", 
+    "url": "http://musicbrainz.org/recording/7fac2b81-7f67-4cf5-893f-193304cb7892", 
+    "artist_credits": [
+        {
+            "mbid": "61d8e82a-8ff3-4675-ac31-df67a14dd772", 
+            "name": "Kani Karaca"
+        }, 
+        {
+            "mbid": "86299acc-2dd4-49d2-b20e-d1707c699d62", 
+            "name": "Kudsi Erguner"
+        }, 
+        {
+            "mbid": "215fd94e-6a6e-4ab3-98d8-7e81c873dd26", 
+            "name": "Aka G\u00fcnd\u00fcz Kutbay"
+        }
+    ], 
+    "mbid": "7fac2b81-7f67-4cf5-893f-193304cb7892", 
+    "makam": [
+        {
+            "attribute_key": "sultaniirak", 
+            "mb_attribute": "Sultani Irak", 
+            "source": "http://musicbrainz.org/work/81c55651-85b2-4d6d-9a7a-78b2a3347f94"
+        }, 
+        {
+            "attribute_key": "sultaniirak", 
+            "mb_tag": "sultan-\u0131-arak", 
+            "source": "http://musicbrainz.org/recording/7fac2b81-7f67-4cf5-893f-193304cb7892"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "215fd94e-6a6e-4ab3-98d8-7e81c873dd26", 
+            "attribute-list": [
+                "ney"
+            ], 
+            "type": "instrument", 
+            "name": "Aka G\u00fcnd\u00fcz Kutbay"
+        }, 
+        {
+            "mbid": "61d8e82a-8ff3-4675-ac31-df67a14dd772", 
+            "type": "vocal", 
+            "name": "Kani Karaca"
+        }, 
+        {
+            "mbid": "86299acc-2dd4-49d2-b20e-d1707c699d62", 
+            "attribute-list": [
+                "ney"
+            ], 
+            "type": "instrument", 
+            "name": "Kudsi Erguner"
+        }
+    ], 
+    "instrumentation_voicing": "Solo vocal with accompaniment", 
+    "works": [
+        {
+            "mbid": "81c55651-85b2-4d6d-9a7a-78b2a3347f94", 
+            "title": "G\u00f6rse \u0130demez Dil Seni"
+        }
+    ]
+}

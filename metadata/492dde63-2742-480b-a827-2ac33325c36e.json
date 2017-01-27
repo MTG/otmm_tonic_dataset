@@ -1,0 +1,67 @@
+{
+    "usul": [
+        {
+            "attribute_key": "aksak", 
+            "mb_attribute": "Aksak", 
+            "source": "http://musicbrainz.org/work/b12ecddc-6156-43ab-847d-8f1f82a3ca6c"
+        }, 
+        {
+            "attribute_key": "aksak", 
+            "mb_tag": "aksak", 
+            "source": "http://musicbrainz.org/recording/492dde63-2742-480b-a827-2ac33325c36e"
+        }
+    ], 
+    "form": [
+        {
+            "attribute_key": "turku", 
+            "mb_attribute": "T\u00fcrk\u00fc", 
+            "source": "http://musicbrainz.org/work/b12ecddc-6156-43ab-847d-8f1f82a3ca6c"
+        }, 
+        {
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
+            "source": "http://musicbrainz.org/recording/492dde63-2742-480b-a827-2ac33325c36e"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "66122020-7d22-4fc6-89f2-9dd78b1a2c74", 
+            "title": "Fasl-\u0131 \u015eahane Enstrumantal, Volume 2"
+        }
+    ], 
+    "title": "Yan\u0131yor mu Ye\u015fil K\u00f6\u015fk\u00fcn", 
+    "url": "http://musicbrainz.org/recording/492dde63-2742-480b-a827-2ac33325c36e", 
+    "artist_credits": [
+        {
+            "mbid": "ef074ab6-a2a8-42f7-a454-068265023697", 
+            "name": "Aziz T\u00fcrk Sanat M\u00fczi\u011fi Grubu"
+        }
+    ], 
+    "mbid": "492dde63-2742-480b-a827-2ac33325c36e", 
+    "makam": [
+        {
+            "attribute_key": "huzzam", 
+            "mb_attribute": "H\u00fczzam", 
+            "source": "http://musicbrainz.org/work/b12ecddc-6156-43ab-847d-8f1f82a3ca6c"
+        }, 
+        {
+            "attribute_key": "huzzam", 
+            "mb_tag": "h\u00fczzam", 
+            "source": "http://musicbrainz.org/recording/492dde63-2742-480b-a827-2ac33325c36e"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
+            "type": "performing orchestra", 
+            "name": "[unknown]"
+        }
+    ], 
+    "instrumentation_voicing": "Ensemble instrumental", 
+    "works": [
+        {
+            "mbid": "b12ecddc-6156-43ab-847d-8f1f82a3ca6c", 
+            "title": "Yan\u0131yor Mu Ye\u015fil K\u00f6\u015fk\u00fcn"
+        }
+    ]
+}

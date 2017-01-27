@@ -1,0 +1,70 @@
+{
+    "usul": [
+        {
+            "attribute_key": "devrikebir", 
+            "mb_attribute": "Devr-i Kebir", 
+            "source": "http://musicbrainz.org/work/35de9f7a-fbdf-4f59-80f5-82aee2ab7d78"
+        }, 
+        {
+            "attribute_key": "devrikebir", 
+            "mb_tag": "devr-i kebir", 
+            "source": "http://musicbrainz.org/recording/11f17e9b-fe7b-4d7f-ad75-da1545b97e05"
+        }
+    ], 
+    "form": [
+        {
+            "attribute_key": "pesrev", 
+            "mb_attribute": "Pe\u015frev", 
+            "source": "http://musicbrainz.org/work/35de9f7a-fbdf-4f59-80f5-82aee2ab7d78"
+        }, 
+        {
+            "attribute_key": "pesrev", 
+            "mb_tag": "pe\u015frev", 
+            "source": "http://musicbrainz.org/recording/11f17e9b-fe7b-4d7f-ad75-da1545b97e05"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "8d71678a-4324-4754-9520-af5394356891", 
+            "title": "Turkish Music Makam Guide"
+        }
+    ], 
+    "title": "Muhayyerk\u00fcrdi Pe\u015frev", 
+    "url": "http://musicbrainz.org/recording/11f17e9b-fe7b-4d7f-ad75-da1545b97e05", 
+    "artist_credits": [
+        {
+            "mbid": "9b6e98f8-b695-45da-8c9c-68d4bab460fd", 
+            "name": "Murat Aydemir"
+        }
+    ], 
+    "mbid": "11f17e9b-fe7b-4d7f-ad75-da1545b97e05", 
+    "makam": [
+        {
+            "attribute_key": "muhayyerkurdi", 
+            "mb_attribute": "Muhayyerk\u00fcrdi", 
+            "source": "http://musicbrainz.org/work/35de9f7a-fbdf-4f59-80f5-82aee2ab7d78"
+        }, 
+        {
+            "attribute_key": "muhayyerkurdi", 
+            "mb_tag": "muhayyerk\u00fcrdi", 
+            "source": "http://musicbrainz.org/recording/11f17e9b-fe7b-4d7f-ad75-da1545b97e05"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "9b6e98f8-b695-45da-8c9c-68d4bab460fd", 
+            "attribute-list": [
+                "tanbur"
+            ], 
+            "type": "instrument", 
+            "name": "Murat Aydemir"
+        }
+    ], 
+    "instrumentation_voicing": "Solo instrumental", 
+    "works": [
+        {
+            "mbid": "35de9f7a-fbdf-4f59-80f5-82aee2ab7d78", 
+            "title": "Muhayyerk\u00fcrdi Pe\u015frev"
+        }
+    ]
+}

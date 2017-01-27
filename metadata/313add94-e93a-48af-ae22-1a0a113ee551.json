@@ -1,0 +1,73 @@
+{
+    "usul": [
+        {
+            "attribute_key": "3334", 
+            "mb_tag": "3+3+3+4", 
+            "source": "http://musicbrainz.org/recording/313add94-e93a-48af-ae22-1a0a113ee551"
+        }
+    ], 
+    "form": [
+        {
+            "attribute_key": "turku", 
+            "mb_attribute": "T\u00fcrk\u00fc", 
+            "source": "http://musicbrainz.org/work/41378daf-ca99-3cc2-877c-9106d3899f8d"
+        }, 
+        {
+            "attribute_key": "turku", 
+            "mb_tag": "t\u00fcrk\u00fc", 
+            "source": "http://musicbrainz.org/recording/313add94-e93a-48af-ae22-1a0a113ee551"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "a747d19d-83ce-41ec-bf53-b6010c43dd68", 
+            "title": "T\u00fcrk M\u00fczi\u011fi \u00dcstatlar\u0131 \u0130le Enstr\u00fcmantal Alt\u0131n \u015eark\u0131lar 1"
+        }
+    ], 
+    "title": "K\u0131rm\u0131z\u0131 G\u00fcl Demet Demet", 
+    "url": "http://musicbrainz.org/recording/313add94-e93a-48af-ae22-1a0a113ee551", 
+    "artist_credits": [
+        {
+            "mbid": "e3eb44b9-f298-4994-8083-797aaba3ea9c", 
+            "name": "Ergin K\u0131z\u0131lay"
+        }
+    ], 
+    "mbid": "313add94-e93a-48af-ae22-1a0a113ee551", 
+    "makam": [
+        {
+            "attribute_key": "beyati", 
+            "mb_attribute": "Beyati", 
+            "source": "http://musicbrainz.org/work/41378daf-ca99-3cc2-877c-9106d3899f8d"
+        }, 
+        {
+            "attribute_key": "beyati", 
+            "mb_tag": "beyati", 
+            "source": "http://musicbrainz.org/recording/313add94-e93a-48af-ae22-1a0a113ee551"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
+            "attribute-list": [
+                "violin"
+            ], 
+            "type": "instrument", 
+            "name": "[unknown]"
+        }, 
+        {
+            "mbid": "e3eb44b9-f298-4994-8083-797aaba3ea9c", 
+            "attribute-list": [
+                "oud"
+            ], 
+            "type": "instrument", 
+            "name": "Ergin K\u0131z\u0131lay"
+        }
+    ], 
+    "instrumentation_voicing": "Duo instrumental", 
+    "works": [
+        {
+            "mbid": "41378daf-ca99-3cc2-877c-9106d3899f8d", 
+            "title": "K\u0131rm\u0131z\u0131 G\u00fcl Demet Demet"
+        }
+    ]
+}

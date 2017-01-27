@@ -1,0 +1,49 @@
+{
+    "instrumentation_voicing": "Solo instrumental", 
+    "form": [
+        {
+            "attribute_key": "taksim", 
+            "mb_tag": "taksim", 
+            "source": "http://musicbrainz.org/recording/f26980c0-251d-4bc0-a533-f9dc1b5382e4"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "a401a3ef-3869-450b-9ae0-a32036f2b2bd", 
+            "title": "A\u015fk"
+        }
+    ], 
+    "title": "Sab\u00e2 Taksim", 
+    "url": "http://musicbrainz.org/recording/f26980c0-251d-4bc0-a533-f9dc1b5382e4", 
+    "artist_credits": [
+        {
+            "mbid": "215fd94e-6a6e-4ab3-98d8-7e81c873dd26", 
+            "name": "Aka G\u00fcnd\u00fcz Kutbay"
+        }
+    ], 
+    "mbid": "f26980c0-251d-4bc0-a533-f9dc1b5382e4", 
+    "makam": [
+        {
+            "attribute_key": "saba", 
+            "mb_tag": "saba", 
+            "source": "http://musicbrainz.org/recording/f26980c0-251d-4bc0-a533-f9dc1b5382e4"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "215fd94e-6a6e-4ab3-98d8-7e81c873dd26", 
+            "attribute-list": [
+                "ney"
+            ], 
+            "type": "instrument", 
+            "name": "Aka G\u00fcnd\u00fcz Kutbay"
+        }
+    ], 
+    "usul": [
+        {
+            "attribute_key": "serbest", 
+            "mb_tag": "serbest", 
+            "source": "http://musicbrainz.org/recording/f26980c0-251d-4bc0-a533-f9dc1b5382e4"
+        }
+    ]
+}

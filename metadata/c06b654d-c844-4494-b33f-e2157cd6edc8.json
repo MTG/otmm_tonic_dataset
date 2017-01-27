@@ -1,0 +1,67 @@
+{
+    "usul": [
+        {
+            "attribute_key": "evfer", 
+            "mb_tag": "evfer", 
+            "source": "http://musicbrainz.org/recording/c06b654d-c844-4494-b33f-e2157cd6edc8"
+        }
+    ], 
+    "form": [
+        {
+            "attribute_key": "ayin_i_serif", 
+            "mb_attribute": "Ayin-i \u015eerif", 
+            "source": "http://musicbrainz.org/work/0fac8996-5ce1-4b31-beed-58bac23d2b35"
+        }, 
+        {
+            "attribute_key": "ayin_i_serif", 
+            "mb_tag": "ayin-i\u015ferif", 
+            "source": "http://musicbrainz.org/recording/c06b654d-c844-4494-b33f-e2157cd6edc8"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "430058da-7be0-48ec-abac-9b88b87e293f", 
+            "title": "Mevlevi Sesler"
+        }
+    ], 
+    "title": "4. Selam", 
+    "url": "http://musicbrainz.org/recording/c06b654d-c844-4494-b33f-e2157cd6edc8", 
+    "artist_credits": [
+        {
+            "mbid": "81081f45-a36e-4248-9d33-43d4a3445f6d", 
+            "name": "Dede Efendi"
+        }
+    ], 
+    "mbid": "c06b654d-c844-4494-b33f-e2157cd6edc8", 
+    "makam": [
+        {
+            "attribute_key": "saba", 
+            "mb_attribute": "Saba", 
+            "source": "http://musicbrainz.org/work/0fac8996-5ce1-4b31-beed-58bac23d2b35"
+        }, 
+        {
+            "attribute_key": "saba", 
+            "mb_tag": "saba", 
+            "source": "http://musicbrainz.org/recording/c06b654d-c844-4494-b33f-e2157cd6edc8"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "125d9569-09ea-463c-a7b2-87ca30b55be0", 
+            "type": "vocal", 
+            "name": "Mehmet Ak\u00e7a"
+        }, 
+        {
+            "mbid": "713ad8af-1c98-4569-a445-71f7b9395945", 
+            "type": "performing orchestra", 
+            "name": "Dede Efendi T\u00fcrk M\u00fczi\u011fi Toplulu\u011fu"
+        }
+    ], 
+    "instrumentation_voicing": "Solo vocal with accompaniment", 
+    "works": [
+        {
+            "mbid": "0fac8996-5ce1-4b31-beed-58bac23d2b35", 
+            "title": "Saba Ayin-i \u015eerif"
+        }
+    ]
+}

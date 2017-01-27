@@ -1,0 +1,70 @@
+{
+    "usul": [
+        {
+            "attribute_key": "muhammes", 
+            "mb_attribute": "Muhammes", 
+            "source": "http://musicbrainz.org/work/5617c02f-8c47-4fda-9c3c-70dd5a471291"
+        }, 
+        {
+            "attribute_key": "duyek", 
+            "mb_tag": "d\u00fcyek", 
+            "source": "http://musicbrainz.org/recording/5d4397f8-37ef-4340-99f5-d934af028c91"
+        }
+    ], 
+    "form": [
+        {
+            "attribute_key": "pesrev", 
+            "mb_attribute": "Pe\u015frev", 
+            "source": "http://musicbrainz.org/work/5617c02f-8c47-4fda-9c3c-70dd5a471291"
+        }, 
+        {
+            "attribute_key": "pesrev", 
+            "mb_tag": "pe\u015frev", 
+            "source": "http://musicbrainz.org/recording/5d4397f8-37ef-4340-99f5-d934af028c91"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "7bbf7973-95f1-4dc5-8ec4-76991bec87e9", 
+            "title": "T\u00fcrk M\u00fczi\u011fi Ustalar\u0131 - Kemen\u00e7e"
+        }
+    ], 
+    "title": "Rast Pe\u015frev", 
+    "url": "http://musicbrainz.org/recording/5d4397f8-37ef-4340-99f5-d934af028c91", 
+    "artist_credits": [
+        {
+            "mbid": "279adb4a-a274-4f81-b679-48a7f24e10f9", 
+            "name": "Anastas Efendi"
+        }
+    ], 
+    "mbid": "5d4397f8-37ef-4340-99f5-d934af028c91", 
+    "makam": [
+        {
+            "attribute_key": "rast", 
+            "mb_attribute": "Rast", 
+            "source": "http://musicbrainz.org/work/5617c02f-8c47-4fda-9c3c-70dd5a471291"
+        }, 
+        {
+            "attribute_key": "rast", 
+            "mb_tag": "rast", 
+            "source": "http://musicbrainz.org/recording/5d4397f8-37ef-4340-99f5-d934af028c91"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "279adb4a-a274-4f81-b679-48a7f24e10f9", 
+            "attribute-list": [
+                "classical kemen\u00e7e"
+            ], 
+            "type": "instrument", 
+            "name": "Anastas Efendi"
+        }
+    ], 
+    "instrumentation_voicing": "Solo instrumental", 
+    "works": [
+        {
+            "mbid": "5617c02f-8c47-4fda-9c3c-70dd5a471291", 
+            "title": "Rast Pe\u015frev"
+        }
+    ]
+}

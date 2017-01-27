@@ -1,0 +1,83 @@
+{
+    "usul": [
+        {
+            "attribute_key": "cenber", 
+            "mb_attribute": "\u00c7enber", 
+            "source": "http://musicbrainz.org/work/f13c1045-058a-4a1e-8b5c-5b782215e760"
+        }, 
+        {
+            "attribute_key": "cenber", 
+            "mb_tag": "\u00e7enber", 
+            "source": "http://musicbrainz.org/recording/05d756d3-d361-4300-b595-cdfb5ab049d0"
+        }
+    ], 
+    "form": [
+        {
+            "attribute_key": "kar_i_natik", 
+            "mb_attribute": "Kar-\u0131 Nat\u0131k", 
+            "source": "http://musicbrainz.org/work/f13c1045-058a-4a1e-8b5c-5b782215e760"
+        }, 
+        {
+            "attribute_key": "kar_i_natik", 
+            "mb_tag": "kar-\u0131 nat\u0131k", 
+            "source": "http://musicbrainz.org/recording/05d756d3-d361-4300-b595-cdfb5ab049d0"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "ea654a3e-6e4f-4c2c-a5d3-f8ecb7af2d3e", 
+            "title": "Musique Classique Ottomane - Makam"
+        }
+    ], 
+    "title": "Kar-\u0131 Nat\u0131k", 
+    "url": "http://musicbrainz.org/recording/05d756d3-d361-4300-b595-cdfb5ab049d0", 
+    "artist_credits": [
+        {
+            "mbid": "61d8e82a-8ff3-4675-ac31-df67a14dd772", 
+            "name": "Kani Karaca"
+        }
+    ], 
+    "mbid": "05d756d3-d361-4300-b595-cdfb5ab049d0", 
+    "makam": [
+        {
+            "attribute_key": "rast", 
+            "mb_attribute": "Rast", 
+            "source": "http://musicbrainz.org/work/f13c1045-058a-4a1e-8b5c-5b782215e760"
+        }, 
+        {
+            "attribute_key": "rast", 
+            "mb_tag": "rast", 
+            "source": "http://musicbrainz.org/recording/05d756d3-d361-4300-b595-cdfb5ab049d0"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "215fd94e-6a6e-4ab3-98d8-7e81c873dd26", 
+            "attribute-list": [
+                "ney"
+            ], 
+            "type": "instrument", 
+            "name": "Aka G\u00fcnd\u00fcz Kutbay"
+        }, 
+        {
+            "mbid": "61d8e82a-8ff3-4675-ac31-df67a14dd772", 
+            "type": "vocal", 
+            "name": "Kani Karaca"
+        }, 
+        {
+            "mbid": "86299acc-2dd4-49d2-b20e-d1707c699d62", 
+            "attribute-list": [
+                "ney"
+            ], 
+            "type": "instrument", 
+            "name": "Kudsi Erguner"
+        }
+    ], 
+    "instrumentation_voicing": "Solo vocal with accompaniment", 
+    "works": [
+        {
+            "mbid": "f13c1045-058a-4a1e-8b5c-5b782215e760", 
+            "title": "Geldim M\u00fcrg-i Zar \u0130\u00e7re O \u015euh-i Dilke\u015fe"
+        }
+    ]
+}

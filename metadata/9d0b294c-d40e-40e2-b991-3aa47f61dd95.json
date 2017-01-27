@@ -1,0 +1,65 @@
+{
+    "usul": [
+        {
+            "attribute_key": "aksaksemai", 
+            "mb_attribute": "Aksaksemai", 
+            "source": "http://musicbrainz.org/work/3cea4b37-3225-4bfc-9d8e-ffd990f56689"
+        }
+    ], 
+    "form": [
+        {
+            "attribute_key": "sazsemaisi", 
+            "mb_attribute": "Sazsemaisi", 
+            "source": "http://musicbrainz.org/work/3cea4b37-3225-4bfc-9d8e-ffd990f56689"
+        }, 
+        {
+            "attribute_key": "sazsemaisi", 
+            "mb_tag": "sazsemaisi", 
+            "source": "http://musicbrainz.org/recording/9d0b294c-d40e-40e2-b991-3aa47f61dd95"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "93d37c26-9732-4558-afc9-b2e5d3f58cb0", 
+            "title": "Ney ile \u0130cra Edilmi\u015f Saz Eserleri"
+        }
+    ], 
+    "title": "Hicaz-H\u00fcmayun Saz Semai (Mansur Ney)", 
+    "url": "http://musicbrainz.org/recording/9d0b294c-d40e-40e2-b991-3aa47f61dd95", 
+    "artist_credits": [
+        {
+            "mbid": "7a3adb1f-ebe6-4dbe-a0cc-c71f034d4091", 
+            "name": "Volkan Y\u0131lmaz"
+        }
+    ], 
+    "mbid": "9d0b294c-d40e-40e2-b991-3aa47f61dd95", 
+    "makam": [
+        {
+            "attribute_key": "hicaz_humayun", 
+            "mb_attribute": "Hicaz H\u00fcmayun", 
+            "source": "http://musicbrainz.org/work/3cea4b37-3225-4bfc-9d8e-ffd990f56689"
+        }, 
+        {
+            "attribute_key": "hicaz_humayun", 
+            "mb_tag": "hicaz-h\u00fcmayun", 
+            "source": "http://musicbrainz.org/recording/9d0b294c-d40e-40e2-b991-3aa47f61dd95"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "7a3adb1f-ebe6-4dbe-a0cc-c71f034d4091", 
+            "attribute-list": [
+                "ney"
+            ], 
+            "type": "instrument", 
+            "name": "Volkan Y\u0131lmaz"
+        }
+    ], 
+    "instrumentation_voicing": "Solo instrumental", 
+    "works": [
+        {
+            "mbid": "3cea4b37-3225-4bfc-9d8e-ffd990f56689", 
+            "title": "Hicaz Sazsemaisi"
+        }
+    ]
+}

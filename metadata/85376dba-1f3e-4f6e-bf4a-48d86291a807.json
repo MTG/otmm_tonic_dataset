@@ -1,0 +1,72 @@
+{
+    "usul": [
+        {
+            "attribute_key": "agiraksak", 
+            "mb_attribute": "A\u011f\u0131raksak", 
+            "source": "http://musicbrainz.org/work/5c25bc30-b9ea-4ba4-8606-955a1418b662"
+        }, 
+        {
+            "attribute_key": "agiraksak", 
+            "mb_tag": "a\u011f\u0131raksak", 
+            "source": "http://musicbrainz.org/recording/85376dba-1f3e-4f6e-bf4a-48d86291a807"
+        }
+    ], 
+    "form": [
+        {
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
+            "source": "http://musicbrainz.org/work/5c25bc30-b9ea-4ba4-8606-955a1418b662"
+        }, 
+        {
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
+            "source": "http://musicbrainz.org/recording/85376dba-1f3e-4f6e-bf4a-48d86291a807"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "8024b6af-73d3-47ac-a20c-06d4114363f5", 
+            "title": "Bekir S\u0131dk\u0131 Sezgin 15"
+        }
+    ], 
+    "title": "M\u00fcptelay\u0131 Derdi Hicrand\u0131r G\u00f6n\u00fcl", 
+    "url": "http://musicbrainz.org/recording/85376dba-1f3e-4f6e-bf4a-48d86291a807", 
+    "artist_credits": [
+        {
+            "mbid": "7ef61959-65f2-41ab-9ae2-ba890812b7b4", 
+            "name": "Bekir S\u0131dk\u0131 Sezgin"
+        }
+    ], 
+    "mbid": "85376dba-1f3e-4f6e-bf4a-48d86291a807", 
+    "makam": [
+        {
+            "attribute_key": "hicaz", 
+            "mb_attribute": "Hicaz", 
+            "source": "http://musicbrainz.org/work/5c25bc30-b9ea-4ba4-8606-955a1418b662"
+        }, 
+        {
+            "attribute_key": "hicaz", 
+            "mb_tag": "hicaz", 
+            "source": "http://musicbrainz.org/recording/85376dba-1f3e-4f6e-bf4a-48d86291a807"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
+            "type": "performing orchestra", 
+            "name": "[unknown]"
+        }, 
+        {
+            "mbid": "7ef61959-65f2-41ab-9ae2-ba890812b7b4", 
+            "type": "vocal", 
+            "name": "Bekir S\u0131dk\u0131 Sezgin"
+        }
+    ], 
+    "instrumentation_voicing": "Solo vocal with accompaniment", 
+    "works": [
+        {
+            "mbid": "5c25bc30-b9ea-4ba4-8606-955a1418b662", 
+            "title": "M\u00fcptelay\u0131 Derdi Hicrand\u0131r G\u00f6n\u00fcl"
+        }
+    ]
+}

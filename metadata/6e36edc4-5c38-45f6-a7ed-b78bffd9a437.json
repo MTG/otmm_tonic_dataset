@@ -1,0 +1,72 @@
+{
+    "usul": [
+        {
+            "attribute_key": "yuruksemai", 
+            "mb_attribute": "Y\u00fcr\u00fcksemai", 
+            "source": "http://musicbrainz.org/work/5e8da7a0-b70a-42d0-8ca5-45dcc76a87c0"
+        }, 
+        {
+            "attribute_key": "yuruksemai", 
+            "mb_tag": "y\u00fcr\u00fcksemai", 
+            "source": "http://musicbrainz.org/recording/6e36edc4-5c38-45f6-a7ed-b78bffd9a437"
+        }
+    ], 
+    "form": [
+        {
+            "attribute_key": "yuruksemai", 
+            "mb_attribute": "Y\u00fcr\u00fcksemai", 
+            "source": "http://musicbrainz.org/work/5e8da7a0-b70a-42d0-8ca5-45dcc76a87c0"
+        }, 
+        {
+            "attribute_key": "yuruksemai", 
+            "mb_tag": "y\u00fcr\u00fcksemai", 
+            "source": "http://musicbrainz.org/recording/6e36edc4-5c38-45f6-a7ed-b78bffd9a437"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "def8324c-f183-437e-b51e-76e3b2129707", 
+            "title": "Trt Ar\u015fiv Serisi 28 - Bekir S\u0131tk\u0131 Sezgin'den Se\u00e7meler"
+        }
+    ], 
+    "title": "Ruhlerin Seyredelim Berk-i G\u00fcl-i Ter Yerine", 
+    "url": "http://musicbrainz.org/recording/6e36edc4-5c38-45f6-a7ed-b78bffd9a437", 
+    "artist_credits": [
+        {
+            "mbid": "7ef61959-65f2-41ab-9ae2-ba890812b7b4", 
+            "name": "Bekir S\u0131dk\u0131 Sezgin"
+        }
+    ], 
+    "mbid": "6e36edc4-5c38-45f6-a7ed-b78bffd9a437", 
+    "makam": [
+        {
+            "attribute_key": "acem", 
+            "mb_attribute": "Acem", 
+            "source": "http://musicbrainz.org/work/5e8da7a0-b70a-42d0-8ca5-45dcc76a87c0"
+        }, 
+        {
+            "attribute_key": "acem", 
+            "mb_tag": "acem", 
+            "source": "http://musicbrainz.org/recording/6e36edc4-5c38-45f6-a7ed-b78bffd9a437"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
+            "type": "performing orchestra", 
+            "name": "[unknown]"
+        }, 
+        {
+            "mbid": "7ef61959-65f2-41ab-9ae2-ba890812b7b4", 
+            "type": "vocal", 
+            "name": "Bekir S\u0131dk\u0131 Sezgin"
+        }
+    ], 
+    "instrumentation_voicing": "Solo vocal with accompaniment", 
+    "works": [
+        {
+            "mbid": "5e8da7a0-b70a-42d0-8ca5-45dcc76a87c0", 
+            "title": "Ruhlerin Seyredelim"
+        }
+    ]
+}

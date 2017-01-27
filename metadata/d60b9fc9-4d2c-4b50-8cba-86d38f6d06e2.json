@@ -1,0 +1,67 @@
+{
+    "usul": [
+        {
+            "attribute_key": "aksak", 
+            "mb_attribute": "Aksak", 
+            "source": "http://musicbrainz.org/work/28e8d5cc-11d5-42cc-a238-13b52bb09f03"
+        }, 
+        {
+            "attribute_key": "aksak", 
+            "mb_tag": "aksak", 
+            "source": "http://musicbrainz.org/recording/d60b9fc9-4d2c-4b50-8cba-86d38f6d06e2"
+        }
+    ], 
+    "form": [
+        {
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
+            "source": "http://musicbrainz.org/work/28e8d5cc-11d5-42cc-a238-13b52bb09f03"
+        }, 
+        {
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
+            "source": "http://musicbrainz.org/recording/d60b9fc9-4d2c-4b50-8cba-86d38f6d06e2"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "5af543f0-7287-4ced-92a3-f8f92f52e836", 
+            "title": "Ferit Sidal - S\u00f6zl\u00fc Eserlerden \u00d6rnekler - Enstrumantal Eserlerden \u00d6rnekler"
+        }
+    ], 
+    "title": "B\u00f6l\u00fck B\u00f6l\u00fck Turna Ge\u00e7er Y\u00fcceden", 
+    "url": "http://musicbrainz.org/recording/d60b9fc9-4d2c-4b50-8cba-86d38f6d06e2", 
+    "artist_credits": [
+        {
+            "mbid": "95f54862-621c-4255-94f8-d1a8154167a6", 
+            "name": "T\u00fclin Ku\u015fo\u011flu"
+        }
+    ], 
+    "mbid": "d60b9fc9-4d2c-4b50-8cba-86d38f6d06e2", 
+    "makam": [
+        {
+            "attribute_key": "hicaz", 
+            "mb_attribute": "Hicaz", 
+            "source": "http://musicbrainz.org/work/28e8d5cc-11d5-42cc-a238-13b52bb09f03"
+        }, 
+        {
+            "attribute_key": "hicaz", 
+            "mb_tag": "hicaz", 
+            "source": "http://musicbrainz.org/recording/d60b9fc9-4d2c-4b50-8cba-86d38f6d06e2"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "95f54862-621c-4255-94f8-d1a8154167a6", 
+            "type": "vocal", 
+            "name": "T\u00fclin Ku\u015fo\u011flu"
+        }
+    ], 
+    "instrumentation_voicing": "Solo vocal without accompaniment", 
+    "works": [
+        {
+            "mbid": "28e8d5cc-11d5-42cc-a238-13b52bb09f03", 
+            "title": "B\u00f6l\u00fck B\u00f6l\u00fck Turna Ge\u00e7er Y\u00fcceden"
+        }
+    ]
+}

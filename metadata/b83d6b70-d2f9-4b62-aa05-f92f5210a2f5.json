@@ -1,0 +1,70 @@
+{
+    "usul": [
+        {
+            "attribute_key": "agirduyek", 
+            "mb_attribute": "A\u011f\u0131rd\u00fcyek", 
+            "source": "http://musicbrainz.org/work/72222f36-76f1-4663-a5bf-d16f7af09dfa"
+        }, 
+        {
+            "attribute_key": "agirduyek", 
+            "mb_tag": "a\u011f\u0131rd\u00fcyek", 
+            "source": "http://musicbrainz.org/recording/b83d6b70-d2f9-4b62-aa05-f92f5210a2f5"
+        }
+    ], 
+    "form": [
+        {
+            "attribute_key": "pesrev", 
+            "mb_attribute": "Pe\u015frev", 
+            "source": "http://musicbrainz.org/work/72222f36-76f1-4663-a5bf-d16f7af09dfa"
+        }, 
+        {
+            "attribute_key": "pesrev", 
+            "mb_tag": "pe\u015frev", 
+            "source": "http://musicbrainz.org/recording/b83d6b70-d2f9-4b62-aa05-f92f5210a2f5"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "8d71678a-4324-4754-9520-af5394356891", 
+            "title": "Turkish Music Makam Guide"
+        }
+    ], 
+    "title": "Suzidilara Pe\u015frev", 
+    "url": "http://musicbrainz.org/recording/b83d6b70-d2f9-4b62-aa05-f92f5210a2f5", 
+    "artist_credits": [
+        {
+            "mbid": "9b6e98f8-b695-45da-8c9c-68d4bab460fd", 
+            "name": "Murat Aydemir"
+        }
+    ], 
+    "mbid": "b83d6b70-d2f9-4b62-aa05-f92f5210a2f5", 
+    "makam": [
+        {
+            "attribute_key": "suzidilara", 
+            "mb_attribute": "Suzidilara", 
+            "source": "http://musicbrainz.org/work/72222f36-76f1-4663-a5bf-d16f7af09dfa"
+        }, 
+        {
+            "attribute_key": "suzidilara", 
+            "mb_tag": "suzidilara", 
+            "source": "http://musicbrainz.org/recording/b83d6b70-d2f9-4b62-aa05-f92f5210a2f5"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "9b6e98f8-b695-45da-8c9c-68d4bab460fd", 
+            "attribute-list": [
+                "tanbur"
+            ], 
+            "type": "instrument", 
+            "name": "Murat Aydemir"
+        }
+    ], 
+    "instrumentation_voicing": "Solo instrumental", 
+    "works": [
+        {
+            "mbid": "72222f36-76f1-4663-a5bf-d16f7af09dfa", 
+            "title": "Suzidilara Pe\u015frev"
+        }
+    ]
+}

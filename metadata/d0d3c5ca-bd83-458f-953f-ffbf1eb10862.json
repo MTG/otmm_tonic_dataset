@@ -1,0 +1,71 @@
+{
+    "usul": [
+        {
+            "attribute_key": "aksaksemai", 
+            "mb_attribute": "Aksaksemai", 
+            "source": "http://musicbrainz.org/work/bd82468d-e5bf-4541-9b4e-7402332508ba"
+        }, 
+        {
+            "attribute_key": "aksaksemai", 
+            "mb_tag": "aksaksemai", 
+            "source": "http://musicbrainz.org/recording/d0d3c5ca-bd83-458f-953f-ffbf1eb10862"
+        }
+    ], 
+    "form": [
+        {
+            "attribute_key": "sazsemaisi", 
+            "mb_attribute": "Sazsemaisi", 
+            "source": "http://musicbrainz.org/work/bd82468d-e5bf-4541-9b4e-7402332508ba"
+        }, 
+        {
+            "attribute_key": "sazsemaisi", 
+            "mb_tag": "sazsemaisi", 
+            "source": "http://musicbrainz.org/recording/d0d3c5ca-bd83-458f-953f-ffbf1eb10862"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "cfc5e2f7-7533-4f23-8e90-cae81dcc57a5", 
+            "title": "Kanun Sololar\u0131"
+        }
+    ], 
+    "title": "Nihavent Saz Semaisi", 
+    "url": "http://musicbrainz.org/recording/d0d3c5ca-bd83-458f-953f-ffbf1eb10862", 
+    "artist_credits": [
+        {
+            "mbid": "92e61b85-9fd6-4c4b-9d1a-297ffbfbe0b9", 
+            "name": "Erol Deran"
+        }
+    ], 
+    "mbid": "d0d3c5ca-bd83-458f-953f-ffbf1eb10862", 
+    "makam": [
+        {
+            "attribute_key": "nihavent", 
+            "mb_attribute": "Nihavent", 
+            "source": "http://musicbrainz.org/work/bd82468d-e5bf-4541-9b4e-7402332508ba"
+        }, 
+        {
+            "attribute_key": "nihavent", 
+            "mb_tag": "nihavent", 
+            "source": "http://musicbrainz.org/recording/d0d3c5ca-bd83-458f-953f-ffbf1eb10862"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "92e61b85-9fd6-4c4b-9d1a-297ffbfbe0b9", 
+            "attribute-list": [
+                "kanun", 
+                "solo"
+            ], 
+            "type": "instrument", 
+            "name": "Erol Deran"
+        }
+    ], 
+    "instrumentation_voicing": "Solo instrumental", 
+    "works": [
+        {
+            "mbid": "bd82468d-e5bf-4541-9b4e-7402332508ba", 
+            "title": "Nihavent Sazsemaisi"
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "instrumentation_voicing": "Ensemble instrumental", 
+    "form": [
+        {
+            "attribute_key": "taksim", 
+            "mb_tag": "taksim", 
+            "source": "http://musicbrainz.org/recording/24d70a9a-248e-4bd0-ad31-a210dde504e6"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "83f3321c-8fec-4736-ae45-aa1d2edc9b8b", 
+            "title": "T\u00fcrk Sanat M\u00fczi\u011fi Besteleri Saz Eserleri 2"
+        }
+    ], 
+    "title": "Klarnet Taksimi", 
+    "url": "http://musicbrainz.org/recording/24d70a9a-248e-4bd0-ad31-a210dde504e6", 
+    "artist_credits": [
+        {
+            "mbid": "ef074ab6-a2a8-42f7-a454-068265023697", 
+            "name": "Aziz T\u00fcrk Sanat M\u00fczi\u011fi Grubu"
+        }
+    ], 
+    "mbid": "24d70a9a-248e-4bd0-ad31-a210dde504e6", 
+    "makam": [
+        {
+            "attribute_key": "ussak", 
+            "mb_tag": "u\u015f\u015fak", 
+            "source": "http://musicbrainz.org/recording/24d70a9a-248e-4bd0-ad31-a210dde504e6"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "ef074ab6-a2a8-42f7-a454-068265023697", 
+            "type": "performing orchestra", 
+            "name": "Aziz T\u00fcrk Sanat M\u00fczi\u011fi Grubu"
+        }
+    ], 
+    "usul": [
+        {
+            "attribute_key": "serbest", 
+            "mb_tag": "serbest", 
+            "source": "http://musicbrainz.org/recording/24d70a9a-248e-4bd0-ad31-a210dde504e6"
+        }
+    ]
+}

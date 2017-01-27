@@ -1,0 +1,72 @@
+{
+    "usul": [
+        {
+            "attribute_key": "aksak", 
+            "mb_attribute": "Aksak", 
+            "source": "http://musicbrainz.org/work/3e97b3ce-6814-454b-adae-22497dbec76f"
+        }, 
+        {
+            "attribute_key": "aksak", 
+            "mb_tag": "aksak", 
+            "source": "http://musicbrainz.org/recording/601ae54a-4068-4d63-97e5-790710de6528"
+        }
+    ], 
+    "form": [
+        {
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
+            "source": "http://musicbrainz.org/work/3e97b3ce-6814-454b-adae-22497dbec76f"
+        }, 
+        {
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
+            "source": "http://musicbrainz.org/recording/601ae54a-4068-4d63-97e5-790710de6528"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "8024b6af-73d3-47ac-a20c-06d4114363f5", 
+            "title": "Bekir S\u0131dk\u0131 Sezgin 15"
+        }
+    ], 
+    "title": "Zencir-i A\u015fk\u0131n Dil Bestesiyim", 
+    "url": "http://musicbrainz.org/recording/601ae54a-4068-4d63-97e5-790710de6528", 
+    "artist_credits": [
+        {
+            "mbid": "7ef61959-65f2-41ab-9ae2-ba890812b7b4", 
+            "name": "Bekir S\u0131dk\u0131 Sezgin"
+        }
+    ], 
+    "mbid": "601ae54a-4068-4d63-97e5-790710de6528", 
+    "makam": [
+        {
+            "attribute_key": "segah", 
+            "mb_attribute": "Segah", 
+            "source": "http://musicbrainz.org/work/3e97b3ce-6814-454b-adae-22497dbec76f"
+        }, 
+        {
+            "attribute_key": "segah", 
+            "mb_tag": "segah", 
+            "source": "http://musicbrainz.org/recording/601ae54a-4068-4d63-97e5-790710de6528"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
+            "type": "performing orchestra", 
+            "name": "[unknown]"
+        }, 
+        {
+            "mbid": "7ef61959-65f2-41ab-9ae2-ba890812b7b4", 
+            "type": "vocal", 
+            "name": "Bekir S\u0131dk\u0131 Sezgin"
+        }
+    ], 
+    "instrumentation_voicing": "Solo vocal with accompaniment", 
+    "works": [
+        {
+            "mbid": "3e97b3ce-6814-454b-adae-22497dbec76f", 
+            "title": "Zencir-i A\u015fk\u0131n Dil Bestesiyim"
+        }
+    ]
+}

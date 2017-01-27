@@ -1,0 +1,70 @@
+{
+    "usul": [
+        {
+            "attribute_key": "aksak", 
+            "mb_attribute": "Aksak", 
+            "source": "http://musicbrainz.org/work/a3afd990-6b3b-44ff-b4a5-7dcb0337222e"
+        }, 
+        {
+            "attribute_key": "aksak", 
+            "mb_tag": "aksak", 
+            "source": "http://musicbrainz.org/recording/f59af55a-e971-49d2-8f3e-0b934e0aa77b"
+        }
+    ], 
+    "form": [
+        {
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
+            "source": "http://musicbrainz.org/work/a3afd990-6b3b-44ff-b4a5-7dcb0337222e"
+        }, 
+        {
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
+            "source": "http://musicbrainz.org/recording/f59af55a-e971-49d2-8f3e-0b934e0aa77b"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "27272058-7500-4ce2-a357-f9e038ef6be9", 
+            "title": "T\u00fcrk M\u00fczi\u011finde Kanun ile Sevilen \u015eark\u0131lar - Enstr\u00fcmantal"
+        }
+    ], 
+    "title": "Dil Yaresini And\u0131racak", 
+    "url": "http://musicbrainz.org/recording/f59af55a-e971-49d2-8f3e-0b934e0aa77b", 
+    "artist_credits": [
+        {
+            "mbid": "230670ce-4f8c-4515-9a99-b747b7bd53c5", 
+            "name": "Ahmet Meter"
+        }
+    ], 
+    "mbid": "f59af55a-e971-49d2-8f3e-0b934e0aa77b", 
+    "makam": [
+        {
+            "attribute_key": "hicaz", 
+            "mb_attribute": "Hicaz", 
+            "source": "http://musicbrainz.org/work/a3afd990-6b3b-44ff-b4a5-7dcb0337222e"
+        }, 
+        {
+            "attribute_key": "hicaz", 
+            "mb_tag": "hicaz", 
+            "source": "http://musicbrainz.org/recording/f59af55a-e971-49d2-8f3e-0b934e0aa77b"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "230670ce-4f8c-4515-9a99-b747b7bd53c5", 
+            "attribute-list": [
+                "kanun"
+            ], 
+            "type": "instrument", 
+            "name": "Ahmet Meter"
+        }
+    ], 
+    "instrumentation_voicing": "Solo instrumental", 
+    "works": [
+        {
+            "mbid": "a3afd990-6b3b-44ff-b4a5-7dcb0337222e", 
+            "title": "Dil Yaresini And\u0131racak"
+        }
+    ]
+}

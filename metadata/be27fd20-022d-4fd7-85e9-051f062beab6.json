@@ -1,0 +1,126 @@
+{
+    "usul": [
+        {
+            "attribute_key": "aksak", 
+            "mb_attribute": "Aksak", 
+            "source": "http://musicbrainz.org/work/c54336b1-99c0-4912-a013-0947588e541d"
+        }, 
+        {
+            "attribute_key": "aksak", 
+            "mb_tag": "aksak", 
+            "source": "http://musicbrainz.org/recording/be27fd20-022d-4fd7-85e9-051f062beab6"
+        }
+    ], 
+    "form": [
+        {
+            "attribute_key": "kanto", 
+            "mb_attribute": "Kanto", 
+            "source": "http://musicbrainz.org/work/c54336b1-99c0-4912-a013-0947588e541d"
+        }, 
+        {
+            "attribute_key": "kanto", 
+            "mb_tag": "kanto", 
+            "source": "http://musicbrainz.org/recording/be27fd20-022d-4fd7-85e9-051f062beab6"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "3b5a9ad2-d105-4e9a-b5af-1466aa4a099c", 
+            "title": "Ermeni Bestekarlar -2- (Armenian Composers)"
+        }
+    ], 
+    "title": "Nas\u0131l Nas\u0131l Elden Gittin Ah", 
+    "url": "http://musicbrainz.org/recording/be27fd20-022d-4fd7-85e9-051f062beab6", 
+    "artist_credits": [
+        {
+            "mbid": "55ca75af-62bd-404f-bbc5-86448a702d54", 
+            "name": "\u00c7i\u011fdem K\u0131r\u00f6mero\u011flu"
+        }
+    ], 
+    "mbid": "be27fd20-022d-4fd7-85e9-051f062beab6", 
+    "makam": [
+        {
+            "attribute_key": "rast", 
+            "mb_attribute": "Rast", 
+            "source": "http://musicbrainz.org/work/c54336b1-99c0-4912-a013-0947588e541d"
+        }, 
+        {
+            "attribute_key": "rast", 
+            "mb_tag": "rast", 
+            "source": "http://musicbrainz.org/recording/be27fd20-022d-4fd7-85e9-051f062beab6"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "55ca75af-62bd-404f-bbc5-86448a702d54", 
+            "attribute-list": [
+                "solo"
+            ], 
+            "type": "vocal", 
+            "name": "\u00c7i\u011fdem K\u0131r\u00f6mero\u011flu"
+        }, 
+        {
+            "mbid": "7a3adb1f-ebe6-4dbe-a0cc-c71f034d4091", 
+            "attribute-list": [
+                "ney"
+            ], 
+            "type": "instrument", 
+            "name": "Volkan Y\u0131lmaz"
+        }, 
+        {
+            "mbid": "8cf45553-41e7-4544-8070-45ff74f7fb18", 
+            "attribute-list": [
+                "classical kemen\u00e7e"
+            ], 
+            "type": "instrument", 
+            "name": "Ahmet Kadri Rizeli"
+        }, 
+        {
+            "mbid": "9b6e98f8-b695-45da-8c9c-68d4bab460fd", 
+            "attribute-list": [
+                "tanbur"
+            ], 
+            "type": "instrument", 
+            "name": "Murat Aydemir"
+        }, 
+        {
+            "mbid": "b5e2f977-cadd-458a-8171-cafdfe6a331c", 
+            "attribute-list": [
+                "percussion"
+            ], 
+            "type": "instrument", 
+            "name": "Fahrettin Yark\u0131n"
+        }, 
+        {
+            "mbid": "cfe6aea2-c362-4760-9ad1-b95db1605b6e", 
+            "attribute-list": [
+                "cello"
+            ], 
+            "type": "instrument", 
+            "name": "U\u011fur I\u015f\u0131k"
+        }, 
+        {
+            "mbid": "e504a080-2092-4855-9135-45914556ca70", 
+            "attribute-list": [
+                "bendir"
+            ], 
+            "type": "instrument", 
+            "name": "Vahit Anadolu"
+        }, 
+        {
+            "mbid": "eec97a99-ab73-4707-84b5-d7a7e667cb11", 
+            "attribute-list": [
+                "kanun"
+            ], 
+            "type": "instrument", 
+            "name": "Safinaz Rizeli"
+        }
+    ], 
+    "instrumentation_voicing": "Solo vocal with accompaniment", 
+    "works": [
+        {
+            "mbid": "c54336b1-99c0-4912-a013-0947588e541d", 
+            "title": "Nas\u0131l Nas\u0131l Elden Gittin Ah"
+        }
+    ]
+}

@@ -1,0 +1,49 @@
+{
+    "instrumentation_voicing": "Solo instrumental", 
+    "form": [
+        {
+            "attribute_key": "taksim", 
+            "mb_tag": "taksim", 
+            "source": "http://musicbrainz.org/recording/d6fb4cbc-6b43-4981-bdcd-4ad48933feaa"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "291a62d1-907b-41b0-8f38-44666de278dc", 
+            "title": "14 Makamda Keman Taksimleri"
+        }
+    ], 
+    "title": "Nihavent Taksimi", 
+    "url": "http://musicbrainz.org/recording/d6fb4cbc-6b43-4981-bdcd-4ad48933feaa", 
+    "artist_credits": [
+        {
+            "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
+            "name": "[unknown]"
+        }
+    ], 
+    "mbid": "d6fb4cbc-6b43-4981-bdcd-4ad48933feaa", 
+    "makam": [
+        {
+            "attribute_key": "nihavent", 
+            "mb_tag": "nihavent", 
+            "source": "http://musicbrainz.org/recording/d6fb4cbc-6b43-4981-bdcd-4ad48933feaa"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
+            "attribute-list": [
+                "violin"
+            ], 
+            "type": "instrument", 
+            "name": "[unknown]"
+        }
+    ], 
+    "usul": [
+        {
+            "attribute_key": "serbest", 
+            "mb_tag": "serbest", 
+            "source": "http://musicbrainz.org/recording/d6fb4cbc-6b43-4981-bdcd-4ad48933feaa"
+        }
+    ]
+}

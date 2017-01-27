@@ -1,0 +1,72 @@
+{
+    "usul": [
+        {
+            "attribute_key": "hafif", 
+            "mb_attribute": "Hafif", 
+            "source": "http://musicbrainz.org/work/a766319f-9005-4785-9c43-28bf29992eb6"
+        }, 
+        {
+            "attribute_key": "hafif", 
+            "mb_tag": "hafif", 
+            "source": "http://musicbrainz.org/recording/5ad9dbe4-9a7f-42ab-b380-0e7ce4223dd7"
+        }
+    ], 
+    "form": [
+        {
+            "attribute_key": "beste", 
+            "mb_attribute": "Beste", 
+            "source": "http://musicbrainz.org/work/a766319f-9005-4785-9c43-28bf29992eb6"
+        }, 
+        {
+            "attribute_key": "beste", 
+            "mb_tag": "beste", 
+            "source": "http://musicbrainz.org/recording/5ad9dbe4-9a7f-42ab-b380-0e7ce4223dd7"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "189bbe93-186a-46b8-a6da-df8864e6dd4a", 
+            "title": "Bekir S\u0131dk\u0131 Sezgin 14"
+        }
+    ], 
+    "title": "\u00c7in-i Geysusuna Zencir-i Tesels\u00fcl Dediler", 
+    "url": "http://musicbrainz.org/recording/5ad9dbe4-9a7f-42ab-b380-0e7ce4223dd7", 
+    "artist_credits": [
+        {
+            "mbid": "7ef61959-65f2-41ab-9ae2-ba890812b7b4", 
+            "name": "Bekir S\u0131dk\u0131 Sezgin"
+        }
+    ], 
+    "mbid": "5ad9dbe4-9a7f-42ab-b380-0e7ce4223dd7", 
+    "makam": [
+        {
+            "attribute_key": "suzidilara", 
+            "mb_attribute": "Suzidilara", 
+            "source": "http://musicbrainz.org/work/a766319f-9005-4785-9c43-28bf29992eb6"
+        }, 
+        {
+            "attribute_key": "suzidilara", 
+            "mb_tag": "suzidilara", 
+            "source": "http://musicbrainz.org/recording/5ad9dbe4-9a7f-42ab-b380-0e7ce4223dd7"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
+            "type": "performing orchestra", 
+            "name": "[unknown]"
+        }, 
+        {
+            "mbid": "7ef61959-65f2-41ab-9ae2-ba890812b7b4", 
+            "type": "vocal", 
+            "name": "Bekir S\u0131dk\u0131 Sezgin"
+        }
+    ], 
+    "instrumentation_voicing": "Solo vocal with accompaniment", 
+    "works": [
+        {
+            "mbid": "a766319f-9005-4785-9c43-28bf29992eb6", 
+            "title": "\u00c7in-i Geysusuna Zencir-i Tesels\u00fcl Dediler"
+        }
+    ]
+}

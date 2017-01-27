@@ -1,0 +1,78 @@
+{
+    "usul": [
+        {
+            "attribute_key": "muhammes", 
+            "mb_attribute": "Muhammes", 
+            "source": "http://musicbrainz.org/work/db260504-980d-4a3b-8dff-90966c2989f6"
+        }, 
+        {
+            "attribute_key": "muhammes", 
+            "mb_tag": "muhammes", 
+            "source": "http://musicbrainz.org/recording/9442e4cf-0cb3-4cb3-a060-77aa37392501"
+        }
+    ], 
+    "form": [
+        {
+            "attribute_key": "pesrev", 
+            "mb_attribute": "Pe\u015frev", 
+            "source": "http://musicbrainz.org/work/db260504-980d-4a3b-8dff-90966c2989f6"
+        }, 
+        {
+            "attribute_key": "pesrev", 
+            "mb_tag": "pe\u015frev", 
+            "source": "http://musicbrainz.org/recording/9442e4cf-0cb3-4cb3-a060-77aa37392501"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "fa2ea7d4-5206-4463-b6e9-95cf4b0921fd", 
+            "title": "A\u015fk-\u0131 Neyzen"
+        }
+    ], 
+    "title": "H\u00fcseyni Pe\u015frev", 
+    "url": "http://musicbrainz.org/recording/9442e4cf-0cb3-4cb3-a060-77aa37392501", 
+    "artist_credits": [
+        {
+            "mbid": "e4a32522-bec3-418b-a881-cb26a3147ed1", 
+            "name": "\u0130lhan Barut\u00e7u"
+        }
+    ], 
+    "mbid": "9442e4cf-0cb3-4cb3-a060-77aa37392501", 
+    "makam": [
+        {
+            "attribute_key": "huseyni", 
+            "mb_attribute": "H\u00fcseyni", 
+            "source": "http://musicbrainz.org/work/db260504-980d-4a3b-8dff-90966c2989f6"
+        }, 
+        {
+            "attribute_key": "huseyni", 
+            "mb_tag": "h\u00fcseyni", 
+            "source": "http://musicbrainz.org/recording/9442e4cf-0cb3-4cb3-a060-77aa37392501"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
+            "attribute-list": [
+                "percussion"
+            ], 
+            "type": "instrument", 
+            "name": "[unknown]"
+        }, 
+        {
+            "mbid": "e4a32522-bec3-418b-a881-cb26a3147ed1", 
+            "attribute-list": [
+                "ney"
+            ], 
+            "type": "instrument", 
+            "name": "\u0130lhan Barut\u00e7u"
+        }
+    ], 
+    "instrumentation_voicing": "Duo instrumental", 
+    "works": [
+        {
+            "mbid": "db260504-980d-4a3b-8dff-90966c2989f6", 
+            "title": "H\u00fcseyni Pe\u015frev"
+        }
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "instrumentation_voicing": "Duo instrumental", 
+    "form": [
+        {
+            "attribute_key": "taksim", 
+            "mb_tag": "taksim", 
+            "source": "http://musicbrainz.org/recording/f44c5c6b-826b-4e0e-a77f-d28a7e3a3a7a"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "a401a3ef-3869-450b-9ae0-a32036f2b2bd", 
+            "title": "A\u015fk"
+        }
+    ], 
+    "title": "Hic\u00e2z M\u00fc\u015fterek Taksim", 
+    "url": "http://musicbrainz.org/recording/f44c5c6b-826b-4e0e-a77f-d28a7e3a3a7a", 
+    "artist_credits": [
+        {
+            "mbid": "215fd94e-6a6e-4ab3-98d8-7e81c873dd26", 
+            "name": "Aka G\u00fcnd\u00fcz Kutbay"
+        }, 
+        {
+            "mbid": "92e61b85-9fd6-4c4b-9d1a-297ffbfbe0b9", 
+            "name": "Erol Deran"
+        }
+    ], 
+    "mbid": "f44c5c6b-826b-4e0e-a77f-d28a7e3a3a7a", 
+    "makam": [
+        {
+            "attribute_key": "hicaz", 
+            "mb_tag": "hicaz", 
+            "source": "http://musicbrainz.org/recording/f44c5c6b-826b-4e0e-a77f-d28a7e3a3a7a"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "215fd94e-6a6e-4ab3-98d8-7e81c873dd26", 
+            "attribute-list": [
+                "ney"
+            ], 
+            "type": "instrument", 
+            "name": "Aka G\u00fcnd\u00fcz Kutbay"
+        }, 
+        {
+            "mbid": "92e61b85-9fd6-4c4b-9d1a-297ffbfbe0b9", 
+            "attribute-list": [
+                "kanun"
+            ], 
+            "type": "instrument", 
+            "name": "Erol Deran"
+        }
+    ], 
+    "usul": [
+        {
+            "attribute_key": "serbest", 
+            "mb_tag": "serbest", 
+            "source": "http://musicbrainz.org/recording/f44c5c6b-826b-4e0e-a77f-d28a7e3a3a7a"
+        }
+    ]
+}

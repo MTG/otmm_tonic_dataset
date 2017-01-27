@@ -1,0 +1,72 @@
+{
+    "usul": [
+        {
+            "attribute_key": "duyek", 
+            "mb_attribute": "D\u00fcyek", 
+            "source": "http://musicbrainz.org/work/dc75e341-545c-455d-8a3b-486c60e0a249"
+        }, 
+        {
+            "attribute_key": "duyek", 
+            "mb_tag": "d\u00fcyek", 
+            "source": "http://musicbrainz.org/recording/fd9dcc6f-2478-4b41-b350-bcd3227547a5"
+        }
+    ], 
+    "form": [
+        {
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
+            "source": "http://musicbrainz.org/work/dc75e341-545c-455d-8a3b-486c60e0a249"
+        }, 
+        {
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
+            "source": "http://musicbrainz.org/recording/fd9dcc6f-2478-4b41-b350-bcd3227547a5"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "3bd738e1-2251-47d3-ae48-c5cd1fb1577f", 
+            "title": "Klasikler - 2"
+        }
+    ], 
+    "title": "Her Kimde Vard\u0131r A\u015fk (K\u00fcrdilihicazkar \u015eark\u0131)", 
+    "url": "http://musicbrainz.org/recording/fd9dcc6f-2478-4b41-b350-bcd3227547a5", 
+    "artist_credits": [
+        {
+            "mbid": "7ef61959-65f2-41ab-9ae2-ba890812b7b4", 
+            "name": "Bekir S\u0131dk\u0131 Sezgin"
+        }
+    ], 
+    "mbid": "fd9dcc6f-2478-4b41-b350-bcd3227547a5", 
+    "makam": [
+        {
+            "attribute_key": "kurdilihicazkar", 
+            "mb_attribute": "K\u00fcrdilihicazkar", 
+            "source": "http://musicbrainz.org/work/dc75e341-545c-455d-8a3b-486c60e0a249"
+        }, 
+        {
+            "attribute_key": "kurdilihicazkar", 
+            "mb_tag": "k\u00fcrdilihicazkar", 
+            "source": "http://musicbrainz.org/recording/fd9dcc6f-2478-4b41-b350-bcd3227547a5"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
+            "type": "performing orchestra", 
+            "name": "[unknown]"
+        }, 
+        {
+            "mbid": "7ef61959-65f2-41ab-9ae2-ba890812b7b4", 
+            "type": "vocal", 
+            "name": "Bekir S\u0131dk\u0131 Sezgin"
+        }
+    ], 
+    "instrumentation_voicing": "Solo vocal with accompaniment", 
+    "works": [
+        {
+            "mbid": "dc75e341-545c-455d-8a3b-486c60e0a249", 
+            "title": "Her Kimde Vard\u0131r A\u015fk \u0130ptilas\u0131"
+        }
+    ]
+}

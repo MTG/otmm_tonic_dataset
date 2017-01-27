@@ -1,0 +1,49 @@
+{
+    "instrumentation_voicing": "Solo instrumental", 
+    "form": [
+        {
+            "attribute_key": "taksim", 
+            "mb_tag": "taksim", 
+            "source": "http://musicbrainz.org/recording/97220334-8d90-4b60-933a-b58edda1db0d"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "8a880160-5ee1-4d21-910f-e1636f17a9e9", 
+            "title": "16 Makamda Ud Taksimleri"
+        }
+    ], 
+    "title": "Hicaz", 
+    "url": "http://musicbrainz.org/recording/97220334-8d90-4b60-933a-b58edda1db0d", 
+    "artist_credits": [
+        {
+            "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
+            "name": "[unknown]"
+        }
+    ], 
+    "mbid": "97220334-8d90-4b60-933a-b58edda1db0d", 
+    "makam": [
+        {
+            "attribute_key": "hicaz", 
+            "mb_tag": "hicaz", 
+            "source": "http://musicbrainz.org/recording/97220334-8d90-4b60-933a-b58edda1db0d"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
+            "attribute-list": [
+                "oud"
+            ], 
+            "type": "instrument", 
+            "name": "[unknown]"
+        }
+    ], 
+    "usul": [
+        {
+            "attribute_key": "serbest", 
+            "mb_tag": "serbest", 
+            "source": "http://musicbrainz.org/recording/97220334-8d90-4b60-933a-b58edda1db0d"
+        }
+    ]
+}

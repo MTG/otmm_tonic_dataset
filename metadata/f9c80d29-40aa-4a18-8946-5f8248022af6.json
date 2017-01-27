@@ -1,0 +1,72 @@
+{
+    "usul": [
+        {
+            "attribute_key": "aksak", 
+            "mb_attribute": "Aksak", 
+            "source": "http://musicbrainz.org/work/0f8ca1c8-dd1f-493b-9b7a-26bfdc8ae2f1"
+        }, 
+        {
+            "attribute_key": "aksak", 
+            "mb_tag": "aksak", 
+            "source": "http://musicbrainz.org/recording/f9c80d29-40aa-4a18-8946-5f8248022af6"
+        }
+    ], 
+    "form": [
+        {
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
+            "source": "http://musicbrainz.org/work/0f8ca1c8-dd1f-493b-9b7a-26bfdc8ae2f1"
+        }, 
+        {
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
+            "source": "http://musicbrainz.org/recording/f9c80d29-40aa-4a18-8946-5f8248022af6"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "6b94e631-734e-4ebb-9acd-0741183608fe", 
+            "title": "Bekir S\u0131dk\u0131 Sezgin 22"
+        }
+    ], 
+    "title": "Etti\u011fin Cevri Bile Kendime Nimet Bilirim", 
+    "url": "http://musicbrainz.org/recording/f9c80d29-40aa-4a18-8946-5f8248022af6", 
+    "artist_credits": [
+        {
+            "mbid": "7ef61959-65f2-41ab-9ae2-ba890812b7b4", 
+            "name": "Bekir S\u0131dk\u0131 Sezgin"
+        }
+    ], 
+    "mbid": "f9c80d29-40aa-4a18-8946-5f8248022af6", 
+    "makam": [
+        {
+            "attribute_key": "huzzam", 
+            "mb_attribute": "H\u00fczzam", 
+            "source": "http://musicbrainz.org/work/0f8ca1c8-dd1f-493b-9b7a-26bfdc8ae2f1"
+        }, 
+        {
+            "attribute_key": "huzzam", 
+            "mb_tag": "h\u00fczzam", 
+            "source": "http://musicbrainz.org/recording/f9c80d29-40aa-4a18-8946-5f8248022af6"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
+            "type": "performing orchestra", 
+            "name": "[unknown]"
+        }, 
+        {
+            "mbid": "7ef61959-65f2-41ab-9ae2-ba890812b7b4", 
+            "type": "vocal", 
+            "name": "Bekir S\u0131dk\u0131 Sezgin"
+        }
+    ], 
+    "instrumentation_voicing": "Solo vocal with accompaniment", 
+    "works": [
+        {
+            "mbid": "0f8ca1c8-dd1f-493b-9b7a-26bfdc8ae2f1", 
+            "title": "Etti\u011fin Cevri Bile"
+        }
+    ]
+}

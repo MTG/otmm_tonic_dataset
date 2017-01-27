@@ -1,0 +1,72 @@
+{
+    "usul": [
+        {
+            "attribute_key": "aksak", 
+            "mb_attribute": "Aksak", 
+            "source": "http://musicbrainz.org/work/7f39416e-d671-407c-94b5-0f3187d6f9f3"
+        }, 
+        {
+            "attribute_key": "aksak", 
+            "mb_tag": "aksak", 
+            "source": "http://musicbrainz.org/recording/162b4c5d-20c0-4d48-b7ae-a6b3e00b486f"
+        }
+    ], 
+    "form": [
+        {
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
+            "source": "http://musicbrainz.org/work/7f39416e-d671-407c-94b5-0f3187d6f9f3"
+        }, 
+        {
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
+            "source": "http://musicbrainz.org/recording/162b4c5d-20c0-4d48-b7ae-a6b3e00b486f"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "67514072-161f-49e9-b188-b869f71c6a47", 
+            "title": "Bekir S\u0131dk\u0131 Sezgin 26"
+        }
+    ], 
+    "title": "Bir Taraftan \u00dcz\u00fcyor G\u00f6nl\u00fcm\u00fc Hicrin Elemi", 
+    "url": "http://musicbrainz.org/recording/162b4c5d-20c0-4d48-b7ae-a6b3e00b486f", 
+    "artist_credits": [
+        {
+            "mbid": "7ef61959-65f2-41ab-9ae2-ba890812b7b4", 
+            "name": "Bekir S\u0131dk\u0131 Sezgin"
+        }
+    ], 
+    "mbid": "162b4c5d-20c0-4d48-b7ae-a6b3e00b486f", 
+    "makam": [
+        {
+            "attribute_key": "hicaz", 
+            "mb_attribute": "Hicaz", 
+            "source": "http://musicbrainz.org/work/7f39416e-d671-407c-94b5-0f3187d6f9f3"
+        }, 
+        {
+            "attribute_key": "hicaz", 
+            "mb_tag": "hicaz", 
+            "source": "http://musicbrainz.org/recording/162b4c5d-20c0-4d48-b7ae-a6b3e00b486f"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
+            "type": "performing orchestra", 
+            "name": "[unknown]"
+        }, 
+        {
+            "mbid": "7ef61959-65f2-41ab-9ae2-ba890812b7b4", 
+            "type": "vocal", 
+            "name": "Bekir S\u0131dk\u0131 Sezgin"
+        }
+    ], 
+    "instrumentation_voicing": "Solo vocal with accompaniment", 
+    "works": [
+        {
+            "mbid": "7f39416e-d671-407c-94b5-0f3187d6f9f3", 
+            "title": "Bir Taraftan \u00dcz\u00fcyor G\u00f6nl\u00fcm\u00fc"
+        }
+    ]
+}

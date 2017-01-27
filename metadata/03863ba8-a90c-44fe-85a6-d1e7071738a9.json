@@ -1,0 +1,46 @@
+{
+    "instrumentation_voicing": "Ensemble instrumental", 
+    "form": [
+        {
+            "attribute_key": "taksim", 
+            "mb_tag": "taksim", 
+            "source": "http://musicbrainz.org/recording/03863ba8-a90c-44fe-85a6-d1e7071738a9"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "83f3321c-8fec-4736-ae45-aa1d2edc9b8b", 
+            "title": "T\u00fcrk Sanat M\u00fczi\u011fi Besteleri Saz Eserleri 2"
+        }
+    ], 
+    "title": "Kanun Taksimi", 
+    "url": "http://musicbrainz.org/recording/03863ba8-a90c-44fe-85a6-d1e7071738a9", 
+    "artist_credits": [
+        {
+            "mbid": "ef074ab6-a2a8-42f7-a454-068265023697", 
+            "name": "Aziz T\u00fcrk Sanat M\u00fczi\u011fi Grubu"
+        }
+    ], 
+    "mbid": "03863ba8-a90c-44fe-85a6-d1e7071738a9", 
+    "makam": [
+        {
+            "attribute_key": "ussak", 
+            "mb_tag": "u\u015f\u015fak", 
+            "source": "http://musicbrainz.org/recording/03863ba8-a90c-44fe-85a6-d1e7071738a9"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "ef074ab6-a2a8-42f7-a454-068265023697", 
+            "type": "performing orchestra", 
+            "name": "Aziz T\u00fcrk Sanat M\u00fczi\u011fi Grubu"
+        }
+    ], 
+    "usul": [
+        {
+            "attribute_key": "serbest", 
+            "mb_tag": "serbest", 
+            "source": "http://musicbrainz.org/recording/03863ba8-a90c-44fe-85a6-d1e7071738a9"
+        }
+    ]
+}

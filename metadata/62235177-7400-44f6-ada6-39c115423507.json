@@ -1,0 +1,62 @@
+{
+    "usul": [
+        {
+            "attribute_key": "cenber", 
+            "mb_attribute": "\u00c7enber", 
+            "source": "http://musicbrainz.org/work/ef388aef-3948-4ad5-a759-729f2686ade4"
+        }
+    ], 
+    "form": [
+        {
+            "attribute_key": "pesrev", 
+            "mb_attribute": "Pe\u015frev", 
+            "source": "http://musicbrainz.org/work/ef388aef-3948-4ad5-a759-729f2686ade4"
+        }, 
+        {
+            "attribute_key": "pesrev", 
+            "mb_tag": "pe\u015frev", 
+            "source": "http://musicbrainz.org/recording/62235177-7400-44f6-ada6-39c115423507"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "8598c51d-e83b-4413-a3ca-0881f581ad0d", 
+            "title": "Mehter"
+        }
+    ], 
+    "title": "Hicaz H\u00fcmayun Pe\u015frevi", 
+    "url": "http://musicbrainz.org/recording/62235177-7400-44f6-ada6-39c115423507", 
+    "artist_credits": [
+        {
+            "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
+            "name": "[unknown]"
+        }
+    ], 
+    "mbid": "62235177-7400-44f6-ada6-39c115423507", 
+    "makam": [
+        {
+            "attribute_key": "hicaz_humayun", 
+            "mb_attribute": "Hicaz H\u00fcmayun", 
+            "source": "http://musicbrainz.org/work/ef388aef-3948-4ad5-a759-729f2686ade4"
+        }, 
+        {
+            "attribute_key": "hicaz_humayun", 
+            "mb_tag": "hicaz-h\u00fcmayun", 
+            "source": "http://musicbrainz.org/recording/62235177-7400-44f6-ada6-39c115423507"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
+            "type": "performing orchestra", 
+            "name": "[unknown]"
+        }
+    ], 
+    "instrumentation_voicing": "Ensemble instrumental", 
+    "works": [
+        {
+            "mbid": "ef388aef-3948-4ad5-a759-729f2686ade4", 
+            "title": "Hicaz H\u00fcmayun Pe\u015frevi"
+        }
+    ]
+}

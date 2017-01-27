@@ -1,0 +1,49 @@
+{
+    "instrumentation_voicing": "Solo instrumental", 
+    "form": [
+        {
+            "attribute_key": "taksim", 
+            "mb_tag": "taksim", 
+            "source": "http://musicbrainz.org/recording/bdfc40ac-3f4b-4a67-a9f3-0c4d5793c31f"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "b631dac8-f47d-494d-9063-45e9b2ace879", 
+            "title": "Osmanl\u0131'dan Bug\u00fcne T\u00fcrk Musikisi- Keman"
+        }
+    ], 
+    "title": "Segah Taksim", 
+    "url": "http://musicbrainz.org/recording/bdfc40ac-3f4b-4a67-a9f3-0c4d5793c31f", 
+    "artist_credits": [
+        {
+            "mbid": "b8b24ca8-e429-414a-9336-272ed8f131e0", 
+            "name": "Fahri Karaduman"
+        }
+    ], 
+    "mbid": "bdfc40ac-3f4b-4a67-a9f3-0c4d5793c31f", 
+    "makam": [
+        {
+            "attribute_key": "segah", 
+            "mb_tag": "segah", 
+            "source": "http://musicbrainz.org/recording/bdfc40ac-3f4b-4a67-a9f3-0c4d5793c31f"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "b8b24ca8-e429-414a-9336-272ed8f131e0", 
+            "attribute-list": [
+                "violin"
+            ], 
+            "type": "instrument", 
+            "name": "Fahri Karaduman"
+        }
+    ], 
+    "usul": [
+        {
+            "attribute_key": "serbest", 
+            "mb_tag": "serbest", 
+            "source": "http://musicbrainz.org/recording/bdfc40ac-3f4b-4a67-a9f3-0c4d5793c31f"
+        }
+    ]
+}

@@ -1,0 +1,70 @@
+{
+    "usul": [
+        {
+            "attribute_key": "aksaksemai", 
+            "mb_attribute": "Aksaksemai", 
+            "source": "http://musicbrainz.org/work/4b3685be-c30a-4b10-8ce6-5bcd2c96b1f3"
+        }, 
+        {
+            "attribute_key": "aksaksemai", 
+            "mb_tag": "aksaksemai", 
+            "source": "http://musicbrainz.org/recording/4041e7ab-b208-4fdb-8305-fa5c3bc0118a"
+        }
+    ], 
+    "form": [
+        {
+            "attribute_key": "sazsemaisi", 
+            "mb_attribute": "Sazsemaisi", 
+            "source": "http://musicbrainz.org/work/4b3685be-c30a-4b10-8ce6-5bcd2c96b1f3"
+        }, 
+        {
+            "attribute_key": "sazsemaisi", 
+            "mb_tag": "sazsemaisi", 
+            "source": "http://musicbrainz.org/recording/4041e7ab-b208-4fdb-8305-fa5c3bc0118a"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "64f1a9db-c999-4564-951e-6bb181b7f75b", 
+            "title": "Mesut Cemil (1902-1963) Volume 1"
+        }
+    ], 
+    "title": "Hicazkar Saz Semai", 
+    "url": "http://musicbrainz.org/recording/4041e7ab-b208-4fdb-8305-fa5c3bc0118a", 
+    "artist_credits": [
+        {
+            "mbid": "36e8968e-2b15-43a9-a79c-c70e0a6f5ed8", 
+            "name": "Mesut Cemil Bey"
+        }
+    ], 
+    "mbid": "4041e7ab-b208-4fdb-8305-fa5c3bc0118a", 
+    "makam": [
+        {
+            "attribute_key": "hicazkar", 
+            "mb_attribute": "Hicazkar", 
+            "source": "http://musicbrainz.org/work/4b3685be-c30a-4b10-8ce6-5bcd2c96b1f3"
+        }, 
+        {
+            "attribute_key": "hicazkar", 
+            "mb_tag": "hicazkar", 
+            "source": "http://musicbrainz.org/recording/4041e7ab-b208-4fdb-8305-fa5c3bc0118a"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "36e8968e-2b15-43a9-a79c-c70e0a6f5ed8", 
+            "attribute-list": [
+                "tanbur"
+            ], 
+            "type": "instrument", 
+            "name": "Mesut Cemil Bey"
+        }
+    ], 
+    "instrumentation_voicing": "Solo instrumental", 
+    "works": [
+        {
+            "mbid": "4b3685be-c30a-4b10-8ce6-5bcd2c96b1f3", 
+            "title": "Hicazkar Sazsemaisi"
+        }
+    ]
+}

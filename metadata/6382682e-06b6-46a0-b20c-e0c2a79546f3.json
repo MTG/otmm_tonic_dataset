@@ -1,0 +1,85 @@
+{
+    "usul": [
+        {
+            "attribute_key": "kapali_curcuna", 
+            "mb_attribute": "Kapal\u0131 Curcuna", 
+            "source": "http://musicbrainz.org/work/043f369e-9685-43c6-8d1d-3640ce356c05"
+        }, 
+        {
+            "attribute_key": "kapali_curcuna", 
+            "mb_tag": "curcuna", 
+            "source": "http://musicbrainz.org/recording/6382682e-06b6-46a0-b20c-e0c2a79546f3"
+        }
+    ], 
+    "form": [
+        {
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
+            "source": "http://musicbrainz.org/work/043f369e-9685-43c6-8d1d-3640ce356c05"
+        }, 
+        {
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
+            "source": "http://musicbrainz.org/recording/6382682e-06b6-46a0-b20c-e0c2a79546f3"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "4f204b33-0630-4f8c-8e00-7cba6bbd1595", 
+            "title": "Bestekarlar\u0131m\u0131z: 2 - Rahmi Bey"
+        }
+    ], 
+    "title": "Sana Ey Can\u0131m\u0131n Can\u0131 Efendim", 
+    "url": "http://musicbrainz.org/recording/6382682e-06b6-46a0-b20c-e0c2a79546f3", 
+    "artist_credits": [
+        {
+            "mbid": "028a0dfb-3a56-44b1-87f7-b9590c923d64", 
+            "name": "Ankara Devlet Klasik T\u00fcrk M\u00fczi\u011fi Korosu"
+        }
+    ], 
+    "mbid": "6382682e-06b6-46a0-b20c-e0c2a79546f3", 
+    "makam": [
+        {
+            "attribute_key": "kurdilihicazkar", 
+            "mb_attribute": "K\u00fcrdilihicazkar", 
+            "source": "http://musicbrainz.org/work/043f369e-9685-43c6-8d1d-3640ce356c05"
+        }, 
+        {
+            "attribute_key": "kurdilihicazkar", 
+            "mb_tag": "k\u00fcrdilihicazkar", 
+            "source": "http://musicbrainz.org/recording/6382682e-06b6-46a0-b20c-e0c2a79546f3"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "028a0dfb-3a56-44b1-87f7-b9590c923d64", 
+            "type": "performing orchestra", 
+            "name": "Ankara Devlet Klasik T\u00fcrk M\u00fczi\u011fi Korosu"
+        }, 
+        {
+            "mbid": "276afb29-206f-47e6-b417-c45544fb9853", 
+            "attribute-list": [
+                "solo"
+            ], 
+            "type": "vocal", 
+            "name": "Zerrin Nayc\u0131"
+        }, 
+        {
+            "mbid": "a5a5ffbb-f655-4b8c-8dca-6986b0433eec", 
+            "type": "conductor", 
+            "name": "U\u011fur Bayrak"
+        }, 
+        {
+            "mbid": "dce463ff-daab-4d4d-879e-62e77e71f3f9", 
+            "type": "conductor", 
+            "name": "\u015eent\u00fcrk Deveci"
+        }
+    ], 
+    "instrumentation_voicing": "Solo vocal with accompaniment", 
+    "works": [
+        {
+            "mbid": "043f369e-9685-43c6-8d1d-3640ce356c05", 
+            "title": "Sana Ey Can\u0131m\u0131n Can\u0131 Efendim"
+        }
+    ]
+}

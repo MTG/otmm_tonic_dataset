@@ -1,0 +1,53 @@
+{
+    "instrumentation_voicing": "Solo instrumental", 
+    "form": [
+        {
+            "attribute_key": "taksim", 
+            "mb_tag": "taksim", 
+            "source": "http://musicbrainz.org/recording/37865eed-7e06-4d3c-bd09-a65325f28799"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "7bb7eb2b-cfef-48bd-ac3f-7b44cb627b5b", 
+            "title": "T\u00fcrk M\u00fczi\u011fi Koleksiyonu 5: Avni An\u0131l"
+        }
+    ], 
+    "title": "Keman Taksimi", 
+    "url": "http://musicbrainz.org/recording/37865eed-7e06-4d3c-bd09-a65325f28799", 
+    "artist_credits": [
+        {
+            "mbid": "f7cde484-31d6-415d-a5ae-82ab5a1191da", 
+            "name": "Mediha \u015een Sancako\u011flu"
+        }, 
+        {
+            "mbid": "e259b60c-50a0-4984-bf1e-786e76c5d553", 
+            "name": "Adnan Yavuzer"
+        }
+    ], 
+    "mbid": "37865eed-7e06-4d3c-bd09-a65325f28799", 
+    "makam": [
+        {
+            "attribute_key": "kurdilihicazkar", 
+            "mb_tag": "k\u00fcrdilihicazkar", 
+            "source": "http://musicbrainz.org/recording/37865eed-7e06-4d3c-bd09-a65325f28799"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
+            "attribute-list": [
+                "violin"
+            ], 
+            "type": "instrument", 
+            "name": "[unknown]"
+        }
+    ], 
+    "usul": [
+        {
+            "attribute_key": "serbest", 
+            "mb_tag": "serbest", 
+            "source": "http://musicbrainz.org/recording/37865eed-7e06-4d3c-bd09-a65325f28799"
+        }
+    ]
+}

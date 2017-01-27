@@ -1,0 +1,49 @@
+{
+    "instrumentation_voicing": "Solo instrumental", 
+    "form": [
+        {
+            "attribute_key": "taksim", 
+            "mb_tag": "taksim", 
+            "source": "http://musicbrainz.org/recording/3d67b615-8e05-41d4-a8c7-f085d2b599bf"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "def8324c-f183-437e-b51e-76e3b2129707", 
+            "title": "Trt Ar\u015fiv Serisi 28 - Bekir S\u0131tk\u0131 Sezgin'den Se\u00e7meler"
+        }
+    ], 
+    "title": "Tanbur Taksimi", 
+    "url": "http://musicbrainz.org/recording/3d67b615-8e05-41d4-a8c7-f085d2b599bf", 
+    "artist_credits": [
+        {
+            "mbid": "7ef61959-65f2-41ab-9ae2-ba890812b7b4", 
+            "name": "Bekir S\u0131dk\u0131 Sezgin"
+        }
+    ], 
+    "mbid": "3d67b615-8e05-41d4-a8c7-f085d2b599bf", 
+    "makam": [
+        {
+            "attribute_key": "hicaz", 
+            "mb_tag": "hicaz", 
+            "source": "http://musicbrainz.org/recording/3d67b615-8e05-41d4-a8c7-f085d2b599bf"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "eb150720-40d5-4da9-8c8b-b149601c73e5", 
+            "attribute-list": [
+                "tanbur"
+            ], 
+            "type": "instrument", 
+            "name": "Necdet Ya\u015far"
+        }
+    ], 
+    "usul": [
+        {
+            "attribute_key": "serbest", 
+            "mb_tag": "serbest", 
+            "source": "http://musicbrainz.org/recording/3d67b615-8e05-41d4-a8c7-f085d2b599bf"
+        }
+    ]
+}

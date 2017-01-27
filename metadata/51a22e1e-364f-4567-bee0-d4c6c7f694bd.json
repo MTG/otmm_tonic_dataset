@@ -1,0 +1,70 @@
+{
+    "usul": [
+        {
+            "attribute_key": "yuruksemai", 
+            "mb_attribute": "Y\u00fcr\u00fcksemai", 
+            "source": "http://musicbrainz.org/work/a2acc29a-fe3e-4346-8d62-457a6857cfeb"
+        }, 
+        {
+            "attribute_key": "yuruksemai", 
+            "mb_tag": "y\u00fcr\u00fcksemai", 
+            "source": "http://musicbrainz.org/recording/51a22e1e-364f-4567-bee0-d4c6c7f694bd"
+        }
+    ], 
+    "form": [
+        {
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
+            "source": "http://musicbrainz.org/work/a2acc29a-fe3e-4346-8d62-457a6857cfeb"
+        }, 
+        {
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
+            "source": "http://musicbrainz.org/recording/51a22e1e-364f-4567-bee0-d4c6c7f694bd"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "f7eb7ae3-afc2-41c3-85ea-88abc5072a02", 
+            "title": "T\u00fcrk M\u00fczi\u011finde Ud \u0130le An\u0131lar"
+        }
+    ], 
+    "title": "Bu Y\u0131l Da B\u00f6yle Ge\u00e7ti", 
+    "url": "http://musicbrainz.org/recording/51a22e1e-364f-4567-bee0-d4c6c7f694bd", 
+    "artist_credits": [
+        {
+            "mbid": "e3eb44b9-f298-4994-8083-797aaba3ea9c", 
+            "name": "Ergin K\u0131z\u0131lay"
+        }
+    ], 
+    "mbid": "51a22e1e-364f-4567-bee0-d4c6c7f694bd", 
+    "makam": [
+        {
+            "attribute_key": "kurdilihicazkar", 
+            "mb_attribute": "K\u00fcrdilihicazkar", 
+            "source": "http://musicbrainz.org/work/a2acc29a-fe3e-4346-8d62-457a6857cfeb"
+        }, 
+        {
+            "attribute_key": "kurdilihicazkar", 
+            "mb_tag": "k\u00fcrdilihicazkar", 
+            "source": "http://musicbrainz.org/recording/51a22e1e-364f-4567-bee0-d4c6c7f694bd"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "e3eb44b9-f298-4994-8083-797aaba3ea9c", 
+            "attribute-list": [
+                "oud"
+            ], 
+            "type": "instrument", 
+            "name": "Ergin K\u0131z\u0131lay"
+        }
+    ], 
+    "instrumentation_voicing": "Solo instrumental", 
+    "works": [
+        {
+            "mbid": "a2acc29a-fe3e-4346-8d62-457a6857cfeb", 
+            "title": "Bu Y\u0131l Da B\u00f6yle Ge\u00e7ti"
+        }
+    ]
+}

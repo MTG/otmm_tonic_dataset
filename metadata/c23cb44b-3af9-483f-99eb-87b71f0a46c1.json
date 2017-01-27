@@ -1,0 +1,54 @@
+{
+    "instrumentation_voicing": "Solo instrumental", 
+    "form": [
+        {
+            "attribute_key": null, 
+            "mb_tag": "serbest", 
+            "source": "http://musicbrainz.org/recording/c23cb44b-3af9-483f-99eb-87b71f0a46c1"
+        }, 
+        {
+            "attribute_key": "seyir", 
+            "mb_tag": "seyir", 
+            "source": "http://musicbrainz.org/recording/c23cb44b-3af9-483f-99eb-87b71f0a46c1"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "a401a3ef-3869-450b-9ae0-a32036f2b2bd", 
+            "title": "A\u015fk"
+        }
+    ], 
+    "title": "Sab\u00e2 Seyir", 
+    "url": "http://musicbrainz.org/recording/c23cb44b-3af9-483f-99eb-87b71f0a46c1", 
+    "artist_credits": [
+        {
+            "mbid": "215fd94e-6a6e-4ab3-98d8-7e81c873dd26", 
+            "name": "Aka G\u00fcnd\u00fcz Kutbay"
+        }
+    ], 
+    "mbid": "c23cb44b-3af9-483f-99eb-87b71f0a46c1", 
+    "makam": [
+        {
+            "attribute_key": "saba", 
+            "mb_tag": "saba", 
+            "source": "http://musicbrainz.org/recording/c23cb44b-3af9-483f-99eb-87b71f0a46c1"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "215fd94e-6a6e-4ab3-98d8-7e81c873dd26", 
+            "attribute-list": [
+                "ney"
+            ], 
+            "type": "instrument", 
+            "name": "Aka G\u00fcnd\u00fcz Kutbay"
+        }
+    ], 
+    "usul": [
+        {
+            "attribute_key": "serbest", 
+            "mb_tag": "serbest", 
+            "source": "http://musicbrainz.org/recording/c23cb44b-3af9-483f-99eb-87b71f0a46c1"
+        }
+    ]
+}

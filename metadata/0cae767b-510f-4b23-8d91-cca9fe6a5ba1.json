@@ -1,0 +1,72 @@
+{
+    "usul": [
+        {
+            "attribute_key": "curcuna", 
+            "mb_attribute": "Curcuna", 
+            "source": "http://musicbrainz.org/work/9a56af56-d465-4de9-aceb-9e6b36b05efc"
+        }, 
+        {
+            "attribute_key": "kapali_curcuna", 
+            "mb_tag": "curcuna", 
+            "source": "http://musicbrainz.org/recording/0cae767b-510f-4b23-8d91-cca9fe6a5ba1"
+        }
+    ], 
+    "form": [
+        {
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
+            "source": "http://musicbrainz.org/work/9a56af56-d465-4de9-aceb-9e6b36b05efc"
+        }, 
+        {
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
+            "source": "http://musicbrainz.org/recording/0cae767b-510f-4b23-8d91-cca9fe6a5ba1"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "8024b6af-73d3-47ac-a20c-06d4114363f5", 
+            "title": "Bekir S\u0131dk\u0131 Sezgin 15"
+        }
+    ], 
+    "title": "Bikes \u00fc Bi\u00e7areyim Ah A\u011flar\u0131m", 
+    "url": "http://musicbrainz.org/recording/0cae767b-510f-4b23-8d91-cca9fe6a5ba1", 
+    "artist_credits": [
+        {
+            "mbid": "7ef61959-65f2-41ab-9ae2-ba890812b7b4", 
+            "name": "Bekir S\u0131dk\u0131 Sezgin"
+        }
+    ], 
+    "mbid": "0cae767b-510f-4b23-8d91-cca9fe6a5ba1", 
+    "makam": [
+        {
+            "attribute_key": "karcigar", 
+            "mb_attribute": "Karc\u0131\u011far", 
+            "source": "http://musicbrainz.org/work/9a56af56-d465-4de9-aceb-9e6b36b05efc"
+        }, 
+        {
+            "attribute_key": "huseyni", 
+            "mb_tag": "karc\u0131\u011far", 
+            "source": "http://musicbrainz.org/recording/0cae767b-510f-4b23-8d91-cca9fe6a5ba1"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
+            "type": "performing orchestra", 
+            "name": "[unknown]"
+        }, 
+        {
+            "mbid": "7ef61959-65f2-41ab-9ae2-ba890812b7b4", 
+            "type": "vocal", 
+            "name": "Bekir S\u0131dk\u0131 Sezgin"
+        }
+    ], 
+    "instrumentation_voicing": "Solo vocal with accompaniment", 
+    "works": [
+        {
+            "mbid": "9a56af56-d465-4de9-aceb-9e6b36b05efc", 
+            "title": "Bikes \u00fc Bi\u00e7areyim Ah A\u011flar\u0131m"
+        }
+    ]
+}

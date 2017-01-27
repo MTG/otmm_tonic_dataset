@@ -1,0 +1,65 @@
+{
+    "usul": [
+        {
+            "attribute_key": "serbest", 
+            "mb_tag": "serbest", 
+            "source": "http://musicbrainz.org/recording/62f7dbff-6db3-4356-a597-5e4270c5fd93"
+        }
+    ], 
+    "form": [
+        {
+            "attribute_key": "naat", 
+            "mb_attribute": "Naat", 
+            "source": "http://musicbrainz.org/work/e68fa5d4-55b2-47ac-a56f-39c30c9dd713"
+        }, 
+        {
+            "attribute_key": "naat", 
+            "mb_tag": "naat", 
+            "source": "http://musicbrainz.org/recording/62f7dbff-6db3-4356-a597-5e4270c5fd93"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "3486f24f-48db-481e-9b65-3814bc215292", 
+            "title": "T\u00fcrk Dini Musikisi"
+        }
+    ], 
+    "title": "Itri / Rast Na't-\u0131 Mevlana", 
+    "url": "http://musicbrainz.org/recording/62f7dbff-6db3-4356-a597-5e4270c5fd93", 
+    "artist_credits": [
+        {
+            "mbid": "7ef61959-65f2-41ab-9ae2-ba890812b7b4", 
+            "name": "Bekir S\u0131dk\u0131 Sezgin"
+        }
+    ], 
+    "mbid": "62f7dbff-6db3-4356-a597-5e4270c5fd93", 
+    "makam": [
+        {
+            "attribute_key": "rast", 
+            "mb_attribute": "Rast", 
+            "source": "http://musicbrainz.org/work/e68fa5d4-55b2-47ac-a56f-39c30c9dd713"
+        }, 
+        {
+            "attribute_key": "rast", 
+            "mb_tag": "rast", 
+            "source": "http://musicbrainz.org/recording/62f7dbff-6db3-4356-a597-5e4270c5fd93"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "7ef61959-65f2-41ab-9ae2-ba890812b7b4", 
+            "attribute-list": [
+                "solo"
+            ], 
+            "type": "vocal", 
+            "name": "Bekir S\u0131dk\u0131 Sezgin"
+        }
+    ], 
+    "instrumentation_voicing": "Solo vocal without accompaniment", 
+    "works": [
+        {
+            "mbid": "e68fa5d4-55b2-47ac-a56f-39c30c9dd713", 
+            "title": "Na't-\u0131 Mevlana"
+        }
+    ]
+}

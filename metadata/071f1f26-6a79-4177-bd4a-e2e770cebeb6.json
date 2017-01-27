@@ -1,0 +1,70 @@
+{
+    "usul": [
+        {
+            "attribute_key": "curcuna", 
+            "mb_attribute": "Curcuna", 
+            "source": "http://musicbrainz.org/work/3458bb9d-9263-4261-bd58-9d165ecdc0fe"
+        }, 
+        {
+            "attribute_key": "kapali_curcuna", 
+            "mb_tag": "curcuna", 
+            "source": "http://musicbrainz.org/recording/071f1f26-6a79-4177-bd4a-e2e770cebeb6"
+        }
+    ], 
+    "form": [
+        {
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
+            "source": "http://musicbrainz.org/work/3458bb9d-9263-4261-bd58-9d165ecdc0fe"
+        }, 
+        {
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
+            "source": "http://musicbrainz.org/recording/071f1f26-6a79-4177-bd4a-e2e770cebeb6"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "27272058-7500-4ce2-a357-f9e038ef6be9", 
+            "title": "T\u00fcrk M\u00fczi\u011finde Kanun ile Sevilen \u015eark\u0131lar - Enstr\u00fcmantal"
+        }
+    ], 
+    "title": "Emeller aldat\u0131p avutmu\u015f beni", 
+    "url": "http://musicbrainz.org/recording/071f1f26-6a79-4177-bd4a-e2e770cebeb6", 
+    "artist_credits": [
+        {
+            "mbid": "230670ce-4f8c-4515-9a99-b747b7bd53c5", 
+            "name": "Ahmet Meter"
+        }
+    ], 
+    "mbid": "071f1f26-6a79-4177-bd4a-e2e770cebeb6", 
+    "makam": [
+        {
+            "attribute_key": "kurdilihicazkar", 
+            "mb_attribute": "K\u00fcrdilihicazkar", 
+            "source": "http://musicbrainz.org/work/3458bb9d-9263-4261-bd58-9d165ecdc0fe"
+        }, 
+        {
+            "attribute_key": "kurdilihicazkar", 
+            "mb_tag": "k\u00fcrdilihicazkar", 
+            "source": "http://musicbrainz.org/recording/071f1f26-6a79-4177-bd4a-e2e770cebeb6"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "230670ce-4f8c-4515-9a99-b747b7bd53c5", 
+            "attribute-list": [
+                "kanun"
+            ], 
+            "type": "instrument", 
+            "name": "Ahmet Meter"
+        }
+    ], 
+    "instrumentation_voicing": "Solo instrumental", 
+    "works": [
+        {
+            "mbid": "3458bb9d-9263-4261-bd58-9d165ecdc0fe", 
+            "title": "Emeller Aldat\u0131p Avutmu\u015f Beni"
+        }
+    ]
+}

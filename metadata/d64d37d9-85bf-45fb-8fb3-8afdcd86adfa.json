@@ -1,0 +1,72 @@
+{
+    "usul": [
+        {
+            "attribute_key": "senginsemai", 
+            "mb_attribute": "Senginsemai", 
+            "source": "http://musicbrainz.org/work/ff9c2e3f-26d1-40d5-90a4-b913be6d04d9"
+        }, 
+        {
+            "attribute_key": "semai", 
+            "mb_tag": "semai", 
+            "source": "http://musicbrainz.org/recording/d64d37d9-85bf-45fb-8fb3-8afdcd86adfa"
+        }
+    ], 
+    "form": [
+        {
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
+            "source": "http://musicbrainz.org/work/ff9c2e3f-26d1-40d5-90a4-b913be6d04d9"
+        }, 
+        {
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
+            "source": "http://musicbrainz.org/recording/d64d37d9-85bf-45fb-8fb3-8afdcd86adfa"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "859229ff-6bac-4bf0-8687-a7a820750c89", 
+            "title": "Bekir S\u0131dk\u0131 Sezgin 16"
+        }
+    ], 
+    "title": "Ey Gonca A\u00e7\u0131l Zevkini S\u00fcr Fasl\u0131 Bahar\u0131n", 
+    "url": "http://musicbrainz.org/recording/d64d37d9-85bf-45fb-8fb3-8afdcd86adfa", 
+    "artist_credits": [
+        {
+            "mbid": "7ef61959-65f2-41ab-9ae2-ba890812b7b4", 
+            "name": "Bekir S\u0131dk\u0131 Sezgin"
+        }
+    ], 
+    "mbid": "d64d37d9-85bf-45fb-8fb3-8afdcd86adfa", 
+    "makam": [
+        {
+            "attribute_key": "suzidil", 
+            "mb_attribute": "Suzidil", 
+            "source": "http://musicbrainz.org/work/ff9c2e3f-26d1-40d5-90a4-b913be6d04d9"
+        }, 
+        {
+            "attribute_key": "suzidil", 
+            "mb_tag": "suzidil", 
+            "source": "http://musicbrainz.org/recording/d64d37d9-85bf-45fb-8fb3-8afdcd86adfa"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
+            "type": "performing orchestra", 
+            "name": "[unknown]"
+        }, 
+        {
+            "mbid": "7ef61959-65f2-41ab-9ae2-ba890812b7b4", 
+            "type": "vocal", 
+            "name": "Bekir S\u0131dk\u0131 Sezgin"
+        }
+    ], 
+    "instrumentation_voicing": "Solo vocal with accompaniment", 
+    "works": [
+        {
+            "mbid": "ff9c2e3f-26d1-40d5-90a4-b913be6d04d9", 
+            "title": "Ey Gonca A\u00e7\u0131l Zevkini S\u00fcr Fasl-\u0131 Bahar\u0131n"
+        }
+    ]
+}

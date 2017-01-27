@@ -1,0 +1,80 @@
+{
+    "usul": [
+        {
+            "attribute_key": "aksaksemai", 
+            "mb_attribute": "Aksaksemai", 
+            "source": "http://musicbrainz.org/work/45ae0a7a-6abe-453c-9b09-984415379f91"
+        }, 
+        {
+            "attribute_key": "aksaksemai", 
+            "mb_tag": "aksaksemai", 
+            "source": "http://musicbrainz.org/recording/3979929f-020c-4b91-a274-e06131363a14"
+        }
+    ], 
+    "form": [
+        {
+            "attribute_key": "sazsemaisi", 
+            "mb_attribute": "Sazsemaisi", 
+            "source": "http://musicbrainz.org/work/45ae0a7a-6abe-453c-9b09-984415379f91"
+        }, 
+        {
+            "attribute_key": "sazsemaisi", 
+            "mb_tag": "sazsemaisi", 
+            "source": "http://musicbrainz.org/recording/3979929f-020c-4b91-a274-e06131363a14"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "afcb0af0-df10-4184-a4e5-6c71a1fa18b5", 
+            "title": "Tanburi Cemil Bey - Pe\u015frev ve Sazsemaileri"
+        }
+    ], 
+    "title": "Suzidilara Sazsemaisi", 
+    "url": "http://musicbrainz.org/recording/3979929f-020c-4b91-a274-e06131363a14", 
+    "artist_credits": [
+        {
+            "mbid": "31b24c3b-9072-44c5-87f9-7114f4d5c7fe", 
+            "name": "\u0130hsan \u00d6zgen"
+        }
+    ], 
+    "mbid": "3979929f-020c-4b91-a274-e06131363a14", 
+    "makam": [
+        {
+            "attribute_key": "suzidilara", 
+            "mb_attribute": "Suzidilara", 
+            "source": "http://musicbrainz.org/work/45ae0a7a-6abe-453c-9b09-984415379f91"
+        }, 
+        {
+            "attribute_key": "suzidilara", 
+            "mb_tag": "suzidilara", 
+            "source": "http://musicbrainz.org/recording/3979929f-020c-4b91-a274-e06131363a14"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "279d2704-2462-4ebe-8230-2fc7af3dcd9c", 
+            "attribute-list": [
+                "percussion"
+            ], 
+            "type": "instrument", 
+            "name": "Serdar Erba\u015f\u0131"
+        }, 
+        {
+            "mbid": "31b24c3b-9072-44c5-87f9-7114f4d5c7fe", 
+            "attribute-list": [
+                "cello", 
+                "classical kemen\u00e7e", 
+                "tanbur"
+            ], 
+            "type": "instrument", 
+            "name": "\u0130hsan \u00d6zgen"
+        }
+    ], 
+    "instrumentation_voicing": "Duo instrumental", 
+    "works": [
+        {
+            "mbid": "45ae0a7a-6abe-453c-9b09-984415379f91", 
+            "title": "S\u00fbzidil\u00e2r\u00e2 Saz Semaisi"
+        }
+    ]
+}

@@ -1,0 +1,65 @@
+{
+    "usul": [
+        {
+            "attribute_key": "serbest", 
+            "mb_attribute": "Serbest", 
+            "source": "http://musicbrainz.org/work/44c1a878-9e0e-43e6-982c-0e02b864b6ea"
+        }
+    ], 
+    "form": [
+        {
+            "attribute_key": "ezan", 
+            "mb_attribute": "Ezan", 
+            "source": "http://musicbrainz.org/work/44c1a878-9e0e-43e6-982c-0e02b864b6ea"
+        }, 
+        {
+            "attribute_key": "ezan", 
+            "mb_tag": "ezan", 
+            "source": "http://musicbrainz.org/recording/c8ad5f53-29cb-4327-8a15-0d3e275ed67b"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "68b016fe-03ac-430f-b969-7a53e485841f", 
+            "title": "A\u015fk ile"
+        }
+    ], 
+    "title": "Sabah Ezan\u0131", 
+    "url": "http://musicbrainz.org/recording/c8ad5f53-29cb-4327-8a15-0d3e275ed67b", 
+    "artist_credits": [
+        {
+            "mbid": "61d8e82a-8ff3-4675-ac31-df67a14dd772", 
+            "name": "Kani Karaca"
+        }
+    ], 
+    "mbid": "c8ad5f53-29cb-4327-8a15-0d3e275ed67b", 
+    "makam": [
+        {
+            "attribute_key": "saba", 
+            "mb_attribute": "Saba", 
+            "source": "http://musicbrainz.org/work/44c1a878-9e0e-43e6-982c-0e02b864b6ea"
+        }, 
+        {
+            "attribute_key": "saba", 
+            "mb_tag": "saba", 
+            "source": "http://musicbrainz.org/recording/c8ad5f53-29cb-4327-8a15-0d3e275ed67b"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "61d8e82a-8ff3-4675-ac31-df67a14dd772", 
+            "attribute-list": [
+                "solo"
+            ], 
+            "type": "vocal", 
+            "name": "Kani Karaca"
+        }
+    ], 
+    "instrumentation_voicing": "Solo vocal without accompaniment", 
+    "works": [
+        {
+            "mbid": "44c1a878-9e0e-43e6-982c-0e02b864b6ea", 
+            "title": "Saba Ezan\u0131"
+        }
+    ]
+}

@@ -1,0 +1,77 @@
+{
+    "usul": [
+        {
+            "attribute_key": "cenber", 
+            "mb_attribute": "\u00c7enber", 
+            "source": "http://musicbrainz.org/work/ef388aef-3948-4ad5-a759-729f2686ade4"
+        }
+    ], 
+    "form": [
+        {
+            "attribute_key": "pesrev", 
+            "mb_attribute": "Pe\u015frev", 
+            "source": "http://musicbrainz.org/work/ef388aef-3948-4ad5-a759-729f2686ade4"
+        }, 
+        {
+            "attribute_key": "pesrev", 
+            "mb_tag": "pe\u015frev", 
+            "source": "http://musicbrainz.org/recording/a9021077-8d17-4319-b34c-b475c7a6c3fa"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "a401a3ef-3869-450b-9ae0-a32036f2b2bd", 
+            "title": "A\u015fk"
+        }
+    ], 
+    "title": "Hic\u00e2z Pe\u015frev", 
+    "url": "http://musicbrainz.org/recording/a9021077-8d17-4319-b34c-b475c7a6c3fa", 
+    "artist_credits": [
+        {
+            "mbid": "215fd94e-6a6e-4ab3-98d8-7e81c873dd26", 
+            "name": "Aka G\u00fcnd\u00fcz Kutbay"
+        }, 
+        {
+            "mbid": "eb150720-40d5-4da9-8c8b-b149601c73e5", 
+            "name": "Necdet Ya\u015far"
+        }
+    ], 
+    "mbid": "a9021077-8d17-4319-b34c-b475c7a6c3fa", 
+    "makam": [
+        {
+            "attribute_key": "hicaz_humayun", 
+            "mb_attribute": "Hicaz H\u00fcmayun", 
+            "source": "http://musicbrainz.org/work/ef388aef-3948-4ad5-a759-729f2686ade4"
+        }, 
+        {
+            "attribute_key": "hicaz", 
+            "mb_tag": "hicaz", 
+            "source": "http://musicbrainz.org/recording/a9021077-8d17-4319-b34c-b475c7a6c3fa"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "215fd94e-6a6e-4ab3-98d8-7e81c873dd26", 
+            "attribute-list": [
+                "ney"
+            ], 
+            "type": "instrument", 
+            "name": "Aka G\u00fcnd\u00fcz Kutbay"
+        }, 
+        {
+            "mbid": "eb150720-40d5-4da9-8c8b-b149601c73e5", 
+            "attribute-list": [
+                "tanbur"
+            ], 
+            "type": "instrument", 
+            "name": "Necdet Ya\u015far"
+        }
+    ], 
+    "instrumentation_voicing": "Duo instrumental", 
+    "works": [
+        {
+            "mbid": "ef388aef-3948-4ad5-a759-729f2686ade4", 
+            "title": "Hicaz H\u00fcmayun Pe\u015frevi"
+        }
+    ]
+}

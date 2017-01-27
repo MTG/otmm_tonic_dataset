@@ -1,0 +1,77 @@
+{
+    "usul": [
+        {
+            "attribute_key": "aksaksemai", 
+            "mb_attribute": "Aksaksemai", 
+            "source": "http://musicbrainz.org/work/1eb2ca1e-249b-424c-9ff5-0e1561590257"
+        }
+    ], 
+    "form": [
+        {
+            "attribute_key": "sazsemaisi", 
+            "mb_attribute": "Sazsemaisi", 
+            "source": "http://musicbrainz.org/work/1eb2ca1e-249b-424c-9ff5-0e1561590257"
+        }, 
+        {
+            "attribute_key": "sazsemaisi", 
+            "mb_tag": "sazsemaisi", 
+            "source": "http://musicbrainz.org/recording/71a4390f-6024-4f01-808d-a36e6432f9eb"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "5a5f124a-766c-441c-bbf3-410a11b96c09", 
+            "title": "Ahenk 2"
+        }
+    ], 
+    "title": "\u015eedd-i Arab\u00e2n Saz Sem\u00e2\u00eesi", 
+    "url": "http://musicbrainz.org/recording/71a4390f-6024-4f01-808d-a36e6432f9eb", 
+    "artist_credits": [
+        {
+            "mbid": "9b6e98f8-b695-45da-8c9c-68d4bab460fd", 
+            "name": "Murat Aydemir"
+        }, 
+        {
+            "mbid": "b80cd1ab-a00c-4f98-89c1-a798deb2d5c2", 
+            "name": "Derya T\u00fcrkan"
+        }
+    ], 
+    "mbid": "71a4390f-6024-4f01-808d-a36e6432f9eb", 
+    "makam": [
+        {
+            "attribute_key": "sedaraban", 
+            "mb_attribute": "\u015eedaraban", 
+            "source": "http://musicbrainz.org/work/1eb2ca1e-249b-424c-9ff5-0e1561590257"
+        }, 
+        {
+            "attribute_key": "sedaraban", 
+            "mb_tag": "\u015fedaraban", 
+            "source": "http://musicbrainz.org/recording/71a4390f-6024-4f01-808d-a36e6432f9eb"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "9b6e98f8-b695-45da-8c9c-68d4bab460fd", 
+            "attribute-list": [
+                "tanbur"
+            ], 
+            "type": "instrument", 
+            "name": "Murat Aydemir"
+        }, 
+        {
+            "mbid": "b80cd1ab-a00c-4f98-89c1-a798deb2d5c2", 
+            "attribute-list": [
+                "classical kemen\u00e7e"
+            ], 
+            "type": "instrument", 
+            "name": "Derya T\u00fcrkan"
+        }
+    ], 
+    "instrumentation_voicing": "Duo instrumental", 
+    "works": [
+        {
+            "mbid": "1eb2ca1e-249b-424c-9ff5-0e1561590257", 
+            "title": "\u015eedaraban Sazsemaisi"
+        }
+    ]
+}

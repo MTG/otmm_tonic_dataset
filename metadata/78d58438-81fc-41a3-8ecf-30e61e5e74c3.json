@@ -1,0 +1,42 @@
+{
+    "instrumentation_voicing": "Solo instrumental", 
+    "form": [
+        {
+            "attribute_key": "taksim", 
+            "mb_tag": "taksim", 
+            "source": "http://musicbrainz.org/recording/78d58438-81fc-41a3-8ecf-30e61e5e74c3"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "1843f8d1-f6b8-440c-ab54-59fc8c3898a6", 
+            "title": "Yayl\u0131 Tanbur"
+        }
+    ], 
+    "title": "Fihrist Taksim", 
+    "url": "http://musicbrainz.org/recording/78d58438-81fc-41a3-8ecf-30e61e5e74c3", 
+    "artist_credits": [
+        {
+            "mbid": "6256ace7-f139-4a22-a5e2-e9e46bffb0d4", 
+            "name": "Fahrettin \u00c7imenli"
+        }
+    ], 
+    "mbid": "78d58438-81fc-41a3-8ecf-30e61e5e74c3", 
+    "artists": [
+        {
+            "mbid": "6256ace7-f139-4a22-a5e2-e9e46bffb0d4", 
+            "attribute-list": [
+                "tanbur"
+            ], 
+            "type": "instrument", 
+            "name": "Fahrettin \u00c7imenli"
+        }
+    ], 
+    "usul": [
+        {
+            "attribute_key": "serbest", 
+            "mb_tag": "serbest", 
+            "source": "http://musicbrainz.org/recording/78d58438-81fc-41a3-8ecf-30e61e5e74c3"
+        }
+    ]
+}

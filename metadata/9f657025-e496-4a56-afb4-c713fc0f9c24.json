@@ -1,0 +1,57 @@
+{
+    "instrumentation_voicing": "Duo instrumental", 
+    "form": [
+        {
+            "attribute_key": "taksim", 
+            "mb_tag": "taksim", 
+            "source": "http://musicbrainz.org/recording/9f657025-e496-4a56-afb4-c713fc0f9c24"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "6a11e408-fd68-4161-8f72-d18493965464", 
+            "title": "Evcara 3"
+        }
+    ], 
+    "title": "Ney - Kanun M\u00fc\u015fterek Taksim", 
+    "url": "http://musicbrainz.org/recording/9f657025-e496-4a56-afb4-c713fc0f9c24", 
+    "artist_credits": [
+        {
+            "mbid": "7ef61959-65f2-41ab-9ae2-ba890812b7b4", 
+            "name": "Bekir S\u0131dk\u0131 Sezgin"
+        }
+    ], 
+    "mbid": "9f657025-e496-4a56-afb4-c713fc0f9c24", 
+    "makam": [
+        {
+            "attribute_key": "evcara", 
+            "mb_tag": "evcara", 
+            "source": "http://musicbrainz.org/recording/9f657025-e496-4a56-afb4-c713fc0f9c24"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
+            "attribute-list": [
+                "ney"
+            ], 
+            "type": "instrument", 
+            "name": "[unknown]"
+        }, 
+        {
+            "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
+            "attribute-list": [
+                "kanun"
+            ], 
+            "type": "instrument", 
+            "name": "[unknown]"
+        }
+    ], 
+    "usul": [
+        {
+            "attribute_key": "serbest", 
+            "mb_tag": "serbest", 
+            "source": "http://musicbrainz.org/recording/9f657025-e496-4a56-afb4-c713fc0f9c24"
+        }
+    ]
+}

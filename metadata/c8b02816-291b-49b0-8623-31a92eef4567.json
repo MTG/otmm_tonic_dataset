@@ -1,0 +1,65 @@
+{
+    "usul": [
+        {
+            "attribute_key": "aksaksemai", 
+            "mb_attribute": "Aksaksemai", 
+            "source": "http://musicbrainz.org/work/45ae0a7a-6abe-453c-9b09-984415379f91"
+        }
+    ], 
+    "form": [
+        {
+            "attribute_key": "sazsemaisi", 
+            "mb_attribute": "Sazsemaisi", 
+            "source": "http://musicbrainz.org/work/45ae0a7a-6abe-453c-9b09-984415379f91"
+        }, 
+        {
+            "attribute_key": "sazsemaisi", 
+            "mb_tag": "sazsemaisi", 
+            "source": "http://musicbrainz.org/recording/c8b02816-291b-49b0-8623-31a92eef4567"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "bfd2fcde-2271-4d8a-af42-98e174e13a4b", 
+            "title": "Murat Aydemir"
+        }
+    ], 
+    "title": "S\u00fbzidil\u00e2r\u00e2 Saz Semaisi", 
+    "url": "http://musicbrainz.org/recording/c8b02816-291b-49b0-8623-31a92eef4567", 
+    "artist_credits": [
+        {
+            "mbid": "9b6e98f8-b695-45da-8c9c-68d4bab460fd", 
+            "name": "Murat Aydemir"
+        }
+    ], 
+    "mbid": "c8b02816-291b-49b0-8623-31a92eef4567", 
+    "makam": [
+        {
+            "attribute_key": "suzidilara", 
+            "mb_attribute": "Suzidilara", 
+            "source": "http://musicbrainz.org/work/45ae0a7a-6abe-453c-9b09-984415379f91"
+        }, 
+        {
+            "attribute_key": "suzidilara", 
+            "mb_tag": "suzidilara", 
+            "source": "http://musicbrainz.org/recording/c8b02816-291b-49b0-8623-31a92eef4567"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "9b6e98f8-b695-45da-8c9c-68d4bab460fd", 
+            "attribute-list": [
+                "tanbur"
+            ], 
+            "type": "instrument", 
+            "name": "Murat Aydemir"
+        }
+    ], 
+    "instrumentation_voicing": "Solo instrumental", 
+    "works": [
+        {
+            "mbid": "45ae0a7a-6abe-453c-9b09-984415379f91", 
+            "title": "S\u00fbzidil\u00e2r\u00e2 Saz Semaisi"
+        }
+    ]
+}

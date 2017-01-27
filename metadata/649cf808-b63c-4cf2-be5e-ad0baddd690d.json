@@ -1,0 +1,72 @@
+{
+    "usul": [
+        {
+            "attribute_key": "duyek", 
+            "mb_attribute": "D\u00fcyek", 
+            "source": "http://musicbrainz.org/work/9e381205-66f8-4196-ad1a-96a3fe673406"
+        }, 
+        {
+            "attribute_key": "duyek", 
+            "mb_tag": "d\u00fcyek", 
+            "source": "http://musicbrainz.org/recording/649cf808-b63c-4cf2-be5e-ad0baddd690d"
+        }
+    ], 
+    "form": [
+        {
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
+            "source": "http://musicbrainz.org/work/9e381205-66f8-4196-ad1a-96a3fe673406"
+        }, 
+        {
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
+            "source": "http://musicbrainz.org/recording/649cf808-b63c-4cf2-be5e-ad0baddd690d"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "8bf2ac3f-26f7-4a78-ac00-467cd2667bf6", 
+            "title": "Hicaz 13"
+        }
+    ], 
+    "title": "\u00d6lsem Etmem S\u0131rr-\u0131 A\u015fk\u0131 Zerre Fa\u015f", 
+    "url": "http://musicbrainz.org/recording/649cf808-b63c-4cf2-be5e-ad0baddd690d", 
+    "artist_credits": [
+        {
+            "mbid": "7ef61959-65f2-41ab-9ae2-ba890812b7b4", 
+            "name": "Bekir S\u0131dk\u0131 Sezgin"
+        }
+    ], 
+    "mbid": "649cf808-b63c-4cf2-be5e-ad0baddd690d", 
+    "makam": [
+        {
+            "attribute_key": "hicaz", 
+            "mb_attribute": "Hicaz", 
+            "source": "http://musicbrainz.org/work/9e381205-66f8-4196-ad1a-96a3fe673406"
+        }, 
+        {
+            "attribute_key": "hicaz", 
+            "mb_tag": "hicaz", 
+            "source": "http://musicbrainz.org/recording/649cf808-b63c-4cf2-be5e-ad0baddd690d"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
+            "type": "performing orchestra", 
+            "name": "[unknown]"
+        }, 
+        {
+            "mbid": "7ef61959-65f2-41ab-9ae2-ba890812b7b4", 
+            "type": "vocal", 
+            "name": "Bekir S\u0131dk\u0131 Sezgin"
+        }
+    ], 
+    "instrumentation_voicing": "Solo vocal with accompaniment", 
+    "works": [
+        {
+            "mbid": "9e381205-66f8-4196-ad1a-96a3fe673406", 
+            "title": "\u00d6lsem Etmem S\u0131rr-\u0131 A\u015fk\u0131"
+        }
+    ]
+}

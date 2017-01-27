@@ -1,0 +1,102 @@
+{
+    "usul": [
+        {
+            "attribute_key": "aksak", 
+            "mb_attribute": "Aksak", 
+            "source": "http://musicbrainz.org/work/f8219131-cf9c-4a09-9ae5-14dfba2542c0"
+        }, 
+        {
+            "attribute_key": "aksak", 
+            "mb_tag": "aksak", 
+            "source": "http://musicbrainz.org/recording/4d31e375-8615-47d4-bd99-6d2e8be920da"
+        }
+    ], 
+    "form": [
+        {
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
+            "source": "http://musicbrainz.org/work/f8219131-cf9c-4a09-9ae5-14dfba2542c0"
+        }, 
+        {
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
+            "source": "http://musicbrainz.org/recording/4d31e375-8615-47d4-bd99-6d2e8be920da"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "4b27b0bc-ee6e-4838-85ee-cce0cdaf4537", 
+            "title": "T\u00fcrk Bestekarlar\u0131 Serisi - Hac\u0131 Arif Bey"
+        }
+    ], 
+    "title": "Bakm\u0131yor \u00c7e\u015fm-i Siyah Feryade", 
+    "url": "http://musicbrainz.org/recording/4d31e375-8615-47d4-bd99-6d2e8be920da", 
+    "artist_credits": [
+        {
+            "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
+            "name": "[unknown]"
+        }
+    ], 
+    "mbid": "4d31e375-8615-47d4-bd99-6d2e8be920da", 
+    "makam": [
+        {
+            "attribute_key": "nihavent", 
+            "mb_attribute": "Nihavent", 
+            "source": "http://musicbrainz.org/work/f8219131-cf9c-4a09-9ae5-14dfba2542c0"
+        }, 
+        {
+            "attribute_key": "nihavent", 
+            "mb_tag": "nihavent", 
+            "source": "http://musicbrainz.org/recording/4d31e375-8615-47d4-bd99-6d2e8be920da"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
+            "attribute-list": [
+                "choir vocals"
+            ], 
+            "type": "vocal", 
+            "name": "[unknown]"
+        }, 
+        {
+            "mbid": "7a3adb1f-ebe6-4dbe-a0cc-c71f034d4091", 
+            "attribute-list": [
+                "ney"
+            ], 
+            "type": "instrument", 
+            "name": "Volkan Y\u0131lmaz"
+        }, 
+        {
+            "mbid": "8cf45553-41e7-4544-8070-45ff74f7fb18", 
+            "attribute-list": [
+                "classical kemen\u00e7e"
+            ], 
+            "type": "instrument", 
+            "name": "Ahmet Kadri Rizeli"
+        }, 
+        {
+            "mbid": "9b6e98f8-b695-45da-8c9c-68d4bab460fd", 
+            "attribute-list": [
+                "tanbur"
+            ], 
+            "type": "instrument", 
+            "name": "Murat Aydemir"
+        }, 
+        {
+            "mbid": "eec97a99-ab73-4707-84b5-d7a7e667cb11", 
+            "attribute-list": [
+                "kanun"
+            ], 
+            "type": "instrument", 
+            "name": "Safinaz Rizeli"
+        }
+    ], 
+    "instrumentation_voicing": "Solo vocal with accompaniment", 
+    "works": [
+        {
+            "mbid": "f8219131-cf9c-4a09-9ae5-14dfba2542c0", 
+            "title": "Bakm\u0131yor \u00c7e\u015fmi Siyah"
+        }
+    ]
+}

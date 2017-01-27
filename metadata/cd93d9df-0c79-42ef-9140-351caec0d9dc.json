@@ -1,0 +1,49 @@
+{
+    "instrumentation_voicing": "Solo instrumental", 
+    "form": [
+        {
+            "attribute_key": "taksim", 
+            "mb_tag": "taksim", 
+            "source": "http://musicbrainz.org/recording/cd93d9df-0c79-42ef-9140-351caec0d9dc"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "e6333ae3-b6f4-44a3-9e66-e427b48f1815", 
+            "title": "Ud Taksimleri"
+        }
+    ], 
+    "title": "H\u00fcseyni", 
+    "url": "http://musicbrainz.org/recording/cd93d9df-0c79-42ef-9140-351caec0d9dc", 
+    "artist_credits": [
+        {
+            "mbid": "e3eb44b9-f298-4994-8083-797aaba3ea9c", 
+            "name": "Ergin K\u0131z\u0131lay"
+        }
+    ], 
+    "mbid": "cd93d9df-0c79-42ef-9140-351caec0d9dc", 
+    "makam": [
+        {
+            "attribute_key": "huseyni", 
+            "mb_tag": "h\u00fcseyni", 
+            "source": "http://musicbrainz.org/recording/cd93d9df-0c79-42ef-9140-351caec0d9dc"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "e3eb44b9-f298-4994-8083-797aaba3ea9c", 
+            "attribute-list": [
+                "oud"
+            ], 
+            "type": "instrument", 
+            "name": "Ergin K\u0131z\u0131lay"
+        }
+    ], 
+    "usul": [
+        {
+            "attribute_key": "serbest", 
+            "mb_tag": "serbest", 
+            "source": "http://musicbrainz.org/recording/cd93d9df-0c79-42ef-9140-351caec0d9dc"
+        }
+    ]
+}

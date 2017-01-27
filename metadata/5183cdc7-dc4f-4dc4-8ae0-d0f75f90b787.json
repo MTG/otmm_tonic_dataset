@@ -1,0 +1,70 @@
+{
+    "usul": [
+        {
+            "attribute_key": "aksaksemai", 
+            "mb_attribute": "Aksaksemai", 
+            "source": "http://musicbrainz.org/work/80a81c87-eb6e-40dc-b69a-e0712b4374f2"
+        }, 
+        {
+            "attribute_key": "aksaksemai", 
+            "mb_tag": "aksaksemai", 
+            "source": "http://musicbrainz.org/recording/5183cdc7-dc4f-4dc4-8ae0-d0f75f90b787"
+        }
+    ], 
+    "form": [
+        {
+            "attribute_key": "sazsemaisi", 
+            "mb_attribute": "Sazsemaisi", 
+            "source": "http://musicbrainz.org/work/80a81c87-eb6e-40dc-b69a-e0712b4374f2"
+        }, 
+        {
+            "attribute_key": "sazsemaisi", 
+            "mb_tag": "sazsemaisi", 
+            "source": "http://musicbrainz.org/recording/5183cdc7-dc4f-4dc4-8ae0-d0f75f90b787"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "93d37c26-9732-4558-afc9-b2e5d3f58cb0", 
+            "title": "Ney ile \u0130cra Edilmi\u015f Saz Eserleri"
+        }
+    ], 
+    "title": "Ferah-Feza Saz Semai (K\u0131z Ney)", 
+    "url": "http://musicbrainz.org/recording/5183cdc7-dc4f-4dc4-8ae0-d0f75f90b787", 
+    "artist_credits": [
+        {
+            "mbid": "3a57e3a4-4e48-4ce2-aae0-c5b5275721eb", 
+            "name": "Salih Bilgin"
+        }
+    ], 
+    "mbid": "5183cdc7-dc4f-4dc4-8ae0-d0f75f90b787", 
+    "makam": [
+        {
+            "attribute_key": "ferahfeza", 
+            "mb_attribute": "Ferahfeza", 
+            "source": "http://musicbrainz.org/work/80a81c87-eb6e-40dc-b69a-e0712b4374f2"
+        }, 
+        {
+            "attribute_key": "ferahfeza", 
+            "mb_tag": "ferahfeza", 
+            "source": "http://musicbrainz.org/recording/5183cdc7-dc4f-4dc4-8ae0-d0f75f90b787"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "3a57e3a4-4e48-4ce2-aae0-c5b5275721eb", 
+            "attribute-list": [
+                "ney"
+            ], 
+            "type": "instrument", 
+            "name": "Salih Bilgin"
+        }
+    ], 
+    "instrumentation_voicing": "Solo instrumental", 
+    "works": [
+        {
+            "mbid": "80a81c87-eb6e-40dc-b69a-e0712b4374f2", 
+            "title": "Ferahfeza Sazsemaisi"
+        }
+    ]
+}

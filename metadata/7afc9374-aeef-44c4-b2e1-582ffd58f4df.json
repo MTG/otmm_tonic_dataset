@@ -1,0 +1,72 @@
+{
+    "usul": [
+        {
+            "attribute_key": "musemmen", 
+            "mb_attribute": "M\u00fcsemmen", 
+            "source": "http://musicbrainz.org/work/e63f98dd-28a8-4516-b8fa-3d1be3ae9626"
+        }, 
+        {
+            "attribute_key": "musemmen_ii", 
+            "mb_tag": "m\u00fcsemmen", 
+            "source": "http://musicbrainz.org/recording/7afc9374-aeef-44c4-b2e1-582ffd58f4df"
+        }
+    ], 
+    "form": [
+        {
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
+            "source": "http://musicbrainz.org/work/e63f98dd-28a8-4516-b8fa-3d1be3ae9626"
+        }, 
+        {
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
+            "source": "http://musicbrainz.org/recording/7afc9374-aeef-44c4-b2e1-582ffd58f4df"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "8bf2ac3f-26f7-4a78-ac00-467cd2667bf6", 
+            "title": "Hicaz 13"
+        }
+    ], 
+    "title": "Nevbahar-\u0131 Vuslat\u0131n Bass\u0131n Deyu \u0130lk Ay\u0131na", 
+    "url": "http://musicbrainz.org/recording/7afc9374-aeef-44c4-b2e1-582ffd58f4df", 
+    "artist_credits": [
+        {
+            "mbid": "7ef61959-65f2-41ab-9ae2-ba890812b7b4", 
+            "name": "Bekir S\u0131dk\u0131 Sezgin"
+        }
+    ], 
+    "mbid": "7afc9374-aeef-44c4-b2e1-582ffd58f4df", 
+    "makam": [
+        {
+            "attribute_key": "hicaz", 
+            "mb_attribute": "Hicaz", 
+            "source": "http://musicbrainz.org/work/e63f98dd-28a8-4516-b8fa-3d1be3ae9626"
+        }, 
+        {
+            "attribute_key": "hicaz", 
+            "mb_tag": "hicaz", 
+            "source": "http://musicbrainz.org/recording/7afc9374-aeef-44c4-b2e1-582ffd58f4df"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
+            "type": "performing orchestra", 
+            "name": "[unknown]"
+        }, 
+        {
+            "mbid": "7ef61959-65f2-41ab-9ae2-ba890812b7b4", 
+            "type": "vocal", 
+            "name": "Bekir S\u0131dk\u0131 Sezgin"
+        }
+    ], 
+    "instrumentation_voicing": "Solo vocal with accompaniment", 
+    "works": [
+        {
+            "mbid": "e63f98dd-28a8-4516-b8fa-3d1be3ae9626", 
+            "title": "Nevbahar-\u0131 Vuslat\u0131n"
+        }
+    ]
+}

@@ -1,0 +1,115 @@
+{
+    "usul": [
+        {
+            "attribute_key": "aksaksemai", 
+            "mb_attribute": "Aksaksemai", 
+            "source": "http://musicbrainz.org/work/d1086c07-fb1f-4eb2-9585-9f22ea850f12"
+        }, 
+        {
+            "attribute_key": "yuruksemai", 
+            "mb_tag": "y\u00fcr\u00fcksemai", 
+            "source": "http://musicbrainz.org/recording/eac4bc0f-9d84-4425-9435-a796379c907a"
+        }, 
+        {
+            "attribute_key": "aksaksemai", 
+            "mb_tag": "aksaksemai", 
+            "source": "http://musicbrainz.org/recording/eac4bc0f-9d84-4425-9435-a796379c907a"
+        }
+    ], 
+    "form": [
+        {
+            "attribute_key": "sazsemaisi", 
+            "mb_attribute": "Sazsemaisi", 
+            "source": "http://musicbrainz.org/work/d1086c07-fb1f-4eb2-9585-9f22ea850f12"
+        }, 
+        {
+            "attribute_key": "sazsemaisi", 
+            "mb_tag": "sazsemaisi", 
+            "source": "http://musicbrainz.org/recording/eac4bc0f-9d84-4425-9435-a796379c907a"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "ee2f03ba-e6e0-44cf-b94a-f54703bfc372", 
+            "title": "Bestekar III. Selim Han / Composer Sultan Selim Khan III."
+        }
+    ], 
+    "title": "Pesendide Makam\u0131nda Sazsemaisi", 
+    "url": "http://musicbrainz.org/recording/eac4bc0f-9d84-4425-9435-a796379c907a", 
+    "artist_credits": [
+        {
+            "mbid": "c9809367-e347-417f-8dd9-d0f8adbdb5d0", 
+            "name": "Ayangil T\u00fcrk M\u00fczi\u011fi Orkestra Ve Korosu"
+        }
+    ], 
+    "mbid": "eac4bc0f-9d84-4425-9435-a796379c907a", 
+    "makam": [
+        {
+            "attribute_key": "pesendide", 
+            "mb_attribute": "Pesendide", 
+            "source": "http://musicbrainz.org/work/d1086c07-fb1f-4eb2-9585-9f22ea850f12"
+        }, 
+        {
+            "attribute_key": "pesendide", 
+            "mb_tag": "pesendide", 
+            "source": "http://musicbrainz.org/recording/eac4bc0f-9d84-4425-9435-a796379c907a"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "38709d7c-71bc-4663-8355-c0c62e919192", 
+            "attribute-list": [
+                "percussion"
+            ], 
+            "type": "instrument", 
+            "name": "Mehmet \u00c7\u0131\u011f Turgay"
+        }, 
+        {
+            "mbid": "60cdd03a-dcf9-4da7-96f7-7b343261cc07", 
+            "attribute-list": [
+                "classical kemen\u00e7e"
+            ], 
+            "type": "instrument", 
+            "name": "Furkan Bilgi"
+        }, 
+        {
+            "mbid": "c470e6d2-320d-47a8-9daa-e2febd6cf4ae", 
+            "attribute-list": [
+                "oud"
+            ], 
+            "type": "instrument", 
+            "name": "Enver Mete Aslan"
+        }, 
+        {
+            "mbid": "c5bd2eee-7fcb-4cc5-8481-a69f5caded75", 
+            "attribute-list": [
+                "kanun"
+            ], 
+            "type": "instrument", 
+            "name": "Ruhi Ayangil"
+        }, 
+        {
+            "mbid": "dc9bc60d-fd49-4ea9-8790-e6c08636437d", 
+            "attribute-list": [
+                "tanbur"
+            ], 
+            "type": "instrument", 
+            "name": "Fatih Oval\u0131"
+        }, 
+        {
+            "mbid": "fd95489c-f4e4-44cc-b79e-a2f3bbbf7e55", 
+            "attribute-list": [
+                "ney"
+            ], 
+            "type": "instrument", 
+            "name": "Ali T\u00fcfek\u00e7i"
+        }
+    ], 
+    "instrumentation_voicing": "Ensemble instrumental", 
+    "works": [
+        {
+            "mbid": "d1086c07-fb1f-4eb2-9585-9f22ea850f12", 
+            "title": "Pesend\u00eede Saz Semaisi"
+        }
+    ]
+}

@@ -1,0 +1,75 @@
+{
+    "usul": [
+        {
+            "attribute_key": "curcuna", 
+            "mb_attribute": "Curcuna", 
+            "source": "http://musicbrainz.org/work/a8a0d02b-b0cf-40e5-b0f1-1289188b148f"
+        }, 
+        {
+            "attribute_key": "kapali_curcuna", 
+            "mb_tag": "curcuna", 
+            "source": "http://musicbrainz.org/recording/80d83d0c-fafc-44cf-acdf-b392f4a7e8f6"
+        }
+    ], 
+    "form": [
+        {
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
+            "source": "http://musicbrainz.org/work/a8a0d02b-b0cf-40e5-b0f1-1289188b148f"
+        }, 
+        {
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
+            "source": "http://musicbrainz.org/recording/80d83d0c-fafc-44cf-acdf-b392f4a7e8f6"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "83f3321c-8fec-4736-ae45-aa1d2edc9b8b", 
+            "title": "T\u00fcrk Sanat M\u00fczi\u011fi Besteleri Saz Eserleri 2"
+        }, 
+        {
+            "mbid": "b8768e6d-65ed-4d26-9b47-51793c24b5a0", 
+            "title": "T\u00fcrk Sanat M\u00fczi\u011fi Besteleri Saz Eserleri 1"
+        }, 
+        {
+            "mbid": "c58f2002-8862-4efb-953b-7324bb7f3e31", 
+            "title": "T\u00fcrk Sanat M\u00fczi\u011fi Besteleri Saz Eserleri 3"
+        }
+    ], 
+    "title": "Bu Ak\u015fam B\u00fct\u00fcn Meyhanelerini", 
+    "url": "http://musicbrainz.org/recording/80d83d0c-fafc-44cf-acdf-b392f4a7e8f6", 
+    "artist_credits": [
+        {
+            "mbid": "ef074ab6-a2a8-42f7-a454-068265023697", 
+            "name": "Aziz T\u00fcrk Sanat M\u00fczi\u011fi Grubu"
+        }
+    ], 
+    "mbid": "80d83d0c-fafc-44cf-acdf-b392f4a7e8f6", 
+    "makam": [
+        {
+            "attribute_key": "kurdilihicazkar", 
+            "mb_attribute": "K\u00fcrdilihicazkar", 
+            "source": "http://musicbrainz.org/work/a8a0d02b-b0cf-40e5-b0f1-1289188b148f"
+        }, 
+        {
+            "attribute_key": "kurdilihicazkar", 
+            "mb_tag": "k\u00fcrdilihicazkar", 
+            "source": "http://musicbrainz.org/recording/80d83d0c-fafc-44cf-acdf-b392f4a7e8f6"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "ef074ab6-a2a8-42f7-a454-068265023697", 
+            "type": "performing orchestra", 
+            "name": "Aziz T\u00fcrk Sanat M\u00fczi\u011fi Grubu"
+        }
+    ], 
+    "instrumentation_voicing": "Ensemble instrumental", 
+    "works": [
+        {
+            "mbid": "a8a0d02b-b0cf-40e5-b0f1-1289188b148f", 
+            "title": "Bu Ak\u015fam B\u00fct\u00fcn Meyhanelerini"
+        }
+    ]
+}

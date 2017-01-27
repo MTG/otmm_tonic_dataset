@@ -1,0 +1,49 @@
+{
+    "instrumentation_voicing": "Solo instrumental", 
+    "form": [
+        {
+            "attribute_key": "taksim", 
+            "mb_tag": "taksim", 
+            "source": "http://musicbrainz.org/recording/d4a3a588-93ad-4529-beb8-c7aa9869dc42"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "9d63cb14-4233-48ea-a4c9-e3c60d880786", 
+            "title": "Tanbur"
+        }
+    ], 
+    "title": "K\u00fcrdilihicazkar Taksim", 
+    "url": "http://musicbrainz.org/recording/d4a3a588-93ad-4529-beb8-c7aa9869dc42", 
+    "artist_credits": [
+        {
+            "mbid": "ef7f9168-eec5-4ecd-a142-132ef3355fc1", 
+            "name": "Erc\u00fcmend Batanay"
+        }
+    ], 
+    "mbid": "d4a3a588-93ad-4529-beb8-c7aa9869dc42", 
+    "makam": [
+        {
+            "attribute_key": "kurdilihicazkar", 
+            "mb_tag": "k\u00fcrdilihicazkar", 
+            "source": "http://musicbrainz.org/recording/d4a3a588-93ad-4529-beb8-c7aa9869dc42"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "ef7f9168-eec5-4ecd-a142-132ef3355fc1", 
+            "attribute-list": [
+                "tanbur"
+            ], 
+            "type": "instrument", 
+            "name": "Erc\u00fcmend Batanay"
+        }
+    ], 
+    "usul": [
+        {
+            "attribute_key": "serbest", 
+            "mb_tag": "serbest", 
+            "source": "http://musicbrainz.org/recording/d4a3a588-93ad-4529-beb8-c7aa9869dc42"
+        }
+    ]
+}

@@ -1,0 +1,65 @@
+{
+    "usul": [
+        {
+            "attribute_key": "muhammes", 
+            "mb_attribute": "Muhammes", 
+            "source": "http://musicbrainz.org/work/211a71a2-cd77-4948-9566-0315988329e5"
+        }
+    ], 
+    "form": [
+        {
+            "attribute_key": "pesrev", 
+            "mb_attribute": "Pe\u015frev", 
+            "source": "http://musicbrainz.org/work/211a71a2-cd77-4948-9566-0315988329e5"
+        }, 
+        {
+            "attribute_key": "pesrev", 
+            "mb_tag": "pe\u015frev", 
+            "source": "http://musicbrainz.org/recording/34b9e2f1-273d-4cbd-bcb7-182a2e87798e"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "bfd2fcde-2271-4d8a-af42-98e174e13a4b", 
+            "title": "Murat Aydemir"
+        }
+    ], 
+    "title": "Hicazk\u00e2r Pe\u015frevi", 
+    "url": "http://musicbrainz.org/recording/34b9e2f1-273d-4cbd-bcb7-182a2e87798e", 
+    "artist_credits": [
+        {
+            "mbid": "9b6e98f8-b695-45da-8c9c-68d4bab460fd", 
+            "name": "Murat Aydemir"
+        }
+    ], 
+    "mbid": "34b9e2f1-273d-4cbd-bcb7-182a2e87798e", 
+    "makam": [
+        {
+            "attribute_key": "hicazkar", 
+            "mb_attribute": "Hicazkar", 
+            "source": "http://musicbrainz.org/work/211a71a2-cd77-4948-9566-0315988329e5"
+        }, 
+        {
+            "attribute_key": "hicazkar", 
+            "mb_tag": "hicazkar", 
+            "source": "http://musicbrainz.org/recording/34b9e2f1-273d-4cbd-bcb7-182a2e87798e"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "9b6e98f8-b695-45da-8c9c-68d4bab460fd", 
+            "attribute-list": [
+                "tanbur"
+            ], 
+            "type": "instrument", 
+            "name": "Murat Aydemir"
+        }
+    ], 
+    "instrumentation_voicing": "Solo instrumental", 
+    "works": [
+        {
+            "mbid": "211a71a2-cd77-4948-9566-0315988329e5", 
+            "title": "Hicazk\u00e2r Pe\u015frevi"
+        }
+    ]
+}

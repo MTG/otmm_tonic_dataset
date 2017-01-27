@@ -1,0 +1,80 @@
+{
+    "usul": [
+        {
+            "attribute_key": "turkaksagi", 
+            "mb_attribute": "T\u00fcrkaksa\u011f\u0131", 
+            "source": "http://musicbrainz.org/work/dac027fc-e3ca-47b1-90c7-bb64b02b7d9b"
+        }, 
+        {
+            "attribute_key": "turkaksagi_ii", 
+            "mb_tag": "t\u00fcrkaksa\u011f\u0131", 
+            "source": "http://musicbrainz.org/recording/0752cce3-ce78-4a5c-83f6-a708a93fc581"
+        }
+    ], 
+    "form": [
+        {
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
+            "source": "http://musicbrainz.org/work/dac027fc-e3ca-47b1-90c7-bb64b02b7d9b"
+        }, 
+        {
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
+            "source": "http://musicbrainz.org/recording/0752cce3-ce78-4a5c-83f6-a708a93fc581"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "9df9903d-c975-4ad0-8845-9dc8674b6fd1", 
+            "title": "Hicaz Nihavend Fasl\u0131"
+        }
+    ], 
+    "title": "Nerelerde Kald\u0131n", 
+    "url": "http://musicbrainz.org/recording/0752cce3-ce78-4a5c-83f6-a708a93fc581", 
+    "artist_credits": [
+        {
+            "mbid": "90b1ad62-d0e1-4cb9-bd18-d8f69e5029b1", 
+            "name": "Udi Hrant Kenkulian"
+        }
+    ], 
+    "mbid": "0752cce3-ce78-4a5c-83f6-a708a93fc581", 
+    "makam": [
+        {
+            "attribute_key": "nihavent", 
+            "mb_attribute": "Nihavent", 
+            "source": "http://musicbrainz.org/work/dac027fc-e3ca-47b1-90c7-bb64b02b7d9b"
+        }, 
+        {
+            "attribute_key": "nihavent", 
+            "mb_tag": "nihavent", 
+            "source": "http://musicbrainz.org/recording/0752cce3-ce78-4a5c-83f6-a708a93fc581"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
+            "type": "performing orchestra", 
+            "name": "[unknown]"
+        }, 
+        {
+            "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
+            "attribute-list": [
+                "choir vocals"
+            ], 
+            "type": "vocal", 
+            "name": "[unknown]"
+        }, 
+        {
+            "mbid": "90b1ad62-d0e1-4cb9-bd18-d8f69e5029b1", 
+            "type": "conductor", 
+            "name": "Udi Hrant Kenkulian"
+        }
+    ], 
+    "instrumentation_voicing": "Solo vocal with accompaniment", 
+    "works": [
+        {
+            "mbid": "dac027fc-e3ca-47b1-90c7-bb64b02b7d9b", 
+            "title": "Nerelerde Kald\u0131n"
+        }
+    ]
+}

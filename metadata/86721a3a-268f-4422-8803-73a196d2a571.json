@@ -1,0 +1,82 @@
+{
+    "usul": [
+        {
+            "attribute_key": "aksaksemai", 
+            "mb_attribute": "Aksaksemai", 
+            "source": "http://musicbrainz.org/work/e7924b0d-c8a0-4b4a-b253-8eec898eac1e"
+        }, 
+        {
+            "attribute_key": "aksaksemai", 
+            "mb_tag": "aksaksemai", 
+            "source": "http://musicbrainz.org/recording/86721a3a-268f-4422-8803-73a196d2a571"
+        }
+    ], 
+    "form": [
+        {
+            "attribute_key": "sazsemaisi", 
+            "mb_attribute": "Sazsemaisi", 
+            "source": "http://musicbrainz.org/work/e7924b0d-c8a0-4b4a-b253-8eec898eac1e"
+        }, 
+        {
+            "attribute_key": "sazsemaisi", 
+            "mb_tag": "sazsemaisi", 
+            "source": "http://musicbrainz.org/recording/86721a3a-268f-4422-8803-73a196d2a571"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "0660643a-07b3-45cf-ba94-e2ca58e029bd", 
+            "title": "Neva"
+        }
+    ], 
+    "title": "U\u015f\u015fak Sazsemaisi", 
+    "url": "http://musicbrainz.org/recording/86721a3a-268f-4422-8803-73a196d2a571", 
+    "artist_credits": [
+        {
+            "mbid": "3a57e3a4-4e48-4ce2-aae0-c5b5275721eb", 
+            "name": "Salih Bilgin"
+        }, 
+        {
+            "mbid": "9b6e98f8-b695-45da-8c9c-68d4bab460fd", 
+            "name": "Murat Aydemir"
+        }
+    ], 
+    "mbid": "86721a3a-268f-4422-8803-73a196d2a571", 
+    "makam": [
+        {
+            "attribute_key": "ussak", 
+            "mb_attribute": "U\u015f\u015fak", 
+            "source": "http://musicbrainz.org/work/e7924b0d-c8a0-4b4a-b253-8eec898eac1e"
+        }, 
+        {
+            "attribute_key": "ussak", 
+            "mb_tag": "u\u015f\u015fak", 
+            "source": "http://musicbrainz.org/recording/86721a3a-268f-4422-8803-73a196d2a571"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "3a57e3a4-4e48-4ce2-aae0-c5b5275721eb", 
+            "attribute-list": [
+                "ney"
+            ], 
+            "type": "instrument", 
+            "name": "Salih Bilgin"
+        }, 
+        {
+            "mbid": "9b6e98f8-b695-45da-8c9c-68d4bab460fd", 
+            "attribute-list": [
+                "tanbur"
+            ], 
+            "type": "instrument", 
+            "name": "Murat Aydemir"
+        }
+    ], 
+    "instrumentation_voicing": "Duo instrumental", 
+    "works": [
+        {
+            "mbid": "e7924b0d-c8a0-4b4a-b253-8eec898eac1e", 
+            "title": "U\u015f\u015fak Saz Semaisi"
+        }
+    ]
+}

@@ -1,0 +1,57 @@
+{
+    "usul": [
+        {
+            "attribute_key": "yuruksemai", 
+            "mb_tag": "y\u00fcr\u00fcksemai", 
+            "source": "http://musicbrainz.org/recording/2f9fc522-41da-40d9-8fe1-0082ca1a07c4"
+        }
+    ], 
+    "form": [
+        {
+            "attribute_key": "ayin_i_serif", 
+            "mb_attribute": "Ayin-i \u015eerif", 
+            "source": "http://musicbrainz.org/work/0fac8996-5ce1-4b31-beed-58bac23d2b35"
+        }, 
+        {
+            "attribute_key": "yuruksemai", 
+            "mb_tag": "y\u00fcr\u00fcksemai", 
+            "source": "http://musicbrainz.org/recording/2f9fc522-41da-40d9-8fe1-0082ca1a07c4"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "430058da-7be0-48ec-abac-9b88b87e293f", 
+            "title": "Mevlevi Sesler"
+        }
+    ], 
+    "title": "Son Y\u00fcr\u00fcksemai", 
+    "url": "http://musicbrainz.org/recording/2f9fc522-41da-40d9-8fe1-0082ca1a07c4", 
+    "artist_credits": [
+        {
+            "mbid": "81081f45-a36e-4248-9d33-43d4a3445f6d", 
+            "name": "Dede Efendi"
+        }
+    ], 
+    "mbid": "2f9fc522-41da-40d9-8fe1-0082ca1a07c4", 
+    "makam": [
+        {
+            "attribute_key": "saba", 
+            "mb_attribute": "Saba", 
+            "source": "http://musicbrainz.org/work/0fac8996-5ce1-4b31-beed-58bac23d2b35"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "713ad8af-1c98-4569-a445-71f7b9395945", 
+            "type": "performing orchestra", 
+            "name": "Dede Efendi T\u00fcrk M\u00fczi\u011fi Toplulu\u011fu"
+        }
+    ], 
+    "instrumentation_voicing": "Ensemble instrumental", 
+    "works": [
+        {
+            "mbid": "0fac8996-5ce1-4b31-beed-58bac23d2b35", 
+            "title": "Saba Ayin-i \u015eerif"
+        }
+    ]
+}

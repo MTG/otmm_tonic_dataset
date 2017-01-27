@@ -1,0 +1,70 @@
+{
+    "usul": [
+        {
+            "attribute_key": "curcuna", 
+            "mb_attribute": "Curcuna", 
+            "source": "http://musicbrainz.org/work/12567f93-4ae7-4198-a55b-1422b7a3935c"
+        }, 
+        {
+            "attribute_key": "kapali_curcuna", 
+            "mb_tag": "curcuna", 
+            "source": "http://musicbrainz.org/recording/36e2f0e0-af28-463e-aada-5504abcfbfad"
+        }
+    ], 
+    "form": [
+        {
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
+            "source": "http://musicbrainz.org/work/12567f93-4ae7-4198-a55b-1422b7a3935c"
+        }, 
+        {
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
+            "source": "http://musicbrainz.org/recording/36e2f0e0-af28-463e-aada-5504abcfbfad"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "27272058-7500-4ce2-a357-f9e038ef6be9", 
+            "title": "T\u00fcrk M\u00fczi\u011finde Kanun ile Sevilen \u015eark\u0131lar - Enstr\u00fcmantal"
+        }
+    ], 
+    "title": "Olmaz \u0130la\u00e7 Sine-i Sad-pareme", 
+    "url": "http://musicbrainz.org/recording/36e2f0e0-af28-463e-aada-5504abcfbfad", 
+    "artist_credits": [
+        {
+            "mbid": "230670ce-4f8c-4515-9a99-b747b7bd53c5", 
+            "name": "Ahmet Meter"
+        }
+    ], 
+    "mbid": "36e2f0e0-af28-463e-aada-5504abcfbfad", 
+    "makam": [
+        {
+            "attribute_key": "segah", 
+            "mb_attribute": "Segah", 
+            "source": "http://musicbrainz.org/work/12567f93-4ae7-4198-a55b-1422b7a3935c"
+        }, 
+        {
+            "attribute_key": "segah", 
+            "mb_tag": "segah", 
+            "source": "http://musicbrainz.org/recording/36e2f0e0-af28-463e-aada-5504abcfbfad"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "230670ce-4f8c-4515-9a99-b747b7bd53c5", 
+            "attribute-list": [
+                "kanun"
+            ], 
+            "type": "instrument", 
+            "name": "Ahmet Meter"
+        }
+    ], 
+    "instrumentation_voicing": "Solo instrumental", 
+    "works": [
+        {
+            "mbid": "12567f93-4ae7-4198-a55b-1422b7a3935c", 
+            "title": "Olmaz \u0130la\u00e7 Sine-i Sad Pareme"
+        }
+    ]
+}

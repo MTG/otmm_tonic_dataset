@@ -1,0 +1,70 @@
+{
+    "usul": [
+        {
+            "attribute_key": "aksaksemai", 
+            "mb_attribute": "Aksaksemai", 
+            "source": "http://musicbrainz.org/work/1dc8a983-8c66-477e-8c63-22409806f2e1"
+        }, 
+        {
+            "attribute_key": "aksaksemai", 
+            "mb_tag": "aksaksemai", 
+            "source": "http://musicbrainz.org/recording/69361bc7-f467-47ae-83b4-91f853a307cc"
+        }
+    ], 
+    "form": [
+        {
+            "attribute_key": "sazsemaisi", 
+            "mb_attribute": "Sazsemaisi", 
+            "source": "http://musicbrainz.org/work/1dc8a983-8c66-477e-8c63-22409806f2e1"
+        }, 
+        {
+            "attribute_key": "sazsemaisi", 
+            "mb_tag": "sazsemaisi", 
+            "source": "http://musicbrainz.org/recording/69361bc7-f467-47ae-83b4-91f853a307cc"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "8d71678a-4324-4754-9520-af5394356891", 
+            "title": "Turkish Music Makam Guide"
+        }
+    ], 
+    "title": "Beyati-Araban Sazsemaisi", 
+    "url": "http://musicbrainz.org/recording/69361bc7-f467-47ae-83b4-91f853a307cc", 
+    "artist_credits": [
+        {
+            "mbid": "9b6e98f8-b695-45da-8c9c-68d4bab460fd", 
+            "name": "Murat Aydemir"
+        }
+    ], 
+    "mbid": "69361bc7-f467-47ae-83b4-91f853a307cc", 
+    "makam": [
+        {
+            "attribute_key": "beyati_araban", 
+            "mb_attribute": "Beyati Araban", 
+            "source": "http://musicbrainz.org/work/1dc8a983-8c66-477e-8c63-22409806f2e1"
+        }, 
+        {
+            "attribute_key": "beyati_araban", 
+            "mb_tag": "beyati-araban", 
+            "source": "http://musicbrainz.org/recording/69361bc7-f467-47ae-83b4-91f853a307cc"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "9b6e98f8-b695-45da-8c9c-68d4bab460fd", 
+            "attribute-list": [
+                "tanbur"
+            ], 
+            "type": "instrument", 
+            "name": "Murat Aydemir"
+        }
+    ], 
+    "instrumentation_voicing": "Solo instrumental", 
+    "works": [
+        {
+            "mbid": "1dc8a983-8c66-477e-8c63-22409806f2e1", 
+            "title": "Beyati-Araban Sazsemaisi"
+        }
+    ]
+}

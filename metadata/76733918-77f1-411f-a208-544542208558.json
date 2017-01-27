@@ -1,0 +1,71 @@
+{
+    "usul": [
+        {
+            "attribute_key": "muhammes", 
+            "mb_attribute": "Muhammes", 
+            "source": "http://musicbrainz.org/work/5617c02f-8c47-4fda-9c3c-70dd5a471291"
+        }, 
+        {
+            "attribute_key": "duyek", 
+            "mb_tag": "d\u00fcyek", 
+            "source": "http://musicbrainz.org/recording/76733918-77f1-411f-a208-544542208558"
+        }
+    ], 
+    "form": [
+        {
+            "attribute_key": "pesrev", 
+            "mb_attribute": "Pe\u015frev", 
+            "source": "http://musicbrainz.org/work/5617c02f-8c47-4fda-9c3c-70dd5a471291"
+        }, 
+        {
+            "attribute_key": "pesrev", 
+            "mb_tag": "pe\u015frev", 
+            "source": "http://musicbrainz.org/recording/76733918-77f1-411f-a208-544542208558"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "3f73b971-7072-4fb8-af39-52696876f4cf", 
+            "title": "T\u00fcrk M\u00fczi\u011fi Koleksiyonu 6- Pe\u015frev Saz Semaileri"
+        }, 
+        {
+            "mbid": "b8768e6d-65ed-4d26-9b47-51793c24b5a0", 
+            "title": "T\u00fcrk Sanat M\u00fczi\u011fi Besteleri Saz Eserleri 1"
+        }
+    ], 
+    "title": "Rast Pe\u015frev", 
+    "url": "http://musicbrainz.org/recording/76733918-77f1-411f-a208-544542208558", 
+    "artist_credits": [
+        {
+            "mbid": "ef074ab6-a2a8-42f7-a454-068265023697", 
+            "name": "Aziz T\u00fcrk Sanat M\u00fczi\u011fi Grubu"
+        }
+    ], 
+    "mbid": "76733918-77f1-411f-a208-544542208558", 
+    "makam": [
+        {
+            "attribute_key": "rast", 
+            "mb_attribute": "Rast", 
+            "source": "http://musicbrainz.org/work/5617c02f-8c47-4fda-9c3c-70dd5a471291"
+        }, 
+        {
+            "attribute_key": "rast", 
+            "mb_tag": "rast", 
+            "source": "http://musicbrainz.org/recording/76733918-77f1-411f-a208-544542208558"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "ef074ab6-a2a8-42f7-a454-068265023697", 
+            "type": "performing orchestra", 
+            "name": "Aziz T\u00fcrk Sanat M\u00fczi\u011fi Grubu"
+        }
+    ], 
+    "instrumentation_voicing": "Ensemble instrumental", 
+    "works": [
+        {
+            "mbid": "5617c02f-8c47-4fda-9c3c-70dd5a471291", 
+            "title": "Rast Pe\u015frev"
+        }
+    ]
+}

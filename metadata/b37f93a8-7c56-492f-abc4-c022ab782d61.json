@@ -1,0 +1,53 @@
+{
+    "instrumentation_voicing": "Solo instrumental", 
+    "form": [
+        {
+            "attribute_key": "taksim", 
+            "mb_tag": "taksim", 
+            "source": "http://musicbrainz.org/recording/b37f93a8-7c56-492f-abc4-c022ab782d61"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "b8768e6d-65ed-4d26-9b47-51793c24b5a0", 
+            "title": "T\u00fcrk Sanat M\u00fczi\u011fi Besteleri Saz Eserleri 1"
+        }, 
+        {
+            "mbid": "c58f2002-8862-4efb-953b-7324bb7f3e31", 
+            "title": "T\u00fcrk Sanat M\u00fczi\u011fi Besteleri Saz Eserleri 3"
+        }
+    ], 
+    "title": "Ud Taksimi", 
+    "url": "http://musicbrainz.org/recording/b37f93a8-7c56-492f-abc4-c022ab782d61", 
+    "artist_credits": [
+        {
+            "mbid": "ef074ab6-a2a8-42f7-a454-068265023697", 
+            "name": "Aziz T\u00fcrk Sanat M\u00fczi\u011fi Grubu"
+        }
+    ], 
+    "mbid": "b37f93a8-7c56-492f-abc4-c022ab782d61", 
+    "makam": [
+        {
+            "attribute_key": "huzzam", 
+            "mb_tag": "h\u00fczzam", 
+            "source": "http://musicbrainz.org/recording/b37f93a8-7c56-492f-abc4-c022ab782d61"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
+            "attribute-list": [
+                "oud"
+            ], 
+            "type": "instrument", 
+            "name": "[unknown]"
+        }
+    ], 
+    "usul": [
+        {
+            "attribute_key": "serbest", 
+            "mb_tag": "serbest", 
+            "source": "http://musicbrainz.org/recording/b37f93a8-7c56-492f-abc4-c022ab782d61"
+        }
+    ]
+}

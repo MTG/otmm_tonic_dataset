@@ -1,0 +1,67 @@
+{
+    "usul": [
+        {
+            "attribute_key": "aksak", 
+            "mb_attribute": "Aksak", 
+            "source": "http://musicbrainz.org/work/a7ce1d89-4748-4dc6-b654-caa64d96d8ed"
+        }, 
+        {
+            "attribute_key": "aksak", 
+            "mb_tag": "aksak", 
+            "source": "http://musicbrainz.org/recording/2c09c783-be32-4e34-81cc-1ebe6a1cfad2"
+        }
+    ], 
+    "form": [
+        {
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
+            "source": "http://musicbrainz.org/work/a7ce1d89-4748-4dc6-b654-caa64d96d8ed"
+        }, 
+        {
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
+            "source": "http://musicbrainz.org/recording/2c09c783-be32-4e34-81cc-1ebe6a1cfad2"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "f371b65d-8ec2-4516-ae77-563fe10776c5", 
+            "title": "Alaeddin Yava\u015f\u00e7a"
+        }
+    ], 
+    "title": "K\u0131z Sen Ne G\u00fczelsin Sana Gen\u00e7ler Tapacaklar", 
+    "url": "http://musicbrainz.org/recording/2c09c783-be32-4e34-81cc-1ebe6a1cfad2", 
+    "artist_credits": [
+        {
+            "mbid": "d227a44e-13fe-4b46-a53f-7e92aaa1d3d2", 
+            "name": "Cengizhan S\u00f6nmez"
+        }
+    ], 
+    "mbid": "2c09c783-be32-4e34-81cc-1ebe6a1cfad2", 
+    "makam": [
+        {
+            "attribute_key": "hicaz", 
+            "mb_attribute": "Hicaz", 
+            "source": "http://musicbrainz.org/work/a7ce1d89-4748-4dc6-b654-caa64d96d8ed"
+        }, 
+        {
+            "attribute_key": "hicaz", 
+            "mb_tag": "hicaz", 
+            "source": "http://musicbrainz.org/recording/2c09c783-be32-4e34-81cc-1ebe6a1cfad2"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "d227a44e-13fe-4b46-a53f-7e92aaa1d3d2", 
+            "type": "vocal", 
+            "name": "Cengizhan S\u00f6nmez"
+        }
+    ], 
+    "instrumentation_voicing": "Solo vocal without accompaniment", 
+    "works": [
+        {
+            "mbid": "a7ce1d89-4748-4dc6-b654-caa64d96d8ed", 
+            "title": "K\u0131z Sen Ne G\u00fczelsin"
+        }
+    ]
+}

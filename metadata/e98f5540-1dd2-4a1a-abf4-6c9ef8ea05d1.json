@@ -1,0 +1,77 @@
+{
+    "usul": [
+        {
+            "attribute_key": "aksaksemai", 
+            "mb_attribute": "Aksaksemai", 
+            "source": "http://musicbrainz.org/work/bcf2f9b2-7a89-444f-8be5-de56e991b406"
+        }, 
+        {
+            "attribute_key": "kapali_curcuna", 
+            "mb_tag": "curcuna", 
+            "source": "http://musicbrainz.org/recording/e98f5540-1dd2-4a1a-abf4-6c9ef8ea05d1"
+        }, 
+        {
+            "attribute_key": "aksaksemai", 
+            "mb_tag": "aksaksemai", 
+            "source": "http://musicbrainz.org/recording/e98f5540-1dd2-4a1a-abf4-6c9ef8ea05d1"
+        }
+    ], 
+    "form": [
+        {
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
+            "source": "http://musicbrainz.org/work/bcf2f9b2-7a89-444f-8be5-de56e991b406"
+        }, 
+        {
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
+            "source": "http://musicbrainz.org/recording/e98f5540-1dd2-4a1a-abf4-6c9ef8ea05d1"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "6a11e408-fd68-4161-8f72-d18493965464", 
+            "title": "Evcara 3"
+        }
+    ], 
+    "title": "Nazirin Yok Senin Ey Mah Yerde", 
+    "url": "http://musicbrainz.org/recording/e98f5540-1dd2-4a1a-abf4-6c9ef8ea05d1", 
+    "artist_credits": [
+        {
+            "mbid": "7ef61959-65f2-41ab-9ae2-ba890812b7b4", 
+            "name": "Bekir S\u0131dk\u0131 Sezgin"
+        }
+    ], 
+    "mbid": "e98f5540-1dd2-4a1a-abf4-6c9ef8ea05d1", 
+    "makam": [
+        {
+            "attribute_key": "evic", 
+            "mb_attribute": "Evi\u00e7", 
+            "source": "http://musicbrainz.org/work/bcf2f9b2-7a89-444f-8be5-de56e991b406"
+        }, 
+        {
+            "attribute_key": "evic", 
+            "mb_tag": "evi\u00e7", 
+            "source": "http://musicbrainz.org/recording/e98f5540-1dd2-4a1a-abf4-6c9ef8ea05d1"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
+            "type": "performing orchestra", 
+            "name": "[unknown]"
+        }, 
+        {
+            "mbid": "7ef61959-65f2-41ab-9ae2-ba890812b7b4", 
+            "type": "vocal", 
+            "name": "Bekir S\u0131dk\u0131 Sezgin"
+        }
+    ], 
+    "instrumentation_voicing": "Solo vocal with accompaniment", 
+    "works": [
+        {
+            "mbid": "bcf2f9b2-7a89-444f-8be5-de56e991b406", 
+            "title": "Nazirin Yok Senin"
+        }
+    ]
+}

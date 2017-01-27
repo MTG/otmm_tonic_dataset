@@ -1,0 +1,66 @@
+{
+    "instrumentation_voicing": "Duo instrumental", 
+    "form": [
+        {
+            "attribute_key": "taksim", 
+            "mb_tag": "taksim", 
+            "source": "http://musicbrainz.org/recording/4371fd18-d074-4a87-bb49-eb0443a60e52"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "5a5f124a-766c-441c-bbf3-410a11b96c09", 
+            "title": "Ahenk 2"
+        }
+    ], 
+    "title": "M\u00fc\u015fterek Pesend\u00eede'ye Ge\u00e7i\u015f Taksimi", 
+    "url": "http://musicbrainz.org/recording/4371fd18-d074-4a87-bb49-eb0443a60e52", 
+    "artist_credits": [
+        {
+            "mbid": "9b6e98f8-b695-45da-8c9c-68d4bab460fd", 
+            "name": "Murat Aydemir"
+        }, 
+        {
+            "mbid": "b80cd1ab-a00c-4f98-89c1-a798deb2d5c2", 
+            "name": "Derya T\u00fcrkan"
+        }
+    ], 
+    "mbid": "4371fd18-d074-4a87-bb49-eb0443a60e52", 
+    "makam": [
+        {
+            "attribute_key": "mahur", 
+            "mb_tag": "mahur", 
+            "source": "http://musicbrainz.org/recording/4371fd18-d074-4a87-bb49-eb0443a60e52"
+        }, 
+        {
+            "attribute_key": "pesendide", 
+            "mb_tag": "pesendide", 
+            "source": "http://musicbrainz.org/recording/4371fd18-d074-4a87-bb49-eb0443a60e52"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "9b6e98f8-b695-45da-8c9c-68d4bab460fd", 
+            "attribute-list": [
+                "tanbur"
+            ], 
+            "type": "instrument", 
+            "name": "Murat Aydemir"
+        }, 
+        {
+            "mbid": "b80cd1ab-a00c-4f98-89c1-a798deb2d5c2", 
+            "attribute-list": [
+                "classical kemen\u00e7e"
+            ], 
+            "type": "instrument", 
+            "name": "Derya T\u00fcrkan"
+        }
+    ], 
+    "usul": [
+        {
+            "attribute_key": "serbest", 
+            "mb_tag": "serbest", 
+            "source": "http://musicbrainz.org/recording/4371fd18-d074-4a87-bb49-eb0443a60e52"
+        }
+    ]
+}

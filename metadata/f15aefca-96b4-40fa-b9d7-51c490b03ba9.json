@@ -1,0 +1,72 @@
+{
+    "usul": [
+        {
+            "attribute_key": "agir_aksaksemai", 
+            "mb_attribute": "A\u011f\u0131r Aksaksemai", 
+            "source": "http://musicbrainz.org/work/43161191-a382-4f4a-9601-828ada3b711b"
+        }, 
+        {
+            "attribute_key": "aksaksemai", 
+            "mb_tag": "aksaksemai", 
+            "source": "http://musicbrainz.org/recording/f15aefca-96b4-40fa-b9d7-51c490b03ba9"
+        }
+    ], 
+    "form": [
+        {
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
+            "source": "http://musicbrainz.org/work/43161191-a382-4f4a-9601-828ada3b711b"
+        }, 
+        {
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
+            "source": "http://musicbrainz.org/recording/f15aefca-96b4-40fa-b9d7-51c490b03ba9"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "6b94e631-734e-4ebb-9acd-0741183608fe", 
+            "title": "Bekir S\u0131dk\u0131 Sezgin 22"
+        }
+    ], 
+    "title": "Hasret Odu Yakt\u0131 Ci\u011ferim Ey Ruhi Alim", 
+    "url": "http://musicbrainz.org/recording/f15aefca-96b4-40fa-b9d7-51c490b03ba9", 
+    "artist_credits": [
+        {
+            "mbid": "7ef61959-65f2-41ab-9ae2-ba890812b7b4", 
+            "name": "Bekir S\u0131dk\u0131 Sezgin"
+        }
+    ], 
+    "mbid": "f15aefca-96b4-40fa-b9d7-51c490b03ba9", 
+    "makam": [
+        {
+            "attribute_key": "hicaz", 
+            "mb_attribute": "Hicaz", 
+            "source": "http://musicbrainz.org/work/43161191-a382-4f4a-9601-828ada3b711b"
+        }, 
+        {
+            "attribute_key": "hicaz", 
+            "mb_tag": "hicaz", 
+            "source": "http://musicbrainz.org/recording/f15aefca-96b4-40fa-b9d7-51c490b03ba9"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
+            "type": "performing orchestra", 
+            "name": "[unknown]"
+        }, 
+        {
+            "mbid": "7ef61959-65f2-41ab-9ae2-ba890812b7b4", 
+            "type": "vocal", 
+            "name": "Bekir S\u0131dk\u0131 Sezgin"
+        }
+    ], 
+    "instrumentation_voicing": "Solo vocal with accompaniment", 
+    "works": [
+        {
+            "mbid": "43161191-a382-4f4a-9601-828ada3b711b", 
+            "title": "Hasret Odu Yakt\u0131 Ci\u011ferim"
+        }
+    ]
+}

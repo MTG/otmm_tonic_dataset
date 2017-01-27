@@ -1,0 +1,54 @@
+{
+    "instrumentation_voicing": "Solo instrumental", 
+    "form": [
+        {
+            "attribute_key": "taksim", 
+            "mb_tag": "taksim", 
+            "source": "http://musicbrainz.org/recording/cf208b8b-710b-4cea-a722-6315aad2e981"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "a401a3ef-3869-450b-9ae0-a32036f2b2bd", 
+            "title": "A\u015fk"
+        }
+    ], 
+    "title": "H\u00fcseyn\u00ee'den Isfah\u00e2n'a Ge\u00e7i\u015f Taksimi", 
+    "url": "http://musicbrainz.org/recording/cf208b8b-710b-4cea-a722-6315aad2e981", 
+    "artist_credits": [
+        {
+            "mbid": "215fd94e-6a6e-4ab3-98d8-7e81c873dd26", 
+            "name": "Aka G\u00fcnd\u00fcz Kutbay"
+        }
+    ], 
+    "mbid": "cf208b8b-710b-4cea-a722-6315aad2e981", 
+    "makam": [
+        {
+            "attribute_key": "huseyni", 
+            "mb_tag": "h\u00fcseyni", 
+            "source": "http://musicbrainz.org/recording/cf208b8b-710b-4cea-a722-6315aad2e981"
+        }, 
+        {
+            "attribute_key": "isfahan", 
+            "mb_tag": "\u0131sfahan", 
+            "source": "http://musicbrainz.org/recording/cf208b8b-710b-4cea-a722-6315aad2e981"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "215fd94e-6a6e-4ab3-98d8-7e81c873dd26", 
+            "attribute-list": [
+                "ney"
+            ], 
+            "type": "instrument", 
+            "name": "Aka G\u00fcnd\u00fcz Kutbay"
+        }
+    ], 
+    "usul": [
+        {
+            "attribute_key": "serbest", 
+            "mb_tag": "serbest", 
+            "source": "http://musicbrainz.org/recording/cf208b8b-710b-4cea-a722-6315aad2e981"
+        }
+    ]
+}

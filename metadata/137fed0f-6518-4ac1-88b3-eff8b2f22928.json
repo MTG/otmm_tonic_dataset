@@ -1,0 +1,72 @@
+{
+    "usul": [
+        {
+            "attribute_key": "agirduyek", 
+            "mb_attribute": "A\u011f\u0131rd\u00fcyek", 
+            "source": "http://musicbrainz.org/work/66cc2366-1593-4fe4-9dc7-79196d9a6a4f"
+        }, 
+        {
+            "attribute_key": "agirduyek", 
+            "mb_tag": "a\u011f\u0131rd\u00fcyek", 
+            "source": "http://musicbrainz.org/recording/137fed0f-6518-4ac1-88b3-eff8b2f22928"
+        }
+    ], 
+    "form": [
+        {
+            "attribute_key": "beste", 
+            "mb_attribute": "Beste", 
+            "source": "http://musicbrainz.org/work/66cc2366-1593-4fe4-9dc7-79196d9a6a4f"
+        }, 
+        {
+            "attribute_key": "nakis_beste", 
+            "mb_tag": "nak\u0131\u015f-beste", 
+            "source": "http://musicbrainz.org/recording/137fed0f-6518-4ac1-88b3-eff8b2f22928"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "8bf2ac3f-26f7-4a78-ac00-467cd2667bf6", 
+            "title": "Hicaz 13"
+        }
+    ], 
+    "title": "Ey \u00c7e\u015fm-i Ahu Hicr ile Tenhalara Sald\u0131n Beni", 
+    "url": "http://musicbrainz.org/recording/137fed0f-6518-4ac1-88b3-eff8b2f22928", 
+    "artist_credits": [
+        {
+            "mbid": "7ef61959-65f2-41ab-9ae2-ba890812b7b4", 
+            "name": "Bekir S\u0131dk\u0131 Sezgin"
+        }
+    ], 
+    "mbid": "137fed0f-6518-4ac1-88b3-eff8b2f22928", 
+    "makam": [
+        {
+            "attribute_key": "hicaz", 
+            "mb_attribute": "Hicaz", 
+            "source": "http://musicbrainz.org/work/66cc2366-1593-4fe4-9dc7-79196d9a6a4f"
+        }, 
+        {
+            "attribute_key": "hicaz", 
+            "mb_tag": "hicaz", 
+            "source": "http://musicbrainz.org/recording/137fed0f-6518-4ac1-88b3-eff8b2f22928"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
+            "type": "performing orchestra", 
+            "name": "[unknown]"
+        }, 
+        {
+            "mbid": "7ef61959-65f2-41ab-9ae2-ba890812b7b4", 
+            "type": "vocal", 
+            "name": "Bekir S\u0131dk\u0131 Sezgin"
+        }
+    ], 
+    "instrumentation_voicing": "Solo vocal with accompaniment", 
+    "works": [
+        {
+            "mbid": "66cc2366-1593-4fe4-9dc7-79196d9a6a4f", 
+            "title": "Bir \u00c7e\u015fm-i Ahu Hicr \u0130le"
+        }
+    ]
+}

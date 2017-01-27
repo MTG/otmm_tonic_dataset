@@ -1,0 +1,49 @@
+{
+    "instrumentation_voicing": "Solo instrumental", 
+    "form": [
+        {
+            "attribute_key": "taksim", 
+            "mb_tag": "taksim", 
+            "source": "http://musicbrainz.org/recording/84cf39e1-279c-48dc-a74e-445fcf9029ed"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "1843f8d1-f6b8-440c-ab54-59fc8c3898a6", 
+            "title": "Yayl\u0131 Tanbur"
+        }
+    ], 
+    "title": "Hicaz Ge\u00e7i\u015f Taksimi", 
+    "url": "http://musicbrainz.org/recording/84cf39e1-279c-48dc-a74e-445fcf9029ed", 
+    "artist_credits": [
+        {
+            "mbid": "6256ace7-f139-4a22-a5e2-e9e46bffb0d4", 
+            "name": "Fahrettin \u00c7imenli"
+        }
+    ], 
+    "mbid": "84cf39e1-279c-48dc-a74e-445fcf9029ed", 
+    "makam": [
+        {
+            "attribute_key": "hicaz", 
+            "mb_tag": "hicaz", 
+            "source": "http://musicbrainz.org/recording/84cf39e1-279c-48dc-a74e-445fcf9029ed"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "6256ace7-f139-4a22-a5e2-e9e46bffb0d4", 
+            "attribute-list": [
+                "tanbur"
+            ], 
+            "type": "instrument", 
+            "name": "Fahrettin \u00c7imenli"
+        }
+    ], 
+    "usul": [
+        {
+            "attribute_key": "serbest", 
+            "mb_tag": "serbest", 
+            "source": "http://musicbrainz.org/recording/84cf39e1-279c-48dc-a74e-445fcf9029ed"
+        }
+    ]
+}

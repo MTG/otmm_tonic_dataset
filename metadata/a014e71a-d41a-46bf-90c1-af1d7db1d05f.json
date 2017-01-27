@@ -1,0 +1,67 @@
+{
+    "usul": [
+        {
+            "attribute_key": "duyek", 
+            "mb_attribute": "D\u00fcyek", 
+            "source": "http://musicbrainz.org/work/bf42da33-ee08-4565-a13e-02a0ce487289"
+        }, 
+        {
+            "attribute_key": "duyek", 
+            "mb_tag": "d\u00fcyek", 
+            "source": "http://musicbrainz.org/recording/a014e71a-d41a-46bf-90c1-af1d7db1d05f"
+        }
+    ], 
+    "form": [
+        {
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
+            "source": "http://musicbrainz.org/work/bf42da33-ee08-4565-a13e-02a0ce487289"
+        }, 
+        {
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
+            "source": "http://musicbrainz.org/recording/a014e71a-d41a-46bf-90c1-af1d7db1d05f"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "659e23be-4186-4b89-b758-addf78c27b6a", 
+            "title": "Fasl-\u0131 \u015eahane Enstrumantal, Volume 4"
+        }
+    ], 
+    "title": "Sensiz Kalan G\u00f6nl\u00fcmde", 
+    "url": "http://musicbrainz.org/recording/a014e71a-d41a-46bf-90c1-af1d7db1d05f", 
+    "artist_credits": [
+        {
+            "mbid": "ef074ab6-a2a8-42f7-a454-068265023697", 
+            "name": "Aziz T\u00fcrk Sanat M\u00fczi\u011fi Grubu"
+        }
+    ], 
+    "mbid": "a014e71a-d41a-46bf-90c1-af1d7db1d05f", 
+    "makam": [
+        {
+            "attribute_key": "rast", 
+            "mb_attribute": "Rast", 
+            "source": "http://musicbrainz.org/work/bf42da33-ee08-4565-a13e-02a0ce487289"
+        }, 
+        {
+            "attribute_key": "rast", 
+            "mb_tag": "rast", 
+            "source": "http://musicbrainz.org/recording/a014e71a-d41a-46bf-90c1-af1d7db1d05f"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "ef074ab6-a2a8-42f7-a454-068265023697", 
+            "type": "performing orchestra", 
+            "name": "Aziz T\u00fcrk Sanat M\u00fczi\u011fi Grubu"
+        }
+    ], 
+    "instrumentation_voicing": "Ensemble instrumental", 
+    "works": [
+        {
+            "mbid": "bf42da33-ee08-4565-a13e-02a0ce487289", 
+            "title": "Sensiz Kalan G\u00f6nl\u00fcmde"
+        }
+    ]
+}

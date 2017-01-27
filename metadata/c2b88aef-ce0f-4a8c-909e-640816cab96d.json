@@ -1,0 +1,77 @@
+{
+    "usul": [
+        {
+            "attribute_key": "aksaksemai", 
+            "mb_attribute": "Aksaksemai", 
+            "source": "http://musicbrainz.org/work/d1086c07-fb1f-4eb2-9585-9f22ea850f12"
+        }
+    ], 
+    "form": [
+        {
+            "attribute_key": "sazsemaisi", 
+            "mb_attribute": "Sazsemaisi", 
+            "source": "http://musicbrainz.org/work/d1086c07-fb1f-4eb2-9585-9f22ea850f12"
+        }, 
+        {
+            "attribute_key": "sazsemaisi", 
+            "mb_tag": "sazsemaisi", 
+            "source": "http://musicbrainz.org/recording/c2b88aef-ce0f-4a8c-909e-640816cab96d"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "5a5f124a-766c-441c-bbf3-410a11b96c09", 
+            "title": "Ahenk 2"
+        }
+    ], 
+    "title": "Pesend\u00eede Saz Sem\u00e2\u00eesi", 
+    "url": "http://musicbrainz.org/recording/c2b88aef-ce0f-4a8c-909e-640816cab96d", 
+    "artist_credits": [
+        {
+            "mbid": "9b6e98f8-b695-45da-8c9c-68d4bab460fd", 
+            "name": "Murat Aydemir"
+        }, 
+        {
+            "mbid": "b80cd1ab-a00c-4f98-89c1-a798deb2d5c2", 
+            "name": "Derya T\u00fcrkan"
+        }
+    ], 
+    "mbid": "c2b88aef-ce0f-4a8c-909e-640816cab96d", 
+    "makam": [
+        {
+            "attribute_key": "pesendide", 
+            "mb_attribute": "Pesendide", 
+            "source": "http://musicbrainz.org/work/d1086c07-fb1f-4eb2-9585-9f22ea850f12"
+        }, 
+        {
+            "attribute_key": "pesendide", 
+            "mb_tag": "pesendide", 
+            "source": "http://musicbrainz.org/recording/c2b88aef-ce0f-4a8c-909e-640816cab96d"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "9b6e98f8-b695-45da-8c9c-68d4bab460fd", 
+            "attribute-list": [
+                "tanbur"
+            ], 
+            "type": "instrument", 
+            "name": "Murat Aydemir"
+        }, 
+        {
+            "mbid": "b80cd1ab-a00c-4f98-89c1-a798deb2d5c2", 
+            "attribute-list": [
+                "classical kemen\u00e7e"
+            ], 
+            "type": "instrument", 
+            "name": "Derya T\u00fcrkan"
+        }
+    ], 
+    "instrumentation_voicing": "Duo instrumental", 
+    "works": [
+        {
+            "mbid": "d1086c07-fb1f-4eb2-9585-9f22ea850f12", 
+            "title": "Pesend\u00eede Saz Semaisi"
+        }
+    ]
+}

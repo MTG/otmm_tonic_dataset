@@ -1,0 +1,72 @@
+{
+    "usul": [
+        {
+            "attribute_key": "curcuna", 
+            "mb_attribute": "Curcuna", 
+            "source": "http://musicbrainz.org/work/7167d5f1-b941-404c-9619-402652385fd8"
+        }, 
+        {
+            "attribute_key": "kapali_curcuna", 
+            "mb_tag": "curcuna", 
+            "source": "http://musicbrainz.org/recording/d3ed992d-53a7-439d-b380-0c664ff45ab1"
+        }
+    ], 
+    "form": [
+        {
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
+            "source": "http://musicbrainz.org/work/7167d5f1-b941-404c-9619-402652385fd8"
+        }, 
+        {
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
+            "source": "http://musicbrainz.org/recording/d3ed992d-53a7-439d-b380-0c664ff45ab1"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "67514072-161f-49e9-b188-b869f71c6a47", 
+            "title": "Bekir S\u0131dk\u0131 Sezgin 26"
+        }
+    ], 
+    "title": "Kadir Mevlam Sen Verirsin Bu Can\u0131", 
+    "url": "http://musicbrainz.org/recording/d3ed992d-53a7-439d-b380-0c664ff45ab1", 
+    "artist_credits": [
+        {
+            "mbid": "7ef61959-65f2-41ab-9ae2-ba890812b7b4", 
+            "name": "Bekir S\u0131dk\u0131 Sezgin"
+        }
+    ], 
+    "mbid": "d3ed992d-53a7-439d-b380-0c664ff45ab1", 
+    "makam": [
+        {
+            "attribute_key": "nihavent", 
+            "mb_attribute": "Nihavent", 
+            "source": "http://musicbrainz.org/work/7167d5f1-b941-404c-9619-402652385fd8"
+        }, 
+        {
+            "attribute_key": "nihavent", 
+            "mb_tag": "nihavent", 
+            "source": "http://musicbrainz.org/recording/d3ed992d-53a7-439d-b380-0c664ff45ab1"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
+            "type": "performing orchestra", 
+            "name": "[unknown]"
+        }, 
+        {
+            "mbid": "7ef61959-65f2-41ab-9ae2-ba890812b7b4", 
+            "type": "vocal", 
+            "name": "Bekir S\u0131dk\u0131 Sezgin"
+        }
+    ], 
+    "instrumentation_voicing": "Solo vocal with accompaniment", 
+    "works": [
+        {
+            "mbid": "7167d5f1-b941-404c-9619-402652385fd8", 
+            "title": "Kadir Mevlam Sen Verirsin Bu Can\u0131"
+        }
+    ]
+}

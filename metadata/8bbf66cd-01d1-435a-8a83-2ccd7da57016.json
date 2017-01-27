@@ -1,0 +1,67 @@
+{
+    "usul": [
+        {
+            "attribute_key": "raksaksagi", 
+            "mb_attribute": "Raksaksa\u011f\u0131", 
+            "source": "http://musicbrainz.org/work/820b1b89-3596-42ec-b1b7-26d0974b0dd2"
+        }, 
+        {
+            "attribute_key": "raksaksagi_ii", 
+            "mb_tag": "raksaksa\u011f\u0131", 
+            "source": "http://musicbrainz.org/recording/8bbf66cd-01d1-435a-8a83-2ccd7da57016"
+        }
+    ], 
+    "form": [
+        {
+            "attribute_key": "tavsanca", 
+            "mb_attribute": "Tav\u015fanca", 
+            "source": "http://musicbrainz.org/work/820b1b89-3596-42ec-b1b7-26d0974b0dd2"
+        }, 
+        {
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
+            "source": "http://musicbrainz.org/recording/8bbf66cd-01d1-435a-8a83-2ccd7da57016"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "4469247f-6e65-4a35-8661-321c399dacb9", 
+            "title": "Fasl-\u0131 \u015eahane Enstrumantal, Volume 5"
+        }
+    ], 
+    "title": "D\u00f6k Z\u00fclf\u00fcn\u00fc Meydana Gel", 
+    "url": "http://musicbrainz.org/recording/8bbf66cd-01d1-435a-8a83-2ccd7da57016", 
+    "artist_credits": [
+        {
+            "mbid": "ef074ab6-a2a8-42f7-a454-068265023697", 
+            "name": "Aziz T\u00fcrk Sanat M\u00fczi\u011fi Grubu"
+        }
+    ], 
+    "mbid": "8bbf66cd-01d1-435a-8a83-2ccd7da57016", 
+    "makam": [
+        {
+            "attribute_key": "hisarbuselik", 
+            "mb_attribute": "Hisarbuselik", 
+            "source": "http://musicbrainz.org/work/820b1b89-3596-42ec-b1b7-26d0974b0dd2"
+        }, 
+        {
+            "attribute_key": "hisarbuselik", 
+            "mb_tag": "hisarbuselik", 
+            "source": "http://musicbrainz.org/recording/8bbf66cd-01d1-435a-8a83-2ccd7da57016"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "ef074ab6-a2a8-42f7-a454-068265023697", 
+            "type": "performing orchestra", 
+            "name": "Aziz T\u00fcrk Sanat M\u00fczi\u011fi Grubu"
+        }
+    ], 
+    "instrumentation_voicing": "Ensemble instrumental", 
+    "works": [
+        {
+            "mbid": "820b1b89-3596-42ec-b1b7-26d0974b0dd2", 
+            "title": "D\u00f6k Z\u00fclf\u00fcn\u00fc Meydana Gel"
+        }
+    ]
+}

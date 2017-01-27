@@ -1,0 +1,70 @@
+{
+    "usul": [
+        {
+            "attribute_key": "fahte", 
+            "mb_attribute": "Fahte", 
+            "source": "http://musicbrainz.org/work/83291c8a-4ef1-4ffc-8b50-3fc03890f5a4"
+        }, 
+        {
+            "attribute_key": "fahte", 
+            "mb_tag": "fahte", 
+            "source": "http://musicbrainz.org/recording/d903d1e3-7073-4a25-a298-3942eacc4dd2"
+        }
+    ], 
+    "form": [
+        {
+            "attribute_key": "pesrev", 
+            "mb_attribute": "Pe\u015frev", 
+            "source": "http://musicbrainz.org/work/83291c8a-4ef1-4ffc-8b50-3fc03890f5a4"
+        }, 
+        {
+            "attribute_key": "pesrev", 
+            "mb_tag": "pe\u015frev", 
+            "source": "http://musicbrainz.org/recording/d903d1e3-7073-4a25-a298-3942eacc4dd2"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "9d63cb14-4233-48ea-a4c9-e3c60d880786", 
+            "title": "Tanbur"
+        }
+    ], 
+    "title": "\u015eedaraban Pe\u015frev", 
+    "url": "http://musicbrainz.org/recording/d903d1e3-7073-4a25-a298-3942eacc4dd2", 
+    "artist_credits": [
+        {
+            "mbid": "ef7f9168-eec5-4ecd-a142-132ef3355fc1", 
+            "name": "Erc\u00fcmend Batanay"
+        }
+    ], 
+    "mbid": "d903d1e3-7073-4a25-a298-3942eacc4dd2", 
+    "makam": [
+        {
+            "attribute_key": "sedaraban", 
+            "mb_attribute": "\u015eedaraban", 
+            "source": "http://musicbrainz.org/work/83291c8a-4ef1-4ffc-8b50-3fc03890f5a4"
+        }, 
+        {
+            "attribute_key": "sedaraban", 
+            "mb_tag": "\u015fedaraban", 
+            "source": "http://musicbrainz.org/recording/d903d1e3-7073-4a25-a298-3942eacc4dd2"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "ef7f9168-eec5-4ecd-a142-132ef3355fc1", 
+            "attribute-list": [
+                "tanbur"
+            ], 
+            "type": "instrument", 
+            "name": "Erc\u00fcmend Batanay"
+        }
+    ], 
+    "instrumentation_voicing": "Solo instrumental", 
+    "works": [
+        {
+            "mbid": "83291c8a-4ef1-4ffc-8b50-3fc03890f5a4", 
+            "title": "\u015eedaraban Pe\u015frevi"
+        }
+    ]
+}

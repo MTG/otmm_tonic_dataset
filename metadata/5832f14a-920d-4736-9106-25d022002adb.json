@@ -1,0 +1,67 @@
+{
+    "usul": [
+        {
+            "attribute_key": "duyek", 
+            "mb_tag": "d\u00fcyek", 
+            "source": "http://musicbrainz.org/recording/5832f14a-920d-4736-9106-25d022002adb"
+        }, 
+        {
+            "attribute_key": "yuruksemai", 
+            "mb_tag": "y\u00fcr\u00fcksemai", 
+            "source": "http://musicbrainz.org/recording/5832f14a-920d-4736-9106-25d022002adb"
+        }
+    ], 
+    "form": [
+        {
+            "attribute_key": "ayin_i_serif", 
+            "mb_attribute": "Ayin-i \u015eerif", 
+            "source": "http://musicbrainz.org/work/2612a010-8d83-4056-90c2-7aa6569603e7"
+        }, 
+        {
+            "attribute_key": "ayin_i_serif", 
+            "mb_tag": "ayin-i \u015ferif", 
+            "source": "http://musicbrainz.org/recording/5832f14a-920d-4736-9106-25d022002adb"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "430058da-7be0-48ec-abac-9b88b87e293f", 
+            "title": "Mevlevi Sesler"
+        }
+    ], 
+    "title": "Son Y\u00fcr\u00fcksemai", 
+    "url": "http://musicbrainz.org/recording/5832f14a-920d-4736-9106-25d022002adb", 
+    "artist_credits": [
+        {
+            "mbid": "81081f45-a36e-4248-9d33-43d4a3445f6d", 
+            "name": "Dede Efendi"
+        }
+    ], 
+    "mbid": "5832f14a-920d-4736-9106-25d022002adb", 
+    "makam": [
+        {
+            "attribute_key": "sababuselik", 
+            "mb_attribute": "Sababuselik", 
+            "source": "http://musicbrainz.org/work/2612a010-8d83-4056-90c2-7aa6569603e7"
+        }, 
+        {
+            "attribute_key": "sababuselik", 
+            "mb_tag": "sababuselik", 
+            "source": "http://musicbrainz.org/recording/5832f14a-920d-4736-9106-25d022002adb"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "713ad8af-1c98-4569-a445-71f7b9395945", 
+            "type": "performing orchestra", 
+            "name": "Dede Efendi T\u00fcrk M\u00fczi\u011fi Toplulu\u011fu"
+        }
+    ], 
+    "instrumentation_voicing": "Ensemble instrumental", 
+    "works": [
+        {
+            "mbid": "2612a010-8d83-4056-90c2-7aa6569603e7", 
+            "title": "Sababuselik Ayin-i \u015eerif"
+        }
+    ]
+}

@@ -1,0 +1,72 @@
+{
+    "usul": [
+        {
+            "attribute_key": "devrikebir", 
+            "mb_attribute": "Devr-i Kebir", 
+            "source": "http://musicbrainz.org/work/92def4f6-dca5-452c-88d5-acc4aa87ab0b"
+        }, 
+        {
+            "attribute_key": "devrirevan", 
+            "mb_tag": "devr-i revan", 
+            "source": "http://musicbrainz.org/recording/ac3bbc59-b0ee-4c32-a3d5-ad1ff7d1d5c5"
+        }
+    ], 
+    "form": [
+        {
+            "attribute_key": "pesrev", 
+            "mb_attribute": "Pe\u015frev", 
+            "source": "http://musicbrainz.org/work/92def4f6-dca5-452c-88d5-acc4aa87ab0b"
+        }, 
+        {
+            "attribute_key": "ayin_i_serif", 
+            "mb_tag": "ayin-i \u015ferif", 
+            "source": "http://musicbrainz.org/recording/ac3bbc59-b0ee-4c32-a3d5-ad1ff7d1d5c5"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "430058da-7be0-48ec-abac-9b88b87e293f", 
+            "title": "Mevlevi Sesler"
+        }
+    ], 
+    "title": "1. Selam", 
+    "url": "http://musicbrainz.org/recording/ac3bbc59-b0ee-4c32-a3d5-ad1ff7d1d5c5", 
+    "artist_credits": [
+        {
+            "mbid": "81081f45-a36e-4248-9d33-43d4a3445f6d", 
+            "name": "Dede Efendi"
+        }
+    ], 
+    "mbid": "ac3bbc59-b0ee-4c32-a3d5-ad1ff7d1d5c5", 
+    "makam": [
+        {
+            "attribute_key": "neva", 
+            "mb_attribute": "Neva", 
+            "source": "http://musicbrainz.org/work/92def4f6-dca5-452c-88d5-acc4aa87ab0b"
+        }, 
+        {
+            "attribute_key": "neva", 
+            "mb_tag": "neva", 
+            "source": "http://musicbrainz.org/recording/ac3bbc59-b0ee-4c32-a3d5-ad1ff7d1d5c5"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "125d9569-09ea-463c-a7b2-87ca30b55be0", 
+            "type": "vocal", 
+            "name": "Mehmet Ak\u00e7a"
+        }, 
+        {
+            "mbid": "713ad8af-1c98-4569-a445-71f7b9395945", 
+            "type": "performing orchestra", 
+            "name": "Dede Efendi T\u00fcrk M\u00fczi\u011fi Toplulu\u011fu"
+        }
+    ], 
+    "instrumentation_voicing": "Solo vocal with accompaniment", 
+    "works": [
+        {
+            "mbid": "92def4f6-dca5-452c-88d5-acc4aa87ab0b", 
+            "title": "Neva Ayin-i \u015eerif"
+        }
+    ]
+}

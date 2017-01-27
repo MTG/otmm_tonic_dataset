@@ -1,0 +1,72 @@
+{
+    "usul": [
+        {
+            "attribute_key": "aksak", 
+            "mb_attribute": "Aksak", 
+            "source": "http://musicbrainz.org/work/ff8836b8-ee9b-4351-b30c-03b2aac0dc25"
+        }, 
+        {
+            "attribute_key": "aksak", 
+            "mb_tag": "aksak", 
+            "source": "http://musicbrainz.org/recording/b49c633c-5059-4658-a6e0-9f84a1ffb08b"
+        }
+    ], 
+    "form": [
+        {
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
+            "source": "http://musicbrainz.org/work/ff8836b8-ee9b-4351-b30c-03b2aac0dc25"
+        }, 
+        {
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
+            "source": "http://musicbrainz.org/recording/b49c633c-5059-4658-a6e0-9f84a1ffb08b"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "b3d24274-4756-4862-8dde-27b56a117525", 
+            "title": "1955 - 63 Kay\u0131tlar\u0131 - Ar\u015fiv Serisi"
+        }
+    ], 
+    "title": "Nihavend Aksak \u015eark\u0131", 
+    "url": "http://musicbrainz.org/recording/b49c633c-5059-4658-a6e0-9f84a1ffb08b", 
+    "artist_credits": [
+        {
+            "mbid": "9fcda3ab-a467-4ea9-8569-ae975de0f473", 
+            "name": "Zeki M\u00fcren"
+        }
+    ], 
+    "mbid": "b49c633c-5059-4658-a6e0-9f84a1ffb08b", 
+    "makam": [
+        {
+            "attribute_key": "nihavent", 
+            "mb_attribute": "Nihavent", 
+            "source": "http://musicbrainz.org/work/ff8836b8-ee9b-4351-b30c-03b2aac0dc25"
+        }, 
+        {
+            "attribute_key": "nihavent", 
+            "mb_tag": "nihavent", 
+            "source": "http://musicbrainz.org/recording/b49c633c-5059-4658-a6e0-9f84a1ffb08b"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
+            "type": "performing orchestra", 
+            "name": "[unknown]"
+        }, 
+        {
+            "mbid": "9fcda3ab-a467-4ea9-8569-ae975de0f473", 
+            "type": "vocal", 
+            "name": "Zeki M\u00fcren"
+        }
+    ], 
+    "instrumentation_voicing": "Solo vocal with accompaniment", 
+    "works": [
+        {
+            "mbid": "ff8836b8-ee9b-4351-b30c-03b2aac0dc25", 
+            "title": "Koklasam Sa\u00e7lar\u0131n\u0131"
+        }
+    ]
+}

@@ -1,0 +1,55 @@
+{
+    "usul": [], 
+    "form": [
+        {
+            "attribute_key": "sazeseri", 
+            "mb_tag": "sazeseri", 
+            "source": "http://musicbrainz.org/recording/00022b8f-a731-49dd-9fcf-6bda7b297545"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "514b5fcb-e33e-4680-ae08-e41dfb196860", 
+            "title": "L'H\u00e9ritage Ottoman: The Ottoman Heritage"
+        }, 
+        {
+            "mbid": "6250214f-3da3-4896-b3e7-0e568e83a91d", 
+            "title": "L'H\u00e9ritage Ottoman"
+        }
+    ], 
+    "title": "Muhabbet", 
+    "url": "http://musicbrainz.org/recording/00022b8f-a731-49dd-9fcf-6bda7b297545", 
+    "artist_credits": [
+        {
+            "mbid": "0868a083-608c-41c5-89b0-bc5b9a616dbd", 
+            "name": "Kudsi Erguner Ensemble"
+        }
+    ], 
+    "mbid": "00022b8f-a731-49dd-9fcf-6bda7b297545", 
+    "makam": [], 
+    "artists": [
+        {
+            "mbid": "019382cb-f1fa-4365-9199-3c56885450c0", 
+            "attribute-list": [
+                "oud"
+            ], 
+            "type": "instrument", 
+            "name": "Mehmet Bitmez"
+        }, 
+        {
+            "mbid": "86299acc-2dd4-49d2-b20e-d1707c699d62", 
+            "attribute-list": [
+                "ney"
+            ], 
+            "type": "instrument", 
+            "name": "Kudsi Erguner"
+        }
+    ], 
+    "instrumentation_voicing": "Duo instrumental", 
+    "works": [
+        {
+            "mbid": "4a073718-07a1-413c-b831-50043ed73962", 
+            "title": "Muhabbet"
+        }
+    ]
+}

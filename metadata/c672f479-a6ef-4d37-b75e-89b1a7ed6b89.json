@@ -1,0 +1,67 @@
+{
+    "usul": [
+        {
+            "attribute_key": "aksak", 
+            "mb_attribute": "Aksak", 
+            "source": "http://musicbrainz.org/work/34aa22ac-ab1a-3784-9aef-995a05995ded"
+        }, 
+        {
+            "attribute_key": "aksak", 
+            "mb_tag": "aksak", 
+            "source": "http://musicbrainz.org/recording/c672f479-a6ef-4d37-b75e-89b1a7ed6b89"
+        }
+    ], 
+    "form": [
+        {
+            "attribute_key": "turku", 
+            "mb_attribute": "T\u00fcrk\u00fc", 
+            "source": "http://musicbrainz.org/work/34aa22ac-ab1a-3784-9aef-995a05995ded"
+        }, 
+        {
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
+            "source": "http://musicbrainz.org/recording/c672f479-a6ef-4d37-b75e-89b1a7ed6b89"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "4469247f-6e65-4a35-8661-321c399dacb9", 
+            "title": "Fasl-\u0131 \u015eahane Enstrumantal, Volume 5"
+        }
+    ], 
+    "title": "D\u00fcriyemin G\u00fc\u011f\u00fcmleri Kalayl\u0131", 
+    "url": "http://musicbrainz.org/recording/c672f479-a6ef-4d37-b75e-89b1a7ed6b89", 
+    "artist_credits": [
+        {
+            "mbid": "ef074ab6-a2a8-42f7-a454-068265023697", 
+            "name": "Aziz T\u00fcrk Sanat M\u00fczi\u011fi Grubu"
+        }
+    ], 
+    "mbid": "c672f479-a6ef-4d37-b75e-89b1a7ed6b89", 
+    "makam": [
+        {
+            "attribute_key": "huzzam", 
+            "mb_attribute": "H\u00fczzam", 
+            "source": "http://musicbrainz.org/work/34aa22ac-ab1a-3784-9aef-995a05995ded"
+        }, 
+        {
+            "attribute_key": "huzzam", 
+            "mb_tag": "h\u00fczzam", 
+            "source": "http://musicbrainz.org/recording/c672f479-a6ef-4d37-b75e-89b1a7ed6b89"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "ef074ab6-a2a8-42f7-a454-068265023697", 
+            "type": "performing orchestra", 
+            "name": "Aziz T\u00fcrk Sanat M\u00fczi\u011fi Grubu"
+        }
+    ], 
+    "instrumentation_voicing": "Ensemble instrumental", 
+    "works": [
+        {
+            "mbid": "34aa22ac-ab1a-3784-9aef-995a05995ded", 
+            "title": "D\u00fcriyemin G\u00fc\u011f\u00fcmleri Kalayl\u0131"
+        }
+    ]
+}

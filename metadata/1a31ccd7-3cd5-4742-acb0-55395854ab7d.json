@@ -1,0 +1,96 @@
+{
+    "usul": [
+        {
+            "attribute_key": "sofyan", 
+            "mb_attribute": "Sofyan", 
+            "source": "http://musicbrainz.org/work/7c351c54-3256-45e2-91cf-0adc74bb3816"
+        }, 
+        {
+            "attribute_key": "sofyan", 
+            "mb_attribute": "Sofyan", 
+            "source": "http://musicbrainz.org/work/c5c8c8f6-d12f-4012-977a-3b25042e71bd"
+        }, 
+        {
+            "attribute_key": "sofyan", 
+            "mb_tag": "sofyan", 
+            "source": "http://musicbrainz.org/recording/1a31ccd7-3cd5-4742-acb0-55395854ab7d"
+        }
+    ], 
+    "form": [
+        {
+            "attribute_key": "tevsihilahi", 
+            "mb_attribute": "Tev\u015fihilahi", 
+            "source": "http://musicbrainz.org/work/7c351c54-3256-45e2-91cf-0adc74bb3816"
+        }, 
+        {
+            "attribute_key": "tevsihilahi", 
+            "mb_attribute": "Tev\u015fihilahi", 
+            "source": "http://musicbrainz.org/work/c5c8c8f6-d12f-4012-977a-3b25042e71bd"
+        }, 
+        {
+            "attribute_key": "ilahi", 
+            "mb_tag": "ilahi", 
+            "source": "http://musicbrainz.org/recording/1a31ccd7-3cd5-4742-acb0-55395854ab7d"
+        }, 
+        {
+            "attribute_key": "tevsihilahi", 
+            "mb_tag": "tev\u015fih", 
+            "source": "http://musicbrainz.org/recording/1a31ccd7-3cd5-4742-acb0-55395854ab7d"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "3486f24f-48db-481e-9b65-3814bc215292", 
+            "title": "T\u00fcrk Dini Musikisi"
+        }
+    ], 
+    "title": "Segah Tev\u015fih ve Kaside", 
+    "url": "http://musicbrainz.org/recording/1a31ccd7-3cd5-4742-acb0-55395854ab7d", 
+    "artist_credits": [
+        {
+            "mbid": "7ef61959-65f2-41ab-9ae2-ba890812b7b4", 
+            "name": "Bekir S\u0131dk\u0131 Sezgin"
+        }
+    ], 
+    "mbid": "1a31ccd7-3cd5-4742-acb0-55395854ab7d", 
+    "makam": [
+        {
+            "attribute_key": "segah", 
+            "mb_attribute": "Segah", 
+            "source": "http://musicbrainz.org/work/7c351c54-3256-45e2-91cf-0adc74bb3816"
+        }, 
+        {
+            "attribute_key": "segah", 
+            "mb_attribute": "Segah", 
+            "source": "http://musicbrainz.org/work/c5c8c8f6-d12f-4012-977a-3b25042e71bd"
+        }, 
+        {
+            "attribute_key": "segah", 
+            "mb_tag": "segah", 
+            "source": "http://musicbrainz.org/recording/1a31ccd7-3cd5-4742-acb0-55395854ab7d"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
+            "type": "performing orchestra", 
+            "name": "[unknown]"
+        }, 
+        {
+            "mbid": "7ef61959-65f2-41ab-9ae2-ba890812b7b4", 
+            "type": "vocal", 
+            "name": "Bekir S\u0131dk\u0131 Sezgin"
+        }
+    ], 
+    "instrumentation_voicing": "Solo vocal with accompaniment", 
+    "works": [
+        {
+            "mbid": "7c351c54-3256-45e2-91cf-0adc74bb3816", 
+            "title": "Gaflet \u0130le Hakk\u0131 Buldum Diyenler"
+        }, 
+        {
+            "mbid": "c5c8c8f6-d12f-4012-977a-3b25042e71bd", 
+            "title": "Ya \u0130lahi \u0130sm-i A'zam Hakk\u0131y\u00e7\u00fcn"
+        }
+    ]
+}

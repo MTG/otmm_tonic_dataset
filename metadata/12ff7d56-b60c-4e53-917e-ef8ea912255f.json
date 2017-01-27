@@ -1,0 +1,87 @@
+{
+    "usul": [
+        {
+            "attribute_key": "curcuna", 
+            "mb_attribute": "Curcuna", 
+            "source": "http://musicbrainz.org/work/4f6e9373-860f-4bcb-a661-b994feacab48"
+        }, 
+        {
+            "attribute_key": "kapali_curcuna", 
+            "mb_tag": "curcuna", 
+            "source": "http://musicbrainz.org/recording/12ff7d56-b60c-4e53-917e-ef8ea912255f"
+        }
+    ], 
+    "form": [
+        {
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
+            "source": "http://musicbrainz.org/work/4f6e9373-860f-4bcb-a661-b994feacab48"
+        }, 
+        {
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
+            "source": "http://musicbrainz.org/recording/12ff7d56-b60c-4e53-917e-ef8ea912255f"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "c733dbde-e87a-4a26-a4c9-e08159f8afc0", 
+            "title": "Ge\u00e7mi\u015ften G\u00fcn\u00fcm\u00fcze T\u00fcrk M\u00fczi\u011fi A\u015fk ve H\u00fcz\u00fcn"
+        }
+    ], 
+    "title": "K\u00fc\u015fade Tali'im Hem Baht\u0131m Uygun", 
+    "url": "http://musicbrainz.org/recording/12ff7d56-b60c-4e53-917e-ef8ea912255f", 
+    "artist_credits": [
+        {
+            "mbid": "11f7e37b-9565-4603-b25b-b657f0835089", 
+            "name": "Fas\u0131l Heyeti"
+        }
+    ], 
+    "mbid": "12ff7d56-b60c-4e53-917e-ef8ea912255f", 
+    "makam": [
+        {
+            "attribute_key": "huzzam", 
+            "mb_attribute": "H\u00fczzam", 
+            "source": "http://musicbrainz.org/work/4f6e9373-860f-4bcb-a661-b994feacab48"
+        }, 
+        {
+            "attribute_key": "huzzam", 
+            "mb_tag": "h\u00fczzam", 
+            "source": "http://musicbrainz.org/recording/12ff7d56-b60c-4e53-917e-ef8ea912255f"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "11f7e37b-9565-4603-b25b-b657f0835089", 
+            "attribute-list": [
+                "choir vocals"
+            ], 
+            "type": "vocal", 
+            "name": "Fas\u0131l Heyeti"
+        }, 
+        {
+            "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
+            "attribute-list": [
+                "solo", 
+                "violin"
+            ], 
+            "type": "instrument", 
+            "name": "[unknown]"
+        }, 
+        {
+            "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
+            "attribute-list": [
+                "kanun"
+            ], 
+            "type": "instrument", 
+            "name": "[unknown]"
+        }
+    ], 
+    "instrumentation_voicing": "Solo vocal with accompaniment", 
+    "works": [
+        {
+            "mbid": "4f6e9373-860f-4bcb-a661-b994feacab48", 
+            "title": "Aman Saki"
+        }
+    ]
+}

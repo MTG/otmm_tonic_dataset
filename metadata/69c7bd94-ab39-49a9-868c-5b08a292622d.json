@@ -1,0 +1,67 @@
+{
+    "usul": [
+        {
+            "attribute_key": "aksaksemai", 
+            "mb_attribute": "Aksaksemai", 
+            "source": "http://musicbrainz.org/work/a094df54-addb-4d43-a06f-fcae06df9132"
+        }, 
+        {
+            "attribute_key": "aksaksemai", 
+            "mb_tag": "aksaksemai", 
+            "source": "http://musicbrainz.org/recording/69c7bd94-ab39-49a9-868c-5b08a292622d"
+        }
+    ], 
+    "form": [
+        {
+            "attribute_key": "sazsemaisi", 
+            "mb_attribute": "Sazsemaisi", 
+            "source": "http://musicbrainz.org/work/a094df54-addb-4d43-a06f-fcae06df9132"
+        }, 
+        {
+            "attribute_key": "sazsemaisi", 
+            "mb_tag": "sazsemaisi", 
+            "source": "http://musicbrainz.org/recording/69c7bd94-ab39-49a9-868c-5b08a292622d"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "3f67cd2e-4e7c-452e-94ad-6d2231f4d344", 
+            "title": "Kubbealt\u0131 T\u00fcrk Musikisi Klasik Eserler Serisi \u2013 2 (Mahur ve Evcara)"
+        }
+    ], 
+    "title": "Evcara Sazsemaisi", 
+    "url": "http://musicbrainz.org/recording/69c7bd94-ab39-49a9-868c-5b08a292622d", 
+    "artist_credits": [
+        {
+            "mbid": "b0bbd0fe-42f7-421c-82de-f4df6323984b", 
+            "name": "Meral U\u011furlu"
+        }
+    ], 
+    "mbid": "69c7bd94-ab39-49a9-868c-5b08a292622d", 
+    "makam": [
+        {
+            "attribute_key": "evcara", 
+            "mb_attribute": "Evcara", 
+            "source": "http://musicbrainz.org/work/a094df54-addb-4d43-a06f-fcae06df9132"
+        }, 
+        {
+            "attribute_key": "evcara", 
+            "mb_tag": "evcara", 
+            "source": "http://musicbrainz.org/recording/69c7bd94-ab39-49a9-868c-5b08a292622d"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
+            "type": "performing orchestra", 
+            "name": "[unknown]"
+        }
+    ], 
+    "instrumentation_voicing": "Ensemble instrumental", 
+    "works": [
+        {
+            "mbid": "a094df54-addb-4d43-a06f-fcae06df9132", 
+            "title": "Evcara Sazsemaisi"
+        }
+    ]
+}

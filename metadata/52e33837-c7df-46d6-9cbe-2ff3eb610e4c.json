@@ -1,0 +1,54 @@
+{
+    "instrumentation_voicing": "Solo instrumental", 
+    "form": [
+        {
+            "attribute_key": "taksim", 
+            "mb_tag": "taksim", 
+            "source": "http://musicbrainz.org/recording/52e33837-c7df-46d6-9cbe-2ff3eb610e4c"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "9d63cb14-4233-48ea-a4c9-e3c60d880786", 
+            "title": "Tanbur"
+        }
+    ], 
+    "title": "Rast'tan Nihavend'e ge\u00e7i\u015f taksimi", 
+    "url": "http://musicbrainz.org/recording/52e33837-c7df-46d6-9cbe-2ff3eb610e4c", 
+    "artist_credits": [
+        {
+            "mbid": "ef7f9168-eec5-4ecd-a142-132ef3355fc1", 
+            "name": "Erc\u00fcmend Batanay"
+        }
+    ], 
+    "mbid": "52e33837-c7df-46d6-9cbe-2ff3eb610e4c", 
+    "makam": [
+        {
+            "attribute_key": "rast", 
+            "mb_tag": "rast", 
+            "source": "http://musicbrainz.org/recording/52e33837-c7df-46d6-9cbe-2ff3eb610e4c"
+        }, 
+        {
+            "attribute_key": "nihavent", 
+            "mb_tag": "nihavent", 
+            "source": "http://musicbrainz.org/recording/52e33837-c7df-46d6-9cbe-2ff3eb610e4c"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "ef7f9168-eec5-4ecd-a142-132ef3355fc1", 
+            "attribute-list": [
+                "tanbur"
+            ], 
+            "type": "instrument", 
+            "name": "Erc\u00fcmend Batanay"
+        }
+    ], 
+    "usul": [
+        {
+            "attribute_key": "serbest", 
+            "mb_tag": "serbest", 
+            "source": "http://musicbrainz.org/recording/52e33837-c7df-46d6-9cbe-2ff3eb610e4c"
+        }
+    ]
+}

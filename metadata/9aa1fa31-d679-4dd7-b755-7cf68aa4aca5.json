@@ -1,0 +1,176 @@
+{
+    "usul": [
+        {
+            "attribute_key": "hafif", 
+            "mb_attribute": "Hafif", 
+            "source": "http://musicbrainz.org/work/7ef0332d-f32c-489a-a47d-9e5151612514"
+        }, 
+        {
+            "attribute_key": "durakevferi", 
+            "mb_attribute": "Durak Evferi", 
+            "source": "http://musicbrainz.org/work/cd6d2af9-956f-44ce-9818-79873e70e996"
+        }, 
+        {
+            "attribute_key": "serbest", 
+            "mb_tag": "serbest", 
+            "source": "http://musicbrainz.org/recording/9aa1fa31-d679-4dd7-b755-7cf68aa4aca5"
+        }, 
+        {
+            "attribute_key": "hafif", 
+            "mb_tag": "hafif", 
+            "source": "http://musicbrainz.org/recording/9aa1fa31-d679-4dd7-b755-7cf68aa4aca5"
+        }, 
+        {
+            "attribute_key": "durakevferi", 
+            "mb_tag": "durak evferi", 
+            "source": "http://musicbrainz.org/recording/9aa1fa31-d679-4dd7-b755-7cf68aa4aca5"
+        }
+    ], 
+    "form": [
+        {
+            "attribute_key": "ilahi", 
+            "mb_attribute": "\u0130lahi", 
+            "source": "http://musicbrainz.org/work/7ef0332d-f32c-489a-a47d-9e5151612514"
+        }, 
+        {
+            "attribute_key": "durak", 
+            "mb_attribute": "Durak", 
+            "source": "http://musicbrainz.org/work/cd6d2af9-956f-44ce-9818-79873e70e996"
+        }, 
+        {
+            "attribute_key": "taksim", 
+            "mb_tag": "taksim", 
+            "source": "http://musicbrainz.org/recording/9aa1fa31-d679-4dd7-b755-7cf68aa4aca5"
+        }, 
+        {
+            "attribute_key": "ilahi", 
+            "mb_tag": "ilahi", 
+            "source": "http://musicbrainz.org/recording/9aa1fa31-d679-4dd7-b755-7cf68aa4aca5"
+        }, 
+        {
+            "attribute_key": "durak", 
+            "mb_tag": "durak", 
+            "source": "http://musicbrainz.org/recording/9aa1fa31-d679-4dd7-b755-7cf68aa4aca5"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "abb360bb-6fe2-46f5-a301-fbea5795762b", 
+            "title": "Sufi Breaths - \u015eah-\u0131 Devran"
+        }
+    ], 
+    "title": "Devran: Taksim (Improvisations), Suzidil \u0130lahi, Suzidil Durak", 
+    "url": "http://musicbrainz.org/recording/9aa1fa31-d679-4dd7-b755-7cf68aa4aca5", 
+    "artist_credits": [
+        {
+            "mbid": "5121835d-84fb-44c6-8eed-8a8da4c444ba", 
+            "name": "Ahmet \u015eahin"
+        }
+    ], 
+    "mbid": "9aa1fa31-d679-4dd7-b755-7cf68aa4aca5", 
+    "makam": [
+        {
+            "attribute_key": "suzidil", 
+            "mb_attribute": "Suzidil", 
+            "source": "http://musicbrainz.org/work/7ef0332d-f32c-489a-a47d-9e5151612514"
+        }, 
+        {
+            "attribute_key": "suzidil", 
+            "mb_attribute": "Suzidil", 
+            "source": "http://musicbrainz.org/work/cd6d2af9-956f-44ce-9818-79873e70e996"
+        }, 
+        {
+            "attribute_key": "ussak", 
+            "mb_tag": "u\u015f\u015fak", 
+            "source": "http://musicbrainz.org/recording/9aa1fa31-d679-4dd7-b755-7cf68aa4aca5"
+        }, 
+        {
+            "attribute_key": "huseyni", 
+            "mb_tag": "h\u00fcseyni", 
+            "source": "http://musicbrainz.org/recording/9aa1fa31-d679-4dd7-b755-7cf68aa4aca5"
+        }, 
+        {
+            "attribute_key": "dilkeshaveran", 
+            "mb_tag": "dilke\u015fhaveran", 
+            "source": "http://musicbrainz.org/recording/9aa1fa31-d679-4dd7-b755-7cf68aa4aca5"
+        }, 
+        {
+            "attribute_key": "hicaz", 
+            "mb_tag": "hicaz", 
+            "source": "http://musicbrainz.org/recording/9aa1fa31-d679-4dd7-b755-7cf68aa4aca5"
+        }, 
+        {
+            "attribute_key": "sehnaz", 
+            "mb_tag": "\u015fehnaz", 
+            "source": "http://musicbrainz.org/recording/9aa1fa31-d679-4dd7-b755-7cf68aa4aca5"
+        }, 
+        {
+            "attribute_key": "suzidil", 
+            "mb_tag": "suzidil", 
+            "source": "http://musicbrainz.org/recording/9aa1fa31-d679-4dd7-b755-7cf68aa4aca5"
+        }, 
+        {
+            "attribute_key": "suzidil", 
+            "mb_tag": "suzidil", 
+            "source": "http://musicbrainz.org/recording/9aa1fa31-d679-4dd7-b755-7cf68aa4aca5"
+        }, 
+        {
+            "attribute_key": "suzidil", 
+            "mb_tag": "suzidil", 
+            "source": "http://musicbrainz.org/recording/9aa1fa31-d679-4dd7-b755-7cf68aa4aca5"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
+            "attribute-list": [
+                "ney"
+            ], 
+            "type": "instrument", 
+            "name": "[unknown]"
+        }, 
+        {
+            "mbid": "28892889-a2f1-465a-a341-978f21358750", 
+            "attribute-list": [
+                "other vocals"
+            ], 
+            "type": "vocal", 
+            "name": "Ebr\u00e2r U\u011fur"
+        }, 
+        {
+            "mbid": "5121835d-84fb-44c6-8eed-8a8da4c444ba", 
+            "attribute-list": [
+                "ney"
+            ], 
+            "type": "instrument", 
+            "name": "Ahmet \u015eahin"
+        }, 
+        {
+            "mbid": "947e49b2-20ab-45eb-8972-34ef96b03944", 
+            "attribute-list": [
+                "other vocals"
+            ], 
+            "type": "vocal", 
+            "name": "Mehmet Fatih \u00c7\u0131tlak"
+        }, 
+        {
+            "mbid": "f4620f6a-d026-40ac-834d-ac760f4a25de", 
+            "attribute-list": [
+                "other vocals"
+            ], 
+            "type": "vocal", 
+            "name": "Alparslan \u015eahin"
+        }
+    ], 
+    "instrumentation_voicing": "Choir", 
+    "works": [
+        {
+            "mbid": "7ef0332d-f32c-489a-a47d-9e5151612514", 
+            "title": "Y\u00fcce Sultan\u0131m"
+        }, 
+        {
+            "mbid": "cd6d2af9-956f-44ce-9818-79873e70e996", 
+            "title": "Suzidil Durak"
+        }
+    ]
+}

@@ -1,0 +1,70 @@
+{
+    "usul": [
+        {
+            "attribute_key": "aksaksemai", 
+            "mb_attribute": "Aksaksemai", 
+            "source": "http://musicbrainz.org/work/2c4de85d-ff94-4f5b-a2d7-7f8f503c5e43"
+        }, 
+        {
+            "attribute_key": "aksaksemai", 
+            "mb_tag": "aksaksemai", 
+            "source": "http://musicbrainz.org/recording/a7c9cca6-3d58-4b69-94c4-6322c4da1cf2"
+        }
+    ], 
+    "form": [
+        {
+            "attribute_key": "sazsemaisi", 
+            "mb_attribute": "Sazsemaisi", 
+            "source": "http://musicbrainz.org/work/2c4de85d-ff94-4f5b-a2d7-7f8f503c5e43"
+        }, 
+        {
+            "attribute_key": "sazsemaisi", 
+            "mb_tag": "sazsemaisi", 
+            "source": "http://musicbrainz.org/recording/a7c9cca6-3d58-4b69-94c4-6322c4da1cf2"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "b631dac8-f47d-494d-9063-45e9b2ace879", 
+            "title": "Osmanl\u0131'dan Bug\u00fcne T\u00fcrk Musikisi- Keman"
+        }
+    ], 
+    "title": "Mahur Saz Semaisi", 
+    "url": "http://musicbrainz.org/recording/a7c9cca6-3d58-4b69-94c4-6322c4da1cf2", 
+    "artist_credits": [
+        {
+            "mbid": "b8b24ca8-e429-414a-9336-272ed8f131e0", 
+            "name": "Fahri Karaduman"
+        }
+    ], 
+    "mbid": "a7c9cca6-3d58-4b69-94c4-6322c4da1cf2", 
+    "makam": [
+        {
+            "attribute_key": "mahur", 
+            "mb_attribute": "Mahur", 
+            "source": "http://musicbrainz.org/work/2c4de85d-ff94-4f5b-a2d7-7f8f503c5e43"
+        }, 
+        {
+            "attribute_key": "mahur", 
+            "mb_tag": "mahur", 
+            "source": "http://musicbrainz.org/recording/a7c9cca6-3d58-4b69-94c4-6322c4da1cf2"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "b8b24ca8-e429-414a-9336-272ed8f131e0", 
+            "attribute-list": [
+                "violin"
+            ], 
+            "type": "instrument", 
+            "name": "Fahri Karaduman"
+        }
+    ], 
+    "instrumentation_voicing": "Solo instrumental", 
+    "works": [
+        {
+            "mbid": "2c4de85d-ff94-4f5b-a2d7-7f8f503c5e43", 
+            "title": "Mahur Sazsemaisi"
+        }
+    ]
+}

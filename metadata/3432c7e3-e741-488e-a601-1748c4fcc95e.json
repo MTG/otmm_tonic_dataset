@@ -1,0 +1,87 @@
+{
+    "usul": [
+        {
+            "attribute_key": "aksaksemai", 
+            "mb_attribute": "Aksaksemai", 
+            "source": "http://musicbrainz.org/work/d1086c07-fb1f-4eb2-9585-9f22ea850f12"
+        }, 
+        {
+            "attribute_key": "aksaksemai", 
+            "mb_tag": "aksaksemai", 
+            "source": "http://musicbrainz.org/recording/3432c7e3-e741-488e-a601-1748c4fcc95e"
+        }, 
+        {
+            "attribute_key": "yuruksemai", 
+            "mb_tag": "y\u00fcr\u00fcksemai", 
+            "source": "http://musicbrainz.org/recording/3432c7e3-e741-488e-a601-1748c4fcc95e"
+        }
+    ], 
+    "form": [
+        {
+            "attribute_key": "sazsemaisi", 
+            "mb_attribute": "Sazsemaisi", 
+            "source": "http://musicbrainz.org/work/d1086c07-fb1f-4eb2-9585-9f22ea850f12"
+        }, 
+        {
+            "attribute_key": "sazsemaisi", 
+            "mb_tag": "sazsemaisi", 
+            "source": "http://musicbrainz.org/recording/3432c7e3-e741-488e-a601-1748c4fcc95e"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "8e169015-211d-4d7e-a2a6-e33d7e57c17a", 
+            "title": "Be\u015fibiryerde"
+        }
+    ], 
+    "title": "Pesendide Saz Semaisi", 
+    "url": "http://musicbrainz.org/recording/3432c7e3-e741-488e-a601-1748c4fcc95e", 
+    "artist_credits": [
+        {
+            "mbid": "eb150720-40d5-4da9-8c8b-b149601c73e5", 
+            "name": "Necdet Ya\u015far"
+        }, 
+        {
+            "mbid": "c5bd2eee-7fcb-4cc5-8481-a69f5caded75", 
+            "name": "Ruhi Ayangil"
+        }
+    ], 
+    "mbid": "3432c7e3-e741-488e-a601-1748c4fcc95e", 
+    "makam": [
+        {
+            "attribute_key": "pesendide", 
+            "mb_attribute": "Pesendide", 
+            "source": "http://musicbrainz.org/work/d1086c07-fb1f-4eb2-9585-9f22ea850f12"
+        }, 
+        {
+            "attribute_key": "pesendide", 
+            "mb_tag": "pesendide", 
+            "source": "http://musicbrainz.org/recording/3432c7e3-e741-488e-a601-1748c4fcc95e"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "c5bd2eee-7fcb-4cc5-8481-a69f5caded75", 
+            "attribute-list": [
+                "kanun"
+            ], 
+            "type": "instrument", 
+            "name": "Ruhi Ayangil"
+        }, 
+        {
+            "mbid": "eb150720-40d5-4da9-8c8b-b149601c73e5", 
+            "attribute-list": [
+                "tanbur"
+            ], 
+            "type": "instrument", 
+            "name": "Necdet Ya\u015far"
+        }
+    ], 
+    "instrumentation_voicing": "Duo instrumental", 
+    "works": [
+        {
+            "mbid": "d1086c07-fb1f-4eb2-9585-9f22ea850f12", 
+            "title": "Pesend\u00eede Saz Semaisi"
+        }
+    ]
+}

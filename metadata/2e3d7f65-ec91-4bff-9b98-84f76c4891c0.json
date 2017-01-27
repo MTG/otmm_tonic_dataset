@@ -1,0 +1,108 @@
+{
+    "usul": [
+        {
+            "attribute_key": "ferimuhammes", 
+            "mb_attribute": "Fer'i Muhammes", 
+            "source": "http://musicbrainz.org/work/879d74cd-dcaa-42ed-ba2e-471c17027115"
+        }, 
+        {
+            "attribute_key": "muhammes", 
+            "mb_tag": "muhammes", 
+            "source": "http://musicbrainz.org/recording/2e3d7f65-ec91-4bff-9b98-84f76c4891c0"
+        }
+    ], 
+    "form": [
+        {
+            "attribute_key": "pesrev", 
+            "mb_attribute": "Pe\u015frev", 
+            "source": "http://musicbrainz.org/work/879d74cd-dcaa-42ed-ba2e-471c17027115"
+        }, 
+        {
+            "attribute_key": "pesrev", 
+            "mb_tag": "pe\u015frev", 
+            "source": "http://musicbrainz.org/recording/2e3d7f65-ec91-4bff-9b98-84f76c4891c0"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "8a26baa0-62b0-451d-9d6e-f2400b9dad1f", 
+            "title": "Yitik Sesin Pe\u015finde - In Search of the Lost Sound"
+        }
+    ], 
+    "title": "Muhayyer Pe\u015frev", 
+    "url": "http://musicbrainz.org/recording/2e3d7f65-ec91-4bff-9b98-84f76c4891c0", 
+    "artist_credits": [
+        {
+            "mbid": "0684b310-0672-438f-9e77-149e5f34bd95", 
+            "name": "Bezm\u00e2r\u00e2"
+        }
+    ], 
+    "mbid": "2e3d7f65-ec91-4bff-9b98-84f76c4891c0", 
+    "makam": [
+        {
+            "attribute_key": "muhayyer", 
+            "mb_attribute": "Muhayyer", 
+            "source": "http://musicbrainz.org/work/879d74cd-dcaa-42ed-ba2e-471c17027115"
+        }, 
+        {
+            "attribute_key": "muhayyer", 
+            "mb_tag": "muhayyer", 
+            "source": "http://musicbrainz.org/recording/2e3d7f65-ec91-4bff-9b98-84f76c4891c0"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "0c8e8b5a-a1c5-400d-bc6a-f0928fbf6a79", 
+            "type": "conductor", 
+            "name": "Fikret Karakaya"
+        }, 
+        {
+            "mbid": "1e9a0393-41fd-4e62-be27-533428cdff06", 
+            "attribute-list": [
+                "rebab"
+            ], 
+            "type": "instrument", 
+            "name": "Kemal Caba"
+        }, 
+        {
+            "mbid": "2b814947-2768-4fb5-b70e-5974bd6ffa23", 
+            "attribute-list": [
+                "ney"
+            ], 
+            "type": "instrument", 
+            "name": "Aziz \u015eenol Filiz"
+        }, 
+        {
+            "mbid": "653e27dc-a7c5-4280-ae0a-80611943d12b", 
+            "attribute-list": [
+                "tanbur"
+            ], 
+            "type": "instrument", 
+            "name": "Birol Yayla"
+        }, 
+        {
+            "mbid": "6d47c26c-2a6d-4f34-a7c5-4b2bd61b21fc", 
+            "attribute-list": [
+                "kanun"
+            ], 
+            "type": "instrument", 
+            "name": "Serap \u00c7a\u011flayan"
+        }, 
+        {
+            "mbid": "86353e17-d6a3-478e-8a27-a99fe59f7b15", 
+            "attribute-list": [
+                "daire", 
+                "kud\u00fcm"
+            ], 
+            "type": "instrument", 
+            "name": "Kamil Bilgin"
+        }
+    ], 
+    "instrumentation_voicing": "Ensemble instrumental", 
+    "works": [
+        {
+            "mbid": "879d74cd-dcaa-42ed-ba2e-471c17027115", 
+            "title": "Muhayyer Pe\u015frev"
+        }
+    ]
+}

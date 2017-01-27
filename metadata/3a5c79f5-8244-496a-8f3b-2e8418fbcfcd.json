@@ -1,0 +1,65 @@
+{
+    "usul": [
+        {
+            "attribute_key": "devrikebir", 
+            "mb_attribute": "Devr-i Kebir", 
+            "source": "http://musicbrainz.org/work/40300628-d472-4232-81ce-df599f4fbacc"
+        }
+    ], 
+    "form": [
+        {
+            "attribute_key": "pesrev", 
+            "mb_attribute": "Pe\u015frev", 
+            "source": "http://musicbrainz.org/work/40300628-d472-4232-81ce-df599f4fbacc"
+        }, 
+        {
+            "attribute_key": "pesrev", 
+            "mb_tag": "pe\u015frev", 
+            "source": "http://musicbrainz.org/recording/3a5c79f5-8244-496a-8f3b-2e8418fbcfcd"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "93d37c26-9732-4558-afc9-b2e5d3f58cb0", 
+            "title": "Ney ile \u0130cra Edilmi\u015f Saz Eserleri"
+        }
+    ], 
+    "title": "Suz-i Dil Pe\u015frev (K\u0131z Ney)", 
+    "url": "http://musicbrainz.org/recording/3a5c79f5-8244-496a-8f3b-2e8418fbcfcd", 
+    "artist_credits": [
+        {
+            "mbid": "3a57e3a4-4e48-4ce2-aae0-c5b5275721eb", 
+            "name": "Salih Bilgin"
+        }
+    ], 
+    "mbid": "3a5c79f5-8244-496a-8f3b-2e8418fbcfcd", 
+    "makam": [
+        {
+            "attribute_key": "suzidil", 
+            "mb_attribute": "Suzidil", 
+            "source": "http://musicbrainz.org/work/40300628-d472-4232-81ce-df599f4fbacc"
+        }, 
+        {
+            "attribute_key": "suzidil", 
+            "mb_tag": "suzidil", 
+            "source": "http://musicbrainz.org/recording/3a5c79f5-8244-496a-8f3b-2e8418fbcfcd"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "3a57e3a4-4e48-4ce2-aae0-c5b5275721eb", 
+            "attribute-list": [
+                "ney"
+            ], 
+            "type": "instrument", 
+            "name": "Salih Bilgin"
+        }
+    ], 
+    "instrumentation_voicing": "Solo instrumental", 
+    "works": [
+        {
+            "mbid": "40300628-d472-4232-81ce-df599f4fbacc", 
+            "title": "Suzidil Pe\u015frev"
+        }
+    ]
+}

@@ -1,0 +1,72 @@
+{
+    "usul": [
+        {
+            "attribute_key": "devrirevan", 
+            "mb_attribute": "Devr-i Revan", 
+            "source": "http://musicbrainz.org/work/522c850d-07a2-4f0b-9587-05cb2667aec3"
+        }, 
+        {
+            "attribute_key": "devrirevan", 
+            "mb_tag": "devr-i revan", 
+            "source": "http://musicbrainz.org/recording/6b4e346b-c6f2-4f28-b5c6-372c6ab2f730"
+        }
+    ], 
+    "form": [
+        {
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
+            "source": "http://musicbrainz.org/work/522c850d-07a2-4f0b-9587-05cb2667aec3"
+        }, 
+        {
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
+            "source": "http://musicbrainz.org/recording/6b4e346b-c6f2-4f28-b5c6-372c6ab2f730"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "ba3a521f-b406-4314-b6be-6075a9b0a507", 
+            "title": "Bekir S\u0131dk\u0131 Sezgin 23"
+        }
+    ], 
+    "title": "Ey G\u00fcl-i Nevres Hezar\u0131 Eyleme Hicrinle Zar", 
+    "url": "http://musicbrainz.org/recording/6b4e346b-c6f2-4f28-b5c6-372c6ab2f730", 
+    "artist_credits": [
+        {
+            "mbid": "7ef61959-65f2-41ab-9ae2-ba890812b7b4", 
+            "name": "Bekir S\u0131dk\u0131 Sezgin"
+        }
+    ], 
+    "mbid": "6b4e346b-c6f2-4f28-b5c6-372c6ab2f730", 
+    "makam": [
+        {
+            "attribute_key": "nevabuselik", 
+            "mb_attribute": "Nevabuselik", 
+            "source": "http://musicbrainz.org/work/522c850d-07a2-4f0b-9587-05cb2667aec3"
+        }, 
+        {
+            "attribute_key": "nevabuselik", 
+            "mb_tag": "nevabuselik", 
+            "source": "http://musicbrainz.org/recording/6b4e346b-c6f2-4f28-b5c6-372c6ab2f730"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
+            "type": "performing orchestra", 
+            "name": "[unknown]"
+        }, 
+        {
+            "mbid": "7ef61959-65f2-41ab-9ae2-ba890812b7b4", 
+            "type": "vocal", 
+            "name": "Bekir S\u0131dk\u0131 Sezgin"
+        }
+    ], 
+    "instrumentation_voicing": "Solo vocal with accompaniment", 
+    "works": [
+        {
+            "mbid": "522c850d-07a2-4f0b-9587-05cb2667aec3", 
+            "title": "Ey G\u00fcl-i Nevres"
+        }
+    ]
+}

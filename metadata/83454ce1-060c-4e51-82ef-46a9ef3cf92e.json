@@ -1,0 +1,70 @@
+{
+    "usul": [
+        {
+            "attribute_key": "nimsofyan", 
+            "mb_attribute": "Nimsofyan", 
+            "source": "http://musicbrainz.org/work/0f1f7a7f-8f41-497c-96de-f51abb0d3b90"
+        }, 
+        {
+            "attribute_key": "nimsofyan", 
+            "mb_tag": "nimsofyan", 
+            "source": "http://musicbrainz.org/recording/83454ce1-060c-4e51-82ef-46a9ef3cf92e"
+        }
+    ], 
+    "form": [
+        {
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
+            "source": "http://musicbrainz.org/work/0f1f7a7f-8f41-497c-96de-f51abb0d3b90"
+        }, 
+        {
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
+            "source": "http://musicbrainz.org/recording/83454ce1-060c-4e51-82ef-46a9ef3cf92e"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "b631dac8-f47d-494d-9063-45e9b2ace879", 
+            "title": "Osmanl\u0131'dan Bug\u00fcne T\u00fcrk Musikisi- Keman"
+        }
+    ], 
+    "title": "Nihavent \u015eark\u0131- Sonbahar Ya\u011fmuru", 
+    "url": "http://musicbrainz.org/recording/83454ce1-060c-4e51-82ef-46a9ef3cf92e", 
+    "artist_credits": [
+        {
+            "mbid": "b8b24ca8-e429-414a-9336-272ed8f131e0", 
+            "name": "Fahri Karaduman"
+        }
+    ], 
+    "mbid": "83454ce1-060c-4e51-82ef-46a9ef3cf92e", 
+    "makam": [
+        {
+            "attribute_key": "nihavent", 
+            "mb_attribute": "Nihavent", 
+            "source": "http://musicbrainz.org/work/0f1f7a7f-8f41-497c-96de-f51abb0d3b90"
+        }, 
+        {
+            "attribute_key": "nihavent", 
+            "mb_tag": "nihavent", 
+            "source": "http://musicbrainz.org/recording/83454ce1-060c-4e51-82ef-46a9ef3cf92e"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "b8b24ca8-e429-414a-9336-272ed8f131e0", 
+            "attribute-list": [
+                "violin"
+            ], 
+            "type": "instrument", 
+            "name": "Fahri Karaduman"
+        }
+    ], 
+    "instrumentation_voicing": "Solo instrumental", 
+    "works": [
+        {
+            "mbid": "0f1f7a7f-8f41-497c-96de-f51abb0d3b90", 
+            "title": "Sonbahar Ya\u011fmuru"
+        }
+    ]
+}

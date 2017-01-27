@@ -1,0 +1,70 @@
+{
+    "usul": [
+        {
+            "attribute_key": "aksaksemai", 
+            "mb_attribute": "Aksaksemai", 
+            "source": "http://musicbrainz.org/work/8457bce2-07f0-4502-ae86-19b61c6bb77e"
+        }, 
+        {
+            "attribute_key": "aksaksemai", 
+            "mb_tag": "aksaksemai", 
+            "source": "http://musicbrainz.org/recording/5889b038-303c-44d4-97d8-dfdacc78d8ff"
+        }
+    ], 
+    "form": [
+        {
+            "attribute_key": "sazsemaisi", 
+            "mb_attribute": "Sazsemaisi", 
+            "source": "http://musicbrainz.org/work/8457bce2-07f0-4502-ae86-19b61c6bb77e"
+        }, 
+        {
+            "attribute_key": "sazsemaisi", 
+            "mb_tag": "sazsemaisi", 
+            "source": "http://musicbrainz.org/recording/5889b038-303c-44d4-97d8-dfdacc78d8ff"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "8d71678a-4324-4754-9520-af5394356891", 
+            "title": "Turkish Music Makam Guide"
+        }
+    ], 
+    "title": "Yegah Sazsemaisi", 
+    "url": "http://musicbrainz.org/recording/5889b038-303c-44d4-97d8-dfdacc78d8ff", 
+    "artist_credits": [
+        {
+            "mbid": "9b6e98f8-b695-45da-8c9c-68d4bab460fd", 
+            "name": "Murat Aydemir"
+        }
+    ], 
+    "mbid": "5889b038-303c-44d4-97d8-dfdacc78d8ff", 
+    "makam": [
+        {
+            "attribute_key": "yegah", 
+            "mb_attribute": "Yegah", 
+            "source": "http://musicbrainz.org/work/8457bce2-07f0-4502-ae86-19b61c6bb77e"
+        }, 
+        {
+            "attribute_key": "yegah", 
+            "mb_tag": "yegah", 
+            "source": "http://musicbrainz.org/recording/5889b038-303c-44d4-97d8-dfdacc78d8ff"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "9b6e98f8-b695-45da-8c9c-68d4bab460fd", 
+            "attribute-list": [
+                "tanbur"
+            ], 
+            "type": "instrument", 
+            "name": "Murat Aydemir"
+        }
+    ], 
+    "instrumentation_voicing": "Solo instrumental", 
+    "works": [
+        {
+            "mbid": "8457bce2-07f0-4502-ae86-19b61c6bb77e", 
+            "title": "Yegah Sazsemaisi"
+        }
+    ]
+}

@@ -1,0 +1,67 @@
+{
+    "usul": [
+        {
+            "attribute_key": "nimsofyan", 
+            "mb_attribute": "Nimsofyan", 
+            "source": "http://musicbrainz.org/work/cf3626ab-84f1-4c86-a931-86ddc425147f"
+        }, 
+        {
+            "attribute_key": "sofyan", 
+            "mb_tag": "sofyan", 
+            "source": "http://musicbrainz.org/recording/4525e629-d02c-403c-b224-5337ccf544c6"
+        }
+    ], 
+    "form": [
+        {
+            "attribute_key": "turku", 
+            "mb_attribute": "T\u00fcrk\u00fc", 
+            "source": "http://musicbrainz.org/work/cf3626ab-84f1-4c86-a931-86ddc425147f"
+        }, 
+        {
+            "attribute_key": "turku", 
+            "mb_tag": "t\u00fcrk\u00fc", 
+            "source": "http://musicbrainz.org/recording/4525e629-d02c-403c-b224-5337ccf544c6"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "4469247f-6e65-4a35-8661-321c399dacb9", 
+            "title": "Fasl-\u0131 \u015eahane Enstrumantal, Volume 5"
+        }
+    ], 
+    "title": "Kadifeden Kesesi", 
+    "url": "http://musicbrainz.org/recording/4525e629-d02c-403c-b224-5337ccf544c6", 
+    "artist_credits": [
+        {
+            "mbid": "ef074ab6-a2a8-42f7-a454-068265023697", 
+            "name": "Aziz T\u00fcrk Sanat M\u00fczi\u011fi Grubu"
+        }
+    ], 
+    "mbid": "4525e629-d02c-403c-b224-5337ccf544c6", 
+    "makam": [
+        {
+            "attribute_key": "ussak", 
+            "mb_attribute": "U\u015f\u015fak", 
+            "source": "http://musicbrainz.org/work/cf3626ab-84f1-4c86-a931-86ddc425147f"
+        }, 
+        {
+            "attribute_key": "ussak", 
+            "mb_tag": "u\u015f\u015fak", 
+            "source": "http://musicbrainz.org/recording/4525e629-d02c-403c-b224-5337ccf544c6"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "ef074ab6-a2a8-42f7-a454-068265023697", 
+            "type": "performing orchestra", 
+            "name": "Aziz T\u00fcrk Sanat M\u00fczi\u011fi Grubu"
+        }
+    ], 
+    "instrumentation_voicing": "Ensemble instrumental", 
+    "works": [
+        {
+            "mbid": "cf3626ab-84f1-4c86-a931-86ddc425147f", 
+            "title": "Kadifeden Kesesi"
+        }
+    ]
+}

@@ -1,0 +1,70 @@
+{
+    "usul": [
+        {
+            "attribute_key": "aksaksemai", 
+            "mb_attribute": "Aksaksemai", 
+            "source": "http://musicbrainz.org/work/ac003195-9ea0-4d8e-8420-2d6c269e98f6"
+        }, 
+        {
+            "attribute_key": "aksaksemai", 
+            "mb_tag": "aksaksemai", 
+            "source": "http://musicbrainz.org/recording/28208614-7bf0-4df5-8f34-14e6ec37cbf9"
+        }
+    ], 
+    "form": [
+        {
+            "attribute_key": "sazsemaisi", 
+            "mb_attribute": "Sazsemaisi", 
+            "source": "http://musicbrainz.org/work/ac003195-9ea0-4d8e-8420-2d6c269e98f6"
+        }, 
+        {
+            "attribute_key": "sazsemaisi", 
+            "mb_tag": "sazsemaisi", 
+            "source": "http://musicbrainz.org/recording/28208614-7bf0-4df5-8f34-14e6ec37cbf9"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "8d71678a-4324-4754-9520-af5394356891", 
+            "title": "Turkish Music Makam Guide"
+        }
+    ], 
+    "title": "Muhayyer Sazsemaisi", 
+    "url": "http://musicbrainz.org/recording/28208614-7bf0-4df5-8f34-14e6ec37cbf9", 
+    "artist_credits": [
+        {
+            "mbid": "9b6e98f8-b695-45da-8c9c-68d4bab460fd", 
+            "name": "Murat Aydemir"
+        }
+    ], 
+    "mbid": "28208614-7bf0-4df5-8f34-14e6ec37cbf9", 
+    "makam": [
+        {
+            "attribute_key": "muhayyer", 
+            "mb_attribute": "Muhayyer", 
+            "source": "http://musicbrainz.org/work/ac003195-9ea0-4d8e-8420-2d6c269e98f6"
+        }, 
+        {
+            "attribute_key": "muhayyer", 
+            "mb_tag": "muhayyer", 
+            "source": "http://musicbrainz.org/recording/28208614-7bf0-4df5-8f34-14e6ec37cbf9"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "9b6e98f8-b695-45da-8c9c-68d4bab460fd", 
+            "attribute-list": [
+                "tanbur"
+            ], 
+            "type": "instrument", 
+            "name": "Murat Aydemir"
+        }
+    ], 
+    "instrumentation_voicing": "Solo instrumental", 
+    "works": [
+        {
+            "mbid": "ac003195-9ea0-4d8e-8420-2d6c269e98f6", 
+            "title": "Muhayyer Sazsemaisi"
+        }
+    ]
+}

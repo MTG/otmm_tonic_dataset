@@ -1,0 +1,72 @@
+{
+    "usul": [
+        {
+            "attribute_key": "aksak", 
+            "mb_attribute": "Aksak", 
+            "source": "http://musicbrainz.org/work/b14650a8-835d-49c6-a66b-3c789e629548"
+        }, 
+        {
+            "attribute_key": "aksak", 
+            "mb_tag": "aksak", 
+            "source": "http://musicbrainz.org/recording/340ee45d-590e-4bf2-a320-c4b522096091"
+        }
+    ], 
+    "form": [
+        {
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
+            "source": "http://musicbrainz.org/work/b14650a8-835d-49c6-a66b-3c789e629548"
+        }, 
+        {
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
+            "source": "http://musicbrainz.org/recording/340ee45d-590e-4bf2-a320-c4b522096091"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "8bf2ac3f-26f7-4a78-ac00-467cd2667bf6", 
+            "title": "Hicaz 13"
+        }
+    ], 
+    "title": "K\u0131\u015f Geldi Firak A\u00e7madad\u0131r Sineme Yare", 
+    "url": "http://musicbrainz.org/recording/340ee45d-590e-4bf2-a320-c4b522096091", 
+    "artist_credits": [
+        {
+            "mbid": "7ef61959-65f2-41ab-9ae2-ba890812b7b4", 
+            "name": "Bekir S\u0131dk\u0131 Sezgin"
+        }
+    ], 
+    "mbid": "340ee45d-590e-4bf2-a320-c4b522096091", 
+    "makam": [
+        {
+            "attribute_key": "hicaz", 
+            "mb_attribute": "Hicaz", 
+            "source": "http://musicbrainz.org/work/b14650a8-835d-49c6-a66b-3c789e629548"
+        }, 
+        {
+            "attribute_key": "hicaz", 
+            "mb_tag": "hicaz", 
+            "source": "http://musicbrainz.org/recording/340ee45d-590e-4bf2-a320-c4b522096091"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
+            "type": "performing orchestra", 
+            "name": "[unknown]"
+        }, 
+        {
+            "mbid": "7ef61959-65f2-41ab-9ae2-ba890812b7b4", 
+            "type": "vocal", 
+            "name": "Bekir S\u0131dk\u0131 Sezgin"
+        }
+    ], 
+    "instrumentation_voicing": "Solo vocal with accompaniment", 
+    "works": [
+        {
+            "mbid": "b14650a8-835d-49c6-a66b-3c789e629548", 
+            "title": "K\u0131\u015f Geldi Firak A\u00e7madad\u0131r"
+        }
+    ]
+}

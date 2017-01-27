@@ -1,0 +1,62 @@
+{
+    "usul": [
+        {
+            "attribute_key": "aksaksemai", 
+            "mb_attribute": "Aksaksemai", 
+            "source": "http://musicbrainz.org/work/e7924b0d-c8a0-4b4a-b253-8eec898eac1e"
+        }
+    ], 
+    "form": [
+        {
+            "attribute_key": "sazsemaisi", 
+            "mb_attribute": "Sazsemaisi", 
+            "source": "http://musicbrainz.org/work/e7924b0d-c8a0-4b4a-b253-8eec898eac1e"
+        }, 
+        {
+            "attribute_key": "sazsemaisi", 
+            "mb_tag": "sazsemaisi", 
+            "source": "http://musicbrainz.org/recording/9a7d391f-90a6-4f2d-a0d2-5e6a5365b149"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "6f25b18e-7cb9-49b9-88b9-e784ea673a2a", 
+            "title": "\u015earap Gibi"
+        }
+    ], 
+    "title": "U\u015f\u015fak Saz Semaisi", 
+    "url": "http://musicbrainz.org/recording/9a7d391f-90a6-4f2d-a0d2-5e6a5365b149", 
+    "artist_credits": [
+        {
+            "mbid": "6fa6cab0-1197-4d00-b451-275fc6b4caf5", 
+            "name": "M\u00fczeyyen Senar"
+        }
+    ], 
+    "mbid": "9a7d391f-90a6-4f2d-a0d2-5e6a5365b149", 
+    "makam": [
+        {
+            "attribute_key": "ussak", 
+            "mb_attribute": "U\u015f\u015fak", 
+            "source": "http://musicbrainz.org/work/e7924b0d-c8a0-4b4a-b253-8eec898eac1e"
+        }, 
+        {
+            "attribute_key": "ussak", 
+            "mb_tag": "u\u015f\u015fak", 
+            "source": "http://musicbrainz.org/recording/9a7d391f-90a6-4f2d-a0d2-5e6a5365b149"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
+            "type": "performing orchestra", 
+            "name": "[unknown]"
+        }
+    ], 
+    "instrumentation_voicing": "Ensemble instrumental", 
+    "works": [
+        {
+            "mbid": "e7924b0d-c8a0-4b4a-b253-8eec898eac1e", 
+            "title": "U\u015f\u015fak Saz Semaisi"
+        }
+    ]
+}

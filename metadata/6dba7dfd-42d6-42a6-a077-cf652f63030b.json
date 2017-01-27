@@ -1,0 +1,54 @@
+{
+    "instrumentation_voicing": "Solo vocal with accompaniment", 
+    "form": [
+        {
+            "attribute_key": "gazel", 
+            "mb_tag": "gazel", 
+            "source": "http://musicbrainz.org/recording/6dba7dfd-42d6-42a6-a077-cf652f63030b"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "a59bec8b-8d42-4203-9e90-78b1d56419fd", 
+            "title": "Ge\u00e7mi\u015ften G\u00fcn\u00fcm\u00fcze T\u00fcrk M\u00fczi\u011fi Dersaadet'te Ak\u015fam"
+        }
+    ], 
+    "title": "Ne Saki \u015ead Eder G\u00f6nl\u00fcm Ne Gam\u0131m Zayi Eyler Mey", 
+    "url": "http://musicbrainz.org/recording/6dba7dfd-42d6-42a6-a077-cf652f63030b", 
+    "artist_credits": [
+        {
+            "mbid": "eeece319-1266-487d-b011-8290eb5cf76e", 
+            "name": "Mustafa Zeki \u00c7a\u011flarman"
+        }
+    ], 
+    "mbid": "6dba7dfd-42d6-42a6-a077-cf652f63030b", 
+    "makam": [
+        {
+            "attribute_key": "hicaz", 
+            "mb_tag": "hicaz", 
+            "source": "http://musicbrainz.org/recording/6dba7dfd-42d6-42a6-a077-cf652f63030b"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "b2415292-1cf4-4dc9-beea-3c350aba930b", 
+            "attribute-list": [
+                "kanun"
+            ], 
+            "type": "instrument", 
+            "name": "Hasan Ferit Alnar"
+        }, 
+        {
+            "mbid": "eeece319-1266-487d-b011-8290eb5cf76e", 
+            "type": "vocal", 
+            "name": "Mustafa Zeki \u00c7a\u011flarman"
+        }
+    ], 
+    "usul": [
+        {
+            "attribute_key": "serbest", 
+            "mb_tag": "serbest", 
+            "source": "http://musicbrainz.org/recording/6dba7dfd-42d6-42a6-a077-cf652f63030b"
+        }
+    ]
+}

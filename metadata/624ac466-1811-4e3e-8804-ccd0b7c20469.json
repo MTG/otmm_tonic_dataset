@@ -1,0 +1,70 @@
+{
+    "usul": [
+        {
+            "attribute_key": "ciftesofyan", 
+            "mb_attribute": "\u00c7iftesofyan", 
+            "source": "http://musicbrainz.org/work/5e916a14-8524-4bd8-9970-fff56493f348"
+        }, 
+        {
+            "attribute_key": "aksak", 
+            "mb_tag": "aksak", 
+            "source": "http://musicbrainz.org/recording/624ac466-1811-4e3e-8804-ccd0b7c20469"
+        }
+    ], 
+    "form": [
+        {
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
+            "source": "http://musicbrainz.org/work/5e916a14-8524-4bd8-9970-fff56493f348"
+        }, 
+        {
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
+            "source": "http://musicbrainz.org/recording/624ac466-1811-4e3e-8804-ccd0b7c20469"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "27272058-7500-4ce2-a357-f9e038ef6be9", 
+            "title": "T\u00fcrk M\u00fczi\u011finde Kanun ile Sevilen \u015eark\u0131lar - Enstr\u00fcmantal"
+        }
+    ], 
+    "title": "Kara Bulutlar\u0131 Kald\u0131r Aradan", 
+    "url": "http://musicbrainz.org/recording/624ac466-1811-4e3e-8804-ccd0b7c20469", 
+    "artist_credits": [
+        {
+            "mbid": "230670ce-4f8c-4515-9a99-b747b7bd53c5", 
+            "name": "Ahmet Meter"
+        }
+    ], 
+    "mbid": "624ac466-1811-4e3e-8804-ccd0b7c20469", 
+    "makam": [
+        {
+            "attribute_key": "karcigar", 
+            "mb_attribute": "Karc\u0131\u011far", 
+            "source": "http://musicbrainz.org/work/5e916a14-8524-4bd8-9970-fff56493f348"
+        }, 
+        {
+            "attribute_key": "huseyni", 
+            "mb_tag": "karc\u0131\u011far", 
+            "source": "http://musicbrainz.org/recording/624ac466-1811-4e3e-8804-ccd0b7c20469"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "230670ce-4f8c-4515-9a99-b747b7bd53c5", 
+            "attribute-list": [
+                "kanun"
+            ], 
+            "type": "instrument", 
+            "name": "Ahmet Meter"
+        }
+    ], 
+    "instrumentation_voicing": "Solo instrumental", 
+    "works": [
+        {
+            "mbid": "5e916a14-8524-4bd8-9970-fff56493f348", 
+            "title": "Kara Bulutlar\u0131 Kald\u0131r Aradan"
+        }
+    ]
+}

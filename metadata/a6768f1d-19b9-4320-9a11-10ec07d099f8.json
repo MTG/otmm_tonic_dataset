@@ -1,0 +1,111 @@
+{
+    "usul": [
+        {
+            "attribute_key": "devrikebir", 
+            "mb_attribute": "Devr-i Kebir", 
+            "source": "http://musicbrainz.org/work/820b3011-67ba-4dbd-b249-2fd3008ac032"
+        }, 
+        {
+            "attribute_key": "devrikebir", 
+            "mb_tag": "devr-i kebir", 
+            "source": "http://musicbrainz.org/recording/a6768f1d-19b9-4320-9a11-10ec07d099f8"
+        }
+    ], 
+    "form": [
+        {
+            "attribute_key": "pesrev", 
+            "mb_attribute": "Pe\u015frev", 
+            "source": "http://musicbrainz.org/work/820b3011-67ba-4dbd-b249-2fd3008ac032"
+        }, 
+        {
+            "attribute_key": "pesrev", 
+            "mb_tag": "pe\u015frev", 
+            "source": "http://musicbrainz.org/recording/a6768f1d-19b9-4320-9a11-10ec07d099f8"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "d2600940-16cc-43ba-a712-40952ff66573", 
+            "title": "Lalezar - Music Of The Sultans, Sufis & Seraglio, Volume 4 - Ottoman Suite"
+        }
+    ], 
+    "title": "\u0130sfahan Pe\u015frev", 
+    "url": "http://musicbrainz.org/recording/a6768f1d-19b9-4320-9a11-10ec07d099f8", 
+    "artist_credits": [
+        {
+            "mbid": "e71e29ab-8432-4d4b-ac10-324876534275", 
+            "name": "Lalezar"
+        }
+    ], 
+    "mbid": "a6768f1d-19b9-4320-9a11-10ec07d099f8", 
+    "makam": [
+        {
+            "attribute_key": "isfahan", 
+            "mb_attribute": "Isfahan", 
+            "source": "http://musicbrainz.org/work/820b3011-67ba-4dbd-b249-2fd3008ac032"
+        }, 
+        {
+            "attribute_key": "isfahan", 
+            "mb_tag": "\u0131sfahan", 
+            "source": "http://musicbrainz.org/recording/a6768f1d-19b9-4320-9a11-10ec07d099f8"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "1ea19c2a-1d6a-4228-bdab-3ba8df5d2e0d", 
+            "type": "vocal", 
+            "name": "Selma Sa\u011fba\u015f"
+        }, 
+        {
+            "mbid": "2b359294-6708-4aae-b752-ca8d8a10da9e", 
+            "type": "vocal", 
+            "name": "Ahmet Erdo\u011fdular"
+        }, 
+        {
+            "mbid": "61a32817-7ab6-432a-8c87-b0c99880df84", 
+            "attribute-list": [
+                "ney", 
+                "tanbur"
+            ], 
+            "type": "instrument", 
+            "name": "Murat Salim Toka\u00e7"
+        }, 
+        {
+            "mbid": "b4bd2653-9631-4457-a6c0-87f32ddaa76b", 
+            "attribute-list": [
+                "kanun"
+            ], 
+            "type": "instrument", 
+            "name": "Bekir Reha Sa\u011fba\u015f"
+        }, 
+        {
+            "mbid": "b5e2f977-cadd-458a-8171-cafdfe6a331c", 
+            "attribute-list": [
+                "daire", 
+                "kud\u00fcm"
+            ], 
+            "type": "instrument", 
+            "name": "Fahrettin Yark\u0131n"
+        }, 
+        {
+            "mbid": "df0ac610-a810-4e74-a767-57fe69495953", 
+            "attribute-list": [
+                "classical kemen\u00e7e"
+            ], 
+            "type": "instrument", 
+            "name": "Hasan Esen"
+        }, 
+        {
+            "mbid": "f9cc2940-4724-499d-9f44-2a8aec983ff7", 
+            "type": "vocal", 
+            "name": "Do\u011fan Dikmen"
+        }
+    ], 
+    "instrumentation_voicing": "Choir", 
+    "works": [
+        {
+            "mbid": "820b3011-67ba-4dbd-b249-2fd3008ac032", 
+            "title": "Isfahan Pe\u015frev"
+        }
+    ]
+}

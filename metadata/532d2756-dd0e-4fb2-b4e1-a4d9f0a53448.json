@@ -1,0 +1,94 @@
+{
+    "usul": [
+        {
+            "attribute_key": "aksaksemai", 
+            "mb_attribute": "Aksaksemai", 
+            "source": "http://musicbrainz.org/work/a094df54-addb-4d43-a06f-fcae06df9132"
+        }, 
+        {
+            "attribute_key": "aksaksemai", 
+            "mb_tag": "aksaksemai", 
+            "source": "http://musicbrainz.org/recording/532d2756-dd0e-4fb2-b4e1-a4d9f0a53448"
+        }
+    ], 
+    "form": [
+        {
+            "attribute_key": "sazsemaisi", 
+            "mb_attribute": "Sazsemaisi", 
+            "source": "http://musicbrainz.org/work/a094df54-addb-4d43-a06f-fcae06df9132"
+        }, 
+        {
+            "attribute_key": "sazsemaisi", 
+            "mb_tag": "sazsemaisi", 
+            "source": "http://musicbrainz.org/recording/532d2756-dd0e-4fb2-b4e1-a4d9f0a53448"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "0f1d58e1-9bcf-433e-9d64-414a62955764", 
+            "title": "Dar\u00fcl-Elhan K\u00fclliyat\u0131"
+        }
+    ], 
+    "title": "Evcara Saz Semaisi", 
+    "url": "http://musicbrainz.org/recording/532d2756-dd0e-4fb2-b4e1-a4d9f0a53448", 
+    "artist_credits": [
+        {
+            "mbid": "f9cc2940-4724-499d-9f44-2a8aec983ff7", 
+            "name": "Do\u011fan Dikmen"
+        }
+    ], 
+    "mbid": "532d2756-dd0e-4fb2-b4e1-a4d9f0a53448", 
+    "makam": [
+        {
+            "attribute_key": "evcara", 
+            "mb_attribute": "Evcara", 
+            "source": "http://musicbrainz.org/work/a094df54-addb-4d43-a06f-fcae06df9132"
+        }, 
+        {
+            "attribute_key": "evcara", 
+            "mb_tag": "evcara", 
+            "source": "http://musicbrainz.org/recording/532d2756-dd0e-4fb2-b4e1-a4d9f0a53448"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "1e9a0393-41fd-4e62-be27-533428cdff06", 
+            "attribute-list": [
+                "violin"
+            ], 
+            "type": "instrument", 
+            "name": "Kemal Caba"
+        }, 
+        {
+            "mbid": "8641a771-520b-4cd2-b809-7122c4984231", 
+            "attribute-list": [
+                "oud"
+            ], 
+            "type": "instrument", 
+            "name": "\u00d6mer \u015eat\u0131ro\u011flu"
+        }, 
+        {
+            "mbid": "b4bd2653-9631-4457-a6c0-87f32ddaa76b", 
+            "attribute-list": [
+                "kanun"
+            ], 
+            "type": "instrument", 
+            "name": "Bekir Reha Sa\u011fba\u015f"
+        }, 
+        {
+            "mbid": "cfe6aea2-c362-4760-9ad1-b95db1605b6e", 
+            "attribute-list": [
+                "cello"
+            ], 
+            "type": "instrument", 
+            "name": "U\u011fur I\u015f\u0131k"
+        }
+    ], 
+    "instrumentation_voicing": "Ensemble instrumental", 
+    "works": [
+        {
+            "mbid": "a094df54-addb-4d43-a06f-fcae06df9132", 
+            "title": "Evcara Sazsemaisi"
+        }
+    ]
+}

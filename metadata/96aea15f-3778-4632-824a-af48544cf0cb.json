@@ -1,0 +1,78 @@
+{
+    "usul": [
+        {
+            "attribute_key": "aksaksemai", 
+            "mb_attribute": "Aksaksemai", 
+            "source": "http://musicbrainz.org/work/ac003195-9ea0-4d8e-8420-2d6c269e98f6"
+        }, 
+        {
+            "attribute_key": "aksaksemai", 
+            "mb_tag": "aksaksemai", 
+            "source": "http://musicbrainz.org/recording/96aea15f-3778-4632-824a-af48544cf0cb"
+        }
+    ], 
+    "form": [
+        {
+            "attribute_key": "sazsemaisi", 
+            "mb_attribute": "Sazsemaisi", 
+            "source": "http://musicbrainz.org/work/ac003195-9ea0-4d8e-8420-2d6c269e98f6"
+        }, 
+        {
+            "attribute_key": "sazsemaisi", 
+            "mb_tag": "sazsemaisi", 
+            "source": "http://musicbrainz.org/recording/96aea15f-3778-4632-824a-af48544cf0cb"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "1ca2ba03-e886-4d6a-ac05-1641f17f666b", 
+            "title": "Yasemin"
+        }, 
+        {
+            "mbid": "898af38b-97a2-435f-a546-5835c79d6a4e", 
+            "title": "Yasemin"
+        }, 
+        {
+            "mbid": "a30f64aa-dc94-4042-b4f3-3616c7513e28", 
+            "title": "Yasemin"
+        }
+    ], 
+    "title": "Muhayyer Sazsemaisi", 
+    "url": "http://musicbrainz.org/recording/96aea15f-3778-4632-824a-af48544cf0cb", 
+    "artist_credits": [
+        {
+            "mbid": "0a7cf3b7-97a1-4187-ac32-698a3ceb27a2", 
+            "name": "Necati \u00c7elik"
+        }
+    ], 
+    "mbid": "96aea15f-3778-4632-824a-af48544cf0cb", 
+    "makam": [
+        {
+            "attribute_key": "muhayyer", 
+            "mb_attribute": "Muhayyer", 
+            "source": "http://musicbrainz.org/work/ac003195-9ea0-4d8e-8420-2d6c269e98f6"
+        }, 
+        {
+            "attribute_key": "muhayyer", 
+            "mb_tag": "muhayyer", 
+            "source": "http://musicbrainz.org/recording/96aea15f-3778-4632-824a-af48544cf0cb"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "0a7cf3b7-97a1-4187-ac32-698a3ceb27a2", 
+            "attribute-list": [
+                "oud"
+            ], 
+            "type": "instrument", 
+            "name": "Necati \u00c7elik"
+        }
+    ], 
+    "instrumentation_voicing": "Solo instrumental", 
+    "works": [
+        {
+            "mbid": "ac003195-9ea0-4d8e-8420-2d6c269e98f6", 
+            "title": "Muhayyer Sazsemaisi"
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "usul": [], 
+    "form": [], 
+    "releases": [
+        {
+            "mbid": "381bd0bd-2ca5-4a93-a412-7c3b97232ca4", 
+            "title": "Mavili"
+        }
+    ], 
+    "title": "Ey Melek Sim\u00e2 Bug\u00fcn Devran Senindir Sen Benim", 
+    "url": "http://musicbrainz.org/recording/98610913-a7ce-4ea0-9243-5d66569a59b1", 
+    "artist_credits": [
+        {
+            "mbid": "5a9a9af8-a7cd-450d-923c-a0e92f6e2c98", 
+            "name": "Radife Erten"
+        }
+    ], 
+    "mbid": "98610913-a7ce-4ea0-9243-5d66569a59b1", 
+    "makam": [
+        {
+            "attribute_key": "ussak", 
+            "mb_attribute": "U\u015f\u015fak", 
+            "source": "http://musicbrainz.org/work/4889fec0-3335-401b-9e86-0abf14dd52fa"
+        }, 
+        {
+            "attribute_key": "ussak", 
+            "mb_tag": "u\u015f\u015fak", 
+            "source": "http://musicbrainz.org/recording/98610913-a7ce-4ea0-9243-5d66569a59b1"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "5a9a9af8-a7cd-450d-923c-a0e92f6e2c98", 
+            "type": "vocal", 
+            "name": "Radife Erten"
+        }
+    ], 
+    "instrumentation_voicing": "Solo vocal without accompaniment", 
+    "works": [
+        {
+            "mbid": "4889fec0-3335-401b-9e86-0abf14dd52fa", 
+            "title": "Ey Melek Sim\u00e2 Bug\u00fcn Devran Senindir Sen Benim"
+        }
+    ]
+}

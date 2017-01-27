@@ -1,0 +1,110 @@
+{
+    "usul": [
+        {
+            "attribute_key": "aksaksemai", 
+            "mb_attribute": "Aksaksemai", 
+            "source": "http://musicbrainz.org/work/d1086c07-fb1f-4eb2-9585-9f22ea850f12"
+        }
+    ], 
+    "form": [
+        {
+            "attribute_key": "sazsemaisi", 
+            "mb_attribute": "Sazsemaisi", 
+            "source": "http://musicbrainz.org/work/d1086c07-fb1f-4eb2-9585-9f22ea850f12"
+        }, 
+        {
+            "attribute_key": "sazsemaisi", 
+            "mb_tag": "sazsemaisi", 
+            "source": "http://musicbrainz.org/recording/b6f161ba-5dd8-46d7-a0f2-de51533f5b68"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "b1ca811c-863d-4c27-b9f1-e3d4bbf2bca3", 
+            "title": "Sazende Fasl\u0131 1"
+        }
+    ], 
+    "title": "Pesend\u00eede Saz Semaisi", 
+    "url": "http://musicbrainz.org/recording/b6f161ba-5dd8-46d7-a0f2-de51533f5b68", 
+    "artist_credits": [
+        {
+            "mbid": "7a39ab7b-9240-43d2-9d6b-5b35b54d0e67", 
+            "name": "\u0130stanbul Sazendeleri"
+        }
+    ], 
+    "mbid": "b6f161ba-5dd8-46d7-a0f2-de51533f5b68", 
+    "makam": [
+        {
+            "attribute_key": "pesendide", 
+            "mb_attribute": "Pesendide", 
+            "source": "http://musicbrainz.org/work/d1086c07-fb1f-4eb2-9585-9f22ea850f12"
+        }, 
+        {
+            "attribute_key": "pesendide", 
+            "mb_tag": "pesendide", 
+            "source": "http://musicbrainz.org/recording/b6f161ba-5dd8-46d7-a0f2-de51533f5b68"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "3bac5ae0-59ef-45e3-a352-11bf7ba6b53a", 
+            "attribute-list": [
+                "kanun"
+            ], 
+            "type": "instrument", 
+            "name": "G\u00f6ksel Baktagir"
+        }, 
+        {
+            "mbid": "4105a8bf-11f0-47ce-b2e9-ee522bf0e915", 
+            "attribute-list": [
+                "cello"
+            ], 
+            "type": "instrument", 
+            "name": "Emrullah \u015eeng\u00fcler"
+        }, 
+        {
+            "mbid": "53c8a89a-3f75-40cb-b701-03fe3eef5f23", 
+            "attribute-list": [
+                "classical kemen\u00e7e"
+            ], 
+            "type": "instrument", 
+            "name": "Selim G\u00fcler"
+        }, 
+        {
+            "mbid": "7a39ab7b-9240-43d2-9d6b-5b35b54d0e67", 
+            "type": "performing orchestra", 
+            "name": "\u0130stanbul Sazendeleri"
+        }, 
+        {
+            "mbid": "7a3adb1f-ebe6-4dbe-a0cc-c71f034d4091", 
+            "attribute-list": [
+                "ney"
+            ], 
+            "type": "instrument", 
+            "name": "Volkan Y\u0131lmaz"
+        }, 
+        {
+            "mbid": "8a6ab24f-6849-40b7-92fa-03d23280e014", 
+            "attribute-list": [
+                "percussion"
+            ], 
+            "type": "instrument", 
+            "name": "\u00dcmit Atalay"
+        }, 
+        {
+            "mbid": "d695dfaa-01f8-4a16-a538-5ccbad58de19", 
+            "attribute-list": [
+                "oud"
+            ], 
+            "type": "instrument", 
+            "name": "Yurdal Tokcan"
+        }
+    ], 
+    "instrumentation_voicing": "Ensemble instrumental", 
+    "works": [
+        {
+            "mbid": "d1086c07-fb1f-4eb2-9585-9f22ea850f12", 
+            "title": "Pesend\u00eede Saz Semaisi"
+        }
+    ]
+}

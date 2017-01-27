@@ -1,0 +1,110 @@
+{
+    "usul": [
+        {
+            "attribute_key": "turkaksagi", 
+            "mb_attribute": "T\u00fcrkaksa\u011f\u0131", 
+            "source": "http://musicbrainz.org/work/06ed2bb0-5fea-4e48-9a33-2e1657e5f79a"
+        }, 
+        {
+            "attribute_key": "turkaksagi_ii", 
+            "mb_tag": "t\u00fcrkaksa\u011f\u0131", 
+            "source": "http://musicbrainz.org/recording/56b567da-b428-45cd-b76a-b944a91bf876"
+        }
+    ], 
+    "form": [
+        {
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
+            "source": "http://musicbrainz.org/work/06ed2bb0-5fea-4e48-9a33-2e1657e5f79a"
+        }, 
+        {
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
+            "source": "http://musicbrainz.org/recording/56b567da-b428-45cd-b76a-b944a91bf876"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "7d43876f-69ad-4ea1-b0f3-203ea5f1365e", 
+            "title": "Canl\u0131 Fas\u0131l 8 - H\u00fcseyni"
+        }
+    ], 
+    "title": "Hicran Oku Sinem Deler", 
+    "url": "http://musicbrainz.org/recording/56b567da-b428-45cd-b76a-b944a91bf876", 
+    "artist_credits": [
+        {
+            "mbid": "ef074ab6-a2a8-42f7-a454-068265023697", 
+            "name": "Aziz T\u00fcrk Sanat M\u00fczi\u011fi Grubu"
+        }
+    ], 
+    "mbid": "56b567da-b428-45cd-b76a-b944a91bf876", 
+    "makam": [
+        {
+            "attribute_key": "huseyni", 
+            "mb_attribute": "H\u00fcseyni", 
+            "source": "http://musicbrainz.org/work/06ed2bb0-5fea-4e48-9a33-2e1657e5f79a"
+        }, 
+        {
+            "attribute_key": "huseyni", 
+            "mb_tag": "h\u00fcseyni", 
+            "source": "http://musicbrainz.org/recording/56b567da-b428-45cd-b76a-b944a91bf876"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
+            "attribute-list": [
+                "choir vocals"
+            ], 
+            "type": "vocal", 
+            "name": "[unknown]"
+        }, 
+        {
+            "mbid": "30380155-5974-4cf5-aed9-60371470005d", 
+            "attribute-list": [
+                "oud"
+            ], 
+            "type": "instrument", 
+            "name": "Y\u0131ld\u0131ran G\u00fcz"
+        }, 
+        {
+            "mbid": "3411c847-4801-4a19-893c-521e5719cf44", 
+            "attribute-list": [
+                "clarinet"
+            ], 
+            "type": "instrument", 
+            "name": "\u015e\u00fckr\u00fc Kabac\u0131"
+        }, 
+        {
+            "mbid": "6f063869-ecd9-4ceb-9800-42e96ffbd4a7", 
+            "attribute-list": [
+                "kanun"
+            ], 
+            "type": "instrument", 
+            "name": "G\u00f6ksel Kartal"
+        }, 
+        {
+            "mbid": "761c091c-e5f3-4856-80f9-3a0c5a07bc25", 
+            "attribute-list": [
+                "violin"
+            ], 
+            "type": "instrument", 
+            "name": "\u00d6mer \u00d6cal"
+        }, 
+        {
+            "mbid": "d78b0d8d-d207-4ceb-993d-c270caa478f3", 
+            "attribute-list": [
+                "percussion"
+            ], 
+            "type": "instrument", 
+            "name": "Seyhun \u00c7elik"
+        }
+    ], 
+    "instrumentation_voicing": "Solo vocal with accompaniment", 
+    "works": [
+        {
+            "mbid": "06ed2bb0-5fea-4e48-9a33-2e1657e5f79a", 
+            "title": "Hicran Oku Sinem Deler"
+        }
+    ]
+}

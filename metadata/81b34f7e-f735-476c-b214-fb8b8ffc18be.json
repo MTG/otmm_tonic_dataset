@@ -1,0 +1,67 @@
+{
+    "usul": [
+        {
+            "attribute_key": "senginsemai", 
+            "mb_attribute": "Senginsemai", 
+            "source": "http://musicbrainz.org/work/83fa8b70-7a88-4826-bdeb-734b893ac489"
+        }, 
+        {
+            "attribute_key": "senginsemai", 
+            "mb_tag": "senginsemai", 
+            "source": "http://musicbrainz.org/recording/81b34f7e-f735-476c-b214-fb8b8ffc18be"
+        }
+    ], 
+    "form": [
+        {
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
+            "source": "http://musicbrainz.org/work/83fa8b70-7a88-4826-bdeb-734b893ac489"
+        }, 
+        {
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
+            "source": "http://musicbrainz.org/recording/81b34f7e-f735-476c-b214-fb8b8ffc18be"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "5af543f0-7287-4ced-92a3-f8f92f52e836", 
+            "title": "Ferit Sidal - S\u00f6zl\u00fc Eserlerden \u00d6rnekler - Enstrumantal Eserlerden \u00d6rnekler"
+        }
+    ], 
+    "title": "Sevdam\u0131 O H\u00fclyal\u0131 G\u00f6z\u00fcn Rengi Yaratt\u0131", 
+    "url": "http://musicbrainz.org/recording/81b34f7e-f735-476c-b214-fb8b8ffc18be", 
+    "artist_credits": [
+        {
+            "mbid": "f9cc2940-4724-499d-9f44-2a8aec983ff7", 
+            "name": "Do\u011fan Dikmen"
+        }
+    ], 
+    "mbid": "81b34f7e-f735-476c-b214-fb8b8ffc18be", 
+    "makam": [
+        {
+            "attribute_key": "huzzam", 
+            "mb_attribute": "H\u00fczzam", 
+            "source": "http://musicbrainz.org/work/83fa8b70-7a88-4826-bdeb-734b893ac489"
+        }, 
+        {
+            "attribute_key": "huzzam", 
+            "mb_tag": "h\u00fczzam", 
+            "source": "http://musicbrainz.org/recording/81b34f7e-f735-476c-b214-fb8b8ffc18be"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "f9cc2940-4724-499d-9f44-2a8aec983ff7", 
+            "type": "vocal", 
+            "name": "Do\u011fan Dikmen"
+        }
+    ], 
+    "instrumentation_voicing": "Solo vocal without accompaniment", 
+    "works": [
+        {
+            "mbid": "83fa8b70-7a88-4826-bdeb-734b893ac489", 
+            "title": "Sevdam\u0131 O H\u00fclyal\u0131 G\u00f6z\u00fcn Rengi Yaratt\u0131"
+        }
+    ]
+}

@@ -1,0 +1,78 @@
+{
+    "usul": [
+        {
+            "attribute_key": "sofyan", 
+            "mb_attribute": "Sofyan", 
+            "source": "http://musicbrainz.org/work/df43510e-c180-4e9e-bbef-781ecc4ba53a"
+        }, 
+        {
+            "attribute_key": "sofyan", 
+            "mb_tag": "sofyan", 
+            "source": "http://musicbrainz.org/recording/7654e479-9965-4c19-a460-b901c9b680d9"
+        }
+    ], 
+    "form": [
+        {
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
+            "source": "http://musicbrainz.org/work/df43510e-c180-4e9e-bbef-781ecc4ba53a"
+        }, 
+        {
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
+            "source": "http://musicbrainz.org/recording/7654e479-9965-4c19-a460-b901c9b680d9"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "a747d19d-83ce-41ec-bf53-b6010c43dd68", 
+            "title": "T\u00fcrk M\u00fczi\u011fi \u00dcstatlar\u0131 \u0130le Enstr\u00fcmantal Alt\u0131n \u015eark\u0131lar 1"
+        }
+    ], 
+    "title": "Bu Ne Sevgi Ah... Bu Ne Izd\u0131rap", 
+    "url": "http://musicbrainz.org/recording/7654e479-9965-4c19-a460-b901c9b680d9", 
+    "artist_credits": [
+        {
+            "mbid": "e3eb44b9-f298-4994-8083-797aaba3ea9c", 
+            "name": "Ergin K\u0131z\u0131lay"
+        }
+    ], 
+    "mbid": "7654e479-9965-4c19-a460-b901c9b680d9", 
+    "makam": [
+        {
+            "attribute_key": "huzzam", 
+            "mb_attribute": "H\u00fczzam", 
+            "source": "http://musicbrainz.org/work/df43510e-c180-4e9e-bbef-781ecc4ba53a"
+        }, 
+        {
+            "attribute_key": "huzzam", 
+            "mb_tag": "h\u00fczzam", 
+            "source": "http://musicbrainz.org/recording/7654e479-9965-4c19-a460-b901c9b680d9"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
+            "attribute-list": [
+                "violin"
+            ], 
+            "type": "instrument", 
+            "name": "[unknown]"
+        }, 
+        {
+            "mbid": "e3eb44b9-f298-4994-8083-797aaba3ea9c", 
+            "attribute-list": [
+                "oud"
+            ], 
+            "type": "instrument", 
+            "name": "Ergin K\u0131z\u0131lay"
+        }
+    ], 
+    "instrumentation_voicing": "Duo instrumental", 
+    "works": [
+        {
+            "mbid": "df43510e-c180-4e9e-bbef-781ecc4ba53a", 
+            "title": "Bu Ne Sevgi Ah Bu Ne Izd\u0131rap"
+        }
+    ]
+}

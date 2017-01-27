@@ -1,0 +1,67 @@
+{
+    "usul": [
+        {
+            "attribute_key": "aksak", 
+            "mb_attribute": "Aksak", 
+            "source": "http://musicbrainz.org/work/b828b736-c0bc-4cf3-9842-eca119178dbe"
+        }, 
+        {
+            "attribute_key": "aksak", 
+            "mb_tag": "aksak", 
+            "source": "http://musicbrainz.org/recording/43eb5695-1219-4f4d-a092-b749b8ebdf3e"
+        }
+    ], 
+    "form": [
+        {
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
+            "source": "http://musicbrainz.org/work/b828b736-c0bc-4cf3-9842-eca119178dbe"
+        }, 
+        {
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
+            "source": "http://musicbrainz.org/recording/43eb5695-1219-4f4d-a092-b749b8ebdf3e"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "7522d16c-15a0-4164-bd77-562fab21e32f", 
+            "title": "Canl\u0131 Fas\u0131l 4 - Hicaz"
+        }
+    ], 
+    "title": "G\u00fcl\u015feni H\u00fcsn\u00fcne Kimler Var\u0131yor", 
+    "url": "http://musicbrainz.org/recording/43eb5695-1219-4f4d-a092-b749b8ebdf3e", 
+    "artist_credits": [
+        {
+            "mbid": "ef074ab6-a2a8-42f7-a454-068265023697", 
+            "name": "Aziz T\u00fcrk Sanat M\u00fczi\u011fi Grubu"
+        }
+    ], 
+    "mbid": "43eb5695-1219-4f4d-a092-b749b8ebdf3e", 
+    "makam": [
+        {
+            "attribute_key": "hicaz", 
+            "mb_attribute": "Hicaz", 
+            "source": "http://musicbrainz.org/work/b828b736-c0bc-4cf3-9842-eca119178dbe"
+        }, 
+        {
+            "attribute_key": "hicaz", 
+            "mb_tag": "hicaz", 
+            "source": "http://musicbrainz.org/recording/43eb5695-1219-4f4d-a092-b749b8ebdf3e"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "ef074ab6-a2a8-42f7-a454-068265023697", 
+            "type": "performing orchestra", 
+            "name": "Aziz T\u00fcrk Sanat M\u00fczi\u011fi Grubu"
+        }
+    ], 
+    "instrumentation_voicing": "Ensemble instrumental", 
+    "works": [
+        {
+            "mbid": "b828b736-c0bc-4cf3-9842-eca119178dbe", 
+            "title": "G\u00fcl\u015fenin H\u00fcsn\u00fcne Kimler Var\u0131yor"
+        }
+    ]
+}

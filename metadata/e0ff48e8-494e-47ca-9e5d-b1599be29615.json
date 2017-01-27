@@ -1,0 +1,72 @@
+{
+    "usul": [
+        {
+            "attribute_key": "remel", 
+            "mb_attribute": "Remel", 
+            "source": "http://musicbrainz.org/work/bc2c1cda-8d90-49b2-a257-660634390f6e"
+        }, 
+        {
+            "attribute_key": "remel", 
+            "mb_tag": "remel", 
+            "source": "http://musicbrainz.org/recording/e0ff48e8-494e-47ca-9e5d-b1599be29615"
+        }
+    ], 
+    "form": [
+        {
+            "attribute_key": "beste", 
+            "mb_attribute": "Beste", 
+            "source": "http://musicbrainz.org/work/bc2c1cda-8d90-49b2-a257-660634390f6e"
+        }, 
+        {
+            "attribute_key": "beste", 
+            "mb_tag": "beste", 
+            "source": "http://musicbrainz.org/recording/e0ff48e8-494e-47ca-9e5d-b1599be29615"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "cbbfd68e-1247-4042-aae9-ce8112f8973a", 
+            "title": "Bekir S\u0131dk\u0131 Sezgin 13"
+        }
+    ], 
+    "title": "Bir Dil Olacak Ol", 
+    "url": "http://musicbrainz.org/recording/e0ff48e8-494e-47ca-9e5d-b1599be29615", 
+    "artist_credits": [
+        {
+            "mbid": "7ef61959-65f2-41ab-9ae2-ba890812b7b4", 
+            "name": "Bekir S\u0131dk\u0131 Sezgin"
+        }
+    ], 
+    "mbid": "e0ff48e8-494e-47ca-9e5d-b1599be29615", 
+    "makam": [
+        {
+            "attribute_key": "sazkar", 
+            "mb_attribute": "Sazkar", 
+            "source": "http://musicbrainz.org/work/bc2c1cda-8d90-49b2-a257-660634390f6e"
+        }, 
+        {
+            "attribute_key": "sazkar", 
+            "mb_tag": "sazkar", 
+            "source": "http://musicbrainz.org/recording/e0ff48e8-494e-47ca-9e5d-b1599be29615"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
+            "type": "performing orchestra", 
+            "name": "[unknown]"
+        }, 
+        {
+            "mbid": "7ef61959-65f2-41ab-9ae2-ba890812b7b4", 
+            "type": "vocal", 
+            "name": "Bekir S\u0131dk\u0131 Sezgin"
+        }
+    ], 
+    "instrumentation_voicing": "Solo vocal with accompaniment", 
+    "works": [
+        {
+            "mbid": "bc2c1cda-8d90-49b2-a257-660634390f6e", 
+            "title": "Bir Dil Olacak Ol \u015eeh-i H\u00fcsn\u00fcn Div\u00e2nesi"
+        }
+    ]
+}

@@ -1,0 +1,78 @@
+{
+    "usul": [
+        {
+            "attribute_key": "duyek", 
+            "mb_attribute": "D\u00fcyek", 
+            "source": "http://musicbrainz.org/work/973c11c5-4922-43cc-a524-1b98f85e57a7"
+        }, 
+        {
+            "attribute_key": "duyek", 
+            "mb_tag": "d\u00fcyek", 
+            "source": "http://musicbrainz.org/recording/39a44c1a-0ea5-4942-8a67-7922544f579c"
+        }
+    ], 
+    "form": [
+        {
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
+            "source": "http://musicbrainz.org/work/973c11c5-4922-43cc-a524-1b98f85e57a7"
+        }, 
+        {
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
+            "source": "http://musicbrainz.org/recording/39a44c1a-0ea5-4942-8a67-7922544f579c"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "a747d19d-83ce-41ec-bf53-b6010c43dd68", 
+            "title": "T\u00fcrk M\u00fczi\u011fi \u00dcstatlar\u0131 \u0130le Enstr\u00fcmantal Alt\u0131n \u015eark\u0131lar 1"
+        }
+    ], 
+    "title": "Leyl\u00e2 Bir \u00d6zgecand\u0131r", 
+    "url": "http://musicbrainz.org/recording/39a44c1a-0ea5-4942-8a67-7922544f579c", 
+    "artist_credits": [
+        {
+            "mbid": "e3eb44b9-f298-4994-8083-797aaba3ea9c", 
+            "name": "Ergin K\u0131z\u0131lay"
+        }
+    ], 
+    "mbid": "39a44c1a-0ea5-4942-8a67-7922544f579c", 
+    "makam": [
+        {
+            "attribute_key": "segah", 
+            "mb_attribute": "Segah", 
+            "source": "http://musicbrainz.org/work/973c11c5-4922-43cc-a524-1b98f85e57a7"
+        }, 
+        {
+            "attribute_key": "segah", 
+            "mb_tag": "segah", 
+            "source": "http://musicbrainz.org/recording/39a44c1a-0ea5-4942-8a67-7922544f579c"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
+            "attribute-list": [
+                "violin"
+            ], 
+            "type": "instrument", 
+            "name": "[unknown]"
+        }, 
+        {
+            "mbid": "e3eb44b9-f298-4994-8083-797aaba3ea9c", 
+            "attribute-list": [
+                "oud"
+            ], 
+            "type": "instrument", 
+            "name": "Ergin K\u0131z\u0131lay"
+        }
+    ], 
+    "instrumentation_voicing": "Duo instrumental", 
+    "works": [
+        {
+            "mbid": "973c11c5-4922-43cc-a524-1b98f85e57a7", 
+            "title": "Leyla Bir \u00d6zge Cand\u0131r Kara G\u00f6zl\u00fc Ceyland\u0131r"
+        }
+    ]
+}

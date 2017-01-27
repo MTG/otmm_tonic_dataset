@@ -1,0 +1,70 @@
+{
+    "usul": [
+        {
+            "attribute_key": "muhammes", 
+            "mb_attribute": "Muhammes", 
+            "source": "http://musicbrainz.org/work/423ec97c-d4bd-4340-81da-625b1934021b"
+        }, 
+        {
+            "attribute_key": "muhammes", 
+            "mb_tag": "muhammes", 
+            "source": "http://musicbrainz.org/recording/02a2e9b3-9054-43e1-a25f-d820dbce5f0e"
+        }
+    ], 
+    "form": [
+        {
+            "attribute_key": "pesrev", 
+            "mb_attribute": "Pe\u015frev", 
+            "source": "http://musicbrainz.org/work/423ec97c-d4bd-4340-81da-625b1934021b"
+        }, 
+        {
+            "attribute_key": "pesrev", 
+            "mb_tag": "pe\u015frev", 
+            "source": "http://musicbrainz.org/recording/02a2e9b3-9054-43e1-a25f-d820dbce5f0e"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "212450ff-da1e-4967-85de-5b841675da83", 
+            "title": "Osmanl\u0131'dan Bug\u00fcne T\u00fcrk Musikisi- Ud"
+        }
+    ], 
+    "title": "Mahur Pe\u015frev", 
+    "url": "http://musicbrainz.org/recording/02a2e9b3-9054-43e1-a25f-d820dbce5f0e", 
+    "artist_credits": [
+        {
+            "mbid": "c470e6d2-320d-47a8-9daa-e2febd6cf4ae", 
+            "name": "Enver Mete Aslan"
+        }
+    ], 
+    "mbid": "02a2e9b3-9054-43e1-a25f-d820dbce5f0e", 
+    "makam": [
+        {
+            "attribute_key": "mahur", 
+            "mb_attribute": "Mahur", 
+            "source": "http://musicbrainz.org/work/423ec97c-d4bd-4340-81da-625b1934021b"
+        }, 
+        {
+            "attribute_key": "mahur", 
+            "mb_tag": "mahur", 
+            "source": "http://musicbrainz.org/recording/02a2e9b3-9054-43e1-a25f-d820dbce5f0e"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "c470e6d2-320d-47a8-9daa-e2febd6cf4ae", 
+            "attribute-list": [
+                "oud"
+            ], 
+            "type": "instrument", 
+            "name": "Enver Mete Aslan"
+        }
+    ], 
+    "instrumentation_voicing": "Solo instrumental", 
+    "works": [
+        {
+            "mbid": "423ec97c-d4bd-4340-81da-625b1934021b", 
+            "title": "Mahur Pe\u015frevi"
+        }
+    ]
+}

@@ -1,0 +1,102 @@
+{
+    "usul": [
+        {
+            "attribute_key": "aksaksemai", 
+            "mb_attribute": "Aksaksemai", 
+            "source": "http://musicbrainz.org/work/611c119a-62a0-4238-bb18-9ffe50d84d8b"
+        }, 
+        {
+            "attribute_key": "aksaksemai", 
+            "mb_tag": "aksaksemai", 
+            "source": "http://musicbrainz.org/recording/7b543276-a4ea-4230-84aa-946059356d3f"
+        }
+    ], 
+    "form": [
+        {
+            "attribute_key": "sazsemaisi", 
+            "mb_attribute": "Sazsemaisi", 
+            "source": "http://musicbrainz.org/work/611c119a-62a0-4238-bb18-9ffe50d84d8b"
+        }, 
+        {
+            "attribute_key": "sazsemaisi", 
+            "mb_tag": "sazsemaisi", 
+            "source": "http://musicbrainz.org/recording/7b543276-a4ea-4230-84aa-946059356d3f"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "f60de373-b1d3-4a04-b417-261434ba968a", 
+            "title": "Kubbealt\u0131 T\u00fcrk Musikisi Klasik Eserler Serisi \u2013 4 (Suzidil ve Segah)"
+        }
+    ], 
+    "title": "Segah Sazsemaisi", 
+    "url": "http://musicbrainz.org/recording/7b543276-a4ea-4230-84aa-946059356d3f", 
+    "artist_credits": [
+        {
+            "mbid": "b0bbd0fe-42f7-421c-82de-f4df6323984b", 
+            "name": "Meral U\u011furlu"
+        }
+    ], 
+    "mbid": "7b543276-a4ea-4230-84aa-946059356d3f", 
+    "makam": [
+        {
+            "attribute_key": "segah", 
+            "mb_attribute": "Segah", 
+            "source": "http://musicbrainz.org/work/611c119a-62a0-4238-bb18-9ffe50d84d8b"
+        }, 
+        {
+            "attribute_key": "segah", 
+            "mb_tag": "segah", 
+            "source": "http://musicbrainz.org/recording/7b543276-a4ea-4230-84aa-946059356d3f"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
+            "attribute-list": [
+                "classical kemen\u00e7e"
+            ], 
+            "type": "instrument", 
+            "name": "[unknown]"
+        }, 
+        {
+            "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
+            "attribute-list": [
+                "ney"
+            ], 
+            "type": "instrument", 
+            "name": "[unknown]"
+        }, 
+        {
+            "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
+            "attribute-list": [
+                "tanbur"
+            ], 
+            "type": "instrument", 
+            "name": "[unknown]"
+        }, 
+        {
+            "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
+            "attribute-list": [
+                "kanun"
+            ], 
+            "type": "instrument", 
+            "name": "[unknown]"
+        }, 
+        {
+            "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
+            "attribute-list": [
+                "percussion"
+            ], 
+            "type": "instrument", 
+            "name": "[unknown]"
+        }
+    ], 
+    "instrumentation_voicing": "Ensemble instrumental", 
+    "works": [
+        {
+            "mbid": "611c119a-62a0-4238-bb18-9ffe50d84d8b", 
+            "title": "Segah Sazsemaisi"
+        }
+    ]
+}

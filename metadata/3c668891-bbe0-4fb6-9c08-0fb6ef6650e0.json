@@ -1,0 +1,67 @@
+{
+    "usul": [
+        {
+            "attribute_key": "curcuna", 
+            "mb_attribute": "Curcuna", 
+            "source": "http://musicbrainz.org/work/9d471278-c1ef-3b50-b33f-2b4c9951867a"
+        }, 
+        {
+            "attribute_key": "kapali_curcuna", 
+            "mb_tag": "curcuna", 
+            "source": "http://musicbrainz.org/recording/3c668891-bbe0-4fb6-9c08-0fb6ef6650e0"
+        }
+    ], 
+    "form": [
+        {
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
+            "source": "http://musicbrainz.org/work/9d471278-c1ef-3b50-b33f-2b4c9951867a"
+        }, 
+        {
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
+            "source": "http://musicbrainz.org/recording/3c668891-bbe0-4fb6-9c08-0fb6ef6650e0"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "088ca7fd-f53e-48ce-bbdb-1102d1d4133b", 
+            "title": "Fasl-\u0131 \u015eahane Enstrumantal, Volume 1"
+        }
+    ], 
+    "title": "S\u00f6nmez Art\u0131k Y\u00fcre\u011fimde", 
+    "url": "http://musicbrainz.org/recording/3c668891-bbe0-4fb6-9c08-0fb6ef6650e0", 
+    "artist_credits": [
+        {
+            "mbid": "ef074ab6-a2a8-42f7-a454-068265023697", 
+            "name": "Aziz T\u00fcrk Sanat M\u00fczi\u011fi Grubu"
+        }
+    ], 
+    "mbid": "3c668891-bbe0-4fb6-9c08-0fb6ef6650e0", 
+    "makam": [
+        {
+            "attribute_key": "ussak", 
+            "mb_attribute": "U\u015f\u015fak", 
+            "source": "http://musicbrainz.org/work/9d471278-c1ef-3b50-b33f-2b4c9951867a"
+        }, 
+        {
+            "attribute_key": "ussak", 
+            "mb_tag": "u\u015f\u015fak", 
+            "source": "http://musicbrainz.org/recording/3c668891-bbe0-4fb6-9c08-0fb6ef6650e0"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "ef074ab6-a2a8-42f7-a454-068265023697", 
+            "type": "performing orchestra", 
+            "name": "Aziz T\u00fcrk Sanat M\u00fczi\u011fi Grubu"
+        }
+    ], 
+    "instrumentation_voicing": "Ensemble instrumental", 
+    "works": [
+        {
+            "mbid": "9d471278-c1ef-3b50-b33f-2b4c9951867a", 
+            "title": "S\u00f6nmez Art\u0131k Y\u00fcre\u011fimde"
+        }
+    ]
+}

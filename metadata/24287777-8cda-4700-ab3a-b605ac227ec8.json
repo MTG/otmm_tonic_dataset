@@ -1,0 +1,72 @@
+{
+    "usul": [
+        {
+            "attribute_key": "curcuna", 
+            "mb_attribute": "Curcuna", 
+            "source": "http://musicbrainz.org/work/6d751be2-101e-4920-98ac-02195fd8c845"
+        }, 
+        {
+            "attribute_key": "kapali_curcuna", 
+            "mb_tag": "curcuna", 
+            "source": "http://musicbrainz.org/recording/24287777-8cda-4700-ab3a-b605ac227ec8"
+        }
+    ], 
+    "form": [
+        {
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
+            "source": "http://musicbrainz.org/work/6d751be2-101e-4920-98ac-02195fd8c845"
+        }, 
+        {
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
+            "source": "http://musicbrainz.org/recording/24287777-8cda-4700-ab3a-b605ac227ec8"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "189bbe93-186a-46b8-a6da-df8864e6dd4a", 
+            "title": "Bekir S\u0131dk\u0131 Sezgin 14"
+        }
+    ], 
+    "title": "Yare Tesir Eylemi\u015f de Halim Olmus\u0327 Girye Nak", 
+    "url": "http://musicbrainz.org/recording/24287777-8cda-4700-ab3a-b605ac227ec8", 
+    "artist_credits": [
+        {
+            "mbid": "7ef61959-65f2-41ab-9ae2-ba890812b7b4", 
+            "name": "Bekir S\u0131dk\u0131 Sezgin"
+        }
+    ], 
+    "mbid": "24287777-8cda-4700-ab3a-b605ac227ec8", 
+    "makam": [
+        {
+            "attribute_key": "suzinak", 
+            "mb_attribute": "Suzinak", 
+            "source": "http://musicbrainz.org/work/6d751be2-101e-4920-98ac-02195fd8c845"
+        }, 
+        {
+            "attribute_key": "suzinak", 
+            "mb_tag": "suzinak", 
+            "source": "http://musicbrainz.org/recording/24287777-8cda-4700-ab3a-b605ac227ec8"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
+            "type": "performing orchestra", 
+            "name": "[unknown]"
+        }, 
+        {
+            "mbid": "7ef61959-65f2-41ab-9ae2-ba890812b7b4", 
+            "type": "vocal", 
+            "name": "Bekir S\u0131dk\u0131 Sezgin"
+        }
+    ], 
+    "instrumentation_voicing": "Solo vocal with accompaniment", 
+    "works": [
+        {
+            "mbid": "6d751be2-101e-4920-98ac-02195fd8c845", 
+            "title": "Yare Tesir Eylemi\u015f"
+        }
+    ]
+}

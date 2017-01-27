@@ -1,0 +1,62 @@
+{
+    "usul": [
+        {
+            "attribute_key": "devrikebir", 
+            "mb_attribute": "Devr-i Kebir", 
+            "source": "http://musicbrainz.org/work/1ef86e00-6fee-45fd-bd5c-4b22853710f8"
+        }
+    ], 
+    "form": [
+        {
+            "attribute_key": "pesrev", 
+            "mb_attribute": "Pe\u015frev", 
+            "source": "http://musicbrainz.org/work/1ef86e00-6fee-45fd-bd5c-4b22853710f8"
+        }, 
+        {
+            "attribute_key": "pesrev", 
+            "mb_tag": "pe\u015frev", 
+            "source": "http://musicbrainz.org/recording/a7b5d6a9-e90b-44f9-9b70-9465bb8c9795"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "01f38c6a-df28-462d-9ed1-a581c8dc03cc", 
+            "title": "Whirling Dervish Music"
+        }
+    ], 
+    "title": "Devri Kebir", 
+    "url": "http://musicbrainz.org/recording/a7b5d6a9-e90b-44f9-9b70-9465bb8c9795", 
+    "artist_credits": [
+        {
+            "mbid": "81081f45-a36e-4248-9d33-43d4a3445f6d", 
+            "name": "Dede Efendi"
+        }
+    ], 
+    "mbid": "a7b5d6a9-e90b-44f9-9b70-9465bb8c9795", 
+    "makam": [
+        {
+            "attribute_key": "huzzam", 
+            "mb_attribute": "H\u00fczzam", 
+            "source": "http://musicbrainz.org/work/1ef86e00-6fee-45fd-bd5c-4b22853710f8"
+        }, 
+        {
+            "attribute_key": "huzzam", 
+            "mb_tag": "h\u00fczzam", 
+            "source": "http://musicbrainz.org/recording/a7b5d6a9-e90b-44f9-9b70-9465bb8c9795"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
+            "type": "performing orchestra", 
+            "name": "[unknown]"
+        }
+    ], 
+    "instrumentation_voicing": "Ensemble instrumental", 
+    "works": [
+        {
+            "mbid": "1ef86e00-6fee-45fd-bd5c-4b22853710f8", 
+            "title": "H\u00fczzam Pe\u015frev"
+        }
+    ]
+}

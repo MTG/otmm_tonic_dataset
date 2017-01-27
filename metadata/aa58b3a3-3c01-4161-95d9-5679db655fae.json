@@ -1,0 +1,82 @@
+{
+    "usul": [
+        {
+            "attribute_key": "turkaksagi", 
+            "mb_attribute": "T\u00fcrkaksa\u011f\u0131", 
+            "source": "http://musicbrainz.org/work/dac027fc-e3ca-47b1-90c7-bb64b02b7d9b"
+        }, 
+        {
+            "attribute_key": "turkaksagi_ii", 
+            "mb_tag": "t\u00fcrkaksa\u011f\u0131", 
+            "source": "http://musicbrainz.org/recording/aa58b3a3-3c01-4161-95d9-5679db655fae"
+        }
+    ], 
+    "form": [
+        {
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
+            "source": "http://musicbrainz.org/work/dac027fc-e3ca-47b1-90c7-bb64b02b7d9b"
+        }, 
+        {
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
+            "source": "http://musicbrainz.org/recording/aa58b3a3-3c01-4161-95d9-5679db655fae"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "771960bc-acfe-49c0-ba07-125f3dabfd4a", 
+            "title": "T\u00fcrk Sanat M\u00fczi\u011fi Esintileri T\u00fcrk M\u00fczi\u011fi Koleksiyonu 1"
+        }
+    ], 
+    "title": "Nerelerde Kald\u0131n?", 
+    "url": "http://musicbrainz.org/recording/aa58b3a3-3c01-4161-95d9-5679db655fae", 
+    "artist_credits": [
+        {
+            "mbid": "02d293b9-8ffa-4cf9-a9f1-19024069e874", 
+            "name": "Beysun Y\u0131ld\u0131z"
+        }, 
+        {
+            "mbid": "732568c2-4037-4aeb-b942-ff71d36c063f", 
+            "name": "Min\u00f6r"
+        }
+    ], 
+    "mbid": "aa58b3a3-3c01-4161-95d9-5679db655fae", 
+    "makam": [
+        {
+            "attribute_key": "nihavent", 
+            "mb_attribute": "Nihavent", 
+            "source": "http://musicbrainz.org/work/dac027fc-e3ca-47b1-90c7-bb64b02b7d9b"
+        }, 
+        {
+            "attribute_key": "nihavent", 
+            "mb_tag": "nihavent", 
+            "source": "http://musicbrainz.org/recording/aa58b3a3-3c01-4161-95d9-5679db655fae"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "02d293b9-8ffa-4cf9-a9f1-19024069e874", 
+            "attribute-list": [
+                "piano"
+            ], 
+            "type": "instrument", 
+            "name": "Beysun Y\u0131ld\u0131z"
+        }, 
+        {
+            "mbid": "732568c2-4037-4aeb-b942-ff71d36c063f", 
+            "attribute-list": [
+                "violin"
+            ], 
+            "type": "instrument", 
+            "name": "Min\u00f6r"
+        }
+    ], 
+    "instrumentation_voicing": "Duo instrumental", 
+    "works": [
+        {
+            "mbid": "dac027fc-e3ca-47b1-90c7-bb64b02b7d9b", 
+            "title": "Nerelerde Kald\u0131n"
+        }
+    ]
+}

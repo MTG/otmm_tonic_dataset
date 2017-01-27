@@ -1,0 +1,72 @@
+{
+    "usul": [
+        {
+            "attribute_key": "agircenber", 
+            "mb_attribute": "A\u011f\u0131r\u00e7enber", 
+            "source": "http://musicbrainz.org/work/64bc88c7-b23c-4e53-a674-091e9ba5046b"
+        }, 
+        {
+            "attribute_key": "cenber", 
+            "mb_tag": "\u00e7enber", 
+            "source": "http://musicbrainz.org/recording/1afeb949-5c80-467b-a9a2-8a5aa65deaf6"
+        }
+    ], 
+    "form": [
+        {
+            "attribute_key": "murabba", 
+            "mb_attribute": "Murabba", 
+            "source": "http://musicbrainz.org/work/64bc88c7-b23c-4e53-a674-091e9ba5046b"
+        }, 
+        {
+            "attribute_key": "beste", 
+            "mb_tag": "beste", 
+            "source": "http://musicbrainz.org/recording/1afeb949-5c80-467b-a9a2-8a5aa65deaf6"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "8bf2ac3f-26f7-4a78-ac00-467cd2667bf6", 
+            "title": "Hicaz 13"
+        }
+    ], 
+    "title": "Hasret-i Ruyinle Giryan Oldu\u011fum Demdir Bu Dem", 
+    "url": "http://musicbrainz.org/recording/1afeb949-5c80-467b-a9a2-8a5aa65deaf6", 
+    "artist_credits": [
+        {
+            "mbid": "7ef61959-65f2-41ab-9ae2-ba890812b7b4", 
+            "name": "Bekir S\u0131dk\u0131 Sezgin"
+        }
+    ], 
+    "mbid": "1afeb949-5c80-467b-a9a2-8a5aa65deaf6", 
+    "makam": [
+        {
+            "attribute_key": "hicaz_humayun", 
+            "mb_attribute": "Hicaz H\u00fcmayun", 
+            "source": "http://musicbrainz.org/work/64bc88c7-b23c-4e53-a674-091e9ba5046b"
+        }, 
+        {
+            "attribute_key": "hicaz", 
+            "mb_tag": "hicaz", 
+            "source": "http://musicbrainz.org/recording/1afeb949-5c80-467b-a9a2-8a5aa65deaf6"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
+            "type": "performing orchestra", 
+            "name": "[unknown]"
+        }, 
+        {
+            "mbid": "7ef61959-65f2-41ab-9ae2-ba890812b7b4", 
+            "type": "vocal", 
+            "name": "Bekir S\u0131dk\u0131 Sezgin"
+        }
+    ], 
+    "instrumentation_voicing": "Solo vocal with accompaniment", 
+    "works": [
+        {
+            "mbid": "64bc88c7-b23c-4e53-a674-091e9ba5046b", 
+            "title": "Hasret-i Ruyinle Giryan Oldu\u011fum"
+        }
+    ]
+}

@@ -1,0 +1,49 @@
+{
+    "instrumentation_voicing": "Solo instrumental", 
+    "form": [
+        {
+            "attribute_key": "taksim", 
+            "mb_tag": "taksim", 
+            "source": "http://musicbrainz.org/recording/fdbe8cdf-8d60-4846-ae55-4b4ae52e0726"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "abb360bb-6fe2-46f5-a301-fbea5795762b", 
+            "title": "Sufi Breaths - \u015eah-\u0131 Devran"
+        }
+    ], 
+    "title": "Evcara Taksim", 
+    "url": "http://musicbrainz.org/recording/fdbe8cdf-8d60-4846-ae55-4b4ae52e0726", 
+    "artist_credits": [
+        {
+            "mbid": "5121835d-84fb-44c6-8eed-8a8da4c444ba", 
+            "name": "Ahmet \u015eahin"
+        }
+    ], 
+    "mbid": "fdbe8cdf-8d60-4846-ae55-4b4ae52e0726", 
+    "makam": [
+        {
+            "attribute_key": "evcara", 
+            "mb_tag": "evcara", 
+            "source": "http://musicbrainz.org/recording/fdbe8cdf-8d60-4846-ae55-4b4ae52e0726"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "5121835d-84fb-44c6-8eed-8a8da4c444ba", 
+            "attribute-list": [
+                "ney"
+            ], 
+            "type": "instrument", 
+            "name": "Ahmet \u015eahin"
+        }
+    ], 
+    "usul": [
+        {
+            "attribute_key": "serbest", 
+            "mb_tag": "serbest", 
+            "source": "http://musicbrainz.org/recording/fdbe8cdf-8d60-4846-ae55-4b4ae52e0726"
+        }
+    ]
+}

@@ -1,0 +1,70 @@
+{
+    "usul": [
+        {
+            "attribute_key": "curcuna", 
+            "mb_attribute": "Curcuna", 
+            "source": "http://musicbrainz.org/work/12567f93-4ae7-4198-a55b-1422b7a3935c"
+        }, 
+        {
+            "attribute_key": "kapali_curcuna", 
+            "mb_tag": "curcuna", 
+            "source": "http://musicbrainz.org/recording/97df0e6f-f1a8-44bb-83ea-e13094ecc412"
+        }
+    ], 
+    "form": [
+        {
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
+            "source": "http://musicbrainz.org/work/12567f93-4ae7-4198-a55b-1422b7a3935c"
+        }, 
+        {
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
+            "source": "http://musicbrainz.org/recording/97df0e6f-f1a8-44bb-83ea-e13094ecc412"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "f7eb7ae3-afc2-41c3-85ea-88abc5072a02", 
+            "title": "T\u00fcrk M\u00fczi\u011finde Ud \u0130le An\u0131lar"
+        }
+    ], 
+    "title": "Olmaz \u0130la\u00e7 Sine-i Sad-P\u00e2reme", 
+    "url": "http://musicbrainz.org/recording/97df0e6f-f1a8-44bb-83ea-e13094ecc412", 
+    "artist_credits": [
+        {
+            "mbid": "e3eb44b9-f298-4994-8083-797aaba3ea9c", 
+            "name": "Ergin K\u0131z\u0131lay"
+        }
+    ], 
+    "mbid": "97df0e6f-f1a8-44bb-83ea-e13094ecc412", 
+    "makam": [
+        {
+            "attribute_key": "segah", 
+            "mb_attribute": "Segah", 
+            "source": "http://musicbrainz.org/work/12567f93-4ae7-4198-a55b-1422b7a3935c"
+        }, 
+        {
+            "attribute_key": "segah", 
+            "mb_tag": "segah", 
+            "source": "http://musicbrainz.org/recording/97df0e6f-f1a8-44bb-83ea-e13094ecc412"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "e3eb44b9-f298-4994-8083-797aaba3ea9c", 
+            "attribute-list": [
+                "oud"
+            ], 
+            "type": "instrument", 
+            "name": "Ergin K\u0131z\u0131lay"
+        }
+    ], 
+    "instrumentation_voicing": "Solo instrumental", 
+    "works": [
+        {
+            "mbid": "12567f93-4ae7-4198-a55b-1422b7a3935c", 
+            "title": "Olmaz \u0130la\u00e7 Sine-i Sad Pareme"
+        }
+    ]
+}

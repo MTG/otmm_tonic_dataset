@@ -1,0 +1,70 @@
+{
+    "usul": [
+        {
+            "attribute_key": "aksaksemai", 
+            "mb_attribute": "Aksaksemai", 
+            "source": "http://musicbrainz.org/work/ad9fb46e-eb95-4446-93ad-e3bf13c01a95"
+        }, 
+        {
+            "attribute_key": "aksaksemai", 
+            "mb_tag": "aksaksemai", 
+            "source": "http://musicbrainz.org/recording/9bc1769b-c483-4806-bec6-b762a6cc0803"
+        }
+    ], 
+    "form": [
+        {
+            "attribute_key": "sazsemaisi", 
+            "mb_attribute": "Sazsemaisi", 
+            "source": "http://musicbrainz.org/work/ad9fb46e-eb95-4446-93ad-e3bf13c01a95"
+        }, 
+        {
+            "attribute_key": "sazsemaisi", 
+            "mb_tag": "sazsemaisi", 
+            "source": "http://musicbrainz.org/recording/9bc1769b-c483-4806-bec6-b762a6cc0803"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "0fcce9c6-7aa0-4e0c-8c0a-9e423bcfdd92", 
+            "title": "Dem"
+        }
+    ], 
+    "title": "U\u015f\u015fak Sazsemaisi", 
+    "url": "http://musicbrainz.org/recording/9bc1769b-c483-4806-bec6-b762a6cc0803", 
+    "artist_credits": [
+        {
+            "mbid": "61a32817-7ab6-432a-8c87-b0c99880df84", 
+            "name": "Murat Salim Toka\u00e7"
+        }
+    ], 
+    "mbid": "9bc1769b-c483-4806-bec6-b762a6cc0803", 
+    "makam": [
+        {
+            "attribute_key": "ussak", 
+            "mb_attribute": "U\u015f\u015fak", 
+            "source": "http://musicbrainz.org/work/ad9fb46e-eb95-4446-93ad-e3bf13c01a95"
+        }, 
+        {
+            "attribute_key": "ussak", 
+            "mb_tag": "u\u015f\u015fak", 
+            "source": "http://musicbrainz.org/recording/9bc1769b-c483-4806-bec6-b762a6cc0803"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "61a32817-7ab6-432a-8c87-b0c99880df84", 
+            "attribute-list": [
+                "ney"
+            ], 
+            "type": "instrument", 
+            "name": "Murat Salim Toka\u00e7"
+        }
+    ], 
+    "instrumentation_voicing": "Solo instrumental", 
+    "works": [
+        {
+            "mbid": "ad9fb46e-eb95-4446-93ad-e3bf13c01a95", 
+            "title": "U\u015f\u015fak Sazsemaisi"
+        }
+    ]
+}

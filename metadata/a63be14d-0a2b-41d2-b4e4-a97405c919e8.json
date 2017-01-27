@@ -1,0 +1,67 @@
+{
+    "usul": [
+        {
+            "attribute_key": "musemmen", 
+            "mb_attribute": "M\u00fcsemmen", 
+            "source": "http://musicbrainz.org/work/b914cadf-c933-48db-9431-3290a3907725"
+        }, 
+        {
+            "attribute_key": "musemmen_ii", 
+            "mb_tag": "m\u00fcsemmen", 
+            "source": "http://musicbrainz.org/recording/a63be14d-0a2b-41d2-b4e4-a97405c919e8"
+        }
+    ], 
+    "form": [
+        {
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
+            "source": "http://musicbrainz.org/work/b914cadf-c933-48db-9431-3290a3907725"
+        }, 
+        {
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
+            "source": "http://musicbrainz.org/recording/a63be14d-0a2b-41d2-b4e4-a97405c919e8"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "66122020-7d22-4fc6-89f2-9dd78b1a2c74", 
+            "title": "Fasl-\u0131 \u015eahane Enstrumantal, Volume 2"
+        }
+    ], 
+    "title": "Ge\u00e7ti Sevdalarla \u00d6mr\u00fcm", 
+    "url": "http://musicbrainz.org/recording/a63be14d-0a2b-41d2-b4e4-a97405c919e8", 
+    "artist_credits": [
+        {
+            "mbid": "ef074ab6-a2a8-42f7-a454-068265023697", 
+            "name": "Aziz T\u00fcrk Sanat M\u00fczi\u011fi Grubu"
+        }
+    ], 
+    "mbid": "a63be14d-0a2b-41d2-b4e4-a97405c919e8", 
+    "makam": [
+        {
+            "attribute_key": "huseyni", 
+            "mb_attribute": "H\u00fcseyni", 
+            "source": "http://musicbrainz.org/work/b914cadf-c933-48db-9431-3290a3907725"
+        }, 
+        {
+            "attribute_key": "huseyni", 
+            "mb_tag": "h\u00fcseyni", 
+            "source": "http://musicbrainz.org/recording/a63be14d-0a2b-41d2-b4e4-a97405c919e8"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
+            "type": "performing orchestra", 
+            "name": "[unknown]"
+        }
+    ], 
+    "instrumentation_voicing": "Ensemble instrumental", 
+    "works": [
+        {
+            "mbid": "b914cadf-c933-48db-9431-3290a3907725", 
+            "title": "Ge\u00e7ti Sevdalarla \u00d6mr\u00fcm"
+        }
+    ]
+}

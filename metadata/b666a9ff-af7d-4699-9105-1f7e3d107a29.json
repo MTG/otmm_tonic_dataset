@@ -1,0 +1,42 @@
+{
+    "instrumentation_voicing": "Solo vocal without accompaniment", 
+    "form": [
+        {
+            "attribute_key": "kuran_i_kerim", 
+            "mb_tag": "kur'an-\u0131kerim", 
+            "source": "http://musicbrainz.org/recording/b666a9ff-af7d-4699-9105-1f7e3d107a29"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "3486f24f-48db-481e-9b65-3814bc215292", 
+            "title": "T\u00fcrk Dini Musikisi"
+        }
+    ], 
+    "title": "A\u015fr-\u0131 \u015eerif / Ali \u0130mran S\u00fcresi", 
+    "url": "http://musicbrainz.org/recording/b666a9ff-af7d-4699-9105-1f7e3d107a29", 
+    "artist_credits": [
+        {
+            "mbid": "7ef61959-65f2-41ab-9ae2-ba890812b7b4", 
+            "name": "Bekir S\u0131dk\u0131 Sezgin"
+        }
+    ], 
+    "mbid": "b666a9ff-af7d-4699-9105-1f7e3d107a29", 
+    "artists": [
+        {
+            "mbid": "7ef61959-65f2-41ab-9ae2-ba890812b7b4", 
+            "attribute-list": [
+                "solo"
+            ], 
+            "type": "vocal", 
+            "name": "Bekir S\u0131dk\u0131 Sezgin"
+        }
+    ], 
+    "usul": [
+        {
+            "attribute_key": "serbest", 
+            "mb_tag": "serbest", 
+            "source": "http://musicbrainz.org/recording/b666a9ff-af7d-4699-9105-1f7e3d107a29"
+        }
+    ]
+}

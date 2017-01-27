@@ -1,0 +1,78 @@
+{
+    "usul": [
+        {
+            "attribute_key": "aksaksemai", 
+            "mb_attribute": "Aksaksemai", 
+            "source": "http://musicbrainz.org/work/900d7e9b-b14b-4ab2-9331-dbe5c7c55eb2"
+        }, 
+        {
+            "attribute_key": "aksaksemai", 
+            "mb_tag": "aksaksemai", 
+            "source": "http://musicbrainz.org/recording/304eb33e-730c-4039-8b9a-74b0123710a5"
+        }
+    ], 
+    "form": [
+        {
+            "attribute_key": "sazsemaisi", 
+            "mb_attribute": "Sazsemaisi", 
+            "source": "http://musicbrainz.org/work/900d7e9b-b14b-4ab2-9331-dbe5c7c55eb2"
+        }, 
+        {
+            "attribute_key": "sazsemaisi", 
+            "mb_tag": "sazsemaisi", 
+            "source": "http://musicbrainz.org/recording/304eb33e-730c-4039-8b9a-74b0123710a5"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "64f1a9db-c999-4564-951e-6bb181b7f75b", 
+            "title": "Mesut Cemil (1902-1963) Volume 1"
+        }
+    ], 
+    "title": "Mahur Saz Semai", 
+    "url": "http://musicbrainz.org/recording/304eb33e-730c-4039-8b9a-74b0123710a5", 
+    "artist_credits": [
+        {
+            "mbid": "36e8968e-2b15-43a9-a79c-c70e0a6f5ed8", 
+            "name": "Mesut Cemil Bey"
+        }
+    ], 
+    "mbid": "304eb33e-730c-4039-8b9a-74b0123710a5", 
+    "makam": [
+        {
+            "attribute_key": "mahur", 
+            "mb_attribute": "Mahur", 
+            "source": "http://musicbrainz.org/work/900d7e9b-b14b-4ab2-9331-dbe5c7c55eb2"
+        }, 
+        {
+            "attribute_key": "mahur", 
+            "mb_tag": "mahur", 
+            "source": "http://musicbrainz.org/recording/304eb33e-730c-4039-8b9a-74b0123710a5"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
+            "attribute-list": [
+                "spoken vocals"
+            ], 
+            "type": "vocal", 
+            "name": "[unknown]"
+        }, 
+        {
+            "mbid": "36e8968e-2b15-43a9-a79c-c70e0a6f5ed8", 
+            "attribute-list": [
+                "tanbur"
+            ], 
+            "type": "instrument", 
+            "name": "Mesut Cemil Bey"
+        }
+    ], 
+    "instrumentation_voicing": "Solo vocal with accompaniment", 
+    "works": [
+        {
+            "mbid": "900d7e9b-b14b-4ab2-9331-dbe5c7c55eb2", 
+            "title": "Mahur Sazsemaisi"
+        }
+    ]
+}

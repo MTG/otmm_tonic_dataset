@@ -1,0 +1,105 @@
+{
+    "usul": [
+        {
+            "attribute_key": "aksaksemaievferi", 
+            "mb_attribute": "Aksaksemai Evferi", 
+            "source": "http://musicbrainz.org/work/33d1561a-8f64-4d47-bf01-284180ca8088"
+        }, 
+        {
+            "attribute_key": "durakevferi", 
+            "mb_attribute": "Durak Evferi", 
+            "source": "http://musicbrainz.org/work/fb7709fb-cd19-45bd-b3a2-948e41ec0c28"
+        }
+    ], 
+    "form": [
+        {
+            "attribute_key": "salatiummiye", 
+            "mb_attribute": "Salat\u0131\u00fcmmiye", 
+            "source": "http://musicbrainz.org/work/33d1561a-8f64-4d47-bf01-284180ca8088"
+        }, 
+        {
+            "attribute_key": "tekbir", 
+            "mb_attribute": "Tekbir", 
+            "source": "http://musicbrainz.org/work/fb7709fb-cd19-45bd-b3a2-948e41ec0c28"
+        }, 
+        {
+            "attribute_key": "tekbir", 
+            "mb_tag": "tekbir", 
+            "source": "http://musicbrainz.org/recording/8eefc682-7209-4360-8311-096e5a61b36f"
+        }, 
+        {
+            "attribute_key": "salatiummiye", 
+            "mb_tag": "salat\u0131\u00fcmmiye", 
+            "source": "http://musicbrainz.org/recording/8eefc682-7209-4360-8311-096e5a61b36f"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "abb360bb-6fe2-46f5-a301-fbea5795762b", 
+            "title": "Sufi Breaths - \u015eah-\u0131 Devran"
+        }
+    ], 
+    "title": "Segah Tekbir ve Salat-\u0131 \u00dcmmiye", 
+    "url": "http://musicbrainz.org/recording/8eefc682-7209-4360-8311-096e5a61b36f", 
+    "artist_credits": [
+        {
+            "mbid": "5121835d-84fb-44c6-8eed-8a8da4c444ba", 
+            "name": "Ahmet \u015eahin"
+        }
+    ], 
+    "mbid": "8eefc682-7209-4360-8311-096e5a61b36f", 
+    "makam": [
+        {
+            "attribute_key": "segah", 
+            "mb_attribute": "Segah", 
+            "source": "http://musicbrainz.org/work/33d1561a-8f64-4d47-bf01-284180ca8088"
+        }, 
+        {
+            "attribute_key": "segah", 
+            "mb_attribute": "Segah", 
+            "source": "http://musicbrainz.org/work/fb7709fb-cd19-45bd-b3a2-948e41ec0c28"
+        }, 
+        {
+            "attribute_key": "segah", 
+            "mb_tag": "segah", 
+            "source": "http://musicbrainz.org/recording/8eefc682-7209-4360-8311-096e5a61b36f"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
+            "attribute-list": [
+                "ney"
+            ], 
+            "type": "instrument", 
+            "name": "[unknown]"
+        }, 
+        {
+            "mbid": "2d000f79-f376-4878-be62-f957e5686f66", 
+            "attribute-list": [
+                "cello"
+            ], 
+            "type": "instrument", 
+            "name": "\u0130brahim Ensar"
+        }, 
+        {
+            "mbid": "5121835d-84fb-44c6-8eed-8a8da4c444ba", 
+            "attribute-list": [
+                "ney"
+            ], 
+            "type": "instrument", 
+            "name": "Ahmet \u015eahin"
+        }
+    ], 
+    "instrumentation_voicing": "Trio instrumental", 
+    "works": [
+        {
+            "mbid": "33d1561a-8f64-4d47-bf01-284180ca8088", 
+            "title": "Salat-\u0131 \u00dcmmiye"
+        }, 
+        {
+            "mbid": "fb7709fb-cd19-45bd-b3a2-948e41ec0c28", 
+            "title": "Segah Tekbir"
+        }
+    ]
+}

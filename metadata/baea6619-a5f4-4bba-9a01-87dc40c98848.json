@@ -1,0 +1,53 @@
+{
+    "instrumentation_voicing": "Solo instrumental", 
+    "form": [
+        {
+            "attribute_key": "taksim", 
+            "mb_tag": "taksim", 
+            "source": "http://musicbrainz.org/recording/baea6619-a5f4-4bba-9a01-87dc40c98848"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "b8768e6d-65ed-4d26-9b47-51793c24b5a0", 
+            "title": "T\u00fcrk Sanat M\u00fczi\u011fi Besteleri Saz Eserleri 1"
+        }, 
+        {
+            "mbid": "c58f2002-8862-4efb-953b-7324bb7f3e31", 
+            "title": "T\u00fcrk Sanat M\u00fczi\u011fi Besteleri Saz Eserleri 3"
+        }
+    ], 
+    "title": "Yayl\u0131 Tambur Taksimi", 
+    "url": "http://musicbrainz.org/recording/baea6619-a5f4-4bba-9a01-87dc40c98848", 
+    "artist_credits": [
+        {
+            "mbid": "ef074ab6-a2a8-42f7-a454-068265023697", 
+            "name": "Aziz T\u00fcrk Sanat M\u00fczi\u011fi Grubu"
+        }
+    ], 
+    "mbid": "baea6619-a5f4-4bba-9a01-87dc40c98848", 
+    "makam": [
+        {
+            "attribute_key": "hicaz", 
+            "mb_tag": "hicaz", 
+            "source": "http://musicbrainz.org/recording/baea6619-a5f4-4bba-9a01-87dc40c98848"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
+            "attribute-list": [
+                "yayl\u0131 tanbur"
+            ], 
+            "type": "instrument", 
+            "name": "[unknown]"
+        }
+    ], 
+    "usul": [
+        {
+            "attribute_key": "serbest", 
+            "mb_tag": "serbest", 
+            "source": "http://musicbrainz.org/recording/baea6619-a5f4-4bba-9a01-87dc40c98848"
+        }
+    ]
+}

@@ -1,0 +1,81 @@
+{
+    "usul": [
+        {
+            "attribute_key": "devrikebir", 
+            "mb_attribute": "Devr-i Kebir", 
+            "source": "http://musicbrainz.org/work/4b6540da-6806-4521-aa86-389615d475e7"
+        }, 
+        {
+            "attribute_key": "devrikebir", 
+            "mb_tag": "devr-i kebir", 
+            "source": "http://musicbrainz.org/recording/fe69785f-6e3f-483a-b562-18087150f57f"
+        }
+    ], 
+    "form": [
+        {
+            "attribute_key": "ayin_i_serif", 
+            "mb_attribute": "Ayin-i \u015eerif", 
+            "source": "http://musicbrainz.org/work/0fac8996-5ce1-4b31-beed-58bac23d2b35"
+        }, 
+        {
+            "attribute_key": "pesrev", 
+            "mb_attribute": "Pe\u015frev", 
+            "source": "http://musicbrainz.org/work/4b6540da-6806-4521-aa86-389615d475e7"
+        }, 
+        {
+            "attribute_key": "pesrev", 
+            "mb_tag": "pe\u015frev", 
+            "source": "http://musicbrainz.org/recording/fe69785f-6e3f-483a-b562-18087150f57f"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "430058da-7be0-48ec-abac-9b88b87e293f", 
+            "title": "Mevlevi Sesler"
+        }
+    ], 
+    "title": "Pe\u015frev", 
+    "url": "http://musicbrainz.org/recording/fe69785f-6e3f-483a-b562-18087150f57f", 
+    "artist_credits": [
+        {
+            "mbid": "81081f45-a36e-4248-9d33-43d4a3445f6d", 
+            "name": "Dede Efendi"
+        }
+    ], 
+    "mbid": "fe69785f-6e3f-483a-b562-18087150f57f", 
+    "makam": [
+        {
+            "attribute_key": "saba", 
+            "mb_attribute": "Saba", 
+            "source": "http://musicbrainz.org/work/0fac8996-5ce1-4b31-beed-58bac23d2b35"
+        }, 
+        {
+            "attribute_key": "saba", 
+            "mb_attribute": "Saba", 
+            "source": "http://musicbrainz.org/work/4b6540da-6806-4521-aa86-389615d475e7"
+        }, 
+        {
+            "attribute_key": "saba", 
+            "mb_tag": "saba", 
+            "source": "http://musicbrainz.org/recording/fe69785f-6e3f-483a-b562-18087150f57f"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "713ad8af-1c98-4569-a445-71f7b9395945", 
+            "type": "performing orchestra", 
+            "name": "Dede Efendi T\u00fcrk M\u00fczi\u011fi Toplulu\u011fu"
+        }
+    ], 
+    "instrumentation_voicing": "Ensemble instrumental", 
+    "works": [
+        {
+            "mbid": "0fac8996-5ce1-4b31-beed-58bac23d2b35", 
+            "title": "Saba Ayin-i \u015eerif"
+        }, 
+        {
+            "mbid": "4b6540da-6806-4521-aa86-389615d475e7", 
+            "title": "Saba Pe\u015frev"
+        }
+    ]
+}

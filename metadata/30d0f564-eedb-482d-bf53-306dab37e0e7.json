@@ -1,0 +1,72 @@
+{
+    "usul": [
+        {
+            "attribute_key": "aksak", 
+            "mb_attribute": "Aksak", 
+            "source": "http://musicbrainz.org/work/70748ef7-10ed-461f-97ba-6ee18d3029d4"
+        }, 
+        {
+            "attribute_key": "aksak", 
+            "mb_tag": "aksak", 
+            "source": "http://musicbrainz.org/recording/30d0f564-eedb-482d-bf53-306dab37e0e7"
+        }
+    ], 
+    "form": [
+        {
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
+            "source": "http://musicbrainz.org/work/70748ef7-10ed-461f-97ba-6ee18d3029d4"
+        }, 
+        {
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
+            "source": "http://musicbrainz.org/recording/30d0f564-eedb-482d-bf53-306dab37e0e7"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "67514072-161f-49e9-b188-b869f71c6a47", 
+            "title": "Bekir S\u0131dk\u0131 Sezgin 26"
+        }
+    ], 
+    "title": "Bak\u0131n Bad-\u0131 Semum Olmu\u015f Ecel Ah", 
+    "url": "http://musicbrainz.org/recording/30d0f564-eedb-482d-bf53-306dab37e0e7", 
+    "artist_credits": [
+        {
+            "mbid": "7ef61959-65f2-41ab-9ae2-ba890812b7b4", 
+            "name": "Bekir S\u0131dk\u0131 Sezgin"
+        }
+    ], 
+    "mbid": "30d0f564-eedb-482d-bf53-306dab37e0e7", 
+    "makam": [
+        {
+            "attribute_key": "hicaz", 
+            "mb_attribute": "Hicaz", 
+            "source": "http://musicbrainz.org/work/70748ef7-10ed-461f-97ba-6ee18d3029d4"
+        }, 
+        {
+            "attribute_key": "hicaz", 
+            "mb_tag": "hicaz", 
+            "source": "http://musicbrainz.org/recording/30d0f564-eedb-482d-bf53-306dab37e0e7"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
+            "type": "performing orchestra", 
+            "name": "[unknown]"
+        }, 
+        {
+            "mbid": "7ef61959-65f2-41ab-9ae2-ba890812b7b4", 
+            "type": "vocal", 
+            "name": "Bekir S\u0131dk\u0131 Sezgin"
+        }
+    ], 
+    "instrumentation_voicing": "Solo vocal with accompaniment", 
+    "works": [
+        {
+            "mbid": "70748ef7-10ed-461f-97ba-6ee18d3029d4", 
+            "title": "Bak\u0131n Bad-\u0131 Semum Oldu Ecel Ah"
+        }
+    ]
+}

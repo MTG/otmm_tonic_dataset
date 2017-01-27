@@ -1,0 +1,70 @@
+{
+    "usul": [
+        {
+            "attribute_key": "hafif", 
+            "mb_attribute": "Hafif", 
+            "source": "http://musicbrainz.org/work/f1fd86a8-f3ff-4daf-83c2-2e0b7d9b269f"
+        }, 
+        {
+            "attribute_key": "hafif", 
+            "mb_tag": "hafif", 
+            "source": "http://musicbrainz.org/recording/787e326d-fb9f-4c5f-98cf-10cb9613cda2"
+        }
+    ], 
+    "form": [
+        {
+            "attribute_key": "pesrev", 
+            "mb_attribute": "Pe\u015frev", 
+            "source": "http://musicbrainz.org/work/f1fd86a8-f3ff-4daf-83c2-2e0b7d9b269f"
+        }, 
+        {
+            "attribute_key": "pesrev", 
+            "mb_tag": "pe\u015frev", 
+            "source": "http://musicbrainz.org/recording/787e326d-fb9f-4c5f-98cf-10cb9613cda2"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "1843f8d1-f6b8-440c-ab54-59fc8c3898a6", 
+            "title": "Yayl\u0131 Tanbur"
+        }
+    ], 
+    "title": "Neveser Pe\u015frev", 
+    "url": "http://musicbrainz.org/recording/787e326d-fb9f-4c5f-98cf-10cb9613cda2", 
+    "artist_credits": [
+        {
+            "mbid": "6256ace7-f139-4a22-a5e2-e9e46bffb0d4", 
+            "name": "Fahrettin \u00c7imenli"
+        }
+    ], 
+    "mbid": "787e326d-fb9f-4c5f-98cf-10cb9613cda2", 
+    "makam": [
+        {
+            "attribute_key": "neveser", 
+            "mb_attribute": "Neveser", 
+            "source": "http://musicbrainz.org/work/f1fd86a8-f3ff-4daf-83c2-2e0b7d9b269f"
+        }, 
+        {
+            "attribute_key": "neveser", 
+            "mb_tag": "neveser", 
+            "source": "http://musicbrainz.org/recording/787e326d-fb9f-4c5f-98cf-10cb9613cda2"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "6256ace7-f139-4a22-a5e2-e9e46bffb0d4", 
+            "attribute-list": [
+                "tanbur"
+            ], 
+            "type": "instrument", 
+            "name": "Fahrettin \u00c7imenli"
+        }
+    ], 
+    "instrumentation_voicing": "Solo instrumental", 
+    "works": [
+        {
+            "mbid": "f1fd86a8-f3ff-4daf-83c2-2e0b7d9b269f", 
+            "title": "Neveser Pe\u015frev"
+        }
+    ]
+}

@@ -1,0 +1,78 @@
+{
+    "usul": [
+        {
+            "attribute_key": "duyek", 
+            "mb_attribute": "D\u00fcyek", 
+            "source": "http://musicbrainz.org/work/c6e43ac6-4a18-42ab-bcc4-46e29360051e"
+        }, 
+        {
+            "attribute_key": "duyek", 
+            "mb_tag": "d\u00fcyek", 
+            "source": "http://musicbrainz.org/recording/8a442186-8ed6-4688-a54c-a2b0337466a7"
+        }
+    ], 
+    "form": [
+        {
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
+            "source": "http://musicbrainz.org/work/c6e43ac6-4a18-42ab-bcc4-46e29360051e"
+        }, 
+        {
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
+            "source": "http://musicbrainz.org/recording/8a442186-8ed6-4688-a54c-a2b0337466a7"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "a747d19d-83ce-41ec-bf53-b6010c43dd68", 
+            "title": "T\u00fcrk M\u00fczi\u011fi \u00dcstatlar\u0131 \u0130le Enstr\u00fcmantal Alt\u0131n \u015eark\u0131lar 1"
+        }
+    ], 
+    "title": "Ak\u015fam Oldu H\u00fcz\u00fcnlendim", 
+    "url": "http://musicbrainz.org/recording/8a442186-8ed6-4688-a54c-a2b0337466a7", 
+    "artist_credits": [
+        {
+            "mbid": "e3eb44b9-f298-4994-8083-797aaba3ea9c", 
+            "name": "Ergin K\u0131z\u0131lay"
+        }
+    ], 
+    "mbid": "8a442186-8ed6-4688-a54c-a2b0337466a7", 
+    "makam": [
+        {
+            "attribute_key": "ussak", 
+            "mb_attribute": "U\u015f\u015fak", 
+            "source": "http://musicbrainz.org/work/c6e43ac6-4a18-42ab-bcc4-46e29360051e"
+        }, 
+        {
+            "attribute_key": "ussak", 
+            "mb_tag": "u\u015f\u015fak", 
+            "source": "http://musicbrainz.org/recording/8a442186-8ed6-4688-a54c-a2b0337466a7"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
+            "attribute-list": [
+                "violin"
+            ], 
+            "type": "instrument", 
+            "name": "[unknown]"
+        }, 
+        {
+            "mbid": "e3eb44b9-f298-4994-8083-797aaba3ea9c", 
+            "attribute-list": [
+                "oud"
+            ], 
+            "type": "instrument", 
+            "name": "Ergin K\u0131z\u0131lay"
+        }
+    ], 
+    "instrumentation_voicing": "Duo instrumental", 
+    "works": [
+        {
+            "mbid": "c6e43ac6-4a18-42ab-bcc4-46e29360051e", 
+            "title": "Ak\u015fam Oldu H\u00fcz\u00fcnlendim Ben Yine"
+        }
+    ]
+}

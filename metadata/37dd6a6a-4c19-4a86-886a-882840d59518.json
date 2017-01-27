@@ -1,0 +1,139 @@
+{
+    "usul": [
+        {
+            "attribute_key": "devrikebir", 
+            "mb_attribute": "Devr-i Kebir", 
+            "source": "http://musicbrainz.org/work/01412a5d-1858-43b3-b5b0-78f383675e9b"
+        }, 
+        {
+            "attribute_key": "devrikebir", 
+            "mb_attribute": "Devr-i Kebir", 
+            "source": "http://musicbrainz.org/work/6e9dd532-9988-4e72-ba2e-c967c282519c"
+        }, 
+        {
+            "attribute_key": "aksaksemai", 
+            "mb_attribute": "Aksaksemai", 
+            "source": "http://musicbrainz.org/work/d1086c07-fb1f-4eb2-9585-9f22ea850f12"
+        }, 
+        {
+            "attribute_key": "aksaksemai", 
+            "mb_tag": "aksaksemai", 
+            "source": "http://musicbrainz.org/recording/37dd6a6a-4c19-4a86-886a-882840d59518"
+        }, 
+        {
+            "attribute_key": "devrikebir", 
+            "mb_tag": "devr-i kebir", 
+            "source": "http://musicbrainz.org/recording/37dd6a6a-4c19-4a86-886a-882840d59518"
+        }, 
+        {
+            "attribute_key": "devrikebir", 
+            "mb_tag": "devr-i kebir", 
+            "source": "http://musicbrainz.org/recording/37dd6a6a-4c19-4a86-886a-882840d59518"
+        }
+    ], 
+    "form": [
+        {
+            "attribute_key": "pesrev", 
+            "mb_attribute": "Pe\u015frev", 
+            "source": "http://musicbrainz.org/work/01412a5d-1858-43b3-b5b0-78f383675e9b"
+        }, 
+        {
+            "attribute_key": "pesrev", 
+            "mb_attribute": "Pe\u015frev", 
+            "source": "http://musicbrainz.org/work/6e9dd532-9988-4e72-ba2e-c967c282519c"
+        }, 
+        {
+            "attribute_key": "sazsemaisi", 
+            "mb_attribute": "Sazsemaisi", 
+            "source": "http://musicbrainz.org/work/d1086c07-fb1f-4eb2-9585-9f22ea850f12"
+        }, 
+        {
+            "attribute_key": "sazsemaisi", 
+            "mb_tag": "sazsemaisi", 
+            "source": "http://musicbrainz.org/recording/37dd6a6a-4c19-4a86-886a-882840d59518"
+        }, 
+        {
+            "attribute_key": "pesrev", 
+            "mb_tag": "pe\u015frev", 
+            "source": "http://musicbrainz.org/recording/37dd6a6a-4c19-4a86-886a-882840d59518"
+        }, 
+        {
+            "attribute_key": "pesrev", 
+            "mb_tag": "pe\u015frev", 
+            "source": "http://musicbrainz.org/recording/37dd6a6a-4c19-4a86-886a-882840d59518"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "9dd433ea-0cb8-4328-a8a8-8032ddc66c46", 
+            "title": "Sada"
+        }
+    ], 
+    "title": "Pen\u00e7gah Solo", 
+    "url": "http://musicbrainz.org/recording/37dd6a6a-4c19-4a86-886a-882840d59518", 
+    "artist_credits": [
+        {
+            "mbid": "4acf1b6d-910a-4540-9a8f-aadcef86eb0c", 
+            "name": "Niyazi Say\u0131n"
+        }
+    ], 
+    "mbid": "37dd6a6a-4c19-4a86-886a-882840d59518", 
+    "makam": [
+        {
+            "attribute_key": "acemasiran", 
+            "mb_attribute": "Acema\u015firan", 
+            "source": "http://musicbrainz.org/work/01412a5d-1858-43b3-b5b0-78f383675e9b"
+        }, 
+        {
+            "attribute_key": "pencgah", 
+            "mb_attribute": "Pen\u00e7gah", 
+            "source": "http://musicbrainz.org/work/6e9dd532-9988-4e72-ba2e-c967c282519c"
+        }, 
+        {
+            "attribute_key": "pesendide", 
+            "mb_attribute": "Pesendide", 
+            "source": "http://musicbrainz.org/work/d1086c07-fb1f-4eb2-9585-9f22ea850f12"
+        }, 
+        {
+            "attribute_key": "pesendide", 
+            "mb_tag": "pesendide", 
+            "source": "http://musicbrainz.org/recording/37dd6a6a-4c19-4a86-886a-882840d59518"
+        }, 
+        {
+            "attribute_key": "acemasiran", 
+            "mb_tag": "acema\u015firan", 
+            "source": "http://musicbrainz.org/recording/37dd6a6a-4c19-4a86-886a-882840d59518"
+        }, 
+        {
+            "attribute_key": "pencgah", 
+            "mb_tag": "pen\u00e7gah", 
+            "source": "http://musicbrainz.org/recording/37dd6a6a-4c19-4a86-886a-882840d59518"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "4acf1b6d-910a-4540-9a8f-aadcef86eb0c", 
+            "attribute-list": [
+                "ney", 
+                "solo"
+            ], 
+            "type": "instrument", 
+            "name": "Niyazi Say\u0131n"
+        }
+    ], 
+    "instrumentation_voicing": "Solo instrumental", 
+    "works": [
+        {
+            "mbid": "01412a5d-1858-43b3-b5b0-78f383675e9b", 
+            "title": "Acema\u015firan Pe\u015frev"
+        }, 
+        {
+            "mbid": "6e9dd532-9988-4e72-ba2e-c967c282519c", 
+            "title": "Pen\u00e7gah Pe\u015frevi"
+        }, 
+        {
+            "mbid": "d1086c07-fb1f-4eb2-9585-9f22ea850f12", 
+            "title": "Pesend\u00eede Saz Semaisi"
+        }
+    ]
+}

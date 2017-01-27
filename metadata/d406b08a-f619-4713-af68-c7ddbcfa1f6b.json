@@ -1,0 +1,77 @@
+{
+    "usul": [
+        {
+            "attribute_key": "aksaksemai", 
+            "mb_attribute": "Aksaksemai", 
+            "source": "http://musicbrainz.org/work/5c4caffa-01f6-40a3-82ba-5e60b788415c"
+        }
+    ], 
+    "form": [
+        {
+            "attribute_key": "sazsemaisi", 
+            "mb_attribute": "Sazsemaisi", 
+            "source": "http://musicbrainz.org/work/5c4caffa-01f6-40a3-82ba-5e60b788415c"
+        }, 
+        {
+            "attribute_key": "sazsemaisi", 
+            "mb_tag": "sazsemaisi", 
+            "source": "http://musicbrainz.org/recording/d406b08a-f619-4713-af68-c7ddbcfa1f6b"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "6155a351-4884-4686-9cbb-ece0b3863afd", 
+            "title": "Saz Musikimiz'den Se\u00e7meler 3"
+        }
+    ], 
+    "title": "Rast Saz Semaisi", 
+    "url": "http://musicbrainz.org/recording/d406b08a-f619-4713-af68-c7ddbcfa1f6b", 
+    "artist_credits": [
+        {
+            "mbid": "b05a838f-42b7-4f6c-9ab6-40df768a9821", 
+            "name": "Erkan Y\u00fcksel"
+        }, 
+        {
+            "mbid": "91643742-9dd8-4aaf-a643-25f60336e1e9", 
+            "name": "U\u011fur Onuk"
+        }
+    ], 
+    "mbid": "d406b08a-f619-4713-af68-c7ddbcfa1f6b", 
+    "makam": [
+        {
+            "attribute_key": "rast", 
+            "mb_attribute": "Rast", 
+            "source": "http://musicbrainz.org/work/5c4caffa-01f6-40a3-82ba-5e60b788415c"
+        }, 
+        {
+            "attribute_key": "rast", 
+            "mb_tag": "rast", 
+            "source": "http://musicbrainz.org/recording/d406b08a-f619-4713-af68-c7ddbcfa1f6b"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "91643742-9dd8-4aaf-a643-25f60336e1e9", 
+            "attribute-list": [
+                "ney"
+            ], 
+            "type": "instrument", 
+            "name": "U\u011fur Onuk"
+        }, 
+        {
+            "mbid": "b05a838f-42b7-4f6c-9ab6-40df768a9821", 
+            "attribute-list": [
+                "piano"
+            ], 
+            "type": "instrument", 
+            "name": "Erkan Y\u00fcksel"
+        }
+    ], 
+    "instrumentation_voicing": "Duo instrumental", 
+    "works": [
+        {
+            "mbid": "5c4caffa-01f6-40a3-82ba-5e60b788415c", 
+            "title": "Rast Saz Semaisi"
+        }
+    ]
+}

@@ -1,0 +1,67 @@
+{
+    "usul": [
+        {
+            "attribute_key": "senginsemai", 
+            "mb_attribute": "Senginsemai", 
+            "source": "http://musicbrainz.org/work/91a130fb-d9a4-495e-bd7c-263fe168a8c6"
+        }, 
+        {
+            "attribute_key": "senginsemai", 
+            "mb_tag": "senginsemai", 
+            "source": "http://musicbrainz.org/recording/302ad0a3-58aa-4ac6-ac46-bb9b4c8ba6ac"
+        }
+    ], 
+    "form": [
+        {
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
+            "source": "http://musicbrainz.org/work/91a130fb-d9a4-495e-bd7c-263fe168a8c6"
+        }, 
+        {
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
+            "source": "http://musicbrainz.org/recording/302ad0a3-58aa-4ac6-ac46-bb9b4c8ba6ac"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "83f3321c-8fec-4736-ae45-aa1d2edc9b8b", 
+            "title": "T\u00fcrk Sanat M\u00fczi\u011fi Besteleri Saz Eserleri 2"
+        }
+    ], 
+    "title": "A\u00e7mam A\u00e7mam", 
+    "url": "http://musicbrainz.org/recording/302ad0a3-58aa-4ac6-ac46-bb9b4c8ba6ac", 
+    "artist_credits": [
+        {
+            "mbid": "ef074ab6-a2a8-42f7-a454-068265023697", 
+            "name": "Aziz T\u00fcrk Sanat M\u00fczi\u011fi Grubu"
+        }
+    ], 
+    "mbid": "302ad0a3-58aa-4ac6-ac46-bb9b4c8ba6ac", 
+    "makam": [
+        {
+            "attribute_key": "huzzam", 
+            "mb_attribute": "H\u00fczzam", 
+            "source": "http://musicbrainz.org/work/91a130fb-d9a4-495e-bd7c-263fe168a8c6"
+        }, 
+        {
+            "attribute_key": "huzzam", 
+            "mb_tag": "h\u00fczzam", 
+            "source": "http://musicbrainz.org/recording/302ad0a3-58aa-4ac6-ac46-bb9b4c8ba6ac"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "ef074ab6-a2a8-42f7-a454-068265023697", 
+            "type": "performing orchestra", 
+            "name": "Aziz T\u00fcrk Sanat M\u00fczi\u011fi Grubu"
+        }
+    ], 
+    "instrumentation_voicing": "Ensemble instrumental", 
+    "works": [
+        {
+            "mbid": "91a130fb-d9a4-495e-bd7c-263fe168a8c6", 
+            "title": "A\u00e7mam A\u00e7amam"
+        }
+    ]
+}

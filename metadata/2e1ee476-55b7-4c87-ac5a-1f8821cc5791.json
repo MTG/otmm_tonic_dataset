@@ -1,0 +1,65 @@
+{
+    "usul": [
+        {
+            "attribute_key": "muhammes", 
+            "mb_attribute": "Muhammes", 
+            "source": "http://musicbrainz.org/work/4eba73f7-6152-4899-8747-1743a525b8ca"
+        }
+    ], 
+    "form": [
+        {
+            "attribute_key": "pesrev", 
+            "mb_attribute": "Pe\u015frev", 
+            "source": "http://musicbrainz.org/work/4eba73f7-6152-4899-8747-1743a525b8ca"
+        }, 
+        {
+            "attribute_key": "pesrev", 
+            "mb_tag": "pe\u015frev", 
+            "source": "http://musicbrainz.org/recording/2e1ee476-55b7-4c87-ac5a-1f8821cc5791"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "93d37c26-9732-4558-afc9-b2e5d3f58cb0", 
+            "title": "Ney ile \u0130cra Edilmi\u015f Saz Eserleri"
+        }
+    ], 
+    "title": "Buselik Pe\u015frev (Mansur Ney)", 
+    "url": "http://musicbrainz.org/recording/2e1ee476-55b7-4c87-ac5a-1f8821cc5791", 
+    "artist_credits": [
+        {
+            "mbid": "3a57e3a4-4e48-4ce2-aae0-c5b5275721eb", 
+            "name": "Salih Bilgin"
+        }
+    ], 
+    "mbid": "2e1ee476-55b7-4c87-ac5a-1f8821cc5791", 
+    "makam": [
+        {
+            "attribute_key": "buselik", 
+            "mb_attribute": "Buselik", 
+            "source": "http://musicbrainz.org/work/4eba73f7-6152-4899-8747-1743a525b8ca"
+        }, 
+        {
+            "attribute_key": "buselik", 
+            "mb_tag": "buselik", 
+            "source": "http://musicbrainz.org/recording/2e1ee476-55b7-4c87-ac5a-1f8821cc5791"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "3a57e3a4-4e48-4ce2-aae0-c5b5275721eb", 
+            "attribute-list": [
+                "ney"
+            ], 
+            "type": "instrument", 
+            "name": "Salih Bilgin"
+        }
+    ], 
+    "instrumentation_voicing": "Solo instrumental", 
+    "works": [
+        {
+            "mbid": "4eba73f7-6152-4899-8747-1743a525b8ca", 
+            "title": "B\u00fbselik Pe\u015frev"
+        }
+    ]
+}

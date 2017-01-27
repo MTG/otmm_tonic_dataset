@@ -1,0 +1,72 @@
+{
+    "usul": [
+        {
+            "attribute_key": "agirduyek", 
+            "mb_attribute": "A\u011f\u0131rd\u00fcyek", 
+            "source": "http://musicbrainz.org/work/d5fae130-1e93-4c76-8fc6-9270d33e174d"
+        }, 
+        {
+            "attribute_key": "agirduyek", 
+            "mb_tag": "a\u011f\u0131rd\u00fcyek", 
+            "source": "http://musicbrainz.org/recording/cb914d5a-f339-44c0-a1f8-c4fc05161bd4"
+        }
+    ], 
+    "form": [
+        {
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
+            "source": "http://musicbrainz.org/work/d5fae130-1e93-4c76-8fc6-9270d33e174d"
+        }, 
+        {
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
+            "source": "http://musicbrainz.org/recording/cb914d5a-f339-44c0-a1f8-c4fc05161bd4"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "ba3a521f-b406-4314-b6be-6075a9b0a507", 
+            "title": "Bekir S\u0131dk\u0131 Sezgin 23"
+        }
+    ], 
+    "title": "Dil Sevdi Sen \u015euh-i \u015eeni", 
+    "url": "http://musicbrainz.org/recording/cb914d5a-f339-44c0-a1f8-c4fc05161bd4", 
+    "artist_credits": [
+        {
+            "mbid": "7ef61959-65f2-41ab-9ae2-ba890812b7b4", 
+            "name": "Bekir S\u0131dk\u0131 Sezgin"
+        }
+    ], 
+    "mbid": "cb914d5a-f339-44c0-a1f8-c4fc05161bd4", 
+    "makam": [
+        {
+            "attribute_key": "revnaknuma", 
+            "mb_attribute": "Revnakn\u00fcma", 
+            "source": "http://musicbrainz.org/work/d5fae130-1e93-4c76-8fc6-9270d33e174d"
+        }, 
+        {
+            "attribute_key": "revnaknuma", 
+            "mb_tag": "revnakn\u00fcma", 
+            "source": "http://musicbrainz.org/recording/cb914d5a-f339-44c0-a1f8-c4fc05161bd4"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
+            "type": "performing orchestra", 
+            "name": "[unknown]"
+        }, 
+        {
+            "mbid": "7ef61959-65f2-41ab-9ae2-ba890812b7b4", 
+            "type": "vocal", 
+            "name": "Bekir S\u0131dk\u0131 Sezgin"
+        }
+    ], 
+    "instrumentation_voicing": "Solo vocal with accompaniment", 
+    "works": [
+        {
+            "mbid": "d5fae130-1e93-4c76-8fc6-9270d33e174d", 
+            "title": "Dil Sevdi Sen \u015euh-i \u015eeni"
+        }
+    ]
+}

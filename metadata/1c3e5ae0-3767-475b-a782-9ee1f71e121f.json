@@ -1,0 +1,59 @@
+{
+    "usul": [], 
+    "form": [
+        {
+            "attribute_key": "sazsemaisi", 
+            "mb_attribute": "Sazsemaisi", 
+            "source": "http://musicbrainz.org/work/6ae39b1b-488c-4cb9-ab0f-f3752414a013"
+        }, 
+        {
+            "attribute_key": "sazsemaisi", 
+            "mb_tag": "sazsemaisi", 
+            "source": "http://musicbrainz.org/recording/1c3e5ae0-3767-475b-a782-9ee1f71e121f"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "93d37c26-9732-4558-afc9-b2e5d3f58cb0", 
+            "title": "Ney ile \u0130cra Edilmi\u015f Saz Eserleri"
+        }
+    ], 
+    "title": "Rast Saz Sem\u00e2\u00ee (K\u0131z Ney)", 
+    "url": "http://musicbrainz.org/recording/1c3e5ae0-3767-475b-a782-9ee1f71e121f", 
+    "artist_credits": [
+        {
+            "mbid": "3a57e3a4-4e48-4ce2-aae0-c5b5275721eb", 
+            "name": "Salih Bilgin"
+        }
+    ], 
+    "mbid": "1c3e5ae0-3767-475b-a782-9ee1f71e121f", 
+    "makam": [
+        {
+            "attribute_key": "rast", 
+            "mb_attribute": "Rast", 
+            "source": "http://musicbrainz.org/work/6ae39b1b-488c-4cb9-ab0f-f3752414a013"
+        }, 
+        {
+            "attribute_key": "rast", 
+            "mb_tag": "rast", 
+            "source": "http://musicbrainz.org/recording/1c3e5ae0-3767-475b-a782-9ee1f71e121f"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "3a57e3a4-4e48-4ce2-aae0-c5b5275721eb", 
+            "attribute-list": [
+                "ney"
+            ], 
+            "type": "instrument", 
+            "name": "Salih Bilgin"
+        }
+    ], 
+    "instrumentation_voicing": "Solo instrumental", 
+    "works": [
+        {
+            "mbid": "6ae39b1b-488c-4cb9-ab0f-f3752414a013", 
+            "title": "Rast Sazsemaisi"
+        }
+    ]
+}

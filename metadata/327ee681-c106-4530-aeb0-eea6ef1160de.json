@@ -1,0 +1,94 @@
+{
+    "usul": [
+        {
+            "attribute_key": "muhammes", 
+            "mb_attribute": "Muhammes", 
+            "source": "http://musicbrainz.org/work/d689c032-ab60-4162-b872-b56cf3b24db6"
+        }, 
+        {
+            "attribute_key": "muhammes", 
+            "mb_tag": "muhammes", 
+            "source": "http://musicbrainz.org/recording/327ee681-c106-4530-aeb0-eea6ef1160de"
+        }
+    ], 
+    "form": [
+        {
+            "attribute_key": "pesrev", 
+            "mb_attribute": "Pe\u015frev", 
+            "source": "http://musicbrainz.org/work/d689c032-ab60-4162-b872-b56cf3b24db6"
+        }, 
+        {
+            "attribute_key": "pesrev", 
+            "mb_tag": "pe\u015frev", 
+            "source": "http://musicbrainz.org/recording/327ee681-c106-4530-aeb0-eea6ef1160de"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "917f9158-b14d-4abd-a132-30200d0a759b", 
+            "title": "Saz Musikimiz'den Se\u00e7meler 2"
+        }
+    ], 
+    "title": "K\u00fcrdilihicazk\u00e2r Pe\u015frevi", 
+    "url": "http://musicbrainz.org/recording/327ee681-c106-4530-aeb0-eea6ef1160de", 
+    "artist_credits": [
+        {
+            "mbid": "70c6c7e5-c878-4d28-a07a-36bff1feecf5", 
+            "name": "Bayram Co\u015fkuner"
+        }, 
+        {
+            "mbid": "b359fdcb-e48a-414e-bfb4-539d54a5bb85", 
+            "name": "Tahir Aydo\u011fdu"
+        }, 
+        {
+            "mbid": "ac61be44-cbd3-4f8e-9533-1642439fd34c", 
+            "name": "Turay Dinleyen"
+        }
+    ], 
+    "mbid": "327ee681-c106-4530-aeb0-eea6ef1160de", 
+    "makam": [
+        {
+            "attribute_key": "kurdilihicazkar", 
+            "mb_attribute": "K\u00fcrdilihicazkar", 
+            "source": "http://musicbrainz.org/work/d689c032-ab60-4162-b872-b56cf3b24db6"
+        }, 
+        {
+            "attribute_key": "kurdilihicazkar", 
+            "mb_tag": "k\u00fcrdilihicazkar", 
+            "source": "http://musicbrainz.org/recording/327ee681-c106-4530-aeb0-eea6ef1160de"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "70c6c7e5-c878-4d28-a07a-36bff1feecf5", 
+            "attribute-list": [
+                "oud"
+            ], 
+            "type": "instrument", 
+            "name": "Bayram Co\u015fkuner"
+        }, 
+        {
+            "mbid": "ac61be44-cbd3-4f8e-9533-1642439fd34c", 
+            "attribute-list": [
+                "violin"
+            ], 
+            "type": "instrument", 
+            "name": "Turay Dinleyen"
+        }, 
+        {
+            "mbid": "b359fdcb-e48a-414e-bfb4-539d54a5bb85", 
+            "attribute-list": [
+                "kanun"
+            ], 
+            "type": "instrument", 
+            "name": "Tahir Aydo\u011fdu"
+        }
+    ], 
+    "instrumentation_voicing": "Trio instrumental", 
+    "works": [
+        {
+            "mbid": "d689c032-ab60-4162-b872-b56cf3b24db6", 
+            "title": "K\u00fcrd\u00eelihicazk\u00e2r Pe\u015frevi"
+        }
+    ]
+}

@@ -1,0 +1,70 @@
+{
+    "usul": [
+        {
+            "attribute_key": "aksaksemai", 
+            "mb_attribute": "Aksaksemai", 
+            "source": "http://musicbrainz.org/work/ac003195-9ea0-4d8e-8420-2d6c269e98f6"
+        }, 
+        {
+            "attribute_key": "aksaksemai", 
+            "mb_tag": "aksaksemai", 
+            "source": "http://musicbrainz.org/recording/4948c836-5485-4a69-8bdc-11fe4559e78f"
+        }
+    ], 
+    "form": [
+        {
+            "attribute_key": "sazsemaisi", 
+            "mb_attribute": "Sazsemaisi", 
+            "source": "http://musicbrainz.org/work/ac003195-9ea0-4d8e-8420-2d6c269e98f6"
+        }, 
+        {
+            "attribute_key": "sazsemaisi", 
+            "mb_tag": "sazsemaisi", 
+            "source": "http://musicbrainz.org/recording/4948c836-5485-4a69-8bdc-11fe4559e78f"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "6777da65-efe1-4874-ba36-18fb56d506e9", 
+            "title": "Suzidil"
+        }
+    ], 
+    "title": "Muhayyer Sazsemaisi", 
+    "url": "http://musicbrainz.org/recording/4948c836-5485-4a69-8bdc-11fe4559e78f", 
+    "artist_credits": [
+        {
+            "mbid": "0a7cf3b7-97a1-4187-ac32-698a3ceb27a2", 
+            "name": "Necati \u00c7elik"
+        }
+    ], 
+    "mbid": "4948c836-5485-4a69-8bdc-11fe4559e78f", 
+    "makam": [
+        {
+            "attribute_key": "muhayyer", 
+            "mb_attribute": "Muhayyer", 
+            "source": "http://musicbrainz.org/work/ac003195-9ea0-4d8e-8420-2d6c269e98f6"
+        }, 
+        {
+            "attribute_key": "muhayyer", 
+            "mb_tag": "muhayyer", 
+            "source": "http://musicbrainz.org/recording/4948c836-5485-4a69-8bdc-11fe4559e78f"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "0a7cf3b7-97a1-4187-ac32-698a3ceb27a2", 
+            "attribute-list": [
+                "oud"
+            ], 
+            "type": "instrument", 
+            "name": "Necati \u00c7elik"
+        }
+    ], 
+    "instrumentation_voicing": "Solo instrumental", 
+    "works": [
+        {
+            "mbid": "ac003195-9ea0-4d8e-8420-2d6c269e98f6", 
+            "title": "Muhayyer Sazsemaisi"
+        }
+    ]
+}

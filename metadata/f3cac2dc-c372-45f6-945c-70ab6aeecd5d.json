@@ -1,0 +1,67 @@
+{
+    "usul": [
+        {
+            "attribute_key": "cenber", 
+            "mb_attribute": "\u00c7enber", 
+            "source": "http://musicbrainz.org/work/270f55e1-d479-47d0-832f-930a2d20f90a"
+        }, 
+        {
+            "attribute_key": "sofyan", 
+            "mb_tag": "sofyan", 
+            "source": "http://musicbrainz.org/recording/f3cac2dc-c372-45f6-945c-70ab6aeecd5d"
+        }
+    ], 
+    "form": [
+        {
+            "attribute_key": "pesrev", 
+            "mb_attribute": "Pe\u015frev", 
+            "source": "http://musicbrainz.org/work/270f55e1-d479-47d0-832f-930a2d20f90a"
+        }, 
+        {
+            "attribute_key": "pesrev", 
+            "mb_tag": "pe\u015frev", 
+            "source": "http://musicbrainz.org/recording/f3cac2dc-c372-45f6-945c-70ab6aeecd5d"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "5bd7a46e-c6bd-490e-96b2-847305c9bfaa", 
+            "title": "Tatyos Efendi K\u00fclliyat\u0131"
+        }
+    ], 
+    "title": "Suzinak Pe\u015frev", 
+    "url": "http://musicbrainz.org/recording/f3cac2dc-c372-45f6-945c-70ab6aeecd5d", 
+    "artist_credits": [
+        {
+            "mbid": "0868a083-608c-41c5-89b0-bc5b9a616dbd", 
+            "name": "Kudsi Erguner Ensemble"
+        }
+    ], 
+    "mbid": "f3cac2dc-c372-45f6-945c-70ab6aeecd5d", 
+    "makam": [
+        {
+            "attribute_key": "suzinak", 
+            "mb_attribute": "Suzinak", 
+            "source": "http://musicbrainz.org/work/270f55e1-d479-47d0-832f-930a2d20f90a"
+        }, 
+        {
+            "attribute_key": "suzinak", 
+            "mb_tag": "suzinak", 
+            "source": "http://musicbrainz.org/recording/f3cac2dc-c372-45f6-945c-70ab6aeecd5d"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "0868a083-608c-41c5-89b0-bc5b9a616dbd", 
+            "type": "performing orchestra", 
+            "name": "Kudsi Erguner Ensemble"
+        }
+    ], 
+    "instrumentation_voicing": "Ensemble instrumental", 
+    "works": [
+        {
+            "mbid": "270f55e1-d479-47d0-832f-930a2d20f90a", 
+            "title": "Suzinak Pe\u015frev"
+        }
+    ]
+}

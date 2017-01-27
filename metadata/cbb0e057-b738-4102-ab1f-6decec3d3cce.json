@@ -1,0 +1,72 @@
+{
+    "usul": [
+        {
+            "attribute_key": "duyek", 
+            "mb_attribute": "D\u00fcyek", 
+            "source": "http://musicbrainz.org/work/a7d86b0a-7b1a-4482-b3ed-81fdd8346371"
+        }, 
+        {
+            "attribute_key": "duyek", 
+            "mb_tag": "d\u00fcyek", 
+            "source": "http://musicbrainz.org/recording/cbb0e057-b738-4102-ab1f-6decec3d3cce"
+        }
+    ], 
+    "form": [
+        {
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
+            "source": "http://musicbrainz.org/work/a7d86b0a-7b1a-4482-b3ed-81fdd8346371"
+        }, 
+        {
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
+            "source": "http://musicbrainz.org/recording/cbb0e057-b738-4102-ab1f-6decec3d3cce"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "6b94e631-734e-4ebb-9acd-0741183608fe", 
+            "title": "Bekir S\u0131dk\u0131 Sezgin 22"
+        }
+    ], 
+    "title": "Ak\u015fam\u0131n Oldu\u011fu Yerde Bekle Diyorsun Gelmiyorsun", 
+    "url": "http://musicbrainz.org/recording/cbb0e057-b738-4102-ab1f-6decec3d3cce", 
+    "artist_credits": [
+        {
+            "mbid": "7ef61959-65f2-41ab-9ae2-ba890812b7b4", 
+            "name": "Bekir S\u0131dk\u0131 Sezgin"
+        }
+    ], 
+    "mbid": "cbb0e057-b738-4102-ab1f-6decec3d3cce", 
+    "makam": [
+        {
+            "attribute_key": "huzzam", 
+            "mb_attribute": "H\u00fczzam", 
+            "source": "http://musicbrainz.org/work/a7d86b0a-7b1a-4482-b3ed-81fdd8346371"
+        }, 
+        {
+            "attribute_key": "huzzam", 
+            "mb_tag": "h\u00fczzam", 
+            "source": "http://musicbrainz.org/recording/cbb0e057-b738-4102-ab1f-6decec3d3cce"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
+            "type": "performing orchestra", 
+            "name": "[unknown]"
+        }, 
+        {
+            "mbid": "7ef61959-65f2-41ab-9ae2-ba890812b7b4", 
+            "type": "vocal", 
+            "name": "Bekir S\u0131dk\u0131 Sezgin"
+        }
+    ], 
+    "instrumentation_voicing": "Solo vocal with accompaniment", 
+    "works": [
+        {
+            "mbid": "a7d86b0a-7b1a-4482-b3ed-81fdd8346371", 
+            "title": "Ak\u015fam\u0131n Oldu\u011fu Yerde Bekle Diyorsun"
+        }
+    ]
+}

@@ -1,0 +1,86 @@
+{
+    "usul": [
+        {
+            "attribute_key": "devrikebir", 
+            "mb_attribute": "Devr-i Kebir", 
+            "source": "http://musicbrainz.org/work/71d5fcfb-03c6-4850-b4db-b4c54a79e348"
+        }, 
+        {
+            "attribute_key": "devrikebir", 
+            "mb_attribute": "Devr-i Kebir", 
+            "source": "http://musicbrainz.org/work/deb4380a-f566-40e7-8927-a3899f4088cc"
+        }, 
+        {
+            "attribute_key": "devrikebir", 
+            "mb_tag": "devr-i kebir", 
+            "source": "http://musicbrainz.org/recording/1fb632ce-3c6c-49a5-9b58-f6512e3a54fb"
+        }
+    ], 
+    "form": [
+        {
+            "attribute_key": "pesrev", 
+            "mb_attribute": "Pe\u015frev", 
+            "source": "http://musicbrainz.org/work/71d5fcfb-03c6-4850-b4db-b4c54a79e348"
+        }, 
+        {
+            "attribute_key": "pesrev", 
+            "mb_attribute": "Pe\u015frev", 
+            "source": "http://musicbrainz.org/work/deb4380a-f566-40e7-8927-a3899f4088cc"
+        }, 
+        {
+            "attribute_key": "ayin_i_serif", 
+            "mb_tag": "ayin-i \u015ferif", 
+            "source": "http://musicbrainz.org/recording/1fb632ce-3c6c-49a5-9b58-f6512e3a54fb"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "430058da-7be0-48ec-abac-9b88b87e293f", 
+            "title": "Mevlevi Sesler"
+        }
+    ], 
+    "title": "Pe\u015frev", 
+    "url": "http://musicbrainz.org/recording/1fb632ce-3c6c-49a5-9b58-f6512e3a54fb", 
+    "artist_credits": [
+        {
+            "mbid": "81081f45-a36e-4248-9d33-43d4a3445f6d", 
+            "name": "Dede Efendi"
+        }
+    ], 
+    "mbid": "1fb632ce-3c6c-49a5-9b58-f6512e3a54fb", 
+    "makam": [
+        {
+            "attribute_key": "bestenigar", 
+            "mb_attribute": "Bestenigar", 
+            "source": "http://musicbrainz.org/work/71d5fcfb-03c6-4850-b4db-b4c54a79e348"
+        }, 
+        {
+            "attribute_key": "bestenigar", 
+            "mb_attribute": "Bestenigar", 
+            "source": "http://musicbrainz.org/work/deb4380a-f566-40e7-8927-a3899f4088cc"
+        }, 
+        {
+            "attribute_key": "bestenigar", 
+            "mb_tag": "bestenigar", 
+            "source": "http://musicbrainz.org/recording/1fb632ce-3c6c-49a5-9b58-f6512e3a54fb"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "713ad8af-1c98-4569-a445-71f7b9395945", 
+            "type": "performing orchestra", 
+            "name": "Dede Efendi T\u00fcrk M\u00fczi\u011fi Toplulu\u011fu"
+        }
+    ], 
+    "instrumentation_voicing": "Ensemble instrumental", 
+    "works": [
+        {
+            "mbid": "71d5fcfb-03c6-4850-b4db-b4c54a79e348", 
+            "title": "Bestenigar Ayin-i \u015eerif"
+        }, 
+        {
+            "mbid": "deb4380a-f566-40e7-8927-a3899f4088cc", 
+            "title": "Bestenigar Pe\u015frev"
+        }
+    ]
+}

@@ -1,0 +1,192 @@
+{
+    "usul": [
+        {
+            "attribute_key": "duyek", 
+            "mb_attribute": "D\u00fcyek", 
+            "source": "http://musicbrainz.org/work/3601efbc-b05b-4f54-ba07-584a842de72e"
+        }, 
+        {
+            "attribute_key": "duyek", 
+            "mb_tag": "d\u00fcyek", 
+            "source": "http://musicbrainz.org/recording/161c1c16-b664-4fe2-bbf1-f7b9ee312096"
+        }
+    ], 
+    "form": [
+        {
+            "attribute_key": "pesrev", 
+            "mb_attribute": "Pe\u015frev", 
+            "source": "http://musicbrainz.org/work/3601efbc-b05b-4f54-ba07-584a842de72e"
+        }, 
+        {
+            "attribute_key": "pesrev", 
+            "mb_tag": "pe\u015frev", 
+            "source": "http://musicbrainz.org/recording/161c1c16-b664-4fe2-bbf1-f7b9ee312096"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "3ce4103f-48aa-4330-925a-68f69271ca47", 
+            "title": "Itri'den Suphi Ziya \u00d6zbekkan'a - T\u00fcrk Musikisinden Se\u00e7meler"
+        }
+    ], 
+    "title": "Mahur Pe\u015frev", 
+    "url": "http://musicbrainz.org/recording/161c1c16-b664-4fe2-bbf1-f7b9ee312096", 
+    "artist_credits": [
+        {
+            "mbid": "727dc3f2-dc40-470b-9b0a-f6a8f89f6b4f", 
+            "name": "\u0130stanbul Devlet Klasik T\u00fcrk M\u00fczi\u011fi Korosu"
+        }
+    ], 
+    "mbid": "161c1c16-b664-4fe2-bbf1-f7b9ee312096", 
+    "makam": [
+        {
+            "attribute_key": "mahur", 
+            "mb_attribute": "Mahur", 
+            "source": "http://musicbrainz.org/work/3601efbc-b05b-4f54-ba07-584a842de72e"
+        }, 
+        {
+            "attribute_key": "mahur", 
+            "mb_tag": "mahur", 
+            "source": "http://musicbrainz.org/recording/161c1c16-b664-4fe2-bbf1-f7b9ee312096"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "003426e2-8add-4559-aa64-da0a25ef404f", 
+            "attribute-list": [
+                "cello"
+            ], 
+            "type": "instrument", 
+            "name": "Sermet Kutlu\u011f"
+        }, 
+        {
+            "mbid": "0f2a5658-4429-4951-aa01-4c372226ee3d", 
+            "type": "conductor", 
+            "name": "Nevzad Atl\u0131\u011f"
+        }, 
+        {
+            "mbid": "1567c21f-f95c-47ac-8180-6fbe65d8e170", 
+            "attribute-list": [
+                "cello"
+            ], 
+            "type": "instrument", 
+            "name": "F\u0131rat K\u0131z\u0131ltu\u011f"
+        }, 
+        {
+            "mbid": "3373f074-198b-4cb1-b4bb-17b433108c8a", 
+            "attribute-list": [
+                "classical kemen\u00e7e"
+            ], 
+            "type": "instrument", 
+            "name": "Re\u015fat Uca"
+        }, 
+        {
+            "mbid": "3b574ce5-00f2-4fe5-9b7b-201d168372e1", 
+            "attribute-list": [
+                "oud"
+            ], 
+            "type": "instrument", 
+            "name": "Samim Karaca"
+        }, 
+        {
+            "mbid": "5d608669-62a2-401f-80ab-a37397464187", 
+            "attribute-list": [
+                "violin"
+            ], 
+            "type": "instrument", 
+            "name": "Celil Matarac\u0131"
+        }, 
+        {
+            "mbid": "616071df-506c-4802-925a-26205aa8d0dd", 
+            "attribute-list": [
+                "kanun"
+            ], 
+            "type": "instrument", 
+            "name": "Hacer T\u0131so\u011flu"
+        }, 
+        {
+            "mbid": "6256ace7-f139-4a22-a5e2-e9e46bffb0d4", 
+            "attribute-list": [
+                "tanbur"
+            ], 
+            "type": "instrument", 
+            "name": "Fahrettin \u00c7imenli"
+        }, 
+        {
+            "mbid": "71c37b8c-d91d-475a-90a2-d34062df0de6", 
+            "attribute-list": [
+                "ney"
+            ], 
+            "type": "instrument", 
+            "name": "Mustafa G\u00fcvenkaya"
+        }, 
+        {
+            "mbid": "727dc3f2-dc40-470b-9b0a-f6a8f89f6b4f", 
+            "type": "performing orchestra", 
+            "name": "\u0130stanbul Devlet Klasik T\u00fcrk M\u00fczi\u011fi Korosu"
+        }, 
+        {
+            "mbid": "7559efa4-95a2-4282-bc26-3c245264513f", 
+            "attribute-list": [
+                "violin"
+            ], 
+            "type": "instrument", 
+            "name": "Cahit Peksayar"
+        }, 
+        {
+            "mbid": "8c968ab9-1a75-4ad2-b4a1-faa1f51d0006", 
+            "attribute-list": [
+                "kanun"
+            ], 
+            "type": "instrument", 
+            "name": "Taner Sayac\u0131o\u011flu"
+        }, 
+        {
+            "mbid": "c8a816d3-63f3-479a-aea2-b6d0f9870a12", 
+            "attribute-list": [
+                "ney"
+            ], 
+            "type": "instrument", 
+            "name": "Fikret Kamil Bertu\u011f"
+        }, 
+        {
+            "mbid": "e1cf066b-243e-40fd-8bf9-22196859fea3", 
+            "attribute-list": [
+                "violin"
+            ], 
+            "type": "instrument", 
+            "name": "Y\u0131lmaz \u00d6zer"
+        }, 
+        {
+            "mbid": "e5bc0dcf-415c-4931-b4c0-0f3c68645dff", 
+            "attribute-list": [
+                "tanbur"
+            ], 
+            "type": "instrument", 
+            "name": "Haldun Ersin"
+        }, 
+        {
+            "mbid": "f8d00b3b-319a-457a-99bd-275c24434168", 
+            "attribute-list": [
+                "violin"
+            ], 
+            "type": "instrument", 
+            "name": "\u0130hsan Arslan"
+        }, 
+        {
+            "mbid": "fa8d02f5-e47d-45ed-9194-5d01d956b519", 
+            "attribute-list": [
+                "oud"
+            ], 
+            "type": "instrument", 
+            "name": "Osman Nuri \u00d6zpekel"
+        }
+    ], 
+    "instrumentation_voicing": "Ensemble instrumental", 
+    "works": [
+        {
+            "mbid": "3601efbc-b05b-4f54-ba07-584a842de72e", 
+            "title": "Mahur Pe\u015frevi"
+        }
+    ]
+}

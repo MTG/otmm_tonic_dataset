@@ -1,0 +1,49 @@
+{
+    "instrumentation_voicing": "Solo instrumental", 
+    "form": [
+        {
+            "attribute_key": "taksim", 
+            "mb_tag": "taksim", 
+            "source": "http://musicbrainz.org/recording/83ce84e0-622c-451a-9042-aa7550a54e9b"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "8a880160-5ee1-4d21-910f-e1636f17a9e9", 
+            "title": "16 Makamda Ud Taksimleri"
+        }
+    ], 
+    "title": "Karc\u0131\u011far", 
+    "url": "http://musicbrainz.org/recording/83ce84e0-622c-451a-9042-aa7550a54e9b", 
+    "artist_credits": [
+        {
+            "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
+            "name": "[unknown]"
+        }
+    ], 
+    "mbid": "83ce84e0-622c-451a-9042-aa7550a54e9b", 
+    "makam": [
+        {
+            "attribute_key": "huseyni", 
+            "mb_tag": "karc\u0131\u011far", 
+            "source": "http://musicbrainz.org/recording/83ce84e0-622c-451a-9042-aa7550a54e9b"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
+            "attribute-list": [
+                "oud"
+            ], 
+            "type": "instrument", 
+            "name": "[unknown]"
+        }
+    ], 
+    "usul": [
+        {
+            "attribute_key": "serbest", 
+            "mb_tag": "serbest", 
+            "source": "http://musicbrainz.org/recording/83ce84e0-622c-451a-9042-aa7550a54e9b"
+        }
+    ]
+}

@@ -1,0 +1,67 @@
+{
+    "usul": [
+        {
+            "attribute_key": "duyek", 
+            "mb_attribute": "D\u00fcyek", 
+            "source": "http://musicbrainz.org/work/cba643e5-d839-4c97-ad00-463e2c9ba71a"
+        }, 
+        {
+            "attribute_key": "duyek", 
+            "mb_tag": "d\u00fcyek", 
+            "source": "http://musicbrainz.org/recording/75b2bbf5-aa59-45ad-b510-7e1e6114a439"
+        }
+    ], 
+    "form": [
+        {
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
+            "source": "http://musicbrainz.org/work/cba643e5-d839-4c97-ad00-463e2c9ba71a"
+        }, 
+        {
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
+            "source": "http://musicbrainz.org/recording/75b2bbf5-aa59-45ad-b510-7e1e6114a439"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "088ca7fd-f53e-48ce-bbdb-1102d1d4133b", 
+            "title": "Fasl-\u0131 \u015eahane Enstrumantal, Volume 1"
+        }
+    ], 
+    "title": "Her G\u00fcn\u00fcm Mazide Kalm\u0131\u015f", 
+    "url": "http://musicbrainz.org/recording/75b2bbf5-aa59-45ad-b510-7e1e6114a439", 
+    "artist_credits": [
+        {
+            "mbid": "ef074ab6-a2a8-42f7-a454-068265023697", 
+            "name": "Aziz T\u00fcrk Sanat M\u00fczi\u011fi Grubu"
+        }
+    ], 
+    "mbid": "75b2bbf5-aa59-45ad-b510-7e1e6114a439", 
+    "makam": [
+        {
+            "attribute_key": "ussak", 
+            "mb_attribute": "U\u015f\u015fak", 
+            "source": "http://musicbrainz.org/work/cba643e5-d839-4c97-ad00-463e2c9ba71a"
+        }, 
+        {
+            "attribute_key": "ussak", 
+            "mb_tag": "u\u015f\u015fak", 
+            "source": "http://musicbrainz.org/recording/75b2bbf5-aa59-45ad-b510-7e1e6114a439"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "ef074ab6-a2a8-42f7-a454-068265023697", 
+            "type": "performing orchestra", 
+            "name": "Aziz T\u00fcrk Sanat M\u00fczi\u011fi Grubu"
+        }
+    ], 
+    "instrumentation_voicing": "Ensemble instrumental", 
+    "works": [
+        {
+            "mbid": "cba643e5-d839-4c97-ad00-463e2c9ba71a", 
+            "title": "Her G\u00fcn\u00fcm Mazide Kalm\u0131\u015f"
+        }
+    ]
+}

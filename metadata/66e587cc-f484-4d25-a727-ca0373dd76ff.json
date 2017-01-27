@@ -1,0 +1,65 @@
+{
+    "usul": [
+        {
+            "attribute_key": "aksaksemai", 
+            "mb_attribute": "Aksaksemai", 
+            "source": "http://musicbrainz.org/work/4b3685be-c30a-4b10-8ce6-5bcd2c96b1f3"
+        }
+    ], 
+    "form": [
+        {
+            "attribute_key": "sazsemaisi", 
+            "mb_attribute": "Sazsemaisi", 
+            "source": "http://musicbrainz.org/work/4b3685be-c30a-4b10-8ce6-5bcd2c96b1f3"
+        }, 
+        {
+            "attribute_key": "sazsemaisi", 
+            "mb_tag": "sazsemaisi", 
+            "source": "http://musicbrainz.org/recording/66e587cc-f484-4d25-a727-ca0373dd76ff"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "bfd2fcde-2271-4d8a-af42-98e174e13a4b", 
+            "title": "Murat Aydemir"
+        }
+    ], 
+    "title": "Hicazk\u00e2r Saz Sem\u00e2isi", 
+    "url": "http://musicbrainz.org/recording/66e587cc-f484-4d25-a727-ca0373dd76ff", 
+    "artist_credits": [
+        {
+            "mbid": "9b6e98f8-b695-45da-8c9c-68d4bab460fd", 
+            "name": "Murat Aydemir"
+        }
+    ], 
+    "mbid": "66e587cc-f484-4d25-a727-ca0373dd76ff", 
+    "makam": [
+        {
+            "attribute_key": "hicazkar", 
+            "mb_attribute": "Hicazkar", 
+            "source": "http://musicbrainz.org/work/4b3685be-c30a-4b10-8ce6-5bcd2c96b1f3"
+        }, 
+        {
+            "attribute_key": "hicazkar", 
+            "mb_tag": "hicazkar", 
+            "source": "http://musicbrainz.org/recording/66e587cc-f484-4d25-a727-ca0373dd76ff"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "9b6e98f8-b695-45da-8c9c-68d4bab460fd", 
+            "attribute-list": [
+                "tanbur"
+            ], 
+            "type": "instrument", 
+            "name": "Murat Aydemir"
+        }
+    ], 
+    "instrumentation_voicing": "Solo instrumental", 
+    "works": [
+        {
+            "mbid": "4b3685be-c30a-4b10-8ce6-5bcd2c96b1f3", 
+            "title": "Hicazkar Sazsemaisi"
+        }
+    ]
+}

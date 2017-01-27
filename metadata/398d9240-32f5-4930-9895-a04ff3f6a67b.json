@@ -1,0 +1,72 @@
+{
+    "usul": [
+        {
+            "attribute_key": "semai", 
+            "mb_attribute": "Semai", 
+            "source": "http://musicbrainz.org/work/44c72fcf-7477-4611-a8bf-b191651ae3a0"
+        }, 
+        {
+            "attribute_key": "semai", 
+            "mb_tag": "semai", 
+            "source": "http://musicbrainz.org/recording/398d9240-32f5-4930-9895-a04ff3f6a67b"
+        }
+    ], 
+    "form": [
+        {
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
+            "source": "http://musicbrainz.org/work/44c72fcf-7477-4611-a8bf-b191651ae3a0"
+        }, 
+        {
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
+            "source": "http://musicbrainz.org/recording/398d9240-32f5-4930-9895-a04ff3f6a67b"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "67514072-161f-49e9-b188-b869f71c6a47", 
+            "title": "Bekir S\u0131dk\u0131 Sezgin 26"
+        }
+    ], 
+    "title": "Ey Bu Bah\u00e7elerde Esen Eski \u015eark\u0131lar Nerdesiniz", 
+    "url": "http://musicbrainz.org/recording/398d9240-32f5-4930-9895-a04ff3f6a67b", 
+    "artist_credits": [
+        {
+            "mbid": "7ef61959-65f2-41ab-9ae2-ba890812b7b4", 
+            "name": "Bekir S\u0131dk\u0131 Sezgin"
+        }
+    ], 
+    "mbid": "398d9240-32f5-4930-9895-a04ff3f6a67b", 
+    "makam": [
+        {
+            "attribute_key": "kurdilihicazkar", 
+            "mb_attribute": "K\u00fcrdilihicazkar", 
+            "source": "http://musicbrainz.org/work/44c72fcf-7477-4611-a8bf-b191651ae3a0"
+        }, 
+        {
+            "attribute_key": "kurdilihicazkar", 
+            "mb_tag": "k\u00fcrdilihicazkar", 
+            "source": "http://musicbrainz.org/recording/398d9240-32f5-4930-9895-a04ff3f6a67b"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
+            "type": "performing orchestra", 
+            "name": "[unknown]"
+        }, 
+        {
+            "mbid": "7ef61959-65f2-41ab-9ae2-ba890812b7b4", 
+            "type": "vocal", 
+            "name": "Bekir S\u0131dk\u0131 Sezgin"
+        }
+    ], 
+    "instrumentation_voicing": "Solo vocal with accompaniment", 
+    "works": [
+        {
+            "mbid": "44c72fcf-7477-4611-a8bf-b191651ae3a0", 
+            "title": "Ey Bu Bah\u00e7elerde Esen Eski \u015eark\u0131lar"
+        }
+    ]
+}

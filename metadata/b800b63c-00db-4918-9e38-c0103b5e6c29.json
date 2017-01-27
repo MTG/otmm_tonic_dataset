@@ -1,0 +1,70 @@
+{
+    "usul": [
+        {
+            "attribute_key": "aksak", 
+            "mb_attribute": "Aksak", 
+            "source": "http://musicbrainz.org/work/8dd2b1cb-79af-48f0-9574-28e063bcfea1"
+        }, 
+        {
+            "attribute_key": "aksak", 
+            "mb_tag": "aksak", 
+            "source": "http://musicbrainz.org/recording/b800b63c-00db-4918-9e38-c0103b5e6c29"
+        }
+    ], 
+    "form": [
+        {
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
+            "source": "http://musicbrainz.org/work/8dd2b1cb-79af-48f0-9574-28e063bcfea1"
+        }, 
+        {
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
+            "source": "http://musicbrainz.org/recording/b800b63c-00db-4918-9e38-c0103b5e6c29"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "d5466fa9-0ea2-411c-8f2b-a5034f96c80e", 
+            "title": "T\u00fcrk M\u00fczi\u011fi \u00dcstatlar\u0131 \u0130le Enstr\u00fcmantal Alt\u0131n \u015eark\u0131lar 2"
+        }
+    ], 
+    "title": "Y\u0131ld\u0131zl\u0131 Semalardaki Ha\u015fmet", 
+    "url": "http://musicbrainz.org/recording/b800b63c-00db-4918-9e38-c0103b5e6c29", 
+    "artist_credits": [
+        {
+            "mbid": "e3eb44b9-f298-4994-8083-797aaba3ea9c", 
+            "name": "Ergin K\u0131z\u0131lay"
+        }
+    ], 
+    "mbid": "b800b63c-00db-4918-9e38-c0103b5e6c29", 
+    "makam": [
+        {
+            "attribute_key": "kurdilihicazkar", 
+            "mb_attribute": "K\u00fcrdilihicazkar", 
+            "source": "http://musicbrainz.org/work/8dd2b1cb-79af-48f0-9574-28e063bcfea1"
+        }, 
+        {
+            "attribute_key": "kurdilihicazkar", 
+            "mb_tag": "k\u00fcrdilihicazkar", 
+            "source": "http://musicbrainz.org/recording/b800b63c-00db-4918-9e38-c0103b5e6c29"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "e3eb44b9-f298-4994-8083-797aaba3ea9c", 
+            "attribute-list": [
+                "oud"
+            ], 
+            "type": "instrument", 
+            "name": "Ergin K\u0131z\u0131lay"
+        }
+    ], 
+    "instrumentation_voicing": "Solo instrumental", 
+    "works": [
+        {
+            "mbid": "8dd2b1cb-79af-48f0-9574-28e063bcfea1", 
+            "title": "Y\u0131ld\u0131zl\u0131 Semalardaki Ha\u015fmet Ne G\u00fczel \u015eey"
+        }
+    ]
+}

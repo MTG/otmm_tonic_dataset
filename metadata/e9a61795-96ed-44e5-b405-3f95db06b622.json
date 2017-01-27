@@ -1,0 +1,67 @@
+{
+    "usul": [
+        {
+            "attribute_key": "senginsemai", 
+            "mb_attribute": "Senginsemai", 
+            "source": "http://musicbrainz.org/work/ff9c2e3f-26d1-40d5-90a4-b913be6d04d9"
+        }, 
+        {
+            "attribute_key": "senginsemai", 
+            "mb_tag": "senginsemai", 
+            "source": "http://musicbrainz.org/recording/e9a61795-96ed-44e5-b405-3f95db06b622"
+        }
+    ], 
+    "form": [
+        {
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
+            "source": "http://musicbrainz.org/work/ff9c2e3f-26d1-40d5-90a4-b913be6d04d9"
+        }, 
+        {
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
+            "source": "http://musicbrainz.org/recording/e9a61795-96ed-44e5-b405-3f95db06b622"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "c733dbde-e87a-4a26-a4c9-e08159f8afc0", 
+            "title": "Ge\u00e7mi\u015ften G\u00fcn\u00fcm\u00fcze T\u00fcrk M\u00fczi\u011fi A\u015fk ve H\u00fcz\u00fcn"
+        }
+    ], 
+    "title": "Ey Gonce A\u00e7\u0131l", 
+    "url": "http://musicbrainz.org/recording/e9a61795-96ed-44e5-b405-3f95db06b622", 
+    "artist_credits": [
+        {
+            "mbid": "d50737e5-05ab-48fa-91ac-a70cfcf01a20", 
+            "name": "Ahmet Celal Tokses"
+        }
+    ], 
+    "mbid": "e9a61795-96ed-44e5-b405-3f95db06b622", 
+    "makam": [
+        {
+            "attribute_key": "suzidil", 
+            "mb_attribute": "Suzidil", 
+            "source": "http://musicbrainz.org/work/ff9c2e3f-26d1-40d5-90a4-b913be6d04d9"
+        }, 
+        {
+            "attribute_key": "suzidil", 
+            "mb_tag": "suzidil", 
+            "source": "http://musicbrainz.org/recording/e9a61795-96ed-44e5-b405-3f95db06b622"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "d50737e5-05ab-48fa-91ac-a70cfcf01a20", 
+            "type": "vocal", 
+            "name": "Ahmet Celal Tokses"
+        }
+    ], 
+    "instrumentation_voicing": "Solo vocal without accompaniment", 
+    "works": [
+        {
+            "mbid": "ff9c2e3f-26d1-40d5-90a4-b913be6d04d9", 
+            "title": "Ey Gonca A\u00e7\u0131l Zevkini S\u00fcr Fasl-\u0131 Bahar\u0131n"
+        }
+    ]
+}

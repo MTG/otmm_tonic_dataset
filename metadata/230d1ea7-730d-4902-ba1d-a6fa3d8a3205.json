@@ -1,0 +1,78 @@
+{
+    "usul": [
+        {
+            "attribute_key": "aksak", 
+            "mb_attribute": "Aksak", 
+            "source": "http://musicbrainz.org/work/f8219131-cf9c-4a09-9ae5-14dfba2542c0"
+        }, 
+        {
+            "attribute_key": "aksak", 
+            "mb_tag": "aksak", 
+            "source": "http://musicbrainz.org/recording/230d1ea7-730d-4902-ba1d-a6fa3d8a3205"
+        }
+    ], 
+    "form": [
+        {
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
+            "source": "http://musicbrainz.org/work/f8219131-cf9c-4a09-9ae5-14dfba2542c0"
+        }, 
+        {
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
+            "source": "http://musicbrainz.org/recording/230d1ea7-730d-4902-ba1d-a6fa3d8a3205"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "a747d19d-83ce-41ec-bf53-b6010c43dd68", 
+            "title": "T\u00fcrk M\u00fczi\u011fi \u00dcstatlar\u0131 \u0130le Enstr\u00fcmantal Alt\u0131n \u015eark\u0131lar 1"
+        }
+    ], 
+    "title": "Bakm\u0131yor \u00c7e\u015fmi Siyah", 
+    "url": "http://musicbrainz.org/recording/230d1ea7-730d-4902-ba1d-a6fa3d8a3205", 
+    "artist_credits": [
+        {
+            "mbid": "e3eb44b9-f298-4994-8083-797aaba3ea9c", 
+            "name": "Ergin K\u0131z\u0131lay"
+        }
+    ], 
+    "mbid": "230d1ea7-730d-4902-ba1d-a6fa3d8a3205", 
+    "makam": [
+        {
+            "attribute_key": "nihavent", 
+            "mb_attribute": "Nihavent", 
+            "source": "http://musicbrainz.org/work/f8219131-cf9c-4a09-9ae5-14dfba2542c0"
+        }, 
+        {
+            "attribute_key": "nihavent", 
+            "mb_tag": "nihavent", 
+            "source": "http://musicbrainz.org/recording/230d1ea7-730d-4902-ba1d-a6fa3d8a3205"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
+            "attribute-list": [
+                "violin"
+            ], 
+            "type": "instrument", 
+            "name": "[unknown]"
+        }, 
+        {
+            "mbid": "e3eb44b9-f298-4994-8083-797aaba3ea9c", 
+            "attribute-list": [
+                "oud"
+            ], 
+            "type": "instrument", 
+            "name": "Ergin K\u0131z\u0131lay"
+        }
+    ], 
+    "instrumentation_voicing": "Duo instrumental", 
+    "works": [
+        {
+            "mbid": "f8219131-cf9c-4a09-9ae5-14dfba2542c0", 
+            "title": "Bakm\u0131yor \u00c7e\u015fmi Siyah"
+        }
+    ]
+}

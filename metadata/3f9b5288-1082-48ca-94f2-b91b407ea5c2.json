@@ -1,0 +1,71 @@
+{
+    "usul": [], 
+    "form": [
+        {
+            "attribute_key": "sazeseri", 
+            "mb_tag": "sazeseri", 
+            "source": "http://musicbrainz.org/recording/3f9b5288-1082-48ca-94f2-b91b407ea5c2"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "514b5fcb-e33e-4680-ae08-e41dfb196860", 
+            "title": "L'H\u00e9ritage Ottoman: The Ottoman Heritage"
+        }, 
+        {
+            "mbid": "6250214f-3da3-4896-b3e7-0e568e83a91d", 
+            "title": "L'H\u00e9ritage Ottoman"
+        }
+    ], 
+    "title": "Hayal", 
+    "url": "http://musicbrainz.org/recording/3f9b5288-1082-48ca-94f2-b91b407ea5c2", 
+    "artist_credits": [
+        {
+            "mbid": "0868a083-608c-41c5-89b0-bc5b9a616dbd", 
+            "name": "Kudsi Erguner Ensemble"
+        }
+    ], 
+    "mbid": "3f9b5288-1082-48ca-94f2-b91b407ea5c2", 
+    "makam": [], 
+    "artists": [
+        {
+            "mbid": "65e0df9a-64a6-450c-acae-009a8c725661", 
+            "attribute-list": [
+                "tanbur"
+            ], 
+            "type": "instrument", 
+            "name": "Necip G\u00fclses"
+        }, 
+        {
+            "mbid": "86299acc-2dd4-49d2-b20e-d1707c699d62", 
+            "attribute-list": [
+                "ney"
+            ], 
+            "type": "instrument", 
+            "name": "Kudsi Erguner"
+        }, 
+        {
+            "mbid": "9300ce7f-ba52-4dd9-84cd-5314c0077170", 
+            "attribute-list": [
+                "kanun"
+            ], 
+            "type": "instrument", 
+            "name": "Hakan G\u00fcng\u00f6r"
+        }, 
+        {
+            "mbid": "e504a080-2092-4855-9135-45914556ca70", 
+            "attribute-list": [
+                "percussion"
+            ], 
+            "type": "instrument", 
+            "name": "Vahit Anadolu"
+        }
+    ], 
+    "instrumentation_voicing": "Ensemble instrumental", 
+    "works": [
+        {
+            "mbid": "7d97260f-f3b0-4d63-b711-05b41cb6e9dd", 
+            "title": "Hayal"
+        }
+    ]
+}

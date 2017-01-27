@@ -1,0 +1,70 @@
+{
+    "usul": [
+        {
+            "attribute_key": "aksaksemai", 
+            "mb_attribute": "Aksaksemai", 
+            "source": "http://musicbrainz.org/work/ad9fb46e-eb95-4446-93ad-e3bf13c01a95"
+        }, 
+        {
+            "attribute_key": "aksaksemai", 
+            "mb_tag": "aksaksemai", 
+            "source": "http://musicbrainz.org/recording/0e71c8b4-e1e7-446c-a639-eb9b5a3ab8d9"
+        }
+    ], 
+    "form": [
+        {
+            "attribute_key": "sazsemaisi", 
+            "mb_attribute": "Sazsemaisi", 
+            "source": "http://musicbrainz.org/work/ad9fb46e-eb95-4446-93ad-e3bf13c01a95"
+        }, 
+        {
+            "attribute_key": "sazsemaisi", 
+            "mb_tag": "sazsemaisi", 
+            "source": "http://musicbrainz.org/recording/0e71c8b4-e1e7-446c-a639-eb9b5a3ab8d9"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "6777da65-efe1-4874-ba36-18fb56d506e9", 
+            "title": "Suzidil"
+        }
+    ], 
+    "title": "U\u015f\u015fak Sazsemaisi", 
+    "url": "http://musicbrainz.org/recording/0e71c8b4-e1e7-446c-a639-eb9b5a3ab8d9", 
+    "artist_credits": [
+        {
+            "mbid": "0a7cf3b7-97a1-4187-ac32-698a3ceb27a2", 
+            "name": "Necati \u00c7elik"
+        }
+    ], 
+    "mbid": "0e71c8b4-e1e7-446c-a639-eb9b5a3ab8d9", 
+    "makam": [
+        {
+            "attribute_key": "ussak", 
+            "mb_attribute": "U\u015f\u015fak", 
+            "source": "http://musicbrainz.org/work/ad9fb46e-eb95-4446-93ad-e3bf13c01a95"
+        }, 
+        {
+            "attribute_key": "ussak", 
+            "mb_tag": "u\u015f\u015fak", 
+            "source": "http://musicbrainz.org/recording/0e71c8b4-e1e7-446c-a639-eb9b5a3ab8d9"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "0a7cf3b7-97a1-4187-ac32-698a3ceb27a2", 
+            "attribute-list": [
+                "oud"
+            ], 
+            "type": "instrument", 
+            "name": "Necati \u00c7elik"
+        }
+    ], 
+    "instrumentation_voicing": "Solo instrumental", 
+    "works": [
+        {
+            "mbid": "ad9fb46e-eb95-4446-93ad-e3bf13c01a95", 
+            "title": "U\u015f\u015fak Sazsemaisi"
+        }
+    ]
+}

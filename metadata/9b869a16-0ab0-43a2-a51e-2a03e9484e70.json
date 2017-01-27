@@ -1,0 +1,86 @@
+{
+    "usul": [
+        {
+            "attribute_key": "aksaksemai", 
+            "mb_attribute": "Aksaksemai", 
+            "source": "http://musicbrainz.org/work/e7924b0d-c8a0-4b4a-b253-8eec898eac1e"
+        }, 
+        {
+            "attribute_key": "aksaksemai", 
+            "mb_tag": "aksaksemai", 
+            "source": "http://musicbrainz.org/recording/9b869a16-0ab0-43a2-a51e-2a03e9484e70"
+        }
+    ], 
+    "form": [
+        {
+            "attribute_key": "sazsemaisi", 
+            "mb_attribute": "Sazsemaisi", 
+            "source": "http://musicbrainz.org/work/e7924b0d-c8a0-4b4a-b253-8eec898eac1e"
+        }, 
+        {
+            "attribute_key": "sazsemaisi", 
+            "mb_tag": "sazsemaisi", 
+            "source": "http://musicbrainz.org/recording/9b869a16-0ab0-43a2-a51e-2a03e9484e70"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "906fbc02-b66f-4fd7-858a-55774846d184", 
+            "title": "\u00dcstad'lardan Saz Eserleri ve Taksimler, Volume II"
+        }
+    ], 
+    "title": "U\u015f\u015fak Saz Semaisi", 
+    "url": "http://musicbrainz.org/recording/9b869a16-0ab0-43a2-a51e-2a03e9484e70", 
+    "artist_credits": [
+        {
+            "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
+            "name": "[unknown]"
+        }
+    ], 
+    "mbid": "9b869a16-0ab0-43a2-a51e-2a03e9484e70", 
+    "makam": [
+        {
+            "attribute_key": "ussak", 
+            "mb_attribute": "U\u015f\u015fak", 
+            "source": "http://musicbrainz.org/work/e7924b0d-c8a0-4b4a-b253-8eec898eac1e"
+        }, 
+        {
+            "attribute_key": "ussak", 
+            "mb_tag": "u\u015f\u015fak", 
+            "source": "http://musicbrainz.org/recording/9b869a16-0ab0-43a2-a51e-2a03e9484e70"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "7a3adb1f-ebe6-4dbe-a0cc-c71f034d4091", 
+            "attribute-list": [
+                "ney"
+            ], 
+            "type": "instrument", 
+            "name": "Volkan Y\u0131lmaz"
+        }, 
+        {
+            "mbid": "8cf45553-41e7-4544-8070-45ff74f7fb18", 
+            "attribute-list": [
+                "classical kemen\u00e7e"
+            ], 
+            "type": "instrument", 
+            "name": "Ahmet Kadri Rizeli"
+        }, 
+        {
+            "mbid": "9b6e98f8-b695-45da-8c9c-68d4bab460fd", 
+            "attribute-list": [
+                "tanbur"
+            ], 
+            "type": "instrument", 
+            "name": "Murat Aydemir"
+        }
+    ], 
+    "instrumentation_voicing": "Trio instrumental", 
+    "works": [
+        {
+            "mbid": "e7924b0d-c8a0-4b4a-b253-8eec898eac1e", 
+            "title": "U\u015f\u015fak Saz Semaisi"
+        }
+    ]
+}

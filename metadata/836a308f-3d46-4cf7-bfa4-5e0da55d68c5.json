@@ -1,0 +1,72 @@
+{
+    "usul": [
+        {
+            "attribute_key": "aksaksemai", 
+            "mb_attribute": "Aksaksemai", 
+            "source": "http://musicbrainz.org/work/8509be65-254c-4340-b794-a41efc999069"
+        }, 
+        {
+            "attribute_key": "aksaksemai", 
+            "mb_tag": "aksaksemai", 
+            "source": "http://musicbrainz.org/recording/836a308f-3d46-4cf7-bfa4-5e0da55d68c5"
+        }
+    ], 
+    "form": [
+        {
+            "attribute_key": "agirsemai", 
+            "mb_attribute": "A\u011f\u0131rsemai", 
+            "source": "http://musicbrainz.org/work/8509be65-254c-4340-b794-a41efc999069"
+        }, 
+        {
+            "attribute_key": "agirsemai", 
+            "mb_tag": "a\u011f\u0131rsemai", 
+            "source": "http://musicbrainz.org/recording/836a308f-3d46-4cf7-bfa4-5e0da55d68c5"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "8024b6af-73d3-47ac-a20c-06d4114363f5", 
+            "title": "Bekir S\u0131dk\u0131 Sezgin 15"
+        }
+    ], 
+    "title": "Kimin Meftunu Oldun Ey Peri Ruyim Nihan S\u00f6yle", 
+    "url": "http://musicbrainz.org/recording/836a308f-3d46-4cf7-bfa4-5e0da55d68c5", 
+    "artist_credits": [
+        {
+            "mbid": "7ef61959-65f2-41ab-9ae2-ba890812b7b4", 
+            "name": "Bekir S\u0131dk\u0131 Sezgin"
+        }
+    ], 
+    "mbid": "836a308f-3d46-4cf7-bfa4-5e0da55d68c5", 
+    "makam": [
+        {
+            "attribute_key": "evcara", 
+            "mb_attribute": "Evcara", 
+            "source": "http://musicbrainz.org/work/8509be65-254c-4340-b794-a41efc999069"
+        }, 
+        {
+            "attribute_key": "evcara", 
+            "mb_tag": "evcara", 
+            "source": "http://musicbrainz.org/recording/836a308f-3d46-4cf7-bfa4-5e0da55d68c5"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
+            "type": "performing orchestra", 
+            "name": "[unknown]"
+        }, 
+        {
+            "mbid": "7ef61959-65f2-41ab-9ae2-ba890812b7b4", 
+            "type": "vocal", 
+            "name": "Bekir S\u0131dk\u0131 Sezgin"
+        }
+    ], 
+    "instrumentation_voicing": "Solo vocal with accompaniment", 
+    "works": [
+        {
+            "mbid": "8509be65-254c-4340-b794-a41efc999069", 
+            "title": "Kimin Meft\u00fbnu Oldun Ey Per\u00ee R\u00fbyim, Nih\u00e2n S\u00f6yle"
+        }
+    ]
+}

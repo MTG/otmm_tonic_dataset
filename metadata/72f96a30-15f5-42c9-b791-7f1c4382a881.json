@@ -1,0 +1,72 @@
+{
+    "usul": [
+        {
+            "attribute_key": "aksaksemai", 
+            "mb_attribute": "Aksaksemai", 
+            "source": "http://musicbrainz.org/work/0cb54a39-7e05-406b-8cee-33823c78a439"
+        }, 
+        {
+            "attribute_key": "aksaksemai", 
+            "mb_tag": "aksaksemai", 
+            "source": "http://musicbrainz.org/recording/72f96a30-15f5-42c9-b791-7f1c4382a881"
+        }
+    ], 
+    "form": [
+        {
+            "attribute_key": "agirsemai", 
+            "mb_attribute": "A\u011f\u0131rsemai", 
+            "source": "http://musicbrainz.org/work/0cb54a39-7e05-406b-8cee-33823c78a439"
+        }, 
+        {
+            "attribute_key": "agirsemai", 
+            "mb_tag": "a\u011f\u0131rsemai", 
+            "source": "http://musicbrainz.org/recording/72f96a30-15f5-42c9-b791-7f1c4382a881"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "ba3a521f-b406-4314-b6be-6075a9b0a507", 
+            "title": "Bekir S\u0131dk\u0131 Sezgin 23"
+        }
+    ], 
+    "title": "O M\u00fc\u015fkin Turralar Kim Ol B\u00fct-i Dil-Cude G\u00f6rd\u00fcm Ben", 
+    "url": "http://musicbrainz.org/recording/72f96a30-15f5-42c9-b791-7f1c4382a881", 
+    "artist_credits": [
+        {
+            "mbid": "7ef61959-65f2-41ab-9ae2-ba890812b7b4", 
+            "name": "Bekir S\u0131dk\u0131 Sezgin"
+        }
+    ], 
+    "mbid": "72f96a30-15f5-42c9-b791-7f1c4382a881", 
+    "makam": [
+        {
+            "attribute_key": "huseyniasiran", 
+            "mb_attribute": "H\u00fcseynia\u015firan", 
+            "source": "http://musicbrainz.org/work/0cb54a39-7e05-406b-8cee-33823c78a439"
+        }, 
+        {
+            "attribute_key": "huseyniasiran", 
+            "mb_tag": "h\u00fcseynia\u015firan", 
+            "source": "http://musicbrainz.org/recording/72f96a30-15f5-42c9-b791-7f1c4382a881"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
+            "type": "performing orchestra", 
+            "name": "[unknown]"
+        }, 
+        {
+            "mbid": "7ef61959-65f2-41ab-9ae2-ba890812b7b4", 
+            "type": "vocal", 
+            "name": "Bekir S\u0131dk\u0131 Sezgin"
+        }
+    ], 
+    "instrumentation_voicing": "Solo vocal with accompaniment", 
+    "works": [
+        {
+            "mbid": "0cb54a39-7e05-406b-8cee-33823c78a439", 
+            "title": "O M\u00fc\u015fkin Turralar"
+        }
+    ]
+}

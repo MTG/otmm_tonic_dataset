@@ -1,0 +1,83 @@
+{
+    "usul": [
+        {
+            "attribute_key": "sofyan", 
+            "mb_attribute": "Sofyan", 
+            "source": "http://musicbrainz.org/work/a385b575-94d1-4a0e-a51e-1f11e380c535"
+        }, 
+        {
+            "attribute_key": "sofyan", 
+            "mb_tag": "sofyan", 
+            "source": "http://musicbrainz.org/recording/4d31c637-9d6f-491c-bf29-dd952a1aa739"
+        }
+    ], 
+    "form": [
+        {
+            "attribute_key": "ilahi", 
+            "mb_attribute": "\u0130lahi", 
+            "source": "http://musicbrainz.org/work/a385b575-94d1-4a0e-a51e-1f11e380c535"
+        }, 
+        {
+            "attribute_key": "ilahi", 
+            "mb_tag": "ilahi", 
+            "source": "http://musicbrainz.org/recording/4d31c637-9d6f-491c-bf29-dd952a1aa739"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "3486f24f-48db-481e-9b65-3814bc215292", 
+            "title": "T\u00fcrk Dini Musikisi"
+        }
+    ], 
+    "title": "Hicaz \u0130lahi", 
+    "url": "http://musicbrainz.org/recording/4d31c637-9d6f-491c-bf29-dd952a1aa739", 
+    "artist_credits": [
+        {
+            "mbid": "7ef61959-65f2-41ab-9ae2-ba890812b7b4", 
+            "name": "Bekir S\u0131dk\u0131 Sezgin"
+        }
+    ], 
+    "mbid": "4d31c637-9d6f-491c-bf29-dd952a1aa739", 
+    "makam": [
+        {
+            "attribute_key": "hicaz", 
+            "mb_attribute": "Hicaz", 
+            "source": "http://musicbrainz.org/work/a385b575-94d1-4a0e-a51e-1f11e380c535"
+        }, 
+        {
+            "attribute_key": "hicaz", 
+            "mb_tag": "hicaz", 
+            "source": "http://musicbrainz.org/recording/4d31c637-9d6f-491c-bf29-dd952a1aa739"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
+            "type": "performing orchestra", 
+            "name": "[unknown]"
+        }, 
+        {
+            "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
+            "attribute-list": [
+                "choir vocals"
+            ], 
+            "type": "vocal", 
+            "name": "[unknown]"
+        }, 
+        {
+            "mbid": "7ef61959-65f2-41ab-9ae2-ba890812b7b4", 
+            "attribute-list": [
+                "solo"
+            ], 
+            "type": "vocal", 
+            "name": "Bekir S\u0131dk\u0131 Sezgin"
+        }
+    ], 
+    "instrumentation_voicing": "Duet", 
+    "works": [
+        {
+            "mbid": "a385b575-94d1-4a0e-a51e-1f11e380c535", 
+            "title": "\u0130sm-i S\u00fcbhan Virdin mi Var"
+        }
+    ]
+}

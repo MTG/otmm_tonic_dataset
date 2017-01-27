@@ -1,0 +1,77 @@
+{
+    "usul": [
+        {
+            "attribute_key": "agiraksak", 
+            "mb_attribute": "A\u011f\u0131raksak", 
+            "source": "http://musicbrainz.org/work/f6af3bc5-a502-4568-a7ac-999d5a43816b"
+        }, 
+        {
+            "attribute_key": "agiraksak", 
+            "mb_tag": "a\u011f\u0131raksak", 
+            "source": "http://musicbrainz.org/recording/08d352e4-40aa-4a5f-afc2-f76645ec18b6"
+        }
+    ], 
+    "form": [
+        {
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
+            "source": "http://musicbrainz.org/work/f6af3bc5-a502-4568-a7ac-999d5a43816b"
+        }, 
+        {
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
+            "source": "http://musicbrainz.org/recording/08d352e4-40aa-4a5f-afc2-f76645ec18b6"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "6a11e408-fd68-4161-8f72-d18493965464", 
+            "title": "Evcara 3"
+        }
+    ], 
+    "title": "B\u00fclb\u00fcl-asa Ruz-\u00fc \u015eeb Kar\u0131m Neva", 
+    "url": "http://musicbrainz.org/recording/08d352e4-40aa-4a5f-afc2-f76645ec18b6", 
+    "artist_credits": [
+        {
+            "mbid": "7ef61959-65f2-41ab-9ae2-ba890812b7b4", 
+            "name": "Bekir S\u0131dk\u0131 Sezgin"
+        }
+    ], 
+    "mbid": "08d352e4-40aa-4a5f-afc2-f76645ec18b6", 
+    "makam": [
+        {
+            "attribute_key": "evic", 
+            "mb_attribute": "Evi\u00e7", 
+            "source": "http://musicbrainz.org/work/f6af3bc5-a502-4568-a7ac-999d5a43816b"
+        }, 
+        {
+            "attribute_key": "evcara", 
+            "mb_tag": "evcara", 
+            "source": "http://musicbrainz.org/recording/08d352e4-40aa-4a5f-afc2-f76645ec18b6"
+        }, 
+        {
+            "attribute_key": "evic", 
+            "mb_tag": "evi\u00e7", 
+            "source": "http://musicbrainz.org/recording/08d352e4-40aa-4a5f-afc2-f76645ec18b6"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
+            "type": "performing orchestra", 
+            "name": "[unknown]"
+        }, 
+        {
+            "mbid": "7ef61959-65f2-41ab-9ae2-ba890812b7b4", 
+            "type": "vocal", 
+            "name": "Bekir S\u0131dk\u0131 Sezgin"
+        }
+    ], 
+    "instrumentation_voicing": "Solo vocal with accompaniment", 
+    "works": [
+        {
+            "mbid": "f6af3bc5-a502-4568-a7ac-999d5a43816b", 
+            "title": "B\u00fclb\u00fcl Asa Ruz u \u015eeb"
+        }
+    ]
+}

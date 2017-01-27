@@ -1,0 +1,72 @@
+{
+    "usul": [
+        {
+            "attribute_key": "aksaksemai", 
+            "mb_attribute": "Aksaksemai", 
+            "source": "http://musicbrainz.org/work/5c687772-8bf7-49cf-8999-e189703ae1b7"
+        }, 
+        {
+            "attribute_key": "aksaksemai", 
+            "mb_tag": "aksaksemai", 
+            "source": "http://musicbrainz.org/recording/66ab24e6-b7a6-48c1-8752-93e2c143ebd2"
+        }
+    ], 
+    "form": [
+        {
+            "attribute_key": "agirsemai", 
+            "mb_attribute": "A\u011f\u0131rsemai", 
+            "source": "http://musicbrainz.org/work/5c687772-8bf7-49cf-8999-e189703ae1b7"
+        }, 
+        {
+            "attribute_key": "agirsemai", 
+            "mb_tag": "a\u011f\u0131rsemai", 
+            "source": "http://musicbrainz.org/recording/66ab24e6-b7a6-48c1-8752-93e2c143ebd2"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "def8324c-f183-437e-b51e-76e3b2129707", 
+            "title": "Trt Ar\u015fiv Serisi 28 - Bekir S\u0131tk\u0131 Sezgin'den Se\u00e7meler"
+        }
+    ], 
+    "title": "Efendimsin Cihanda \u0130tibar\u0131m Varsa Sendendir", 
+    "url": "http://musicbrainz.org/recording/66ab24e6-b7a6-48c1-8752-93e2c143ebd2", 
+    "artist_credits": [
+        {
+            "mbid": "7ef61959-65f2-41ab-9ae2-ba890812b7b4", 
+            "name": "Bekir S\u0131dk\u0131 Sezgin"
+        }
+    ], 
+    "mbid": "66ab24e6-b7a6-48c1-8752-93e2c143ebd2", 
+    "makam": [
+        {
+            "attribute_key": "acem", 
+            "mb_attribute": "Acem", 
+            "source": "http://musicbrainz.org/work/5c687772-8bf7-49cf-8999-e189703ae1b7"
+        }, 
+        {
+            "attribute_key": "acem", 
+            "mb_tag": "acem", 
+            "source": "http://musicbrainz.org/recording/66ab24e6-b7a6-48c1-8752-93e2c143ebd2"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
+            "type": "performing orchestra", 
+            "name": "[unknown]"
+        }, 
+        {
+            "mbid": "7ef61959-65f2-41ab-9ae2-ba890812b7b4", 
+            "type": "vocal", 
+            "name": "Bekir S\u0131dk\u0131 Sezgin"
+        }
+    ], 
+    "instrumentation_voicing": "Solo vocal with accompaniment", 
+    "works": [
+        {
+            "mbid": "5c687772-8bf7-49cf-8999-e189703ae1b7", 
+            "title": "Efendimsin Cihanda"
+        }
+    ]
+}

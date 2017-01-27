@@ -1,0 +1,74 @@
+{
+    "usul": [
+        {
+            "attribute_key": "turkaksagi", 
+            "mb_attribute": "T\u00fcrkaksa\u011f\u0131", 
+            "source": "http://musicbrainz.org/work/06ed2bb0-5fea-4e48-9a33-2e1657e5f79a"
+        }, 
+        {
+            "attribute_key": "turkaksagi_ii", 
+            "mb_tag": "t\u00fcrkaksa\u011f\u0131", 
+            "source": "http://musicbrainz.org/recording/4e9ca7ac-ca25-4154-be79-a6e2d95577fb"
+        }
+    ], 
+    "form": [
+        {
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
+            "source": "http://musicbrainz.org/work/06ed2bb0-5fea-4e48-9a33-2e1657e5f79a"
+        }, 
+        {
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
+            "source": "http://musicbrainz.org/recording/4e9ca7ac-ca25-4154-be79-a6e2d95577fb"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "d5466fa9-0ea2-411c-8f2b-a5034f96c80e", 
+            "title": "T\u00fcrk M\u00fczi\u011fi \u00dcstatlar\u0131 \u0130le Enstr\u00fcmantal Alt\u0131n \u015eark\u0131lar 2"
+        }, 
+        {
+            "mbid": "f7eb7ae3-afc2-41c3-85ea-88abc5072a02", 
+            "title": "T\u00fcrk M\u00fczi\u011finde Ud \u0130le An\u0131lar"
+        }
+    ], 
+    "title": "Hicran Oku Sinem Deler", 
+    "url": "http://musicbrainz.org/recording/4e9ca7ac-ca25-4154-be79-a6e2d95577fb", 
+    "artist_credits": [
+        {
+            "mbid": "e3eb44b9-f298-4994-8083-797aaba3ea9c", 
+            "name": "Ergin K\u0131z\u0131lay"
+        }
+    ], 
+    "mbid": "4e9ca7ac-ca25-4154-be79-a6e2d95577fb", 
+    "makam": [
+        {
+            "attribute_key": "huseyni", 
+            "mb_attribute": "H\u00fcseyni", 
+            "source": "http://musicbrainz.org/work/06ed2bb0-5fea-4e48-9a33-2e1657e5f79a"
+        }, 
+        {
+            "attribute_key": "huseyni", 
+            "mb_tag": "h\u00fcseyni", 
+            "source": "http://musicbrainz.org/recording/4e9ca7ac-ca25-4154-be79-a6e2d95577fb"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "e3eb44b9-f298-4994-8083-797aaba3ea9c", 
+            "attribute-list": [
+                "oud"
+            ], 
+            "type": "instrument", 
+            "name": "Ergin K\u0131z\u0131lay"
+        }
+    ], 
+    "instrumentation_voicing": "Solo instrumental", 
+    "works": [
+        {
+            "mbid": "06ed2bb0-5fea-4e48-9a33-2e1657e5f79a", 
+            "title": "Hicran Oku Sinem Deler"
+        }
+    ]
+}

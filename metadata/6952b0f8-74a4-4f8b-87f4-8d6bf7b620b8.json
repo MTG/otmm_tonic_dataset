@@ -1,0 +1,72 @@
+{
+    "usul": [
+        {
+            "attribute_key": "aksak", 
+            "mb_attribute": "Aksak", 
+            "source": "http://musicbrainz.org/work/39774c1e-deb9-424c-98b7-761ae74cd0a9"
+        }, 
+        {
+            "attribute_key": "aksak", 
+            "mb_tag": "aksak", 
+            "source": "http://musicbrainz.org/recording/6952b0f8-74a4-4f8b-87f4-8d6bf7b620b8"
+        }
+    ], 
+    "form": [
+        {
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
+            "source": "http://musicbrainz.org/work/39774c1e-deb9-424c-98b7-761ae74cd0a9"
+        }, 
+        {
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
+            "source": "http://musicbrainz.org/recording/6952b0f8-74a4-4f8b-87f4-8d6bf7b620b8"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "ddd1a358-ce8a-4151-b888-fce9de078c97", 
+            "title": "Acemk\u00fcrdi 3"
+        }
+    ], 
+    "title": "Pek Muztaribim Ey G\u00fcl-i Ter Zahm-\u0131 Dilimden", 
+    "url": "http://musicbrainz.org/recording/6952b0f8-74a4-4f8b-87f4-8d6bf7b620b8", 
+    "artist_credits": [
+        {
+            "mbid": "7ef61959-65f2-41ab-9ae2-ba890812b7b4", 
+            "name": "Bekir S\u0131dk\u0131 Sezgin"
+        }
+    ], 
+    "mbid": "6952b0f8-74a4-4f8b-87f4-8d6bf7b620b8", 
+    "makam": [
+        {
+            "attribute_key": "acemkurdi", 
+            "mb_attribute": "Acemk\u00fcrdi", 
+            "source": "http://musicbrainz.org/work/39774c1e-deb9-424c-98b7-761ae74cd0a9"
+        }, 
+        {
+            "attribute_key": "acemkurdi", 
+            "mb_tag": "acemk\u00fcrdi", 
+            "source": "http://musicbrainz.org/recording/6952b0f8-74a4-4f8b-87f4-8d6bf7b620b8"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
+            "type": "performing orchestra", 
+            "name": "[unknown]"
+        }, 
+        {
+            "mbid": "7ef61959-65f2-41ab-9ae2-ba890812b7b4", 
+            "type": "vocal", 
+            "name": "Bekir S\u0131dk\u0131 Sezgin"
+        }
+    ], 
+    "instrumentation_voicing": "Solo vocal with accompaniment", 
+    "works": [
+        {
+            "mbid": "39774c1e-deb9-424c-98b7-761ae74cd0a9", 
+            "title": "Pek Muzdaribim Ey G\u00fcl-i Ter"
+        }
+    ]
+}

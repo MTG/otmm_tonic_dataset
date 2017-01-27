@@ -1,0 +1,126 @@
+{
+    "usul": [
+        {
+            "attribute_key": "semai", 
+            "mb_attribute": "Semai", 
+            "source": "http://musicbrainz.org/work/3d6b6fcd-d667-49a6-b9c0-120cedb85cec"
+        }, 
+        {
+            "attribute_key": "semai", 
+            "mb_tag": "semai", 
+            "source": "http://musicbrainz.org/recording/efd26cc9-ec3b-4e03-8b5a-08482dc6ef38"
+        }
+    ], 
+    "form": [
+        {
+            "attribute_key": "kanto", 
+            "mb_attribute": "Kanto", 
+            "source": "http://musicbrainz.org/work/3d6b6fcd-d667-49a6-b9c0-120cedb85cec"
+        }, 
+        {
+            "attribute_key": "kanto", 
+            "mb_tag": "kanto", 
+            "source": "http://musicbrainz.org/recording/efd26cc9-ec3b-4e03-8b5a-08482dc6ef38"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "5bdc8ef2-27b9-4dac-8bc6-3b5872883d88", 
+            "title": "Ermeni Bestekarlar -1- (Armenian Composers)"
+        }
+    ], 
+    "title": "A\u015f\u0131k Oldum Gonca G\u00fcle", 
+    "url": "http://musicbrainz.org/recording/efd26cc9-ec3b-4e03-8b5a-08482dc6ef38", 
+    "artist_credits": [
+        {
+            "mbid": "ebb16b0b-1ef2-41d8-b4b9-fe54e76122fe", 
+            "name": "\u015eehnaz U\u011furel"
+        }
+    ], 
+    "mbid": "efd26cc9-ec3b-4e03-8b5a-08482dc6ef38", 
+    "makam": [
+        {
+            "attribute_key": "rast", 
+            "mb_attribute": "Rast", 
+            "source": "http://musicbrainz.org/work/3d6b6fcd-d667-49a6-b9c0-120cedb85cec"
+        }, 
+        {
+            "attribute_key": "rast", 
+            "mb_tag": "rast", 
+            "source": "http://musicbrainz.org/recording/efd26cc9-ec3b-4e03-8b5a-08482dc6ef38"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "7a3adb1f-ebe6-4dbe-a0cc-c71f034d4091", 
+            "attribute-list": [
+                "ney"
+            ], 
+            "type": "instrument", 
+            "name": "Volkan Y\u0131lmaz"
+        }, 
+        {
+            "mbid": "8cf45553-41e7-4544-8070-45ff74f7fb18", 
+            "attribute-list": [
+                "classical kemen\u00e7e"
+            ], 
+            "type": "instrument", 
+            "name": "Ahmet Kadri Rizeli"
+        }, 
+        {
+            "mbid": "9b6e98f8-b695-45da-8c9c-68d4bab460fd", 
+            "attribute-list": [
+                "tanbur"
+            ], 
+            "type": "instrument", 
+            "name": "Murat Aydemir"
+        }, 
+        {
+            "mbid": "b5e2f977-cadd-458a-8171-cafdfe6a331c", 
+            "attribute-list": [
+                "percussion"
+            ], 
+            "type": "instrument", 
+            "name": "Fahrettin Yark\u0131n"
+        }, 
+        {
+            "mbid": "cfe6aea2-c362-4760-9ad1-b95db1605b6e", 
+            "attribute-list": [
+                "cello"
+            ], 
+            "type": "instrument", 
+            "name": "U\u011fur I\u015f\u0131k"
+        }, 
+        {
+            "mbid": "e504a080-2092-4855-9135-45914556ca70", 
+            "attribute-list": [
+                "bendir"
+            ], 
+            "type": "instrument", 
+            "name": "Vahit Anadolu"
+        }, 
+        {
+            "mbid": "ebb16b0b-1ef2-41d8-b4b9-fe54e76122fe", 
+            "attribute-list": [
+                "solo"
+            ], 
+            "type": "vocal", 
+            "name": "\u015eehnaz U\u011furel"
+        }, 
+        {
+            "mbid": "eec97a99-ab73-4707-84b5-d7a7e667cb11", 
+            "attribute-list": [
+                "kanun"
+            ], 
+            "type": "instrument", 
+            "name": "Safinaz Rizeli"
+        }
+    ], 
+    "instrumentation_voicing": "Solo vocal with accompaniment", 
+    "works": [
+        {
+            "mbid": "3d6b6fcd-d667-49a6-b9c0-120cedb85cec", 
+            "title": "A\u015f\u0131k Oldum Gonca G\u00fcle"
+        }
+    ]
+}

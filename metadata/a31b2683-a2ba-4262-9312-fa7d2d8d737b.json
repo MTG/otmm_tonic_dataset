@@ -1,0 +1,65 @@
+{
+    "usul": [
+        {
+            "attribute_key": "aksaksemai", 
+            "mb_attribute": "Aksaksemai", 
+            "source": "http://musicbrainz.org/work/128bbaa3-e7f2-417e-924e-0eac99880556"
+        }
+    ], 
+    "form": [
+        {
+            "attribute_key": "sazsemaisi", 
+            "mb_attribute": "Sazsemaisi", 
+            "source": "http://musicbrainz.org/work/128bbaa3-e7f2-417e-924e-0eac99880556"
+        }, 
+        {
+            "attribute_key": "sazsemaisi", 
+            "mb_tag": "sazsemaisi", 
+            "source": "http://musicbrainz.org/recording/a31b2683-a2ba-4262-9312-fa7d2d8d737b"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "93d37c26-9732-4558-afc9-b2e5d3f58cb0", 
+            "title": "Ney ile \u0130cra Edilmi\u015f Saz Eserleri"
+        }
+    ], 
+    "title": "Isfahan Saz Semai (K\u0131z Ney)", 
+    "url": "http://musicbrainz.org/recording/a31b2683-a2ba-4262-9312-fa7d2d8d737b", 
+    "artist_credits": [
+        {
+            "mbid": "3a57e3a4-4e48-4ce2-aae0-c5b5275721eb", 
+            "name": "Salih Bilgin"
+        }
+    ], 
+    "mbid": "a31b2683-a2ba-4262-9312-fa7d2d8d737b", 
+    "makam": [
+        {
+            "attribute_key": "isfahan", 
+            "mb_attribute": "Isfahan", 
+            "source": "http://musicbrainz.org/work/128bbaa3-e7f2-417e-924e-0eac99880556"
+        }, 
+        {
+            "attribute_key": "isfahan", 
+            "mb_tag": "\u0131sfahan", 
+            "source": "http://musicbrainz.org/recording/a31b2683-a2ba-4262-9312-fa7d2d8d737b"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "3a57e3a4-4e48-4ce2-aae0-c5b5275721eb", 
+            "attribute-list": [
+                "ney"
+            ], 
+            "type": "instrument", 
+            "name": "Salih Bilgin"
+        }
+    ], 
+    "instrumentation_voicing": "Solo instrumental", 
+    "works": [
+        {
+            "mbid": "128bbaa3-e7f2-417e-924e-0eac99880556", 
+            "title": "Isfahan Sazsemaisi"
+        }
+    ]
+}

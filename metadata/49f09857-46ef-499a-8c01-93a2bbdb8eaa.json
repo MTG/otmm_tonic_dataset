@@ -1,0 +1,72 @@
+{
+    "usul": [
+        {
+            "attribute_key": "yuruksemai_ii", 
+            "mb_attribute": "Y\u00fcr\u00fcksemai II", 
+            "source": "http://musicbrainz.org/work/4410aa47-097e-4226-9aba-14f157818635"
+        }, 
+        {
+            "attribute_key": "yuruksemai", 
+            "mb_tag": "y\u00fcr\u00fcksemai", 
+            "source": "http://musicbrainz.org/recording/49f09857-46ef-499a-8c01-93a2bbdb8eaa"
+        }
+    ], 
+    "form": [
+        {
+            "attribute_key": "nakis", 
+            "mb_attribute": "Nak\u0131\u015f", 
+            "source": "http://musicbrainz.org/work/4410aa47-097e-4226-9aba-14f157818635"
+        }, 
+        {
+            "attribute_key": "yuruksemai", 
+            "mb_tag": "y\u00fcr\u00fcksemai", 
+            "source": "http://musicbrainz.org/recording/49f09857-46ef-499a-8c01-93a2bbdb8eaa"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "189bbe93-186a-46b8-a6da-df8864e6dd4a", 
+            "title": "Bekir S\u0131dk\u0131 Sezgin 14"
+        }
+    ], 
+    "title": "Cana Firak-\u0131 A\u015fk\u0131n ile S\u00fcznakinim", 
+    "url": "http://musicbrainz.org/recording/49f09857-46ef-499a-8c01-93a2bbdb8eaa", 
+    "artist_credits": [
+        {
+            "mbid": "7ef61959-65f2-41ab-9ae2-ba890812b7b4", 
+            "name": "Bekir S\u0131dk\u0131 Sezgin"
+        }
+    ], 
+    "mbid": "49f09857-46ef-499a-8c01-93a2bbdb8eaa", 
+    "makam": [
+        {
+            "attribute_key": "suzinak_zirgule", 
+            "mb_attribute": "Suzinak Zirg\u00fcle", 
+            "source": "http://musicbrainz.org/work/4410aa47-097e-4226-9aba-14f157818635"
+        }, 
+        {
+            "attribute_key": "suzinak", 
+            "mb_tag": "suzinak", 
+            "source": "http://musicbrainz.org/recording/49f09857-46ef-499a-8c01-93a2bbdb8eaa"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
+            "type": "performing orchestra", 
+            "name": "[unknown]"
+        }, 
+        {
+            "mbid": "7ef61959-65f2-41ab-9ae2-ba890812b7b4", 
+            "type": "vocal", 
+            "name": "Bekir S\u0131dk\u0131 Sezgin"
+        }
+    ], 
+    "instrumentation_voicing": "Solo vocal with accompaniment", 
+    "works": [
+        {
+            "mbid": "4410aa47-097e-4226-9aba-14f157818635", 
+            "title": "Cana Firak-\u0131 A\u015fk\u0131n \u0130le"
+        }
+    ]
+}

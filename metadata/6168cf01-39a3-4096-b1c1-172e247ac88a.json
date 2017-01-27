@@ -1,0 +1,87 @@
+{
+    "usul": [
+        {
+            "attribute_key": "oynak", 
+            "mb_attribute": "Oynak", 
+            "source": "http://musicbrainz.org/work/39428bf1-d2c6-482a-a072-87f1571f7437"
+        }, 
+        {
+            "attribute_key": "serbest", 
+            "mb_tag": "serbest", 
+            "source": "http://musicbrainz.org/recording/6168cf01-39a3-4096-b1c1-172e247ac88a"
+        }
+    ], 
+    "form": [
+        {
+            "attribute_key": "kocekce", 
+            "mb_attribute": "K\u00f6\u00e7ek\u00e7e", 
+            "source": "http://musicbrainz.org/work/39428bf1-d2c6-482a-a072-87f1571f7437"
+        }, 
+        {
+            "attribute_key": "taksim", 
+            "mb_tag": "taksim", 
+            "source": "http://musicbrainz.org/recording/6168cf01-39a3-4096-b1c1-172e247ac88a"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "5a5f124a-766c-441c-bbf3-410a11b96c09", 
+            "title": "Ahenk 2"
+        }
+    ], 
+    "title": "M\u00fc\u015fterek H\u00fcseyn\u00ee'ye Ge\u00e7i\u015f Taksimi, Elem \u00c7ekme G\u00f6n\u00fcl B\u00f6yle Kal\u0131nmaz", 
+    "url": "http://musicbrainz.org/recording/6168cf01-39a3-4096-b1c1-172e247ac88a", 
+    "artist_credits": [
+        {
+            "mbid": "9b6e98f8-b695-45da-8c9c-68d4bab460fd", 
+            "name": "Murat Aydemir"
+        }, 
+        {
+            "mbid": "b80cd1ab-a00c-4f98-89c1-a798deb2d5c2", 
+            "name": "Derya T\u00fcrkan"
+        }
+    ], 
+    "mbid": "6168cf01-39a3-4096-b1c1-172e247ac88a", 
+    "makam": [
+        {
+            "attribute_key": "karcigar", 
+            "mb_attribute": "Karc\u0131\u011far", 
+            "source": "http://musicbrainz.org/work/39428bf1-d2c6-482a-a072-87f1571f7437"
+        }, 
+        {
+            "attribute_key": "arazbar", 
+            "mb_tag": "arazbar", 
+            "source": "http://musicbrainz.org/recording/6168cf01-39a3-4096-b1c1-172e247ac88a"
+        }, 
+        {
+            "attribute_key": "huseyni", 
+            "mb_tag": "h\u00fcseyni", 
+            "source": "http://musicbrainz.org/recording/6168cf01-39a3-4096-b1c1-172e247ac88a"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "9b6e98f8-b695-45da-8c9c-68d4bab460fd", 
+            "attribute-list": [
+                "tanbur"
+            ], 
+            "type": "instrument", 
+            "name": "Murat Aydemir"
+        }, 
+        {
+            "mbid": "b80cd1ab-a00c-4f98-89c1-a798deb2d5c2", 
+            "attribute-list": [
+                "classical kemen\u00e7e"
+            ], 
+            "type": "instrument", 
+            "name": "Derya T\u00fcrkan"
+        }
+    ], 
+    "instrumentation_voicing": "Duo instrumental", 
+    "works": [
+        {
+            "mbid": "39428bf1-d2c6-482a-a072-87f1571f7437", 
+            "title": "Elem \u00c7ekme G\u00f6n\u00fcl B\u00f6yle Kal\u0131nmaz"
+        }
+    ]
+}

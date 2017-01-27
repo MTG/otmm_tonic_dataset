@@ -1,0 +1,67 @@
+{
+    "usul": [
+        {
+            "attribute_key": "duyek", 
+            "mb_attribute": "D\u00fcyek", 
+            "source": "http://musicbrainz.org/work/a244aead-2a6d-4579-88f4-8f928a680363"
+        }, 
+        {
+            "attribute_key": "duyek", 
+            "mb_tag": "d\u00fcyek", 
+            "source": "http://musicbrainz.org/recording/9b11fc09-019b-4d00-9554-4fdab620848a"
+        }
+    ], 
+    "form": [
+        {
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
+            "source": "http://musicbrainz.org/work/a244aead-2a6d-4579-88f4-8f928a680363"
+        }, 
+        {
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
+            "source": "http://musicbrainz.org/recording/9b11fc09-019b-4d00-9554-4fdab620848a"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "659e23be-4186-4b89-b758-addf78c27b6a", 
+            "title": "Fasl-\u0131 \u015eahane Enstrumantal, Volume 4"
+        }
+    ], 
+    "title": "Beklerim Herg\u00fcn", 
+    "url": "http://musicbrainz.org/recording/9b11fc09-019b-4d00-9554-4fdab620848a", 
+    "artist_credits": [
+        {
+            "mbid": "ef074ab6-a2a8-42f7-a454-068265023697", 
+            "name": "Aziz T\u00fcrk Sanat M\u00fczi\u011fi Grubu"
+        }
+    ], 
+    "mbid": "9b11fc09-019b-4d00-9554-4fdab620848a", 
+    "makam": [
+        {
+            "attribute_key": "huzzam", 
+            "mb_attribute": "H\u00fczzam", 
+            "source": "http://musicbrainz.org/work/a244aead-2a6d-4579-88f4-8f928a680363"
+        }, 
+        {
+            "attribute_key": "huzzam", 
+            "mb_tag": "h\u00fczzam", 
+            "source": "http://musicbrainz.org/recording/9b11fc09-019b-4d00-9554-4fdab620848a"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "ef074ab6-a2a8-42f7-a454-068265023697", 
+            "type": "performing orchestra", 
+            "name": "Aziz T\u00fcrk Sanat M\u00fczi\u011fi Grubu"
+        }
+    ], 
+    "instrumentation_voicing": "Ensemble instrumental", 
+    "works": [
+        {
+            "mbid": "a244aead-2a6d-4579-88f4-8f928a680363", 
+            "title": "Beklerim Herg\u00fcn"
+        }
+    ]
+}

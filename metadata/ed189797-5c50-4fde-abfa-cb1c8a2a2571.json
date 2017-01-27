@@ -1,0 +1,125 @@
+{
+    "usul": [
+        {
+            "attribute_key": "aksaksemai", 
+            "mb_attribute": "Aksaksemai", 
+            "source": "http://musicbrainz.org/work/128bbaa3-e7f2-417e-924e-0eac99880556"
+        }, 
+        {
+            "attribute_key": "devrikebir", 
+            "mb_attribute": "Devr-i Kebir", 
+            "source": "http://musicbrainz.org/work/820b3011-67ba-4dbd-b249-2fd3008ac032"
+        }, 
+        {
+            "attribute_key": "serbest", 
+            "mb_tag": "serbest", 
+            "source": "http://musicbrainz.org/recording/ed189797-5c50-4fde-abfa-cb1c8a2a2571"
+        }
+    ], 
+    "form": [
+        {
+            "attribute_key": "sazsemaisi", 
+            "mb_attribute": "Sazsemaisi", 
+            "source": "http://musicbrainz.org/work/128bbaa3-e7f2-417e-924e-0eac99880556"
+        }, 
+        {
+            "attribute_key": "pesrev", 
+            "mb_attribute": "Pe\u015frev", 
+            "source": "http://musicbrainz.org/work/820b3011-67ba-4dbd-b249-2fd3008ac032"
+        }, 
+        {
+            "attribute_key": "pesrev", 
+            "mb_tag": "pe\u015frev", 
+            "source": "http://musicbrainz.org/recording/ed189797-5c50-4fde-abfa-cb1c8a2a2571"
+        }, 
+        {
+            "attribute_key": "taksim", 
+            "mb_tag": "taksim", 
+            "source": "http://musicbrainz.org/recording/ed189797-5c50-4fde-abfa-cb1c8a2a2571"
+        }, 
+        {
+            "attribute_key": "sazsemaisi", 
+            "mb_tag": "sazsemaisi", 
+            "source": "http://musicbrainz.org/recording/ed189797-5c50-4fde-abfa-cb1c8a2a2571"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "50eca73e-ab0b-4fd5-bba2-d8e888664e0b", 
+            "title": "Mesut Cemil"
+        }
+    ], 
+    "title": "Isfahan Pe\u015frev", 
+    "url": "http://musicbrainz.org/recording/ed189797-5c50-4fde-abfa-cb1c8a2a2571", 
+    "artist_credits": [
+        {
+            "mbid": "36e8968e-2b15-43a9-a79c-c70e0a6f5ed8", 
+            "name": "Mesut Cemil Bey"
+        }
+    ], 
+    "mbid": "ed189797-5c50-4fde-abfa-cb1c8a2a2571", 
+    "makam": [
+        {
+            "attribute_key": "isfahan", 
+            "mb_attribute": "Isfahan", 
+            "source": "http://musicbrainz.org/work/128bbaa3-e7f2-417e-924e-0eac99880556"
+        }, 
+        {
+            "attribute_key": "isfahan", 
+            "mb_attribute": "Isfahan", 
+            "source": "http://musicbrainz.org/work/820b3011-67ba-4dbd-b249-2fd3008ac032"
+        }, 
+        {
+            "attribute_key": "isfahan", 
+            "mb_tag": "\u0131sfahan", 
+            "source": "http://musicbrainz.org/recording/ed189797-5c50-4fde-abfa-cb1c8a2a2571"
+        }, 
+        {
+            "attribute_key": "isfahan", 
+            "mb_tag": "\u0131sfahan", 
+            "source": "http://musicbrainz.org/recording/ed189797-5c50-4fde-abfa-cb1c8a2a2571"
+        }, 
+        {
+            "attribute_key": "isfahan", 
+            "mb_tag": "\u0131sfahan", 
+            "source": "http://musicbrainz.org/recording/ed189797-5c50-4fde-abfa-cb1c8a2a2571"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "1eac0f26-1554-4ae5-8ceb-6ba4635d3738", 
+            "attribute-list": [
+                "viola"
+            ], 
+            "type": "instrument", 
+            "name": "Cevdet \u00c7a\u011fla"
+        }, 
+        {
+            "mbid": "36e8968e-2b15-43a9-a79c-c70e0a6f5ed8", 
+            "attribute-list": [
+                "cello"
+            ], 
+            "type": "instrument", 
+            "name": "Mesut Cemil Bey"
+        }, 
+        {
+            "mbid": "6a1f9f25-0255-4341-9485-e88a5ba08053", 
+            "attribute-list": [
+                "classical kemen\u00e7e"
+            ], 
+            "type": "instrument", 
+            "name": "Fahire Fersan"
+        }
+    ], 
+    "instrumentation_voicing": "Trio instrumental", 
+    "works": [
+        {
+            "mbid": "128bbaa3-e7f2-417e-924e-0eac99880556", 
+            "title": "Isfahan Sazsemaisi"
+        }, 
+        {
+            "mbid": "820b3011-67ba-4dbd-b249-2fd3008ac032", 
+            "title": "Isfahan Pe\u015frev"
+        }
+    ]
+}

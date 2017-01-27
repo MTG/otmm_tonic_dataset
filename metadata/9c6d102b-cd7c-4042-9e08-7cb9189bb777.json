@@ -1,0 +1,70 @@
+{
+    "usul": [
+        {
+            "attribute_key": "serbest", 
+            "mb_attribute": "Serbest", 
+            "source": "http://musicbrainz.org/work/cd6288ab-b34a-4ca9-9777-5d66399d1a26"
+        }, 
+        {
+            "attribute_key": "serbest", 
+            "mb_tag": "serbest", 
+            "source": "http://musicbrainz.org/recording/9c6d102b-cd7c-4042-9e08-7cb9189bb777"
+        }
+    ], 
+    "form": [
+        {
+            "attribute_key": "ezan", 
+            "mb_attribute": "Ezan", 
+            "source": "http://musicbrainz.org/work/cd6288ab-b34a-4ca9-9777-5d66399d1a26"
+        }, 
+        {
+            "attribute_key": "ezan", 
+            "mb_tag": "ezan", 
+            "source": "http://musicbrainz.org/recording/9c6d102b-cd7c-4042-9e08-7cb9189bb777"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "3486f24f-48db-481e-9b65-3814bc215292", 
+            "title": "T\u00fcrk Dini Musikisi"
+        }
+    ], 
+    "title": "Hicaz Mk. \u0130kindi Ezan\u0131", 
+    "url": "http://musicbrainz.org/recording/9c6d102b-cd7c-4042-9e08-7cb9189bb777", 
+    "artist_credits": [
+        {
+            "mbid": "7ef61959-65f2-41ab-9ae2-ba890812b7b4", 
+            "name": "Bekir S\u0131dk\u0131 Sezgin"
+        }
+    ], 
+    "mbid": "9c6d102b-cd7c-4042-9e08-7cb9189bb777", 
+    "makam": [
+        {
+            "attribute_key": "hicaz", 
+            "mb_attribute": "Hicaz", 
+            "source": "http://musicbrainz.org/work/cd6288ab-b34a-4ca9-9777-5d66399d1a26"
+        }, 
+        {
+            "attribute_key": "hicaz", 
+            "mb_tag": "hicaz", 
+            "source": "http://musicbrainz.org/recording/9c6d102b-cd7c-4042-9e08-7cb9189bb777"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "7ef61959-65f2-41ab-9ae2-ba890812b7b4", 
+            "attribute-list": [
+                "solo"
+            ], 
+            "type": "vocal", 
+            "name": "Bekir S\u0131dk\u0131 Sezgin"
+        }
+    ], 
+    "instrumentation_voicing": "Solo vocal without accompaniment", 
+    "works": [
+        {
+            "mbid": "cd6288ab-b34a-4ca9-9777-5d66399d1a26", 
+            "title": "Hicaz Ezan"
+        }
+    ]
+}

@@ -1,0 +1,67 @@
+{
+    "usul": [
+        {
+            "attribute_key": "evfer", 
+            "mb_tag": "evfer", 
+            "source": "http://musicbrainz.org/recording/8d98b43e-6fc7-4b51-a9f9-f90bd398a0a6"
+        }
+    ], 
+    "form": [
+        {
+            "attribute_key": "ayin_i_serif", 
+            "mb_attribute": "Ayin-i \u015eerif", 
+            "source": "http://musicbrainz.org/work/2612a010-8d83-4056-90c2-7aa6569603e7"
+        }, 
+        {
+            "attribute_key": "ayin_i_serif", 
+            "mb_tag": "ayin-i \u015ferif", 
+            "source": "http://musicbrainz.org/recording/8d98b43e-6fc7-4b51-a9f9-f90bd398a0a6"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "430058da-7be0-48ec-abac-9b88b87e293f", 
+            "title": "Mevlevi Sesler"
+        }
+    ], 
+    "title": "2. Selam", 
+    "url": "http://musicbrainz.org/recording/8d98b43e-6fc7-4b51-a9f9-f90bd398a0a6", 
+    "artist_credits": [
+        {
+            "mbid": "81081f45-a36e-4248-9d33-43d4a3445f6d", 
+            "name": "Dede Efendi"
+        }
+    ], 
+    "mbid": "8d98b43e-6fc7-4b51-a9f9-f90bd398a0a6", 
+    "makam": [
+        {
+            "attribute_key": "sababuselik", 
+            "mb_attribute": "Sababuselik", 
+            "source": "http://musicbrainz.org/work/2612a010-8d83-4056-90c2-7aa6569603e7"
+        }, 
+        {
+            "attribute_key": "sababuselik", 
+            "mb_tag": "sababuselik", 
+            "source": "http://musicbrainz.org/recording/8d98b43e-6fc7-4b51-a9f9-f90bd398a0a6"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "125d9569-09ea-463c-a7b2-87ca30b55be0", 
+            "type": "vocal", 
+            "name": "Mehmet Ak\u00e7a"
+        }, 
+        {
+            "mbid": "713ad8af-1c98-4569-a445-71f7b9395945", 
+            "type": "performing orchestra", 
+            "name": "Dede Efendi T\u00fcrk M\u00fczi\u011fi Toplulu\u011fu"
+        }
+    ], 
+    "instrumentation_voicing": "Solo vocal with accompaniment", 
+    "works": [
+        {
+            "mbid": "2612a010-8d83-4056-90c2-7aa6569603e7", 
+            "title": "Sababuselik Ayin-i \u015eerif"
+        }
+    ]
+}

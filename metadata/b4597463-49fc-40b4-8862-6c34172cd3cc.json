@@ -1,0 +1,72 @@
+{
+    "usul": [
+        {
+            "attribute_key": "agir_aksaksemai", 
+            "mb_attribute": "A\u011f\u0131r Aksaksemai", 
+            "source": "http://musicbrainz.org/work/a972a213-ee65-4182-8702-90b6e2083474"
+        }, 
+        {
+            "attribute_key": "agir_aksaksemai", 
+            "mb_tag": "a\u011f\u0131r aksaksemai", 
+            "source": "http://musicbrainz.org/recording/b4597463-49fc-40b4-8862-6c34172cd3cc"
+        }
+    ], 
+    "form": [
+        {
+            "attribute_key": "agirsemai", 
+            "mb_attribute": "A\u011f\u0131rsemai", 
+            "source": "http://musicbrainz.org/work/a972a213-ee65-4182-8702-90b6e2083474"
+        }, 
+        {
+            "attribute_key": "agirsemai", 
+            "mb_tag": "a\u011f\u0131rsemai", 
+            "source": "http://musicbrainz.org/recording/b4597463-49fc-40b4-8862-6c34172cd3cc"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "189bbe93-186a-46b8-a6da-df8864e6dd4a", 
+            "title": "Bekir S\u0131dk\u0131 Sezgin 14"
+        }
+    ], 
+    "title": "A G\u00f6n\u00fcl C\u00fcr'a m\u0131y\u0131z Ka'r-\u0131 Penah Eyleyelim", 
+    "url": "http://musicbrainz.org/recording/b4597463-49fc-40b4-8862-6c34172cd3cc", 
+    "artist_credits": [
+        {
+            "mbid": "7ef61959-65f2-41ab-9ae2-ba890812b7b4", 
+            "name": "Bekir S\u0131dk\u0131 Sezgin"
+        }
+    ], 
+    "mbid": "b4597463-49fc-40b4-8862-6c34172cd3cc", 
+    "makam": [
+        {
+            "attribute_key": "suzidilara", 
+            "mb_attribute": "Suzidilara", 
+            "source": "http://musicbrainz.org/work/a972a213-ee65-4182-8702-90b6e2083474"
+        }, 
+        {
+            "attribute_key": "suzidilara", 
+            "mb_tag": "suzidilara", 
+            "source": "http://musicbrainz.org/recording/b4597463-49fc-40b4-8862-6c34172cd3cc"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
+            "type": "performing orchestra", 
+            "name": "[unknown]"
+        }, 
+        {
+            "mbid": "7ef61959-65f2-41ab-9ae2-ba890812b7b4", 
+            "type": "vocal", 
+            "name": "Bekir S\u0131dk\u0131 Sezgin"
+        }
+    ], 
+    "instrumentation_voicing": "Solo vocal with accompaniment", 
+    "works": [
+        {
+            "mbid": "a972a213-ee65-4182-8702-90b6e2083474", 
+            "title": "A G\u00f6n\u00fcl Cur'am\u0131y\u0131z"
+        }
+    ]
+}

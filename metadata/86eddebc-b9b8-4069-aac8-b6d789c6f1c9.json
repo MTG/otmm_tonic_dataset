@@ -1,0 +1,154 @@
+{
+    "usul": [
+        {
+            "attribute_key": "aksaksemai", 
+            "mb_attribute": "Aksaksemai", 
+            "source": "http://musicbrainz.org/work/7956d9d2-a108-46d3-8ad2-eaa02d8c841e"
+        }, 
+        {
+            "attribute_key": "nimsofyan", 
+            "mb_attribute": "Nimsofyan", 
+            "source": "http://musicbrainz.org/work/8705e9de-bf2c-4590-8be3-f116131c8bb0"
+        }, 
+        {
+            "attribute_key": "muhammes", 
+            "mb_attribute": "Muhammes", 
+            "source": "http://musicbrainz.org/work/d689c032-ab60-4162-b872-b56cf3b24db6"
+        }, 
+        {
+            "attribute_key": null, 
+            "mb_tag": "taksim", 
+            "source": "http://musicbrainz.org/recording/86eddebc-b9b8-4069-aac8-b6d789c6f1c9"
+        }
+    ], 
+    "form": [
+        {
+            "attribute_key": "sazsemaisi", 
+            "mb_attribute": "Sazsemaisi", 
+            "source": "http://musicbrainz.org/work/7956d9d2-a108-46d3-8ad2-eaa02d8c841e"
+        }, 
+        {
+            "attribute_key": "sirto", 
+            "mb_attribute": "Sirto", 
+            "source": "http://musicbrainz.org/work/8705e9de-bf2c-4590-8be3-f116131c8bb0"
+        }, 
+        {
+            "attribute_key": "pesrev", 
+            "mb_attribute": "Pe\u015frev", 
+            "source": "http://musicbrainz.org/work/d689c032-ab60-4162-b872-b56cf3b24db6"
+        }, 
+        {
+            "attribute_key": "pesrev", 
+            "mb_tag": "pe\u015frev", 
+            "source": "http://musicbrainz.org/recording/86eddebc-b9b8-4069-aac8-b6d789c6f1c9"
+        }, 
+        {
+            "attribute_key": "taksim", 
+            "mb_tag": "taksim", 
+            "source": "http://musicbrainz.org/recording/86eddebc-b9b8-4069-aac8-b6d789c6f1c9"
+        }, 
+        {
+            "attribute_key": "sazsemaisi", 
+            "mb_tag": "sazsemaisi", 
+            "source": "http://musicbrainz.org/recording/86eddebc-b9b8-4069-aac8-b6d789c6f1c9"
+        }, 
+        {
+            "attribute_key": "sirto", 
+            "mb_tag": "sirto", 
+            "source": "http://musicbrainz.org/recording/86eddebc-b9b8-4069-aac8-b6d789c6f1c9"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "50eca73e-ab0b-4fd5-bba2-d8e888664e0b", 
+            "title": "Mesut Cemil"
+        }
+    ], 
+    "title": "K\u00fcrdilihicazkar Pe\u015frev", 
+    "url": "http://musicbrainz.org/recording/86eddebc-b9b8-4069-aac8-b6d789c6f1c9", 
+    "artist_credits": [
+        {
+            "mbid": "36e8968e-2b15-43a9-a79c-c70e0a6f5ed8", 
+            "name": "Mesut Cemil Bey"
+        }
+    ], 
+    "mbid": "86eddebc-b9b8-4069-aac8-b6d789c6f1c9", 
+    "makam": [
+        {
+            "attribute_key": "kurdilihicazkar", 
+            "mb_attribute": "K\u00fcrdilihicazkar", 
+            "source": "http://musicbrainz.org/work/7956d9d2-a108-46d3-8ad2-eaa02d8c841e"
+        }, 
+        {
+            "attribute_key": "hicazkar", 
+            "mb_attribute": "Hicazkar", 
+            "source": "http://musicbrainz.org/work/8705e9de-bf2c-4590-8be3-f116131c8bb0"
+        }, 
+        {
+            "attribute_key": "kurdilihicazkar", 
+            "mb_attribute": "K\u00fcrdilihicazkar", 
+            "source": "http://musicbrainz.org/work/d689c032-ab60-4162-b872-b56cf3b24db6"
+        }, 
+        {
+            "attribute_key": "kurdilihicazkar", 
+            "mb_tag": "k\u00fcrdilihicazkar", 
+            "source": "http://musicbrainz.org/recording/86eddebc-b9b8-4069-aac8-b6d789c6f1c9"
+        }, 
+        {
+            "attribute_key": "kurdilihicazkar", 
+            "mb_tag": "k\u00fcrdilihicazkar", 
+            "source": "http://musicbrainz.org/recording/86eddebc-b9b8-4069-aac8-b6d789c6f1c9"
+        }, 
+        {
+            "attribute_key": "kurdilihicazkar", 
+            "mb_tag": "k\u00fcrdilihicazkar", 
+            "source": "http://musicbrainz.org/recording/86eddebc-b9b8-4069-aac8-b6d789c6f1c9"
+        }, 
+        {
+            "attribute_key": "hicazkar", 
+            "mb_tag": "hicazkar", 
+            "source": "http://musicbrainz.org/recording/86eddebc-b9b8-4069-aac8-b6d789c6f1c9"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "36e8968e-2b15-43a9-a79c-c70e0a6f5ed8", 
+            "attribute-list": [
+                "lute"
+            ], 
+            "type": "instrument", 
+            "name": "Mesut Cemil Bey"
+        }, 
+        {
+            "mbid": "37ccb351-91d5-4569-88ff-407d0fd8bb87", 
+            "attribute-list": [
+                "classical kemen\u00e7e"
+            ], 
+            "type": "instrument", 
+            "name": "Mehmed Ru\u015fen Ferit Kam"
+        }, 
+        {
+            "mbid": "4abe7f3d-34ba-43a2-97f6-8ec00d54366e", 
+            "attribute-list": [
+                "kanun"
+            ], 
+            "type": "instrument", 
+            "name": "Vecihe Daryal"
+        }
+    ], 
+    "instrumentation_voicing": "Trio instrumental", 
+    "works": [
+        {
+            "mbid": "7956d9d2-a108-46d3-8ad2-eaa02d8c841e", 
+            "title": "K\u00fcrdilihicazkar Sazsemaisi"
+        }, 
+        {
+            "mbid": "8705e9de-bf2c-4590-8be3-f116131c8bb0", 
+            "title": "Hicazkar Sirto"
+        }, 
+        {
+            "mbid": "d689c032-ab60-4162-b872-b56cf3b24db6", 
+            "title": "K\u00fcrd\u00eelihicazk\u00e2r Pe\u015frevi"
+        }
+    ]
+}

@@ -1,0 +1,91 @@
+{
+    "usul": [
+        {
+            "attribute_key": "senginsemai", 
+            "mb_attribute": "Senginsemai", 
+            "source": "http://musicbrainz.org/work/9564e1a4-0463-4cc9-a28b-820a72e5dd50"
+        }, 
+        {
+            "attribute_key": "muhammes", 
+            "mb_attribute": "Muhammes", 
+            "source": "http://musicbrainz.org/work/db260504-980d-4a3b-8dff-90966c2989f6"
+        }, 
+        {
+            "attribute_key": "yuruksemai", 
+            "mb_tag": "y\u00fcr\u00fcksemai", 
+            "source": "http://musicbrainz.org/recording/10473d53-a780-4d67-8f3a-ee79829c6927"
+        }
+    ], 
+    "form": [
+        {
+            "attribute_key": "yuruksemai", 
+            "mb_attribute": "Y\u00fcr\u00fcksemai", 
+            "source": "http://musicbrainz.org/work/9564e1a4-0463-4cc9-a28b-820a72e5dd50"
+        }, 
+        {
+            "attribute_key": "pesrev", 
+            "mb_attribute": "Pe\u015frev", 
+            "source": "http://musicbrainz.org/work/db260504-980d-4a3b-8dff-90966c2989f6"
+        }, 
+        {
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
+            "source": "http://musicbrainz.org/recording/10473d53-a780-4d67-8f3a-ee79829c6927"
+        }, 
+        {
+            "attribute_key": "pesrev", 
+            "mb_tag": "pe\u015frev", 
+            "source": "http://musicbrainz.org/recording/10473d53-a780-4d67-8f3a-ee79829c6927"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "efe16c44-dde8-4200-a375-ad820db6d7cc", 
+            "title": "H\u00fcseyni \u015eark\u0131lar - 1"
+        }
+    ], 
+    "title": "H\u00fcseyni Pe\u015frevi / Ben Gibi Sana A\u015f\u0131k-\u0131 \u00dcftade Bulunmaz", 
+    "url": "http://musicbrainz.org/recording/10473d53-a780-4d67-8f3a-ee79829c6927", 
+    "artist_credits": [
+        {
+            "mbid": "b0bbd0fe-42f7-421c-82de-f4df6323984b", 
+            "name": "Meral U\u011furlu"
+        }
+    ], 
+    "mbid": "10473d53-a780-4d67-8f3a-ee79829c6927", 
+    "makam": [
+        {
+            "attribute_key": "huseyni", 
+            "mb_attribute": "H\u00fcseyni", 
+            "source": "http://musicbrainz.org/work/9564e1a4-0463-4cc9-a28b-820a72e5dd50"
+        }, 
+        {
+            "attribute_key": "huseyni", 
+            "mb_attribute": "H\u00fcseyni", 
+            "source": "http://musicbrainz.org/work/db260504-980d-4a3b-8dff-90966c2989f6"
+        }, 
+        {
+            "attribute_key": "huseyni", 
+            "mb_tag": "h\u00fcseyni", 
+            "source": "http://musicbrainz.org/recording/10473d53-a780-4d67-8f3a-ee79829c6927"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
+            "type": "performing orchestra", 
+            "name": "[unknown]"
+        }
+    ], 
+    "instrumentation_voicing": "Ensemble instrumental", 
+    "works": [
+        {
+            "mbid": "9564e1a4-0463-4cc9-a28b-820a72e5dd50", 
+            "title": "Ben Gibi Sana A\u015f\u0131k-\u0131 \u00dcftade Bulunmaz"
+        }, 
+        {
+            "mbid": "db260504-980d-4a3b-8dff-90966c2989f6", 
+            "title": "H\u00fcseyni Pe\u015frev"
+        }
+    ]
+}

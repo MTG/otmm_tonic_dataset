@@ -1,0 +1,114 @@
+{
+    "usul": [
+        {
+            "attribute_key": "devrikebir", 
+            "mb_attribute": "Devr-i Kebir", 
+            "source": "http://musicbrainz.org/work/97ffb9f6-7eca-4dc3-bc45-4d6c14e0fb2d"
+        }, 
+        {
+            "attribute_key": "devrikebir", 
+            "mb_tag": "devr-i kebir", 
+            "source": "http://musicbrainz.org/recording/dedd994f-3087-4857-b929-fccd574754e1"
+        }
+    ], 
+    "form": [
+        {
+            "attribute_key": "pesrev", 
+            "mb_attribute": "Pe\u015frev", 
+            "source": "http://musicbrainz.org/work/97ffb9f6-7eca-4dc3-bc45-4d6c14e0fb2d"
+        }, 
+        {
+            "attribute_key": "pesrev", 
+            "mb_tag": "pe\u015frev", 
+            "source": "http://musicbrainz.org/recording/dedd994f-3087-4857-b929-fccd574754e1"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "61079c71-4dd4-4e8e-92bd-bb0ceef862f1", 
+            "title": "Fasl- \u0131 \u015eark\u0131lar 4"
+        }, 
+        {
+            "mbid": "9874d15c-8f37-4985-be86-ef4fbf4e7743", 
+            "title": "Canl\u0131 Fas\u0131l 7 - Segah"
+        }
+    ], 
+    "title": "Pe\u015frev", 
+    "url": "http://musicbrainz.org/recording/dedd994f-3087-4857-b929-fccd574754e1", 
+    "artist_credits": [
+        {
+            "mbid": "ef074ab6-a2a8-42f7-a454-068265023697", 
+            "name": "Aziz T\u00fcrk Sanat M\u00fczi\u011fi Grubu"
+        }
+    ], 
+    "mbid": "dedd994f-3087-4857-b929-fccd574754e1", 
+    "makam": [
+        {
+            "attribute_key": "segah", 
+            "mb_attribute": "Segah", 
+            "source": "http://musicbrainz.org/work/97ffb9f6-7eca-4dc3-bc45-4d6c14e0fb2d"
+        }, 
+        {
+            "attribute_key": "segah", 
+            "mb_tag": "segah", 
+            "source": "http://musicbrainz.org/recording/dedd994f-3087-4857-b929-fccd574754e1"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "0520fcb2-3f11-45a9-a0bd-7f5845066e78", 
+            "attribute-list": [
+                "clarinet"
+            ], 
+            "type": "instrument", 
+            "name": "Turgay \u00d6z\u00fcfler"
+        }, 
+        {
+            "mbid": "30380155-5974-4cf5-aed9-60371470005d", 
+            "attribute-list": [
+                "oud"
+            ], 
+            "type": "instrument", 
+            "name": "Y\u0131ld\u0131ran G\u00fcz"
+        }, 
+        {
+            "mbid": "3411c847-4801-4a19-893c-521e5719cf44", 
+            "attribute-list": [
+                "clarinet"
+            ], 
+            "type": "instrument", 
+            "name": "\u015e\u00fckr\u00fc Kabac\u0131"
+        }, 
+        {
+            "mbid": "6f063869-ecd9-4ceb-9800-42e96ffbd4a7", 
+            "attribute-list": [
+                "kanun"
+            ], 
+            "type": "instrument", 
+            "name": "G\u00f6ksel Kartal"
+        }, 
+        {
+            "mbid": "761c091c-e5f3-4856-80f9-3a0c5a07bc25", 
+            "attribute-list": [
+                "violin"
+            ], 
+            "type": "instrument", 
+            "name": "\u00d6mer \u00d6cal"
+        }, 
+        {
+            "mbid": "d78b0d8d-d207-4ceb-993d-c270caa478f3", 
+            "attribute-list": [
+                "percussion"
+            ], 
+            "type": "instrument", 
+            "name": "Seyhun \u00c7elik"
+        }
+    ], 
+    "instrumentation_voicing": "Ensemble instrumental", 
+    "works": [
+        {
+            "mbid": "97ffb9f6-7eca-4dc3-bc45-4d6c14e0fb2d", 
+            "title": "Seg\u00e2h Pe\u015frev"
+        }
+    ]
+}

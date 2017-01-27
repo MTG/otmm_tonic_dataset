@@ -1,0 +1,50 @@
+{
+    "instrumentation_voicing": "Solo instrumental", 
+    "form": [
+        {
+            "attribute_key": "taksim", 
+            "mb_tag": "taksim", 
+            "source": "http://musicbrainz.org/recording/1f5a01cb-c433-4206-a46f-4b9c49a9914c"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "ea654a3e-6e4f-4c2c-a5d3-f8ecb7af2d3e", 
+            "title": "Musique Classique Ottomane - Makam"
+        }
+    ], 
+    "title": "Makam Sultan-\u0131-Irak / Ney Taksim", 
+    "url": "http://musicbrainz.org/recording/1f5a01cb-c433-4206-a46f-4b9c49a9914c", 
+    "artist_credits": [
+        {
+            "mbid": "215fd94e-6a6e-4ab3-98d8-7e81c873dd26", 
+            "name": "Aka G\u00fcnd\u00fcz Kutbay"
+        }
+    ], 
+    "mbid": "1f5a01cb-c433-4206-a46f-4b9c49a9914c", 
+    "makam": [
+        {
+            "attribute_key": "sultaniirak", 
+            "mb_tag": "sultan-\u0131-arak", 
+            "source": "http://musicbrainz.org/recording/1f5a01cb-c433-4206-a46f-4b9c49a9914c"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "215fd94e-6a6e-4ab3-98d8-7e81c873dd26", 
+            "attribute-list": [
+                "ney", 
+                "solo"
+            ], 
+            "type": "instrument", 
+            "name": "Aka G\u00fcnd\u00fcz Kutbay"
+        }
+    ], 
+    "usul": [
+        {
+            "attribute_key": "serbest", 
+            "mb_tag": "serbest", 
+            "source": "http://musicbrainz.org/recording/1f5a01cb-c433-4206-a46f-4b9c49a9914c"
+        }
+    ]
+}

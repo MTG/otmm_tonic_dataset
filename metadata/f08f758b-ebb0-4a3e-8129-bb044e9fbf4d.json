@@ -1,0 +1,70 @@
+{
+    "usul": [
+        {
+            "attribute_key": "aksaksemai", 
+            "mb_attribute": "Aksaksemai", 
+            "source": "http://musicbrainz.org/work/80a81c87-eb6e-40dc-b69a-e0712b4374f2"
+        }, 
+        {
+            "attribute_key": "duyek", 
+            "mb_tag": "d\u00fcyek", 
+            "source": "http://musicbrainz.org/recording/f08f758b-ebb0-4a3e-8129-bb044e9fbf4d"
+        }
+    ], 
+    "form": [
+        {
+            "attribute_key": "sazsemaisi", 
+            "mb_attribute": "Sazsemaisi", 
+            "source": "http://musicbrainz.org/work/80a81c87-eb6e-40dc-b69a-e0712b4374f2"
+        }, 
+        {
+            "attribute_key": "sazsemaisi", 
+            "mb_tag": "sazsemaisi", 
+            "source": "http://musicbrainz.org/recording/f08f758b-ebb0-4a3e-8129-bb044e9fbf4d"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "7bbf7973-95f1-4dc5-8ec4-76991bec87e9", 
+            "title": "T\u00fcrk M\u00fczi\u011fi Ustalar\u0131 - Kemen\u00e7e"
+        }
+    ], 
+    "title": "Ferahfeza Sazsemaisi", 
+    "url": "http://musicbrainz.org/recording/f08f758b-ebb0-4a3e-8129-bb044e9fbf4d", 
+    "artist_credits": [
+        {
+            "mbid": "2eb3e579-dae8-490f-9251-c604660f9f0c", 
+            "name": "Kemal Niyazi Seyhun"
+        }
+    ], 
+    "mbid": "f08f758b-ebb0-4a3e-8129-bb044e9fbf4d", 
+    "makam": [
+        {
+            "attribute_key": "ferahfeza", 
+            "mb_attribute": "Ferahfeza", 
+            "source": "http://musicbrainz.org/work/80a81c87-eb6e-40dc-b69a-e0712b4374f2"
+        }, 
+        {
+            "attribute_key": "ferahfeza", 
+            "mb_tag": "ferahfeza", 
+            "source": "http://musicbrainz.org/recording/f08f758b-ebb0-4a3e-8129-bb044e9fbf4d"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "2eb3e579-dae8-490f-9251-c604660f9f0c", 
+            "attribute-list": [
+                "classical kemen\u00e7e"
+            ], 
+            "type": "instrument", 
+            "name": "Kemal Niyazi Seyhun"
+        }
+    ], 
+    "instrumentation_voicing": "Solo instrumental", 
+    "works": [
+        {
+            "mbid": "80a81c87-eb6e-40dc-b69a-e0712b4374f2", 
+            "title": "Ferahfeza Sazsemaisi"
+        }
+    ]
+}

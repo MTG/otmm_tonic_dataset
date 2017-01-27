@@ -1,0 +1,67 @@
+{
+    "usul": [
+        {
+            "attribute_key": "sofyan", 
+            "mb_attribute": "Sofyan", 
+            "source": "http://musicbrainz.org/work/87d713ed-0a34-4324-a415-caf93cbee43f"
+        }, 
+        {
+            "attribute_key": "nimsofyan", 
+            "mb_tag": "nimsofyan", 
+            "source": "http://musicbrainz.org/recording/b5c7424e-700f-421f-8807-2197de511087"
+        }
+    ], 
+    "form": [
+        {
+            "attribute_key": "turku", 
+            "mb_attribute": "T\u00fcrk\u00fc", 
+            "source": "http://musicbrainz.org/work/87d713ed-0a34-4324-a415-caf93cbee43f"
+        }, 
+        {
+            "attribute_key": "turku", 
+            "mb_tag": "t\u00fcrk\u00fc", 
+            "source": "http://musicbrainz.org/recording/b5c7424e-700f-421f-8807-2197de511087"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "4469247f-6e65-4a35-8661-321c399dacb9", 
+            "title": "Fasl-\u0131 \u015eahane Enstrumantal, Volume 5"
+        }
+    ], 
+    "title": "Bir Dalda \u0130ki Kiraz", 
+    "url": "http://musicbrainz.org/recording/b5c7424e-700f-421f-8807-2197de511087", 
+    "artist_credits": [
+        {
+            "mbid": "ef074ab6-a2a8-42f7-a454-068265023697", 
+            "name": "Aziz T\u00fcrk Sanat M\u00fczi\u011fi Grubu"
+        }
+    ], 
+    "mbid": "b5c7424e-700f-421f-8807-2197de511087", 
+    "makam": [
+        {
+            "attribute_key": "saba", 
+            "mb_attribute": "Saba", 
+            "source": "http://musicbrainz.org/work/87d713ed-0a34-4324-a415-caf93cbee43f"
+        }, 
+        {
+            "attribute_key": "saba", 
+            "mb_tag": "saba", 
+            "source": "http://musicbrainz.org/recording/b5c7424e-700f-421f-8807-2197de511087"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "ef074ab6-a2a8-42f7-a454-068265023697", 
+            "type": "performing orchestra", 
+            "name": "Aziz T\u00fcrk Sanat M\u00fczi\u011fi Grubu"
+        }
+    ], 
+    "instrumentation_voicing": "Ensemble instrumental", 
+    "works": [
+        {
+            "mbid": "87d713ed-0a34-4324-a415-caf93cbee43f", 
+            "title": "Bir Dalda \u0130ki Kiraz"
+        }
+    ]
+}

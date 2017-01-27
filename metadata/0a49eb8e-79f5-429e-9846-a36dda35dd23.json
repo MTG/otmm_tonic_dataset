@@ -1,0 +1,45 @@
+{
+    "usul": [
+        {
+            "attribute_key": "serbest", 
+            "mb_tag": "serbest", 
+            "source": "http://musicbrainz.org/recording/0a49eb8e-79f5-429e-9846-a36dda35dd23"
+        }
+    ], 
+    "form": [], 
+    "releases": [
+        {
+            "mbid": "0c8d1e05-0265-4765-97d0-378b85491e87", 
+            "title": "Gazeller ve Naatlar"
+        }
+    ], 
+    "title": "Etmiyor Kalbim Tahamm\u00fcl Ate\u015f-i Hicran\u0131na", 
+    "url": "http://musicbrainz.org/recording/0a49eb8e-79f5-429e-9846-a36dda35dd23", 
+    "artist_credits": [
+        {
+            "mbid": "7ef61959-65f2-41ab-9ae2-ba890812b7b4", 
+            "name": "Bekir S\u0131dk\u0131 Sezgin"
+        }
+    ], 
+    "mbid": "0a49eb8e-79f5-429e-9846-a36dda35dd23", 
+    "makam": [], 
+    "artists": [
+        {
+            "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
+            "type": "performing orchestra", 
+            "name": "[unknown]"
+        }, 
+        {
+            "mbid": "7ef61959-65f2-41ab-9ae2-ba890812b7b4", 
+            "type": "vocal", 
+            "name": "Bekir S\u0131dk\u0131 Sezgin"
+        }
+    ], 
+    "instrumentation_voicing": "Solo vocal with accompaniment", 
+    "works": [
+        {
+            "mbid": "9f36ad2b-25ca-4aae-a5ef-9ad107295aaf", 
+            "title": "Etmiyor Kalbim Tahamm\u00fcl Ate\u015f-i Hicran\u0131na"
+        }
+    ]
+}

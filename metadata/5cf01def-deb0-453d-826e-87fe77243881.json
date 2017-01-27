@@ -1,0 +1,72 @@
+{
+    "usul": [
+        {
+            "attribute_key": "agiraksak", 
+            "mb_attribute": "A\u011f\u0131raksak", 
+            "source": "http://musicbrainz.org/work/e59db893-ec37-4bc4-91df-10180f22cfec"
+        }, 
+        {
+            "attribute_key": "agiraksak", 
+            "mb_tag": "a\u011f\u0131raksak", 
+            "source": "http://musicbrainz.org/recording/5cf01def-deb0-453d-826e-87fe77243881"
+        }
+    ], 
+    "form": [
+        {
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
+            "source": "http://musicbrainz.org/work/e59db893-ec37-4bc4-91df-10180f22cfec"
+        }, 
+        {
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
+            "source": "http://musicbrainz.org/recording/5cf01def-deb0-453d-826e-87fe77243881"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "ba3a521f-b406-4314-b6be-6075a9b0a507", 
+            "title": "Bekir S\u0131dk\u0131 Sezgin 23"
+        }
+    ], 
+    "title": "K\u00fcnc-i Gamda Ruz u \u015eeb Dil Bi-huzur", 
+    "url": "http://musicbrainz.org/recording/5cf01def-deb0-453d-826e-87fe77243881", 
+    "artist_credits": [
+        {
+            "mbid": "7ef61959-65f2-41ab-9ae2-ba890812b7b4", 
+            "name": "Bekir S\u0131dk\u0131 Sezgin"
+        }
+    ], 
+    "mbid": "5cf01def-deb0-453d-826e-87fe77243881", 
+    "makam": [
+        {
+            "attribute_key": "ferahnak", 
+            "mb_attribute": "Ferahnak", 
+            "source": "http://musicbrainz.org/work/e59db893-ec37-4bc4-91df-10180f22cfec"
+        }, 
+        {
+            "attribute_key": "ferahnak", 
+            "mb_tag": "ferahnak", 
+            "source": "http://musicbrainz.org/recording/5cf01def-deb0-453d-826e-87fe77243881"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
+            "type": "performing orchestra", 
+            "name": "[unknown]"
+        }, 
+        {
+            "mbid": "7ef61959-65f2-41ab-9ae2-ba890812b7b4", 
+            "type": "vocal", 
+            "name": "Bekir S\u0131dk\u0131 Sezgin"
+        }
+    ], 
+    "instrumentation_voicing": "Solo vocal with accompaniment", 
+    "works": [
+        {
+            "mbid": "e59db893-ec37-4bc4-91df-10180f22cfec", 
+            "title": "Kunc-i Gamda Ruz \u00fc"
+        }
+    ]
+}

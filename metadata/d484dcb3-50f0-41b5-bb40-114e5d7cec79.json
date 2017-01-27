@@ -1,0 +1,67 @@
+{
+    "usul": [
+        {
+            "attribute_key": "senginsemai", 
+            "mb_attribute": "Senginsemai", 
+            "source": "http://musicbrainz.org/work/39b2f807-dcac-4500-a0ae-8a5c9a253c0b"
+        }, 
+        {
+            "attribute_key": "senginsemai", 
+            "mb_tag": "senginsemai", 
+            "source": "http://musicbrainz.org/recording/d484dcb3-50f0-41b5-bb40-114e5d7cec79"
+        }
+    ], 
+    "form": [
+        {
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
+            "source": "http://musicbrainz.org/work/39b2f807-dcac-4500-a0ae-8a5c9a253c0b"
+        }, 
+        {
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
+            "source": "http://musicbrainz.org/recording/d484dcb3-50f0-41b5-bb40-114e5d7cec79"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "c733dbde-e87a-4a26-a4c9-e08159f8afc0", 
+            "title": "Ge\u00e7mi\u015ften G\u00fcn\u00fcm\u00fcze T\u00fcrk M\u00fczi\u011fi A\u015fk ve H\u00fcz\u00fcn"
+        }
+    ], 
+    "title": "Ta Ha\u015fre Kadar", 
+    "url": "http://musicbrainz.org/recording/d484dcb3-50f0-41b5-bb40-114e5d7cec79", 
+    "artist_credits": [
+        {
+            "mbid": "48c754f8-685d-4adf-a10b-f6c324a92380", 
+            "name": "Bimen \u015een"
+        }
+    ], 
+    "mbid": "d484dcb3-50f0-41b5-bb40-114e5d7cec79", 
+    "makam": [
+        {
+            "attribute_key": "kurdilihicazkar", 
+            "mb_attribute": "K\u00fcrdilihicazkar", 
+            "source": "http://musicbrainz.org/work/39b2f807-dcac-4500-a0ae-8a5c9a253c0b"
+        }, 
+        {
+            "attribute_key": "kurdilihicazkar", 
+            "mb_tag": "k\u00fcrdilihicazkar", 
+            "source": "http://musicbrainz.org/recording/d484dcb3-50f0-41b5-bb40-114e5d7cec79"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "48c754f8-685d-4adf-a10b-f6c324a92380", 
+            "type": "vocal", 
+            "name": "Bimen \u015een"
+        }
+    ], 
+    "instrumentation_voicing": "Solo vocal without accompaniment", 
+    "works": [
+        {
+            "mbid": "39b2f807-dcac-4500-a0ae-8a5c9a253c0b", 
+            "title": "Ta Ha\u015fre Kadar"
+        }
+    ]
+}

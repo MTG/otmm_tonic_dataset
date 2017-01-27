@@ -1,0 +1,49 @@
+{
+    "instrumentation_voicing": "Solo instrumental", 
+    "form": [
+        {
+            "attribute_key": "taksim", 
+            "mb_tag": "taksim", 
+            "source": "http://musicbrainz.org/recording/fd9c8cbc-22b5-4b26-bc83-e350c2bf4f47"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "def8324c-f183-437e-b51e-76e3b2129707", 
+            "title": "Trt Ar\u015fiv Serisi 28 - Bekir S\u0131tk\u0131 Sezgin'den Se\u00e7meler"
+        }
+    ], 
+    "title": "Kanun Taksimi", 
+    "url": "http://musicbrainz.org/recording/fd9c8cbc-22b5-4b26-bc83-e350c2bf4f47", 
+    "artist_credits": [
+        {
+            "mbid": "7ef61959-65f2-41ab-9ae2-ba890812b7b4", 
+            "name": "Bekir S\u0131dk\u0131 Sezgin"
+        }
+    ], 
+    "mbid": "fd9c8cbc-22b5-4b26-bc83-e350c2bf4f47", 
+    "makam": [
+        {
+            "attribute_key": "kurdilihicazkar", 
+            "mb_tag": "k\u00fcrdilihicazkar", 
+            "source": "http://musicbrainz.org/recording/fd9c8cbc-22b5-4b26-bc83-e350c2bf4f47"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "3e753aab-d842-481e-81ea-74918ab1fb04", 
+            "attribute-list": [
+                "kanun"
+            ], 
+            "type": "instrument", 
+            "name": "C\u00fcneyt Kosal"
+        }
+    ], 
+    "usul": [
+        {
+            "attribute_key": "serbest", 
+            "mb_tag": "serbest", 
+            "source": "http://musicbrainz.org/recording/fd9c8cbc-22b5-4b26-bc83-e350c2bf4f47"
+        }
+    ]
+}

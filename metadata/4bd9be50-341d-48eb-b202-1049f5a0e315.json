@@ -1,0 +1,72 @@
+{
+    "usul": [
+        {
+            "attribute_key": "turkaksagi", 
+            "mb_attribute": "T\u00fcrkaksa\u011f\u0131", 
+            "source": "http://musicbrainz.org/work/c058d3ac-973b-4b04-8367-38a630977148"
+        }, 
+        {
+            "attribute_key": "turkaksagi_ii", 
+            "mb_tag": "t\u00fcrkaksa\u011f\u0131", 
+            "source": "http://musicbrainz.org/recording/4bd9be50-341d-48eb-b202-1049f5a0e315"
+        }
+    ], 
+    "form": [
+        {
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
+            "source": "http://musicbrainz.org/work/c058d3ac-973b-4b04-8367-38a630977148"
+        }, 
+        {
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
+            "source": "http://musicbrainz.org/recording/4bd9be50-341d-48eb-b202-1049f5a0e315"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "859229ff-6bac-4bf0-8687-a7a820750c89", 
+            "title": "Bekir S\u0131dk\u0131 Sezgin 16"
+        }
+    ], 
+    "title": "Sevmi\u015fti G\u00f6nl\u00fcm Bir Nev Nihali", 
+    "url": "http://musicbrainz.org/recording/4bd9be50-341d-48eb-b202-1049f5a0e315", 
+    "artist_credits": [
+        {
+            "mbid": "7ef61959-65f2-41ab-9ae2-ba890812b7b4", 
+            "name": "Bekir S\u0131dk\u0131 Sezgin"
+        }
+    ], 
+    "mbid": "4bd9be50-341d-48eb-b202-1049f5a0e315", 
+    "makam": [
+        {
+            "attribute_key": "suzidil", 
+            "mb_attribute": "Suzidil", 
+            "source": "http://musicbrainz.org/work/c058d3ac-973b-4b04-8367-38a630977148"
+        }, 
+        {
+            "attribute_key": "suzidil", 
+            "mb_tag": "suzidil", 
+            "source": "http://musicbrainz.org/recording/4bd9be50-341d-48eb-b202-1049f5a0e315"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
+            "type": "performing orchestra", 
+            "name": "[unknown]"
+        }, 
+        {
+            "mbid": "7ef61959-65f2-41ab-9ae2-ba890812b7b4", 
+            "type": "vocal", 
+            "name": "Bekir S\u0131dk\u0131 Sezgin"
+        }
+    ], 
+    "instrumentation_voicing": "Solo vocal with accompaniment", 
+    "works": [
+        {
+            "mbid": "c058d3ac-973b-4b04-8367-38a630977148", 
+            "title": "Sevmi\u015fti G\u00f6nl\u00fcm Bir Nev-nihali"
+        }
+    ]
+}

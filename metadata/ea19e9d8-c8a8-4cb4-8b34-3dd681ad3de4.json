@@ -1,0 +1,101 @@
+{
+    "usul": [
+        {
+            "attribute_key": "duyek", 
+            "mb_attribute": "D\u00fcyek", 
+            "source": "http://musicbrainz.org/work/3601efbc-b05b-4f54-ba07-584a842de72e"
+        }, 
+        {
+            "attribute_key": "hafif", 
+            "mb_attribute": "Hafif", 
+            "source": "http://musicbrainz.org/work/c9c5f64a-69b6-4922-9114-5451c328ffc4"
+        }, 
+        {
+            "attribute_key": "hafif", 
+            "mb_tag": "hafif", 
+            "source": "http://musicbrainz.org/recording/ea19e9d8-c8a8-4cb4-8b34-3dd681ad3de4"
+        }, 
+        {
+            "attribute_key": "duyek", 
+            "mb_tag": "d\u00fcyek", 
+            "source": "http://musicbrainz.org/recording/ea19e9d8-c8a8-4cb4-8b34-3dd681ad3de4"
+        }
+    ], 
+    "form": [
+        {
+            "attribute_key": "pesrev", 
+            "mb_attribute": "Pe\u015frev", 
+            "source": "http://musicbrainz.org/work/3601efbc-b05b-4f54-ba07-584a842de72e"
+        }, 
+        {
+            "attribute_key": "kar", 
+            "mb_attribute": "Kar", 
+            "source": "http://musicbrainz.org/work/c9c5f64a-69b6-4922-9114-5451c328ffc4"
+        }, 
+        {
+            "attribute_key": "kar", 
+            "mb_tag": "kar", 
+            "source": "http://musicbrainz.org/recording/ea19e9d8-c8a8-4cb4-8b34-3dd681ad3de4"
+        }, 
+        {
+            "attribute_key": "pesrev", 
+            "mb_tag": "pe\u015frev", 
+            "source": "http://musicbrainz.org/recording/ea19e9d8-c8a8-4cb4-8b34-3dd681ad3de4"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "ffa2227b-8b8b-45d3-9d56-790fd59ab8d3", 
+            "title": "Mahur \u015eark\u0131lar - 1"
+        }
+    ], 
+    "title": "Mahur Pe\u015frevi / Mahur Kar", 
+    "url": "http://musicbrainz.org/recording/ea19e9d8-c8a8-4cb4-8b34-3dd681ad3de4", 
+    "artist_credits": [
+        {
+            "mbid": "b0bbd0fe-42f7-421c-82de-f4df6323984b", 
+            "name": "Meral U\u011furlu"
+        }
+    ], 
+    "mbid": "ea19e9d8-c8a8-4cb4-8b34-3dd681ad3de4", 
+    "makam": [
+        {
+            "attribute_key": "mahur", 
+            "mb_attribute": "Mahur", 
+            "source": "http://musicbrainz.org/work/3601efbc-b05b-4f54-ba07-584a842de72e"
+        }, 
+        {
+            "attribute_key": "mahur", 
+            "mb_attribute": "Mahur", 
+            "source": "http://musicbrainz.org/work/c9c5f64a-69b6-4922-9114-5451c328ffc4"
+        }, 
+        {
+            "attribute_key": "mahur", 
+            "mb_tag": "mahur", 
+            "source": "http://musicbrainz.org/recording/ea19e9d8-c8a8-4cb4-8b34-3dd681ad3de4"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
+            "type": "performing orchestra", 
+            "name": "[unknown]"
+        }, 
+        {
+            "mbid": "b0bbd0fe-42f7-421c-82de-f4df6323984b", 
+            "type": "vocal", 
+            "name": "Meral U\u011furlu"
+        }
+    ], 
+    "instrumentation_voicing": "Solo vocal with accompaniment", 
+    "works": [
+        {
+            "mbid": "3601efbc-b05b-4f54-ba07-584a842de72e", 
+            "title": "Mahur Pe\u015frevi"
+        }, 
+        {
+            "mbid": "c9c5f64a-69b6-4922-9114-5451c328ffc4", 
+            "title": "G\u00fcl Bi-ruh Yari Ho\u015f Ne Ba\u015fed"
+        }
+    ]
+}

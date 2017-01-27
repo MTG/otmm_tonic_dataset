@@ -1,0 +1,72 @@
+{
+    "usul": [
+        {
+            "attribute_key": "curcuna", 
+            "mb_attribute": "Curcuna", 
+            "source": "http://musicbrainz.org/work/cacb7eb8-9de1-461e-b940-a2ef7c18a814"
+        }, 
+        {
+            "attribute_key": "kapali_curcuna", 
+            "mb_tag": "curcuna", 
+            "source": "http://musicbrainz.org/recording/90948b2c-3e2b-42ee-afbc-387ba6725606"
+        }
+    ], 
+    "form": [
+        {
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
+            "source": "http://musicbrainz.org/work/cacb7eb8-9de1-461e-b940-a2ef7c18a814"
+        }, 
+        {
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
+            "source": "http://musicbrainz.org/recording/90948b2c-3e2b-42ee-afbc-387ba6725606"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "189bbe93-186a-46b8-a6da-df8864e6dd4a", 
+            "title": "Bekir S\u0131dk\u0131 Sezgin 14"
+        }
+    ], 
+    "title": "Benim Yarem Gibi Yare Bulunmaz", 
+    "url": "http://musicbrainz.org/recording/90948b2c-3e2b-42ee-afbc-387ba6725606", 
+    "artist_credits": [
+        {
+            "mbid": "7ef61959-65f2-41ab-9ae2-ba890812b7b4", 
+            "name": "Bekir S\u0131dk\u0131 Sezgin"
+        }
+    ], 
+    "mbid": "90948b2c-3e2b-42ee-afbc-387ba6725606", 
+    "makam": [
+        {
+            "attribute_key": "suzinak_zirgule", 
+            "mb_attribute": "Suzinak Zirg\u00fcle", 
+            "source": "http://musicbrainz.org/work/cacb7eb8-9de1-461e-b940-a2ef7c18a814"
+        }, 
+        {
+            "attribute_key": "suzinak", 
+            "mb_tag": "suzinak", 
+            "source": "http://musicbrainz.org/recording/90948b2c-3e2b-42ee-afbc-387ba6725606"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
+            "type": "performing orchestra", 
+            "name": "[unknown]"
+        }, 
+        {
+            "mbid": "7ef61959-65f2-41ab-9ae2-ba890812b7b4", 
+            "type": "vocal", 
+            "name": "Bekir S\u0131dk\u0131 Sezgin"
+        }
+    ], 
+    "instrumentation_voicing": "Solo vocal with accompaniment", 
+    "works": [
+        {
+            "mbid": "cacb7eb8-9de1-461e-b940-a2ef7c18a814", 
+            "title": "Benim Yarem Gibi Yare Bulunmaz"
+        }
+    ]
+}

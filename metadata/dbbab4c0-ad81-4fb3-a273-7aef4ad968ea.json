@@ -1,0 +1,67 @@
+{
+    "usul": [
+        {
+            "attribute_key": "aksak", 
+            "mb_attribute": "Aksak", 
+            "source": "http://musicbrainz.org/work/30cdf1c2-8dc3-4612-9513-a5d7f523a889"
+        }, 
+        {
+            "attribute_key": "aksak", 
+            "mb_tag": "aksak", 
+            "source": "http://musicbrainz.org/recording/dbbab4c0-ad81-4fb3-a273-7aef4ad968ea"
+        }
+    ], 
+    "form": [
+        {
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
+            "source": "http://musicbrainz.org/work/30cdf1c2-8dc3-4612-9513-a5d7f523a889"
+        }, 
+        {
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
+            "source": "http://musicbrainz.org/recording/dbbab4c0-ad81-4fb3-a273-7aef4ad968ea"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "088ca7fd-f53e-48ce-bbdb-1102d1d4133b", 
+            "title": "Fasl-\u0131 \u015eahane Enstrumantal, Volume 1"
+        }
+    ], 
+    "title": "Bu Ak\u015fam G\u00fcn Batarken Gel", 
+    "url": "http://musicbrainz.org/recording/dbbab4c0-ad81-4fb3-a273-7aef4ad968ea", 
+    "artist_credits": [
+        {
+            "mbid": "ef074ab6-a2a8-42f7-a454-068265023697", 
+            "name": "Aziz T\u00fcrk Sanat M\u00fczi\u011fi Grubu"
+        }
+    ], 
+    "mbid": "dbbab4c0-ad81-4fb3-a273-7aef4ad968ea", 
+    "makam": [
+        {
+            "attribute_key": "ussak", 
+            "mb_attribute": "U\u015f\u015fak", 
+            "source": "http://musicbrainz.org/work/30cdf1c2-8dc3-4612-9513-a5d7f523a889"
+        }, 
+        {
+            "attribute_key": "ussak", 
+            "mb_tag": "u\u015f\u015fak", 
+            "source": "http://musicbrainz.org/recording/dbbab4c0-ad81-4fb3-a273-7aef4ad968ea"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "ef074ab6-a2a8-42f7-a454-068265023697", 
+            "type": "performing orchestra", 
+            "name": "Aziz T\u00fcrk Sanat M\u00fczi\u011fi Grubu"
+        }
+    ], 
+    "instrumentation_voicing": "Ensemble instrumental", 
+    "works": [
+        {
+            "mbid": "30cdf1c2-8dc3-4612-9513-a5d7f523a889", 
+            "title": "Bu Ak\u015fam G\u00fcn Batarken Gel"
+        }
+    ]
+}

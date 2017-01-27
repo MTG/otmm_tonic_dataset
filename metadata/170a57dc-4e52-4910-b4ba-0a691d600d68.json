@@ -1,0 +1,74 @@
+{
+    "usul": [
+        {
+            "attribute_key": "aksaksemai", 
+            "mb_attribute": "Aksaksemai", 
+            "source": "http://musicbrainz.org/work/45ae0a7a-6abe-453c-9b09-984415379f91"
+        }, 
+        {
+            "attribute_key": "aksaksemai", 
+            "mb_tag": "aksaksemai", 
+            "source": "http://musicbrainz.org/recording/170a57dc-4e52-4910-b4ba-0a691d600d68"
+        }
+    ], 
+    "form": [
+        {
+            "attribute_key": "sazsemaisi", 
+            "mb_attribute": "Sazsemaisi", 
+            "source": "http://musicbrainz.org/work/45ae0a7a-6abe-453c-9b09-984415379f91"
+        }, 
+        {
+            "attribute_key": "sazsemaisi", 
+            "mb_tag": "sazsemaisi", 
+            "source": "http://musicbrainz.org/recording/170a57dc-4e52-4910-b4ba-0a691d600d68"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "9d63cb14-4233-48ea-a4c9-e3c60d880786", 
+            "title": "Tanbur"
+        }
+    ], 
+    "title": "Suzidilara Saz Semaisi (Tanburi Cemil'in)", 
+    "url": "http://musicbrainz.org/recording/170a57dc-4e52-4910-b4ba-0a691d600d68", 
+    "artist_credits": [
+        {
+            "mbid": "ef7f9168-eec5-4ecd-a142-132ef3355fc1", 
+            "name": "Erc\u00fcmend Batanay"
+        }, 
+        {
+            "mbid": "36e8968e-2b15-43a9-a79c-c70e0a6f5ed8", 
+            "name": "Mesut Cemil Bey"
+        }
+    ], 
+    "mbid": "170a57dc-4e52-4910-b4ba-0a691d600d68", 
+    "makam": [
+        {
+            "attribute_key": "suzidilara", 
+            "mb_attribute": "Suzidilara", 
+            "source": "http://musicbrainz.org/work/45ae0a7a-6abe-453c-9b09-984415379f91"
+        }, 
+        {
+            "attribute_key": "suzidilara", 
+            "mb_tag": "suzidilara", 
+            "source": "http://musicbrainz.org/recording/170a57dc-4e52-4910-b4ba-0a691d600d68"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "ef7f9168-eec5-4ecd-a142-132ef3355fc1", 
+            "attribute-list": [
+                "tanbur"
+            ], 
+            "type": "instrument", 
+            "name": "Erc\u00fcmend Batanay"
+        }
+    ], 
+    "instrumentation_voicing": "Solo instrumental", 
+    "works": [
+        {
+            "mbid": "45ae0a7a-6abe-453c-9b09-984415379f91", 
+            "title": "S\u00fbzidil\u00e2r\u00e2 Saz Semaisi"
+        }
+    ]
+}

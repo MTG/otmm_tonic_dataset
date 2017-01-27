@@ -1,0 +1,67 @@
+{
+    "usul": [
+        {
+            "attribute_key": "duyek", 
+            "mb_attribute": "D\u00fcyek", 
+            "source": "http://musicbrainz.org/work/ffd3f79e-de57-4947-be0c-2ad6bebc92aa"
+        }, 
+        {
+            "attribute_key": "duyek", 
+            "mb_tag": "d\u00fcyek", 
+            "source": "http://musicbrainz.org/recording/6274fc1d-cabd-4599-9423-1a15933605cd"
+        }
+    ], 
+    "form": [
+        {
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
+            "source": "http://musicbrainz.org/work/ffd3f79e-de57-4947-be0c-2ad6bebc92aa"
+        }, 
+        {
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
+            "source": "http://musicbrainz.org/recording/6274fc1d-cabd-4599-9423-1a15933605cd"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "5af543f0-7287-4ced-92a3-f8f92f52e836", 
+            "title": "Ferit Sidal - S\u00f6zl\u00fc Eserlerden \u00d6rnekler - Enstrumantal Eserlerden \u00d6rnekler"
+        }
+    ], 
+    "title": "Yoklu\u011fun Her Dakika \u00d6l\u00fcm Demek", 
+    "url": "http://musicbrainz.org/recording/6274fc1d-cabd-4599-9423-1a15933605cd", 
+    "artist_credits": [
+        {
+            "mbid": "8040350c-a9cf-42f2-87ab-f16cefe63313", 
+            "name": "Ne\u015f'e \u00d6zta\u015f"
+        }
+    ], 
+    "mbid": "6274fc1d-cabd-4599-9423-1a15933605cd", 
+    "makam": [
+        {
+            "attribute_key": "huzzam", 
+            "mb_attribute": "H\u00fczzam", 
+            "source": "http://musicbrainz.org/work/ffd3f79e-de57-4947-be0c-2ad6bebc92aa"
+        }, 
+        {
+            "attribute_key": "huzzam", 
+            "mb_tag": "h\u00fczzam", 
+            "source": "http://musicbrainz.org/recording/6274fc1d-cabd-4599-9423-1a15933605cd"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "8040350c-a9cf-42f2-87ab-f16cefe63313", 
+            "type": "vocal", 
+            "name": "Ne\u015f'e \u00d6zta\u015f"
+        }
+    ], 
+    "instrumentation_voicing": "Solo vocal without accompaniment", 
+    "works": [
+        {
+            "mbid": "ffd3f79e-de57-4947-be0c-2ad6bebc92aa", 
+            "title": "Yoklu\u011fun Her Dakika \u00d6l\u00fcm Demek"
+        }
+    ]
+}

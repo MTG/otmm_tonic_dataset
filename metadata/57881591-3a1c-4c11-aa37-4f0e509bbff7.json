@@ -1,0 +1,65 @@
+{
+    "usul": [
+        {
+            "attribute_key": "aksaksemai", 
+            "mb_attribute": "Aksaksemai", 
+            "source": "http://musicbrainz.org/work/7d338307-ca89-4b5c-b93e-c797d0a4bf8d"
+        }
+    ], 
+    "form": [
+        {
+            "attribute_key": "sazsemaisi", 
+            "mb_attribute": "Sazsemaisi", 
+            "source": "http://musicbrainz.org/work/7d338307-ca89-4b5c-b93e-c797d0a4bf8d"
+        }, 
+        {
+            "attribute_key": "sazsemaisi", 
+            "mb_tag": "sazsemaisi", 
+            "source": "http://musicbrainz.org/recording/57881591-3a1c-4c11-aa37-4f0e509bbff7"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "93d37c26-9732-4558-afc9-b2e5d3f58cb0", 
+            "title": "Ney ile \u0130cra Edilmi\u015f Saz Eserleri"
+        }
+    ], 
+    "title": "\u015eevk-Efza Saz Semai (K\u0131z Ney)", 
+    "url": "http://musicbrainz.org/recording/57881591-3a1c-4c11-aa37-4f0e509bbff7", 
+    "artist_credits": [
+        {
+            "mbid": "7b760a7e-0233-41d4-9741-1ac37cba5d37", 
+            "name": "Sadrettin \u00d6z\u00e7imi"
+        }
+    ], 
+    "mbid": "57881591-3a1c-4c11-aa37-4f0e509bbff7", 
+    "makam": [
+        {
+            "attribute_key": "sevkefza", 
+            "mb_attribute": "\u015eevkefza", 
+            "source": "http://musicbrainz.org/work/7d338307-ca89-4b5c-b93e-c797d0a4bf8d"
+        }, 
+        {
+            "attribute_key": "sevkefza", 
+            "mb_tag": "\u015fevk'efza", 
+            "source": "http://musicbrainz.org/recording/57881591-3a1c-4c11-aa37-4f0e509bbff7"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "7b760a7e-0233-41d4-9741-1ac37cba5d37", 
+            "attribute-list": [
+                "ney"
+            ], 
+            "type": "instrument", 
+            "name": "Sadrettin \u00d6z\u00e7imi"
+        }
+    ], 
+    "instrumentation_voicing": "Solo instrumental", 
+    "works": [
+        {
+            "mbid": "7d338307-ca89-4b5c-b93e-c797d0a4bf8d", 
+            "title": "\u015eevkefza Sazsemaisi"
+        }
+    ]
+}

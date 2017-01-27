@@ -1,0 +1,70 @@
+{
+    "usul": [
+        {
+            "attribute_key": "aksaksemai", 
+            "mb_attribute": "Aksaksemai", 
+            "source": "http://musicbrainz.org/work/a094df54-addb-4d43-a06f-fcae06df9132"
+        }, 
+        {
+            "attribute_key": "aksaksemai", 
+            "mb_tag": "aksaksemai", 
+            "source": "http://musicbrainz.org/recording/3ee9b4c6-a411-4e63-956f-531bf6a6f40f"
+        }
+    ], 
+    "form": [
+        {
+            "attribute_key": "sazsemaisi", 
+            "mb_attribute": "Sazsemaisi", 
+            "source": "http://musicbrainz.org/work/a094df54-addb-4d43-a06f-fcae06df9132"
+        }, 
+        {
+            "attribute_key": "sazsemaisi", 
+            "mb_tag": "sazsemaisi", 
+            "source": "http://musicbrainz.org/recording/3ee9b4c6-a411-4e63-956f-531bf6a6f40f"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "abb360bb-6fe2-46f5-a301-fbea5795762b", 
+            "title": "Sufi Breaths - \u015eah-\u0131 Devran"
+        }
+    ], 
+    "title": "Evcara Sazsemaisi", 
+    "url": "http://musicbrainz.org/recording/3ee9b4c6-a411-4e63-956f-531bf6a6f40f", 
+    "artist_credits": [
+        {
+            "mbid": "5121835d-84fb-44c6-8eed-8a8da4c444ba", 
+            "name": "Ahmet \u015eahin"
+        }
+    ], 
+    "mbid": "3ee9b4c6-a411-4e63-956f-531bf6a6f40f", 
+    "makam": [
+        {
+            "attribute_key": "evcara", 
+            "mb_attribute": "Evcara", 
+            "source": "http://musicbrainz.org/work/a094df54-addb-4d43-a06f-fcae06df9132"
+        }, 
+        {
+            "attribute_key": "evcara", 
+            "mb_tag": "evcara", 
+            "source": "http://musicbrainz.org/recording/3ee9b4c6-a411-4e63-956f-531bf6a6f40f"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "5121835d-84fb-44c6-8eed-8a8da4c444ba", 
+            "attribute-list": [
+                "ney"
+            ], 
+            "type": "instrument", 
+            "name": "Ahmet \u015eahin"
+        }
+    ], 
+    "instrumentation_voicing": "Solo instrumental", 
+    "works": [
+        {
+            "mbid": "a094df54-addb-4d43-a06f-fcae06df9132", 
+            "title": "Evcara Sazsemaisi"
+        }
+    ]
+}

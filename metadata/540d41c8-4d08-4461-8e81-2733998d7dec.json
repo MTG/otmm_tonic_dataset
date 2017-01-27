@@ -1,0 +1,70 @@
+{
+    "usul": [
+        {
+            "attribute_key": "muhammes", 
+            "mb_attribute": "Muhammes", 
+            "source": "http://musicbrainz.org/work/6f2b316f-f951-4453-9233-2b62e16fcd05"
+        }, 
+        {
+            "attribute_key": "muhammes", 
+            "mb_tag": "muhammes", 
+            "source": "http://musicbrainz.org/recording/540d41c8-4d08-4461-8e81-2733998d7dec"
+        }
+    ], 
+    "form": [
+        {
+            "attribute_key": "pesrev", 
+            "mb_attribute": "Pe\u015frev", 
+            "source": "http://musicbrainz.org/work/6f2b316f-f951-4453-9233-2b62e16fcd05"
+        }, 
+        {
+            "attribute_key": "pesrev", 
+            "mb_tag": "pe\u015frev", 
+            "source": "http://musicbrainz.org/recording/540d41c8-4d08-4461-8e81-2733998d7dec"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "6777da65-efe1-4874-ba36-18fb56d506e9", 
+            "title": "Suzidil"
+        }
+    ], 
+    "title": "Ferahfeza Pe\u015frev", 
+    "url": "http://musicbrainz.org/recording/540d41c8-4d08-4461-8e81-2733998d7dec", 
+    "artist_credits": [
+        {
+            "mbid": "0a7cf3b7-97a1-4187-ac32-698a3ceb27a2", 
+            "name": "Necati \u00c7elik"
+        }
+    ], 
+    "mbid": "540d41c8-4d08-4461-8e81-2733998d7dec", 
+    "makam": [
+        {
+            "attribute_key": "ferahfeza", 
+            "mb_attribute": "Ferahfeza", 
+            "source": "http://musicbrainz.org/work/6f2b316f-f951-4453-9233-2b62e16fcd05"
+        }, 
+        {
+            "attribute_key": "ferahfeza", 
+            "mb_tag": "ferahfeza", 
+            "source": "http://musicbrainz.org/recording/540d41c8-4d08-4461-8e81-2733998d7dec"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "0a7cf3b7-97a1-4187-ac32-698a3ceb27a2", 
+            "attribute-list": [
+                "oud"
+            ], 
+            "type": "instrument", 
+            "name": "Necati \u00c7elik"
+        }
+    ], 
+    "instrumentation_voicing": "Solo instrumental", 
+    "works": [
+        {
+            "mbid": "6f2b316f-f951-4453-9233-2b62e16fcd05", 
+            "title": "Ferahfeza Pe\u015frev"
+        }
+    ]
+}

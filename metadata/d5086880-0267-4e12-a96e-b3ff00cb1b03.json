@@ -1,0 +1,49 @@
+{
+    "instrumentation_voicing": "Solo instrumental", 
+    "form": [
+        {
+            "attribute_key": "taksim", 
+            "mb_tag": "taksim", 
+            "source": "http://musicbrainz.org/recording/d5086880-0267-4e12-a96e-b3ff00cb1b03"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "a59bec8b-8d42-4203-9e90-78b1d56419fd", 
+            "title": "Ge\u00e7mi\u015ften G\u00fcn\u00fcm\u00fcze T\u00fcrk M\u00fczi\u011fi Dersaadet'te Ak\u015fam"
+        }
+    ], 
+    "title": "Taksim", 
+    "url": "http://musicbrainz.org/recording/d5086880-0267-4e12-a96e-b3ff00cb1b03", 
+    "artist_credits": [
+        {
+            "mbid": "4cc5200e-a3f7-4d5d-8b15-9b10a8f9a9a2", 
+            "name": "Tanburi Cemil Bey"
+        }
+    ], 
+    "mbid": "d5086880-0267-4e12-a96e-b3ff00cb1b03", 
+    "makam": [
+        {
+            "attribute_key": "segah", 
+            "mb_tag": "segah", 
+            "source": "http://musicbrainz.org/recording/d5086880-0267-4e12-a96e-b3ff00cb1b03"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "4cc5200e-a3f7-4d5d-8b15-9b10a8f9a9a2", 
+            "attribute-list": [
+                "classical kemen\u00e7e"
+            ], 
+            "type": "instrument", 
+            "name": "Tanburi Cemil Bey"
+        }
+    ], 
+    "usul": [
+        {
+            "attribute_key": "serbest", 
+            "mb_tag": "serbest", 
+            "source": "http://musicbrainz.org/recording/d5086880-0267-4e12-a96e-b3ff00cb1b03"
+        }
+    ]
+}

@@ -1,0 +1,49 @@
+{
+    "instrumentation_voicing": "Solo instrumental", 
+    "form": [
+        {
+            "attribute_key": "taksim", 
+            "mb_tag": "taksim", 
+            "source": "http://musicbrainz.org/recording/cd1df269-5fef-4bdb-a7b5-ba4af6700a67"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "8a880160-5ee1-4d21-910f-e1636f17a9e9", 
+            "title": "16 Makamda Ud Taksimleri"
+        }
+    ], 
+    "title": "Acemk\u00fcrdi", 
+    "url": "http://musicbrainz.org/recording/cd1df269-5fef-4bdb-a7b5-ba4af6700a67", 
+    "artist_credits": [
+        {
+            "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
+            "name": "[unknown]"
+        }
+    ], 
+    "mbid": "cd1df269-5fef-4bdb-a7b5-ba4af6700a67", 
+    "makam": [
+        {
+            "attribute_key": "acemkurdi", 
+            "mb_tag": "acemk\u00fcrdi", 
+            "source": "http://musicbrainz.org/recording/cd1df269-5fef-4bdb-a7b5-ba4af6700a67"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
+            "attribute-list": [
+                "oud"
+            ], 
+            "type": "instrument", 
+            "name": "[unknown]"
+        }
+    ], 
+    "usul": [
+        {
+            "attribute_key": "serbest", 
+            "mb_tag": "serbest", 
+            "source": "http://musicbrainz.org/recording/cd1df269-5fef-4bdb-a7b5-ba4af6700a67"
+        }
+    ]
+}

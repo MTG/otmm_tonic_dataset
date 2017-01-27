@@ -1,0 +1,71 @@
+{
+    "usul": [
+        {
+            "attribute_key": "semai", 
+            "mb_attribute": "Semai", 
+            "source": "http://musicbrainz.org/work/0af3ccf3-eb30-408a-b22e-b05644f47e8a"
+        }, 
+        {
+            "attribute_key": "semai", 
+            "mb_tag": "semai", 
+            "source": "http://musicbrainz.org/recording/8d6e8389-3048-4e64-80a9-ef6e47a3d4ca"
+        }
+    ], 
+    "form": [
+        {
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
+            "source": "http://musicbrainz.org/work/0af3ccf3-eb30-408a-b22e-b05644f47e8a"
+        }, 
+        {
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
+            "source": "http://musicbrainz.org/recording/8d6e8389-3048-4e64-80a9-ef6e47a3d4ca"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "83f3321c-8fec-4736-ae45-aa1d2edc9b8b", 
+            "title": "T\u00fcrk Sanat M\u00fczi\u011fi Besteleri Saz Eserleri 2"
+        }, 
+        {
+            "mbid": "b8768e6d-65ed-4d26-9b47-51793c24b5a0", 
+            "title": "T\u00fcrk Sanat M\u00fczi\u011fi Besteleri Saz Eserleri 1"
+        }
+    ], 
+    "title": "Duydum Ki Unutmu\u015fsun", 
+    "url": "http://musicbrainz.org/recording/8d6e8389-3048-4e64-80a9-ef6e47a3d4ca", 
+    "artist_credits": [
+        {
+            "mbid": "ef074ab6-a2a8-42f7-a454-068265023697", 
+            "name": "Aziz T\u00fcrk Sanat M\u00fczi\u011fi Grubu"
+        }
+    ], 
+    "mbid": "8d6e8389-3048-4e64-80a9-ef6e47a3d4ca", 
+    "makam": [
+        {
+            "attribute_key": "muhayyerkurdi", 
+            "mb_attribute": "Muhayyerk\u00fcrdi", 
+            "source": "http://musicbrainz.org/work/0af3ccf3-eb30-408a-b22e-b05644f47e8a"
+        }, 
+        {
+            "attribute_key": "muhayyerkurdi", 
+            "mb_tag": "muhayyerk\u00fcrdi", 
+            "source": "http://musicbrainz.org/recording/8d6e8389-3048-4e64-80a9-ef6e47a3d4ca"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "ef074ab6-a2a8-42f7-a454-068265023697", 
+            "type": "performing orchestra", 
+            "name": "Aziz T\u00fcrk Sanat M\u00fczi\u011fi Grubu"
+        }
+    ], 
+    "instrumentation_voicing": "Ensemble instrumental", 
+    "works": [
+        {
+            "mbid": "0af3ccf3-eb30-408a-b22e-b05644f47e8a", 
+            "title": "Duydum Ki Unutmu\u015fsun"
+        }
+    ]
+}

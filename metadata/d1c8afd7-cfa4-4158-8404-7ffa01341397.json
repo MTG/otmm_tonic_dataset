@@ -1,0 +1,78 @@
+{
+    "usul": [
+        {
+            "attribute_key": "devrikebir", 
+            "mb_attribute": "Devr-i Kebir", 
+            "source": "http://musicbrainz.org/work/a2359815-ad37-4b87-b1c3-f58f738ab73a"
+        }, 
+        {
+            "attribute_key": "devrikebir", 
+            "mb_tag": "devr-i kebir", 
+            "source": "http://musicbrainz.org/recording/d1c8afd7-cfa4-4158-8404-7ffa01341397"
+        }
+    ], 
+    "form": [
+        {
+            "attribute_key": "pesrev", 
+            "mb_attribute": "Pe\u015frev", 
+            "source": "http://musicbrainz.org/work/a2359815-ad37-4b87-b1c3-f58f738ab73a"
+        }, 
+        {
+            "attribute_key": "pesrev", 
+            "mb_tag": "pe\u015frev", 
+            "source": "http://musicbrainz.org/recording/d1c8afd7-cfa4-4158-8404-7ffa01341397"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "c351559c-4931-4f8f-a6b1-3652d383f6cb", 
+            "title": "Tanburi Cemil Bey Vols. IV & V"
+        }
+    ], 
+    "title": "Hicazkar Pe\u015frev", 
+    "url": "http://musicbrainz.org/recording/d1c8afd7-cfa4-4158-8404-7ffa01341397", 
+    "artist_credits": [
+        {
+            "mbid": "4cc5200e-a3f7-4d5d-8b15-9b10a8f9a9a2", 
+            "name": "Tanburi Cemil Bey"
+        }
+    ], 
+    "mbid": "d1c8afd7-cfa4-4158-8404-7ffa01341397", 
+    "makam": [
+        {
+            "attribute_key": "hicazkar", 
+            "mb_attribute": "Hicazkar", 
+            "source": "http://musicbrainz.org/work/a2359815-ad37-4b87-b1c3-f58f738ab73a"
+        }, 
+        {
+            "attribute_key": "hicazkar", 
+            "mb_tag": "hicazkar", 
+            "source": "http://musicbrainz.org/recording/d1c8afd7-cfa4-4158-8404-7ffa01341397"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "32a46153-68ff-45b5-850e-240f03dd9ec6", 
+            "attribute-list": [
+                "violin"
+            ], 
+            "type": "instrument", 
+            "name": "Kemani B\u00fclb\u00fcli Salih Efendi"
+        }, 
+        {
+            "mbid": "4cc5200e-a3f7-4d5d-8b15-9b10a8f9a9a2", 
+            "attribute-list": [
+                "tanbur"
+            ], 
+            "type": "instrument", 
+            "name": "Tanburi Cemil Bey"
+        }
+    ], 
+    "instrumentation_voicing": "Duo instrumental", 
+    "works": [
+        {
+            "mbid": "a2359815-ad37-4b87-b1c3-f58f738ab73a", 
+            "title": "Hicazkar Pe\u015frev"
+        }
+    ]
+}

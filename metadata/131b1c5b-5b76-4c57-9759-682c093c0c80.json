@@ -1,0 +1,70 @@
+{
+    "usul": [
+        {
+            "attribute_key": "aksaksemai", 
+            "mb_attribute": "Aksaksemai", 
+            "source": "http://musicbrainz.org/work/44eba3fc-ea1a-4549-82a9-a103592f557b"
+        }, 
+        {
+            "attribute_key": "aksaksemai", 
+            "mb_tag": "aksaksemai", 
+            "source": "http://musicbrainz.org/recording/131b1c5b-5b76-4c57-9759-682c093c0c80"
+        }
+    ], 
+    "form": [
+        {
+            "attribute_key": "sazsemaisi", 
+            "mb_attribute": "Sazsemaisi", 
+            "source": "http://musicbrainz.org/work/44eba3fc-ea1a-4549-82a9-a103592f557b"
+        }, 
+        {
+            "attribute_key": "sazsemaisi", 
+            "mb_tag": "sazsemaisi", 
+            "source": "http://musicbrainz.org/recording/131b1c5b-5b76-4c57-9759-682c093c0c80"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "a8c6952a-d8b8-4014-90f2-46650bac4ff6", 
+            "title": "T\u00fcrk M\u00fczi\u011fi Ustalar\u0131 Ud"
+        }
+    ], 
+    "title": "Irak Saz Semaisi", 
+    "url": "http://musicbrainz.org/recording/131b1c5b-5b76-4c57-9759-682c093c0c80", 
+    "artist_credits": [
+        {
+            "mbid": "b835519a-c5c2-4dea-8798-bc9a559c6e50", 
+            "name": "\u015eerif Muhittin Targan"
+        }
+    ], 
+    "mbid": "131b1c5b-5b76-4c57-9759-682c093c0c80", 
+    "makam": [
+        {
+            "attribute_key": "irak", 
+            "mb_attribute": "Irak", 
+            "source": "http://musicbrainz.org/work/44eba3fc-ea1a-4549-82a9-a103592f557b"
+        }, 
+        {
+            "attribute_key": "irak", 
+            "mb_tag": "\u0131rak", 
+            "source": "http://musicbrainz.org/recording/131b1c5b-5b76-4c57-9759-682c093c0c80"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "b835519a-c5c2-4dea-8798-bc9a559c6e50", 
+            "attribute-list": [
+                "oud"
+            ], 
+            "type": "instrument", 
+            "name": "\u015eerif Muhittin Targan"
+        }
+    ], 
+    "instrumentation_voicing": "Solo instrumental", 
+    "works": [
+        {
+            "mbid": "44eba3fc-ea1a-4549-82a9-a103592f557b", 
+            "title": "Irak Sazsemaisi"
+        }
+    ]
+}

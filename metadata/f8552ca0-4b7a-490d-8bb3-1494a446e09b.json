@@ -1,0 +1,118 @@
+{
+    "usul": [
+        {
+            "attribute_key": "devrikebir", 
+            "mb_attribute": "Devr-i Kebir", 
+            "source": "http://musicbrainz.org/work/a850baea-d661-404d-8715-f4b37e5d49fd"
+        }, 
+        {
+            "attribute_key": "devrikebir", 
+            "mb_tag": "devr-i kebir", 
+            "source": "http://musicbrainz.org/recording/f8552ca0-4b7a-490d-8bb3-1494a446e09b"
+        }
+    ], 
+    "form": [
+        {
+            "attribute_key": "pesrev", 
+            "mb_attribute": "Pe\u015frev", 
+            "source": "http://musicbrainz.org/work/a850baea-d661-404d-8715-f4b37e5d49fd"
+        }, 
+        {
+            "attribute_key": "pesrev", 
+            "mb_tag": "pe\u015frev", 
+            "source": "http://musicbrainz.org/recording/f8552ca0-4b7a-490d-8bb3-1494a446e09b"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "8e169015-211d-4d7e-a2a6-e33d7e57c17a", 
+            "title": "Be\u015fibiryerde"
+        }
+    ], 
+    "title": "K\u00fcrdi Pe\u015frevi", 
+    "url": "http://musicbrainz.org/recording/f8552ca0-4b7a-490d-8bb3-1494a446e09b", 
+    "artist_credits": [
+        {
+            "mbid": "c5bd2eee-7fcb-4cc5-8481-a69f5caded75", 
+            "name": "Ruhi Ayangil"
+        }, 
+        {
+            "mbid": "5121835d-84fb-44c6-8eed-8a8da4c444ba", 
+            "name": "Ahmet \u015eahin"
+        }, 
+        {
+            "mbid": "b80cd1ab-a00c-4f98-89c1-a798deb2d5c2", 
+            "name": "Derya T\u00fcrkan"
+        }, 
+        {
+            "mbid": "f7e5d6a4-7611-4fb9-a766-f7a5124963a5", 
+            "name": "\u00d6zer \u00d6zel"
+        }, 
+        {
+            "mbid": "5668a74b-1da3-4a58-bae1-d69f9fec76d7", 
+            "name": "Serdar Bi\u015firen"
+        }
+    ], 
+    "mbid": "f8552ca0-4b7a-490d-8bb3-1494a446e09b", 
+    "makam": [
+        {
+            "attribute_key": "kurdi", 
+            "mb_attribute": "K\u00fcrdi", 
+            "source": "http://musicbrainz.org/work/a850baea-d661-404d-8715-f4b37e5d49fd"
+        }, 
+        {
+            "attribute_key": "kurdi", 
+            "mb_tag": "k\u00fcrdi", 
+            "source": "http://musicbrainz.org/recording/f8552ca0-4b7a-490d-8bb3-1494a446e09b"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "5121835d-84fb-44c6-8eed-8a8da4c444ba", 
+            "attribute-list": [
+                "ney"
+            ], 
+            "type": "instrument", 
+            "name": "Ahmet \u015eahin"
+        }, 
+        {
+            "mbid": "5668a74b-1da3-4a58-bae1-d69f9fec76d7", 
+            "attribute-list": [
+                "bendir"
+            ], 
+            "type": "instrument", 
+            "name": "Serdar Bi\u015firen"
+        }, 
+        {
+            "mbid": "b80cd1ab-a00c-4f98-89c1-a798deb2d5c2", 
+            "attribute-list": [
+                "classical kemen\u00e7e"
+            ], 
+            "type": "instrument", 
+            "name": "Derya T\u00fcrkan"
+        }, 
+        {
+            "mbid": "c5bd2eee-7fcb-4cc5-8481-a69f5caded75", 
+            "attribute-list": [
+                "kanun"
+            ], 
+            "type": "instrument", 
+            "name": "Ruhi Ayangil"
+        }, 
+        {
+            "mbid": "f7e5d6a4-7611-4fb9-a766-f7a5124963a5", 
+            "attribute-list": [
+                "tanbur"
+            ], 
+            "type": "instrument", 
+            "name": "\u00d6zer \u00d6zel"
+        }
+    ], 
+    "instrumentation_voicing": "Ensemble instrumental", 
+    "works": [
+        {
+            "mbid": "a850baea-d661-404d-8715-f4b37e5d49fd", 
+            "title": "K\u00fcrdi Pe\u015frevi"
+        }
+    ]
+}

@@ -1,0 +1,78 @@
+{
+    "usul": [
+        {
+            "attribute_key": "aksaksemai", 
+            "mb_attribute": "Aksaksemai", 
+            "source": "http://musicbrainz.org/work/128bbaa3-e7f2-417e-924e-0eac99880556"
+        }, 
+        {
+            "attribute_key": "aksaksemai", 
+            "mb_tag": "aksaksemai", 
+            "source": "http://musicbrainz.org/recording/9efa1a17-81a8-4898-8daa-2fa9a922a456"
+        }
+    ], 
+    "form": [
+        {
+            "attribute_key": "sazsemaisi", 
+            "mb_attribute": "Sazsemaisi", 
+            "source": "http://musicbrainz.org/work/128bbaa3-e7f2-417e-924e-0eac99880556"
+        }, 
+        {
+            "attribute_key": "sazsemaisi", 
+            "mb_tag": "sazsemaisi", 
+            "source": "http://musicbrainz.org/recording/9efa1a17-81a8-4898-8daa-2fa9a922a456"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "afcb0af0-df10-4184-a4e5-6c71a1fa18b5", 
+            "title": "Tanburi Cemil Bey - Pe\u015frev ve Sazsemaileri"
+        }
+    ], 
+    "title": "Isfahan Sazsemaisi", 
+    "url": "http://musicbrainz.org/recording/9efa1a17-81a8-4898-8daa-2fa9a922a456", 
+    "artist_credits": [
+        {
+            "mbid": "31b24c3b-9072-44c5-87f9-7114f4d5c7fe", 
+            "name": "\u0130hsan \u00d6zgen"
+        }
+    ], 
+    "mbid": "9efa1a17-81a8-4898-8daa-2fa9a922a456", 
+    "makam": [
+        {
+            "attribute_key": "isfahan", 
+            "mb_attribute": "Isfahan", 
+            "source": "http://musicbrainz.org/work/128bbaa3-e7f2-417e-924e-0eac99880556"
+        }, 
+        {
+            "attribute_key": "isfahan", 
+            "mb_tag": "\u0131sfahan", 
+            "source": "http://musicbrainz.org/recording/9efa1a17-81a8-4898-8daa-2fa9a922a456"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "279d2704-2462-4ebe-8230-2fc7af3dcd9c", 
+            "attribute-list": [
+                "percussion"
+            ], 
+            "type": "instrument", 
+            "name": "Serdar Erba\u015f\u0131"
+        }, 
+        {
+            "mbid": "31b24c3b-9072-44c5-87f9-7114f4d5c7fe", 
+            "attribute-list": [
+                "cello"
+            ], 
+            "type": "instrument", 
+            "name": "\u0130hsan \u00d6zgen"
+        }
+    ], 
+    "instrumentation_voicing": "Duo instrumental", 
+    "works": [
+        {
+            "mbid": "128bbaa3-e7f2-417e-924e-0eac99880556", 
+            "title": "Isfahan Sazsemaisi"
+        }
+    ]
+}

@@ -1,0 +1,49 @@
+{
+    "instrumentation_voicing": "Solo instrumental", 
+    "form": [
+        {
+            "attribute_key": "taksim", 
+            "mb_tag": "taksim", 
+            "source": "http://musicbrainz.org/recording/5440624e-e29f-4a9c-986e-631067b95147"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "4b312598-d743-41ad-b193-785872b2888a", 
+            "title": "12 Makamda Yayl\u0131 Tanbur Taksimleri"
+        }
+    ], 
+    "title": "K\u00fcrdilihicazkar Taksimi", 
+    "url": "http://musicbrainz.org/recording/5440624e-e29f-4a9c-986e-631067b95147", 
+    "artist_credits": [
+        {
+            "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
+            "name": "[unknown]"
+        }
+    ], 
+    "mbid": "5440624e-e29f-4a9c-986e-631067b95147", 
+    "makam": [
+        {
+            "attribute_key": "kurdilihicazkar", 
+            "mb_tag": "k\u00fcrdilihicazkar", 
+            "source": "http://musicbrainz.org/recording/5440624e-e29f-4a9c-986e-631067b95147"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
+            "attribute-list": [
+                "yayl\u0131 tanbur"
+            ], 
+            "type": "instrument", 
+            "name": "[unknown]"
+        }
+    ], 
+    "usul": [
+        {
+            "attribute_key": "serbest", 
+            "mb_tag": "serbest", 
+            "source": "http://musicbrainz.org/recording/5440624e-e29f-4a9c-986e-631067b95147"
+        }
+    ]
+}

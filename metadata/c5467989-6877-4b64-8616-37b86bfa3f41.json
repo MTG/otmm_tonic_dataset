@@ -1,0 +1,76 @@
+{
+    "usul": [
+        {
+            "attribute_key": "curcuna", 
+            "mb_attribute": "Curcuna", 
+            "source": "http://musicbrainz.org/work/a8a0d02b-b0cf-40e5-b0f1-1289188b148f"
+        }, 
+        {
+            "attribute_key": "kapali_curcuna", 
+            "mb_tag": "curcuna", 
+            "source": "http://musicbrainz.org/recording/c5467989-6877-4b64-8616-37b86bfa3f41"
+        }
+    ], 
+    "form": [
+        {
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
+            "source": "http://musicbrainz.org/work/a8a0d02b-b0cf-40e5-b0f1-1289188b148f"
+        }, 
+        {
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
+            "source": "http://musicbrainz.org/recording/c5467989-6877-4b64-8616-37b86bfa3f41"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "7bb7eb2b-cfef-48bd-ac3f-7b44cb627b5b", 
+            "title": "T\u00fcrk M\u00fczi\u011fi Koleksiyonu 5: Avni An\u0131l"
+        }
+    ], 
+    "title": "Bu ak\u015fam b\u00fct\u00fcn meyhanelerini", 
+    "url": "http://musicbrainz.org/recording/c5467989-6877-4b64-8616-37b86bfa3f41", 
+    "artist_credits": [
+        {
+            "mbid": "f7cde484-31d6-415d-a5ae-82ab5a1191da", 
+            "name": "Mediha \u015een Sancako\u011flu"
+        }, 
+        {
+            "mbid": "e259b60c-50a0-4984-bf1e-786e76c5d553", 
+            "name": "Adnan Yavuzer"
+        }
+    ], 
+    "mbid": "c5467989-6877-4b64-8616-37b86bfa3f41", 
+    "makam": [
+        {
+            "attribute_key": "kurdilihicazkar", 
+            "mb_attribute": "K\u00fcrdilihicazkar", 
+            "source": "http://musicbrainz.org/work/a8a0d02b-b0cf-40e5-b0f1-1289188b148f"
+        }, 
+        {
+            "attribute_key": "kurdilihicazkar", 
+            "mb_tag": "k\u00fcrdilihicazkar", 
+            "source": "http://musicbrainz.org/recording/c5467989-6877-4b64-8616-37b86bfa3f41"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
+            "type": "performing orchestra", 
+            "name": "[unknown]"
+        }, 
+        {
+            "mbid": "e259b60c-50a0-4984-bf1e-786e76c5d553", 
+            "type": "vocal", 
+            "name": "Adnan Yavuzer"
+        }
+    ], 
+    "instrumentation_voicing": "Solo vocal with accompaniment", 
+    "works": [
+        {
+            "mbid": "a8a0d02b-b0cf-40e5-b0f1-1289188b148f", 
+            "title": "Bu Ak\u015fam B\u00fct\u00fcn Meyhanelerini"
+        }
+    ]
+}

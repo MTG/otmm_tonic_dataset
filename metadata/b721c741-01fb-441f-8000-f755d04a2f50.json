@@ -1,0 +1,67 @@
+{
+    "usul": [
+        {
+            "attribute_key": "curcuna", 
+            "mb_attribute": "Curcuna", 
+            "source": "http://musicbrainz.org/work/6be3b0dc-ec64-414f-860c-3161002e1670"
+        }, 
+        {
+            "attribute_key": "kapali_curcuna", 
+            "mb_tag": "curcuna", 
+            "source": "http://musicbrainz.org/recording/b721c741-01fb-441f-8000-f755d04a2f50"
+        }
+    ], 
+    "form": [
+        {
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
+            "source": "http://musicbrainz.org/work/6be3b0dc-ec64-414f-860c-3161002e1670"
+        }, 
+        {
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
+            "source": "http://musicbrainz.org/recording/b721c741-01fb-441f-8000-f755d04a2f50"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "5af543f0-7287-4ced-92a3-f8f92f52e836", 
+            "title": "Ferit Sidal - S\u00f6zl\u00fc Eserlerden \u00d6rnekler - Enstrumantal Eserlerden \u00d6rnekler"
+        }
+    ], 
+    "title": "Kim Derdi ki A\u015fk\u0131m\u0131z Bir Hazin R\u00fcya Olur", 
+    "url": "http://musicbrainz.org/recording/b721c741-01fb-441f-8000-f755d04a2f50", 
+    "artist_credits": [
+        {
+            "mbid": "37dae3be-c44e-4c27-9296-95811f7a66ea", 
+            "name": "Mualla Kurt"
+        }
+    ], 
+    "mbid": "b721c741-01fb-441f-8000-f755d04a2f50", 
+    "makam": [
+        {
+            "attribute_key": "hicaz", 
+            "mb_attribute": "Hicaz", 
+            "source": "http://musicbrainz.org/work/6be3b0dc-ec64-414f-860c-3161002e1670"
+        }, 
+        {
+            "attribute_key": "hicaz", 
+            "mb_tag": "hicaz", 
+            "source": "http://musicbrainz.org/recording/b721c741-01fb-441f-8000-f755d04a2f50"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "37dae3be-c44e-4c27-9296-95811f7a66ea", 
+            "type": "vocal", 
+            "name": "Mualla Kurt"
+        }
+    ], 
+    "instrumentation_voicing": "Solo vocal without accompaniment", 
+    "works": [
+        {
+            "mbid": "6be3b0dc-ec64-414f-860c-3161002e1670", 
+            "title": "Kim Derdi ki A\u015fk\u0131m\u0131z Bir Hazin R\u00fcya Olur"
+        }
+    ]
+}

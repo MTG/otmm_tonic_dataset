@@ -1,0 +1,82 @@
+{
+    "usul": [
+        {
+            "attribute_key": "devrikebir", 
+            "mb_attribute": "Devr-i Kebir", 
+            "source": "http://musicbrainz.org/work/71d5fcfb-03c6-4850-b4db-b4c54a79e348"
+        }, 
+        {
+            "attribute_key": "darb", 
+            "mb_tag": "darb", 
+            "source": "http://musicbrainz.org/recording/8f7579ad-a65c-4cd9-a0dc-0e0b65a853e5"
+        }, 
+        {
+            "attribute_key": "aksaksemai", 
+            "mb_tag": "aksaksemai", 
+            "source": "http://musicbrainz.org/recording/8f7579ad-a65c-4cd9-a0dc-0e0b65a853e5"
+        }, 
+        {
+            "attribute_key": "yuruksemai", 
+            "mb_tag": "y\u00fcr\u00fcksemai", 
+            "source": "http://musicbrainz.org/recording/8f7579ad-a65c-4cd9-a0dc-0e0b65a853e5"
+        }
+    ], 
+    "form": [
+        {
+            "attribute_key": "pesrev", 
+            "mb_attribute": "Pe\u015frev", 
+            "source": "http://musicbrainz.org/work/71d5fcfb-03c6-4850-b4db-b4c54a79e348"
+        }, 
+        {
+            "attribute_key": "ayin_i_serif", 
+            "mb_tag": "ayin-i \u015ferif", 
+            "source": "http://musicbrainz.org/recording/8f7579ad-a65c-4cd9-a0dc-0e0b65a853e5"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "430058da-7be0-48ec-abac-9b88b87e293f", 
+            "title": "Mevlevi Sesler"
+        }
+    ], 
+    "title": "3. Selam", 
+    "url": "http://musicbrainz.org/recording/8f7579ad-a65c-4cd9-a0dc-0e0b65a853e5", 
+    "artist_credits": [
+        {
+            "mbid": "81081f45-a36e-4248-9d33-43d4a3445f6d", 
+            "name": "Dede Efendi"
+        }
+    ], 
+    "mbid": "8f7579ad-a65c-4cd9-a0dc-0e0b65a853e5", 
+    "makam": [
+        {
+            "attribute_key": "bestenigar", 
+            "mb_attribute": "Bestenigar", 
+            "source": "http://musicbrainz.org/work/71d5fcfb-03c6-4850-b4db-b4c54a79e348"
+        }, 
+        {
+            "attribute_key": "bestenigar", 
+            "mb_tag": "bestenigar", 
+            "source": "http://musicbrainz.org/recording/8f7579ad-a65c-4cd9-a0dc-0e0b65a853e5"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "125d9569-09ea-463c-a7b2-87ca30b55be0", 
+            "type": "vocal", 
+            "name": "Mehmet Ak\u00e7a"
+        }, 
+        {
+            "mbid": "713ad8af-1c98-4569-a445-71f7b9395945", 
+            "type": "performing orchestra", 
+            "name": "Dede Efendi T\u00fcrk M\u00fczi\u011fi Toplulu\u011fu"
+        }
+    ], 
+    "instrumentation_voicing": "Solo vocal with accompaniment", 
+    "works": [
+        {
+            "mbid": "71d5fcfb-03c6-4850-b4db-b4c54a79e348", 
+            "title": "Bestenigar Ayin-i \u015eerif"
+        }
+    ]
+}

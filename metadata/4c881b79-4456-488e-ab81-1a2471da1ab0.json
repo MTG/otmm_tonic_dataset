@@ -1,0 +1,67 @@
+{
+    "usul": [
+        {
+            "attribute_key": "agiraksak", 
+            "mb_attribute": "A\u011f\u0131raksak", 
+            "source": "http://musicbrainz.org/work/ef96a073-7b12-4618-8226-dd9900d03e04"
+        }, 
+        {
+            "attribute_key": "agiraksak", 
+            "mb_tag": "a\u011f\u0131raksak", 
+            "source": "http://musicbrainz.org/recording/4c881b79-4456-488e-ab81-1a2471da1ab0"
+        }
+    ], 
+    "form": [
+        {
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
+            "source": "http://musicbrainz.org/work/ef96a073-7b12-4618-8226-dd9900d03e04"
+        }, 
+        {
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
+            "source": "http://musicbrainz.org/recording/4c881b79-4456-488e-ab81-1a2471da1ab0"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "5af543f0-7287-4ced-92a3-f8f92f52e836", 
+            "title": "Ferit Sidal - S\u00f6zl\u00fc Eserlerden \u00d6rnekler - Enstrumantal Eserlerden \u00d6rnekler"
+        }
+    ], 
+    "title": "Buseler Vadeylemi\u015ftin A\u015f\u0131k-\u0131 Hayran\u0131na", 
+    "url": "http://musicbrainz.org/recording/4c881b79-4456-488e-ab81-1a2471da1ab0", 
+    "artist_credits": [
+        {
+            "mbid": "f3e27ef1-f4b5-486f-a0a7-8f812d2a3420", 
+            "name": "Ay\u015fe Ta\u015f"
+        }
+    ], 
+    "mbid": "4c881b79-4456-488e-ab81-1a2471da1ab0", 
+    "makam": [
+        {
+            "attribute_key": "buselik", 
+            "mb_attribute": "Buselik", 
+            "source": "http://musicbrainz.org/work/ef96a073-7b12-4618-8226-dd9900d03e04"
+        }, 
+        {
+            "attribute_key": "buselik", 
+            "mb_tag": "buselik", 
+            "source": "http://musicbrainz.org/recording/4c881b79-4456-488e-ab81-1a2471da1ab0"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "f3e27ef1-f4b5-486f-a0a7-8f812d2a3420", 
+            "type": "vocal", 
+            "name": "Ay\u015fe Ta\u015f"
+        }
+    ], 
+    "instrumentation_voicing": "Solo vocal without accompaniment", 
+    "works": [
+        {
+            "mbid": "ef96a073-7b12-4618-8226-dd9900d03e04", 
+            "title": "Buseler Vadeylemi\u015ftin A\u015f\u0131k-\u0131 Hayran\u0131na"
+        }
+    ]
+}

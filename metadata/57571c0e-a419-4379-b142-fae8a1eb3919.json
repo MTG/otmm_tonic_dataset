@@ -1,0 +1,72 @@
+{
+    "usul": [
+        {
+            "attribute_key": "evfer", 
+            "mb_attribute": "Evfer", 
+            "source": "http://musicbrainz.org/work/5242bca8-2eba-42ca-822d-89b62d170409"
+        }, 
+        {
+            "attribute_key": "evfer", 
+            "mb_tag": "evfer", 
+            "source": "http://musicbrainz.org/recording/57571c0e-a419-4379-b142-fae8a1eb3919"
+        }
+    ], 
+    "form": [
+        {
+            "attribute_key": "durak", 
+            "mb_attribute": "Durak", 
+            "source": "http://musicbrainz.org/work/5242bca8-2eba-42ca-822d-89b62d170409"
+        }, 
+        {
+            "attribute_key": "durak", 
+            "mb_tag": "durak", 
+            "source": "http://musicbrainz.org/recording/57571c0e-a419-4379-b142-fae8a1eb3919"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "ba3a521f-b406-4314-b6be-6075a9b0a507", 
+            "title": "Bekir S\u0131dk\u0131 Sezgin 23"
+        }
+    ], 
+    "title": "Suzidil Durak", 
+    "url": "http://musicbrainz.org/recording/57571c0e-a419-4379-b142-fae8a1eb3919", 
+    "artist_credits": [
+        {
+            "mbid": "7ef61959-65f2-41ab-9ae2-ba890812b7b4", 
+            "name": "Bekir S\u0131dk\u0131 Sezgin"
+        }
+    ], 
+    "mbid": "57571c0e-a419-4379-b142-fae8a1eb3919", 
+    "makam": [
+        {
+            "attribute_key": "suzidil", 
+            "mb_attribute": "Suzidil", 
+            "source": "http://musicbrainz.org/work/5242bca8-2eba-42ca-822d-89b62d170409"
+        }, 
+        {
+            "attribute_key": "suzidil", 
+            "mb_tag": "suzidil", 
+            "source": "http://musicbrainz.org/recording/57571c0e-a419-4379-b142-fae8a1eb3919"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
+            "type": "performing orchestra", 
+            "name": "[unknown]"
+        }, 
+        {
+            "mbid": "7ef61959-65f2-41ab-9ae2-ba890812b7b4", 
+            "type": "vocal", 
+            "name": "Bekir S\u0131dk\u0131 Sezgin"
+        }
+    ], 
+    "instrumentation_voicing": "Solo vocal with accompaniment", 
+    "works": [
+        {
+            "mbid": "5242bca8-2eba-42ca-822d-89b62d170409", 
+            "title": "Aya\u011f\u0131n Tozunu S\u00fcrme \u00c7ekelden G\u00f6z\u00fcme"
+        }
+    ]
+}

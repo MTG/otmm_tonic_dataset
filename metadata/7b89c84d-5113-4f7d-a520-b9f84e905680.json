@@ -1,0 +1,67 @@
+{
+    "usul": [
+        {
+            "attribute_key": "fahte", 
+            "mb_attribute": "Fahte", 
+            "source": "http://musicbrainz.org/work/83291c8a-4ef1-4ffc-8b50-3fc03890f5a4"
+        }, 
+        {
+            "attribute_key": "fahte", 
+            "mb_tag": "fahte", 
+            "source": "http://musicbrainz.org/recording/7b89c84d-5113-4f7d-a520-b9f84e905680"
+        }
+    ], 
+    "form": [
+        {
+            "attribute_key": "pesrev", 
+            "mb_attribute": "Pe\u015frev", 
+            "source": "http://musicbrainz.org/work/83291c8a-4ef1-4ffc-8b50-3fc03890f5a4"
+        }, 
+        {
+            "attribute_key": "pesrev", 
+            "mb_tag": "pe\u015frev", 
+            "source": "http://musicbrainz.org/recording/7b89c84d-5113-4f7d-a520-b9f84e905680"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "b3d24274-4756-4862-8dde-27b56a117525", 
+            "title": "1955 - 63 Kay\u0131tlar\u0131 - Ar\u015fiv Serisi"
+        }
+    ], 
+    "title": "\u015eedaraban Pe\u015frev", 
+    "url": "http://musicbrainz.org/recording/7b89c84d-5113-4f7d-a520-b9f84e905680", 
+    "artist_credits": [
+        {
+            "mbid": "9fcda3ab-a467-4ea9-8569-ae975de0f473", 
+            "name": "Zeki M\u00fcren"
+        }
+    ], 
+    "mbid": "7b89c84d-5113-4f7d-a520-b9f84e905680", 
+    "makam": [
+        {
+            "attribute_key": "sedaraban", 
+            "mb_attribute": "\u015eedaraban", 
+            "source": "http://musicbrainz.org/work/83291c8a-4ef1-4ffc-8b50-3fc03890f5a4"
+        }, 
+        {
+            "attribute_key": "sedaraban", 
+            "mb_tag": "\u015fedaraban", 
+            "source": "http://musicbrainz.org/recording/7b89c84d-5113-4f7d-a520-b9f84e905680"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
+            "type": "performing orchestra", 
+            "name": "[unknown]"
+        }
+    ], 
+    "instrumentation_voicing": "Ensemble instrumental", 
+    "works": [
+        {
+            "mbid": "83291c8a-4ef1-4ffc-8b50-3fc03890f5a4", 
+            "title": "\u015eedaraban Pe\u015frevi"
+        }
+    ]
+}

@@ -1,0 +1,70 @@
+{
+    "usul": [
+        {
+            "attribute_key": "serbest", 
+            "mb_attribute": "Serbest", 
+            "source": "http://musicbrainz.org/work/8716f5fc-ca7d-493d-b74c-aaae5356d20e"
+        }, 
+        {
+            "attribute_key": "serbest", 
+            "mb_tag": "serbest", 
+            "source": "http://musicbrainz.org/recording/31c46dbe-668e-40ae-9a66-a54bd57f960e"
+        }
+    ], 
+    "form": [
+        {
+            "attribute_key": "fantezi", 
+            "mb_attribute": "Fantezi", 
+            "source": "http://musicbrainz.org/work/8716f5fc-ca7d-493d-b74c-aaae5356d20e"
+        }, 
+        {
+            "attribute_key": "fantezi", 
+            "mb_tag": "fantezi", 
+            "source": "http://musicbrainz.org/recording/31c46dbe-668e-40ae-9a66-a54bd57f960e"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "9d63cb14-4233-48ea-a4c9-e3c60d880786", 
+            "title": "Tanbur"
+        }
+    ], 
+    "title": "Ispanyolita", 
+    "url": "http://musicbrainz.org/recording/31c46dbe-668e-40ae-9a66-a54bd57f960e", 
+    "artist_credits": [
+        {
+            "mbid": "ef7f9168-eec5-4ecd-a142-132ef3355fc1", 
+            "name": "Erc\u00fcmend Batanay"
+        }
+    ], 
+    "mbid": "31c46dbe-668e-40ae-9a66-a54bd57f960e", 
+    "makam": [
+        {
+            "attribute_key": "nihavent", 
+            "mb_attribute": "Nihavent", 
+            "source": "http://musicbrainz.org/work/8716f5fc-ca7d-493d-b74c-aaae5356d20e"
+        }, 
+        {
+            "attribute_key": "nihavent", 
+            "mb_tag": "nihavent", 
+            "source": "http://musicbrainz.org/recording/31c46dbe-668e-40ae-9a66-a54bd57f960e"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "ef7f9168-eec5-4ecd-a142-132ef3355fc1", 
+            "attribute-list": [
+                "tanbur"
+            ], 
+            "type": "instrument", 
+            "name": "Erc\u00fcmend Batanay"
+        }
+    ], 
+    "instrumentation_voicing": "Solo instrumental", 
+    "works": [
+        {
+            "mbid": "8716f5fc-ca7d-493d-b74c-aaae5356d20e", 
+            "title": "\u0130spanyolita"
+        }
+    ]
+}

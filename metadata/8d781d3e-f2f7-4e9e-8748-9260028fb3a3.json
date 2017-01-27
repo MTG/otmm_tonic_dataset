@@ -1,0 +1,67 @@
+{
+    "usul": [
+        {
+            "attribute_key": "nimsofyan", 
+            "mb_attribute": "Nimsofyan", 
+            "source": "http://musicbrainz.org/work/b83f8b66-224e-4198-a3c3-8f097ac151a3"
+        }, 
+        {
+            "attribute_key": "nimsofyan", 
+            "mb_tag": "nimsofyan", 
+            "source": "http://musicbrainz.org/recording/8d781d3e-f2f7-4e9e-8748-9260028fb3a3"
+        }
+    ], 
+    "form": [
+        {
+            "attribute_key": "turku", 
+            "mb_attribute": "T\u00fcrk\u00fc", 
+            "source": "http://musicbrainz.org/work/b83f8b66-224e-4198-a3c3-8f097ac151a3"
+        }, 
+        {
+            "attribute_key": "turku", 
+            "mb_tag": "t\u00fcrk\u00fc", 
+            "source": "http://musicbrainz.org/recording/8d781d3e-f2f7-4e9e-8748-9260028fb3a3"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "659e23be-4186-4b89-b758-addf78c27b6a", 
+            "title": "Fasl-\u0131 \u015eahane Enstrumantal, Volume 4"
+        }
+    ], 
+    "title": "Karam", 
+    "url": "http://musicbrainz.org/recording/8d781d3e-f2f7-4e9e-8748-9260028fb3a3", 
+    "artist_credits": [
+        {
+            "mbid": "ef074ab6-a2a8-42f7-a454-068265023697", 
+            "name": "Aziz T\u00fcrk Sanat M\u00fczi\u011fi Grubu"
+        }
+    ], 
+    "mbid": "8d781d3e-f2f7-4e9e-8748-9260028fb3a3", 
+    "makam": [
+        {
+            "attribute_key": "huzzam", 
+            "mb_attribute": "H\u00fczzam", 
+            "source": "http://musicbrainz.org/work/b83f8b66-224e-4198-a3c3-8f097ac151a3"
+        }, 
+        {
+            "attribute_key": "segah", 
+            "mb_tag": "segah", 
+            "source": "http://musicbrainz.org/recording/8d781d3e-f2f7-4e9e-8748-9260028fb3a3"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "ef074ab6-a2a8-42f7-a454-068265023697", 
+            "type": "performing orchestra", 
+            "name": "Aziz T\u00fcrk Sanat M\u00fczi\u011fi Grubu"
+        }
+    ], 
+    "instrumentation_voicing": "Ensemble instrumental", 
+    "works": [
+        {
+            "mbid": "b83f8b66-224e-4198-a3c3-8f097ac151a3", 
+            "title": "K\u00f6pr\u00fcler Yapt\u0131rd\u0131m Gelip Ge\u00e7meye"
+        }
+    ]
+}

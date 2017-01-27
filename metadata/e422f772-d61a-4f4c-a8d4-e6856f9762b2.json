@@ -1,0 +1,83 @@
+{
+    "usul": [
+        {
+            "attribute_key": "zencir", 
+            "mb_attribute": "Zencir", 
+            "source": "http://musicbrainz.org/work/54cf9898-e062-452f-a929-249c6b02e539"
+        }, 
+        {
+            "attribute_key": "zencir", 
+            "mb_tag": "zencir", 
+            "source": "http://musicbrainz.org/recording/e422f772-d61a-4f4c-a8d4-e6856f9762b2"
+        }
+    ], 
+    "form": [
+        {
+            "attribute_key": "beste", 
+            "mb_attribute": "Beste", 
+            "source": "http://musicbrainz.org/work/54cf9898-e062-452f-a929-249c6b02e539"
+        }, 
+        {
+            "attribute_key": "beste", 
+            "mb_tag": "beste", 
+            "source": "http://musicbrainz.org/recording/e422f772-d61a-4f4c-a8d4-e6856f9762b2"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "ea654a3e-6e4f-4c2c-a5d3-f8ecb7af2d3e", 
+            "title": "Musique Classique Ottomane - Makam"
+        }
+    ], 
+    "title": "Sultan-\u0131-Irak / Beste", 
+    "url": "http://musicbrainz.org/recording/e422f772-d61a-4f4c-a8d4-e6856f9762b2", 
+    "artist_credits": [
+        {
+            "mbid": "61d8e82a-8ff3-4675-ac31-df67a14dd772", 
+            "name": "Kani Karaca"
+        }
+    ], 
+    "mbid": "e422f772-d61a-4f4c-a8d4-e6856f9762b2", 
+    "makam": [
+        {
+            "attribute_key": "sultaniirak", 
+            "mb_attribute": "Sultani Irak", 
+            "source": "http://musicbrainz.org/work/54cf9898-e062-452f-a929-249c6b02e539"
+        }, 
+        {
+            "attribute_key": "sultaniirak", 
+            "mb_tag": "sultan-\u0131-arak", 
+            "source": "http://musicbrainz.org/recording/e422f772-d61a-4f4c-a8d4-e6856f9762b2"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "215fd94e-6a6e-4ab3-98d8-7e81c873dd26", 
+            "attribute-list": [
+                "ney"
+            ], 
+            "type": "instrument", 
+            "name": "Aka G\u00fcnd\u00fcz Kutbay"
+        }, 
+        {
+            "mbid": "61d8e82a-8ff3-4675-ac31-df67a14dd772", 
+            "type": "vocal", 
+            "name": "Kani Karaca"
+        }, 
+        {
+            "mbid": "86299acc-2dd4-49d2-b20e-d1707c699d62", 
+            "attribute-list": [
+                "ney"
+            ], 
+            "type": "instrument", 
+            "name": "Kudsi Erguner"
+        }
+    ], 
+    "instrumentation_voicing": "Solo vocal with accompaniment", 
+    "works": [
+        {
+            "mbid": "54cf9898-e062-452f-a929-249c6b02e539", 
+            "title": "Bu H\u00fcsn-\u00fc Beh\u00e7et"
+        }
+    ]
+}

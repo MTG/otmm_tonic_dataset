@@ -1,0 +1,50 @@
+{
+    "instrumentation_voicing": "Solo instrumental", 
+    "form": [
+        {
+            "attribute_key": "taksim", 
+            "mb_tag": "taksim", 
+            "source": "http://musicbrainz.org/recording/6f33c17d-8cf0-41e5-a7f2-06f6b433ad84"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "6b94e631-734e-4ebb-9acd-0741183608fe", 
+            "title": "Bekir S\u0131dk\u0131 Sezgin 22"
+        }
+    ], 
+    "title": "Karc\u0131\u011far Tanbur Taksimi", 
+    "url": "http://musicbrainz.org/recording/6f33c17d-8cf0-41e5-a7f2-06f6b433ad84", 
+    "artist_credits": [
+        {
+            "mbid": "7ef61959-65f2-41ab-9ae2-ba890812b7b4", 
+            "name": "Bekir S\u0131dk\u0131 Sezgin"
+        }
+    ], 
+    "mbid": "6f33c17d-8cf0-41e5-a7f2-06f6b433ad84", 
+    "makam": [
+        {
+            "attribute_key": "huseyni", 
+            "mb_tag": "karc\u0131\u011far", 
+            "source": "http://musicbrainz.org/recording/6f33c17d-8cf0-41e5-a7f2-06f6b433ad84"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
+            "attribute-list": [
+                "solo", 
+                "tanbur"
+            ], 
+            "type": "instrument", 
+            "name": "[unknown]"
+        }
+    ], 
+    "usul": [
+        {
+            "attribute_key": "serbest", 
+            "mb_tag": "serbest", 
+            "source": "http://musicbrainz.org/recording/6f33c17d-8cf0-41e5-a7f2-06f6b433ad84"
+        }
+    ]
+}

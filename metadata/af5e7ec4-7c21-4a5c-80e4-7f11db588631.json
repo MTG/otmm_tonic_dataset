@@ -1,0 +1,66 @@
+{
+    "usul": [
+        {
+            "attribute_key": "aksaksemai", 
+            "mb_attribute": "Aksaksemai", 
+            "source": "http://musicbrainz.org/work/611c119a-62a0-4238-bb18-9ffe50d84d8b"
+        }
+    ], 
+    "form": [
+        {
+            "attribute_key": "sazsemaisi", 
+            "mb_attribute": "Sazsemaisi", 
+            "source": "http://musicbrainz.org/work/611c119a-62a0-4238-bb18-9ffe50d84d8b"
+        }, 
+        {
+            "attribute_key": "sazsemaisi", 
+            "mb_tag": "sazsemaisi", 
+            "source": "http://musicbrainz.org/recording/af5e7ec4-7c21-4a5c-80e4-7f11db588631"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "93d37c26-9732-4558-afc9-b2e5d3f58cb0", 
+            "title": "Ney ile \u0130cra Edilmi\u015f Saz Eserleri"
+        }
+    ], 
+    "title": "Segah Saz Semai (K\u0131z Ney)", 
+    "url": "http://musicbrainz.org/recording/af5e7ec4-7c21-4a5c-80e4-7f11db588631", 
+    "artist_credits": [
+        {
+            "mbid": "7d28c915-55b3-486e-9b10-f402e45badfb", 
+            "name": "Mehmet Arif Erdebil"
+        }
+    ], 
+    "mbid": "af5e7ec4-7c21-4a5c-80e4-7f11db588631", 
+    "makam": [
+        {
+            "attribute_key": "segah", 
+            "mb_attribute": "Segah", 
+            "source": "http://musicbrainz.org/work/611c119a-62a0-4238-bb18-9ffe50d84d8b"
+        }, 
+        {
+            "attribute_key": "segah", 
+            "mb_tag": "segah", 
+            "source": "http://musicbrainz.org/recording/af5e7ec4-7c21-4a5c-80e4-7f11db588631"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "7d28c915-55b3-486e-9b10-f402e45badfb", 
+            "attribute-list": [
+                "ney", 
+                "solo"
+            ], 
+            "type": "instrument", 
+            "name": "Mehmet Arif Erdebil"
+        }
+    ], 
+    "instrumentation_voicing": "Solo instrumental", 
+    "works": [
+        {
+            "mbid": "611c119a-62a0-4238-bb18-9ffe50d84d8b", 
+            "title": "Segah Sazsemaisi"
+        }
+    ]
+}

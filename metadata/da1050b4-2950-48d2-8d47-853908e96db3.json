@@ -1,0 +1,78 @@
+{
+    "usul": [
+        {
+            "attribute_key": "aksaksemai", 
+            "mb_attribute": "Aksaksemai", 
+            "source": "http://musicbrainz.org/work/1eb2ca1e-249b-424c-9ff5-0e1561590257"
+        }, 
+        {
+            "attribute_key": "aksaksemai", 
+            "mb_tag": "aksaksemai", 
+            "source": "http://musicbrainz.org/recording/da1050b4-2950-48d2-8d47-853908e96db3"
+        }
+    ], 
+    "form": [
+        {
+            "attribute_key": "sazsemaisi", 
+            "mb_attribute": "Sazsemaisi", 
+            "source": "http://musicbrainz.org/work/1eb2ca1e-249b-424c-9ff5-0e1561590257"
+        }, 
+        {
+            "attribute_key": "sazsemaisi", 
+            "mb_tag": "sazsemaisi", 
+            "source": "http://musicbrainz.org/recording/da1050b4-2950-48d2-8d47-853908e96db3"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "1ca2ba03-e886-4d6a-ac05-1641f17f666b", 
+            "title": "Yasemin"
+        }, 
+        {
+            "mbid": "898af38b-97a2-435f-a546-5835c79d6a4e", 
+            "title": "Yasemin"
+        }, 
+        {
+            "mbid": "a30f64aa-dc94-4042-b4f3-3616c7513e28", 
+            "title": "Yasemin"
+        }
+    ], 
+    "title": "\u015eedaraban Sazsemaisi", 
+    "url": "http://musicbrainz.org/recording/da1050b4-2950-48d2-8d47-853908e96db3", 
+    "artist_credits": [
+        {
+            "mbid": "0a7cf3b7-97a1-4187-ac32-698a3ceb27a2", 
+            "name": "Necati \u00c7elik"
+        }
+    ], 
+    "mbid": "da1050b4-2950-48d2-8d47-853908e96db3", 
+    "makam": [
+        {
+            "attribute_key": "sedaraban", 
+            "mb_attribute": "\u015eedaraban", 
+            "source": "http://musicbrainz.org/work/1eb2ca1e-249b-424c-9ff5-0e1561590257"
+        }, 
+        {
+            "attribute_key": "sedaraban", 
+            "mb_tag": "\u015fedaraban", 
+            "source": "http://musicbrainz.org/recording/da1050b4-2950-48d2-8d47-853908e96db3"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "0a7cf3b7-97a1-4187-ac32-698a3ceb27a2", 
+            "attribute-list": [
+                "oud"
+            ], 
+            "type": "instrument", 
+            "name": "Necati \u00c7elik"
+        }
+    ], 
+    "instrumentation_voicing": "Solo instrumental", 
+    "works": [
+        {
+            "mbid": "1eb2ca1e-249b-424c-9ff5-0e1561590257", 
+            "title": "\u015eedaraban Sazsemaisi"
+        }
+    ]
+}

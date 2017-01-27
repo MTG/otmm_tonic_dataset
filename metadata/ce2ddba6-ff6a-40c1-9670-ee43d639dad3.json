@@ -1,0 +1,114 @@
+{
+    "usul": [
+        {
+            "attribute_key": "agirduyek", 
+            "mb_attribute": "A\u011f\u0131rd\u00fcyek", 
+            "source": "http://musicbrainz.org/work/72222f36-76f1-4663-a5bf-d16f7af09dfa"
+        }, 
+        {
+            "attribute_key": "duyek", 
+            "mb_tag": "d\u00fcyek", 
+            "source": "http://musicbrainz.org/recording/ce2ddba6-ff6a-40c1-9670-ee43d639dad3"
+        }
+    ], 
+    "form": [
+        {
+            "attribute_key": "pesrev", 
+            "mb_attribute": "Pe\u015frev", 
+            "source": "http://musicbrainz.org/work/72222f36-76f1-4663-a5bf-d16f7af09dfa"
+        }, 
+        {
+            "attribute_key": "pesrev", 
+            "mb_tag": "pe\u015frev", 
+            "source": "http://musicbrainz.org/recording/ce2ddba6-ff6a-40c1-9670-ee43d639dad3"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "13d7ec34-3b52-4839-9145-f6b2a1ef9952", 
+            "title": "Sultan Bestekarlar"
+        }, 
+        {
+            "mbid": "6e45f7e3-0f31-4432-b098-38dc06084d47", 
+            "title": "Sultan Bestek\u00e2rlar"
+        }
+    ], 
+    "title": "Suzidilara Pe\u015frev", 
+    "url": "http://musicbrainz.org/recording/ce2ddba6-ff6a-40c1-9670-ee43d639dad3", 
+    "artist_credits": [
+        {
+            "mbid": "fe400be8-fabd-4c56-a78a-aa1c7c2f2a6c", 
+            "name": "Golden Horn Ensamble"
+        }
+    ], 
+    "mbid": "ce2ddba6-ff6a-40c1-9670-ee43d639dad3", 
+    "makam": [
+        {
+            "attribute_key": "suzidilara", 
+            "mb_attribute": "Suzidilara", 
+            "source": "http://musicbrainz.org/work/72222f36-76f1-4663-a5bf-d16f7af09dfa"
+        }, 
+        {
+            "attribute_key": "suzidilara", 
+            "mb_tag": "suzidilara", 
+            "source": "http://musicbrainz.org/recording/ce2ddba6-ff6a-40c1-9670-ee43d639dad3"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "5121835d-84fb-44c6-8eed-8a8da4c444ba", 
+            "attribute-list": [
+                "ney"
+            ], 
+            "type": "instrument", 
+            "name": "Ahmet \u015eahin"
+        }, 
+        {
+            "mbid": "8cf45553-41e7-4544-8070-45ff74f7fb18", 
+            "attribute-list": [
+                "classical kemen\u00e7e"
+            ], 
+            "type": "instrument", 
+            "name": "Ahmet Kadri Rizeli"
+        }, 
+        {
+            "mbid": "b4bd2653-9631-4457-a6c0-87f32ddaa76b", 
+            "attribute-list": [
+                "kanun"
+            ], 
+            "type": "instrument", 
+            "name": "Bekir Reha Sa\u011fba\u015f"
+        }, 
+        {
+            "mbid": "b5e2f977-cadd-458a-8171-cafdfe6a331c", 
+            "attribute-list": [
+                "percussion"
+            ], 
+            "type": "instrument", 
+            "name": "Fahrettin Yark\u0131n"
+        }, 
+        {
+            "mbid": "cfe6aea2-c362-4760-9ad1-b95db1605b6e", 
+            "attribute-list": [
+                "cello"
+            ], 
+            "type": "instrument", 
+            "name": "U\u011fur I\u015f\u0131k"
+        }, 
+        {
+            "mbid": "f7e5d6a4-7611-4fb9-a766-f7a5124963a5", 
+            "attribute-list": [
+                "tanbur"
+            ], 
+            "type": "instrument", 
+            "name": "\u00d6zer \u00d6zel"
+        }
+    ], 
+    "instrumentation_voicing": "Ensemble instrumental", 
+    "works": [
+        {
+            "mbid": "72222f36-76f1-4663-a5bf-d16f7af09dfa", 
+            "title": "Suzidilara Pe\u015frev"
+        }
+    ]
+}

@@ -1,0 +1,67 @@
+{
+    "usul": [
+        {
+            "attribute_key": "curcuna", 
+            "mb_attribute": "Curcuna", 
+            "source": "http://musicbrainz.org/work/ad70fd0d-687a-4b58-80a5-587cdce2d9d5"
+        }, 
+        {
+            "attribute_key": "kapali_curcuna", 
+            "mb_tag": "curcuna", 
+            "source": "http://musicbrainz.org/recording/455e6d06-e07b-4d43-9a27-9f0c07f174ad"
+        }
+    ], 
+    "form": [
+        {
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
+            "source": "http://musicbrainz.org/work/ad70fd0d-687a-4b58-80a5-587cdce2d9d5"
+        }, 
+        {
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
+            "source": "http://musicbrainz.org/recording/455e6d06-e07b-4d43-9a27-9f0c07f174ad"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "ccbb9023-a235-4ca3-bc68-043cdf463903", 
+            "title": "Makber - Hamiyet Y\u00fcceses"
+        }
+    ], 
+    "title": "Ba\u015f\u0131m\u0131 Ta\u015flara Vurdum", 
+    "url": "http://musicbrainz.org/recording/455e6d06-e07b-4d43-9a27-9f0c07f174ad", 
+    "artist_credits": [
+        {
+            "mbid": "a2d55e94-413c-4b5d-8ba0-2fdd4ee1f458", 
+            "name": "Hamiyet Y\u00fcceses"
+        }
+    ], 
+    "mbid": "455e6d06-e07b-4d43-9a27-9f0c07f174ad", 
+    "makam": [
+        {
+            "attribute_key": "saba", 
+            "mb_attribute": "Saba", 
+            "source": "http://musicbrainz.org/work/ad70fd0d-687a-4b58-80a5-587cdce2d9d5"
+        }, 
+        {
+            "attribute_key": "saba", 
+            "mb_tag": "saba", 
+            "source": "http://musicbrainz.org/recording/455e6d06-e07b-4d43-9a27-9f0c07f174ad"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "a2d55e94-413c-4b5d-8ba0-2fdd4ee1f458", 
+            "type": "vocal", 
+            "name": "Hamiyet Y\u00fcceses"
+        }
+    ], 
+    "instrumentation_voicing": "Solo vocal without accompaniment", 
+    "works": [
+        {
+            "mbid": "ad70fd0d-687a-4b58-80a5-587cdce2d9d5", 
+            "title": "Kalbime Hasretin Zehri D\u00f6k\u00fcld\u00fc"
+        }
+    ]
+}

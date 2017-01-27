@@ -1,0 +1,67 @@
+{
+    "usul": [
+        {
+            "attribute_key": "aksak", 
+            "mb_attribute": "Aksak", 
+            "source": "http://musicbrainz.org/work/b14650a8-835d-49c6-a66b-3c789e629548"
+        }, 
+        {
+            "attribute_key": "aksak", 
+            "mb_tag": "aksak", 
+            "source": "http://musicbrainz.org/recording/393d14e2-6481-4255-9019-68971cfd949f"
+        }
+    ], 
+    "form": [
+        {
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
+            "source": "http://musicbrainz.org/work/b14650a8-835d-49c6-a66b-3c789e629548"
+        }, 
+        {
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
+            "source": "http://musicbrainz.org/recording/393d14e2-6481-4255-9019-68971cfd949f"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "c733dbde-e87a-4a26-a4c9-e08159f8afc0", 
+            "title": "Ge\u00e7mi\u015ften G\u00fcn\u00fcm\u00fcze T\u00fcrk M\u00fczi\u011fi A\u015fk ve H\u00fcz\u00fcn"
+        }
+    ], 
+    "title": "K\u0131\u015f Geldi Firak A\u00e7madad\u0131r", 
+    "url": "http://musicbrainz.org/recording/393d14e2-6481-4255-9019-68971cfd949f", 
+    "artist_credits": [
+        {
+            "mbid": "a562cea9-3fe4-4007-b426-56cfbadaa280", 
+            "name": "Haf\u0131z A\u015fir Efendi"
+        }
+    ], 
+    "mbid": "393d14e2-6481-4255-9019-68971cfd949f", 
+    "makam": [
+        {
+            "attribute_key": "hicaz", 
+            "mb_attribute": "Hicaz", 
+            "source": "http://musicbrainz.org/work/b14650a8-835d-49c6-a66b-3c789e629548"
+        }, 
+        {
+            "attribute_key": "hicaz", 
+            "mb_tag": "hicaz", 
+            "source": "http://musicbrainz.org/recording/393d14e2-6481-4255-9019-68971cfd949f"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "a562cea9-3fe4-4007-b426-56cfbadaa280", 
+            "type": "vocal", 
+            "name": "Haf\u0131z A\u015fir Efendi"
+        }
+    ], 
+    "instrumentation_voicing": "Solo vocal without accompaniment", 
+    "works": [
+        {
+            "mbid": "b14650a8-835d-49c6-a66b-3c789e629548", 
+            "title": "K\u0131\u015f Geldi Firak A\u00e7madad\u0131r"
+        }
+    ]
+}

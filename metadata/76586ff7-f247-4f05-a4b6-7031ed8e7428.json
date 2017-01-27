@@ -1,0 +1,67 @@
+{
+    "usul": [
+        {
+            "attribute_key": "devrikebir", 
+            "mb_attribute": "Devr-i Kebir", 
+            "source": "http://musicbrainz.org/work/71d5fcfb-03c6-4850-b4db-b4c54a79e348"
+        }, 
+        {
+            "attribute_key": "evfer", 
+            "mb_tag": "evfer", 
+            "source": "http://musicbrainz.org/recording/76586ff7-f247-4f05-a4b6-7031ed8e7428"
+        }
+    ], 
+    "form": [
+        {
+            "attribute_key": "pesrev", 
+            "mb_attribute": "Pe\u015frev", 
+            "source": "http://musicbrainz.org/work/71d5fcfb-03c6-4850-b4db-b4c54a79e348"
+        }, 
+        {
+            "attribute_key": "ayin_i_serif", 
+            "mb_tag": "ayin-i \u015ferif", 
+            "source": "http://musicbrainz.org/recording/76586ff7-f247-4f05-a4b6-7031ed8e7428"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "430058da-7be0-48ec-abac-9b88b87e293f", 
+            "title": "Mevlevi Sesler"
+        }
+    ], 
+    "title": "4. Selam", 
+    "url": "http://musicbrainz.org/recording/76586ff7-f247-4f05-a4b6-7031ed8e7428", 
+    "artist_credits": [
+        {
+            "mbid": "81081f45-a36e-4248-9d33-43d4a3445f6d", 
+            "name": "Dede Efendi"
+        }
+    ], 
+    "mbid": "76586ff7-f247-4f05-a4b6-7031ed8e7428", 
+    "makam": [
+        {
+            "attribute_key": "bestenigar", 
+            "mb_attribute": "Bestenigar", 
+            "source": "http://musicbrainz.org/work/71d5fcfb-03c6-4850-b4db-b4c54a79e348"
+        }, 
+        {
+            "attribute_key": "bestenigar", 
+            "mb_tag": "bestenigar", 
+            "source": "http://musicbrainz.org/recording/76586ff7-f247-4f05-a4b6-7031ed8e7428"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "713ad8af-1c98-4569-a445-71f7b9395945", 
+            "type": "performing orchestra", 
+            "name": "Dede Efendi T\u00fcrk M\u00fczi\u011fi Toplulu\u011fu"
+        }
+    ], 
+    "instrumentation_voicing": "Ensemble instrumental", 
+    "works": [
+        {
+            "mbid": "71d5fcfb-03c6-4850-b4db-b4c54a79e348", 
+            "title": "Bestenigar Ayin-i \u015eerif"
+        }
+    ]
+}

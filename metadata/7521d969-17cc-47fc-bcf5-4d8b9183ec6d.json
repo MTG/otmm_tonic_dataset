@@ -1,0 +1,77 @@
+{
+    "usul": [
+        {
+            "attribute_key": "devrikebir", 
+            "mb_attribute": "Devr-i Kebir", 
+            "source": "http://musicbrainz.org/work/40300628-d472-4232-81ce-df599f4fbacc"
+        }
+    ], 
+    "form": [
+        {
+            "attribute_key": "pesrev", 
+            "mb_attribute": "Pe\u015frev", 
+            "source": "http://musicbrainz.org/work/40300628-d472-4232-81ce-df599f4fbacc"
+        }, 
+        {
+            "attribute_key": "pesrev", 
+            "mb_tag": "pe\u015frev", 
+            "source": "http://musicbrainz.org/recording/7521d969-17cc-47fc-bcf5-4d8b9183ec6d"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "6155a351-4884-4686-9cbb-ece0b3863afd", 
+            "title": "Saz Musikimiz'den Se\u00e7meler 3"
+        }
+    ], 
+    "title": "Suzidil Pe\u015frevi", 
+    "url": "http://musicbrainz.org/recording/7521d969-17cc-47fc-bcf5-4d8b9183ec6d", 
+    "artist_credits": [
+        {
+            "mbid": "b05a838f-42b7-4f6c-9ab6-40df768a9821", 
+            "name": "Erkan Y\u00fcksel"
+        }, 
+        {
+            "mbid": "91643742-9dd8-4aaf-a643-25f60336e1e9", 
+            "name": "U\u011fur Onuk"
+        }
+    ], 
+    "mbid": "7521d969-17cc-47fc-bcf5-4d8b9183ec6d", 
+    "makam": [
+        {
+            "attribute_key": "suzidil", 
+            "mb_attribute": "Suzidil", 
+            "source": "http://musicbrainz.org/work/40300628-d472-4232-81ce-df599f4fbacc"
+        }, 
+        {
+            "attribute_key": "suzidil", 
+            "mb_tag": "suzidil", 
+            "source": "http://musicbrainz.org/recording/7521d969-17cc-47fc-bcf5-4d8b9183ec6d"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "91643742-9dd8-4aaf-a643-25f60336e1e9", 
+            "attribute-list": [
+                "ney"
+            ], 
+            "type": "instrument", 
+            "name": "U\u011fur Onuk"
+        }, 
+        {
+            "mbid": "b05a838f-42b7-4f6c-9ab6-40df768a9821", 
+            "attribute-list": [
+                "piano"
+            ], 
+            "type": "instrument", 
+            "name": "Erkan Y\u00fcksel"
+        }
+    ], 
+    "instrumentation_voicing": "Duo instrumental", 
+    "works": [
+        {
+            "mbid": "40300628-d472-4232-81ce-df599f4fbacc", 
+            "title": "Suzidil Pe\u015frev"
+        }
+    ]
+}

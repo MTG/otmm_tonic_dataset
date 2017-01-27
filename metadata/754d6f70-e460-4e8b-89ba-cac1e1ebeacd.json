@@ -1,0 +1,49 @@
+{
+    "usul": [
+        {
+            "attribute_key": "serbest", 
+            "mb_tag": "serbest", 
+            "source": "http://musicbrainz.org/recording/754d6f70-e460-4e8b-89ba-cac1e1ebeacd"
+        }
+    ], 
+    "form": [
+        {
+            "attribute_key": "sonata", 
+            "mb_tag": "sonat", 
+            "source": "http://musicbrainz.org/recording/754d6f70-e460-4e8b-89ba-cac1e1ebeacd"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "9d63cb14-4233-48ea-a4c9-e3c60d880786", 
+            "title": "Tanbur"
+        }
+    ], 
+    "title": "Tanbur Sonat\u0131", 
+    "url": "http://musicbrainz.org/recording/754d6f70-e460-4e8b-89ba-cac1e1ebeacd", 
+    "artist_credits": [
+        {
+            "mbid": "ef7f9168-eec5-4ecd-a142-132ef3355fc1", 
+            "name": "Erc\u00fcmend Batanay"
+        }
+    ], 
+    "mbid": "754d6f70-e460-4e8b-89ba-cac1e1ebeacd", 
+    "makam": [], 
+    "artists": [
+        {
+            "mbid": "ef7f9168-eec5-4ecd-a142-132ef3355fc1", 
+            "attribute-list": [
+                "tanbur"
+            ], 
+            "type": "instrument", 
+            "name": "Erc\u00fcmend Batanay"
+        }
+    ], 
+    "instrumentation_voicing": "Solo instrumental", 
+    "works": [
+        {
+            "mbid": "a72a82fe-527d-4971-a3ed-28f6fa20a7c8", 
+            "title": "Tanbur Sonat\u0131"
+        }
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "instrumentation_voicing": "Solo instrumental", 
+    "form": [
+        {
+            "attribute_key": "taksim", 
+            "mb_tag": "taksim", 
+            "source": "http://musicbrainz.org/recording/04dac285-4eb2-41a7-87c2-08879e709937"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "67514072-161f-49e9-b188-b869f71c6a47", 
+            "title": "Bekir S\u0131dk\u0131 Sezgin 26"
+        }
+    ], 
+    "title": "Hicaz Ney Taksimi", 
+    "url": "http://musicbrainz.org/recording/04dac285-4eb2-41a7-87c2-08879e709937", 
+    "artist_credits": [
+        {
+            "mbid": "7ef61959-65f2-41ab-9ae2-ba890812b7b4", 
+            "name": "Bekir S\u0131dk\u0131 Sezgin"
+        }
+    ], 
+    "mbid": "04dac285-4eb2-41a7-87c2-08879e709937", 
+    "makam": [
+        {
+            "attribute_key": "nihavent", 
+            "mb_tag": "nihavent", 
+            "source": "http://musicbrainz.org/recording/04dac285-4eb2-41a7-87c2-08879e709937"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
+            "attribute-list": [
+                "ney", 
+                "solo"
+            ], 
+            "type": "instrument", 
+            "name": "[unknown]"
+        }
+    ], 
+    "usul": [
+        {
+            "attribute_key": "serbest", 
+            "mb_tag": "serbest", 
+            "source": "http://musicbrainz.org/recording/04dac285-4eb2-41a7-87c2-08879e709937"
+        }
+    ]
+}

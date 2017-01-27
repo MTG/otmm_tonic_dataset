@@ -1,0 +1,67 @@
+{
+    "usul": [
+        {
+            "attribute_key": "turkaksagi", 
+            "mb_attribute": "T\u00fcrkaksa\u011f\u0131", 
+            "source": "http://musicbrainz.org/work/b34f1fea-df55-463e-815c-6866ecd05f4f"
+        }, 
+        {
+            "attribute_key": "turkaksagi_ii", 
+            "mb_tag": "t\u00fcrkaksa\u011f\u0131", 
+            "source": "http://musicbrainz.org/recording/e8288a5b-9b91-4984-a30e-88c80df4a433"
+        }
+    ], 
+    "form": [
+        {
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
+            "source": "http://musicbrainz.org/work/b34f1fea-df55-463e-815c-6866ecd05f4f"
+        }, 
+        {
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
+            "source": "http://musicbrainz.org/recording/e8288a5b-9b91-4984-a30e-88c80df4a433"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "66122020-7d22-4fc6-89f2-9dd78b1a2c74", 
+            "title": "Fasl-\u0131 \u015eahane Enstrumantal, Volume 2"
+        }
+    ], 
+    "title": "K\u00f6rfezdeki Dalg\u0131n Suya", 
+    "url": "http://musicbrainz.org/recording/e8288a5b-9b91-4984-a30e-88c80df4a433", 
+    "artist_credits": [
+        {
+            "mbid": "ef074ab6-a2a8-42f7-a454-068265023697", 
+            "name": "Aziz T\u00fcrk Sanat M\u00fczi\u011fi Grubu"
+        }
+    ], 
+    "mbid": "e8288a5b-9b91-4984-a30e-88c80df4a433", 
+    "makam": [
+        {
+            "attribute_key": "nihavent", 
+            "mb_attribute": "Nihavent", 
+            "source": "http://musicbrainz.org/work/b34f1fea-df55-463e-815c-6866ecd05f4f"
+        }, 
+        {
+            "attribute_key": "nihavent", 
+            "mb_tag": "nihavent", 
+            "source": "http://musicbrainz.org/recording/e8288a5b-9b91-4984-a30e-88c80df4a433"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
+            "type": "performing orchestra", 
+            "name": "[unknown]"
+        }
+    ], 
+    "instrumentation_voicing": "Ensemble instrumental", 
+    "works": [
+        {
+            "mbid": "b34f1fea-df55-463e-815c-6866ecd05f4f", 
+            "title": "K\u00f6rfezdeki Dalg\u0131n Suya Bir Bak G\u00f6receksin"
+        }
+    ]
+}

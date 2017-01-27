@@ -1,0 +1,32 @@
+{
+    "releases": [
+        {
+            "mbid": "c58f2002-8862-4efb-953b-7324bb7f3e31", 
+            "title": "T\u00fcrk Sanat M\u00fczi\u011fi Besteleri Saz Eserleri 3"
+        }
+    ], 
+    "title": "Sultani Yegah", 
+    "url": "http://musicbrainz.org/recording/99c485b4-e11b-4314-a363-0e1b104b0f0b", 
+    "artist_credits": [
+        {
+            "mbid": "ef074ab6-a2a8-42f7-a454-068265023697", 
+            "name": "Aziz T\u00fcrk Sanat M\u00fczi\u011fi Grubu"
+        }
+    ], 
+    "mbid": "99c485b4-e11b-4314-a363-0e1b104b0f0b", 
+    "makam": [
+        {
+            "attribute_key": "sultaniyegah", 
+            "mb_tag": "sultaniyegah", 
+            "source": "http://musicbrainz.org/recording/99c485b4-e11b-4314-a363-0e1b104b0f0b"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "ef074ab6-a2a8-42f7-a454-068265023697", 
+            "type": "performing orchestra", 
+            "name": "Aziz T\u00fcrk Sanat M\u00fczi\u011fi Grubu"
+        }
+    ], 
+    "instrumentation_voicing": "Ensemble instrumental"
+}

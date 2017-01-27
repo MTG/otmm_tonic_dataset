@@ -1,0 +1,49 @@
+{
+    "instrumentation_voicing": "Solo instrumental", 
+    "form": [
+        {
+            "attribute_key": "taksim", 
+            "mb_tag": "taksim", 
+            "source": "http://musicbrainz.org/recording/9b078720-107f-48d0-bf78-e51cd49af80e"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "3bd738e1-2251-47d3-ae48-c5cd1fb1577f", 
+            "title": "Klasikler - 2"
+        }
+    ], 
+    "title": "K\u00fcrdilihicazkar Kanun Taksimi", 
+    "url": "http://musicbrainz.org/recording/9b078720-107f-48d0-bf78-e51cd49af80e", 
+    "artist_credits": [
+        {
+            "mbid": "3e753aab-d842-481e-81ea-74918ab1fb04", 
+            "name": "C\u00fcneyt Kosal"
+        }
+    ], 
+    "mbid": "9b078720-107f-48d0-bf78-e51cd49af80e", 
+    "makam": [
+        {
+            "attribute_key": "kurdilihicazkar", 
+            "mb_tag": "k\u00fcrdilihicazkar", 
+            "source": "http://musicbrainz.org/recording/9b078720-107f-48d0-bf78-e51cd49af80e"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "3e753aab-d842-481e-81ea-74918ab1fb04", 
+            "attribute-list": [
+                "kanun"
+            ], 
+            "type": "instrument", 
+            "name": "C\u00fcneyt Kosal"
+        }
+    ], 
+    "usul": [
+        {
+            "attribute_key": "serbest", 
+            "mb_tag": "serbest", 
+            "source": "http://musicbrainz.org/recording/9b078720-107f-48d0-bf78-e51cd49af80e"
+        }
+    ]
+}

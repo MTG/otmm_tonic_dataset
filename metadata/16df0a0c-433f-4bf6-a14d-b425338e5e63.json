@@ -1,0 +1,122 @@
+{
+    "usul": [
+        {
+            "attribute_key": "cifteduyek", 
+            "mb_attribute": "\u00c7ifted\u00fcyek", 
+            "source": "http://musicbrainz.org/work/15ba9cc8-99fa-44c0-956b-7b4859af5576"
+        }, 
+        {
+            "attribute_key": "cifteduyek", 
+            "mb_tag": "\u00e7ifted\u00fcyek", 
+            "source": "http://musicbrainz.org/recording/16df0a0c-433f-4bf6-a14d-b425338e5e63"
+        }
+    ], 
+    "form": [
+        {
+            "attribute_key": "pesrev", 
+            "mb_attribute": "Pe\u015frev", 
+            "source": "http://musicbrainz.org/work/15ba9cc8-99fa-44c0-956b-7b4859af5576"
+        }, 
+        {
+            "attribute_key": "pesrev", 
+            "mb_tag": "pe\u015frev", 
+            "source": "http://musicbrainz.org/recording/16df0a0c-433f-4bf6-a14d-b425338e5e63"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "8e169015-211d-4d7e-a2a6-e33d7e57c17a", 
+            "title": "Be\u015fibiryerde"
+        }
+    ], 
+    "title": "Evcara Pe\u015frevi", 
+    "url": "http://musicbrainz.org/recording/16df0a0c-433f-4bf6-a14d-b425338e5e63", 
+    "artist_credits": [
+        {
+            "mbid": "eb150720-40d5-4da9-8c8b-b149601c73e5", 
+            "name": "Necdet Ya\u015far"
+        }, 
+        {
+            "mbid": "c5bd2eee-7fcb-4cc5-8481-a69f5caded75", 
+            "name": "Ruhi Ayangil"
+        }, 
+        {
+            "mbid": "5121835d-84fb-44c6-8eed-8a8da4c444ba", 
+            "name": "Ahmet \u015eahin"
+        }, 
+        {
+            "mbid": "81b7cee2-03e6-44ae-b9d9-9a4e43f5bc8d", 
+            "name": "Asl\u0131han Eruzun \u00d6zel"
+        }, 
+        {
+            "mbid": "f7e5d6a4-7611-4fb9-a766-f7a5124963a5", 
+            "name": "\u00d6zer \u00d6zel"
+        }, 
+        {
+            "mbid": "5668a74b-1da3-4a58-bae1-d69f9fec76d7", 
+            "name": "Serdar Bi\u015firen"
+        }
+    ], 
+    "mbid": "16df0a0c-433f-4bf6-a14d-b425338e5e63", 
+    "makam": [
+        {
+            "attribute_key": "evcara", 
+            "mb_attribute": "Evcara", 
+            "source": "http://musicbrainz.org/work/15ba9cc8-99fa-44c0-956b-7b4859af5576"
+        }, 
+        {
+            "attribute_key": "evcara", 
+            "mb_tag": "evcara", 
+            "source": "http://musicbrainz.org/recording/16df0a0c-433f-4bf6-a14d-b425338e5e63"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "5121835d-84fb-44c6-8eed-8a8da4c444ba", 
+            "attribute-list": [
+                "ney"
+            ], 
+            "type": "instrument", 
+            "name": "Ahmet \u015eahin"
+        }, 
+        {
+            "mbid": "5668a74b-1da3-4a58-bae1-d69f9fec76d7", 
+            "attribute-list": [
+                "bendir"
+            ], 
+            "type": "instrument", 
+            "name": "Serdar Bi\u015firen"
+        }, 
+        {
+            "mbid": "c5bd2eee-7fcb-4cc5-8481-a69f5caded75", 
+            "attribute-list": [
+                "kanun"
+            ], 
+            "type": "instrument", 
+            "name": "Ruhi Ayangil"
+        }, 
+        {
+            "mbid": "eb150720-40d5-4da9-8c8b-b149601c73e5", 
+            "attribute-list": [
+                "tanbur"
+            ], 
+            "type": "instrument", 
+            "name": "Necdet Ya\u015far"
+        }, 
+        {
+            "mbid": "f7e5d6a4-7611-4fb9-a766-f7a5124963a5", 
+            "attribute-list": [
+                "tanbur"
+            ], 
+            "type": "instrument", 
+            "name": "\u00d6zer \u00d6zel"
+        }
+    ], 
+    "instrumentation_voicing": "Ensemble instrumental", 
+    "works": [
+        {
+            "mbid": "15ba9cc8-99fa-44c0-956b-7b4859af5576", 
+            "title": "Evc\u00e2r\u00e2 Pe\u015frevi"
+        }
+    ]
+}

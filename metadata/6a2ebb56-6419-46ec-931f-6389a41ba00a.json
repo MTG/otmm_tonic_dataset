@@ -1,0 +1,49 @@
+{
+    "instrumentation_voicing": "Solo instrumental", 
+    "form": [
+        {
+            "attribute_key": "taksim", 
+            "mb_tag": "taksim", 
+            "source": "http://musicbrainz.org/recording/6a2ebb56-6419-46ec-931f-6389a41ba00a"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "4b312598-d743-41ad-b193-785872b2888a", 
+            "title": "12 Makamda Yayl\u0131 Tanbur Taksimleri"
+        }
+    ], 
+    "title": "Rast Taksimi", 
+    "url": "http://musicbrainz.org/recording/6a2ebb56-6419-46ec-931f-6389a41ba00a", 
+    "artist_credits": [
+        {
+            "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
+            "name": "[unknown]"
+        }
+    ], 
+    "mbid": "6a2ebb56-6419-46ec-931f-6389a41ba00a", 
+    "makam": [
+        {
+            "attribute_key": "rast", 
+            "mb_tag": "rast", 
+            "source": "http://musicbrainz.org/recording/6a2ebb56-6419-46ec-931f-6389a41ba00a"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
+            "attribute-list": [
+                "yayl\u0131 tanbur"
+            ], 
+            "type": "instrument", 
+            "name": "[unknown]"
+        }
+    ], 
+    "usul": [
+        {
+            "attribute_key": "serbest", 
+            "mb_tag": "serbest", 
+            "source": "http://musicbrainz.org/recording/6a2ebb56-6419-46ec-931f-6389a41ba00a"
+        }
+    ]
+}

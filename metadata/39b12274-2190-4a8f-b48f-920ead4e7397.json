@@ -1,0 +1,82 @@
+{
+    "usul": [
+        {
+            "attribute_key": "aksak", 
+            "mb_attribute": "Aksak", 
+            "source": "http://musicbrainz.org/work/9aaf5c0b-4642-40fd-97ba-c861265872ce"
+        }, 
+        {
+            "attribute_key": "aksak", 
+            "mb_tag": "aksak", 
+            "source": "http://musicbrainz.org/recording/39b12274-2190-4a8f-b48f-920ead4e7397"
+        }
+    ], 
+    "form": [
+        {
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
+            "source": "http://musicbrainz.org/work/9aaf5c0b-4642-40fd-97ba-c861265872ce"
+        }, 
+        {
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
+            "source": "http://musicbrainz.org/recording/39b12274-2190-4a8f-b48f-920ead4e7397"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "771960bc-acfe-49c0-ba07-125f3dabfd4a", 
+            "title": "T\u00fcrk Sanat M\u00fczi\u011fi Esintileri T\u00fcrk M\u00fczi\u011fi Koleksiyonu 1"
+        }
+    ], 
+    "title": "Gel G\u00fczelim \u00c7aml\u0131ca'ya", 
+    "url": "http://musicbrainz.org/recording/39b12274-2190-4a8f-b48f-920ead4e7397", 
+    "artist_credits": [
+        {
+            "mbid": "02d293b9-8ffa-4cf9-a9f1-19024069e874", 
+            "name": "Beysun Y\u0131ld\u0131z"
+        }, 
+        {
+            "mbid": "732568c2-4037-4aeb-b942-ff71d36c063f", 
+            "name": "Min\u00f6r"
+        }
+    ], 
+    "mbid": "39b12274-2190-4a8f-b48f-920ead4e7397", 
+    "makam": [
+        {
+            "attribute_key": "nihavent", 
+            "mb_attribute": "Nihavent", 
+            "source": "http://musicbrainz.org/work/9aaf5c0b-4642-40fd-97ba-c861265872ce"
+        }, 
+        {
+            "attribute_key": "nihavent", 
+            "mb_tag": "nihavent", 
+            "source": "http://musicbrainz.org/recording/39b12274-2190-4a8f-b48f-920ead4e7397"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "02d293b9-8ffa-4cf9-a9f1-19024069e874", 
+            "attribute-list": [
+                "piano"
+            ], 
+            "type": "instrument", 
+            "name": "Beysun Y\u0131ld\u0131z"
+        }, 
+        {
+            "mbid": "732568c2-4037-4aeb-b942-ff71d36c063f", 
+            "attribute-list": [
+                "violin"
+            ], 
+            "type": "instrument", 
+            "name": "Min\u00f6r"
+        }
+    ], 
+    "instrumentation_voicing": "Duo instrumental", 
+    "works": [
+        {
+            "mbid": "9aaf5c0b-4642-40fd-97ba-c861265872ce", 
+            "title": "Gel G\u00fczelim \u00c7aml\u0131ca'ya"
+        }
+    ]
+}

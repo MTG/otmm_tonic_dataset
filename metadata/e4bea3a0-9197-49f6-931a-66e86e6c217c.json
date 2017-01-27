@@ -1,0 +1,72 @@
+{
+    "usul": [
+        {
+            "attribute_key": "kapali_curcuna", 
+            "mb_attribute": "Kapal\u0131 Curcuna", 
+            "source": "http://musicbrainz.org/work/80f174d9-5999-4a35-b3df-bd82743d365d"
+        }, 
+        {
+            "attribute_key": "kapali_curcuna", 
+            "mb_tag": "curcuna", 
+            "source": "http://musicbrainz.org/recording/e4bea3a0-9197-49f6-931a-66e86e6c217c"
+        }
+    ], 
+    "form": [
+        {
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
+            "source": "http://musicbrainz.org/work/80f174d9-5999-4a35-b3df-bd82743d365d"
+        }, 
+        {
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
+            "source": "http://musicbrainz.org/recording/e4bea3a0-9197-49f6-931a-66e86e6c217c"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "cbbfd68e-1247-4042-aae9-ce8112f8973a", 
+            "title": "Bekir S\u0131dk\u0131 Sezgin 13"
+        }
+    ], 
+    "title": "Bilmezsin D\u00fc\u015f\u00fcnd\u00fc\u011f\u00fcm A\u011flad\u0131klar\u0131m Nedir", 
+    "url": "http://musicbrainz.org/recording/e4bea3a0-9197-49f6-931a-66e86e6c217c", 
+    "artist_credits": [
+        {
+            "mbid": "7ef61959-65f2-41ab-9ae2-ba890812b7b4", 
+            "name": "Bekir S\u0131dk\u0131 Sezgin"
+        }
+    ], 
+    "mbid": "e4bea3a0-9197-49f6-931a-66e86e6c217c", 
+    "makam": [
+        {
+            "attribute_key": "beyati", 
+            "mb_attribute": "Beyati", 
+            "source": "http://musicbrainz.org/work/80f174d9-5999-4a35-b3df-bd82743d365d"
+        }, 
+        {
+            "attribute_key": "beyati", 
+            "mb_tag": "bayati", 
+            "source": "http://musicbrainz.org/recording/e4bea3a0-9197-49f6-931a-66e86e6c217c"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
+            "type": "performing orchestra", 
+            "name": "[unknown]"
+        }, 
+        {
+            "mbid": "7ef61959-65f2-41ab-9ae2-ba890812b7b4", 
+            "type": "vocal", 
+            "name": "Bekir S\u0131dk\u0131 Sezgin"
+        }
+    ], 
+    "instrumentation_voicing": "Solo vocal with accompaniment", 
+    "works": [
+        {
+            "mbid": "80f174d9-5999-4a35-b3df-bd82743d365d", 
+            "title": "Bilmezsin D\u00fc\u015f\u00fcnd\u00fc\u011f\u00fcm A\u011flad\u0131klar\u0131m Nedir"
+        }
+    ]
+}

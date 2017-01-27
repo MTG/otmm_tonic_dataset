@@ -1,0 +1,49 @@
+{
+    "instrumentation_voicing": "Solo instrumental", 
+    "form": [
+        {
+            "attribute_key": "taksim", 
+            "mb_tag": "taksim", 
+            "source": "http://musicbrainz.org/recording/9ea3b6d6-d461-41bb-8496-57c4d475ac3b"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "088ca7fd-f53e-48ce-bbdb-1102d1d4133b", 
+            "title": "Fasl-\u0131 \u015eahane Enstrumantal, Volume 1"
+        }
+    ], 
+    "title": "Ud Taksim", 
+    "url": "http://musicbrainz.org/recording/9ea3b6d6-d461-41bb-8496-57c4d475ac3b", 
+    "artist_credits": [
+        {
+            "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
+            "name": "[unknown]"
+        }
+    ], 
+    "mbid": "9ea3b6d6-d461-41bb-8496-57c4d475ac3b", 
+    "makam": [
+        {
+            "attribute_key": "huzzam", 
+            "mb_tag": "h\u00fczzam", 
+            "source": "http://musicbrainz.org/recording/9ea3b6d6-d461-41bb-8496-57c4d475ac3b"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
+            "attribute-list": [
+                "oud"
+            ], 
+            "type": "instrument", 
+            "name": "[unknown]"
+        }
+    ], 
+    "usul": [
+        {
+            "attribute_key": "serbest", 
+            "mb_tag": "serbest", 
+            "source": "http://musicbrainz.org/recording/9ea3b6d6-d461-41bb-8496-57c4d475ac3b"
+        }
+    ]
+}

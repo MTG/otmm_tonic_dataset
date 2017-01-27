@@ -1,0 +1,116 @@
+{
+    "usul": [
+        {
+            "attribute_key": "aksaksemai", 
+            "mb_attribute": "Aksaksemai", 
+            "source": "http://musicbrainz.org/work/112b1e7f-42a4-41f3-b641-699fce784a8a"
+        }, 
+        {
+            "attribute_key": "hafif", 
+            "mb_attribute": "Hafif", 
+            "source": "http://musicbrainz.org/work/651841c6-a0a4-41f2-9e45-c62c0c971475"
+        }, 
+        {
+            "attribute_key": "cifteduyek", 
+            "mb_tag": "\u00e7ifted\u00fcyek", 
+            "source": "http://musicbrainz.org/recording/1a0f66eb-902e-4563-b5fa-00469ff50a11"
+        }, 
+        {
+            "attribute_key": "aksaksemai", 
+            "mb_tag": "aksaksemai", 
+            "source": "http://musicbrainz.org/recording/1a0f66eb-902e-4563-b5fa-00469ff50a11"
+        }
+    ], 
+    "form": [
+        {
+            "attribute_key": "sazsemaisi", 
+            "mb_attribute": "Sazsemaisi", 
+            "source": "http://musicbrainz.org/work/112b1e7f-42a4-41f3-b641-699fce784a8a"
+        }, 
+        {
+            "attribute_key": "pesrev", 
+            "mb_attribute": "Pe\u015frev", 
+            "source": "http://musicbrainz.org/work/651841c6-a0a4-41f2-9e45-c62c0c971475"
+        }, 
+        {
+            "attribute_key": "pesrev", 
+            "mb_tag": "pe\u015frev", 
+            "source": "http://musicbrainz.org/recording/1a0f66eb-902e-4563-b5fa-00469ff50a11"
+        }, 
+        {
+            "attribute_key": "sazsemaisi", 
+            "mb_tag": "sazsemaisi", 
+            "source": "http://musicbrainz.org/recording/1a0f66eb-902e-4563-b5fa-00469ff50a11"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "1ddaa8b3-a005-4c68-8323-1d566a3ca31e", 
+            "title": "T\u00fcrk M\u00fczi\u011fi Ustalar\u0131 - 1"
+        }
+    ], 
+    "title": "Beyati Sazsemaisi, U\u015f\u015fak Pe\u015frev", 
+    "url": "http://musicbrainz.org/recording/1a0f66eb-902e-4563-b5fa-00469ff50a11", 
+    "artist_credits": [
+        {
+            "mbid": "4acf1b6d-910a-4540-9a8f-aadcef86eb0c", 
+            "name": "Niyazi Say\u0131n"
+        }, 
+        {
+            "mbid": "eb150720-40d5-4da9-8c8b-b149601c73e5", 
+            "name": "Necdet Ya\u015far"
+        }
+    ], 
+    "mbid": "1a0f66eb-902e-4563-b5fa-00469ff50a11", 
+    "makam": [
+        {
+            "attribute_key": "beyati", 
+            "mb_attribute": "Beyati", 
+            "source": "http://musicbrainz.org/work/112b1e7f-42a4-41f3-b641-699fce784a8a"
+        }, 
+        {
+            "attribute_key": "ussak", 
+            "mb_attribute": "U\u015f\u015fak", 
+            "source": "http://musicbrainz.org/work/651841c6-a0a4-41f2-9e45-c62c0c971475"
+        }, 
+        {
+            "attribute_key": "ussak", 
+            "mb_tag": "u\u015f\u015fak", 
+            "source": "http://musicbrainz.org/recording/1a0f66eb-902e-4563-b5fa-00469ff50a11"
+        }, 
+        {
+            "attribute_key": "beyati", 
+            "mb_tag": "beyati", 
+            "source": "http://musicbrainz.org/recording/1a0f66eb-902e-4563-b5fa-00469ff50a11"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "4acf1b6d-910a-4540-9a8f-aadcef86eb0c", 
+            "attribute-list": [
+                "ney"
+            ], 
+            "type": "instrument", 
+            "name": "Niyazi Say\u0131n"
+        }, 
+        {
+            "mbid": "eb150720-40d5-4da9-8c8b-b149601c73e5", 
+            "attribute-list": [
+                "tanbur"
+            ], 
+            "type": "instrument", 
+            "name": "Necdet Ya\u015far"
+        }
+    ], 
+    "instrumentation_voicing": "Duo instrumental", 
+    "works": [
+        {
+            "mbid": "112b1e7f-42a4-41f3-b641-699fce784a8a", 
+            "title": "Beyati Sazsemaisi"
+        }, 
+        {
+            "mbid": "651841c6-a0a4-41f2-9e45-c62c0c971475", 
+            "title": "U\u015f\u015fak Pe\u015frev"
+        }
+    ]
+}

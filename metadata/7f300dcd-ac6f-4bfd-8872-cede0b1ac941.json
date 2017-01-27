@@ -1,0 +1,83 @@
+{
+    "usul": [
+        {
+            "attribute_key": "aksaksemai", 
+            "mb_attribute": "Aksaksemai", 
+            "source": "http://musicbrainz.org/work/8512dbe6-fe9e-4095-810a-fe9db639d788"
+        }, 
+        {
+            "attribute_key": "aksaksemai", 
+            "mb_tag": "aksaksemai", 
+            "source": "http://musicbrainz.org/recording/7f300dcd-ac6f-4bfd-8872-cede0b1ac941"
+        }
+    ], 
+    "form": [
+        {
+            "attribute_key": "sazsemaisi", 
+            "mb_attribute": "Sazsemaisi", 
+            "source": "http://musicbrainz.org/work/8512dbe6-fe9e-4095-810a-fe9db639d788"
+        }, 
+        {
+            "attribute_key": "sazsemaisi", 
+            "mb_tag": "sazsemaisi", 
+            "source": "http://musicbrainz.org/recording/7f300dcd-ac6f-4bfd-8872-cede0b1ac941"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "805a3604-92e6-482f-a0e3-6620c4523d7a", 
+            "title": "Tanburi Cemil Bey - Volumes II & III"
+        }
+    ], 
+    "title": "Ferafeza Sazsemaisi", 
+    "url": "http://musicbrainz.org/recording/7f300dcd-ac6f-4bfd-8872-cede0b1ac941", 
+    "artist_credits": [
+        {
+            "mbid": "4cc5200e-a3f7-4d5d-8b15-9b10a8f9a9a2", 
+            "name": "Tanburi Cemil Bey"
+        }
+    ], 
+    "mbid": "7f300dcd-ac6f-4bfd-8872-cede0b1ac941", 
+    "makam": [
+        {
+            "attribute_key": "ferahfeza", 
+            "mb_attribute": "Ferahfeza", 
+            "source": "http://musicbrainz.org/work/8512dbe6-fe9e-4095-810a-fe9db639d788"
+        }, 
+        {
+            "attribute_key": "ferahfeza", 
+            "mb_tag": "ferahfeza", 
+            "source": "http://musicbrainz.org/recording/7f300dcd-ac6f-4bfd-8872-cede0b1ac941"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
+            "attribute-list": [
+                "classical kemen\u00e7e"
+            ], 
+            "type": "instrument", 
+            "name": "[unknown]"
+        }, 
+        {
+            "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
+            "attribute-list": [
+                "tanbur"
+            ], 
+            "type": "instrument", 
+            "name": "[unknown]"
+        }, 
+        {
+            "mbid": "4cc5200e-a3f7-4d5d-8b15-9b10a8f9a9a2", 
+            "type": "instrument", 
+            "name": "Tanburi Cemil Bey"
+        }
+    ], 
+    "instrumentation_voicing": "Trio instrumental", 
+    "works": [
+        {
+            "mbid": "8512dbe6-fe9e-4095-810a-fe9db639d788", 
+            "title": "Ferahfeza Sazsemaisi"
+        }
+    ]
+}

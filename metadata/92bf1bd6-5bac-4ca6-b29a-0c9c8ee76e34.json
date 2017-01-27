@@ -1,0 +1,89 @@
+{
+    "usul": [
+        {
+            "attribute_key": "devrirevan", 
+            "mb_attribute": "Devr-i Revan", 
+            "source": "http://musicbrainz.org/work/b22c1476-70c9-48f6-b6a2-8f6ddc926a05"
+        }
+    ], 
+    "form": [
+        {
+            "attribute_key": "pesrev", 
+            "mb_attribute": "Pe\u015frev", 
+            "source": "http://musicbrainz.org/work/b22c1476-70c9-48f6-b6a2-8f6ddc926a05"
+        }, 
+        {
+            "attribute_key": "pesrev", 
+            "mb_tag": "pe\u015frev", 
+            "source": "http://musicbrainz.org/recording/92bf1bd6-5bac-4ca6-b29a-0c9c8ee76e34"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "fabc564c-e3dd-4903-a224-1ddf48438197", 
+            "title": "Minstrel's Era"
+        }
+    ], 
+    "title": "Buselik Pe\u015frev", 
+    "url": "http://musicbrainz.org/recording/92bf1bd6-5bac-4ca6-b29a-0c9c8ee76e34", 
+    "artist_credits": [
+        {
+            "mbid": "b80cd1ab-a00c-4f98-89c1-a798deb2d5c2", 
+            "name": "Derya T\u00fcrkan"
+        }, 
+        {
+            "mbid": "59d8bee3-a751-4849-9f1f-42e9f343baf1", 
+            "name": "Renaud Garcia-Fons"
+        }, 
+        {
+            "mbid": "cfe6aea2-c362-4760-9ad1-b95db1605b6e", 
+            "name": "U\u011fur I\u015f\u0131k"
+        }
+    ], 
+    "mbid": "92bf1bd6-5bac-4ca6-b29a-0c9c8ee76e34", 
+    "makam": [
+        {
+            "attribute_key": "buselik", 
+            "mb_attribute": "Buselik", 
+            "source": "http://musicbrainz.org/work/b22c1476-70c9-48f6-b6a2-8f6ddc926a05"
+        }, 
+        {
+            "attribute_key": "buselik", 
+            "mb_tag": "buselik", 
+            "source": "http://musicbrainz.org/recording/92bf1bd6-5bac-4ca6-b29a-0c9c8ee76e34"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "59d8bee3-a751-4849-9f1f-42e9f343baf1", 
+            "attribute-list": [
+                "double bass"
+            ], 
+            "type": "instrument", 
+            "name": "Renaud Garcia-Fons"
+        }, 
+        {
+            "mbid": "b80cd1ab-a00c-4f98-89c1-a798deb2d5c2", 
+            "attribute-list": [
+                "classical kemen\u00e7e"
+            ], 
+            "type": "instrument", 
+            "name": "Derya T\u00fcrkan"
+        }, 
+        {
+            "mbid": "cfe6aea2-c362-4760-9ad1-b95db1605b6e", 
+            "attribute-list": [
+                "cello"
+            ], 
+            "type": "instrument", 
+            "name": "U\u011fur I\u015f\u0131k"
+        }
+    ], 
+    "instrumentation_voicing": "Trio instrumental", 
+    "works": [
+        {
+            "mbid": "b22c1476-70c9-48f6-b6a2-8f6ddc926a05", 
+            "title": "Buselik Pe\u015frev"
+        }
+    ]
+}

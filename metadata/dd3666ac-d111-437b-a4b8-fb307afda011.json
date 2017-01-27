@@ -1,0 +1,112 @@
+{
+    "usul": [
+        {
+            "attribute_key": "devrikebir", 
+            "mb_attribute": "Devr-i Kebir", 
+            "source": "http://musicbrainz.org/work/820b3011-67ba-4dbd-b249-2fd3008ac032"
+        }, 
+        {
+            "attribute_key": "devrikebir", 
+            "mb_tag": "devr-i kebir", 
+            "source": "http://musicbrainz.org/recording/dd3666ac-d111-437b-a4b8-fb307afda011"
+        }
+    ], 
+    "form": [
+        {
+            "attribute_key": "pesrev", 
+            "mb_attribute": "Pe\u015frev", 
+            "source": "http://musicbrainz.org/work/820b3011-67ba-4dbd-b249-2fd3008ac032"
+        }, 
+        {
+            "attribute_key": "pesrev", 
+            "mb_tag": "pe\u015frev", 
+            "source": "http://musicbrainz.org/recording/dd3666ac-d111-437b-a4b8-fb307afda011"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "d6894b04-7022-4c6e-83bc-8c0bf5adbdf6", 
+            "title": "Yenikap\u0131 Mevlevihanesi - The Yenikap\u0131 Mevlevi Lodge"
+        }
+    ], 
+    "title": "Isfahan Makam\u0131nda Pe\u015frev", 
+    "url": "http://musicbrainz.org/recording/dd3666ac-d111-437b-a4b8-fb307afda011", 
+    "artist_credits": [
+        {
+            "mbid": "4e145d13-83e5-4635-90f2-2c64a55d4ed3", 
+            "name": "S\u00f6z Saz \u0130stanbul"
+        }
+    ], 
+    "mbid": "dd3666ac-d111-437b-a4b8-fb307afda011", 
+    "makam": [
+        {
+            "attribute_key": "isfahan", 
+            "mb_attribute": "Isfahan", 
+            "source": "http://musicbrainz.org/work/820b3011-67ba-4dbd-b249-2fd3008ac032"
+        }, 
+        {
+            "attribute_key": "isfahan", 
+            "mb_tag": "\u0131sfahan", 
+            "source": "http://musicbrainz.org/recording/dd3666ac-d111-437b-a4b8-fb307afda011"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "0518ef77-8346-4714-82d3-19adfba375c7", 
+            "attribute-list": [
+                "kanun"
+            ], 
+            "type": "instrument", 
+            "name": "Serkan Mesut Halili"
+        }, 
+        {
+            "mbid": "7ae028e6-a330-47de-894e-065f335e3a14", 
+            "attribute-list": [
+                "cello"
+            ], 
+            "type": "instrument", 
+            "name": "\u00d6zg\u00fcr \u00d6zg\u00fcler"
+        }, 
+        {
+            "mbid": "b0eb3f51-ad13-46ed-9206-f490f7c619eb", 
+            "attribute-list": [
+                "bendir", 
+                "daire", 
+                "kud\u00fcm"
+            ], 
+            "type": "instrument", 
+            "name": "Ferruh Yark\u0131n"
+        }, 
+        {
+            "mbid": "c470e6d2-320d-47a8-9daa-e2febd6cf4ae", 
+            "attribute-list": [
+                "oud"
+            ], 
+            "type": "instrument", 
+            "name": "Enver Mete Aslan"
+        }, 
+        {
+            "mbid": "c828fa17-19ef-41f9-8734-f7a988c94b26", 
+            "attribute-list": [
+                "ney"
+            ], 
+            "type": "instrument", 
+            "name": "Kemal Kara\u00f6z"
+        }, 
+        {
+            "mbid": "edb76300-a5eb-4136-8fb0-c176eb5a4ced", 
+            "attribute-list": [
+                "classical kemen\u00e7e"
+            ], 
+            "type": "instrument", 
+            "name": "Sercan Halili"
+        }
+    ], 
+    "instrumentation_voicing": "Ensemble instrumental", 
+    "works": [
+        {
+            "mbid": "820b3011-67ba-4dbd-b249-2fd3008ac032", 
+            "title": "Isfahan Pe\u015frev"
+        }
+    ]
+}

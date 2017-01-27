@@ -1,0 +1,77 @@
+{
+    "usul": [
+        {
+            "attribute_key": "muhammes", 
+            "mb_attribute": "Muhammes", 
+            "source": "http://musicbrainz.org/work/423ec97c-d4bd-4340-81da-625b1934021b"
+        }
+    ], 
+    "form": [
+        {
+            "attribute_key": "pesrev", 
+            "mb_attribute": "Pe\u015frev", 
+            "source": "http://musicbrainz.org/work/423ec97c-d4bd-4340-81da-625b1934021b"
+        }, 
+        {
+            "attribute_key": "pesrev", 
+            "mb_tag": "pe\u015frev", 
+            "source": "http://musicbrainz.org/recording/87947c7d-e887-4af9-8baa-85c7e6873812"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "6155a351-4884-4686-9cbb-ece0b3863afd", 
+            "title": "Saz Musikimiz'den Se\u00e7meler 3"
+        }
+    ], 
+    "title": "Mahur Pe\u015frevi", 
+    "url": "http://musicbrainz.org/recording/87947c7d-e887-4af9-8baa-85c7e6873812", 
+    "artist_credits": [
+        {
+            "mbid": "d3ecbf8a-d5e5-4c97-a8a8-a9301c205115", 
+            "name": "Demir Karaba\u015f"
+        }, 
+        {
+            "mbid": "b05a838f-42b7-4f6c-9ab6-40df768a9821", 
+            "name": "Erkan Y\u00fcksel"
+        }
+    ], 
+    "mbid": "87947c7d-e887-4af9-8baa-85c7e6873812", 
+    "makam": [
+        {
+            "attribute_key": "mahur", 
+            "mb_attribute": "Mahur", 
+            "source": "http://musicbrainz.org/work/423ec97c-d4bd-4340-81da-625b1934021b"
+        }, 
+        {
+            "attribute_key": "mahur", 
+            "mb_tag": "mahur", 
+            "source": "http://musicbrainz.org/recording/87947c7d-e887-4af9-8baa-85c7e6873812"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "b05a838f-42b7-4f6c-9ab6-40df768a9821", 
+            "attribute-list": [
+                "piano"
+            ], 
+            "type": "instrument", 
+            "name": "Erkan Y\u00fcksel"
+        }, 
+        {
+            "mbid": "d3ecbf8a-d5e5-4c97-a8a8-a9301c205115", 
+            "attribute-list": [
+                "violin"
+            ], 
+            "type": "instrument", 
+            "name": "Demir Karaba\u015f"
+        }
+    ], 
+    "instrumentation_voicing": "Duo instrumental", 
+    "works": [
+        {
+            "mbid": "423ec97c-d4bd-4340-81da-625b1934021b", 
+            "title": "Mahur Pe\u015frevi"
+        }
+    ]
+}

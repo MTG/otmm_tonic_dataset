@@ -1,0 +1,77 @@
+{
+    "usul": [
+        {
+            "attribute_key": "devrikebir", 
+            "mb_attribute": "Devr-i Kebir", 
+            "source": "http://musicbrainz.org/work/849bc95d-5096-4d43-a7b8-ea5f23266a31"
+        }, 
+        {
+            "attribute_key": "berefsan", 
+            "mb_tag": "beref\u015fan", 
+            "source": "http://musicbrainz.org/recording/bf1410e0-9b9e-4a07-8a3e-ab6151c63a6d"
+        }, 
+        {
+            "attribute_key": "devrikebir", 
+            "mb_tag": "devr-i kebir", 
+            "source": "http://musicbrainz.org/recording/bf1410e0-9b9e-4a07-8a3e-ab6151c63a6d"
+        }
+    ], 
+    "form": [
+        {
+            "attribute_key": "beste", 
+            "mb_attribute": "Beste", 
+            "source": "http://musicbrainz.org/work/849bc95d-5096-4d43-a7b8-ea5f23266a31"
+        }, 
+        {
+            "attribute_key": "beste", 
+            "mb_tag": "beste", 
+            "source": "http://musicbrainz.org/recording/bf1410e0-9b9e-4a07-8a3e-ab6151c63a6d"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "189bbe93-186a-46b8-a6da-df8864e6dd4a", 
+            "title": "Bekir S\u0131dk\u0131 Sezgin 14"
+        }
+    ], 
+    "title": "Keman-\u0131 A\u015fk\u0131n\u0131 \u00c7ekmek O \u015euhun Hayli M\u00fc\u015fkilmi\u015f", 
+    "url": "http://musicbrainz.org/recording/bf1410e0-9b9e-4a07-8a3e-ab6151c63a6d", 
+    "artist_credits": [
+        {
+            "mbid": "7ef61959-65f2-41ab-9ae2-ba890812b7b4", 
+            "name": "Bekir S\u0131dk\u0131 Sezgin"
+        }
+    ], 
+    "mbid": "bf1410e0-9b9e-4a07-8a3e-ab6151c63a6d", 
+    "makam": [
+        {
+            "attribute_key": "suzidilara", 
+            "mb_attribute": "Suzidilara", 
+            "source": "http://musicbrainz.org/work/849bc95d-5096-4d43-a7b8-ea5f23266a31"
+        }, 
+        {
+            "attribute_key": "suzidilara", 
+            "mb_tag": "suzidilara", 
+            "source": "http://musicbrainz.org/recording/bf1410e0-9b9e-4a07-8a3e-ab6151c63a6d"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
+            "type": "performing orchestra", 
+            "name": "[unknown]"
+        }, 
+        {
+            "mbid": "7ef61959-65f2-41ab-9ae2-ba890812b7b4", 
+            "type": "vocal", 
+            "name": "Bekir S\u0131dk\u0131 Sezgin"
+        }
+    ], 
+    "instrumentation_voicing": "Solo vocal with accompaniment", 
+    "works": [
+        {
+            "mbid": "849bc95d-5096-4d43-a7b8-ea5f23266a31", 
+            "title": "Keman-\u0131 A\u015fk\u0131n\u0131 \u00c7ekmek O \u015euhun"
+        }
+    ]
+}

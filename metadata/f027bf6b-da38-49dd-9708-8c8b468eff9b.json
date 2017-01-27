@@ -1,0 +1,67 @@
+{
+    "usul": [
+        {
+            "attribute_key": "yuruksemai", 
+            "mb_attribute": "Y\u00fcr\u00fcksemai", 
+            "source": "http://musicbrainz.org/work/3ccfdae6-d6e1-4436-8f4a-4b777d28ada9"
+        }, 
+        {
+            "attribute_key": "yuruksemai", 
+            "mb_tag": "y\u00fcr\u00fcksemai", 
+            "source": "http://musicbrainz.org/recording/f027bf6b-da38-49dd-9708-8c8b468eff9b"
+        }
+    ], 
+    "form": [
+        {
+            "attribute_key": "yuruksemai", 
+            "mb_attribute": "Y\u00fcr\u00fcksemai", 
+            "source": "http://musicbrainz.org/work/3ccfdae6-d6e1-4436-8f4a-4b777d28ada9"
+        }, 
+        {
+            "attribute_key": "yuruksemai", 
+            "mb_tag": "y\u00fcr\u00fcksemai", 
+            "source": "http://musicbrainz.org/recording/f027bf6b-da38-49dd-9708-8c8b468eff9b"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "66122020-7d22-4fc6-89f2-9dd78b1a2c74", 
+            "title": "Fasl-\u0131 \u015eahane Enstrumantal, Volume 2"
+        }
+    ], 
+    "title": "Tut-i Mucize", 
+    "url": "http://musicbrainz.org/recording/f027bf6b-da38-49dd-9708-8c8b468eff9b", 
+    "artist_credits": [
+        {
+            "mbid": "ef074ab6-a2a8-42f7-a454-068265023697", 
+            "name": "Aziz T\u00fcrk Sanat M\u00fczi\u011fi Grubu"
+        }
+    ], 
+    "mbid": "f027bf6b-da38-49dd-9708-8c8b468eff9b", 
+    "makam": [
+        {
+            "attribute_key": "segah", 
+            "mb_attribute": "Segah", 
+            "source": "http://musicbrainz.org/work/3ccfdae6-d6e1-4436-8f4a-4b777d28ada9"
+        }, 
+        {
+            "attribute_key": "segah", 
+            "mb_tag": "segah", 
+            "source": "http://musicbrainz.org/recording/f027bf6b-da38-49dd-9708-8c8b468eff9b"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
+            "type": "performing orchestra", 
+            "name": "[unknown]"
+        }
+    ], 
+    "instrumentation_voicing": "Ensemble instrumental", 
+    "works": [
+        {
+            "mbid": "3ccfdae6-d6e1-4436-8f4a-4b777d28ada9", 
+            "title": "Tuti-i Mucize Guyem Ne Desem Laf De\u011fil"
+        }
+    ]
+}

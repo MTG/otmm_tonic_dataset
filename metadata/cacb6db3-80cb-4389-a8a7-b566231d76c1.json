@@ -1,0 +1,67 @@
+{
+    "usul": [
+        {
+            "attribute_key": "devrikebir", 
+            "mb_attribute": "Devr-i Kebir", 
+            "source": "http://musicbrainz.org/work/1d7aa01a-8bf2-43e1-b972-714699db563d"
+        }, 
+        {
+            "attribute_key": "devrikebir", 
+            "mb_tag": "devr-i kebir", 
+            "source": "http://musicbrainz.org/recording/cacb6db3-80cb-4389-a8a7-b566231d76c1"
+        }
+    ], 
+    "form": [
+        {
+            "attribute_key": "pesrev", 
+            "mb_attribute": "Pe\u015frev", 
+            "source": "http://musicbrainz.org/work/1d7aa01a-8bf2-43e1-b972-714699db563d"
+        }, 
+        {
+            "attribute_key": "pesrev", 
+            "mb_tag": "pe\u015frev", 
+            "source": "http://musicbrainz.org/recording/cacb6db3-80cb-4389-a8a7-b566231d76c1"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "b3d24274-4756-4862-8dde-27b56a117525", 
+            "title": "1955 - 63 Kay\u0131tlar\u0131 - Ar\u015fiv Serisi"
+        }
+    ], 
+    "title": "Nihavent Pe\u015frev (1. Hane - Teslim)", 
+    "url": "http://musicbrainz.org/recording/cacb6db3-80cb-4389-a8a7-b566231d76c1", 
+    "artist_credits": [
+        {
+            "mbid": "9fcda3ab-a467-4ea9-8569-ae975de0f473", 
+            "name": "Zeki M\u00fcren"
+        }
+    ], 
+    "mbid": "cacb6db3-80cb-4389-a8a7-b566231d76c1", 
+    "makam": [
+        {
+            "attribute_key": "nihavent", 
+            "mb_attribute": "Nihavent", 
+            "source": "http://musicbrainz.org/work/1d7aa01a-8bf2-43e1-b972-714699db563d"
+        }, 
+        {
+            "attribute_key": "nihavent", 
+            "mb_tag": "nihavent", 
+            "source": "http://musicbrainz.org/recording/cacb6db3-80cb-4389-a8a7-b566231d76c1"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
+            "type": "performing orchestra", 
+            "name": "[unknown]"
+        }
+    ], 
+    "instrumentation_voicing": "Ensemble instrumental", 
+    "works": [
+        {
+            "mbid": "1d7aa01a-8bf2-43e1-b972-714699db563d", 
+            "title": "Nihavend Pe\u015frev"
+        }
+    ]
+}

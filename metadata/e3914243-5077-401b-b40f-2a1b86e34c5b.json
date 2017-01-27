@@ -1,0 +1,77 @@
+{
+    "usul": [
+        {
+            "attribute_key": "aksaksemai", 
+            "mb_attribute": "Aksaksemai", 
+            "source": "http://musicbrainz.org/work/2e898944-fdac-44c4-a523-47ef94767d45"
+        }
+    ], 
+    "form": [
+        {
+            "attribute_key": "sazsemaisi", 
+            "mb_attribute": "Sazsemaisi", 
+            "source": "http://musicbrainz.org/work/2e898944-fdac-44c4-a523-47ef94767d45"
+        }, 
+        {
+            "attribute_key": "sazsemaisi", 
+            "mb_tag": "sazsemaisi", 
+            "source": "http://musicbrainz.org/recording/e3914243-5077-401b-b40f-2a1b86e34c5b"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "6155a351-4884-4686-9cbb-ece0b3863afd", 
+            "title": "Saz Musikimiz'den Se\u00e7meler 3"
+        }
+    ], 
+    "title": "Sult\u00e2niyeg\u00e2h Saz Semaisi", 
+    "url": "http://musicbrainz.org/recording/e3914243-5077-401b-b40f-2a1b86e34c5b", 
+    "artist_credits": [
+        {
+            "mbid": "b05a838f-42b7-4f6c-9ab6-40df768a9821", 
+            "name": "Erkan Y\u00fcksel"
+        }, 
+        {
+            "mbid": "91643742-9dd8-4aaf-a643-25f60336e1e9", 
+            "name": "U\u011fur Onuk"
+        }
+    ], 
+    "mbid": "e3914243-5077-401b-b40f-2a1b86e34c5b", 
+    "makam": [
+        {
+            "attribute_key": "sultaniyegah", 
+            "mb_attribute": "Sultan\u0131yegah", 
+            "source": "http://musicbrainz.org/work/2e898944-fdac-44c4-a523-47ef94767d45"
+        }, 
+        {
+            "attribute_key": "sultaniyegah", 
+            "mb_tag": "sultaniyegah", 
+            "source": "http://musicbrainz.org/recording/e3914243-5077-401b-b40f-2a1b86e34c5b"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "91643742-9dd8-4aaf-a643-25f60336e1e9", 
+            "attribute-list": [
+                "ney"
+            ], 
+            "type": "instrument", 
+            "name": "U\u011fur Onuk"
+        }, 
+        {
+            "mbid": "b05a838f-42b7-4f6c-9ab6-40df768a9821", 
+            "attribute-list": [
+                "piano"
+            ], 
+            "type": "instrument", 
+            "name": "Erkan Y\u00fcksel"
+        }
+    ], 
+    "instrumentation_voicing": "Duo instrumental", 
+    "works": [
+        {
+            "mbid": "2e898944-fdac-44c4-a523-47ef94767d45", 
+            "title": "Sultaniyegah Sazsemaisi"
+        }
+    ]
+}

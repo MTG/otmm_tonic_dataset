@@ -1,0 +1,49 @@
+{
+    "instrumentation_voicing": "Solo instrumental", 
+    "form": [
+        {
+            "attribute_key": "taksim", 
+            "mb_tag": "taksim", 
+            "source": "http://musicbrainz.org/recording/97aac8e6-36dc-431b-a3d2-7263a3c4e600"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "430058da-7be0-48ec-abac-9b88b87e293f", 
+            "title": "Mevlevi Sesler"
+        }
+    ], 
+    "title": "Taksim", 
+    "url": "http://musicbrainz.org/recording/97aac8e6-36dc-431b-a3d2-7263a3c4e600", 
+    "artist_credits": [
+        {
+            "mbid": "81081f45-a36e-4248-9d33-43d4a3445f6d", 
+            "name": "Dede Efendi"
+        }
+    ], 
+    "mbid": "97aac8e6-36dc-431b-a3d2-7263a3c4e600", 
+    "makam": [
+        {
+            "attribute_key": "sultaniyegah", 
+            "mb_tag": "sultaniyegah", 
+            "source": "http://musicbrainz.org/recording/97aac8e6-36dc-431b-a3d2-7263a3c4e600"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
+            "attribute-list": [
+                "tanbur"
+            ], 
+            "type": "instrument", 
+            "name": "[unknown]"
+        }
+    ], 
+    "usul": [
+        {
+            "attribute_key": "serbest", 
+            "mb_tag": "serbest", 
+            "source": "http://musicbrainz.org/recording/97aac8e6-36dc-431b-a3d2-7263a3c4e600"
+        }
+    ]
+}

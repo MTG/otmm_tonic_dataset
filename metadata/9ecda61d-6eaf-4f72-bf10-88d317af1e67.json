@@ -1,0 +1,82 @@
+{
+    "usul": [
+        {
+            "attribute_key": "zencir", 
+            "mb_attribute": "Zencir", 
+            "source": "http://musicbrainz.org/work/d1bb61c1-a779-4515-81f6-cda83473374a"
+        }, 
+        {
+            "attribute_key": "zencir", 
+            "mb_tag": "zencir", 
+            "source": "http://musicbrainz.org/recording/9ecda61d-6eaf-4f72-bf10-88d317af1e67"
+        }
+    ], 
+    "form": [
+        {
+            "attribute_key": "pesrev", 
+            "mb_attribute": "Pe\u015frev", 
+            "source": "http://musicbrainz.org/work/d1bb61c1-a779-4515-81f6-cda83473374a"
+        }, 
+        {
+            "attribute_key": "pesrev", 
+            "mb_tag": "pe\u015frev", 
+            "source": "http://musicbrainz.org/recording/9ecda61d-6eaf-4f72-bf10-88d317af1e67"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "0660643a-07b3-45cf-ba94-e2ca58e029bd", 
+            "title": "Neva"
+        }
+    ], 
+    "title": "\u015eehnaz Pe\u015frevi", 
+    "url": "http://musicbrainz.org/recording/9ecda61d-6eaf-4f72-bf10-88d317af1e67", 
+    "artist_credits": [
+        {
+            "mbid": "3a57e3a4-4e48-4ce2-aae0-c5b5275721eb", 
+            "name": "Salih Bilgin"
+        }, 
+        {
+            "mbid": "9b6e98f8-b695-45da-8c9c-68d4bab460fd", 
+            "name": "Murat Aydemir"
+        }
+    ], 
+    "mbid": "9ecda61d-6eaf-4f72-bf10-88d317af1e67", 
+    "makam": [
+        {
+            "attribute_key": "sehnaz", 
+            "mb_attribute": "\u015eehnaz", 
+            "source": "http://musicbrainz.org/work/d1bb61c1-a779-4515-81f6-cda83473374a"
+        }, 
+        {
+            "attribute_key": "sehnaz", 
+            "mb_tag": "\u015fehnaz", 
+            "source": "http://musicbrainz.org/recording/9ecda61d-6eaf-4f72-bf10-88d317af1e67"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "3a57e3a4-4e48-4ce2-aae0-c5b5275721eb", 
+            "attribute-list": [
+                "ney"
+            ], 
+            "type": "instrument", 
+            "name": "Salih Bilgin"
+        }, 
+        {
+            "mbid": "9b6e98f8-b695-45da-8c9c-68d4bab460fd", 
+            "attribute-list": [
+                "tanbur"
+            ], 
+            "type": "instrument", 
+            "name": "Murat Aydemir"
+        }
+    ], 
+    "instrumentation_voicing": "Duo instrumental", 
+    "works": [
+        {
+            "mbid": "d1bb61c1-a779-4515-81f6-cda83473374a", 
+            "title": "\u015eehnaz Pe\u015frev"
+        }
+    ]
+}

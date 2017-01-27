@@ -1,0 +1,62 @@
+{
+    "usul": [
+        {
+            "attribute_key": "senginsemai", 
+            "mb_attribute": "Senginsemai", 
+            "source": "http://musicbrainz.org/work/c3828844-df02-452e-8577-530fff3291d3"
+        }, 
+        {
+            "attribute_key": "serbest", 
+            "mb_tag": "serbest", 
+            "source": "http://musicbrainz.org/recording/38d10a86-ab3b-41f3-a8d0-ba8efed9e361"
+        }
+    ], 
+    "form": [
+        {
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
+            "source": "http://musicbrainz.org/work/c3828844-df02-452e-8577-530fff3291d3"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "0c8d1e05-0265-4765-97d0-378b85491e87", 
+            "title": "Gazeller ve Naatlar"
+        }
+    ], 
+    "title": "Ne\u015feyle Ge\u00e7en \u00d6mr\u00fcm\u00fc Eyvah Keder Ettin", 
+    "url": "http://musicbrainz.org/recording/38d10a86-ab3b-41f3-a8d0-ba8efed9e361", 
+    "artist_credits": [
+        {
+            "mbid": "7ef61959-65f2-41ab-9ae2-ba890812b7b4", 
+            "name": "Bekir S\u0131dk\u0131 Sezgin"
+        }
+    ], 
+    "mbid": "38d10a86-ab3b-41f3-a8d0-ba8efed9e361", 
+    "makam": [
+        {
+            "attribute_key": "kurdilihicazkar", 
+            "mb_attribute": "K\u00fcrdilihicazkar", 
+            "source": "http://musicbrainz.org/work/c3828844-df02-452e-8577-530fff3291d3"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
+            "type": "performing orchestra", 
+            "name": "[unknown]"
+        }, 
+        {
+            "mbid": "7ef61959-65f2-41ab-9ae2-ba890812b7b4", 
+            "type": "vocal", 
+            "name": "Bekir S\u0131dk\u0131 Sezgin"
+        }
+    ], 
+    "instrumentation_voicing": "Solo vocal with accompaniment", 
+    "works": [
+        {
+            "mbid": "c3828844-df02-452e-8577-530fff3291d3", 
+            "title": "Ne\u015feyle Ge\u00e7en \u00d6mr\u00fcm\u00fc Eyvah Heder Ettin"
+        }
+    ]
+}

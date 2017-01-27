@@ -1,0 +1,67 @@
+{
+    "usul": [
+        {
+            "attribute_key": "duyek", 
+            "mb_attribute": "D\u00fcyek", 
+            "source": "http://musicbrainz.org/work/3601efbc-b05b-4f54-ba07-584a842de72e"
+        }, 
+        {
+            "attribute_key": "duyek", 
+            "mb_tag": "d\u00fcyek", 
+            "source": "http://musicbrainz.org/recording/031a6e72-903a-479a-9a4c-e2a3335e4a0a"
+        }
+    ], 
+    "form": [
+        {
+            "attribute_key": "pesrev", 
+            "mb_attribute": "Pe\u015frev", 
+            "source": "http://musicbrainz.org/work/3601efbc-b05b-4f54-ba07-584a842de72e"
+        }, 
+        {
+            "attribute_key": "pesrev", 
+            "mb_tag": "pe\u015frev", 
+            "source": "http://musicbrainz.org/recording/031a6e72-903a-479a-9a4c-e2a3335e4a0a"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "6f541b78-0f49-41fe-83fa-fc9df92c5623", 
+            "title": "Musique de la Cour Ottomane- Enderun"
+        }
+    ], 
+    "title": "Mahur Pe\u015frev", 
+    "url": "http://musicbrainz.org/recording/031a6e72-903a-479a-9a4c-e2a3335e4a0a", 
+    "artist_credits": [
+        {
+            "mbid": "836daa3d-2a22-460f-96cc-d15481d77436", 
+            "name": "Ensemble Ulvi Erguner"
+        }
+    ], 
+    "mbid": "031a6e72-903a-479a-9a4c-e2a3335e4a0a", 
+    "makam": [
+        {
+            "attribute_key": "mahur", 
+            "mb_attribute": "Mahur", 
+            "source": "http://musicbrainz.org/work/3601efbc-b05b-4f54-ba07-584a842de72e"
+        }, 
+        {
+            "attribute_key": "mahur", 
+            "mb_tag": "mahur", 
+            "source": "http://musicbrainz.org/recording/031a6e72-903a-479a-9a4c-e2a3335e4a0a"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "836daa3d-2a22-460f-96cc-d15481d77436", 
+            "type": "performing orchestra", 
+            "name": "Ensemble Ulvi Erguner"
+        }
+    ], 
+    "instrumentation_voicing": "Ensemble instrumental", 
+    "works": [
+        {
+            "mbid": "3601efbc-b05b-4f54-ba07-584a842de72e", 
+            "title": "Mahur Pe\u015frevi"
+        }
+    ]
+}

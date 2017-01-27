@@ -1,0 +1,116 @@
+{
+    "usul": [
+        {
+            "attribute_key": "curcuna", 
+            "mb_attribute": "Curcuna", 
+            "source": "http://musicbrainz.org/work/1da18db5-06a6-4680-b69a-041521926047"
+        }, 
+        {
+            "attribute_key": "kapali_curcuna", 
+            "mb_tag": "curcuna", 
+            "source": "http://musicbrainz.org/recording/474ae22b-5e50-42c3-971e-63c8f423d382"
+        }
+    ], 
+    "form": [
+        {
+            "attribute_key": "aranagme", 
+            "mb_attribute": "Arana\u011fme", 
+            "source": "http://musicbrainz.org/work/1da18db5-06a6-4680-b69a-041521926047"
+        }, 
+        {
+            "attribute_key": "aranagme", 
+            "mb_tag": "arana\u011fme", 
+            "source": "http://musicbrainz.org/recording/474ae22b-5e50-42c3-971e-63c8f423d382"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "c9147c2a-e481-4723-bf97-8e40ed1cdfde", 
+            "title": "Can Sesi A\u015fk Nefesi"
+        }
+    ], 
+    "title": "H\u00fcseyni Arana\u011fme (K\u00fcpe)", 
+    "url": "http://musicbrainz.org/recording/474ae22b-5e50-42c3-971e-63c8f423d382", 
+    "artist_credits": [
+        {
+            "mbid": "f5f93b25-cf1e-4585-b274-5942469375ec", 
+            "name": "Sava\u015f \u015e. Bark\u00e7in"
+        }, 
+        {
+            "mbid": "a6592b6f-a8d8-41a1-8b9e-044dc9e69805", 
+            "name": "Ali Sar\u0131g\u00fcl"
+        }, 
+        {
+            "mbid": "07ffc32a-830b-40bf-a5db-c164c65c66f3", 
+            "name": "Emre Erdal"
+        }, 
+        {
+            "mbid": "6ea8e903-5a2c-4f46-9276-92c44b510156", 
+            "name": "Halil U\u011fur Kutlu"
+        }, 
+        {
+            "mbid": "a9e984a5-3452-4302-9083-ebc9b117626a", 
+            "name": "Yavuzhan Erdem"
+        }
+    ], 
+    "mbid": "474ae22b-5e50-42c3-971e-63c8f423d382", 
+    "makam": [
+        {
+            "attribute_key": "huseyni", 
+            "mb_attribute": "H\u00fcseyni", 
+            "source": "http://musicbrainz.org/work/1da18db5-06a6-4680-b69a-041521926047"
+        }, 
+        {
+            "attribute_key": "huseyni", 
+            "mb_tag": "h\u00fcseyni", 
+            "source": "http://musicbrainz.org/recording/474ae22b-5e50-42c3-971e-63c8f423d382"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "07ffc32a-830b-40bf-a5db-c164c65c66f3", 
+            "attribute-list": [
+                "classical kemen\u00e7e"
+            ], 
+            "type": "instrument", 
+            "name": "Emre Erdal"
+        }, 
+        {
+            "mbid": "6ea8e903-5a2c-4f46-9276-92c44b510156", 
+            "attribute-list": [
+                "bendir", 
+                "percussion"
+            ], 
+            "type": "instrument", 
+            "name": "Halil U\u011fur Kutlu"
+        }, 
+        {
+            "mbid": "a6592b6f-a8d8-41a1-8b9e-044dc9e69805", 
+            "attribute-list": [
+                "ney"
+            ], 
+            "type": "instrument", 
+            "name": "Ali Sar\u0131g\u00fcl"
+        }, 
+        {
+            "mbid": "a9e984a5-3452-4302-9083-ebc9b117626a", 
+            "attribute-list": [
+                "tanbur"
+            ], 
+            "type": "instrument", 
+            "name": "Yavuzhan Erdem"
+        }, 
+        {
+            "mbid": "f5f93b25-cf1e-4585-b274-5942469375ec", 
+            "type": "vocal", 
+            "name": "Sava\u015f \u015e. Bark\u00e7in"
+        }
+    ], 
+    "instrumentation_voicing": "Solo vocal with accompaniment", 
+    "works": [
+        {
+            "mbid": "1da18db5-06a6-4680-b69a-041521926047", 
+            "title": "H\u00fcseyni Arana\u011fme (K\u00fcpe)"
+        }
+    ]
+}

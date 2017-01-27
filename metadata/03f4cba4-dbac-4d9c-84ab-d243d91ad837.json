@@ -1,0 +1,70 @@
+{
+    "usul": [
+        {
+            "attribute_key": "aksaksemai", 
+            "mb_attribute": "Aksaksemai", 
+            "source": "http://musicbrainz.org/work/e9456d5a-8cf7-42c2-a819-8c29bbe6af01"
+        }, 
+        {
+            "attribute_key": "aksaksemai", 
+            "mb_tag": "aksaksemai", 
+            "source": "http://musicbrainz.org/recording/03f4cba4-dbac-4d9c-84ab-d243d91ad837"
+        }
+    ], 
+    "form": [
+        {
+            "attribute_key": "sazsemaisi", 
+            "mb_attribute": "Sazsemaisi", 
+            "source": "http://musicbrainz.org/work/e9456d5a-8cf7-42c2-a819-8c29bbe6af01"
+        }, 
+        {
+            "attribute_key": "sazsemaisi", 
+            "mb_tag": "sazsemaisi", 
+            "source": "http://musicbrainz.org/recording/03f4cba4-dbac-4d9c-84ab-d243d91ad837"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "8d71678a-4324-4754-9520-af5394356891", 
+            "title": "Turkish Music Makam Guide"
+        }
+    ], 
+    "title": "Tahirbuselik Sazsemaisi", 
+    "url": "http://musicbrainz.org/recording/03f4cba4-dbac-4d9c-84ab-d243d91ad837", 
+    "artist_credits": [
+        {
+            "mbid": "9b6e98f8-b695-45da-8c9c-68d4bab460fd", 
+            "name": "Murat Aydemir"
+        }
+    ], 
+    "mbid": "03f4cba4-dbac-4d9c-84ab-d243d91ad837", 
+    "makam": [
+        {
+            "attribute_key": "tahirbuselik", 
+            "mb_attribute": "Tahirbuselik", 
+            "source": "http://musicbrainz.org/work/e9456d5a-8cf7-42c2-a819-8c29bbe6af01"
+        }, 
+        {
+            "attribute_key": "tahirbuselik", 
+            "mb_tag": "tahirbuselik", 
+            "source": "http://musicbrainz.org/recording/03f4cba4-dbac-4d9c-84ab-d243d91ad837"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "9b6e98f8-b695-45da-8c9c-68d4bab460fd", 
+            "attribute-list": [
+                "tanbur"
+            ], 
+            "type": "instrument", 
+            "name": "Murat Aydemir"
+        }
+    ], 
+    "instrumentation_voicing": "Solo instrumental", 
+    "works": [
+        {
+            "mbid": "e9456d5a-8cf7-42c2-a819-8c29bbe6af01", 
+            "title": "Tahirbuselik Sazsemaisi"
+        }
+    ]
+}

@@ -1,0 +1,70 @@
+{
+    "usul": [
+        {
+            "attribute_key": "aksaksemai", 
+            "mb_attribute": "Aksaksemai", 
+            "source": "http://musicbrainz.org/work/1eb2ca1e-249b-424c-9ff5-0e1561590257"
+        }, 
+        {
+            "attribute_key": "aksaksemai", 
+            "mb_tag": "aksaksemai", 
+            "source": "http://musicbrainz.org/recording/e32d856b-6c47-40e8-9310-1236981444ed"
+        }
+    ], 
+    "form": [
+        {
+            "attribute_key": "sazsemaisi", 
+            "mb_attribute": "Sazsemaisi", 
+            "source": "http://musicbrainz.org/work/1eb2ca1e-249b-424c-9ff5-0e1561590257"
+        }, 
+        {
+            "attribute_key": "sazsemaisi", 
+            "mb_tag": "sazsemaisi", 
+            "source": "http://musicbrainz.org/recording/e32d856b-6c47-40e8-9310-1236981444ed"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "7f517fb3-a133-4c9d-8c6f-12c08e4fa14f", 
+            "title": "T\u00fcrk M\u00fczi\u011finde Taksim, Pe\u015frev Ve Sazsemaileri"
+        }
+    ], 
+    "title": "\u015eedd-i Araban Sazsemaisi", 
+    "url": "http://musicbrainz.org/recording/e32d856b-6c47-40e8-9310-1236981444ed", 
+    "artist_credits": [
+        {
+            "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
+            "name": "[unknown]"
+        }
+    ], 
+    "mbid": "e32d856b-6c47-40e8-9310-1236981444ed", 
+    "makam": [
+        {
+            "attribute_key": "sedaraban", 
+            "mb_attribute": "\u015eedaraban", 
+            "source": "http://musicbrainz.org/work/1eb2ca1e-249b-424c-9ff5-0e1561590257"
+        }, 
+        {
+            "attribute_key": "sedaraban", 
+            "mb_tag": "\u015fedaraban", 
+            "source": "http://musicbrainz.org/recording/e32d856b-6c47-40e8-9310-1236981444ed"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
+            "attribute-list": [
+                "oud"
+            ], 
+            "type": "instrument", 
+            "name": "[unknown]"
+        }
+    ], 
+    "instrumentation_voicing": "Solo instrumental", 
+    "works": [
+        {
+            "mbid": "1eb2ca1e-249b-424c-9ff5-0e1561590257", 
+            "title": "\u015eedaraban Sazsemaisi"
+        }
+    ]
+}

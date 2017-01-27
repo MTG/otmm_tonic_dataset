@@ -1,0 +1,91 @@
+{
+    "usul": [
+        {
+            "attribute_key": "aksaksemai", 
+            "mb_attribute": "Aksaksemai", 
+            "source": "http://musicbrainz.org/work/1035e5bd-5f53-4a81-ad66-f861a51d8c4e"
+        }, 
+        {
+            "attribute_key": "aksaksemai", 
+            "mb_tag": "aksaksemai", 
+            "source": "http://musicbrainz.org/recording/87a48858-f3ed-4dcc-9355-5c18225b6781"
+        }
+    ], 
+    "form": [
+        {
+            "attribute_key": "sazsemaisi", 
+            "mb_attribute": "Sazsemaisi", 
+            "source": "http://musicbrainz.org/work/1035e5bd-5f53-4a81-ad66-f861a51d8c4e"
+        }, 
+        {
+            "attribute_key": "sazsemaisi", 
+            "mb_tag": "sazsemaisi", 
+            "source": "http://musicbrainz.org/recording/87a48858-f3ed-4dcc-9355-5c18225b6781"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "b7d6873c-63aa-48e7-8773-16ab79abf8bb", 
+            "title": "CANTEMIR : Music In Istanbul And Ottoman Europe Around 1700"
+        }
+    ], 
+    "title": "Saz Semaisi In Makam Neva/ Usul Aksak Semai", 
+    "url": "http://musicbrainz.org/recording/87a48858-f3ed-4dcc-9355-5c18225b6781", 
+    "artist_credits": [
+        {
+            "mbid": "31b24c3b-9072-44c5-87f9-7114f4d5c7fe", 
+            "name": "\u0130hsan \u00d6zgen"
+        }, 
+        {
+            "mbid": "9238bbf6-b7c2-41c7-889e-299983dbca79", 
+            "name": "Linda Burman-Hall"
+        }, 
+        {
+            "mbid": "397678a7-8d0e-432d-8d8a-3f34502578fa", 
+            "name": "Lux Musica"
+        }
+    ], 
+    "mbid": "87a48858-f3ed-4dcc-9355-5c18225b6781", 
+    "makam": [
+        {
+            "attribute_key": "neva", 
+            "mb_attribute": "Neva", 
+            "source": "http://musicbrainz.org/work/1035e5bd-5f53-4a81-ad66-f861a51d8c4e"
+        }, 
+        {
+            "attribute_key": "neva", 
+            "mb_tag": "neva", 
+            "source": "http://musicbrainz.org/recording/87a48858-f3ed-4dcc-9355-5c18225b6781"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "31b24c3b-9072-44c5-87f9-7114f4d5c7fe", 
+            "attribute-list": [
+                "tanbur"
+            ], 
+            "type": "instrument", 
+            "name": "\u0130hsan \u00d6zgen"
+        }, 
+        {
+            "mbid": "397678a7-8d0e-432d-8d8a-3f34502578fa", 
+            "type": "performing orchestra", 
+            "name": "Lux Musica"
+        }, 
+        {
+            "mbid": "9238bbf6-b7c2-41c7-889e-299983dbca79", 
+            "attribute-list": [
+                "virginal"
+            ], 
+            "type": "instrument", 
+            "name": "Linda Burman-Hall"
+        }
+    ], 
+    "instrumentation_voicing": "Ensemble instrumental", 
+    "works": [
+        {
+            "mbid": "1035e5bd-5f53-4a81-ad66-f861a51d8c4e", 
+            "title": "Neva Sazsemaisi"
+        }
+    ]
+}

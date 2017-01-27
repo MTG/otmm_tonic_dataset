@@ -1,0 +1,83 @@
+{
+    "usul": [
+        {
+            "attribute_key": "nimdevir", 
+            "mb_attribute": "Nimdevir", 
+            "source": "http://musicbrainz.org/work/d55d3bbe-bd80-46f1-a619-7c0177afa3d6"
+        }, 
+        {
+            "attribute_key": "nimdevir", 
+            "mb_tag": "nimdevir", 
+            "source": "http://musicbrainz.org/recording/6503407f-688d-4b2e-89ea-5ff65d5dc9ad"
+        }
+    ], 
+    "form": [
+        {
+            "attribute_key": "beste", 
+            "mb_attribute": "Beste", 
+            "source": "http://musicbrainz.org/work/d55d3bbe-bd80-46f1-a619-7c0177afa3d6"
+        }, 
+        {
+            "attribute_key": "beste", 
+            "mb_tag": "beste", 
+            "source": "http://musicbrainz.org/recording/6503407f-688d-4b2e-89ea-5ff65d5dc9ad"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "ea654a3e-6e4f-4c2c-a5d3-f8ecb7af2d3e", 
+            "title": "Musique Classique Ottomane - Makam"
+        }
+    ], 
+    "title": "Sultan-\u0131-Irak (Beste)", 
+    "url": "http://musicbrainz.org/recording/6503407f-688d-4b2e-89ea-5ff65d5dc9ad", 
+    "artist_credits": [
+        {
+            "mbid": "ddd9f987-7d74-4579-9a91-950dc11ce35f", 
+            "name": "\u00c2rif Mehmed A\u011fa"
+        }
+    ], 
+    "mbid": "6503407f-688d-4b2e-89ea-5ff65d5dc9ad", 
+    "makam": [
+        {
+            "attribute_key": "sultaniirak", 
+            "mb_attribute": "Sultani Irak", 
+            "source": "http://musicbrainz.org/work/d55d3bbe-bd80-46f1-a619-7c0177afa3d6"
+        }, 
+        {
+            "attribute_key": "sultaniirak", 
+            "mb_tag": "sultan-\u0131-arak", 
+            "source": "http://musicbrainz.org/recording/6503407f-688d-4b2e-89ea-5ff65d5dc9ad"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "215fd94e-6a6e-4ab3-98d8-7e81c873dd26", 
+            "attribute-list": [
+                "ney"
+            ], 
+            "type": "instrument", 
+            "name": "Aka G\u00fcnd\u00fcz Kutbay"
+        }, 
+        {
+            "mbid": "61d8e82a-8ff3-4675-ac31-df67a14dd772", 
+            "type": "vocal", 
+            "name": "Kani Karaca"
+        }, 
+        {
+            "mbid": "86299acc-2dd4-49d2-b20e-d1707c699d62", 
+            "attribute-list": [
+                "ney"
+            ], 
+            "type": "instrument", 
+            "name": "Kudsi Erguner"
+        }
+    ], 
+    "instrumentation_voicing": "Solo vocal with accompaniment", 
+    "works": [
+        {
+            "mbid": "d55d3bbe-bd80-46f1-a619-7c0177afa3d6", 
+            "title": "C\u00fcday\u0131m G\u00fcl\u015fen-i Kuyinden"
+        }
+    ]
+}

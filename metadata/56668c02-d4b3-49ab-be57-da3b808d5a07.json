@@ -1,0 +1,70 @@
+{
+    "usul": [
+        {
+            "attribute_key": "muhammes", 
+            "mb_attribute": "Muhammes", 
+            "source": "http://musicbrainz.org/work/4eba73f7-6152-4899-8747-1743a525b8ca"
+        }, 
+        {
+            "attribute_key": "muhammes", 
+            "mb_tag": "muhammes", 
+            "source": "http://musicbrainz.org/recording/56668c02-d4b3-49ab-be57-da3b808d5a07"
+        }
+    ], 
+    "form": [
+        {
+            "attribute_key": "pesrev", 
+            "mb_attribute": "Pe\u015frev", 
+            "source": "http://musicbrainz.org/work/4eba73f7-6152-4899-8747-1743a525b8ca"
+        }, 
+        {
+            "attribute_key": "pesrev", 
+            "mb_tag": "pe\u015frev", 
+            "source": "http://musicbrainz.org/recording/56668c02-d4b3-49ab-be57-da3b808d5a07"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "212450ff-da1e-4967-85de-5b841675da83", 
+            "title": "Osmanl\u0131'dan Bug\u00fcne T\u00fcrk Musikisi- Ud"
+        }
+    ], 
+    "title": "Buselik Pe\u015frev", 
+    "url": "http://musicbrainz.org/recording/56668c02-d4b3-49ab-be57-da3b808d5a07", 
+    "artist_credits": [
+        {
+            "mbid": "c470e6d2-320d-47a8-9daa-e2febd6cf4ae", 
+            "name": "Enver Mete Aslan"
+        }
+    ], 
+    "mbid": "56668c02-d4b3-49ab-be57-da3b808d5a07", 
+    "makam": [
+        {
+            "attribute_key": "buselik", 
+            "mb_attribute": "Buselik", 
+            "source": "http://musicbrainz.org/work/4eba73f7-6152-4899-8747-1743a525b8ca"
+        }, 
+        {
+            "attribute_key": "buselik", 
+            "mb_tag": "buselik", 
+            "source": "http://musicbrainz.org/recording/56668c02-d4b3-49ab-be57-da3b808d5a07"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "c470e6d2-320d-47a8-9daa-e2febd6cf4ae", 
+            "attribute-list": [
+                "oud"
+            ], 
+            "type": "instrument", 
+            "name": "Enver Mete Aslan"
+        }
+    ], 
+    "instrumentation_voicing": "Solo instrumental", 
+    "works": [
+        {
+            "mbid": "4eba73f7-6152-4899-8747-1743a525b8ca", 
+            "title": "B\u00fbselik Pe\u015frev"
+        }
+    ]
+}

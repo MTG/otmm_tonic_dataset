@@ -1,0 +1,65 @@
+{
+    "usul": [
+        {
+            "attribute_key": "devrikebir", 
+            "mb_attribute": "Devr-i Kebir", 
+            "source": "http://musicbrainz.org/work/50e4d7c8-9268-488d-b891-ee696ae0f4e5"
+        }
+    ], 
+    "form": [
+        {
+            "attribute_key": "pesrev", 
+            "mb_attribute": "Pe\u015frev", 
+            "source": "http://musicbrainz.org/work/50e4d7c8-9268-488d-b891-ee696ae0f4e5"
+        }, 
+        {
+            "attribute_key": "pesrev", 
+            "mb_tag": "pe\u015frev", 
+            "source": "http://musicbrainz.org/recording/3744f788-b36b-4a0e-88bf-b1f344a6640a"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "bfd2fcde-2271-4d8a-af42-98e174e13a4b", 
+            "title": "Murat Aydemir"
+        }
+    ], 
+    "title": "Bestenig\u00e2r Pe\u015frevi", 
+    "url": "http://musicbrainz.org/recording/3744f788-b36b-4a0e-88bf-b1f344a6640a", 
+    "artist_credits": [
+        {
+            "mbid": "9b6e98f8-b695-45da-8c9c-68d4bab460fd", 
+            "name": "Murat Aydemir"
+        }
+    ], 
+    "mbid": "3744f788-b36b-4a0e-88bf-b1f344a6640a", 
+    "makam": [
+        {
+            "attribute_key": "bestenigar", 
+            "mb_attribute": "Bestenigar", 
+            "source": "http://musicbrainz.org/work/50e4d7c8-9268-488d-b891-ee696ae0f4e5"
+        }, 
+        {
+            "attribute_key": "bestenigar", 
+            "mb_tag": "bestenigar", 
+            "source": "http://musicbrainz.org/recording/3744f788-b36b-4a0e-88bf-b1f344a6640a"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "9b6e98f8-b695-45da-8c9c-68d4bab460fd", 
+            "attribute-list": [
+                "tanbur"
+            ], 
+            "type": "instrument", 
+            "name": "Murat Aydemir"
+        }
+    ], 
+    "instrumentation_voicing": "Solo instrumental", 
+    "works": [
+        {
+            "mbid": "50e4d7c8-9268-488d-b891-ee696ae0f4e5", 
+            "title": "Bestenig\u00e2r Pe\u015frevi"
+        }
+    ]
+}

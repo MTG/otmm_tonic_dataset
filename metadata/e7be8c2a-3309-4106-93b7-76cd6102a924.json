@@ -1,0 +1,80 @@
+{
+    "usul": [
+        {
+            "attribute_key": "aksak", 
+            "mb_attribute": "Aksak", 
+            "source": "http://musicbrainz.org/work/9aaf5c0b-4642-40fd-97ba-c861265872ce"
+        }, 
+        {
+            "attribute_key": "aksak", 
+            "mb_tag": "aksak", 
+            "source": "http://musicbrainz.org/recording/e7be8c2a-3309-4106-93b7-76cd6102a924"
+        }
+    ], 
+    "form": [
+        {
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
+            "source": "http://musicbrainz.org/work/9aaf5c0b-4642-40fd-97ba-c861265872ce"
+        }, 
+        {
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
+            "source": "http://musicbrainz.org/recording/e7be8c2a-3309-4106-93b7-76cd6102a924"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "9df9903d-c975-4ad0-8845-9dc8674b6fd1", 
+            "title": "Hicaz Nihavend Fasl\u0131"
+        }
+    ], 
+    "title": "Gel G\u00fczelim \u00c7aml\u0131ca'ya", 
+    "url": "http://musicbrainz.org/recording/e7be8c2a-3309-4106-93b7-76cd6102a924", 
+    "artist_credits": [
+        {
+            "mbid": "90b1ad62-d0e1-4cb9-bd18-d8f69e5029b1", 
+            "name": "Udi Hrant Kenkulian"
+        }
+    ], 
+    "mbid": "e7be8c2a-3309-4106-93b7-76cd6102a924", 
+    "makam": [
+        {
+            "attribute_key": "nihavent", 
+            "mb_attribute": "Nihavent", 
+            "source": "http://musicbrainz.org/work/9aaf5c0b-4642-40fd-97ba-c861265872ce"
+        }, 
+        {
+            "attribute_key": "nihavent", 
+            "mb_tag": "nihavent", 
+            "source": "http://musicbrainz.org/recording/e7be8c2a-3309-4106-93b7-76cd6102a924"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
+            "type": "performing orchestra", 
+            "name": "[unknown]"
+        }, 
+        {
+            "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
+            "attribute-list": [
+                "choir vocals"
+            ], 
+            "type": "vocal", 
+            "name": "[unknown]"
+        }, 
+        {
+            "mbid": "90b1ad62-d0e1-4cb9-bd18-d8f69e5029b1", 
+            "type": "conductor", 
+            "name": "Udi Hrant Kenkulian"
+        }
+    ], 
+    "instrumentation_voicing": "Solo vocal with accompaniment", 
+    "works": [
+        {
+            "mbid": "9aaf5c0b-4642-40fd-97ba-c861265872ce", 
+            "title": "Gel G\u00fczelim \u00c7aml\u0131ca'ya"
+        }
+    ]
+}

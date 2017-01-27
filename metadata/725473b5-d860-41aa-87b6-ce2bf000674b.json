@@ -1,0 +1,70 @@
+{
+    "usul": [
+        {
+            "attribute_key": "duyek", 
+            "mb_attribute": "D\u00fcyek", 
+            "source": "http://musicbrainz.org/work/6fbaa7e1-e2f2-4b72-99fe-d31ff460c2bc"
+        }, 
+        {
+            "attribute_key": "duyek", 
+            "mb_tag": "d\u00fcyek", 
+            "source": "http://musicbrainz.org/recording/725473b5-d860-41aa-87b6-ce2bf000674b"
+        }
+    ], 
+    "form": [
+        {
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
+            "source": "http://musicbrainz.org/work/6fbaa7e1-e2f2-4b72-99fe-d31ff460c2bc"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "9c18428b-2adc-46ec-b829-6a48a0f64d71", 
+            "title": "T\u00fcrk M\u00fczi\u011fi Koleksiyonu 4: \u015eekip Ayhan \u00d6z\u0131\u015f\u0131k"
+        }
+    ], 
+    "title": "Senede Bir G\u00fcn", 
+    "url": "http://musicbrainz.org/recording/725473b5-d860-41aa-87b6-ce2bf000674b", 
+    "artist_credits": [
+        {
+            "mbid": "ef074ab6-a2a8-42f7-a454-068265023697", 
+            "name": "Aziz T\u00fcrk Sanat M\u00fczi\u011fi Grubu"
+        }
+    ], 
+    "mbid": "725473b5-d860-41aa-87b6-ce2bf000674b", 
+    "makam": [
+        {
+            "attribute_key": "hicaz_zirgule", 
+            "mb_attribute": "Hicaz Zirg\u00fcle", 
+            "source": "http://musicbrainz.org/work/6fbaa7e1-e2f2-4b72-99fe-d31ff460c2bc"
+        }, 
+        {
+            "attribute_key": "hicaz", 
+            "mb_tag": "hicaz", 
+            "source": "http://musicbrainz.org/recording/725473b5-d860-41aa-87b6-ce2bf000674b"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "ef074ab6-a2a8-42f7-a454-068265023697", 
+            "type": "performing orchestra", 
+            "name": "Aziz T\u00fcrk Sanat M\u00fczi\u011fi Grubu"
+        }, 
+        {
+            "mbid": "ef074ab6-a2a8-42f7-a454-068265023697", 
+            "attribute-list": [
+                "choir vocals"
+            ], 
+            "type": "vocal", 
+            "name": "Aziz T\u00fcrk Sanat M\u00fczi\u011fi Grubu"
+        }
+    ], 
+    "instrumentation_voicing": "Solo vocal with accompaniment", 
+    "works": [
+        {
+            "mbid": "6fbaa7e1-e2f2-4b72-99fe-d31ff460c2bc", 
+            "title": "Senede Bir G\u00fcn"
+        }
+    ]
+}

@@ -1,0 +1,83 @@
+{
+    "usul": [
+        {
+            "attribute_key": "aksaksemai", 
+            "mb_attribute": "Aksaksemai", 
+            "source": "http://musicbrainz.org/work/969634b1-6404-47cc-9d16-3f893b64616e"
+        }, 
+        {
+            "attribute_key": "aksaksemai", 
+            "mb_tag": "aksaksemai", 
+            "source": "http://musicbrainz.org/recording/5ed47b96-98a2-40f2-8346-4a3a2507262d"
+        }
+    ], 
+    "form": [
+        {
+            "attribute_key": "agirsemai", 
+            "mb_attribute": "A\u011f\u0131rsemai", 
+            "source": "http://musicbrainz.org/work/969634b1-6404-47cc-9d16-3f893b64616e"
+        }, 
+        {
+            "attribute_key": "agirsemai", 
+            "mb_tag": "a\u011f\u0131rsemai", 
+            "source": "http://musicbrainz.org/recording/5ed47b96-98a2-40f2-8346-4a3a2507262d"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "ea654a3e-6e4f-4c2c-a5d3-f8ecb7af2d3e", 
+            "title": "Musique Classique Ottomane - Makam"
+        }
+    ], 
+    "title": "Sultan-\u0131-Irak / A\u011f\u0131rsemai", 
+    "url": "http://musicbrainz.org/recording/5ed47b96-98a2-40f2-8346-4a3a2507262d", 
+    "artist_credits": [
+        {
+            "mbid": "61d8e82a-8ff3-4675-ac31-df67a14dd772", 
+            "name": "Kani Karaca"
+        }
+    ], 
+    "mbid": "5ed47b96-98a2-40f2-8346-4a3a2507262d", 
+    "makam": [
+        {
+            "attribute_key": "sultaniirak", 
+            "mb_attribute": "Sultani Irak", 
+            "source": "http://musicbrainz.org/work/969634b1-6404-47cc-9d16-3f893b64616e"
+        }, 
+        {
+            "attribute_key": "sultaniirak", 
+            "mb_tag": "sultan-\u0131-arak", 
+            "source": "http://musicbrainz.org/recording/5ed47b96-98a2-40f2-8346-4a3a2507262d"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "215fd94e-6a6e-4ab3-98d8-7e81c873dd26", 
+            "attribute-list": [
+                "ney"
+            ], 
+            "type": "instrument", 
+            "name": "Aka G\u00fcnd\u00fcz Kutbay"
+        }, 
+        {
+            "mbid": "61d8e82a-8ff3-4675-ac31-df67a14dd772", 
+            "type": "vocal", 
+            "name": "Kani Karaca"
+        }, 
+        {
+            "mbid": "86299acc-2dd4-49d2-b20e-d1707c699d62", 
+            "attribute-list": [
+                "ney"
+            ], 
+            "type": "instrument", 
+            "name": "Kudsi Erguner"
+        }
+    ], 
+    "instrumentation_voicing": "Solo vocal with accompaniment", 
+    "works": [
+        {
+            "mbid": "969634b1-6404-47cc-9d16-3f893b64616e", 
+            "title": "Gerdane Nak\u015fi Buse-i G\u00fcl"
+        }
+    ]
+}

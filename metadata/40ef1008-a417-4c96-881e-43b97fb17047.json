@@ -1,0 +1,67 @@
+{
+    "usul": [
+        {
+            "attribute_key": "hafif", 
+            "mb_attribute": "Hafif", 
+            "source": "http://musicbrainz.org/work/32a9c5dc-1e57-47dc-9b97-6e0a611df9e4"
+        }, 
+        {
+            "attribute_key": "muhammes", 
+            "mb_tag": "muhammes", 
+            "source": "http://musicbrainz.org/recording/40ef1008-a417-4c96-881e-43b97fb17047"
+        }
+    ], 
+    "form": [
+        {
+            "attribute_key": "pesrev", 
+            "mb_attribute": "Pe\u015frev", 
+            "source": "http://musicbrainz.org/work/32a9c5dc-1e57-47dc-9b97-6e0a611df9e4"
+        }, 
+        {
+            "attribute_key": "pesrev", 
+            "mb_tag": "pe\u015frev", 
+            "source": "http://musicbrainz.org/recording/40ef1008-a417-4c96-881e-43b97fb17047"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "0f1ff1a4-6c4f-4d0c-b3fc-28a885f40067", 
+            "title": "Mahur \u015eark\u0131lar - 2"
+        }
+    ], 
+    "title": "Mahur Pe\u015frev", 
+    "url": "http://musicbrainz.org/recording/40ef1008-a417-4c96-881e-43b97fb17047", 
+    "artist_credits": [
+        {
+            "mbid": "b0bbd0fe-42f7-421c-82de-f4df6323984b", 
+            "name": "Meral U\u011furlu"
+        }
+    ], 
+    "mbid": "40ef1008-a417-4c96-881e-43b97fb17047", 
+    "makam": [
+        {
+            "attribute_key": "mahur", 
+            "mb_attribute": "Mahur", 
+            "source": "http://musicbrainz.org/work/32a9c5dc-1e57-47dc-9b97-6e0a611df9e4"
+        }, 
+        {
+            "attribute_key": "mahur", 
+            "mb_tag": "mahur", 
+            "source": "http://musicbrainz.org/recording/40ef1008-a417-4c96-881e-43b97fb17047"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
+            "type": "performing orchestra", 
+            "name": "[unknown]"
+        }
+    ], 
+    "instrumentation_voicing": "Ensemble instrumental", 
+    "works": [
+        {
+            "mbid": "32a9c5dc-1e57-47dc-9b97-6e0a611df9e4", 
+            "title": "Mahur Pe\u015frevi"
+        }
+    ]
+}

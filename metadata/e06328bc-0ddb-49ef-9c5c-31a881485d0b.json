@@ -1,0 +1,67 @@
+{
+    "usul": [
+        {
+            "attribute_key": "muhammes", 
+            "mb_attribute": "Muhammes", 
+            "source": "http://musicbrainz.org/work/5617c02f-8c47-4fda-9c3c-70dd5a471291"
+        }, 
+        {
+            "attribute_key": "duyek", 
+            "mb_tag": "d\u00fcyek", 
+            "source": "http://musicbrainz.org/recording/e06328bc-0ddb-49ef-9c5c-31a881485d0b"
+        }
+    ], 
+    "form": [
+        {
+            "attribute_key": "pesrev", 
+            "mb_attribute": "Pe\u015frev", 
+            "source": "http://musicbrainz.org/work/5617c02f-8c47-4fda-9c3c-70dd5a471291"
+        }, 
+        {
+            "attribute_key": "pesrev", 
+            "mb_tag": "pe\u015frev", 
+            "source": "http://musicbrainz.org/recording/e06328bc-0ddb-49ef-9c5c-31a881485d0b"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "5bd7a46e-c6bd-490e-96b2-847305c9bfaa", 
+            "title": "Tatyos Efendi K\u00fclliyat\u0131"
+        }
+    ], 
+    "title": "Rast Pe\u015frev", 
+    "url": "http://musicbrainz.org/recording/e06328bc-0ddb-49ef-9c5c-31a881485d0b", 
+    "artist_credits": [
+        {
+            "mbid": "0868a083-608c-41c5-89b0-bc5b9a616dbd", 
+            "name": "Kudsi Erguner Ensemble"
+        }
+    ], 
+    "mbid": "e06328bc-0ddb-49ef-9c5c-31a881485d0b", 
+    "makam": [
+        {
+            "attribute_key": "rast", 
+            "mb_attribute": "Rast", 
+            "source": "http://musicbrainz.org/work/5617c02f-8c47-4fda-9c3c-70dd5a471291"
+        }, 
+        {
+            "attribute_key": "rast", 
+            "mb_tag": "rast", 
+            "source": "http://musicbrainz.org/recording/e06328bc-0ddb-49ef-9c5c-31a881485d0b"
+        }
+    ], 
+    "artists": [
+        {
+            "mbid": "0868a083-608c-41c5-89b0-bc5b9a616dbd", 
+            "type": "performing orchestra", 
+            "name": "Kudsi Erguner Ensemble"
+        }
+    ], 
+    "instrumentation_voicing": "Ensemble instrumental", 
+    "works": [
+        {
+            "mbid": "5617c02f-8c47-4fda-9c3c-70dd5a471291", 
+            "title": "Rast Pe\u015frev"
+        }
+    ]
+}
