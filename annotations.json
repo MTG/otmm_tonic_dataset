@@ -454,7 +454,7 @@
         "citation": "Karakurt, A., \u015eent\u00fcrk S., & Serra X. (2016). MORTY: A Toolbox for Mode Recognition and Tonic Identification. In Proceedings of 3rd International Digital Libraries for Musicology Workshop (DLfM 2016). pages 9-16, New York, NY, USA", 
         "value": 433.1, 
         "source": "https://github.com/MTG/otmm_makam_recognition_dataset/blob/216a7b30632032b2a8c2692d5f5895bedbc743e0/annotations.json", 
-        "tonic_symbol": "D5", 
+        "tonic_symbol": "D4", 
         "octave_wrapped": true, 
         "observations": ""
       }
@@ -653,7 +653,7 @@
         "citation": "Karakurt, A., \u015eent\u00fcrk S., & Serra X. (2016). MORTY: A Toolbox for Mode Recognition and Tonic Identification. In Proceedings of 3rd International Digital Libraries for Musicology Workshop (DLfM 2016). pages 9-16, New York, NY, USA", 
         "value": 221.0, 
         "source": "https://github.com/MTG/otmm_makam_recognition_dataset/blob/216a7b30632032b2a8c2692d5f5895bedbc743e0/annotations.json", 
-        "tonic_symbol": "D5", 
+        "tonic_symbol": "D4", 
         "octave_wrapped": true, 
         "observations": ""
       }
@@ -1269,7 +1269,7 @@
         "citation": "Karakurt, A., \u015eent\u00fcrk S., & Serra X. (2016). MORTY: A Toolbox for Mode Recognition and Tonic Identification. In Proceedings of 3rd International Digital Libraries for Musicology Workshop (DLfM 2016). pages 9-16, New York, NY, USA", 
         "value": 189.2, 
         "source": "https://github.com/MTG/otmm_makam_recognition_dataset/blob/216a7b30632032b2a8c2692d5f5895bedbc743e0/annotations.json", 
-        "tonic_symbol": "D5", 
+        "tonic_symbol": "D4", 
         "octave_wrapped": true, 
         "observations": ""
       }, 
@@ -1280,7 +1280,7 @@
         "value": 189.9, 
         "source": "https://github.com/sertansenturk/tomato/blob/v0.9.1/tomato/joint/jointanalyzer.py#L90", 
         "observations": "Tonic identified from the note models obtained by joint audio-score analysis", 
-        "tonic_symbol": "D5", 
+        "tonic_symbol": "D4", 
         "octave_wrapped": true
       }
     ]
@@ -1587,31 +1587,6 @@
       }
     ]
   }, 
-  "e9a61795-96ed-44e5-b405-3f95db06b622": {
-    "mbid": "http://musicbrainz.org/recording/e9a61795-96ed-44e5-b405-3f95db06b622", 
-    "verified": false, 
-    "annotations": [
-      {
-        "time_interval": [], 
-        "citation": "Atl\u0131, H. S., Bozkurt, B., \u015eent\u00fcrk, S. (2015). A Method for Tonic Frequency Identification of Turkish Makam Music Recordings. In Proceedings of 5th International Workshop on Folk Music Analysis (FMA 2015), pages 119\u2013122, Paris, France.", 
-        "value": 259.0, 
-        "source": "https://github.com/MTG/otmm_tonic_dataset/blob/7f28c1a3261b9146042155ee5e0f9e644d9ebcfa/atli2015tonic_fma/TD2.csv", 
-        "tonic_symbol": "E4", 
-        "octave_wrapped": true, 
-        "observations": ""
-      }, 
-      {
-        "time_interval": [], 
-        "music_score": "https://github.com/MTG/SymbTr/tree/v2.4.3/txt/suzidil--sarki--senginsemai--ey_gonca--semseddin_ziya_bey", 
-        "citation": "\u015eent\u00fcrk, S. (2016). Computational Analysis of Audio Recordings and Music Scores for the Description and Discovery of Ottoman-Turkish Makam Music. PhD thesis, Universitat Pompeu Fabra, Barcelona, Spain.", 
-        "value": 130.4, 
-        "source": "https://github.com/sertansenturk/tomato/blob/v0.9.1/tomato/joint/jointanalyzer.py#L90", 
-        "observations": "Tonic identified from the note models obtained by joint audio-score analysis", 
-        "tonic_symbol": "E4", 
-        "octave_wrapped": true
-      }
-    ]
-  }, 
   "949b354e-df37-459c-8112-253e9becae28": {
     "mbid": "http://musicbrainz.org/recording/949b354e-df37-459c-8112-253e9becae28", 
     "verified": false, 
@@ -1636,7 +1611,7 @@
         "citation": "Karakurt, A., \u015eent\u00fcrk S., & Serra X. (2016). MORTY: A Toolbox for Mode Recognition and Tonic Identification. In Proceedings of 3rd International Digital Libraries for Musicology Workshop (DLfM 2016). pages 9-16, New York, NY, USA", 
         "value": 164.9, 
         "source": "https://github.com/MTG/otmm_makam_recognition_dataset/blob/216a7b30632032b2a8c2692d5f5895bedbc743e0/annotations.json", 
-        "tonic_symbol": "D5", 
+        "tonic_symbol": "D4", 
         "octave_wrapped": true, 
         "observations": ""
       }
@@ -2073,7 +2048,7 @@
         "citation": "Atl\u0131, H. S., Bozkurt, B., \u015eent\u00fcrk, S. (2015). A Method for Tonic Frequency Identification of Turkish Makam Music Recordings. In Proceedings of 5th International Workshop on Folk Music Analysis (FMA 2015), pages 119\u2013122, Paris, France.", 
         "value": 166.0, 
         "source": "https://github.com/MTG/otmm_tonic_dataset/blob/7f28c1a3261b9146042155ee5e0f9e644d9ebcfa/atli2015tonic_fma/TD2.csv", 
-        "tonic_symbol": "D5", 
+        "tonic_symbol": "D4", 
         "octave_wrapped": true, 
         "observations": ""
       }, 
@@ -2082,7 +2057,7 @@
         "citation": "Karakurt, A., \u015eent\u00fcrk S., & Serra X. (2016). MORTY: A Toolbox for Mode Recognition and Tonic Identification. In Proceedings of 3rd International Digital Libraries for Musicology Workshop (DLfM 2016). pages 9-16, New York, NY, USA", 
         "value": 166.0, 
         "source": "https://github.com/MTG/otmm_makam_recognition_dataset/blob/216a7b30632032b2a8c2692d5f5895bedbc743e0/annotations.json", 
-        "tonic_symbol": "D5", 
+        "tonic_symbol": "D4", 
         "octave_wrapped": true, 
         "observations": ""
       }, 
@@ -2093,7 +2068,7 @@
         "value": 332.1, 
         "source": "https://github.com/sertansenturk/tomato/blob/v0.9.1/tomato/joint/jointanalyzer.py#L90", 
         "observations": "Tonic identified from the note models obtained by joint audio-score analysis", 
-        "tonic_symbol": "D5", 
+        "tonic_symbol": "D4", 
         "octave_wrapped": true
       }
     ]
@@ -2255,7 +2230,7 @@
         "citation": "Atl\u0131, H. S., Bozkurt, B., \u015eent\u00fcrk, S. (2015). A Method for Tonic Frequency Identification of Turkish Makam Music Recordings. In Proceedings of 5th International Workshop on Folk Music Analysis (FMA 2015), pages 119\u2013122, Paris, France.", 
         "value": 297.0, 
         "source": "https://github.com/MTG/otmm_tonic_dataset/blob/7f28c1a3261b9146042155ee5e0f9e644d9ebcfa/atli2015tonic_fma/TD2.csv", 
-        "tonic_symbol": "D5", 
+        "tonic_symbol": "D4", 
         "octave_wrapped": true, 
         "observations": ""
       }, 
@@ -2264,8 +2239,23 @@
         "citation": "Karakurt, A., \u015eent\u00fcrk S., & Serra X. (2016). MORTY: A Toolbox for Mode Recognition and Tonic Identification. In Proceedings of 3rd International Digital Libraries for Musicology Workshop (DLfM 2016). pages 9-16, New York, NY, USA", 
         "value": 298.0, 
         "source": "https://github.com/MTG/otmm_makam_recognition_dataset/blob/216a7b30632032b2a8c2692d5f5895bedbc743e0/annotations.json", 
-        "tonic_symbol": "D5", 
+        "tonic_symbol": "D4", 
         "octave_wrapped": true, 
+        "observations": ""
+      }
+    ]
+  }, 
+  "161c1c16-b664-4fe2-bbf1-f7b9ee312096": {
+    "mbid": "http://musicbrainz.org/recording/161c1c16-b664-4fe2-bbf1-f7b9ee312096", 
+    "verified": false, 
+    "annotations": [
+      {
+        "time_interval": [], 
+        "citation": "\u015eent\u00fcrk, S., & Serra X. (2016). Composition Identification in Ottoman-Turkish Makam Music Using Transposition-Invariant Partial Audio-Score Alignment. In Proceedings of 13th Sound and Music Computing Conference (SMC 2016). pages 434-441, Hamburg, Germany", 
+        "value": 217.2, 
+        "source": "https://github.com/MTG/otmm_composition_identification_dataset/tree/smc2016", 
+        "tonic_symbol": "G4", 
+        "octave_wrapped": false, 
         "observations": ""
       }
     ]
@@ -2890,21 +2880,6 @@
       }
     ]
   }, 
-  "f78f4295-9d7c-483b-a9a0-97515716155d": {
-    "mbid": "http://musicbrainz.org/recording/f78f4295-9d7c-483b-a9a0-97515716155d", 
-    "verified": false, 
-    "annotations": [
-      {
-        "time_interval": [], 
-        "citation": "\u015eent\u00fcrk, S., & Serra X. (2016). Composition Identification in Ottoman-Turkish Makam Music Using Transposition-Invariant Partial Audio-Score Alignment. In Proceedings of 13th Sound and Music Computing Conference (SMC 2016). pages 434-441, Hamburg, Germany", 
-        "value": 332.0, 
-        "source": "https://github.com/MTG/otmm_composition_identification_dataset/tree/smc2016", 
-        "tonic_symbol": "D5", 
-        "octave_wrapped": false, 
-        "observations": ""
-      }
-    ]
-  }, 
   "7840b633-ba9e-4545-b156-1dfb6a659368": {
     "mbid": "http://musicbrainz.org/recording/7840b633-ba9e-4545-b156-1dfb6a659368", 
     "verified": false, 
@@ -3303,7 +3278,7 @@
         "citation": "Karakurt, A., \u015eent\u00fcrk S., & Serra X. (2016). MORTY: A Toolbox for Mode Recognition and Tonic Identification. In Proceedings of 3rd International Digital Libraries for Musicology Workshop (DLfM 2016). pages 9-16, New York, NY, USA", 
         "value": 220.0, 
         "source": "https://github.com/MTG/otmm_makam_recognition_dataset/blob/216a7b30632032b2a8c2692d5f5895bedbc743e0/annotations.json", 
-        "tonic_symbol": "D5", 
+        "tonic_symbol": "D4", 
         "octave_wrapped": true, 
         "observations": ""
       }
@@ -3373,7 +3348,7 @@
         "citation": "Karakurt, A., \u015eent\u00fcrk S., & Serra X. (2016). MORTY: A Toolbox for Mode Recognition and Tonic Identification. In Proceedings of 3rd International Digital Libraries for Musicology Workshop (DLfM 2016). pages 9-16, New York, NY, USA", 
         "value": 196.6, 
         "source": "https://github.com/MTG/otmm_makam_recognition_dataset/blob/216a7b30632032b2a8c2692d5f5895bedbc743e0/annotations.json", 
-        "tonic_symbol": "D5", 
+        "tonic_symbol": "D4", 
         "octave_wrapped": true, 
         "observations": ""
       }
@@ -3862,7 +3837,7 @@
         "octave_wrapped": true
       }
     ]
-  },
+  }, 
   "1e14ece7-f5cd-4a58-aa15-b82253b1b858": {
     "mbid": "http://musicbrainz.org/recording/1e14ece7-f5cd-4a58-aa15-b82253b1b858", 
     "verified": false, 
@@ -3906,7 +3881,7 @@
         "citation": "Karakurt, A., \u015eent\u00fcrk S., & Serra X. (2016). MORTY: A Toolbox for Mode Recognition and Tonic Identification. In Proceedings of 3rd International Digital Libraries for Musicology Workshop (DLfM 2016). pages 9-16, New York, NY, USA", 
         "value": 402.9, 
         "source": "https://github.com/MTG/otmm_makam_recognition_dataset/blob/216a7b30632032b2a8c2692d5f5895bedbc743e0/annotations.json", 
-        "tonic_symbol": "D5", 
+        "tonic_symbol": "D4", 
         "octave_wrapped": true, 
         "observations": ""
       }
@@ -4076,7 +4051,7 @@
         "citation": "Atl\u0131, H. S., Bozkurt, B., \u015eent\u00fcrk, S. (2015). A Method for Tonic Frequency Identification of Turkish Makam Music Recordings. In Proceedings of 5th International Workshop on Folk Music Analysis (FMA 2015), pages 119\u2013122, Paris, France.", 
         "value": 218.0, 
         "source": "https://github.com/MTG/otmm_tonic_dataset/blob/7f28c1a3261b9146042155ee5e0f9e644d9ebcfa/atli2015tonic_fma/TD2.csv", 
-        "tonic_symbol": "D5", 
+        "tonic_symbol": "D4", 
         "octave_wrapped": true, 
         "observations": ""
       }, 
@@ -4085,7 +4060,7 @@
         "citation": "Karakurt, A., \u015eent\u00fcrk S., & Serra X. (2016). MORTY: A Toolbox for Mode Recognition and Tonic Identification. In Proceedings of 3rd International Digital Libraries for Musicology Workshop (DLfM 2016). pages 9-16, New York, NY, USA", 
         "value": 218.0, 
         "source": "https://github.com/MTG/otmm_makam_recognition_dataset/blob/216a7b30632032b2a8c2692d5f5895bedbc743e0/annotations.json", 
-        "tonic_symbol": "D5", 
+        "tonic_symbol": "D4", 
         "octave_wrapped": true, 
         "observations": ""
       }
@@ -4100,7 +4075,7 @@
         "citation": "Karakurt, A., \u015eent\u00fcrk S., & Serra X. (2016). MORTY: A Toolbox for Mode Recognition and Tonic Identification. In Proceedings of 3rd International Digital Libraries for Musicology Workshop (DLfM 2016). pages 9-16, New York, NY, USA", 
         "value": 168.2, 
         "source": "https://github.com/MTG/otmm_makam_recognition_dataset/blob/216a7b30632032b2a8c2692d5f5895bedbc743e0/annotations.json", 
-        "tonic_symbol": "D5", 
+        "tonic_symbol": "D4", 
         "octave_wrapped": true, 
         "observations": ""
       }
@@ -4228,7 +4203,7 @@
         "citation": "Karakurt, A., \u015eent\u00fcrk S., & Serra X. (2016). MORTY: A Toolbox for Mode Recognition and Tonic Identification. In Proceedings of 3rd International Digital Libraries for Musicology Workshop (DLfM 2016). pages 9-16, New York, NY, USA", 
         "value": 196.0, 
         "source": "https://github.com/MTG/otmm_makam_recognition_dataset/blob/216a7b30632032b2a8c2692d5f5895bedbc743e0/annotations.json", 
-        "tonic_symbol": "D5", 
+        "tonic_symbol": "D4", 
         "octave_wrapped": true, 
         "observations": ""
       }, 
@@ -4239,7 +4214,7 @@
         "value": 195.7, 
         "source": "https://github.com/sertansenturk/tomato/blob/v0.9.1/tomato/joint/jointanalyzer.py#L90", 
         "observations": "Tonic identified from the note models obtained by joint audio-score analysis", 
-        "tonic_symbol": "D5", 
+        "tonic_symbol": "D4", 
         "octave_wrapped": true
       }
     ]
@@ -4551,7 +4526,7 @@
         "citation": "Karakurt, A., \u015eent\u00fcrk S., & Serra X. (2016). MORTY: A Toolbox for Mode Recognition and Tonic Identification. In Proceedings of 3rd International Digital Libraries for Musicology Workshop (DLfM 2016). pages 9-16, New York, NY, USA", 
         "value": 348.0, 
         "source": "https://github.com/MTG/otmm_makam_recognition_dataset/blob/216a7b30632032b2a8c2692d5f5895bedbc743e0/annotations.json", 
-        "tonic_symbol": "D5", 
+        "tonic_symbol": "D4", 
         "octave_wrapped": true, 
         "observations": ""
       }
@@ -5619,30 +5594,6 @@
       }
     ]
   }, 
-  "d348d04f-d954-4555-b97c-61cab492a332": {
-    "mbid": "http://musicbrainz.org/recording/d348d04f-d954-4555-b97c-61cab492a332", 
-    "verified": false, 
-    "annotations": [
-      {
-        "time_interval": [], 
-        "citation": "Atl\u0131, H. S., Bozkurt, B., \u015eent\u00fcrk, S. (2015). A Method for Tonic Frequency Identification of Turkish Makam Music Recordings. In Proceedings of 5th International Workshop on Folk Music Analysis (FMA 2015), pages 119\u2013122, Paris, France.", 
-        "value": 215.0, 
-        "source": "https://github.com/MTG/otmm_tonic_dataset/blob/7f28c1a3261b9146042155ee5e0f9e644d9ebcfa/atli2015tonic_fma/TD2.csv", 
-        "tonic_symbol": "A4", 
-        "octave_wrapped": true, 
-        "observations": ""
-      }, 
-      {
-        "time_interval": [], 
-        "citation": "Karakurt, A., \u015eent\u00fcrk S., & Serra X. (2016). MORTY: A Toolbox for Mode Recognition and Tonic Identification. In Proceedings of 3rd International Digital Libraries for Musicology Workshop (DLfM 2016). pages 9-16, New York, NY, USA", 
-        "value": 215.5, 
-        "source": "https://github.com/MTG/otmm_makam_recognition_dataset/blob/216a7b30632032b2a8c2692d5f5895bedbc743e0/annotations.json", 
-        "tonic_symbol": "A4", 
-        "octave_wrapped": true, 
-        "observations": ""
-      }
-    ]
-  }, 
   "79b7f9ff-0bff-446a-83d6-3b90a9ce0d44": {
     "mbid": "http://musicbrainz.org/recording/79b7f9ff-0bff-446a-83d6-3b90a9ce0d44", 
     "verified": false, 
@@ -6309,14 +6260,14 @@
       }
     ]
   }, 
-  "725473b5-d860-41aa-87b6-ce2bf000674b": {
-    "mbid": "http://musicbrainz.org/recording/725473b5-d860-41aa-87b6-ce2bf000674b", 
+  "f925a8a6-5754-4d7d-a891-0b2b13c1f34f": {
+    "mbid": "http://musicbrainz.org/recording/f925a8a6-5754-4d7d-a891-0b2b13c1f34f", 
     "verified": false, 
     "annotations": [
       {
         "time_interval": [], 
         "citation": "Atl\u0131, H. S., Bozkurt, B., \u015eent\u00fcrk, S. (2015). A Method for Tonic Frequency Identification of Turkish Makam Music Recordings. In Proceedings of 5th International Workshop on Folk Music Analysis (FMA 2015), pages 119\u2013122, Paris, France.", 
-        "value": 261.0, 
+        "value": 144.0, 
         "source": "https://github.com/MTG/otmm_tonic_dataset/blob/7f28c1a3261b9146042155ee5e0f9e644d9ebcfa/atli2015tonic_fma/TD2.csv", 
         "tonic_symbol": "A4", 
         "octave_wrapped": true, 
@@ -6349,27 +6300,27 @@
       }
     ]
   }, 
-  "184886ba-9e1b-41c8-8c0f-fdd351f08817": {
-    "mbid": "http://musicbrainz.org/recording/184886ba-9e1b-41c8-8c0f-fdd351f08817", 
+  "e9a61795-96ed-44e5-b405-3f95db06b622": {
+    "mbid": "http://musicbrainz.org/recording/e9a61795-96ed-44e5-b405-3f95db06b622", 
     "verified": false, 
     "annotations": [
       {
         "time_interval": [], 
-        "citation": "Karakurt, A., \u015eent\u00fcrk S., & Serra X. (2016). MORTY: A Toolbox for Mode Recognition and Tonic Identification. In Proceedings of 3rd International Digital Libraries for Musicology Workshop (DLfM 2016). pages 9-16, New York, NY, USA", 
-        "value": 130.6, 
-        "source": "https://github.com/MTG/otmm_makam_recognition_dataset/blob/216a7b30632032b2a8c2692d5f5895bedbc743e0/annotations.json", 
-        "tonic_symbol": "A4", 
+        "citation": "Atl\u0131, H. S., Bozkurt, B., \u015eent\u00fcrk, S. (2015). A Method for Tonic Frequency Identification of Turkish Makam Music Recordings. In Proceedings of 5th International Workshop on Folk Music Analysis (FMA 2015), pages 119\u2013122, Paris, France.", 
+        "value": 259.0, 
+        "source": "https://github.com/MTG/otmm_tonic_dataset/blob/7f28c1a3261b9146042155ee5e0f9e644d9ebcfa/atli2015tonic_fma/TD2.csv", 
+        "tonic_symbol": "E4", 
         "octave_wrapped": true, 
         "observations": ""
       }, 
       {
         "time_interval": [], 
-        "music_score": "https://github.com/MTG/SymbTr/tree/v2.4.3/txt/hicaz--sarki--turkaksagi--yadeller_aldi--sadettin_kaynak", 
+        "music_score": "https://github.com/MTG/SymbTr/tree/v2.4.3/txt/suzidil--sarki--senginsemai--ey_gonca--semseddin_ziya_bey", 
         "citation": "\u015eent\u00fcrk, S. (2016). Computational Analysis of Audio Recordings and Music Scores for the Description and Discovery of Ottoman-Turkish Makam Music. PhD thesis, Universitat Pompeu Fabra, Barcelona, Spain.", 
-        "value": 130.8, 
+        "value": 130.4, 
         "source": "https://github.com/sertansenturk/tomato/blob/v0.9.1/tomato/joint/jointanalyzer.py#L90", 
         "observations": "Tonic identified from the note models obtained by joint audio-score analysis", 
-        "tonic_symbol": "A4", 
+        "tonic_symbol": "E4", 
         "octave_wrapped": true
       }
     ]
@@ -6743,6 +6694,21 @@
       }
     ]
   }, 
+  "20a1ddac-39a4-4bbb-81f5-bee504540f02": {
+    "mbid": "http://musicbrainz.org/recording/20a1ddac-39a4-4bbb-81f5-bee504540f02", 
+    "verified": false, 
+    "annotations": [
+      {
+        "time_interval": [], 
+        "citation": "Karakurt, A., \u015eent\u00fcrk S., & Serra X. (2016). MORTY: A Toolbox for Mode Recognition and Tonic Identification. In Proceedings of 3rd International Digital Libraries for Musicology Workshop (DLfM 2016). pages 9-16, New York, NY, USA", 
+        "value": 305.8, 
+        "source": "https://github.com/MTG/otmm_makam_recognition_dataset/blob/216a7b30632032b2a8c2692d5f5895bedbc743e0/annotations.json", 
+        "tonic_symbol": "G4", 
+        "octave_wrapped": true, 
+        "observations": ""
+      }
+    ]
+  }, 
   "ab0a7438-662e-4dd4-8547-3ee18976f0ea": {
     "mbid": "http://musicbrainz.org/recording/ab0a7438-662e-4dd4-8547-3ee18976f0ea", 
     "verified": false, 
@@ -6995,16 +6961,25 @@
       }
     ]
   }, 
-  "bb9fc9e0-b38e-4db2-a3c2-327ad3d1fde1": {
-    "mbid": "http://musicbrainz.org/recording/bb9fc9e0-b38e-4db2-a3c2-327ad3d1fde1", 
-    "verified": false, 
+  "430eb7d0-5326-4883-ad04-a6c8f2383ee9": {
+    "mbid": "http://musicbrainz.org/recording/430eb7d0-5326-4883-ad04-a6c8f2383ee9", 
+    "verified": true, 
     "annotations": [
       {
         "time_interval": [], 
         "citation": "Atl\u0131, H. S., Bozkurt, B., \u015eent\u00fcrk, S. (2015). A Method for Tonic Frequency Identification of Turkish Makam Music Recordings. In Proceedings of 5th International Workshop on Folk Music Analysis (FMA 2015), pages 119\u2013122, Paris, France.", 
-        "value": 138.0, 
+        "value": 131.0, 
         "source": "https://github.com/MTG/otmm_tonic_dataset/blob/7f28c1a3261b9146042155ee5e0f9e644d9ebcfa/atli2015tonic_fma/TD2.csv", 
-        "tonic_symbol": "B4b1", 
+        "tonic_symbol": "A4", 
+        "octave_wrapped": true, 
+        "observations": ""
+      }, 
+      {
+        "time_interval": [], 
+        "citation": "Karakurt, A., \u015eent\u00fcrk S., & Serra X. (2016). MORTY: A Toolbox for Mode Recognition and Tonic Identification. In Proceedings of 3rd International Digital Libraries for Musicology Workshop (DLfM 2016). pages 9-16, New York, NY, USA", 
+        "value": 130.8, 
+        "source": "https://github.com/MTG/otmm_makam_recognition_dataset/blob/216a7b30632032b2a8c2692d5f5895bedbc743e0/annotations.json", 
+        "tonic_symbol": "A4", 
         "octave_wrapped": true, 
         "observations": ""
       }
@@ -7631,7 +7606,7 @@
         "citation": "Karakurt, A., \u015eent\u00fcrk S., & Serra X. (2016). MORTY: A Toolbox for Mode Recognition and Tonic Identification. In Proceedings of 3rd International Digital Libraries for Musicology Workshop (DLfM 2016). pages 9-16, New York, NY, USA", 
         "value": 327.7, 
         "source": "https://github.com/MTG/otmm_makam_recognition_dataset/blob/216a7b30632032b2a8c2692d5f5895bedbc743e0/annotations.json", 
-        "tonic_symbol": "D5", 
+        "tonic_symbol": "D4", 
         "octave_wrapped": true, 
         "observations": ""
       }
@@ -11560,6 +11535,31 @@
       }
     ]
   }, 
+  "38999e51-2ebe-4597-b004-dcf3fc526449": {
+    "mbid": "http://musicbrainz.org/recording/38999e51-2ebe-4597-b004-dcf3fc526449", 
+    "verified": false, 
+    "annotations": [
+      {
+        "time_interval": [], 
+        "citation": "Atl\u0131, H. S., Bozkurt, B., \u015eent\u00fcrk, S. (2015). A Method for Tonic Frequency Identification of Turkish Makam Music Recordings. In Proceedings of 5th International Workshop on Folk Music Analysis (FMA 2015), pages 119\u2013122, Paris, France.", 
+        "value": 146.0, 
+        "source": "https://github.com/MTG/otmm_tonic_dataset/blob/7f28c1a3261b9146042155ee5e0f9e644d9ebcfa/atli2015tonic_fma/TD2.csv", 
+        "tonic_symbol": "A4", 
+        "octave_wrapped": true, 
+        "observations": ""
+      }, 
+      {
+        "time_interval": [], 
+        "music_score": "https://github.com/MTG/SymbTr/tree/v2.4.3/txt/hicaz_humayun--agirsemai--aksaksemai--kul_oldum--ibrahim_aga", 
+        "citation": "\u015eent\u00fcrk, S. (2016). Computational Analysis of Audio Recordings and Music Scores for the Description and Discovery of Ottoman-Turkish Makam Music. PhD thesis, Universitat Pompeu Fabra, Barcelona, Spain.", 
+        "value": 146.3, 
+        "source": "https://github.com/sertansenturk/tomato/blob/v0.9.1/tomato/joint/jointanalyzer.py#L90", 
+        "observations": "Tonic identified from the note models obtained by joint audio-score analysis", 
+        "tonic_symbol": "A4", 
+        "octave_wrapped": true
+      }
+    ]
+  }, 
   "ae2fe39c-2fed-4f36-bb1b-1d28fc15f4d5": {
     "mbid": "http://musicbrainz.org/recording/ae2fe39c-2fed-4f36-bb1b-1d28fc15f4d5", 
     "verified": false, 
@@ -11663,7 +11663,7 @@
         "citation": "Atl\u0131, H. S., Bozkurt, B., \u015eent\u00fcrk, S. (2015). A Method for Tonic Frequency Identification of Turkish Makam Music Recordings. In Proceedings of 5th International Workshop on Folk Music Analysis (FMA 2015), pages 119\u2013122, Paris, France.", 
         "value": 221.0, 
         "source": "https://github.com/MTG/otmm_tonic_dataset/blob/7f28c1a3261b9146042155ee5e0f9e644d9ebcfa/atli2015tonic_fma/TD2.csv", 
-        "tonic_symbol": "D5", 
+        "tonic_symbol": "D4", 
         "octave_wrapped": true, 
         "observations": ""
       }
@@ -12183,15 +12183,15 @@
       }
     ]
   }, 
-  "20a1ddac-39a4-4bbb-81f5-bee504540f02": {
-    "mbid": "http://musicbrainz.org/recording/20a1ddac-39a4-4bbb-81f5-bee504540f02", 
+  "cc994013-d025-4a04-bb3f-8c49445c09f5": {
+    "mbid": "http://musicbrainz.org/recording/cc994013-d025-4a04-bb3f-8c49445c09f5", 
     "verified": false, 
     "annotations": [
       {
         "time_interval": [], 
-        "citation": "Karakurt, A., \u015eent\u00fcrk S., & Serra X. (2016). MORTY: A Toolbox for Mode Recognition and Tonic Identification. In Proceedings of 3rd International Digital Libraries for Musicology Workshop (DLfM 2016). pages 9-16, New York, NY, USA", 
-        "value": 305.8, 
-        "source": "https://github.com/MTG/otmm_makam_recognition_dataset/blob/216a7b30632032b2a8c2692d5f5895bedbc743e0/annotations.json", 
+        "citation": "Atl\u0131, H. S., Bozkurt, B., \u015eent\u00fcrk, S. (2015). A Method for Tonic Frequency Identification of Turkish Makam Music Recordings. In Proceedings of 5th International Workshop on Folk Music Analysis (FMA 2015), pages 119\u2013122, Paris, France.", 
+        "value": 221.0, 
+        "source": "https://github.com/MTG/otmm_tonic_dataset/blob/7f28c1a3261b9146042155ee5e0f9e644d9ebcfa/atli2015tonic_fma/TD2.csv", 
         "tonic_symbol": "G4", 
         "octave_wrapped": true, 
         "observations": ""
@@ -12455,7 +12455,7 @@
         "citation": "Karakurt, A., \u015eent\u00fcrk S., & Serra X. (2016). MORTY: A Toolbox for Mode Recognition and Tonic Identification. In Proceedings of 3rd International Digital Libraries for Musicology Workshop (DLfM 2016). pages 9-16, New York, NY, USA", 
         "value": 220.0, 
         "source": "https://github.com/MTG/otmm_makam_recognition_dataset/blob/216a7b30632032b2a8c2692d5f5895bedbc743e0/annotations.json", 
-        "tonic_symbol": "D5", 
+        "tonic_symbol": "D4", 
         "octave_wrapped": true, 
         "observations": ""
       }, 
@@ -12464,7 +12464,7 @@
         "citation": "\u015eent\u00fcrk, S., & Serra X. (2016). Composition Identification in Ottoman-Turkish Makam Music Using Transposition-Invariant Partial Audio-Score Alignment. In Proceedings of 13th Sound and Music Computing Conference (SMC 2016). pages 434-441, Hamburg, Germany", 
         "value": 441.9, 
         "source": "https://github.com/MTG/otmm_composition_identification_dataset/tree/smc2016", 
-        "tonic_symbol": "D5", 
+        "tonic_symbol": "D4", 
         "octave_wrapped": false, 
         "observations": ""
       }, 
@@ -12475,7 +12475,7 @@
         "value": 440.5, 
         "source": "https://github.com/sertansenturk/tomato/blob/v0.9.1/tomato/joint/jointanalyzer.py#L90", 
         "observations": "Tonic identified from the note models obtained by joint audio-score analysis", 
-        "tonic_symbol": "D5", 
+        "tonic_symbol": "D4", 
         "octave_wrapped": true
       }
     ]
@@ -13069,7 +13069,7 @@
         "citation": "Karakurt, A., \u015eent\u00fcrk S., & Serra X. (2016). MORTY: A Toolbox for Mode Recognition and Tonic Identification. In Proceedings of 3rd International Digital Libraries for Musicology Workshop (DLfM 2016). pages 9-16, New York, NY, USA", 
         "value": 326.0, 
         "source": "https://github.com/MTG/otmm_makam_recognition_dataset/blob/216a7b30632032b2a8c2692d5f5895bedbc743e0/annotations.json", 
-        "tonic_symbol": "D5", 
+        "tonic_symbol": "D4", 
         "octave_wrapped": true, 
         "observations": ""
       }
@@ -13737,6 +13737,31 @@
       }
     ]
   }, 
+  "184886ba-9e1b-41c8-8c0f-fdd351f08817": {
+    "mbid": "http://musicbrainz.org/recording/184886ba-9e1b-41c8-8c0f-fdd351f08817", 
+    "verified": false, 
+    "annotations": [
+      {
+        "time_interval": [], 
+        "citation": "Karakurt, A., \u015eent\u00fcrk S., & Serra X. (2016). MORTY: A Toolbox for Mode Recognition and Tonic Identification. In Proceedings of 3rd International Digital Libraries for Musicology Workshop (DLfM 2016). pages 9-16, New York, NY, USA", 
+        "value": 130.6, 
+        "source": "https://github.com/MTG/otmm_makam_recognition_dataset/blob/216a7b30632032b2a8c2692d5f5895bedbc743e0/annotations.json", 
+        "tonic_symbol": "A4", 
+        "octave_wrapped": true, 
+        "observations": ""
+      }, 
+      {
+        "time_interval": [], 
+        "music_score": "https://github.com/MTG/SymbTr/tree/v2.4.3/txt/hicaz--sarki--turkaksagi--yadeller_aldi--sadettin_kaynak", 
+        "citation": "\u015eent\u00fcrk, S. (2016). Computational Analysis of Audio Recordings and Music Scores for the Description and Discovery of Ottoman-Turkish Makam Music. PhD thesis, Universitat Pompeu Fabra, Barcelona, Spain.", 
+        "value": 130.8, 
+        "source": "https://github.com/sertansenturk/tomato/blob/v0.9.1/tomato/joint/jointanalyzer.py#L90", 
+        "observations": "Tonic identified from the note models obtained by joint audio-score analysis", 
+        "tonic_symbol": "A4", 
+        "octave_wrapped": true
+      }
+    ]
+  }, 
   "a88c72e7-0223-46d1-a970-9fb3acec7e32": {
     "mbid": "http://musicbrainz.org/recording/a88c72e7-0223-46d1-a970-9fb3acec7e32", 
     "verified": false, 
@@ -13787,6 +13812,21 @@
         "value": 444.5, 
         "source": "https://github.com/MTG/otmm_makam_recognition_dataset/blob/216a7b30632032b2a8c2692d5f5895bedbc743e0/annotations.json", 
         "tonic_symbol": "G4", 
+        "octave_wrapped": true, 
+        "observations": ""
+      }
+    ]
+  }, 
+  "bb9fc9e0-b38e-4db2-a3c2-327ad3d1fde1": {
+    "mbid": "http://musicbrainz.org/recording/bb9fc9e0-b38e-4db2-a3c2-327ad3d1fde1", 
+    "verified": false, 
+    "annotations": [
+      {
+        "time_interval": [], 
+        "citation": "Atl\u0131, H. S., Bozkurt, B., \u015eent\u00fcrk, S. (2015). A Method for Tonic Frequency Identification of Turkish Makam Music Recordings. In Proceedings of 5th International Workshop on Folk Music Analysis (FMA 2015), pages 119\u2013122, Paris, France.", 
+        "value": 138.0, 
+        "source": "https://github.com/MTG/otmm_tonic_dataset/blob/7f28c1a3261b9146042155ee5e0f9e644d9ebcfa/atli2015tonic_fma/TD2.csv", 
+        "tonic_symbol": "B4b1", 
         "octave_wrapped": true, 
         "observations": ""
       }
@@ -14386,21 +14426,6 @@
       }
     ]
   }, 
-  "aa3ec004-c896-472f-bc3f-176686a7b0dd": {
-    "mbid": "http://musicbrainz.org/recording/aa3ec004-c896-472f-bc3f-176686a7b0dd", 
-    "verified": false, 
-    "annotations": [
-      {
-        "time_interval": [], 
-        "citation": "Karakurt, A., \u015eent\u00fcrk S., & Serra X. (2016). MORTY: A Toolbox for Mode Recognition and Tonic Identification. In Proceedings of 3rd International Digital Libraries for Musicology Workshop (DLfM 2016). pages 9-16, New York, NY, USA", 
-        "value": 248.4, 
-        "source": "https://github.com/MTG/otmm_makam_recognition_dataset/blob/216a7b30632032b2a8c2692d5f5895bedbc743e0/annotations.json", 
-        "tonic_symbol": "A4", 
-        "octave_wrapped": true, 
-        "observations": ""
-      }
-    ]
-  }, 
   "6236a1e6-e29f-4cad-89db-b215940754d9": {
     "mbid": "http://musicbrainz.org/recording/6236a1e6-e29f-4cad-89db-b215940754d9", 
     "verified": false, 
@@ -14988,30 +15013,6 @@
       }
     ]
   }, 
-  "50a606de-68fd-4c42-8f3f-6714ad4e48df": {
-    "mbid": "http://musicbrainz.org/recording/50a606de-68fd-4c42-8f3f-6714ad4e48df", 
-    "verified": false, 
-    "annotations": [
-      {
-        "time_interval": [], 
-        "citation": "\u015eent\u00fcrk, S., Gulati, S., and Serra, X. (2013). Score Informed Tonic Identification for Makam Music of Turkey. In Proceedings of 14th International Society for Music Information Retrieval Conference (ISMIR 2013), pages 175\u2013180, Curitiba, Brazil.", 
-        "value": 221.5, 
-        "source": "https://github.com/MTG/otmm_tonic_dataset/blob/7f28c1a3261b9146042155ee5e0f9e644d9ebcfa/senturk2013karar_ismir/tonic_annotations.csv", 
-        "tonic_symbol": "E4", 
-        "octave_wrapped": true, 
-        "observations": ""
-      }, 
-      {
-        "time_interval": [], 
-        "citation": "Atl\u0131, H. S., Bozkurt, B., \u015eent\u00fcrk, S. (2015). A Method for Tonic Frequency Identification of Turkish Makam Music Recordings. In Proceedings of 5th International Workshop on Folk Music Analysis (FMA 2015), pages 119\u2013122, Paris, France.", 
-        "value": 222.0, 
-        "source": "https://github.com/MTG/otmm_tonic_dataset/blob/7f28c1a3261b9146042155ee5e0f9e644d9ebcfa/atli2015tonic_fma/TD2.csv", 
-        "tonic_symbol": "E4", 
-        "octave_wrapped": true, 
-        "observations": ""
-      }
-    ]
-  }, 
   "179a80ad-d2e1-42ab-8e2a-b5307322925e": {
     "mbid": "http://musicbrainz.org/recording/179a80ad-d2e1-42ab-8e2a-b5307322925e", 
     "verified": false, 
@@ -15542,21 +15543,6 @@
       }
     ]
   }, 
-  "56e1f968-864e-4b9e-aca3-a27eb932ccfd": {
-    "mbid": "http://musicbrainz.org/recording/56e1f968-864e-4b9e-aca3-a27eb932ccfd", 
-    "verified": false, 
-    "annotations": [
-      {
-        "time_interval": [], 
-        "citation": "Atl\u0131, H. S., Bozkurt, B., \u015eent\u00fcrk, S. (2015). A Method for Tonic Frequency Identification of Turkish Makam Music Recordings. In Proceedings of 5th International Workshop on Folk Music Analysis (FMA 2015), pages 119\u2013122, Paris, France.", 
-        "value": 332.0, 
-        "source": "https://github.com/MTG/otmm_tonic_dataset/blob/7f28c1a3261b9146042155ee5e0f9e644d9ebcfa/atli2015tonic_fma/TD2.csv", 
-        "tonic_symbol": "G4", 
-        "octave_wrapped": true, 
-        "observations": ""
-      }
-    ]
-  }, 
   "90c9ce3a-051e-433a-89f7-28e4d240c034": {
     "mbid": "http://musicbrainz.org/recording/90c9ce3a-051e-433a-89f7-28e4d240c034", 
     "verified": false, 
@@ -15566,7 +15552,7 @@
         "citation": "Karakurt, A., \u015eent\u00fcrk S., & Serra X. (2016). MORTY: A Toolbox for Mode Recognition and Tonic Identification. In Proceedings of 3rd International Digital Libraries for Musicology Workshop (DLfM 2016). pages 9-16, New York, NY, USA", 
         "value": 230.7, 
         "source": "https://github.com/MTG/otmm_makam_recognition_dataset/blob/216a7b30632032b2a8c2692d5f5895bedbc743e0/annotations.json", 
-        "tonic_symbol": "D5", 
+        "tonic_symbol": "D4", 
         "octave_wrapped": true, 
         "observations": ""
       }, 
@@ -15577,7 +15563,7 @@
         "value": 231.5, 
         "source": "https://github.com/sertansenturk/tomato/blob/v0.9.1/tomato/joint/jointanalyzer.py#L90", 
         "observations": "Tonic identified from the note models obtained by joint audio-score analysis", 
-        "tonic_symbol": "D5", 
+        "tonic_symbol": "D4", 
         "octave_wrapped": true
       }
     ]
@@ -15886,7 +15872,7 @@
         "citation": "Karakurt, A., \u015eent\u00fcrk S., & Serra X. (2016). MORTY: A Toolbox for Mode Recognition and Tonic Identification. In Proceedings of 3rd International Digital Libraries for Musicology Workshop (DLfM 2016). pages 9-16, New York, NY, USA", 
         "value": 228.0, 
         "source": "https://github.com/MTG/otmm_makam_recognition_dataset/blob/216a7b30632032b2a8c2692d5f5895bedbc743e0/annotations.json", 
-        "tonic_symbol": "D5", 
+        "tonic_symbol": "D4", 
         "octave_wrapped": true, 
         "observations": ""
       }
@@ -15978,7 +15964,7 @@
         "citation": "Karakurt, A., \u015eent\u00fcrk S., & Serra X. (2016). MORTY: A Toolbox for Mode Recognition and Tonic Identification. In Proceedings of 3rd International Digital Libraries for Musicology Workshop (DLfM 2016). pages 9-16, New York, NY, USA", 
         "value": 201.7, 
         "source": "https://github.com/MTG/otmm_makam_recognition_dataset/blob/216a7b30632032b2a8c2692d5f5895bedbc743e0/annotations.json", 
-        "tonic_symbol": "D5", 
+        "tonic_symbol": "D4", 
         "octave_wrapped": true, 
         "observations": ""
       }
@@ -16331,7 +16317,7 @@
         "citation": "Atl\u0131, H. S., Bozkurt, B., \u015eent\u00fcrk, S. (2015). A Method for Tonic Frequency Identification of Turkish Makam Music Recordings. In Proceedings of 5th International Workshop on Folk Music Analysis (FMA 2015), pages 119\u2013122, Paris, France.", 
         "value": 220.0, 
         "source": "https://github.com/MTG/otmm_tonic_dataset/blob/7f28c1a3261b9146042155ee5e0f9e644d9ebcfa/atli2015tonic_fma/TD2.csv", 
-        "tonic_symbol": "D5", 
+        "tonic_symbol": "D4", 
         "octave_wrapped": true, 
         "observations": ""
       }, 
@@ -16340,7 +16326,7 @@
         "citation": "Karakurt, A., \u015eent\u00fcrk S., & Serra X. (2016). MORTY: A Toolbox for Mode Recognition and Tonic Identification. In Proceedings of 3rd International Digital Libraries for Musicology Workshop (DLfM 2016). pages 9-16, New York, NY, USA", 
         "value": 220.0, 
         "source": "https://github.com/MTG/otmm_makam_recognition_dataset/blob/216a7b30632032b2a8c2692d5f5895bedbc743e0/annotations.json", 
-        "tonic_symbol": "D5", 
+        "tonic_symbol": "D4", 
         "octave_wrapped": true, 
         "observations": ""
       }, 
@@ -16351,7 +16337,7 @@
         "value": 219.9, 
         "source": "https://github.com/sertansenturk/tomato/blob/v0.9.1/tomato/joint/jointanalyzer.py#L90", 
         "observations": "Tonic identified from the note models obtained by joint audio-score analysis", 
-        "tonic_symbol": "D5", 
+        "tonic_symbol": "D4", 
         "octave_wrapped": true
       }
     ]
@@ -16758,7 +16744,7 @@
         "citation": "\u015eent\u00fcrk, S., & Serra X. (2016). Composition Identification in Ottoman-Turkish Makam Music Using Transposition-Invariant Partial Audio-Score Alignment. In Proceedings of 13th Sound and Music Computing Conference (SMC 2016). pages 434-441, Hamburg, Germany", 
         "value": 593.3, 
         "source": "https://github.com/MTG/otmm_composition_identification_dataset/tree/smc2016", 
-        "tonic_symbol": "D5", 
+        "tonic_symbol": "D4", 
         "octave_wrapped": false, 
         "observations": ""
       }, 
@@ -16769,7 +16755,7 @@
         "value": 592.1, 
         "source": "https://github.com/sertansenturk/tomato/blob/v0.9.1/tomato/joint/jointanalyzer.py#L90", 
         "observations": "Tonic identified from the note models obtained by joint audio-score analysis", 
-        "tonic_symbol": "D5", 
+        "tonic_symbol": "D4", 
         "octave_wrapped": true
       }
     ]
@@ -17029,7 +17015,7 @@
         "citation": "Karakurt, A., \u015eent\u00fcrk S., & Serra X. (2016). MORTY: A Toolbox for Mode Recognition and Tonic Identification. In Proceedings of 3rd International Digital Libraries for Musicology Workshop (DLfM 2016). pages 9-16, New York, NY, USA", 
         "value": 199.1, 
         "source": "https://github.com/MTG/otmm_makam_recognition_dataset/blob/216a7b30632032b2a8c2692d5f5895bedbc743e0/annotations.json", 
-        "tonic_symbol": "D5", 
+        "tonic_symbol": "D4", 
         "octave_wrapped": true, 
         "observations": ""
       }
@@ -17720,7 +17706,7 @@
         "citation": "\u015eent\u00fcrk, S., & Serra X. (2016). Composition Identification in Ottoman-Turkish Makam Music Using Transposition-Invariant Partial Audio-Score Alignment. In Proceedings of 13th Sound and Music Computing Conference (SMC 2016). pages 434-441, Hamburg, Germany", 
         "value": 664.0, 
         "source": "https://github.com/MTG/otmm_composition_identification_dataset/tree/smc2016", 
-        "tonic_symbol": "D5", 
+        "tonic_symbol": "D4", 
         "octave_wrapped": false, 
         "observations": ""
       }
@@ -19370,7 +19356,7 @@
         "citation": "Karakurt, A., \u015eent\u00fcrk S., & Serra X. (2016). MORTY: A Toolbox for Mode Recognition and Tonic Identification. In Proceedings of 3rd International Digital Libraries for Musicology Workshop (DLfM 2016). pages 9-16, New York, NY, USA", 
         "value": 194.9, 
         "source": "https://github.com/MTG/otmm_makam_recognition_dataset/blob/216a7b30632032b2a8c2692d5f5895bedbc743e0/annotations.json", 
-        "tonic_symbol": "D5", 
+        "tonic_symbol": "D4", 
         "octave_wrapped": true, 
         "observations": ""
       }
@@ -21061,6 +21047,21 @@
       }
     ]
   }, 
+  "725473b5-d860-41aa-87b6-ce2bf000674b": {
+    "mbid": "http://musicbrainz.org/recording/725473b5-d860-41aa-87b6-ce2bf000674b", 
+    "verified": false, 
+    "annotations": [
+      {
+        "time_interval": [], 
+        "citation": "Atl\u0131, H. S., Bozkurt, B., \u015eent\u00fcrk, S. (2015). A Method for Tonic Frequency Identification of Turkish Makam Music Recordings. In Proceedings of 5th International Workshop on Folk Music Analysis (FMA 2015), pages 119\u2013122, Paris, France.", 
+        "value": 261.0, 
+        "source": "https://github.com/MTG/otmm_tonic_dataset/blob/7f28c1a3261b9146042155ee5e0f9e644d9ebcfa/atli2015tonic_fma/TD2.csv", 
+        "tonic_symbol": "A4", 
+        "octave_wrapped": true, 
+        "observations": ""
+      }
+    ]
+  }, 
   "7c8671ae-d3f5-4ad6-a52d-2beb3c57fc29": {
     "mbid": "http://musicbrainz.org/recording/7c8671ae-d3f5-4ad6-a52d-2beb3c57fc29", 
     "verified": false, 
@@ -21693,6 +21694,21 @@
       }
     ]
   }, 
+  "dc4dabb4-3ea6-4c20-ae84-ca652416ee90": {
+    "mbid": "http://musicbrainz.org/recording/dc4dabb4-3ea6-4c20-ae84-ca652416ee90", 
+    "verified": false, 
+    "annotations": [
+      {
+        "time_interval": [], 
+        "citation": "Karakurt, A., \u015eent\u00fcrk S., & Serra X. (2016). MORTY: A Toolbox for Mode Recognition and Tonic Identification. In Proceedings of 3rd International Digital Libraries for Musicology Workshop (DLfM 2016). pages 9-16, New York, NY, USA", 
+        "value": 207.0, 
+        "source": "https://github.com/MTG/otmm_makam_recognition_dataset/blob/216a7b30632032b2a8c2692d5f5895bedbc743e0/annotations.json", 
+        "tonic_symbol": "D4", 
+        "octave_wrapped": true, 
+        "observations": ""
+      }
+    ]
+  }, 
   "37865eed-7e06-4d3c-bd09-a65325f28799": {
     "mbid": "http://musicbrainz.org/recording/37865eed-7e06-4d3c-bd09-a65325f28799", 
     "verified": false, 
@@ -21830,7 +21846,7 @@
         "citation": "Karakurt, A., \u015eent\u00fcrk S., & Serra X. (2016). MORTY: A Toolbox for Mode Recognition and Tonic Identification. In Proceedings of 3rd International Digital Libraries for Musicology Workshop (DLfM 2016). pages 9-16, New York, NY, USA", 
         "value": 98.7, 
         "source": "https://github.com/MTG/otmm_makam_recognition_dataset/blob/216a7b30632032b2a8c2692d5f5895bedbc743e0/annotations.json", 
-        "tonic_symbol": "D5", 
+        "tonic_symbol": "D4", 
         "octave_wrapped": true, 
         "observations": ""
       }, 
@@ -21841,7 +21857,7 @@
         "value": 199.3, 
         "source": "https://github.com/sertansenturk/tomato/blob/v0.9.1/tomato/joint/jointanalyzer.py#L90", 
         "observations": "Tonic identified from the note models obtained by joint audio-score analysis", 
-        "tonic_symbol": "D5", 
+        "tonic_symbol": "D4", 
         "octave_wrapped": true
       }
     ]
@@ -21973,7 +21989,7 @@
         "tonic_symbol": "D4", 
         "octave_wrapped": false, 
         "observations": ""
-      },
+      }, 
       {
         "time_interval": [], 
         "music_score": "https://github.com/MTG/SymbTr/tree/v2.4.3/txt/ferahfeza--sazsemaisi--aksaksemai----serif_muhittin_targan", 
@@ -21983,6 +21999,30 @@
         "observations": "Tonic identified from the note models obtained by joint audio-score analysis", 
         "tonic_symbol": "D4", 
         "octave_wrapped": true
+      }
+    ]
+  }, 
+  "d348d04f-d954-4555-b97c-61cab492a332": {
+    "mbid": "http://musicbrainz.org/recording/d348d04f-d954-4555-b97c-61cab492a332", 
+    "verified": false, 
+    "annotations": [
+      {
+        "time_interval": [], 
+        "citation": "Atl\u0131, H. S., Bozkurt, B., \u015eent\u00fcrk, S. (2015). A Method for Tonic Frequency Identification of Turkish Makam Music Recordings. In Proceedings of 5th International Workshop on Folk Music Analysis (FMA 2015), pages 119\u2013122, Paris, France.", 
+        "value": 215.0, 
+        "source": "https://github.com/MTG/otmm_tonic_dataset/blob/7f28c1a3261b9146042155ee5e0f9e644d9ebcfa/atli2015tonic_fma/TD2.csv", 
+        "tonic_symbol": "A4", 
+        "octave_wrapped": true, 
+        "observations": ""
+      }, 
+      {
+        "time_interval": [], 
+        "citation": "Karakurt, A., \u015eent\u00fcrk S., & Serra X. (2016). MORTY: A Toolbox for Mode Recognition and Tonic Identification. In Proceedings of 3rd International Digital Libraries for Musicology Workshop (DLfM 2016). pages 9-16, New York, NY, USA", 
+        "value": 215.5, 
+        "source": "https://github.com/MTG/otmm_makam_recognition_dataset/blob/216a7b30632032b2a8c2692d5f5895bedbc743e0/annotations.json", 
+        "tonic_symbol": "A4", 
+        "octave_wrapped": true, 
+        "observations": ""
       }
     ]
   }, 
@@ -22430,7 +22470,7 @@
         "citation": "Karakurt, A., \u015eent\u00fcrk S., & Serra X. (2016). MORTY: A Toolbox for Mode Recognition and Tonic Identification. In Proceedings of 3rd International Digital Libraries for Musicology Workshop (DLfM 2016). pages 9-16, New York, NY, USA", 
         "value": 226.0, 
         "source": "https://github.com/MTG/otmm_makam_recognition_dataset/blob/216a7b30632032b2a8c2692d5f5895bedbc743e0/annotations.json", 
-        "tonic_symbol": "D5", 
+        "tonic_symbol": "D4", 
         "octave_wrapped": true, 
         "observations": ""
       }
@@ -22561,7 +22601,7 @@
         "tonic_symbol": "A4", 
         "octave_wrapped": true, 
         "observations": ""
-      },
+      }, 
       {
         "time_interval": [], 
         "music_score": "https://github.com/MTG/SymbTr/tree/v2.4.3/txt/neva--pesrev--devrikebir----tanburi_cemil_bey", 
@@ -22778,7 +22818,7 @@
         "tonic_symbol": "G4", 
         "octave_wrapped": true, 
         "observations": ""
-      },
+      }, 
       {
         "time_interval": [], 
         "music_score": "https://github.com/MTG/SymbTr/tree/v2.4.3/txt/rast--sarki--duyek--bana_nasil--alaeddin_yavasca", 
@@ -23175,7 +23215,7 @@
         "citation": "\u015eent\u00fcrk, S., & Serra X. (2016). Composition Identification in Ottoman-Turkish Makam Music Using Transposition-Invariant Partial Audio-Score Alignment. In Proceedings of 13th Sound and Music Computing Conference (SMC 2016). pages 434-441, Hamburg, Germany", 
         "value": 220.0, 
         "source": "https://github.com/MTG/otmm_composition_identification_dataset/tree/smc2016", 
-        "tonic_symbol": "D5", 
+        "tonic_symbol": "D4", 
         "octave_wrapped": false, 
         "observations": ""
       }, 
@@ -23186,7 +23226,7 @@
         "value": 220.4, 
         "source": "https://github.com/sertansenturk/tomato/blob/v0.9.1/tomato/joint/jointanalyzer.py#L90", 
         "observations": "Tonic identified from the note models obtained by joint audio-score analysis", 
-        "tonic_symbol": "D5", 
+        "tonic_symbol": "D4", 
         "octave_wrapped": true
       }
     ]
@@ -23344,7 +23384,7 @@
         "citation": "Atl\u0131, H. S., Bozkurt, B., \u015eent\u00fcrk, S. (2015). A Method for Tonic Frequency Identification of Turkish Makam Music Recordings. In Proceedings of 5th International Workshop on Folk Music Analysis (FMA 2015), pages 119\u2013122, Paris, France.", 
         "value": 109.0, 
         "source": "https://github.com/MTG/otmm_tonic_dataset/blob/7f28c1a3261b9146042155ee5e0f9e644d9ebcfa/atli2015tonic_fma/TD2.csv", 
-        "tonic_symbol": "D5", 
+        "tonic_symbol": "D4", 
         "octave_wrapped": true, 
         "observations": ""
       }
@@ -23772,16 +23812,16 @@
       }
     ]
   }, 
-  "84e63fbc-8826-4639-a865-2fd592b7ec64": {
-    "mbid": "http://musicbrainz.org/recording/84e63fbc-8826-4639-a865-2fd592b7ec64", 
+  "b46414d4-36d7-48db-b099-b6037d42c4ae": {
+    "mbid": "http://musicbrainz.org/recording/b46414d4-36d7-48db-b099-b6037d42c4ae", 
     "verified": false, 
     "annotations": [
       {
         "time_interval": [], 
-        "citation": "Karakurt, A., \u015eent\u00fcrk S., & Serra X. (2016). MORTY: A Toolbox for Mode Recognition and Tonic Identification. In Proceedings of 3rd International Digital Libraries for Musicology Workshop (DLfM 2016). pages 9-16, New York, NY, USA", 
-        "value": 198.3, 
-        "source": "https://github.com/MTG/otmm_makam_recognition_dataset/blob/216a7b30632032b2a8c2692d5f5895bedbc743e0/annotations.json", 
-        "tonic_symbol": "D5", 
+        "citation": "Atl\u0131, H. S., Bozkurt, B., \u015eent\u00fcrk, S. (2015). A Method for Tonic Frequency Identification of Turkish Makam Music Recordings. In Proceedings of 5th International Workshop on Folk Music Analysis (FMA 2015), pages 119\u2013122, Paris, France.", 
+        "value": 123.0, 
+        "source": "https://github.com/MTG/otmm_tonic_dataset/blob/7f28c1a3261b9146042155ee5e0f9e644d9ebcfa/atli2015tonic_fma/TD2.csv", 
+        "tonic_symbol": "A4", 
         "octave_wrapped": true, 
         "observations": ""
       }
@@ -24319,7 +24359,7 @@
         "citation": "Karakurt, A., \u015eent\u00fcrk S., & Serra X. (2016). MORTY: A Toolbox for Mode Recognition and Tonic Identification. In Proceedings of 3rd International Digital Libraries for Musicology Workshop (DLfM 2016). pages 9-16, New York, NY, USA", 
         "value": 220.0, 
         "source": "https://github.com/MTG/otmm_makam_recognition_dataset/blob/216a7b30632032b2a8c2692d5f5895bedbc743e0/annotations.json", 
-        "tonic_symbol": "D5", 
+        "tonic_symbol": "D4", 
         "octave_wrapped": true, 
         "observations": ""
       }
@@ -24502,7 +24542,7 @@
         "citation": "Karakurt, A., \u015eent\u00fcrk S., & Serra X. (2016). MORTY: A Toolbox for Mode Recognition and Tonic Identification. In Proceedings of 3rd International Digital Libraries for Musicology Workshop (DLfM 2016). pages 9-16, New York, NY, USA", 
         "value": 323.5, 
         "source": "https://github.com/MTG/otmm_makam_recognition_dataset/blob/216a7b30632032b2a8c2692d5f5895bedbc743e0/annotations.json", 
-        "tonic_symbol": "D5", 
+        "tonic_symbol": "D4", 
         "octave_wrapped": true, 
         "observations": ""
       }
@@ -24577,7 +24617,7 @@
         "citation": "Atl\u0131, H. S., Bozkurt, B., \u015eent\u00fcrk, S. (2015). A Method for Tonic Frequency Identification of Turkish Makam Music Recordings. In Proceedings of 5th International Workshop on Folk Music Analysis (FMA 2015), pages 119\u2013122, Paris, France.", 
         "value": 219.0, 
         "source": "https://github.com/MTG/otmm_tonic_dataset/blob/7f28c1a3261b9146042155ee5e0f9e644d9ebcfa/atli2015tonic_fma/TD2.csv", 
-        "tonic_symbol": "D5", 
+        "tonic_symbol": "D4", 
         "octave_wrapped": true, 
         "observations": ""
       }, 
@@ -24586,7 +24626,7 @@
         "citation": "Karakurt, A., \u015eent\u00fcrk S., & Serra X. (2016). MORTY: A Toolbox for Mode Recognition and Tonic Identification. In Proceedings of 3rd International Digital Libraries for Musicology Workshop (DLfM 2016). pages 9-16, New York, NY, USA", 
         "value": 219.0, 
         "source": "https://github.com/MTG/otmm_makam_recognition_dataset/blob/216a7b30632032b2a8c2692d5f5895bedbc743e0/annotations.json", 
-        "tonic_symbol": "D5", 
+        "tonic_symbol": "D4", 
         "octave_wrapped": true, 
         "observations": ""
       }
@@ -24983,6 +25023,31 @@
         "source": "https://github.com/sertansenturk/tomato/blob/v0.9.1/tomato/joint/jointanalyzer.py#L90", 
         "observations": "Tonic identified from the note models obtained by joint audio-score analysis", 
         "tonic_symbol": "A4", 
+        "octave_wrapped": true
+      }
+    ]
+  }, 
+  "31509ba6-492e-42be-8219-06549daccb45": {
+    "mbid": "http://musicbrainz.org/recording/31509ba6-492e-42be-8219-06549daccb45", 
+    "verified": false, 
+    "annotations": [
+      {
+        "time_interval": [], 
+        "citation": "\u015eent\u00fcrk, S., & Serra X. (2016). Composition Identification in Ottoman-Turkish Makam Music Using Transposition-Invariant Partial Audio-Score Alignment. In Proceedings of 13th Sound and Music Computing Conference (SMC 2016). pages 434-441, Hamburg, Germany", 
+        "value": 110.5, 
+        "source": "https://github.com/MTG/otmm_composition_identification_dataset/tree/smc2016", 
+        "tonic_symbol": "D4", 
+        "octave_wrapped": false, 
+        "observations": ""
+      }, 
+      {
+        "time_interval": [], 
+        "music_score": "https://github.com/MTG/SymbTr/tree/v2.4.3/txt/sedaraban--sazsemaisi--aksaksemai----tanburi_cemil_bey", 
+        "citation": "\u015eent\u00fcrk, S. (2016). Computational Analysis of Audio Recordings and Music Scores for the Description and Discovery of Ottoman-Turkish Makam Music. PhD thesis, Universitat Pompeu Fabra, Barcelona, Spain.", 
+        "value": 110.1, 
+        "source": "https://github.com/sertansenturk/tomato/blob/v0.9.1/tomato/joint/jointanalyzer.py#L90", 
+        "observations": "Tonic identified from the note models obtained by joint audio-score analysis", 
+        "tonic_symbol": "D4", 
         "octave_wrapped": true
       }
     ]
@@ -25947,31 +26012,6 @@
       }
     ]
   }, 
-  "de6303ac-c45c-44fc-a91d-fd58c01b4aa5": {
-    "mbid": "http://musicbrainz.org/recording/de6303ac-c45c-44fc-a91d-fd58c01b4aa5", 
-    "verified": true, 
-    "annotations": [
-      {
-        "time_interval": [], 
-        "citation": "Atl\u0131, H. S., Bozkurt, B., \u015eent\u00fcrk, S. (2015). A Method for Tonic Frequency Identification of Turkish Makam Music Recordings. In Proceedings of 5th International Workshop on Folk Music Analysis (FMA 2015), pages 119\u2013122, Paris, France.", 
-        "value": 172.0, 
-        "source": "https://github.com/MTG/otmm_tonic_dataset/blob/7f28c1a3261b9146042155ee5e0f9e644d9ebcfa/atli2015tonic_fma/TD2.csv", 
-        "tonic_symbol": "B4b1", 
-        "octave_wrapped": true, 
-        "observations": ""
-      },
-      {
-        "time_interval": [], 
-        "music_score": "https://github.com/MTG/SymbTr/tree/v2.4.3/txt/huzzam--sarki--ciftesofyan--ey_gul-i--dede_efendi", 
-        "citation": "\u015eent\u00fcrk, S. (2016). Computational Analysis of Audio Recordings and Music Scores for the Description and Discovery of Ottoman-Turkish Makam Music. PhD thesis, Universitat Pompeu Fabra, Barcelona, Spain.", 
-        "value": 172.9, 
-        "source": "https://github.com/sertansenturk/tomato/blob/v0.9.1/tomato/joint/jointanalyzer.py#L90", 
-        "observations": "Tonic identified from the note models obtained by joint audio-score analysis", 
-        "tonic_symbol": "B4b1", 
-        "octave_wrapped": true
-      }
-    ]
-  }, 
   "72192768-f3f6-4749-9958-460db1c1638c": {
     "mbid": "http://musicbrainz.org/recording/72192768-f3f6-4749-9958-460db1c1638c", 
     "verified": false, 
@@ -25984,7 +26024,7 @@
         "tonic_symbol": "B4b1", 
         "octave_wrapped": true, 
         "observations": ""
-      },
+      }, 
       {
         "time_interval": [], 
         "music_score": "https://github.com/MTG/SymbTr/tree/v2.4.3/txt/segah--sarki--curcuna--olmaz_ilac--haci_arif_bey", 
@@ -26051,7 +26091,7 @@
         "citation": "Karakurt, A., \u015eent\u00fcrk S., & Serra X. (2016). MORTY: A Toolbox for Mode Recognition and Tonic Identification. In Proceedings of 3rd International Digital Libraries for Musicology Workshop (DLfM 2016). pages 9-16, New York, NY, USA", 
         "value": 169.0, 
         "source": "https://github.com/MTG/otmm_makam_recognition_dataset/blob/216a7b30632032b2a8c2692d5f5895bedbc743e0/annotations.json", 
-        "tonic_symbol": "D5", 
+        "tonic_symbol": "D4", 
         "octave_wrapped": true, 
         "observations": ""
       }
@@ -26857,7 +26897,7 @@
         "citation": "Karakurt, A., \u015eent\u00fcrk S., & Serra X. (2016). MORTY: A Toolbox for Mode Recognition and Tonic Identification. In Proceedings of 3rd International Digital Libraries for Musicology Workshop (DLfM 2016). pages 9-16, New York, NY, USA", 
         "value": 556.1, 
         "source": "https://github.com/MTG/otmm_makam_recognition_dataset/blob/216a7b30632032b2a8c2692d5f5895bedbc743e0/annotations.json", 
-        "tonic_symbol": "D5", 
+        "tonic_symbol": "D4", 
         "octave_wrapped": true, 
         "observations": ""
       }
@@ -26951,7 +26991,7 @@
         "citation": "Karakurt, A., \u015eent\u00fcrk S., & Serra X. (2016). MORTY: A Toolbox for Mode Recognition and Tonic Identification. In Proceedings of 3rd International Digital Libraries for Musicology Workshop (DLfM 2016). pages 9-16, New York, NY, USA", 
         "value": 440.0, 
         "source": "https://github.com/MTG/otmm_makam_recognition_dataset/blob/216a7b30632032b2a8c2692d5f5895bedbc743e0/annotations.json", 
-        "tonic_symbol": "D5", 
+        "tonic_symbol": "D4", 
         "octave_wrapped": true, 
         "observations": ""
       }
@@ -26967,21 +27007,6 @@
         "value": 224.0, 
         "source": "https://github.com/MTG/otmm_tonic_dataset/blob/7f28c1a3261b9146042155ee5e0f9e644d9ebcfa/atli2015tonic_fma/TD2.csv", 
         "tonic_symbol": "A4", 
-        "octave_wrapped": true, 
-        "observations": ""
-      }
-    ]
-  }, 
-  "b0872134-e62d-4ee2-9572-11663649eb68": {
-    "mbid": "http://musicbrainz.org/recording/b0872134-e62d-4ee2-9572-11663649eb68", 
-    "verified": false, 
-    "annotations": [
-      {
-        "time_interval": [], 
-        "citation": "Karakurt, A., \u015eent\u00fcrk S., & Serra X. (2016). MORTY: A Toolbox for Mode Recognition and Tonic Identification. In Proceedings of 3rd International Digital Libraries for Musicology Workshop (DLfM 2016). pages 9-16, New York, NY, USA", 
-        "value": 224.8, 
-        "source": "https://github.com/MTG/otmm_makam_recognition_dataset/blob/216a7b30632032b2a8c2692d5f5895bedbc743e0/annotations.json", 
-        "tonic_symbol": "G4", 
         "octave_wrapped": true, 
         "observations": ""
       }
@@ -27114,21 +27139,6 @@
       }
     ]
   }, 
-  "cc994013-d025-4a04-bb3f-8c49445c09f5": {
-    "mbid": "http://musicbrainz.org/recording/cc994013-d025-4a04-bb3f-8c49445c09f5", 
-    "verified": false, 
-    "annotations": [
-      {
-        "time_interval": [], 
-        "citation": "Atl\u0131, H. S., Bozkurt, B., \u015eent\u00fcrk, S. (2015). A Method for Tonic Frequency Identification of Turkish Makam Music Recordings. In Proceedings of 5th International Workshop on Folk Music Analysis (FMA 2015), pages 119\u2013122, Paris, France.", 
-        "value": 221.0, 
-        "source": "https://github.com/MTG/otmm_tonic_dataset/blob/7f28c1a3261b9146042155ee5e0f9e644d9ebcfa/atli2015tonic_fma/TD2.csv", 
-        "tonic_symbol": "G4", 
-        "octave_wrapped": true, 
-        "observations": ""
-      }
-    ]
-  }, 
   "d7128150-850e-4903-bfcf-0eaf513e44b3": {
     "mbid": "http://musicbrainz.org/recording/d7128150-850e-4903-bfcf-0eaf513e44b3", 
     "verified": false, 
@@ -27162,7 +27172,7 @@
         "citation": "Karakurt, A., \u015eent\u00fcrk S., & Serra X. (2016). MORTY: A Toolbox for Mode Recognition and Tonic Identification. In Proceedings of 3rd International Digital Libraries for Musicology Workshop (DLfM 2016). pages 9-16, New York, NY, USA", 
         "value": 223.5, 
         "source": "https://github.com/MTG/otmm_makam_recognition_dataset/blob/216a7b30632032b2a8c2692d5f5895bedbc743e0/annotations.json", 
-        "tonic_symbol": "D5", 
+        "tonic_symbol": "D4", 
         "octave_wrapped": true, 
         "observations": ""
       }
@@ -27623,6 +27633,31 @@
         "music_score": "https://github.com/MTG/SymbTr/tree/v2.4.3/txt/hicaz--sarki--aksak--bir_bahar--selahattin_pinar", 
         "citation": "\u015eent\u00fcrk, S. (2016). Computational Analysis of Audio Recordings and Music Scores for the Description and Discovery of Ottoman-Turkish Makam Music. PhD thesis, Universitat Pompeu Fabra, Barcelona, Spain.", 
         "value": 165.2, 
+        "source": "https://github.com/sertansenturk/tomato/blob/v0.9.1/tomato/joint/jointanalyzer.py#L90", 
+        "observations": "Tonic identified from the note models obtained by joint audio-score analysis", 
+        "tonic_symbol": "A4", 
+        "octave_wrapped": true
+      }
+    ]
+  }, 
+  "763f1a55-d47e-4d77-b60c-b63cda1b48a6": {
+    "mbid": "http://musicbrainz.org/recording/763f1a55-d47e-4d77-b60c-b63cda1b48a6", 
+    "verified": false, 
+    "annotations": [
+      {
+        "time_interval": [], 
+        "citation": "Atl\u0131, H. S., Bozkurt, B., \u015eent\u00fcrk, S. (2015). A Method for Tonic Frequency Identification of Turkish Makam Music Recordings. In Proceedings of 5th International Workshop on Folk Music Analysis (FMA 2015), pages 119\u2013122, Paris, France.", 
+        "value": 148.0, 
+        "source": "https://github.com/MTG/otmm_tonic_dataset/blob/7f28c1a3261b9146042155ee5e0f9e644d9ebcfa/atli2015tonic_fma/TD2.csv", 
+        "tonic_symbol": "A4", 
+        "octave_wrapped": true, 
+        "observations": ""
+      }, 
+      {
+        "time_interval": [], 
+        "music_score": "https://github.com/MTG/SymbTr/tree/v2.4.3/txt/hicaz_humayun--agirsemai--aksaksemai--kul_oldum--ibrahim_aga", 
+        "citation": "\u015eent\u00fcrk, S. (2016). Computational Analysis of Audio Recordings and Music Scores for the Description and Discovery of Ottoman-Turkish Makam Music. PhD thesis, Universitat Pompeu Fabra, Barcelona, Spain.", 
+        "value": 149.0, 
         "source": "https://github.com/sertansenturk/tomato/blob/v0.9.1/tomato/joint/jointanalyzer.py#L90", 
         "observations": "Tonic identified from the note models obtained by joint audio-score analysis", 
         "tonic_symbol": "A4", 
@@ -29538,7 +29573,7 @@
         "source": "https://github.com/MTG/otmm_makam_recognition_dataset/blob/45b14f7ff9dadd785d95bdb50726f3bc1a18a967/annotations.json", 
         "tonic_symbol": "G4", 
         "octave_wrapped": true, 
-        "observations": "Throughout the performance the tonic frequency is around 191 Hz. Hamiyet Yüceses sings the final phrase one octave above. However, she sings the octave of the tonic at around 317 Hz, slightly lower than the actual octave (322 Hz)."
+        "observations": "Throughout the performance the tonic frequency is around 191 Hz. Hamiyet Y\u00fcceses sings the final phrase one octave above. However, she sings the octave of the tonic at around 317 Hz, slightly lower than the actual octave (322 Hz)."
       }, 
       {
         "time_interval": [], 
@@ -29597,14 +29632,14 @@
       }
     ]
   }, 
-  "763f1a55-d47e-4d77-b60c-b63cda1b48a6": {
-    "mbid": "http://musicbrainz.org/recording/763f1a55-d47e-4d77-b60c-b63cda1b48a6", 
+  "5577911f-ea7e-4ae7-969e-9cd516ac4a6b": {
+    "mbid": "http://musicbrainz.org/recording/5577911f-ea7e-4ae7-969e-9cd516ac4a6b", 
     "verified": false, 
     "annotations": [
       {
         "time_interval": [], 
         "citation": "Atl\u0131, H. S., Bozkurt, B., \u015eent\u00fcrk, S. (2015). A Method for Tonic Frequency Identification of Turkish Makam Music Recordings. In Proceedings of 5th International Workshop on Folk Music Analysis (FMA 2015), pages 119\u2013122, Paris, France.", 
-        "value": 148.0, 
+        "value": 165.0, 
         "source": "https://github.com/MTG/otmm_tonic_dataset/blob/7f28c1a3261b9146042155ee5e0f9e644d9ebcfa/atli2015tonic_fma/TD2.csv", 
         "tonic_symbol": "A4", 
         "octave_wrapped": true, 
@@ -29612,13 +29647,12 @@
       }, 
       {
         "time_interval": [], 
-        "music_score": "https://github.com/MTG/SymbTr/tree/v2.4.3/txt/hicaz_humayun--agirsemai--aksaksemai--kul_oldum--ibrahim_aga", 
-        "citation": "\u015eent\u00fcrk, S. (2016). Computational Analysis of Audio Recordings and Music Scores for the Description and Discovery of Ottoman-Turkish Makam Music. PhD thesis, Universitat Pompeu Fabra, Barcelona, Spain.", 
-        "value": 149.0, 
-        "source": "https://github.com/sertansenturk/tomato/blob/v0.9.1/tomato/joint/jointanalyzer.py#L90", 
-        "observations": "Tonic identified from the note models obtained by joint audio-score analysis", 
+        "citation": "Karakurt, A., \u015eent\u00fcrk S., & Serra X. (2016). MORTY: A Toolbox for Mode Recognition and Tonic Identification. In Proceedings of 3rd International Digital Libraries for Musicology Workshop (DLfM 2016). pages 9-16, New York, NY, USA", 
+        "value": 165.0, 
+        "source": "https://github.com/MTG/otmm_makam_recognition_dataset/blob/216a7b30632032b2a8c2692d5f5895bedbc743e0/annotations.json", 
         "tonic_symbol": "A4", 
-        "octave_wrapped": true
+        "octave_wrapped": true, 
+        "observations": ""
       }
     ]
   }, 
@@ -29766,7 +29800,7 @@
         "citation": "Karakurt, A., \u015eent\u00fcrk S., & Serra X. (2016). MORTY: A Toolbox for Mode Recognition and Tonic Identification. In Proceedings of 3rd International Digital Libraries for Musicology Workshop (DLfM 2016). pages 9-16, New York, NY, USA", 
         "value": 328.4, 
         "source": "https://github.com/MTG/otmm_makam_recognition_dataset/blob/216a7b30632032b2a8c2692d5f5895bedbc743e0/annotations.json", 
-        "tonic_symbol": "D5", 
+        "tonic_symbol": "D4", 
         "octave_wrapped": true, 
         "observations": ""
       }
@@ -30161,7 +30195,7 @@
         "tonic_symbol": "F4#4", 
         "octave_wrapped": true, 
         "observations": ""
-      },
+      }, 
       {
         "time_interval": [], 
         "music_score": "https://github.com/MTG/SymbTr/tree/v2.4.3/txt/evic--sarki--agiraksak--bulbul_asa--dellalzade_haci_ismail_efendi", 
@@ -30651,7 +30685,7 @@
         "tonic_symbol": "B4b1", 
         "octave_wrapped": true, 
         "observations": ""
-      },
+      }, 
       {
         "time_interval": [], 
         "music_score": "https://github.com/MTG/SymbTr/tree/v2.4.3/txt/huzzam--sarki--agiraksak--ben_esir-i--udi_arsak_comlekciyan", 
@@ -30800,7 +30834,7 @@
         "tonic_symbol": "B4b1", 
         "octave_wrapped": true, 
         "observations": ""
-      },
+      }, 
       {
         "time_interval": [], 
         "music_score": "https://github.com/MTG/SymbTr/tree/v2.4.3/txt/segah--yuruksemai--yuruksemai--etti_o_guzel--ebubekir_aga", 
@@ -30853,17 +30887,17 @@
       }
     ]
   }, 
-  "161c1c16-b664-4fe2-bbf1-f7b9ee312096": {
-    "mbid": "http://musicbrainz.org/recording/161c1c16-b664-4fe2-bbf1-f7b9ee312096", 
+  "5f6ede8c-8447-4746-8cfe-0cb602b8951e": {
+    "mbid": "http://musicbrainz.org/recording/5f6ede8c-8447-4746-8cfe-0cb602b8951e", 
     "verified": false, 
     "annotations": [
       {
         "time_interval": [], 
-        "citation": "\u015eent\u00fcrk, S., & Serra X. (2016). Composition Identification in Ottoman-Turkish Makam Music Using Transposition-Invariant Partial Audio-Score Alignment. In Proceedings of 13th Sound and Music Computing Conference (SMC 2016). pages 434-441, Hamburg, Germany", 
-        "value": 217.2, 
-        "source": "https://github.com/MTG/otmm_composition_identification_dataset/tree/smc2016", 
-        "tonic_symbol": "G4", 
-        "octave_wrapped": false, 
+        "citation": "Karakurt, A., \u015eent\u00fcrk S., & Serra X. (2016). MORTY: A Toolbox for Mode Recognition and Tonic Identification. In Proceedings of 3rd International Digital Libraries for Musicology Workshop (DLfM 2016). pages 9-16, New York, NY, USA", 
+        "value": 439.6, 
+        "source": "https://github.com/MTG/otmm_makam_recognition_dataset/blob/216a7b30632032b2a8c2692d5f5895bedbc743e0/annotations.json", 
+        "tonic_symbol": "F4", 
+        "octave_wrapped": true, 
         "observations": ""
       }
     ]
@@ -30880,7 +30914,7 @@
         "tonic_symbol": "A4", 
         "octave_wrapped": true, 
         "observations": ""
-      },
+      }, 
       {
         "time_interval": [], 
         "music_score": "https://github.com/MTG/SymbTr/tree/v2.4.3/txt/beyati--sarki--ciftesofyan--cikalim_sayd_u--tanburi_mustafa_cavus", 
@@ -32384,31 +32418,6 @@
       }
     ]
   }, 
-  "31509ba6-492e-42be-8219-06549daccb45": {
-    "mbid": "http://musicbrainz.org/recording/31509ba6-492e-42be-8219-06549daccb45", 
-    "verified": false, 
-    "annotations": [
-      {
-        "time_interval": [], 
-        "citation": "\u015eent\u00fcrk, S., & Serra X. (2016). Composition Identification in Ottoman-Turkish Makam Music Using Transposition-Invariant Partial Audio-Score Alignment. In Proceedings of 13th Sound and Music Computing Conference (SMC 2016). pages 434-441, Hamburg, Germany", 
-        "value": 110.5, 
-        "source": "https://github.com/MTG/otmm_composition_identification_dataset/tree/smc2016", 
-        "tonic_symbol": "D4", 
-        "octave_wrapped": false, 
-        "observations": ""
-      }, 
-      {
-        "time_interval": [], 
-        "music_score": "https://github.com/MTG/SymbTr/tree/v2.4.3/txt/sedaraban--sazsemaisi--aksaksemai----tanburi_cemil_bey", 
-        "citation": "\u015eent\u00fcrk, S. (2016). Computational Analysis of Audio Recordings and Music Scores for the Description and Discovery of Ottoman-Turkish Makam Music. PhD thesis, Universitat Pompeu Fabra, Barcelona, Spain.", 
-        "value": 110.1, 
-        "source": "https://github.com/sertansenturk/tomato/blob/v0.9.1/tomato/joint/jointanalyzer.py#L90", 
-        "observations": "Tonic identified from the note models obtained by joint audio-score analysis", 
-        "tonic_symbol": "D4", 
-        "octave_wrapped": true
-      }
-    ]
-  }, 
   "01b485c1-4c1a-4916-b8a5-1ec913da1c45": {
     "mbid": "http://musicbrainz.org/recording/01b485c1-4c1a-4916-b8a5-1ec913da1c45", 
     "verified": false, 
@@ -32439,31 +32448,6 @@
         "source": "https://github.com/sertansenturk/tomato/blob/v0.9.1/tomato/joint/jointanalyzer.py#L90", 
         "observations": "Tonic identified from the note models obtained by joint audio-score analysis", 
         "tonic_symbol": "G4", 
-        "octave_wrapped": true
-      }
-    ]
-  }, 
-  "bb863b62-21cf-49b2-843b-95f417ce0a9f": {
-    "mbid": "http://musicbrainz.org/recording/bb863b62-21cf-49b2-843b-95f417ce0a9f", 
-    "verified": false, 
-    "annotations": [
-      {
-        "time_interval": [], 
-        "citation": "Karakurt, A., \u015eent\u00fcrk S., & Serra X. (2016). MORTY: A Toolbox for Mode Recognition and Tonic Identification. In Proceedings of 3rd International Digital Libraries for Musicology Workshop (DLfM 2016). pages 9-16, New York, NY, USA", 
-        "value": 260.1, 
-        "source": "https://github.com/MTG/otmm_makam_recognition_dataset/blob/216a7b30632032b2a8c2692d5f5895bedbc743e0/annotations.json", 
-        "tonic_symbol": "F4", 
-        "octave_wrapped": true, 
-        "observations": ""
-      }, 
-      {
-        "time_interval": [], 
-        "music_score": "https://github.com/MTG/SymbTr/tree/v2.4.3/txt/acemasiran--sarki--sofyan--gonul_sana--sadettin_kaynak", 
-        "citation": "\u015eent\u00fcrk, S. (2016). Computational Analysis of Audio Recordings and Music Scores for the Description and Discovery of Ottoman-Turkish Makam Music. PhD thesis, Universitat Pompeu Fabra, Barcelona, Spain.", 
-        "value": 130.0, 
-        "source": "https://github.com/sertansenturk/tomato/blob/v0.9.1/tomato/joint/jointanalyzer.py#L90", 
-        "observations": "Tonic identified from the note models obtained by joint audio-score analysis", 
-        "tonic_symbol": "F4", 
         "octave_wrapped": true
       }
     ]
@@ -32615,7 +32599,7 @@
         "citation": "Karakurt, A., \u015eent\u00fcrk S., & Serra X. (2016). MORTY: A Toolbox for Mode Recognition and Tonic Identification. In Proceedings of 3rd International Digital Libraries for Musicology Workshop (DLfM 2016). pages 9-16, New York, NY, USA", 
         "value": 202.1, 
         "source": "https://github.com/MTG/otmm_makam_recognition_dataset/blob/216a7b30632032b2a8c2692d5f5895bedbc743e0/annotations.json", 
-        "tonic_symbol": "D5", 
+        "tonic_symbol": "D4", 
         "octave_wrapped": true, 
         "observations": ""
       }
@@ -33275,7 +33259,7 @@
         "citation": "Karakurt, A., \u015eent\u00fcrk S., & Serra X. (2016). MORTY: A Toolbox for Mode Recognition and Tonic Identification. In Proceedings of 3rd International Digital Libraries for Musicology Workshop (DLfM 2016). pages 9-16, New York, NY, USA", 
         "value": 393.2, 
         "source": "https://github.com/MTG/otmm_makam_recognition_dataset/blob/216a7b30632032b2a8c2692d5f5895bedbc743e0/annotations.json", 
-        "tonic_symbol": "D5", 
+        "tonic_symbol": "D4", 
         "octave_wrapped": true, 
         "observations": ""
       }
@@ -33964,7 +33948,7 @@
         "citation": "Karakurt, A., \u015eent\u00fcrk S., & Serra X. (2016). MORTY: A Toolbox for Mode Recognition and Tonic Identification. In Proceedings of 3rd International Digital Libraries for Musicology Workshop (DLfM 2016). pages 9-16, New York, NY, USA", 
         "value": 184.8, 
         "source": "https://github.com/MTG/otmm_makam_recognition_dataset/blob/216a7b30632032b2a8c2692d5f5895bedbc743e0/annotations.json", 
-        "tonic_symbol": "D5", 
+        "tonic_symbol": "D4", 
         "octave_wrapped": true, 
         "observations": ""
       }
@@ -34146,28 +34130,18 @@
       }
     ]
   }, 
-  "d29d8f2b-1e7c-4a49-95c3-81f246242080": {
-    "mbid": "http://musicbrainz.org/recording/d29d8f2b-1e7c-4a49-95c3-81f246242080", 
+  "f84d3ec5-bde1-4101-874b-ed7cadaa8cf8": {
+    "mbid": "http://musicbrainz.org/recording/f84d3ec5-bde1-4101-874b-ed7cadaa8cf8", 
     "verified": false, 
     "annotations": [
       {
         "time_interval": [], 
         "citation": "Karakurt, A., \u015eent\u00fcrk S., & Serra X. (2016). MORTY: A Toolbox for Mode Recognition and Tonic Identification. In Proceedings of 3rd International Digital Libraries for Musicology Workshop (DLfM 2016). pages 9-16, New York, NY, USA", 
-        "value": 220.0, 
+        "value": 235.9, 
         "source": "https://github.com/MTG/otmm_makam_recognition_dataset/blob/216a7b30632032b2a8c2692d5f5895bedbc743e0/annotations.json", 
-        "tonic_symbol": "G4", 
+        "tonic_symbol": "A4", 
         "octave_wrapped": true, 
         "observations": ""
-      }, 
-      {
-        "time_interval": [], 
-        "music_score": "https://github.com/MTG/SymbTr/tree/v2.4.3/txt/suzinak--sarki--curcuna--gozumden_gitmiyor--haci_arif_bey", 
-        "citation": "\u015eent\u00fcrk, S. (2016). Computational Analysis of Audio Recordings and Music Scores for the Description and Discovery of Ottoman-Turkish Makam Music. PhD thesis, Universitat Pompeu Fabra, Barcelona, Spain.", 
-        "value": 220.8, 
-        "source": "https://github.com/sertansenturk/tomato/blob/v0.9.1/tomato/joint/jointanalyzer.py#L90", 
-        "observations": "Tonic identified from the note models obtained by joint audio-score analysis", 
-        "tonic_symbol": "G4", 
-        "octave_wrapped": true
       }
     ]
   }, 
@@ -34421,6 +34395,21 @@
       }
     ]
   }, 
+  "84e63fbc-8826-4639-a865-2fd592b7ec64": {
+    "mbid": "http://musicbrainz.org/recording/84e63fbc-8826-4639-a865-2fd592b7ec64", 
+    "verified": false, 
+    "annotations": [
+      {
+        "time_interval": [], 
+        "citation": "Karakurt, A., \u015eent\u00fcrk S., & Serra X. (2016). MORTY: A Toolbox for Mode Recognition and Tonic Identification. In Proceedings of 3rd International Digital Libraries for Musicology Workshop (DLfM 2016). pages 9-16, New York, NY, USA", 
+        "value": 198.3, 
+        "source": "https://github.com/MTG/otmm_makam_recognition_dataset/blob/216a7b30632032b2a8c2692d5f5895bedbc743e0/annotations.json", 
+        "tonic_symbol": "D4", 
+        "octave_wrapped": true, 
+        "observations": ""
+      }
+    ]
+  }, 
   "ed187560-ae33-455a-98a3-224f72b0e127": {
     "mbid": "http://musicbrainz.org/recording/ed187560-ae33-455a-98a3-224f72b0e127", 
     "verified": false, 
@@ -34536,28 +34525,27 @@
       }
     ]
   }, 
-  "38999e51-2ebe-4597-b004-dcf3fc526449": {
-    "mbid": "http://musicbrainz.org/recording/38999e51-2ebe-4597-b004-dcf3fc526449", 
+  "50a606de-68fd-4c42-8f3f-6714ad4e48df": {
+    "mbid": "http://musicbrainz.org/recording/50a606de-68fd-4c42-8f3f-6714ad4e48df", 
     "verified": false, 
     "annotations": [
       {
         "time_interval": [], 
-        "citation": "Atl\u0131, H. S., Bozkurt, B., \u015eent\u00fcrk, S. (2015). A Method for Tonic Frequency Identification of Turkish Makam Music Recordings. In Proceedings of 5th International Workshop on Folk Music Analysis (FMA 2015), pages 119\u2013122, Paris, France.", 
-        "value": 146.0, 
-        "source": "https://github.com/MTG/otmm_tonic_dataset/blob/7f28c1a3261b9146042155ee5e0f9e644d9ebcfa/atli2015tonic_fma/TD2.csv", 
-        "tonic_symbol": "A4", 
+        "citation": "\u015eent\u00fcrk, S., Gulati, S., and Serra, X. (2013). Score Informed Tonic Identification for Makam Music of Turkey. In Proceedings of 14th International Society for Music Information Retrieval Conference (ISMIR 2013), pages 175\u2013180, Curitiba, Brazil.", 
+        "value": 221.5, 
+        "source": "https://github.com/MTG/otmm_tonic_dataset/blob/7f28c1a3261b9146042155ee5e0f9e644d9ebcfa/senturk2013karar_ismir/tonic_annotations.csv", 
+        "tonic_symbol": "E4", 
         "octave_wrapped": true, 
         "observations": ""
       }, 
       {
         "time_interval": [], 
-        "music_score": "https://github.com/MTG/SymbTr/tree/v2.4.3/txt/hicaz_humayun--agirsemai--aksaksemai--kul_oldum--ibrahim_aga", 
-        "citation": "\u015eent\u00fcrk, S. (2016). Computational Analysis of Audio Recordings and Music Scores for the Description and Discovery of Ottoman-Turkish Makam Music. PhD thesis, Universitat Pompeu Fabra, Barcelona, Spain.", 
-        "value": 146.3, 
-        "source": "https://github.com/sertansenturk/tomato/blob/v0.9.1/tomato/joint/jointanalyzer.py#L90", 
-        "observations": "Tonic identified from the note models obtained by joint audio-score analysis", 
-        "tonic_symbol": "A4", 
-        "octave_wrapped": true
+        "citation": "Atl\u0131, H. S., Bozkurt, B., \u015eent\u00fcrk, S. (2015). A Method for Tonic Frequency Identification of Turkish Makam Music Recordings. In Proceedings of 5th International Workshop on Folk Music Analysis (FMA 2015), pages 119\u2013122, Paris, France.", 
+        "value": 222.0, 
+        "source": "https://github.com/MTG/otmm_tonic_dataset/blob/7f28c1a3261b9146042155ee5e0f9e644d9ebcfa/atli2015tonic_fma/TD2.csv", 
+        "tonic_symbol": "E4", 
+        "octave_wrapped": true, 
+        "observations": ""
       }
     ]
   }, 
@@ -34940,7 +34928,7 @@
         "citation": "Karakurt, A., \u015eent\u00fcrk S., & Serra X. (2016). MORTY: A Toolbox for Mode Recognition and Tonic Identification. In Proceedings of 3rd International Digital Libraries for Musicology Workshop (DLfM 2016). pages 9-16, New York, NY, USA", 
         "value": 289.7, 
         "source": "https://github.com/MTG/otmm_makam_recognition_dataset/blob/216a7b30632032b2a8c2692d5f5895bedbc743e0/annotations.json", 
-        "tonic_symbol": "D5", 
+        "tonic_symbol": "D4", 
         "octave_wrapped": true, 
         "observations": ""
       }
@@ -35033,7 +35021,7 @@
         "tonic_symbol": "A4", 
         "octave_wrapped": true, 
         "observations": ""
-      },
+      }, 
       {
         "time_interval": [], 
         "music_score": "https://github.com/MTG/SymbTr/tree/v2.4.3/txt/hicaz_humayun--beste--hafif--olmada_diller--abdulhalim_aga", 
@@ -35085,7 +35073,7 @@
         "citation": "\u015eent\u00fcrk, S., & Serra X. (2016). Composition Identification in Ottoman-Turkish Makam Music Using Transposition-Invariant Partial Audio-Score Alignment. In Proceedings of 13th Sound and Music Computing Conference (SMC 2016). pages 434-441, Hamburg, Germany", 
         "value": 666.9, 
         "source": "https://github.com/MTG/otmm_composition_identification_dataset/tree/smc2016", 
-        "tonic_symbol": "D5", 
+        "tonic_symbol": "D4", 
         "octave_wrapped": false, 
         "observations": ""
       }
@@ -35270,7 +35258,7 @@
         ], 
         "citation": "\u015eent\u00fcrk, S. (2016). Computational Analysis of Audio Recordings and Music Scores for the Description and Discovery of Ottoman-Turkish Makam Music. PhD thesis, Universitat Pompeu Fabra, Barcelona, Spain.", 
         "tonic_symbol": "G4", 
-        "source": "https://github.com/MTG/otmm_tonic_dataset/tree/senturk2016thesis",
+        "source": "https://github.com/MTG/otmm_tonic_dataset/tree/senturk2016thesis", 
         "value": 403.0, 
         "octave_wrapped": true, 
         "observations": "During the performance Niyazi Sayin uses a mansur ney, which also implies the ahenk (transposiiton). The tonic of the Acema\u015firan makam is the acema\u015firan note (F4). The tonic shifts to 362 Hz within the performance of 3rd Taksim and stays the same throughout the performance of Acema\u015firan Pe\u015frev."
@@ -35367,17 +35355,17 @@
       }
     ]
   }, 
-  "5f6ede8c-8447-4746-8cfe-0cb602b8951e": {
-    "mbid": "http://musicbrainz.org/recording/5f6ede8c-8447-4746-8cfe-0cb602b8951e", 
+  "f78f4295-9d7c-483b-a9a0-97515716155d": {
+    "mbid": "http://musicbrainz.org/recording/f78f4295-9d7c-483b-a9a0-97515716155d", 
     "verified": false, 
     "annotations": [
       {
         "time_interval": [], 
-        "citation": "Karakurt, A., \u015eent\u00fcrk S., & Serra X. (2016). MORTY: A Toolbox for Mode Recognition and Tonic Identification. In Proceedings of 3rd International Digital Libraries for Musicology Workshop (DLfM 2016). pages 9-16, New York, NY, USA", 
-        "value": 439.6, 
-        "source": "https://github.com/MTG/otmm_makam_recognition_dataset/blob/216a7b30632032b2a8c2692d5f5895bedbc743e0/annotations.json", 
-        "tonic_symbol": "F4", 
-        "octave_wrapped": true, 
+        "citation": "\u015eent\u00fcrk, S., & Serra X. (2016). Composition Identification in Ottoman-Turkish Makam Music Using Transposition-Invariant Partial Audio-Score Alignment. In Proceedings of 13th Sound and Music Computing Conference (SMC 2016). pages 434-441, Hamburg, Germany", 
+        "value": 332.0, 
+        "source": "https://github.com/MTG/otmm_composition_identification_dataset/tree/smc2016", 
+        "tonic_symbol": "D4", 
+        "octave_wrapped": false, 
         "observations": ""
       }
     ]
@@ -35514,7 +35502,7 @@
         "citation": "Karakurt, A., \u015eent\u00fcrk S., & Serra X. (2016). MORTY: A Toolbox for Mode Recognition and Tonic Identification. In Proceedings of 3rd International Digital Libraries for Musicology Workshop (DLfM 2016). pages 9-16, New York, NY, USA", 
         "value": 111.4, 
         "source": "https://github.com/MTG/otmm_makam_recognition_dataset/blob/216a7b30632032b2a8c2692d5f5895bedbc743e0/annotations.json", 
-        "tonic_symbol": "D5", 
+        "tonic_symbol": "D4", 
         "octave_wrapped": true, 
         "observations": ""
       }
@@ -35559,7 +35547,7 @@
         "citation": "Karakurt, A., \u015eent\u00fcrk S., & Serra X. (2016). MORTY: A Toolbox for Mode Recognition and Tonic Identification. In Proceedings of 3rd International Digital Libraries for Musicology Workshop (DLfM 2016). pages 9-16, New York, NY, USA", 
         "value": 390.9, 
         "source": "https://github.com/MTG/otmm_makam_recognition_dataset/blob/216a7b30632032b2a8c2692d5f5895bedbc743e0/annotations.json", 
-        "tonic_symbol": "D5", 
+        "tonic_symbol": "D4", 
         "octave_wrapped": true, 
         "observations": ""
       }
@@ -35629,7 +35617,7 @@
         "tonic_symbol": "A4", 
         "octave_wrapped": false, 
         "observations": ""
-      },
+      }, 
       {
         "time_interval": [], 
         "music_score": "https://github.com/MTG/SymbTr/tree/v2.4.3/txt/acemkurdi--pesrev--fahte----muallim_ismail_hakki_bey", 
@@ -35867,7 +35855,7 @@
         "tonic_symbol": "A4", 
         "octave_wrapped": true, 
         "observations": ""
-      },
+      }, 
       {
         "time_interval": [], 
         "music_score": "https://github.com/MTG/SymbTr/tree/v2.4.3/txt/huseyni--sarki--musemmen--hem_cemalin--zeki_duygulu", 
@@ -36113,18 +36101,28 @@
       }
     ]
   }, 
-  "f925a8a6-5754-4d7d-a891-0b2b13c1f34f": {
-    "mbid": "http://musicbrainz.org/recording/f925a8a6-5754-4d7d-a891-0b2b13c1f34f", 
-    "verified": false, 
+  "de6303ac-c45c-44fc-a91d-fd58c01b4aa5": {
+    "mbid": "http://musicbrainz.org/recording/de6303ac-c45c-44fc-a91d-fd58c01b4aa5", 
+    "verified": true, 
     "annotations": [
       {
         "time_interval": [], 
         "citation": "Atl\u0131, H. S., Bozkurt, B., \u015eent\u00fcrk, S. (2015). A Method for Tonic Frequency Identification of Turkish Makam Music Recordings. In Proceedings of 5th International Workshop on Folk Music Analysis (FMA 2015), pages 119\u2013122, Paris, France.", 
-        "value": 144.0, 
+        "value": 172.0, 
         "source": "https://github.com/MTG/otmm_tonic_dataset/blob/7f28c1a3261b9146042155ee5e0f9e644d9ebcfa/atli2015tonic_fma/TD2.csv", 
-        "tonic_symbol": "A4", 
+        "tonic_symbol": "B4b1", 
         "octave_wrapped": true, 
         "observations": ""
+      }, 
+      {
+        "time_interval": [], 
+        "music_score": "https://github.com/MTG/SymbTr/tree/v2.4.3/txt/huzzam--sarki--ciftesofyan--ey_gul-i--dede_efendi", 
+        "citation": "\u015eent\u00fcrk, S. (2016). Computational Analysis of Audio Recordings and Music Scores for the Description and Discovery of Ottoman-Turkish Makam Music. PhD thesis, Universitat Pompeu Fabra, Barcelona, Spain.", 
+        "value": 172.9, 
+        "source": "https://github.com/sertansenturk/tomato/blob/v0.9.1/tomato/joint/jointanalyzer.py#L90", 
+        "observations": "Tonic identified from the note models obtained by joint audio-score analysis", 
+        "tonic_symbol": "B4b1", 
+        "octave_wrapped": true
       }
     ]
   }, 
@@ -36311,7 +36309,7 @@
         "citation": "Atl\u0131, H. S., Bozkurt, B., \u015eent\u00fcrk, S. (2015). A Method for Tonic Frequency Identification of Turkish Makam Music Recordings. In Proceedings of 5th International Workshop on Folk Music Analysis (FMA 2015), pages 119\u2013122, Paris, France.", 
         "value": 330.0, 
         "source": "https://github.com/MTG/otmm_tonic_dataset/blob/7f28c1a3261b9146042155ee5e0f9e644d9ebcfa/atli2015tonic_fma/TD2.csv", 
-        "tonic_symbol": "D5", 
+        "tonic_symbol": "D4", 
         "octave_wrapped": true, 
         "observations": ""
       }, 
@@ -36320,7 +36318,7 @@
         "citation": "Karakurt, A., \u015eent\u00fcrk S., & Serra X. (2016). MORTY: A Toolbox for Mode Recognition and Tonic Identification. In Proceedings of 3rd International Digital Libraries for Musicology Workshop (DLfM 2016). pages 9-16, New York, NY, USA", 
         "value": 330.6, 
         "source": "https://github.com/MTG/otmm_makam_recognition_dataset/blob/216a7b30632032b2a8c2692d5f5895bedbc743e0/annotations.json", 
-        "tonic_symbol": "D5", 
+        "tonic_symbol": "D4", 
         "octave_wrapped": true, 
         "observations": ""
       }, 
@@ -36331,7 +36329,7 @@
         "value": 165.7, 
         "source": "https://github.com/sertansenturk/tomato/blob/v0.9.1/tomato/joint/jointanalyzer.py#L90", 
         "observations": "Tonic identified from the note models obtained by joint audio-score analysis", 
-        "tonic_symbol": "D5", 
+        "tonic_symbol": "D4", 
         "octave_wrapped": true
       }
     ]
@@ -36361,16 +36359,16 @@
       }
     ]
   }, 
-  "dc4dabb4-3ea6-4c20-ae84-ca652416ee90": {
-    "mbid": "http://musicbrainz.org/recording/dc4dabb4-3ea6-4c20-ae84-ca652416ee90", 
+  "aa3ec004-c896-472f-bc3f-176686a7b0dd": {
+    "mbid": "http://musicbrainz.org/recording/aa3ec004-c896-472f-bc3f-176686a7b0dd", 
     "verified": false, 
     "annotations": [
       {
         "time_interval": [], 
         "citation": "Karakurt, A., \u015eent\u00fcrk S., & Serra X. (2016). MORTY: A Toolbox for Mode Recognition and Tonic Identification. In Proceedings of 3rd International Digital Libraries for Musicology Workshop (DLfM 2016). pages 9-16, New York, NY, USA", 
-        "value": 207.0, 
+        "value": 248.4, 
         "source": "https://github.com/MTG/otmm_makam_recognition_dataset/blob/216a7b30632032b2a8c2692d5f5895bedbc743e0/annotations.json", 
-        "tonic_symbol": "D5", 
+        "tonic_symbol": "A4", 
         "octave_wrapped": true, 
         "observations": ""
       }
@@ -36385,7 +36383,7 @@
         "citation": "Karakurt, A., \u015eent\u00fcrk S., & Serra X. (2016). MORTY: A Toolbox for Mode Recognition and Tonic Identification. In Proceedings of 3rd International Digital Libraries for Musicology Workshop (DLfM 2016). pages 9-16, New York, NY, USA", 
         "value": 200.0, 
         "source": "https://github.com/MTG/otmm_makam_recognition_dataset/blob/216a7b30632032b2a8c2692d5f5895bedbc743e0/annotations.json", 
-        "tonic_symbol": "D5", 
+        "tonic_symbol": "D4", 
         "octave_wrapped": true, 
         "observations": ""
       }
@@ -37840,7 +37838,7 @@
         "tonic_symbol": "A4", 
         "octave_wrapped": true, 
         "observations": ""
-      },
+      }, 
       {
         "time_interval": [], 
         "music_score": "https://github.com/MTG/SymbTr/tree/v2.4.3/txt/isfahan--sazsemaisi--aksaksemai----tanburi_cemil_bey", 
@@ -38036,7 +38034,7 @@
         "citation": "Karakurt, A., \u015eent\u00fcrk S., & Serra X. (2016). MORTY: A Toolbox for Mode Recognition and Tonic Identification. In Proceedings of 3rd International Digital Libraries for Musicology Workshop (DLfM 2016). pages 9-16, New York, NY, USA", 
         "value": 360.2, 
         "source": "https://github.com/MTG/otmm_makam_recognition_dataset/blob/216a7b30632032b2a8c2692d5f5895bedbc743e0/annotations.json", 
-        "tonic_symbol": "D5", 
+        "tonic_symbol": "D4", 
         "octave_wrapped": true, 
         "observations": ""
       }, 
@@ -38047,7 +38045,7 @@
         "value": 358.2, 
         "source": "https://github.com/sertansenturk/tomato/blob/v0.9.1/tomato/joint/jointanalyzer.py#L90", 
         "observations": "Tonic identified from the note models obtained by joint audio-score analysis", 
-        "tonic_symbol": "D5", 
+        "tonic_symbol": "D4", 
         "octave_wrapped": true
       }
     ]
@@ -38094,7 +38092,7 @@
         "tonic_symbol": "A4", 
         "octave_wrapped": true, 
         "observations": ""
-      },
+      }, 
       {
         "time_interval": [], 
         "music_score": "https://github.com/MTG/SymbTr/tree/v2.4.3/txt/hicaz_humayun--sarki--nimsofyan--kapildim_gidiyorum--kaptanzade_ali_riza_bey", 
@@ -38276,7 +38274,7 @@
         "citation": "Karakurt, A., \u015eent\u00fcrk S., & Serra X. (2016). MORTY: A Toolbox for Mode Recognition and Tonic Identification. In Proceedings of 3rd International Digital Libraries for Musicology Workshop (DLfM 2016). pages 9-16, New York, NY, USA", 
         "value": 99.2, 
         "source": "https://github.com/MTG/otmm_makam_recognition_dataset/blob/216a7b30632032b2a8c2692d5f5895bedbc743e0/annotations.json", 
-        "tonic_symbol": "D5", 
+        "tonic_symbol": "D4", 
         "octave_wrapped": true, 
         "observations": ""
       }
@@ -38396,18 +38394,28 @@
       }
     ]
   }, 
-  "f84d3ec5-bde1-4101-874b-ed7cadaa8cf8": {
-    "mbid": "http://musicbrainz.org/recording/f84d3ec5-bde1-4101-874b-ed7cadaa8cf8", 
+  "d29d8f2b-1e7c-4a49-95c3-81f246242080": {
+    "mbid": "http://musicbrainz.org/recording/d29d8f2b-1e7c-4a49-95c3-81f246242080", 
     "verified": false, 
     "annotations": [
       {
         "time_interval": [], 
         "citation": "Karakurt, A., \u015eent\u00fcrk S., & Serra X. (2016). MORTY: A Toolbox for Mode Recognition and Tonic Identification. In Proceedings of 3rd International Digital Libraries for Musicology Workshop (DLfM 2016). pages 9-16, New York, NY, USA", 
-        "value": 235.9, 
+        "value": 220.0, 
         "source": "https://github.com/MTG/otmm_makam_recognition_dataset/blob/216a7b30632032b2a8c2692d5f5895bedbc743e0/annotations.json", 
-        "tonic_symbol": "A4", 
+        "tonic_symbol": "G4", 
         "octave_wrapped": true, 
         "observations": ""
+      }, 
+      {
+        "time_interval": [], 
+        "music_score": "https://github.com/MTG/SymbTr/tree/v2.4.3/txt/suzinak--sarki--curcuna--gozumden_gitmiyor--haci_arif_bey", 
+        "citation": "\u015eent\u00fcrk, S. (2016). Computational Analysis of Audio Recordings and Music Scores for the Description and Discovery of Ottoman-Turkish Makam Music. PhD thesis, Universitat Pompeu Fabra, Barcelona, Spain.", 
+        "value": 220.8, 
+        "source": "https://github.com/sertansenturk/tomato/blob/v0.9.1/tomato/joint/jointanalyzer.py#L90", 
+        "observations": "Tonic identified from the note models obtained by joint audio-score analysis", 
+        "tonic_symbol": "G4", 
+        "octave_wrapped": true
       }
     ]
   }, 
@@ -38438,7 +38446,7 @@
         "tonic_symbol": "A4", 
         "octave_wrapped": true, 
         "observations": ""
-      },
+      }, 
       {
         "time_interval": [], 
         "music_score": "https://github.com/MTG/SymbTr/tree/v2.4.3/txt/hicaz--sarki--aksak--hastayim_yasiyorum--udi_hrant", 
@@ -38564,7 +38572,7 @@
         "citation": "Karakurt, A., \u015eent\u00fcrk S., & Serra X. (2016). MORTY: A Toolbox for Mode Recognition and Tonic Identification. In Proceedings of 3rd International Digital Libraries for Musicology Workshop (DLfM 2016). pages 9-16, New York, NY, USA", 
         "value": 196.5, 
         "source": "https://github.com/MTG/otmm_makam_recognition_dataset/blob/216a7b30632032b2a8c2692d5f5895bedbc743e0/annotations.json", 
-        "tonic_symbol": "D5", 
+        "tonic_symbol": "D4", 
         "octave_wrapped": true, 
         "observations": ""
       }
@@ -38916,16 +38924,16 @@
       }
     ]
   }, 
-  "b46414d4-36d7-48db-b099-b6037d42c4ae": {
-    "mbid": "http://musicbrainz.org/recording/b46414d4-36d7-48db-b099-b6037d42c4ae", 
+  "56e1f968-864e-4b9e-aca3-a27eb932ccfd": {
+    "mbid": "http://musicbrainz.org/recording/56e1f968-864e-4b9e-aca3-a27eb932ccfd", 
     "verified": false, 
     "annotations": [
       {
         "time_interval": [], 
         "citation": "Atl\u0131, H. S., Bozkurt, B., \u015eent\u00fcrk, S. (2015). A Method for Tonic Frequency Identification of Turkish Makam Music Recordings. In Proceedings of 5th International Workshop on Folk Music Analysis (FMA 2015), pages 119\u2013122, Paris, France.", 
-        "value": 123.0, 
+        "value": 332.0, 
         "source": "https://github.com/MTG/otmm_tonic_dataset/blob/7f28c1a3261b9146042155ee5e0f9e644d9ebcfa/atli2015tonic_fma/TD2.csv", 
-        "tonic_symbol": "A4", 
+        "tonic_symbol": "G4", 
         "octave_wrapped": true, 
         "observations": ""
       }
@@ -39490,7 +39498,7 @@
         ], 
         "citation": "\u015eent\u00fcrk, S. (2016). Computational Analysis of Audio Recordings and Music Scores for the Description and Discovery of Ottoman-Turkish Makam Music. PhD thesis, Universitat Pompeu Fabra, Barcelona, Spain.", 
         "value": 185.0, 
-        "source": "https://github.com/MTG/otmm_tonic_dataset/tree/senturk2016thesis",
+        "source": "https://github.com/MTG/otmm_tonic_dataset/tree/senturk2016thesis", 
         "tonic_symbol": "A4", 
         "octave_wrapped": true, 
         "observations": "At the 245th second mark, the virtuosos somehow lose their coordination and the melodic intervals are mixed. The tonic played at the conclusion (e.g. the karar note) of the first performance (Isfahan Pe\u015frev) is around 185 Hz."
@@ -39502,7 +39510,7 @@
         ], 
         "citation": "\u015eent\u00fcrk, S. (2016). Computational Analysis of Audio Recordings and Music Scores for the Description and Discovery of Ottoman-Turkish Makam Music. PhD thesis, Universitat Pompeu Fabra, Barcelona, Spain.", 
         "value": 169.0, 
-        "source": "https://github.com/MTG/otmm_tonic_dataset/tree/senturk2016thesis",
+        "source": "https://github.com/MTG/otmm_tonic_dataset/tree/senturk2016thesis", 
         "tonic_symbol": "A4", 
         "octave_wrapped": true, 
         "observations": "Isfahan Sazsemaisi has a relatively stable tonic frequency at around 169Hz. Note that the historical recordings tend to have local pitch shifts which makes it hard to identify a precise or correct tonic frequency."
@@ -39609,25 +39617,16 @@
       }
     ]
   }, 
-  "5577911f-ea7e-4ae7-969e-9cd516ac4a6b": {
-    "mbid": "http://musicbrainz.org/recording/5577911f-ea7e-4ae7-969e-9cd516ac4a6b", 
+  "b0872134-e62d-4ee2-9572-11663649eb68": {
+    "mbid": "http://musicbrainz.org/recording/b0872134-e62d-4ee2-9572-11663649eb68", 
     "verified": false, 
     "annotations": [
       {
         "time_interval": [], 
-        "citation": "Atl\u0131, H. S., Bozkurt, B., \u015eent\u00fcrk, S. (2015). A Method for Tonic Frequency Identification of Turkish Makam Music Recordings. In Proceedings of 5th International Workshop on Folk Music Analysis (FMA 2015), pages 119\u2013122, Paris, France.", 
-        "value": 165.0, 
-        "source": "https://github.com/MTG/otmm_tonic_dataset/blob/7f28c1a3261b9146042155ee5e0f9e644d9ebcfa/atli2015tonic_fma/TD2.csv", 
-        "tonic_symbol": "A4", 
-        "octave_wrapped": true, 
-        "observations": ""
-      }, 
-      {
-        "time_interval": [], 
         "citation": "Karakurt, A., \u015eent\u00fcrk S., & Serra X. (2016). MORTY: A Toolbox for Mode Recognition and Tonic Identification. In Proceedings of 3rd International Digital Libraries for Musicology Workshop (DLfM 2016). pages 9-16, New York, NY, USA", 
-        "value": 165.0, 
+        "value": 224.8, 
         "source": "https://github.com/MTG/otmm_makam_recognition_dataset/blob/216a7b30632032b2a8c2692d5f5895bedbc743e0/annotations.json", 
-        "tonic_symbol": "A4", 
+        "tonic_symbol": "G4", 
         "octave_wrapped": true, 
         "observations": ""
       }
@@ -40338,27 +40337,28 @@
       }
     ]
   }, 
-  "430eb7d0-5326-4883-ad04-a6c8f2383ee9": {
-    "mbid": "http://musicbrainz.org/recording/430eb7d0-5326-4883-ad04-a6c8f2383ee9", 
-    "verified": true, 
+  "bb863b62-21cf-49b2-843b-95f417ce0a9f": {
+    "mbid": "http://musicbrainz.org/recording/bb863b62-21cf-49b2-843b-95f417ce0a9f", 
+    "verified": false, 
     "annotations": [
       {
         "time_interval": [], 
-        "citation": "Atl\u0131, H. S., Bozkurt, B., \u015eent\u00fcrk, S. (2015). A Method for Tonic Frequency Identification of Turkish Makam Music Recordings. In Proceedings of 5th International Workshop on Folk Music Analysis (FMA 2015), pages 119\u2013122, Paris, France.", 
-        "value": 131.0, 
-        "source": "https://github.com/MTG/otmm_tonic_dataset/blob/7f28c1a3261b9146042155ee5e0f9e644d9ebcfa/atli2015tonic_fma/TD2.csv", 
-        "tonic_symbol": "A4", 
+        "citation": "Karakurt, A., \u015eent\u00fcrk S., & Serra X. (2016). MORTY: A Toolbox for Mode Recognition and Tonic Identification. In Proceedings of 3rd International Digital Libraries for Musicology Workshop (DLfM 2016). pages 9-16, New York, NY, USA", 
+        "value": 260.1, 
+        "source": "https://github.com/MTG/otmm_makam_recognition_dataset/blob/216a7b30632032b2a8c2692d5f5895bedbc743e0/annotations.json", 
+        "tonic_symbol": "F4", 
         "octave_wrapped": true, 
         "observations": ""
       }, 
       {
         "time_interval": [], 
-        "citation": "Karakurt, A., \u015eent\u00fcrk S., & Serra X. (2016). MORTY: A Toolbox for Mode Recognition and Tonic Identification. In Proceedings of 3rd International Digital Libraries for Musicology Workshop (DLfM 2016). pages 9-16, New York, NY, USA", 
-        "value": 130.8, 
-        "source": "https://github.com/MTG/otmm_makam_recognition_dataset/blob/216a7b30632032b2a8c2692d5f5895bedbc743e0/annotations.json", 
-        "tonic_symbol": "A4", 
-        "octave_wrapped": true, 
-        "observations": ""
+        "music_score": "https://github.com/MTG/SymbTr/tree/v2.4.3/txt/acemasiran--sarki--sofyan--gonul_sana--sadettin_kaynak", 
+        "citation": "\u015eent\u00fcrk, S. (2016). Computational Analysis of Audio Recordings and Music Scores for the Description and Discovery of Ottoman-Turkish Makam Music. PhD thesis, Universitat Pompeu Fabra, Barcelona, Spain.", 
+        "value": 130.0, 
+        "source": "https://github.com/sertansenturk/tomato/blob/v0.9.1/tomato/joint/jointanalyzer.py#L90", 
+        "observations": "Tonic identified from the note models obtained by joint audio-score analysis", 
+        "tonic_symbol": "F4", 
+        "octave_wrapped": true
       }
     ]
   }, 
@@ -40386,7 +40386,7 @@
         "citation": "Karakurt, A., \u015eent\u00fcrk S., & Serra X. (2016). MORTY: A Toolbox for Mode Recognition and Tonic Identification. In Proceedings of 3rd International Digital Libraries for Musicology Workshop (DLfM 2016). pages 9-16, New York, NY, USA", 
         "value": 329.2, 
         "source": "https://github.com/MTG/otmm_makam_recognition_dataset/blob/216a7b30632032b2a8c2692d5f5895bedbc743e0/annotations.json", 
-        "tonic_symbol": "D5", 
+        "tonic_symbol": "D4", 
         "octave_wrapped": true, 
         "observations": ""
       }
@@ -40782,7 +40782,7 @@
         "tonic_symbol": "G4", 
         "octave_wrapped": true, 
         "observations": ""
-      },
+      }, 
       {
         "time_interval": [], 
         "music_score": "https://github.com/MTG/SymbTr/tree/v2.4.3/txt/mahur--pesrev--hafif----rauf_yekta", 
@@ -40804,7 +40804,7 @@
         "citation": "Atl\u0131, H. S., Bozkurt, B., \u015eent\u00fcrk, S. (2015). A Method for Tonic Frequency Identification of Turkish Makam Music Recordings. In Proceedings of 5th International Workshop on Folk Music Analysis (FMA 2015), pages 119\u2013122, Paris, France.", 
         "value": 331.0, 
         "source": "https://github.com/MTG/otmm_tonic_dataset/blob/7f28c1a3261b9146042155ee5e0f9e644d9ebcfa/atli2015tonic_fma/TD2.csv", 
-        "tonic_symbol": "D5", 
+        "tonic_symbol": "D4", 
         "octave_wrapped": true, 
         "observations": ""
       }, 
@@ -40813,7 +40813,7 @@
         "citation": "Karakurt, A., \u015eent\u00fcrk S., & Serra X. (2016). MORTY: A Toolbox for Mode Recognition and Tonic Identification. In Proceedings of 3rd International Digital Libraries for Musicology Workshop (DLfM 2016). pages 9-16, New York, NY, USA", 
         "value": 331.0, 
         "source": "https://github.com/MTG/otmm_makam_recognition_dataset/blob/216a7b30632032b2a8c2692d5f5895bedbc743e0/annotations.json", 
-        "tonic_symbol": "D5", 
+        "tonic_symbol": "D4", 
         "octave_wrapped": true, 
         "observations": ""
       }, 
@@ -40824,7 +40824,7 @@
         "value": 166.0, 
         "source": "https://github.com/sertansenturk/tomato/blob/v0.9.1/tomato/joint/jointanalyzer.py#L90", 
         "observations": "Tonic identified from the note models obtained by joint audio-score analysis", 
-        "tonic_symbol": "D5", 
+        "tonic_symbol": "D4", 
         "octave_wrapped": true
       }
     ]
@@ -41107,7 +41107,7 @@
         "citation": "Karakurt, A., \u015eent\u00fcrk S., & Serra X. (2016). MORTY: A Toolbox for Mode Recognition and Tonic Identification. In Proceedings of 3rd International Digital Libraries for Musicology Workshop (DLfM 2016). pages 9-16, New York, NY, USA", 
         "value": 189.2, 
         "source": "https://github.com/MTG/otmm_makam_recognition_dataset/blob/216a7b30632032b2a8c2692d5f5895bedbc743e0/annotations.json", 
-        "tonic_symbol": "D5", 
+        "tonic_symbol": "D4", 
         "octave_wrapped": true, 
         "observations": ""
       }, 
@@ -41118,7 +41118,7 @@
         "value": 189.1, 
         "source": "https://github.com/sertansenturk/tomato/blob/v0.9.1/tomato/joint/jointanalyzer.py#L90", 
         "observations": "Tonic identified from the note models obtained by joint audio-score analysis", 
-        "tonic_symbol": "D5", 
+        "tonic_symbol": "D4", 
         "octave_wrapped": true
       }
     ]
@@ -41566,7 +41566,7 @@
         "citation": "Karakurt, A., \u015eent\u00fcrk S., & Serra X. (2016). MORTY: A Toolbox for Mode Recognition and Tonic Identification. In Proceedings of 3rd International Digital Libraries for Musicology Workshop (DLfM 2016). pages 9-16, New York, NY, USA", 
         "value": 230.0, 
         "source": "https://github.com/MTG/otmm_makam_recognition_dataset/blob/216a7b30632032b2a8c2692d5f5895bedbc743e0/annotations.json", 
-        "tonic_symbol": "D5", 
+        "tonic_symbol": "D4", 
         "octave_wrapped": true, 
         "observations": ""
       }
@@ -41969,7 +41969,7 @@
         "tonic_symbol": "G4", 
         "octave_wrapped": true, 
         "observations": ""
-      },
+      }, 
       {
         "time_interval": [], 
         "music_score": "https://github.com/MTG/SymbTr/tree/v2.4.3/txt/kurdilihicazkar--sarki--yuruksemai--sen_gozlerine--misirli_udi_ibrahim_efendi", 
