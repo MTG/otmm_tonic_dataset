@@ -1,11 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "ciftesofyan", 
-            "mb_attribute": "\u00c7iftesofyan", 
-            "source": "http://musicbrainz.org/work/ec05ec50-2ca6-480f-ab65-44390fa6569a"
-        }
-    ], 
+    "instrumentation_voicing": "duet", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -32,6 +26,12 @@
         }
     ], 
     "mbid": "c6089405-6f18-4562-8c24-fff2adc42eee", 
+    "works": [
+        {
+            "mbid": "ec05ec50-2ca6-480f-ab65-44390fa6569a", 
+            "title": "Ey G\u00fcl Ba\u011f-\u0131 Eda"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "huzzam", 
@@ -115,11 +115,11 @@
             "name": "Sarper Ero\u011flu"
         }
     ], 
-    "instrumentation_voicing": "Duet", 
-    "works": [
+    "usul": [
         {
-            "mbid": "ec05ec50-2ca6-480f-ab65-44390fa6569a", 
-            "title": "Ey G\u00fcl Ba\u011f-\u0131 Eda"
+            "attribute_key": "ciftesofyan", 
+            "mb_attribute": "\u00c7iftesofyan", 
+            "source": "http://musicbrainz.org/work/ec05ec50-2ca6-480f-ab65-44390fa6569a"
         }
     ]
 }

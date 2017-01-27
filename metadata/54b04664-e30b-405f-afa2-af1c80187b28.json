@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "muhammes", 
-            "mb_attribute": "Muhammes", 
-            "source": "http://musicbrainz.org/work/852232f7-e223-4561-9a22-313eb858c469"
-        }, 
-        {
-            "attribute_key": "muhammes", 
-            "mb_tag": "muhammes", 
-            "source": "http://musicbrainz.org/recording/54b04664-e30b-405f-afa2-af1c80187b28"
-        }
-    ], 
+    "instrumentation_voicing": "duo instrumental", 
     "form": [
         {
             "attribute_key": "pesrev", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "54b04664-e30b-405f-afa2-af1c80187b28", 
+    "works": [
+        {
+            "mbid": "852232f7-e223-4561-9a22-313eb858c469", 
+            "title": "H\u00fczzam Pe\u015frev"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "huzzam", 
@@ -68,11 +63,16 @@
             "name": "Neva \u00d6zgen"
         }
     ], 
-    "instrumentation_voicing": "Duo instrumental", 
-    "works": [
+    "usul": [
         {
-            "mbid": "852232f7-e223-4561-9a22-313eb858c469", 
-            "title": "H\u00fczzam Pe\u015frev"
+            "attribute_key": "muhammes", 
+            "mb_attribute": "Muhammes", 
+            "source": "http://musicbrainz.org/work/852232f7-e223-4561-9a22-313eb858c469"
+        }, 
+        {
+            "attribute_key": "muhammes", 
+            "mb_tag": "muhammes", 
+            "source": "http://musicbrainz.org/recording/54b04664-e30b-405f-afa2-af1c80187b28"
         }
     ]
 }

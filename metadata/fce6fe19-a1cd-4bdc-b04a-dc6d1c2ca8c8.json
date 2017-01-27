@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "agiraksak", 
-            "mb_attribute": "A\u011f\u0131raksak", 
-            "source": "http://musicbrainz.org/work/435acee6-921f-4b85-9d5b-7b0b48e81f79"
-        }, 
-        {
-            "attribute_key": "agiraksak", 
-            "mb_tag": "a\u011f\u0131raksak", 
-            "source": "http://musicbrainz.org/recording/fce6fe19-a1cd-4bdc-b04a-dc6d1c2ca8c8"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "fce6fe19-a1cd-4bdc-b04a-dc6d1c2ca8c8", 
+    "works": [
+        {
+            "mbid": "435acee6-921f-4b85-9d5b-7b0b48e81f79", 
+            "title": "Bekledim Y\u0131llarca Lakin"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "huzzam", 
@@ -62,11 +57,16 @@
             "name": "Bekir S\u0131dk\u0131 Sezgin"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "435acee6-921f-4b85-9d5b-7b0b48e81f79", 
-            "title": "Bekledim Y\u0131llarca Lakin"
+            "attribute_key": "agiraksak", 
+            "mb_attribute": "A\u011f\u0131raksak", 
+            "source": "http://musicbrainz.org/work/435acee6-921f-4b85-9d5b-7b0b48e81f79"
+        }, 
+        {
+            "attribute_key": "agiraksak", 
+            "mb_tag": "a\u011f\u0131raksak", 
+            "source": "http://musicbrainz.org/recording/fce6fe19-a1cd-4bdc-b04a-dc6d1c2ca8c8"
         }
     ]
 }

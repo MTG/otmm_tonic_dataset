@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "duyek", 
-            "mb_attribute": "D\u00fcyek", 
-            "source": "http://musicbrainz.org/work/f37432d4-cce4-411f-847e-87f8b98ba57d"
-        }, 
-        {
-            "attribute_key": "duyek", 
-            "mb_tag": "d\u00fcyek", 
-            "source": "http://musicbrainz.org/recording/09bfd6ea-7e7f-427c-b837-93030e9bce42"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "09bfd6ea-7e7f-427c-b837-93030e9bce42", 
+    "works": [
+        {
+            "mbid": "f37432d4-cce4-411f-847e-87f8b98ba57d", 
+            "title": "Senden Uzak G\u00fcnlerim Zindan Oluyor"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "rast", 
@@ -81,11 +76,16 @@
             "name": "Nevzat S\u00fcmer"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "f37432d4-cce4-411f-847e-87f8b98ba57d", 
-            "title": "Senden Uzak G\u00fcnlerim Zindan Oluyor"
+            "attribute_key": "duyek", 
+            "mb_attribute": "D\u00fcyek", 
+            "source": "http://musicbrainz.org/work/f37432d4-cce4-411f-847e-87f8b98ba57d"
+        }, 
+        {
+            "attribute_key": "duyek", 
+            "mb_tag": "d\u00fcyek", 
+            "source": "http://musicbrainz.org/recording/09bfd6ea-7e7f-427c-b837-93030e9bce42"
         }
     ]
 }

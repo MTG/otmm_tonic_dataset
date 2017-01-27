@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "musemmen", 
-            "mb_attribute": "M\u00fcsemmen", 
-            "source": "http://musicbrainz.org/work/b914cadf-c933-48db-9431-3290a3907725"
-        }, 
-        {
-            "attribute_key": "musemmen_ii", 
-            "mb_tag": "m\u00fcsemmen", 
-            "source": "http://musicbrainz.org/recording/a63be14d-0a2b-41d2-b4e4-a97405c919e8"
-        }
-    ], 
+    "instrumentation_voicing": "ensemble instrumental", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "a63be14d-0a2b-41d2-b4e4-a97405c919e8", 
+    "works": [
+        {
+            "mbid": "b914cadf-c933-48db-9431-3290a3907725", 
+            "title": "Ge\u00e7ti Sevdalarla \u00d6mr\u00fcm"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "huseyni", 
@@ -57,11 +52,16 @@
             "name": "[unknown]"
         }
     ], 
-    "instrumentation_voicing": "Ensemble instrumental", 
-    "works": [
+    "usul": [
         {
-            "mbid": "b914cadf-c933-48db-9431-3290a3907725", 
-            "title": "Ge\u00e7ti Sevdalarla \u00d6mr\u00fcm"
+            "attribute_key": "musemmen", 
+            "mb_attribute": "M\u00fcsemmen", 
+            "source": "http://musicbrainz.org/work/b914cadf-c933-48db-9431-3290a3907725"
+        }, 
+        {
+            "attribute_key": "musemmen_ii", 
+            "mb_tag": "m\u00fcsemmen", 
+            "source": "http://musicbrainz.org/recording/a63be14d-0a2b-41d2-b4e4-a97405c919e8"
         }
     ]
 }

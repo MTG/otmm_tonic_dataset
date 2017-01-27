@@ -1,5 +1,11 @@
 {
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
+    "usul": [
+        {
+            "attribute_key": "serbest", 
+            "mb_tag": "serbest", 
+            "source": "http://musicbrainz.org/recording/6dba7dfd-42d6-42a6-a077-cf652f63030b"
+        }
+    ], 
     "form": [
         {
             "attribute_key": "gazel", 
@@ -44,11 +50,5 @@
             "name": "Mustafa Zeki \u00c7a\u011flarman"
         }
     ], 
-    "usul": [
-        {
-            "attribute_key": "serbest", 
-            "mb_tag": "serbest", 
-            "source": "http://musicbrainz.org/recording/6dba7dfd-42d6-42a6-a077-cf652f63030b"
-        }
-    ]
+    "instrumentation_voicing": "solo vocal with accompaniment"
 }

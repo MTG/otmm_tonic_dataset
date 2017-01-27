@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "duyek", 
-            "mb_attribute": "D\u00fcyek", 
-            "source": "http://musicbrainz.org/work/a7d86b0a-7b1a-4482-b3ed-81fdd8346371"
-        }, 
-        {
-            "attribute_key": "duyek", 
-            "mb_tag": "d\u00fcyek", 
-            "source": "http://musicbrainz.org/recording/cbb0e057-b738-4102-ab1f-6decec3d3cce"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "cbb0e057-b738-4102-ab1f-6decec3d3cce", 
+    "works": [
+        {
+            "mbid": "a7d86b0a-7b1a-4482-b3ed-81fdd8346371", 
+            "title": "Ak\u015fam\u0131n Oldu\u011fu Yerde Bekle Diyorsun"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "huzzam", 
@@ -62,11 +57,16 @@
             "name": "Bekir S\u0131dk\u0131 Sezgin"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "a7d86b0a-7b1a-4482-b3ed-81fdd8346371", 
-            "title": "Ak\u015fam\u0131n Oldu\u011fu Yerde Bekle Diyorsun"
+            "attribute_key": "duyek", 
+            "mb_attribute": "D\u00fcyek", 
+            "source": "http://musicbrainz.org/work/a7d86b0a-7b1a-4482-b3ed-81fdd8346371"
+        }, 
+        {
+            "attribute_key": "duyek", 
+            "mb_tag": "d\u00fcyek", 
+            "source": "http://musicbrainz.org/recording/cbb0e057-b738-4102-ab1f-6decec3d3cce"
         }
     ]
 }

@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "devrikebir", 
-            "mb_attribute": "Devr-i Kebir", 
-            "source": "http://musicbrainz.org/work/5acbd63f-63fa-4070-a2a2-79e2940de768"
-        }, 
-        {
-            "attribute_key": "devrikebir", 
-            "mb_tag": "devr-i kebir", 
-            "source": "http://musicbrainz.org/recording/151a16ea-69c8-45af-b2e3-d7bb03e8108f"
-        }
-    ], 
+    "instrumentation_voicing": "ensemble instrumental", 
     "form": [
         {
             "attribute_key": "pesrev", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "151a16ea-69c8-45af-b2e3-d7bb03e8108f", 
+    "works": [
+        {
+            "mbid": "5acbd63f-63fa-4070-a2a2-79e2940de768", 
+            "title": "Rast Pe\u015frev"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "rast", 
@@ -174,11 +169,16 @@
             "name": "Aykut B\u00fcy\u00fck\u00e7\u0131nar"
         }
     ], 
-    "instrumentation_voicing": "Ensemble instrumental", 
-    "works": [
+    "usul": [
         {
-            "mbid": "5acbd63f-63fa-4070-a2a2-79e2940de768", 
-            "title": "Rast Pe\u015frev"
+            "attribute_key": "devrikebir", 
+            "mb_attribute": "Devr-i Kebir", 
+            "source": "http://musicbrainz.org/work/5acbd63f-63fa-4070-a2a2-79e2940de768"
+        }, 
+        {
+            "attribute_key": "devrikebir", 
+            "mb_tag": "devr-i kebir", 
+            "source": "http://musicbrainz.org/recording/151a16ea-69c8-45af-b2e3-d7bb03e8108f"
         }
     ]
 }

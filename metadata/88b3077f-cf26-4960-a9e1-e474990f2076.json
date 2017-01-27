@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "semai", 
-            "mb_attribute": "Semai", 
-            "source": "http://musicbrainz.org/work/ab69f946-3f07-4d81-acd7-27934c3e50b1"
-        }, 
-        {
-            "attribute_key": "semai", 
-            "mb_tag": "semai", 
-            "source": "http://musicbrainz.org/recording/88b3077f-cf26-4960-a9e1-e474990f2076"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "88b3077f-cf26-4960-a9e1-e474990f2076", 
+    "works": [
+        {
+            "mbid": "ab69f946-3f07-4d81-acd7-27934c3e50b1", 
+            "title": "Ate\u015fin G\u00f6zlerini"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "mahur", 
@@ -225,11 +220,16 @@
             "name": "Tar\u0131k Kemanc\u0131"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "ab69f946-3f07-4d81-acd7-27934c3e50b1", 
-            "title": "Ate\u015fin G\u00f6zlerini"
+            "attribute_key": "semai", 
+            "mb_attribute": "Semai", 
+            "source": "http://musicbrainz.org/work/ab69f946-3f07-4d81-acd7-27934c3e50b1"
+        }, 
+        {
+            "attribute_key": "semai", 
+            "mb_tag": "semai", 
+            "source": "http://musicbrainz.org/recording/88b3077f-cf26-4960-a9e1-e474990f2076"
         }
     ]
 }

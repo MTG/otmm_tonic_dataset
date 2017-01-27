@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "kapali_curcuna", 
-            "mb_attribute": "Kapal\u0131 Curcuna", 
-            "source": "http://musicbrainz.org/work/f8a79c74-cb05-328a-924e-fc751733763b"
-        }, 
-        {
-            "attribute_key": "kapali_curcuna", 
-            "mb_tag": "curcuna", 
-            "source": "http://musicbrainz.org/recording/feda89e3-a50d-4ff8-87d4-c1e531cc1233"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "feda89e3-a50d-4ff8-87d4-c1e531cc1233", 
+    "works": [
+        {
+            "mbid": "f8a79c74-cb05-328a-924e-fc751733763b", 
+            "title": "Kimseye Etmem \u015eikayet"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "nihavent", 
@@ -225,11 +220,16 @@
             "name": "Tar\u0131k Kemanc\u0131"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "f8a79c74-cb05-328a-924e-fc751733763b", 
-            "title": "Kimseye Etmem \u015eikayet"
+            "attribute_key": "kapali_curcuna", 
+            "mb_attribute": "Kapal\u0131 Curcuna", 
+            "source": "http://musicbrainz.org/work/f8a79c74-cb05-328a-924e-fc751733763b"
+        }, 
+        {
+            "attribute_key": "kapali_curcuna", 
+            "mb_tag": "curcuna", 
+            "source": "http://musicbrainz.org/recording/feda89e3-a50d-4ff8-87d4-c1e531cc1233"
         }
     ]
 }

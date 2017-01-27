@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "agiraksak", 
-            "mb_attribute": "A\u011f\u0131raksak", 
-            "source": "http://musicbrainz.org/work/0eab1776-daee-4134-a4fd-0f946a97f36a"
-        }, 
-        {
-            "attribute_key": "agiraksak", 
-            "mb_tag": "a\u011f\u0131raksak", 
-            "source": "http://musicbrainz.org/recording/fd9d7dc5-fd93-4819-8f6e-1a8af87626cc"
-        }
-    ], 
+    "instrumentation_voicing": "choir", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "fd9d7dc5-fd93-4819-8f6e-1a8af87626cc", 
+    "works": [
+        {
+            "mbid": "0eab1776-daee-4134-a4fd-0f946a97f36a", 
+            "title": "Cemalin Benziyor Aya Kara Ka\u015flar\u0131n Yaya"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "hicaz", 
@@ -148,11 +143,16 @@
             "name": "Safinaz Rizeli"
         }
     ], 
-    "instrumentation_voicing": "Choir", 
-    "works": [
+    "usul": [
         {
-            "mbid": "0eab1776-daee-4134-a4fd-0f946a97f36a", 
-            "title": "Cemalin Benziyor Aya Kara Ka\u015flar\u0131n Yaya"
+            "attribute_key": "agiraksak", 
+            "mb_attribute": "A\u011f\u0131raksak", 
+            "source": "http://musicbrainz.org/work/0eab1776-daee-4134-a4fd-0f946a97f36a"
+        }, 
+        {
+            "attribute_key": "agiraksak", 
+            "mb_tag": "a\u011f\u0131raksak", 
+            "source": "http://musicbrainz.org/recording/fd9d7dc5-fd93-4819-8f6e-1a8af87626cc"
         }
     ]
 }

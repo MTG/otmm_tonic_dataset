@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "aksak", 
-            "mb_attribute": "Aksak", 
-            "source": "http://musicbrainz.org/work/d691b344-090e-4f4f-af79-84b5afc5e04a"
-        }, 
-        {
-            "attribute_key": "aksak", 
-            "mb_tag": "aksak", 
-            "source": "http://musicbrainz.org/recording/8c47049e-1517-4243-a3bb-49817a199b32"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "8c47049e-1517-4243-a3bb-49817a199b32", 
+    "works": [
+        {
+            "mbid": "d691b344-090e-4f4f-af79-84b5afc5e04a", 
+            "title": "Kurdu Meclis A\u015f\u0131kan Meyhanede"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "hicaz_uzzal", 
@@ -62,11 +57,16 @@
             "name": "Bekir S\u0131dk\u0131 Sezgin"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "d691b344-090e-4f4f-af79-84b5afc5e04a", 
-            "title": "Kurdu Meclis A\u015f\u0131kan Meyhanede"
+            "attribute_key": "aksak", 
+            "mb_attribute": "Aksak", 
+            "source": "http://musicbrainz.org/work/d691b344-090e-4f4f-af79-84b5afc5e04a"
+        }, 
+        {
+            "attribute_key": "aksak", 
+            "mb_tag": "aksak", 
+            "source": "http://musicbrainz.org/recording/8c47049e-1517-4243-a3bb-49817a199b32"
         }
     ]
 }

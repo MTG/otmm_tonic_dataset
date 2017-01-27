@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "agirduyek", 
-            "mb_attribute": "A\u011f\u0131rd\u00fcyek", 
-            "source": "http://musicbrainz.org/work/72222f36-76f1-4663-a5bf-d16f7af09dfa"
-        }, 
-        {
-            "attribute_key": "duyek", 
-            "mb_tag": "d\u00fcyek", 
-            "source": "http://musicbrainz.org/recording/ce2ddba6-ff6a-40c1-9670-ee43d639dad3"
-        }
-    ], 
+    "instrumentation_voicing": "ensemble instrumental", 
     "form": [
         {
             "attribute_key": "pesrev", 
@@ -42,6 +31,12 @@
         }
     ], 
     "mbid": "ce2ddba6-ff6a-40c1-9670-ee43d639dad3", 
+    "works": [
+        {
+            "mbid": "72222f36-76f1-4663-a5bf-d16f7af09dfa", 
+            "title": "Suzidilara Pe\u015frev"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "suzidilara", 
@@ -104,11 +99,16 @@
             "name": "\u00d6zer \u00d6zel"
         }
     ], 
-    "instrumentation_voicing": "Ensemble instrumental", 
-    "works": [
+    "usul": [
         {
-            "mbid": "72222f36-76f1-4663-a5bf-d16f7af09dfa", 
-            "title": "Suzidilara Pe\u015frev"
+            "attribute_key": "agirduyek", 
+            "mb_attribute": "A\u011f\u0131rd\u00fcyek", 
+            "source": "http://musicbrainz.org/work/72222f36-76f1-4663-a5bf-d16f7af09dfa"
+        }, 
+        {
+            "attribute_key": "duyek", 
+            "mb_tag": "d\u00fcyek", 
+            "source": "http://musicbrainz.org/recording/ce2ddba6-ff6a-40c1-9670-ee43d639dad3"
         }
     ]
 }

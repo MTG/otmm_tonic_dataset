@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "curcuna", 
-            "mb_attribute": "Curcuna", 
-            "source": "http://musicbrainz.org/work/7e444644-d29a-430a-b546-971dea4cc9f3"
-        }, 
-        {
-            "attribute_key": "kapali_curcuna", 
-            "mb_tag": "curcuna", 
-            "source": "http://musicbrainz.org/recording/8d73e4e7-d868-4508-b22d-eb2d92236cdc"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "8d73e4e7-d868-4508-b22d-eb2d92236cdc", 
+    "works": [
+        {
+            "mbid": "7e444644-d29a-430a-b546-971dea4cc9f3", 
+            "title": "Tutam Yar Elinden"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "huseyni", 
@@ -225,11 +220,16 @@
             "name": "Tar\u0131k Kemanc\u0131"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "7e444644-d29a-430a-b546-971dea4cc9f3", 
-            "title": "Tutam Yar Elinden"
+            "attribute_key": "curcuna", 
+            "mb_attribute": "Curcuna", 
+            "source": "http://musicbrainz.org/work/7e444644-d29a-430a-b546-971dea4cc9f3"
+        }, 
+        {
+            "attribute_key": "kapali_curcuna", 
+            "mb_tag": "curcuna", 
+            "source": "http://musicbrainz.org/recording/8d73e4e7-d868-4508-b22d-eb2d92236cdc"
         }
     ]
 }

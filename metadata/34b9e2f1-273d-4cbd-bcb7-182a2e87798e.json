@@ -1,11 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "muhammes", 
-            "mb_attribute": "Muhammes", 
-            "source": "http://musicbrainz.org/work/211a71a2-cd77-4948-9566-0315988329e5"
-        }
-    ], 
+    "instrumentation_voicing": "solo instrumental", 
     "form": [
         {
             "attribute_key": "pesrev", 
@@ -33,6 +27,12 @@
         }
     ], 
     "mbid": "34b9e2f1-273d-4cbd-bcb7-182a2e87798e", 
+    "works": [
+        {
+            "mbid": "211a71a2-cd77-4948-9566-0315988329e5", 
+            "title": "Hicazk\u00e2r Pe\u015frevi"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "hicazkar", 
@@ -55,11 +55,11 @@
             "name": "Murat Aydemir"
         }
     ], 
-    "instrumentation_voicing": "Solo instrumental", 
-    "works": [
+    "usul": [
         {
-            "mbid": "211a71a2-cd77-4948-9566-0315988329e5", 
-            "title": "Hicazk\u00e2r Pe\u015frevi"
+            "attribute_key": "muhammes", 
+            "mb_attribute": "Muhammes", 
+            "source": "http://musicbrainz.org/work/211a71a2-cd77-4948-9566-0315988329e5"
         }
     ]
 }

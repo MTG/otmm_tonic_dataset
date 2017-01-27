@@ -1,5 +1,5 @@
 {
-    "usul": [], 
+    "instrumentation_voicing": "solo instrumental", 
     "form": [
         {
             "attribute_key": "sazeseri", 
@@ -26,6 +26,12 @@
         }
     ], 
     "mbid": "26039700-57d1-4d09-9d00-771242019de1", 
+    "works": [
+        {
+            "mbid": "d917c115-efa9-40b6-a092-69bfe9b29499", 
+            "title": "Dilnigar"
+        }
+    ], 
     "makam": [], 
     "artists": [
         {
@@ -37,11 +43,5 @@
             "name": "Necip G\u00fclses"
         }
     ], 
-    "instrumentation_voicing": "Solo instrumental", 
-    "works": [
-        {
-            "mbid": "d917c115-efa9-40b6-a092-69bfe9b29499", 
-            "title": "Dilnigar"
-        }
-    ]
+    "usul": []
 }

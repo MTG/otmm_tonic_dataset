@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "duyek", 
-            "mb_attribute": "D\u00fcyek", 
-            "source": "http://musicbrainz.org/work/cba643e5-d839-4c97-ad00-463e2c9ba71a"
-        }, 
-        {
-            "attribute_key": "duyek", 
-            "mb_tag": "d\u00fcyek", 
-            "source": "http://musicbrainz.org/recording/75b2bbf5-aa59-45ad-b510-7e1e6114a439"
-        }
-    ], 
+    "instrumentation_voicing": "ensemble instrumental", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "75b2bbf5-aa59-45ad-b510-7e1e6114a439", 
+    "works": [
+        {
+            "mbid": "cba643e5-d839-4c97-ad00-463e2c9ba71a", 
+            "title": "Her G\u00fcn\u00fcm Mazide Kalm\u0131\u015f"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "ussak", 
@@ -57,11 +52,16 @@
             "name": "Aziz T\u00fcrk Sanat M\u00fczi\u011fi Grubu"
         }
     ], 
-    "instrumentation_voicing": "Ensemble instrumental", 
-    "works": [
+    "usul": [
         {
-            "mbid": "cba643e5-d839-4c97-ad00-463e2c9ba71a", 
-            "title": "Her G\u00fcn\u00fcm Mazide Kalm\u0131\u015f"
+            "attribute_key": "duyek", 
+            "mb_attribute": "D\u00fcyek", 
+            "source": "http://musicbrainz.org/work/cba643e5-d839-4c97-ad00-463e2c9ba71a"
+        }, 
+        {
+            "attribute_key": "duyek", 
+            "mb_tag": "d\u00fcyek", 
+            "source": "http://musicbrainz.org/recording/75b2bbf5-aa59-45ad-b510-7e1e6114a439"
         }
     ]
 }

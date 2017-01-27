@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "evsat", 
-            "mb_attribute": "Evsat", 
-            "source": "http://musicbrainz.org/work/9bf1ea83-6cdc-4071-8293-5e2e4c1afea2"
-        }, 
-        {
-            "attribute_key": "evsat", 
-            "mb_tag": "evsat", 
-            "source": "http://musicbrainz.org/recording/b37afa4f-9f0b-4588-b439-d2799d6bcab7"
-        }
-    ], 
+    "instrumentation_voicing": "duet", 
     "form": [
         {
             "attribute_key": "tevsihilahi", 
@@ -42,6 +31,12 @@
         }
     ], 
     "mbid": "b37afa4f-9f0b-4588-b439-d2799d6bcab7", 
+    "works": [
+        {
+            "mbid": "9bf1ea83-6cdc-4071-8293-5e2e4c1afea2", 
+            "title": "Bahr-i A\u015fkda Bikarar\u0131m Ya Ras\u00fclallah Meded"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "nihavent", 
@@ -130,11 +125,16 @@
             "name": "\u00d6zer \u00d6zel"
         }
     ], 
-    "instrumentation_voicing": "Duet", 
-    "works": [
+    "usul": [
         {
-            "mbid": "9bf1ea83-6cdc-4071-8293-5e2e4c1afea2", 
-            "title": "Bahr-i A\u015fkda Bikarar\u0131m Ya Ras\u00fclallah Meded"
+            "attribute_key": "evsat", 
+            "mb_attribute": "Evsat", 
+            "source": "http://musicbrainz.org/work/9bf1ea83-6cdc-4071-8293-5e2e4c1afea2"
+        }, 
+        {
+            "attribute_key": "evsat", 
+            "mb_tag": "evsat", 
+            "source": "http://musicbrainz.org/recording/b37afa4f-9f0b-4588-b439-d2799d6bcab7"
         }
     ]
 }

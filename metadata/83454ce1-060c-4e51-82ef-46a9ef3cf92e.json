@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "nimsofyan", 
-            "mb_attribute": "Nimsofyan", 
-            "source": "http://musicbrainz.org/work/0f1f7a7f-8f41-497c-96de-f51abb0d3b90"
-        }, 
-        {
-            "attribute_key": "nimsofyan", 
-            "mb_tag": "nimsofyan", 
-            "source": "http://musicbrainz.org/recording/83454ce1-060c-4e51-82ef-46a9ef3cf92e"
-        }
-    ], 
+    "instrumentation_voicing": "solo instrumental", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "83454ce1-060c-4e51-82ef-46a9ef3cf92e", 
+    "works": [
+        {
+            "mbid": "0f1f7a7f-8f41-497c-96de-f51abb0d3b90", 
+            "title": "Sonbahar Ya\u011fmuru"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "nihavent", 
@@ -60,11 +55,16 @@
             "name": "Fahri Karaduman"
         }
     ], 
-    "instrumentation_voicing": "Solo instrumental", 
-    "works": [
+    "usul": [
         {
-            "mbid": "0f1f7a7f-8f41-497c-96de-f51abb0d3b90", 
-            "title": "Sonbahar Ya\u011fmuru"
+            "attribute_key": "nimsofyan", 
+            "mb_attribute": "Nimsofyan", 
+            "source": "http://musicbrainz.org/work/0f1f7a7f-8f41-497c-96de-f51abb0d3b90"
+        }, 
+        {
+            "attribute_key": "nimsofyan", 
+            "mb_tag": "nimsofyan", 
+            "source": "http://musicbrainz.org/recording/83454ce1-060c-4e51-82ef-46a9ef3cf92e"
         }
     ]
 }

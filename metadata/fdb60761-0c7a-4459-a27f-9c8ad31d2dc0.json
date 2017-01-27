@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "aksak", 
-            "mb_attribute": "Aksak", 
-            "source": "http://musicbrainz.org/work/a19ca95b-eabf-4060-8bdb-97752beccf61"
-        }, 
-        {
-            "attribute_key": "aksak", 
-            "mb_tag": "aksak", 
-            "source": "http://musicbrainz.org/recording/fdb60761-0c7a-4459-a27f-9c8ad31d2dc0"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "fdb60761-0c7a-4459-a27f-9c8ad31d2dc0", 
+    "works": [
+        {
+            "mbid": "a19ca95b-eabf-4060-8bdb-97752beccf61", 
+            "title": "Ge\u00e7mi\u015f G\u00fczel G\u00fcnleri"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "hicaz", 
@@ -89,11 +84,16 @@
             "name": "Ali Kocadin\u00e7"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "a19ca95b-eabf-4060-8bdb-97752beccf61", 
-            "title": "Ge\u00e7mi\u015f G\u00fczel G\u00fcnleri"
+            "attribute_key": "aksak", 
+            "mb_attribute": "Aksak", 
+            "source": "http://musicbrainz.org/work/a19ca95b-eabf-4060-8bdb-97752beccf61"
+        }, 
+        {
+            "attribute_key": "aksak", 
+            "mb_tag": "aksak", 
+            "source": "http://musicbrainz.org/recording/fdb60761-0c7a-4459-a27f-9c8ad31d2dc0"
         }
     ]
 }

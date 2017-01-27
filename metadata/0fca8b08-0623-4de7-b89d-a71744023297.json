@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "aksaksemai", 
-            "mb_attribute": "Aksaksemai", 
-            "source": "http://musicbrainz.org/work/18a9743c-cf07-4a5b-9321-76ef1d9d8909"
-        }, 
-        {
-            "attribute_key": "aksaksemai", 
-            "mb_tag": "aksaksemai", 
-            "source": "http://musicbrainz.org/recording/0fca8b08-0623-4de7-b89d-a71744023297"
-        }
-    ], 
+    "instrumentation_voicing": "solo instrumental", 
     "form": [
         {
             "attribute_key": "sazsemaisi", 
@@ -42,6 +31,12 @@
         }
     ], 
     "mbid": "0fca8b08-0623-4de7-b89d-a71744023297", 
+    "works": [
+        {
+            "mbid": "18a9743c-cf07-4a5b-9321-76ef1d9d8909", 
+            "title": "Ferahfeza Sazsemaisi"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "ferahfeza", 
@@ -64,11 +59,16 @@
             "name": "Erc\u00fcmend Batanay"
         }
     ], 
-    "instrumentation_voicing": "Solo instrumental", 
-    "works": [
+    "usul": [
         {
-            "mbid": "18a9743c-cf07-4a5b-9321-76ef1d9d8909", 
-            "title": "Ferahfeza Sazsemaisi"
+            "attribute_key": "aksaksemai", 
+            "mb_attribute": "Aksaksemai", 
+            "source": "http://musicbrainz.org/work/18a9743c-cf07-4a5b-9321-76ef1d9d8909"
+        }, 
+        {
+            "attribute_key": "aksaksemai", 
+            "mb_tag": "aksaksemai", 
+            "source": "http://musicbrainz.org/recording/0fca8b08-0623-4de7-b89d-a71744023297"
         }
     ]
 }

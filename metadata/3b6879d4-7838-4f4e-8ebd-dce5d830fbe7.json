@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "nimsofyan", 
-            "mb_attribute": "Nimsofyan", 
-            "source": "http://musicbrainz.org/work/9145af8e-e6f2-45d7-aaf7-8bfb35e55ef1"
-        }, 
-        {
-            "attribute_key": "nimsofyan", 
-            "mb_tag": "nimsofyan", 
-            "source": "http://musicbrainz.org/recording/3b6879d4-7838-4f4e-8ebd-dce5d830fbe7"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal without accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "3b6879d4-7838-4f4e-8ebd-dce5d830fbe7", 
+    "works": [
+        {
+            "mbid": "9145af8e-e6f2-45d7-aaf7-8bfb35e55ef1", 
+            "title": "G\u00fcne\u015fin Kavurdu\u011fu R\u00fczgar\u0131n Savurdu\u011fu"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "huzzam", 
@@ -57,11 +52,16 @@
             "name": "\u00c7i\u011fdem Yark\u0131n"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal without accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "9145af8e-e6f2-45d7-aaf7-8bfb35e55ef1", 
-            "title": "G\u00fcne\u015fin Kavurdu\u011fu R\u00fczgar\u0131n Savurdu\u011fu"
+            "attribute_key": "nimsofyan", 
+            "mb_attribute": "Nimsofyan", 
+            "source": "http://musicbrainz.org/work/9145af8e-e6f2-45d7-aaf7-8bfb35e55ef1"
+        }, 
+        {
+            "attribute_key": "nimsofyan", 
+            "mb_tag": "nimsofyan", 
+            "source": "http://musicbrainz.org/recording/3b6879d4-7838-4f4e-8ebd-dce5d830fbe7"
         }
     ]
 }

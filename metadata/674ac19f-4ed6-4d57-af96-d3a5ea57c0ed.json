@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "aksak", 
-            "mb_attribute": "Aksak", 
-            "source": "http://musicbrainz.org/work/74738e8a-909c-46e8-b376-09bb7e23e300"
-        }, 
-        {
-            "attribute_key": "aksak", 
-            "mb_tag": "aksak", 
-            "source": "http://musicbrainz.org/recording/674ac19f-4ed6-4d57-af96-d3a5ea57c0ed"
-        }
-    ], 
+    "instrumentation_voicing": "duet", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -42,6 +31,12 @@
         }
     ], 
     "mbid": "674ac19f-4ed6-4d57-af96-d3a5ea57c0ed", 
+    "works": [
+        {
+            "mbid": "74738e8a-909c-46e8-b376-09bb7e23e300", 
+            "title": "Yine Ye\u015fillendi Da\u011flar \u00c7emeni"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "hicaz", 
@@ -66,11 +61,16 @@
             "name": "Lale Han\u0131m"
         }
     ], 
-    "instrumentation_voicing": "Duet", 
-    "works": [
+    "usul": [
         {
-            "mbid": "74738e8a-909c-46e8-b376-09bb7e23e300", 
-            "title": "Yine Ye\u015fillendi Da\u011flar \u00c7emeni"
+            "attribute_key": "aksak", 
+            "mb_attribute": "Aksak", 
+            "source": "http://musicbrainz.org/work/74738e8a-909c-46e8-b376-09bb7e23e300"
+        }, 
+        {
+            "attribute_key": "aksak", 
+            "mb_tag": "aksak", 
+            "source": "http://musicbrainz.org/recording/674ac19f-4ed6-4d57-af96-d3a5ea57c0ed"
         }
     ]
 }

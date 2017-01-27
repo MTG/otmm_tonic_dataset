@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "senginsemai", 
-            "mb_attribute": "Senginsemai", 
-            "source": "http://musicbrainz.org/work/32480266-6dfd-4749-bdb4-9780f93a5f16"
-        }, 
-        {
-            "attribute_key": "senginsemai", 
-            "mb_tag": "senginsemai", 
-            "source": "http://musicbrainz.org/recording/04f01c89-ed40-42e3-b892-00b62fb4b11b"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "04f01c89-ed40-42e3-b892-00b62fb4b11b", 
+    "works": [
+        {
+            "mbid": "32480266-6dfd-4749-bdb4-9780f93a5f16", 
+            "title": "Hal-i Dil-i Zar\u0131m\u0131 Duysa Cihan"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "huzzam", 
@@ -62,11 +57,16 @@
             "name": "Bekir S\u0131dk\u0131 Sezgin"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "32480266-6dfd-4749-bdb4-9780f93a5f16", 
-            "title": "Hal-i Dil-i Zar\u0131m\u0131 Duysa Cihan"
+            "attribute_key": "senginsemai", 
+            "mb_attribute": "Senginsemai", 
+            "source": "http://musicbrainz.org/work/32480266-6dfd-4749-bdb4-9780f93a5f16"
+        }, 
+        {
+            "attribute_key": "senginsemai", 
+            "mb_tag": "senginsemai", 
+            "source": "http://musicbrainz.org/recording/04f01c89-ed40-42e3-b892-00b62fb4b11b"
         }
     ]
 }

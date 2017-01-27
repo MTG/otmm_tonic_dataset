@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "aksaksemai", 
-            "mb_attribute": "Aksaksemai", 
-            "source": "http://musicbrainz.org/work/8103c3a3-ba62-4c7a-95d7-73d7b1d53056"
-        }, 
-        {
-            "attribute_key": "aksaksemai", 
-            "mb_tag": "aksaksemai", 
-            "source": "http://musicbrainz.org/recording/922710d3-d6c4-4de9-aebb-2b93d74afe85"
-        }
-    ], 
+    "instrumentation_voicing": "solo instrumental", 
     "form": [
         {
             "attribute_key": "sazsemaisi", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "922710d3-d6c4-4de9-aebb-2b93d74afe85", 
+    "works": [
+        {
+            "mbid": "8103c3a3-ba62-4c7a-95d7-73d7b1d53056", 
+            "title": "Suzidil Saz Semaisi"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "suzidil", 
@@ -60,11 +55,16 @@
             "name": "Fahri Karaduman"
         }
     ], 
-    "instrumentation_voicing": "Solo instrumental", 
-    "works": [
+    "usul": [
         {
-            "mbid": "8103c3a3-ba62-4c7a-95d7-73d7b1d53056", 
-            "title": "Suzidil Saz Semaisi"
+            "attribute_key": "aksaksemai", 
+            "mb_attribute": "Aksaksemai", 
+            "source": "http://musicbrainz.org/work/8103c3a3-ba62-4c7a-95d7-73d7b1d53056"
+        }, 
+        {
+            "attribute_key": "aksaksemai", 
+            "mb_tag": "aksaksemai", 
+            "source": "http://musicbrainz.org/recording/922710d3-d6c4-4de9-aebb-2b93d74afe85"
         }
     ]
 }

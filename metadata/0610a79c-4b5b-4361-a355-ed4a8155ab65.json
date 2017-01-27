@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "nimsofyan", 
-            "mb_attribute": "Nimsofyan", 
-            "source": "http://musicbrainz.org/work/a7a544b9-62cd-4e90-b2d2-4f4a93202ff6"
-        }, 
-        {
-            "attribute_key": "nimsofyan", 
-            "mb_tag": "nimsofyan", 
-            "source": "http://musicbrainz.org/recording/0610a79c-4b5b-4361-a355-ed4a8155ab65"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal without accompaniment", 
     "form": [
         {
             "attribute_key": "kanto", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "0610a79c-4b5b-4361-a355-ed4a8155ab65", 
+    "works": [
+        {
+            "mbid": "a7a544b9-62cd-4e90-b2d2-4f4a93202ff6", 
+            "title": "Dar\u0131ld\u0131n m\u0131 G\u00fcl\u00fcm Bana"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "rast", 
@@ -57,11 +52,16 @@
             "name": "Hamiyet Y\u00fcceses"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal without accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "a7a544b9-62cd-4e90-b2d2-4f4a93202ff6", 
-            "title": "Dar\u0131ld\u0131n m\u0131 G\u00fcl\u00fcm Bana"
+            "attribute_key": "nimsofyan", 
+            "mb_attribute": "Nimsofyan", 
+            "source": "http://musicbrainz.org/work/a7a544b9-62cd-4e90-b2d2-4f4a93202ff6"
+        }, 
+        {
+            "attribute_key": "nimsofyan", 
+            "mb_tag": "nimsofyan", 
+            "source": "http://musicbrainz.org/recording/0610a79c-4b5b-4361-a355-ed4a8155ab65"
         }
     ]
 }

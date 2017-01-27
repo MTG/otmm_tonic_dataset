@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "duyek", 
-            "mb_attribute": "D\u00fcyek", 
-            "source": "http://musicbrainz.org/work/d0ef9845-a5e3-4f12-adce-5dce7bbcc74d"
-        }, 
-        {
-            "attribute_key": "duyek", 
-            "mb_tag": "d\u00fcyek", 
-            "source": "http://musicbrainz.org/recording/0e905329-c066-4e65-8305-3697e48848bd"
-        }
-    ], 
+    "instrumentation_voicing": "duo instrumental", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "0e905329-c066-4e65-8305-3697e48848bd", 
+    "works": [
+        {
+            "mbid": "d0ef9845-a5e3-4f12-adce-5dce7bbcc74d", 
+            "title": "Ne Bo\u015f Yere Yanm\u0131\u015f\u0131m"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "hicaz_zirgule", 
@@ -68,11 +63,16 @@
             "name": "Ergin K\u0131z\u0131lay"
         }
     ], 
-    "instrumentation_voicing": "Duo instrumental", 
-    "works": [
+    "usul": [
         {
-            "mbid": "d0ef9845-a5e3-4f12-adce-5dce7bbcc74d", 
-            "title": "Ne Bo\u015f Yere Yanm\u0131\u015f\u0131m"
+            "attribute_key": "duyek", 
+            "mb_attribute": "D\u00fcyek", 
+            "source": "http://musicbrainz.org/work/d0ef9845-a5e3-4f12-adce-5dce7bbcc74d"
+        }, 
+        {
+            "attribute_key": "duyek", 
+            "mb_tag": "d\u00fcyek", 
+            "source": "http://musicbrainz.org/recording/0e905329-c066-4e65-8305-3697e48848bd"
         }
     ]
 }

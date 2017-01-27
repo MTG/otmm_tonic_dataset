@@ -1,5 +1,11 @@
 {
-    "instrumentation_voicing": "Duo instrumental", 
+    "usul": [
+        {
+            "attribute_key": "serbest", 
+            "mb_tag": "serbest", 
+            "source": "http://musicbrainz.org/recording/9521c36a-68bc-4126-ba71-21b214ed1222"
+        }
+    ], 
     "form": [
         {
             "attribute_key": "taksim", 
@@ -51,11 +57,5 @@
             "name": "Aleko Bacanos Efendi"
         }
     ], 
-    "usul": [
-        {
-            "attribute_key": "serbest", 
-            "mb_tag": "serbest", 
-            "source": "http://musicbrainz.org/recording/9521c36a-68bc-4126-ba71-21b214ed1222"
-        }
-    ]
+    "instrumentation_voicing": "duo instrumental"
 }

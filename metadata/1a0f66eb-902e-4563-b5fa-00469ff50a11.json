@@ -1,26 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "aksaksemai", 
-            "mb_attribute": "Aksaksemai", 
-            "source": "http://musicbrainz.org/work/112b1e7f-42a4-41f3-b641-699fce784a8a"
-        }, 
-        {
-            "attribute_key": "hafif", 
-            "mb_attribute": "Hafif", 
-            "source": "http://musicbrainz.org/work/651841c6-a0a4-41f2-9e45-c62c0c971475"
-        }, 
-        {
-            "attribute_key": "cifteduyek", 
-            "mb_tag": "\u00e7ifted\u00fcyek", 
-            "source": "http://musicbrainz.org/recording/1a0f66eb-902e-4563-b5fa-00469ff50a11"
-        }, 
-        {
-            "attribute_key": "aksaksemai", 
-            "mb_tag": "aksaksemai", 
-            "source": "http://musicbrainz.org/recording/1a0f66eb-902e-4563-b5fa-00469ff50a11"
-        }
-    ], 
+    "instrumentation_voicing": "duo instrumental", 
     "form": [
         {
             "attribute_key": "sazsemaisi", 
@@ -62,6 +41,16 @@
         }
     ], 
     "mbid": "1a0f66eb-902e-4563-b5fa-00469ff50a11", 
+    "works": [
+        {
+            "mbid": "112b1e7f-42a4-41f3-b641-699fce784a8a", 
+            "title": "Beyati Sazsemaisi"
+        }, 
+        {
+            "mbid": "651841c6-a0a4-41f2-9e45-c62c0c971475", 
+            "title": "U\u015f\u015fak Pe\u015frev"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "beyati", 
@@ -102,15 +91,26 @@
             "name": "Necdet Ya\u015far"
         }
     ], 
-    "instrumentation_voicing": "Duo instrumental", 
-    "works": [
+    "usul": [
         {
-            "mbid": "112b1e7f-42a4-41f3-b641-699fce784a8a", 
-            "title": "Beyati Sazsemaisi"
+            "attribute_key": "aksaksemai", 
+            "mb_attribute": "Aksaksemai", 
+            "source": "http://musicbrainz.org/work/112b1e7f-42a4-41f3-b641-699fce784a8a"
         }, 
         {
-            "mbid": "651841c6-a0a4-41f2-9e45-c62c0c971475", 
-            "title": "U\u015f\u015fak Pe\u015frev"
+            "attribute_key": "hafif", 
+            "mb_attribute": "Hafif", 
+            "source": "http://musicbrainz.org/work/651841c6-a0a4-41f2-9e45-c62c0c971475"
+        }, 
+        {
+            "attribute_key": "cifteduyek", 
+            "mb_tag": "\u00e7ifted\u00fcyek", 
+            "source": "http://musicbrainz.org/recording/1a0f66eb-902e-4563-b5fa-00469ff50a11"
+        }, 
+        {
+            "attribute_key": "aksaksemai", 
+            "mb_tag": "aksaksemai", 
+            "source": "http://musicbrainz.org/recording/1a0f66eb-902e-4563-b5fa-00469ff50a11"
         }
     ]
 }

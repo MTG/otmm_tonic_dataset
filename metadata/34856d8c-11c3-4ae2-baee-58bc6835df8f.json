@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "aksak", 
-            "mb_attribute": "Aksak", 
-            "source": "http://musicbrainz.org/work/ac32b548-e42e-4b40-90b6-ea1ea751844e"
-        }, 
-        {
-            "attribute_key": "aksak", 
-            "mb_tag": "aksak", 
-            "source": "http://musicbrainz.org/recording/34856d8c-11c3-4ae2-baee-58bc6835df8f"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal without accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "34856d8c-11c3-4ae2-baee-58bc6835df8f", 
+    "works": [
+        {
+            "mbid": "ac32b548-e42e-4b40-90b6-ea1ea751844e", 
+            "title": "Bir G\u00f6n\u00fclde \u0130ki Sevda Olamaz"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "mahur", 
@@ -57,11 +52,16 @@
             "name": "Haf\u0131z Burhan Sesy\u0131lmaz"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal without accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "ac32b548-e42e-4b40-90b6-ea1ea751844e", 
-            "title": "Bir G\u00f6n\u00fclde \u0130ki Sevda Olamaz"
+            "attribute_key": "aksak", 
+            "mb_attribute": "Aksak", 
+            "source": "http://musicbrainz.org/work/ac32b548-e42e-4b40-90b6-ea1ea751844e"
+        }, 
+        {
+            "attribute_key": "aksak", 
+            "mb_tag": "aksak", 
+            "source": "http://musicbrainz.org/recording/34856d8c-11c3-4ae2-baee-58bc6835df8f"
         }
     ]
 }

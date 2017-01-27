@@ -1,5 +1,5 @@
 {
-    "usul": [], 
+    "instrumentation_voicing": "ensemble instrumental", 
     "form": [
         {
             "attribute_key": "pesrev", 
@@ -27,6 +27,12 @@
         }
     ], 
     "mbid": "181c15a6-8173-4546-a4f7-c040a70cce7f", 
+    "works": [
+        {
+            "mbid": "edcf4b1a-3a60-4cc3-b2a7-a95a5c339f0d", 
+            "title": "Bayati Saat Pe\u015frevi"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "beyati", 
@@ -94,11 +100,5 @@
             "name": "Yurdal Tokcan"
         }
     ], 
-    "instrumentation_voicing": "Ensemble instrumental", 
-    "works": [
-        {
-            "mbid": "edcf4b1a-3a60-4cc3-b2a7-a95a5c339f0d", 
-            "title": "Bayati Saat Pe\u015frevi"
-        }
-    ]
+    "usul": []
 }

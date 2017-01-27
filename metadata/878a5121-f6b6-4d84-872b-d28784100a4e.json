@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "zencir", 
-            "mb_attribute": "Zencir", 
-            "source": "http://musicbrainz.org/work/4c93fd7b-c44f-43cc-be95-cd02dd4f9c46"
-        }, 
-        {
-            "attribute_key": "zencir", 
-            "mb_tag": "zencir", 
-            "source": "http://musicbrainz.org/recording/878a5121-f6b6-4d84-872b-d28784100a4e"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "beste", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "878a5121-f6b6-4d84-872b-d28784100a4e", 
+    "works": [
+        {
+            "mbid": "4c93fd7b-c44f-43cc-be95-cd02dd4f9c46", 
+            "title": "Hemi\u015fe Dilde S\u00fchan"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "sazkar", 
@@ -62,11 +57,16 @@
             "name": "Bekir S\u0131dk\u0131 Sezgin"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "4c93fd7b-c44f-43cc-be95-cd02dd4f9c46", 
-            "title": "Hemi\u015fe Dilde S\u00fchan"
+            "attribute_key": "zencir", 
+            "mb_attribute": "Zencir", 
+            "source": "http://musicbrainz.org/work/4c93fd7b-c44f-43cc-be95-cd02dd4f9c46"
+        }, 
+        {
+            "attribute_key": "zencir", 
+            "mb_tag": "zencir", 
+            "source": "http://musicbrainz.org/recording/878a5121-f6b6-4d84-872b-d28784100a4e"
         }
     ]
 }

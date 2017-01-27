@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "aksak", 
-            "mb_attribute": "Aksak", 
-            "source": "http://musicbrainz.org/work/ccd2cb76-b4f0-4033-9431-5dde0953d72c"
-        }, 
-        {
-            "attribute_key": "aksak", 
-            "mb_tag": "aksak", 
-            "source": "http://musicbrainz.org/recording/d662aa63-7002-4c01-af47-b302a0c94e69"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal without accompaniment", 
     "form": [
         {
             "attribute_key": "zeybek", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "d662aa63-7002-4c01-af47-b302a0c94e69", 
+    "works": [
+        {
+            "mbid": "ccd2cb76-b4f0-4033-9431-5dde0953d72c", 
+            "title": "Sar\u0131 Zeybek"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "muhayyer", 
@@ -65,11 +60,16 @@
             "name": "Mesut Cemil Bey"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal without accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "ccd2cb76-b4f0-4033-9431-5dde0953d72c", 
-            "title": "Sar\u0131 Zeybek"
+            "attribute_key": "aksak", 
+            "mb_attribute": "Aksak", 
+            "source": "http://musicbrainz.org/work/ccd2cb76-b4f0-4033-9431-5dde0953d72c"
+        }, 
+        {
+            "attribute_key": "aksak", 
+            "mb_tag": "aksak", 
+            "source": "http://musicbrainz.org/recording/d662aa63-7002-4c01-af47-b302a0c94e69"
         }
     ]
 }

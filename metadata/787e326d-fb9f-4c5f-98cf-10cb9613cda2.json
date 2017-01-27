@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "hafif", 
-            "mb_attribute": "Hafif", 
-            "source": "http://musicbrainz.org/work/f1fd86a8-f3ff-4daf-83c2-2e0b7d9b269f"
-        }, 
-        {
-            "attribute_key": "hafif", 
-            "mb_tag": "hafif", 
-            "source": "http://musicbrainz.org/recording/787e326d-fb9f-4c5f-98cf-10cb9613cda2"
-        }
-    ], 
+    "instrumentation_voicing": "solo instrumental", 
     "form": [
         {
             "attribute_key": "pesrev", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "787e326d-fb9f-4c5f-98cf-10cb9613cda2", 
+    "works": [
+        {
+            "mbid": "f1fd86a8-f3ff-4daf-83c2-2e0b7d9b269f", 
+            "title": "Neveser Pe\u015frev"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "neveser", 
@@ -60,11 +55,16 @@
             "name": "Fahrettin \u00c7imenli"
         }
     ], 
-    "instrumentation_voicing": "Solo instrumental", 
-    "works": [
+    "usul": [
         {
-            "mbid": "f1fd86a8-f3ff-4daf-83c2-2e0b7d9b269f", 
-            "title": "Neveser Pe\u015frev"
+            "attribute_key": "hafif", 
+            "mb_attribute": "Hafif", 
+            "source": "http://musicbrainz.org/work/f1fd86a8-f3ff-4daf-83c2-2e0b7d9b269f"
+        }, 
+        {
+            "attribute_key": "hafif", 
+            "mb_tag": "hafif", 
+            "source": "http://musicbrainz.org/recording/787e326d-fb9f-4c5f-98cf-10cb9613cda2"
         }
     ]
 }

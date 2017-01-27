@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "fahte", 
-            "mb_attribute": "Fahte", 
-            "source": "http://musicbrainz.org/work/73d696bf-5fe2-4d6f-a459-90bf54533a2d"
-        }, 
-        {
-            "attribute_key": "fahte", 
-            "mb_tag": "fahte", 
-            "source": "http://musicbrainz.org/recording/8d782ecc-4bd2-41fc-bd45-2159204afc18"
-        }
-    ], 
+    "instrumentation_voicing": "choir", 
     "form": [
         {
             "attribute_key": "pesrev", 
@@ -62,6 +51,12 @@
         }
     ], 
     "mbid": "8d782ecc-4bd2-41fc-bd45-2159204afc18", 
+    "works": [
+        {
+            "mbid": "73d696bf-5fe2-4d6f-a459-90bf54533a2d", 
+            "title": "Neva Pe\u015frev"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "neva", 
@@ -125,11 +120,16 @@
             "name": "Do\u011fan Dikmen"
         }
     ], 
-    "instrumentation_voicing": "Choir", 
-    "works": [
+    "usul": [
         {
-            "mbid": "73d696bf-5fe2-4d6f-a459-90bf54533a2d", 
-            "title": "Neva Pe\u015frev"
+            "attribute_key": "fahte", 
+            "mb_attribute": "Fahte", 
+            "source": "http://musicbrainz.org/work/73d696bf-5fe2-4d6f-a459-90bf54533a2d"
+        }, 
+        {
+            "attribute_key": "fahte", 
+            "mb_tag": "fahte", 
+            "source": "http://musicbrainz.org/recording/8d782ecc-4bd2-41fc-bd45-2159204afc18"
         }
     ]
 }

@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "senginsemai", 
-            "mb_attribute": "Senginsemai", 
-            "source": "http://musicbrainz.org/work/8aa71cd6-f0de-4c95-921d-9816024e4ee4"
-        }, 
-        {
-            "attribute_key": "senginsemai", 
-            "mb_tag": "senginsemai", 
-            "source": "http://musicbrainz.org/recording/1eb96121-80c7-41d7-a5a8-312919287c39"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "1eb96121-80c7-41d7-a5a8-312919287c39", 
+    "works": [
+        {
+            "mbid": "8aa71cd6-f0de-4c95-921d-9816024e4ee4", 
+            "title": "G\u00f6nl\u00fcm Nice Bir Senden Uzak G\u00fcnleri Says\u0131n"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "huzzam", 
@@ -62,11 +57,16 @@
             "name": "Bekir S\u0131dk\u0131 Sezgin"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "8aa71cd6-f0de-4c95-921d-9816024e4ee4", 
-            "title": "G\u00f6nl\u00fcm Nice Bir Senden Uzak G\u00fcnleri Says\u0131n"
+            "attribute_key": "senginsemai", 
+            "mb_attribute": "Senginsemai", 
+            "source": "http://musicbrainz.org/work/8aa71cd6-f0de-4c95-921d-9816024e4ee4"
+        }, 
+        {
+            "attribute_key": "senginsemai", 
+            "mb_tag": "senginsemai", 
+            "source": "http://musicbrainz.org/recording/1eb96121-80c7-41d7-a5a8-312919287c39"
         }
     ]
 }

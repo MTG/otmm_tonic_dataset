@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "duyek", 
-            "mb_attribute": "D\u00fcyek", 
-            "source": "http://musicbrainz.org/work/e84fb61a-3e07-4729-b4fa-c03e1d5a6252"
-        }, 
-        {
-            "attribute_key": "duyek", 
-            "mb_tag": "d\u00fcyek", 
-            "source": "http://musicbrainz.org/recording/b46414d4-36d7-48db-b099-b6037d42c4ae"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "b46414d4-36d7-48db-b099-b6037d42c4ae", 
+    "works": [
+        {
+            "mbid": "e84fb61a-3e07-4729-b4fa-c03e1d5a6252", 
+            "title": "G\u00f6z\u00fcmde \u0130\u015fve N\u00fcmad\u0131r"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "beyati_araban", 
@@ -195,11 +190,16 @@
             "name": "Sedat G\u00fcndiyer"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "e84fb61a-3e07-4729-b4fa-c03e1d5a6252", 
-            "title": "G\u00f6z\u00fcmde \u0130\u015fve N\u00fcmad\u0131r"
+            "attribute_key": "duyek", 
+            "mb_attribute": "D\u00fcyek", 
+            "source": "http://musicbrainz.org/work/e84fb61a-3e07-4729-b4fa-c03e1d5a6252"
+        }, 
+        {
+            "attribute_key": "duyek", 
+            "mb_tag": "d\u00fcyek", 
+            "source": "http://musicbrainz.org/recording/b46414d4-36d7-48db-b099-b6037d42c4ae"
         }
     ]
 }

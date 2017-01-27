@@ -1,11 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "serbest", 
-            "mb_tag": "serbest", 
-            "source": "http://musicbrainz.org/recording/e4bc1d14-a243-428a-9846-2af40129d9f9"
-        }
-    ], 
+    "instrumentation_voicing": "ensemble instrumental", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -42,6 +36,12 @@
         }
     ], 
     "mbid": "e4bc1d14-a243-428a-9846-2af40129d9f9", 
+    "works": [
+        {
+            "mbid": "b73d9bfe-40a5-4157-aec9-06194d771c55", 
+            "title": "U\u015f\u015fak \u015eark\u0131"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "ussak", 
@@ -105,11 +105,11 @@
             "name": "U\u011fur I\u015f\u0131k"
         }
     ], 
-    "instrumentation_voicing": "Ensemble instrumental", 
-    "works": [
+    "usul": [
         {
-            "mbid": "b73d9bfe-40a5-4157-aec9-06194d771c55", 
-            "title": "U\u015f\u015fak \u015eark\u0131"
+            "attribute_key": "serbest", 
+            "mb_tag": "serbest", 
+            "source": "http://musicbrainz.org/recording/e4bc1d14-a243-428a-9846-2af40129d9f9"
         }
     ]
 }

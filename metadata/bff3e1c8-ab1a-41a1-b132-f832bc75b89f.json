@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "agiraksak", 
-            "mb_attribute": "A\u011f\u0131raksak", 
-            "source": "http://musicbrainz.org/work/66d797be-a11e-4143-be78-5357f2dbd510"
-        }, 
-        {
-            "attribute_key": "agiraksak", 
-            "mb_tag": "a\u011f\u0131raksak", 
-            "source": "http://musicbrainz.org/recording/bff3e1c8-ab1a-41a1-b132-f832bc75b89f"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "bff3e1c8-ab1a-41a1-b132-f832bc75b89f", 
+    "works": [
+        {
+            "mbid": "66d797be-a11e-4143-be78-5357f2dbd510", 
+            "title": "Ald\u0131 Elden G\u00fcl\u015feni Bad-\u0131 Hazan"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "evcara", 
@@ -62,11 +57,16 @@
             "name": "Bekir S\u0131dk\u0131 Sezgin"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "66d797be-a11e-4143-be78-5357f2dbd510", 
-            "title": "Ald\u0131 Elden G\u00fcl\u015feni Bad-\u0131 Hazan"
+            "attribute_key": "agiraksak", 
+            "mb_attribute": "A\u011f\u0131raksak", 
+            "source": "http://musicbrainz.org/work/66d797be-a11e-4143-be78-5357f2dbd510"
+        }, 
+        {
+            "attribute_key": "agiraksak", 
+            "mb_tag": "a\u011f\u0131raksak", 
+            "source": "http://musicbrainz.org/recording/bff3e1c8-ab1a-41a1-b132-f832bc75b89f"
         }
     ]
 }

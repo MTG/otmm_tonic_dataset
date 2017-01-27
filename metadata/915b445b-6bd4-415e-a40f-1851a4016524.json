@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "duyek", 
-            "mb_attribute": "D\u00fcyek", 
-            "source": "http://musicbrainz.org/work/ee38d5ba-b623-4c6c-882e-68e6be15582e"
-        }, 
-        {
-            "attribute_key": "duyek", 
-            "mb_tag": "d\u00fcyek", 
-            "source": "http://musicbrainz.org/recording/915b445b-6bd4-415e-a40f-1851a4016524"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal without accompaniment", 
     "form": [
         {
             "attribute_key": "turku", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "915b445b-6bd4-415e-a40f-1851a4016524", 
+    "works": [
+        {
+            "mbid": "ee38d5ba-b623-4c6c-882e-68e6be15582e", 
+            "title": "Memo"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "ussak", 
@@ -57,11 +52,16 @@
             "name": "M\u00fcnir Nurettin Sel\u00e7uk"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal without accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "ee38d5ba-b623-4c6c-882e-68e6be15582e", 
-            "title": "Memo"
+            "attribute_key": "duyek", 
+            "mb_attribute": "D\u00fcyek", 
+            "source": "http://musicbrainz.org/work/ee38d5ba-b623-4c6c-882e-68e6be15582e"
+        }, 
+        {
+            "attribute_key": "duyek", 
+            "mb_tag": "d\u00fcyek", 
+            "source": "http://musicbrainz.org/recording/915b445b-6bd4-415e-a40f-1851a4016524"
         }
     ]
 }

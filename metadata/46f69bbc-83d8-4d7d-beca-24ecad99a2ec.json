@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "yuruksemai", 
-            "mb_attribute": "Y\u00fcr\u00fcksemai", 
-            "source": "http://musicbrainz.org/work/9daf4031-a5ae-4b2b-8fe8-eb7d622cfe61"
-        }, 
-        {
-            "attribute_key": "yuruksemai", 
-            "mb_tag": "y\u00fcr\u00fcksemai", 
-            "source": "http://musicbrainz.org/recording/46f69bbc-83d8-4d7d-beca-24ecad99a2ec"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "yuruksemai", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "46f69bbc-83d8-4d7d-beca-24ecad99a2ec", 
+    "works": [
+        {
+            "mbid": "9daf4031-a5ae-4b2b-8fe8-eb7d622cfe61", 
+            "title": "Ab \u00fc Tabiyle Bu \u015eeb Haneme Canan Geliyor"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "suzidilara", 
@@ -62,11 +57,16 @@
             "name": "Bekir S\u0131dk\u0131 Sezgin"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "9daf4031-a5ae-4b2b-8fe8-eb7d622cfe61", 
-            "title": "Ab \u00fc Tabiyle Bu \u015eeb Haneme Canan Geliyor"
+            "attribute_key": "yuruksemai", 
+            "mb_attribute": "Y\u00fcr\u00fcksemai", 
+            "source": "http://musicbrainz.org/work/9daf4031-a5ae-4b2b-8fe8-eb7d622cfe61"
+        }, 
+        {
+            "attribute_key": "yuruksemai", 
+            "mb_tag": "y\u00fcr\u00fcksemai", 
+            "source": "http://musicbrainz.org/recording/46f69bbc-83d8-4d7d-beca-24ecad99a2ec"
         }
     ]
 }

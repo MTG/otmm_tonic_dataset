@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "zencir", 
-            "mb_attribute": "Zencir", 
-            "source": "http://musicbrainz.org/work/22edf197-f194-4100-a3f3-a9d0f0b2156f"
-        }, 
-        {
-            "attribute_key": "zencir", 
-            "mb_tag": "zencir", 
-            "source": "http://musicbrainz.org/recording/f363f343-725f-4314-8311-6dada86d1780"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "murabba", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "f363f343-725f-4314-8311-6dada86d1780", 
+    "works": [
+        {
+            "mbid": "22edf197-f194-4100-a3f3-a9d0f0b2156f", 
+            "title": "Piyaleler Ki O Ruhsar-\u0131 Ale Ter Getirir"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "neva", 
@@ -97,11 +92,16 @@
             "name": "Do\u011fan Dikmen"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "22edf197-f194-4100-a3f3-a9d0f0b2156f", 
-            "title": "Piyaleler Ki O Ruhsar-\u0131 Ale Ter Getirir"
+            "attribute_key": "zencir", 
+            "mb_attribute": "Zencir", 
+            "source": "http://musicbrainz.org/work/22edf197-f194-4100-a3f3-a9d0f0b2156f"
+        }, 
+        {
+            "attribute_key": "zencir", 
+            "mb_tag": "zencir", 
+            "source": "http://musicbrainz.org/recording/f363f343-725f-4314-8311-6dada86d1780"
         }
     ]
 }

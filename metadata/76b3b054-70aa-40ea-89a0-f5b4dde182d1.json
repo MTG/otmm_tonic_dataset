@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "yuruksemai", 
-            "mb_attribute": "Y\u00fcr\u00fcksemai", 
-            "source": "http://musicbrainz.org/work/fc359c13-6106-4b20-b782-4c7d635a62ad"
-        }, 
-        {
-            "attribute_key": "yuruksemai", 
-            "mb_tag": "y\u00fcr\u00fcksemai", 
-            "source": "http://musicbrainz.org/recording/76b3b054-70aa-40ea-89a0-f5b4dde182d1"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "76b3b054-70aa-40ea-89a0-f5b4dde182d1", 
+    "works": [
+        {
+            "mbid": "fc359c13-6106-4b20-b782-4c7d635a62ad", 
+            "title": "Bilmezdim \u00d6z\u00fcm Gamzene Meftun \u0130mi\u015fim Ben"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "nihavent", 
@@ -62,11 +57,16 @@
             "name": "Bekir S\u0131dk\u0131 Sezgin"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "fc359c13-6106-4b20-b782-4c7d635a62ad", 
-            "title": "Bilmezdim \u00d6z\u00fcm Gamzene Meftun \u0130mi\u015fim Ben"
+            "attribute_key": "yuruksemai", 
+            "mb_attribute": "Y\u00fcr\u00fcksemai", 
+            "source": "http://musicbrainz.org/work/fc359c13-6106-4b20-b782-4c7d635a62ad"
+        }, 
+        {
+            "attribute_key": "yuruksemai", 
+            "mb_tag": "y\u00fcr\u00fcksemai", 
+            "source": "http://musicbrainz.org/recording/76b3b054-70aa-40ea-89a0-f5b4dde182d1"
         }
     ]
 }

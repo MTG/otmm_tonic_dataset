@@ -1,5 +1,11 @@
 {
-    "instrumentation_voicing": "Trio instrumental", 
+    "usul": [
+        {
+            "attribute_key": "serbest", 
+            "mb_tag": "serbest", 
+            "source": "http://musicbrainz.org/recording/0700046f-3740-4804-9a7c-facdb4c8ccd5"
+        }
+    ], 
     "form": [
         {
             "attribute_key": "taksim", 
@@ -58,11 +64,5 @@
             "name": "Hasan Esen"
         }
     ], 
-    "usul": [
-        {
-            "attribute_key": "serbest", 
-            "mb_tag": "serbest", 
-            "source": "http://musicbrainz.org/recording/0700046f-3740-4804-9a7c-facdb4c8ccd5"
-        }
-    ]
+    "instrumentation_voicing": "trio instrumental"
 }

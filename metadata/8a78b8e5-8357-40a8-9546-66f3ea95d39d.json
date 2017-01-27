@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "aksak", 
-            "mb_attribute": "Aksak", 
-            "source": "http://musicbrainz.org/work/8d7350ad-f8d1-44c7-868f-cd6e22b4927f"
-        }, 
-        {
-            "attribute_key": "aksak", 
-            "mb_tag": "aksak", 
-            "source": "http://musicbrainz.org/recording/8a78b8e5-8357-40a8-9546-66f3ea95d39d"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "8a78b8e5-8357-40a8-9546-66f3ea95d39d", 
+    "works": [
+        {
+            "mbid": "8d7350ad-f8d1-44c7-868f-cd6e22b4927f", 
+            "title": "Sen Serv-i Naz\u0131n"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "ussak", 
@@ -62,11 +57,16 @@
             "name": "Bekir S\u0131dk\u0131 Sezgin"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "8d7350ad-f8d1-44c7-868f-cd6e22b4927f", 
-            "title": "Sen Serv-i Naz\u0131n"
+            "attribute_key": "aksak", 
+            "mb_attribute": "Aksak", 
+            "source": "http://musicbrainz.org/work/8d7350ad-f8d1-44c7-868f-cd6e22b4927f"
+        }, 
+        {
+            "attribute_key": "aksak", 
+            "mb_tag": "aksak", 
+            "source": "http://musicbrainz.org/recording/8a78b8e5-8357-40a8-9546-66f3ea95d39d"
         }
     ]
 }

@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "duyek", 
-            "mb_attribute": "D\u00fcyek", 
-            "source": "http://musicbrainz.org/work/1e012abb-6236-493b-a102-a6b0e37afe21"
-        }, 
-        {
-            "attribute_key": "duyek", 
-            "mb_tag": "d\u00fcyek", 
-            "source": "http://musicbrainz.org/recording/c9d88107-4c8f-45f0-823b-22205d5ed8ac"
-        }
-    ], 
+    "instrumentation_voicing": "ensemble instrumental", 
     "form": [
         {
             "attribute_key": "pesrev", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "c9d88107-4c8f-45f0-823b-22205d5ed8ac", 
+    "works": [
+        {
+            "mbid": "1e012abb-6236-493b-a102-a6b0e37afe21", 
+            "title": "Neva Pe\u015frev"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "neva", 
@@ -161,11 +156,16 @@
             "name": "\u00dcmit G\u00fcrelman"
         }
     ], 
-    "instrumentation_voicing": "Ensemble instrumental", 
-    "works": [
+    "usul": [
         {
-            "mbid": "1e012abb-6236-493b-a102-a6b0e37afe21", 
-            "title": "Neva Pe\u015frev"
+            "attribute_key": "duyek", 
+            "mb_attribute": "D\u00fcyek", 
+            "source": "http://musicbrainz.org/work/1e012abb-6236-493b-a102-a6b0e37afe21"
+        }, 
+        {
+            "attribute_key": "duyek", 
+            "mb_tag": "d\u00fcyek", 
+            "source": "http://musicbrainz.org/recording/c9d88107-4c8f-45f0-823b-22205d5ed8ac"
         }
     ]
 }

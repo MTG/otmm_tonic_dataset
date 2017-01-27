@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "aksak", 
-            "mb_attribute": "Aksak", 
-            "source": "http://musicbrainz.org/work/de395649-6132-41c4-96cf-824ccb707e7d"
-        }, 
-        {
-            "attribute_key": "aksak", 
-            "mb_tag": "aksak", 
-            "source": "http://musicbrainz.org/recording/f36261b0-2b0e-47dc-9477-91e555d41226"
-        }
-    ], 
+    "instrumentation_voicing": "ensemble instrumental", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "f36261b0-2b0e-47dc-9477-91e555d41226", 
+    "works": [
+        {
+            "mbid": "de395649-6132-41c4-96cf-824ccb707e7d", 
+            "title": "Alt\u0131n Tasta G\u00fcl Kuruttum Aman Ali'm"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "acemkurdi", 
@@ -108,11 +103,16 @@
             "name": "Safinaz Rizeli"
         }
     ], 
-    "instrumentation_voicing": "Ensemble instrumental", 
-    "works": [
+    "usul": [
         {
-            "mbid": "de395649-6132-41c4-96cf-824ccb707e7d", 
-            "title": "Alt\u0131n Tasta G\u00fcl Kuruttum Aman Ali'm"
+            "attribute_key": "aksak", 
+            "mb_attribute": "Aksak", 
+            "source": "http://musicbrainz.org/work/de395649-6132-41c4-96cf-824ccb707e7d"
+        }, 
+        {
+            "attribute_key": "aksak", 
+            "mb_tag": "aksak", 
+            "source": "http://musicbrainz.org/recording/f36261b0-2b0e-47dc-9477-91e555d41226"
         }
     ]
 }

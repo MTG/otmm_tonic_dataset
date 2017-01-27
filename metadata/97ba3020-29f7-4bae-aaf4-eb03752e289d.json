@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "sofyan", 
-            "mb_attribute": "Sofyan", 
-            "source": "http://musicbrainz.org/work/2858830d-3333-4d43-8ae7-ce282d31a1c3"
-        }, 
-        {
-            "attribute_key": "sofyan", 
-            "mb_tag": "sofyan", 
-            "source": "http://musicbrainz.org/recording/97ba3020-29f7-4bae-aaf4-eb03752e289d"
-        }
-    ], 
+    "instrumentation_voicing": "choir", 
     "form": [
         {
             "attribute_key": "tesbih", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "97ba3020-29f7-4bae-aaf4-eb03752e289d", 
+    "works": [
+        {
+            "mbid": "2858830d-3333-4d43-8ae7-ce282d31a1c3", 
+            "title": "Ya Allah Ya Rahman"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "saba", 
@@ -258,11 +253,16 @@
             "name": "Eray Mescio\u011flu"
         }
     ], 
-    "instrumentation_voicing": "Choir", 
-    "works": [
+    "usul": [
         {
-            "mbid": "2858830d-3333-4d43-8ae7-ce282d31a1c3", 
-            "title": "Ya Allah Ya Rahman"
+            "attribute_key": "sofyan", 
+            "mb_attribute": "Sofyan", 
+            "source": "http://musicbrainz.org/work/2858830d-3333-4d43-8ae7-ce282d31a1c3"
+        }, 
+        {
+            "attribute_key": "sofyan", 
+            "mb_tag": "sofyan", 
+            "source": "http://musicbrainz.org/recording/97ba3020-29f7-4bae-aaf4-eb03752e289d"
         }
     ]
 }

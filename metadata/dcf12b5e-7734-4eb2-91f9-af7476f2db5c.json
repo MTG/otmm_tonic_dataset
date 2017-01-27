@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "devrirevan", 
-            "mb_attribute": "Devr-i Revan", 
-            "source": "http://musicbrainz.org/work/3476df12-cbff-4901-8464-f946bb63b501"
-        }, 
-        {
-            "attribute_key": "devrirevan", 
-            "mb_tag": "devr-i revan", 
-            "source": "http://musicbrainz.org/recording/dcf12b5e-7734-4eb2-91f9-af7476f2db5c"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal without accompaniment", 
     "form": [
         {
             "attribute_key": "ilahi", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "dcf12b5e-7734-4eb2-91f9-af7476f2db5c", 
+    "works": [
+        {
+            "mbid": "3476df12-cbff-4901-8464-f946bb63b501", 
+            "title": "Ba\u011f-\u0131 A\u015fk\u0131n"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "beyati", 
@@ -57,11 +52,16 @@
             "name": "Cinu\u00e7en Tanr\u0131korur"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal without accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "3476df12-cbff-4901-8464-f946bb63b501", 
-            "title": "Ba\u011f-\u0131 A\u015fk\u0131n"
+            "attribute_key": "devrirevan", 
+            "mb_attribute": "Devr-i Revan", 
+            "source": "http://musicbrainz.org/work/3476df12-cbff-4901-8464-f946bb63b501"
+        }, 
+        {
+            "attribute_key": "devrirevan", 
+            "mb_tag": "devr-i revan", 
+            "source": "http://musicbrainz.org/recording/dcf12b5e-7734-4eb2-91f9-af7476f2db5c"
         }
     ]
 }

@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "aksaksemai", 
-            "mb_attribute": "Aksaksemai", 
-            "source": "http://musicbrainz.org/work/9b80d9db-c8b2-49f1-ac0b-35bea81dc58a"
-        }, 
-        {
-            "attribute_key": "aksaksemai", 
-            "mb_tag": "aksaksemai", 
-            "source": "http://musicbrainz.org/recording/a19146b5-fd99-49f5-8388-9737ab8ee142"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "agirsemai", 
@@ -54,6 +43,12 @@
         }
     ], 
     "mbid": "a19146b5-fd99-49f5-8388-9737ab8ee142", 
+    "works": [
+        {
+            "mbid": "9b80d9db-c8b2-49f1-ac0b-35bea81dc58a", 
+            "title": "Kalmaz Karar\u0131m"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "saba", 
@@ -106,11 +101,16 @@
             "name": "Sava\u015f \u015e. Bark\u00e7in"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "9b80d9db-c8b2-49f1-ac0b-35bea81dc58a", 
-            "title": "Kalmaz Karar\u0131m"
+            "attribute_key": "aksaksemai", 
+            "mb_attribute": "Aksaksemai", 
+            "source": "http://musicbrainz.org/work/9b80d9db-c8b2-49f1-ac0b-35bea81dc58a"
+        }, 
+        {
+            "attribute_key": "aksaksemai", 
+            "mb_tag": "aksaksemai", 
+            "source": "http://musicbrainz.org/recording/a19146b5-fd99-49f5-8388-9737ab8ee142"
         }
     ]
 }

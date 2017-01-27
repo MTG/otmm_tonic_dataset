@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "semai", 
-            "mb_attribute": "Semai", 
-            "source": "http://musicbrainz.org/work/9b59b8cb-7dde-4c63-8db1-a64178516aea"
-        }, 
-        {
-            "attribute_key": "semai", 
-            "mb_tag": "semai", 
-            "source": "http://musicbrainz.org/recording/8956dc84-ce4f-4bba-8826-d284876d21b6"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal without accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "8956dc84-ce4f-4bba-8826-d284876d21b6", 
+    "works": [
+        {
+            "mbid": "9b59b8cb-7dde-4c63-8db1-a64178516aea", 
+            "title": "\u015eark\u0131m\u0131 Senin \u0130\u00e7in Yazd\u0131\u011f\u0131m\u0131"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "mahur", 
@@ -57,11 +52,16 @@
             "name": "Burhan Dikencik"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal without accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "9b59b8cb-7dde-4c63-8db1-a64178516aea", 
-            "title": "\u015eark\u0131m\u0131 Senin \u0130\u00e7in Yazd\u0131\u011f\u0131m\u0131"
+            "attribute_key": "semai", 
+            "mb_attribute": "Semai", 
+            "source": "http://musicbrainz.org/work/9b59b8cb-7dde-4c63-8db1-a64178516aea"
+        }, 
+        {
+            "attribute_key": "semai", 
+            "mb_tag": "semai", 
+            "source": "http://musicbrainz.org/recording/8956dc84-ce4f-4bba-8826-d284876d21b6"
         }
     ]
 }

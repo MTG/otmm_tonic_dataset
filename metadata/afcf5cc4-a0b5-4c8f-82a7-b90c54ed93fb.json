@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "turkaksagi", 
-            "mb_attribute": "T\u00fcrkaksa\u011f\u0131", 
-            "source": "http://musicbrainz.org/work/a7c6cc83-cb0c-4ded-8812-3b580ae7c9b6"
-        }, 
-        {
-            "attribute_key": "turkaksagi_ii", 
-            "mb_tag": "t\u00fcrkaksa\u011f\u0131", 
-            "source": "http://musicbrainz.org/recording/afcf5cc4-a0b5-4c8f-82a7-b90c54ed93fb"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "afcf5cc4-a0b5-4c8f-82a7-b90c54ed93fb", 
+    "works": [
+        {
+            "mbid": "a7c6cc83-cb0c-4ded-8812-3b580ae7c9b6", 
+            "title": "Sevdas\u0131 Hen\u00fcz Sinede G\u00f6yn\u00fcm Gibi Sa\u011fd\u0131"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "huzzam", 
@@ -65,11 +60,16 @@
             "name": "Safiye Ayla"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "a7c6cc83-cb0c-4ded-8812-3b580ae7c9b6", 
-            "title": "Sevdas\u0131 Hen\u00fcz Sinede G\u00f6yn\u00fcm Gibi Sa\u011fd\u0131"
+            "attribute_key": "turkaksagi", 
+            "mb_attribute": "T\u00fcrkaksa\u011f\u0131", 
+            "source": "http://musicbrainz.org/work/a7c6cc83-cb0c-4ded-8812-3b580ae7c9b6"
+        }, 
+        {
+            "attribute_key": "turkaksagi_ii", 
+            "mb_tag": "t\u00fcrkaksa\u011f\u0131", 
+            "source": "http://musicbrainz.org/recording/afcf5cc4-a0b5-4c8f-82a7-b90c54ed93fb"
         }
     ]
 }

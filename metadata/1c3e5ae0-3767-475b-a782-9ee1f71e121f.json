@@ -1,5 +1,5 @@
 {
-    "usul": [], 
+    "instrumentation_voicing": "solo instrumental", 
     "form": [
         {
             "attribute_key": "sazsemaisi", 
@@ -27,6 +27,12 @@
         }
     ], 
     "mbid": "1c3e5ae0-3767-475b-a782-9ee1f71e121f", 
+    "works": [
+        {
+            "mbid": "6ae39b1b-488c-4cb9-ab0f-f3752414a013", 
+            "title": "Rast Sazsemaisi"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "rast", 
@@ -49,11 +55,5 @@
             "name": "Salih Bilgin"
         }
     ], 
-    "instrumentation_voicing": "Solo instrumental", 
-    "works": [
-        {
-            "mbid": "6ae39b1b-488c-4cb9-ab0f-f3752414a013", 
-            "title": "Rast Sazsemaisi"
-        }
-    ]
+    "usul": []
 }

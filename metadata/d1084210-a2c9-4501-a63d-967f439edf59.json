@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "yuruksemai_ii", 
-            "mb_attribute": "Y\u00fcr\u00fcksemai II", 
-            "source": "http://musicbrainz.org/work/319ce4e7-a196-42a6-ba19-89aa800a76d9"
-        }, 
-        {
-            "attribute_key": "yuruksemai", 
-            "mb_tag": "y\u00fcr\u00fcksemai", 
-            "source": "http://musicbrainz.org/recording/d1084210-a2c9-4501-a63d-967f439edf59"
-        }
-    ], 
+    "instrumentation_voicing": "choir", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "d1084210-a2c9-4501-a63d-967f439edf59", 
+    "works": [
+        {
+            "mbid": "319ce4e7-a196-42a6-ba19-89aa800a76d9", 
+            "title": "Yine Ba\u011fland\u0131 Dil Bir Nev Nihale"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "neva", 
@@ -104,11 +99,16 @@
             "name": "Murat Salim Toka\u00e7"
         }
     ], 
-    "instrumentation_voicing": "Choir", 
-    "works": [
+    "usul": [
         {
-            "mbid": "319ce4e7-a196-42a6-ba19-89aa800a76d9", 
-            "title": "Yine Ba\u011fland\u0131 Dil Bir Nev Nihale"
+            "attribute_key": "yuruksemai_ii", 
+            "mb_attribute": "Y\u00fcr\u00fcksemai II", 
+            "source": "http://musicbrainz.org/work/319ce4e7-a196-42a6-ba19-89aa800a76d9"
+        }, 
+        {
+            "attribute_key": "yuruksemai", 
+            "mb_tag": "y\u00fcr\u00fcksemai", 
+            "source": "http://musicbrainz.org/recording/d1084210-a2c9-4501-a63d-967f439edf59"
         }
     ]
 }

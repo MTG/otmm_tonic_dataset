@@ -1,5 +1,11 @@
 {
-    "instrumentation_voicing": "Ensemble instrumental", 
+    "usul": [
+        {
+            "attribute_key": "serbest", 
+            "mb_tag": "serbest", 
+            "source": "http://musicbrainz.org/recording/4a906111-280f-4098-8eab-64300d0382b1"
+        }
+    ], 
     "form": [
         {
             "attribute_key": "taksim", 
@@ -95,11 +101,5 @@
             "name": "Osman Nuri \u00d6zpekel"
         }
     ], 
-    "usul": [
-        {
-            "attribute_key": "serbest", 
-            "mb_tag": "serbest", 
-            "source": "http://musicbrainz.org/recording/4a906111-280f-4098-8eab-64300d0382b1"
-        }
-    ]
+    "instrumentation_voicing": "ensemble instrumental"
 }

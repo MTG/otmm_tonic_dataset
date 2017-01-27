@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "duyek", 
-            "mb_attribute": "D\u00fcyek", 
-            "source": "http://musicbrainz.org/work/92919a17-cfa1-4b46-8978-530f234f4df6"
-        }, 
-        {
-            "attribute_key": "duyek", 
-            "mb_tag": "d\u00fcyek", 
-            "source": "http://musicbrainz.org/recording/61a6e9f5-c98f-4bb0-a5bc-c06dfc4809e0"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -42,6 +31,12 @@
         }
     ], 
     "mbid": "61a6e9f5-c98f-4bb0-a5bc-c06dfc4809e0", 
+    "works": [
+        {
+            "mbid": "92919a17-cfa1-4b46-8978-530f234f4df6", 
+            "title": "A\u015fk Nedir Nas\u0131ld\u0131r Bilen Var M\u0131"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "nihavent", 
@@ -66,11 +61,16 @@
             "name": "Mediha \u015een Sancako\u011flu"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "92919a17-cfa1-4b46-8978-530f234f4df6", 
-            "title": "A\u015fk Nedir Nas\u0131ld\u0131r Bilen Var M\u0131"
+            "attribute_key": "duyek", 
+            "mb_attribute": "D\u00fcyek", 
+            "source": "http://musicbrainz.org/work/92919a17-cfa1-4b46-8978-530f234f4df6"
+        }, 
+        {
+            "attribute_key": "duyek", 
+            "mb_tag": "d\u00fcyek", 
+            "source": "http://musicbrainz.org/recording/61a6e9f5-c98f-4bb0-a5bc-c06dfc4809e0"
         }
     ]
 }

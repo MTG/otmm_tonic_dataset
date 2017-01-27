@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "devrikebir", 
-            "mb_attribute": "Devr-i Kebir", 
-            "source": "http://musicbrainz.org/work/01412a5d-1858-43b3-b5b0-78f383675e9b"
-        }, 
-        {
-            "attribute_key": "devrikebir", 
-            "mb_tag": "devrikebir", 
-            "source": "http://musicbrainz.org/recording/28e05732-8a5c-4f57-ac66-42dcd8f16779"
-        }
-    ], 
+    "instrumentation_voicing": "solo instrumental", 
     "form": [
         {
             "attribute_key": "pesrev", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "28e05732-8a5c-4f57-ac66-42dcd8f16779", 
+    "works": [
+        {
+            "mbid": "01412a5d-1858-43b3-b5b0-78f383675e9b", 
+            "title": "Acema\u015firan Pe\u015frev"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "acemasiran", 
@@ -61,11 +56,16 @@
             "name": "Sadrettin \u00d6z\u00e7imi"
         }
     ], 
-    "instrumentation_voicing": "Solo instrumental", 
-    "works": [
+    "usul": [
         {
-            "mbid": "01412a5d-1858-43b3-b5b0-78f383675e9b", 
-            "title": "Acema\u015firan Pe\u015frev"
+            "attribute_key": "devrikebir", 
+            "mb_attribute": "Devr-i Kebir", 
+            "source": "http://musicbrainz.org/work/01412a5d-1858-43b3-b5b0-78f383675e9b"
+        }, 
+        {
+            "attribute_key": "devrikebir", 
+            "mb_tag": "devrikebir", 
+            "source": "http://musicbrainz.org/recording/28e05732-8a5c-4f57-ac66-42dcd8f16779"
         }
     ]
 }

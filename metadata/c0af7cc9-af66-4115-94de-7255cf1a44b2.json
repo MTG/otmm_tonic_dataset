@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "aksaksemai", 
-            "mb_attribute": "Aksaksemai", 
-            "source": "http://musicbrainz.org/work/ecf1b766-6d29-4d13-9fc8-4c02c38d4263"
-        }, 
-        {
-            "attribute_key": "aksaksemai", 
-            "mb_tag": "aksaksemai", 
-            "source": "http://musicbrainz.org/recording/c0af7cc9-af66-4115-94de-7255cf1a44b2"
-        }
-    ], 
+    "instrumentation_voicing": "trio instrumental", 
     "form": [
         {
             "attribute_key": "sazsemaisi", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "c0af7cc9-af66-4115-94de-7255cf1a44b2", 
+    "works": [
+        {
+            "mbid": "ecf1b766-6d29-4d13-9fc8-4c02c38d4263", 
+            "title": "Sultaniyegah Sazsemaisi"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "sultaniyegah", 
@@ -76,11 +71,16 @@
             "name": "Murat Aydemir"
         }
     ], 
-    "instrumentation_voicing": "Trio instrumental", 
-    "works": [
+    "usul": [
         {
-            "mbid": "ecf1b766-6d29-4d13-9fc8-4c02c38d4263", 
-            "title": "Sultaniyegah Sazsemaisi"
+            "attribute_key": "aksaksemai", 
+            "mb_attribute": "Aksaksemai", 
+            "source": "http://musicbrainz.org/work/ecf1b766-6d29-4d13-9fc8-4c02c38d4263"
+        }, 
+        {
+            "attribute_key": "aksaksemai", 
+            "mb_tag": "aksaksemai", 
+            "source": "http://musicbrainz.org/recording/c0af7cc9-af66-4115-94de-7255cf1a44b2"
         }
     ]
 }

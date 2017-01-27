@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "aksaksemai", 
-            "mb_attribute": "Aksaksemai", 
-            "source": "http://musicbrainz.org/work/a4188c4a-8c7f-4889-b838-d6443aef68dc"
-        }, 
-        {
-            "attribute_key": "aksaksemai", 
-            "mb_tag": "aksaksemai", 
-            "source": "http://musicbrainz.org/recording/421e4083-4ed7-4cbd-84e2-1d3ed43c7494"
-        }
-    ], 
+    "instrumentation_voicing": "ensemble instrumental", 
     "form": [
         {
             "attribute_key": "sazsemaisi", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "421e4083-4ed7-4cbd-84e2-1d3ed43c7494", 
+    "works": [
+        {
+            "mbid": "a4188c4a-8c7f-4889-b838-d6443aef68dc", 
+            "title": "Karc\u0131\u011far Sazsemaisi"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "karcigar", 
@@ -57,11 +52,16 @@
             "name": "Kudsi Erguner Ensemble"
         }
     ], 
-    "instrumentation_voicing": "Ensemble instrumental", 
-    "works": [
+    "usul": [
         {
-            "mbid": "a4188c4a-8c7f-4889-b838-d6443aef68dc", 
-            "title": "Karc\u0131\u011far Sazsemaisi"
+            "attribute_key": "aksaksemai", 
+            "mb_attribute": "Aksaksemai", 
+            "source": "http://musicbrainz.org/work/a4188c4a-8c7f-4889-b838-d6443aef68dc"
+        }, 
+        {
+            "attribute_key": "aksaksemai", 
+            "mb_tag": "aksaksemai", 
+            "source": "http://musicbrainz.org/recording/421e4083-4ed7-4cbd-84e2-1d3ed43c7494"
         }
     ]
 }

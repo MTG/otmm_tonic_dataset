@@ -1,5 +1,5 @@
 {
-    "usul": [], 
+    "instrumentation_voicing": "solo instrumental", 
     "form": [
         {
             "attribute_key": "pesrev", 
@@ -27,6 +27,12 @@
         }
     ], 
     "mbid": "152a35e0-5a36-43a1-81ca-bad4464f6a09", 
+    "works": [
+        {
+            "mbid": "3524bd9b-4ab7-46cd-b781-0121c8c6c7a4", 
+            "title": "Suzinak Pe\u015frev"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "suzinak", 
@@ -49,11 +55,5 @@
             "name": "Salih Bilgin"
         }
     ], 
-    "instrumentation_voicing": "Solo instrumental", 
-    "works": [
-        {
-            "mbid": "3524bd9b-4ab7-46cd-b781-0121c8c6c7a4", 
-            "title": "Suzinak Pe\u015frev"
-        }
-    ]
+    "usul": []
 }

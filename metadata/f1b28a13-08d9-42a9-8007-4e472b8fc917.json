@@ -1,11 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "semai", 
-            "mb_attribute": "Semai", 
-            "source": "http://musicbrainz.org/work/b49e4be7-ca10-4e34-a299-31be45599d9f"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "seyir", 
@@ -44,6 +38,12 @@
         }
     ], 
     "mbid": "f1b28a13-08d9-42a9-8007-4e472b8fc917", 
+    "works": [
+        {
+            "mbid": "b49e4be7-ca10-4e34-a299-31be45599d9f", 
+            "title": "Hicaz Terenn\u00fcm"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "hicaz", 
@@ -96,11 +96,11 @@
             "name": "Sava\u015f \u015e. Bark\u00e7in"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "b49e4be7-ca10-4e34-a299-31be45599d9f", 
-            "title": "Hicaz Terenn\u00fcm"
+            "attribute_key": "semai", 
+            "mb_attribute": "Semai", 
+            "source": "http://musicbrainz.org/work/b49e4be7-ca10-4e34-a299-31be45599d9f"
         }
     ]
 }

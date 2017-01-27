@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "yuruksemai", 
-            "mb_attribute": "Y\u00fcr\u00fcksemai", 
-            "source": "http://musicbrainz.org/work/f4f86cd3-a2d0-4cd3-9039-24ab93d7545e"
-        }, 
-        {
-            "attribute_key": "yuruksemai", 
-            "mb_tag": "y\u00fcr\u00fcksemai", 
-            "source": "http://musicbrainz.org/recording/b724ddb5-2fc7-4108-972f-764f8c850d30"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "b724ddb5-2fc7-4108-972f-764f8c850d30", 
+    "works": [
+        {
+            "mbid": "f4f86cd3-a2d0-4cd3-9039-24ab93d7545e", 
+            "title": "H\u00fcsn Alemini Tuttu"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "suzinak_zirgule", 
@@ -62,11 +57,16 @@
             "name": "Bekir S\u0131dk\u0131 Sezgin"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "f4f86cd3-a2d0-4cd3-9039-24ab93d7545e", 
-            "title": "H\u00fcsn Alemini Tuttu"
+            "attribute_key": "yuruksemai", 
+            "mb_attribute": "Y\u00fcr\u00fcksemai", 
+            "source": "http://musicbrainz.org/work/f4f86cd3-a2d0-4cd3-9039-24ab93d7545e"
+        }, 
+        {
+            "attribute_key": "yuruksemai", 
+            "mb_tag": "y\u00fcr\u00fcksemai", 
+            "source": "http://musicbrainz.org/recording/b724ddb5-2fc7-4108-972f-764f8c850d30"
         }
     ]
 }

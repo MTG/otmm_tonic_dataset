@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "nimsofyan", 
-            "mb_attribute": "Nimsofyan", 
-            "source": "http://musicbrainz.org/work/b650f97e-0658-466e-8a39-7d43ae85620e"
-        }, 
-        {
-            "attribute_key": "nimsofyan", 
-            "mb_tag": "nimsofyan", 
-            "source": "http://musicbrainz.org/recording/ffb2c3be-77b8-462e-ad89-1b95f770b0d8"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "divan", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "ffb2c3be-77b8-462e-ad89-1b95f770b0d8", 
+    "works": [
+        {
+            "mbid": "b650f97e-0658-466e-8a39-7d43ae85620e", 
+            "title": "Ok Gibi Hublar Beni Yaydan Yabana Att\u0131lar"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "muhayyer", 
@@ -108,11 +103,16 @@
             "name": "\u015eule \u00c7akar"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "b650f97e-0658-466e-8a39-7d43ae85620e", 
-            "title": "Ok Gibi Hublar Beni Yaydan Yabana Att\u0131lar"
+            "attribute_key": "nimsofyan", 
+            "mb_attribute": "Nimsofyan", 
+            "source": "http://musicbrainz.org/work/b650f97e-0658-466e-8a39-7d43ae85620e"
+        }, 
+        {
+            "attribute_key": "nimsofyan", 
+            "mb_tag": "nimsofyan", 
+            "source": "http://musicbrainz.org/recording/ffb2c3be-77b8-462e-ad89-1b95f770b0d8"
         }
     ]
 }

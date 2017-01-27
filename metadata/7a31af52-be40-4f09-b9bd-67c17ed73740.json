@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "aksaksemai", 
-            "mb_attribute": "Aksaksemai", 
-            "source": "http://musicbrainz.org/work/5eba4c68-fa50-4aaa-9d9e-05e854105e44"
-        }, 
-        {
-            "attribute_key": "aksaksemai", 
-            "mb_tag": "aksaksemai", 
-            "source": "http://musicbrainz.org/recording/7a31af52-be40-4f09-b9bd-67c17ed73740"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "agirsemai", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "7a31af52-be40-4f09-b9bd-67c17ed73740", 
+    "works": [
+        {
+            "mbid": "5eba4c68-fa50-4aaa-9d9e-05e854105e44", 
+            "title": "Kap\u0131l\u0131r Her G\u00f6ren Ol \u015euh-i Cihan-a\u015fubu"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "suzinak", 
@@ -62,11 +57,16 @@
             "name": "Bekir S\u0131dk\u0131 Sezgin"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "5eba4c68-fa50-4aaa-9d9e-05e854105e44", 
-            "title": "Kap\u0131l\u0131r Her G\u00f6ren Ol \u015euh-i Cihan-a\u015fubu"
+            "attribute_key": "aksaksemai", 
+            "mb_attribute": "Aksaksemai", 
+            "source": "http://musicbrainz.org/work/5eba4c68-fa50-4aaa-9d9e-05e854105e44"
+        }, 
+        {
+            "attribute_key": "aksaksemai", 
+            "mb_tag": "aksaksemai", 
+            "source": "http://musicbrainz.org/recording/7a31af52-be40-4f09-b9bd-67c17ed73740"
         }
     ]
 }

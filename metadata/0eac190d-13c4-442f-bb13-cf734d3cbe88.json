@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "yuruksemai", 
-            "mb_attribute": "Y\u00fcr\u00fcksemai", 
-            "source": "http://musicbrainz.org/work/44c61280-0061-40c1-8e83-bfd3f5c72ef4"
-        }, 
-        {
-            "attribute_key": "yuruksemai", 
-            "mb_tag": "y\u00fcr\u00fcksemai", 
-            "source": "http://musicbrainz.org/recording/0eac190d-13c4-442f-bb13-cf734d3cbe88"
-        }
-    ], 
+    "instrumentation_voicing": "choir", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "0eac190d-13c4-442f-bb13-cf734d3cbe88", 
+    "works": [
+        {
+            "mbid": "44c61280-0061-40c1-8e83-bfd3f5c72ef4", 
+            "title": "Senden Bilirim Yok Bana Faide"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "huseyni", 
@@ -122,11 +117,16 @@
             "name": "Sercan Halili"
         }
     ], 
-    "instrumentation_voicing": "Choir", 
-    "works": [
+    "usul": [
         {
-            "mbid": "44c61280-0061-40c1-8e83-bfd3f5c72ef4", 
-            "title": "Senden Bilirim Yok Bana Faide"
+            "attribute_key": "yuruksemai", 
+            "mb_attribute": "Y\u00fcr\u00fcksemai", 
+            "source": "http://musicbrainz.org/work/44c61280-0061-40c1-8e83-bfd3f5c72ef4"
+        }, 
+        {
+            "attribute_key": "yuruksemai", 
+            "mb_tag": "y\u00fcr\u00fcksemai", 
+            "source": "http://musicbrainz.org/recording/0eac190d-13c4-442f-bb13-cf734d3cbe88"
         }
     ]
 }

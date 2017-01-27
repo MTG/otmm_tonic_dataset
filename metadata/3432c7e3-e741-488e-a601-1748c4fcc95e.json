@@ -1,21 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "aksaksemai", 
-            "mb_attribute": "Aksaksemai", 
-            "source": "http://musicbrainz.org/work/d1086c07-fb1f-4eb2-9585-9f22ea850f12"
-        }, 
-        {
-            "attribute_key": "aksaksemai", 
-            "mb_tag": "aksaksemai", 
-            "source": "http://musicbrainz.org/recording/3432c7e3-e741-488e-a601-1748c4fcc95e"
-        }, 
-        {
-            "attribute_key": "yuruksemai", 
-            "mb_tag": "y\u00fcr\u00fcksemai", 
-            "source": "http://musicbrainz.org/recording/3432c7e3-e741-488e-a601-1748c4fcc95e"
-        }
-    ], 
+    "instrumentation_voicing": "duo instrumental", 
     "form": [
         {
             "attribute_key": "sazsemaisi", 
@@ -47,6 +31,12 @@
         }
     ], 
     "mbid": "3432c7e3-e741-488e-a601-1748c4fcc95e", 
+    "works": [
+        {
+            "mbid": "d1086c07-fb1f-4eb2-9585-9f22ea850f12", 
+            "title": "Pesend\u00eede Saz Semaisi"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "pesendide", 
@@ -77,11 +67,21 @@
             "name": "Necdet Ya\u015far"
         }
     ], 
-    "instrumentation_voicing": "Duo instrumental", 
-    "works": [
+    "usul": [
         {
-            "mbid": "d1086c07-fb1f-4eb2-9585-9f22ea850f12", 
-            "title": "Pesend\u00eede Saz Semaisi"
+            "attribute_key": "aksaksemai", 
+            "mb_attribute": "Aksaksemai", 
+            "source": "http://musicbrainz.org/work/d1086c07-fb1f-4eb2-9585-9f22ea850f12"
+        }, 
+        {
+            "attribute_key": "aksaksemai", 
+            "mb_tag": "aksaksemai", 
+            "source": "http://musicbrainz.org/recording/3432c7e3-e741-488e-a601-1748c4fcc95e"
+        }, 
+        {
+            "attribute_key": "yuruksemai", 
+            "mb_tag": "y\u00fcr\u00fcksemai", 
+            "source": "http://musicbrainz.org/recording/3432c7e3-e741-488e-a601-1748c4fcc95e"
         }
     ]
 }

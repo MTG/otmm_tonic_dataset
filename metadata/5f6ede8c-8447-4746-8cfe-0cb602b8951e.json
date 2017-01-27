@@ -1,5 +1,11 @@
 {
-    "instrumentation_voicing": "Solo instrumental", 
+    "usul": [
+        {
+            "attribute_key": "serbest", 
+            "mb_tag": "serbest", 
+            "source": "http://musicbrainz.org/recording/5f6ede8c-8447-4746-8cfe-0cb602b8951e"
+        }
+    ], 
     "form": [
         {
             "attribute_key": "taksim", 
@@ -40,11 +46,5 @@
             "name": "Murat Salim Toka\u00e7"
         }
     ], 
-    "usul": [
-        {
-            "attribute_key": "serbest", 
-            "mb_tag": "serbest", 
-            "source": "http://musicbrainz.org/recording/5f6ede8c-8447-4746-8cfe-0cb602b8951e"
-        }
-    ]
+    "instrumentation_voicing": "solo instrumental"
 }

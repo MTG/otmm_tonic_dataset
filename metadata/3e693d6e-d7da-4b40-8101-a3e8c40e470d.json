@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "aksak", 
-            "mb_attribute": "Aksak", 
-            "source": "http://musicbrainz.org/work/0f3d42e2-dd17-4221-9301-2f42c73214bd"
-        }, 
-        {
-            "attribute_key": "aksak", 
-            "mb_tag": "aksak", 
-            "source": "http://musicbrainz.org/recording/3e693d6e-d7da-4b40-8101-a3e8c40e470d"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "3e693d6e-d7da-4b40-8101-a3e8c40e470d", 
+    "works": [
+        {
+            "mbid": "0f3d42e2-dd17-4221-9301-2f42c73214bd", 
+            "title": "Olmaz Dilim Elemden"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "ussak", 
@@ -62,11 +57,16 @@
             "name": "Bekir S\u0131dk\u0131 Sezgin"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "0f3d42e2-dd17-4221-9301-2f42c73214bd", 
-            "title": "Olmaz Dilim Elemden"
+            "attribute_key": "aksak", 
+            "mb_attribute": "Aksak", 
+            "source": "http://musicbrainz.org/work/0f3d42e2-dd17-4221-9301-2f42c73214bd"
+        }, 
+        {
+            "attribute_key": "aksak", 
+            "mb_tag": "aksak", 
+            "source": "http://musicbrainz.org/recording/3e693d6e-d7da-4b40-8101-a3e8c40e470d"
         }
     ]
 }

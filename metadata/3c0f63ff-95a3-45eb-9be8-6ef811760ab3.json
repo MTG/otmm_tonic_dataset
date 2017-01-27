@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "semai", 
-            "mb_attribute": "Semai", 
-            "source": "http://musicbrainz.org/work/276946a6-593d-40e8-b79f-c73ee010b07a"
-        }, 
-        {
-            "attribute_key": "semai", 
-            "mb_tag": "semai", 
-            "source": "http://musicbrainz.org/recording/3c0f63ff-95a3-45eb-9be8-6ef811760ab3"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal without accompaniment", 
     "form": [
         {
             "attribute_key": "fantezi", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "3c0f63ff-95a3-45eb-9be8-6ef811760ab3", 
+    "works": [
+        {
+            "mbid": "276946a6-593d-40e8-b79f-c73ee010b07a", 
+            "title": "Sen Gidince"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "mahur", 
@@ -57,11 +52,16 @@
             "name": "Ya\u015far \u00d6zel"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal without accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "276946a6-593d-40e8-b79f-c73ee010b07a", 
-            "title": "Sen Gidince"
+            "attribute_key": "semai", 
+            "mb_attribute": "Semai", 
+            "source": "http://musicbrainz.org/work/276946a6-593d-40e8-b79f-c73ee010b07a"
+        }, 
+        {
+            "attribute_key": "semai", 
+            "mb_tag": "semai", 
+            "source": "http://musicbrainz.org/recording/3c0f63ff-95a3-45eb-9be8-6ef811760ab3"
         }
     ]
 }

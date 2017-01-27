@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "curcuna", 
-            "mb_attribute": "Curcuna", 
-            "source": "http://musicbrainz.org/work/3c5848b4-4db3-48d9-a6e2-648c644a61f8"
-        }, 
-        {
-            "attribute_key": "kapali_curcuna", 
-            "mb_tag": "curcuna", 
-            "source": "http://musicbrainz.org/recording/11ca8c5a-2cb6-4224-bb69-7841b2311e91"
-        }
-    ], 
+    "instrumentation_voicing": "choir", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "11ca8c5a-2cb6-4224-bb69-7841b2311e91", 
+    "works": [
+        {
+            "mbid": "3c5848b4-4db3-48d9-a6e2-648c644a61f8", 
+            "title": "Ehli A\u015fk\u0131n Dilinden Haberdar Olmayan Bilmez"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "kurdilihicazkar", 
@@ -156,11 +151,16 @@
             "name": "Safinaz Rizeli"
         }
     ], 
-    "instrumentation_voicing": "Choir", 
-    "works": [
+    "usul": [
         {
-            "mbid": "3c5848b4-4db3-48d9-a6e2-648c644a61f8", 
-            "title": "Ehli A\u015fk\u0131n Dilinden Haberdar Olmayan Bilmez"
+            "attribute_key": "curcuna", 
+            "mb_attribute": "Curcuna", 
+            "source": "http://musicbrainz.org/work/3c5848b4-4db3-48d9-a6e2-648c644a61f8"
+        }, 
+        {
+            "attribute_key": "kapali_curcuna", 
+            "mb_tag": "curcuna", 
+            "source": "http://musicbrainz.org/recording/11ca8c5a-2cb6-4224-bb69-7841b2311e91"
         }
     ]
 }

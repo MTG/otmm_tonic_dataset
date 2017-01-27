@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "devrikebir", 
-            "mb_attribute": "Devr-i Kebir", 
-            "source": "http://musicbrainz.org/work/4b6540da-6806-4521-aa86-389615d475e7"
-        }, 
-        {
-            "attribute_key": "devrikebir", 
-            "mb_tag": "devr-i kebir", 
-            "source": "http://musicbrainz.org/recording/9df6ac0f-60fa-4ffa-ac25-a1300c5d5e07"
-        }
-    ], 
+    "instrumentation_voicing": "trio instrumental", 
     "form": [
         {
             "attribute_key": "pesrev", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "9df6ac0f-60fa-4ffa-ac25-a1300c5d5e07", 
+    "works": [
+        {
+            "mbid": "4b6540da-6806-4521-aa86-389615d475e7", 
+            "title": "Saba Pe\u015frev"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "saba", 
@@ -76,11 +71,16 @@
             "name": "Murat Aydemir"
         }
     ], 
-    "instrumentation_voicing": "Trio instrumental", 
-    "works": [
+    "usul": [
         {
-            "mbid": "4b6540da-6806-4521-aa86-389615d475e7", 
-            "title": "Saba Pe\u015frev"
+            "attribute_key": "devrikebir", 
+            "mb_attribute": "Devr-i Kebir", 
+            "source": "http://musicbrainz.org/work/4b6540da-6806-4521-aa86-389615d475e7"
+        }, 
+        {
+            "attribute_key": "devrikebir", 
+            "mb_tag": "devr-i kebir", 
+            "source": "http://musicbrainz.org/recording/9df6ac0f-60fa-4ffa-ac25-a1300c5d5e07"
         }
     ]
 }

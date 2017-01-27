@@ -1,5 +1,5 @@
 {
-    "usul": [], 
+    "instrumentation_voicing": "duo instrumental", 
     "form": [
         {
             "attribute_key": "sazeseri", 
@@ -26,6 +26,12 @@
         }
     ], 
     "mbid": "00022b8f-a731-49dd-9fcf-6bda7b297545", 
+    "works": [
+        {
+            "mbid": "4a073718-07a1-413c-b831-50043ed73962", 
+            "title": "Muhabbet"
+        }
+    ], 
     "makam": [], 
     "artists": [
         {
@@ -45,11 +51,5 @@
             "name": "Kudsi Erguner"
         }
     ], 
-    "instrumentation_voicing": "Duo instrumental", 
-    "works": [
-        {
-            "mbid": "4a073718-07a1-413c-b831-50043ed73962", 
-            "title": "Muhabbet"
-        }
-    ]
+    "usul": []
 }

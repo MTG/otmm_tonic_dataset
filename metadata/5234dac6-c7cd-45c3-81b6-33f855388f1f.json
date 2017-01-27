@@ -1,11 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "fahte", 
-            "mb_attribute": "Fahte", 
-            "source": "http://musicbrainz.org/work/995e922d-ef6a-456a-b1e0-23250330d188"
-        }
-    ], 
+    "instrumentation_voicing": "solo instrumental", 
     "form": [
         {
             "attribute_key": "pesrev", 
@@ -33,6 +27,12 @@
         }
     ], 
     "mbid": "5234dac6-c7cd-45c3-81b6-33f855388f1f", 
+    "works": [
+        {
+            "mbid": "995e922d-ef6a-456a-b1e0-23250330d188", 
+            "title": "Hicaz Pe\u015frev"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "hicaz", 
@@ -55,11 +55,11 @@
             "name": "Taner Kalkulo\u011flu"
         }
     ], 
-    "instrumentation_voicing": "Solo instrumental", 
-    "works": [
+    "usul": [
         {
-            "mbid": "995e922d-ef6a-456a-b1e0-23250330d188", 
-            "title": "Hicaz Pe\u015frev"
+            "attribute_key": "fahte", 
+            "mb_attribute": "Fahte", 
+            "source": "http://musicbrainz.org/work/995e922d-ef6a-456a-b1e0-23250330d188"
         }
     ]
 }

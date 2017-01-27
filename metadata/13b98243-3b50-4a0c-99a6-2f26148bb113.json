@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "aksak", 
-            "mb_attribute": "Aksak", 
-            "source": "http://musicbrainz.org/work/6b134312-4128-41f3-9be1-5f286f950deb"
-        }, 
-        {
-            "attribute_key": "aksak", 
-            "mb_tag": "aksak", 
-            "source": "http://musicbrainz.org/recording/13b98243-3b50-4a0c-99a6-2f26148bb113"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "13b98243-3b50-4a0c-99a6-2f26148bb113", 
+    "works": [
+        {
+            "mbid": "6b134312-4128-41f3-9be1-5f286f950deb", 
+            "title": "G\u00fcl Y\u00fcz\u00fcnde G\u00fcller Solsa A\u011flar\u0131m"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "kurdilihicazkar", 
@@ -62,11 +57,16 @@
             "name": "G\u00fcler Basu \u015een"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "6b134312-4128-41f3-9be1-5f286f950deb", 
-            "title": "G\u00fcl Y\u00fcz\u00fcnde G\u00fcller Solsa A\u011flar\u0131m"
+            "attribute_key": "aksak", 
+            "mb_attribute": "Aksak", 
+            "source": "http://musicbrainz.org/work/6b134312-4128-41f3-9be1-5f286f950deb"
+        }, 
+        {
+            "attribute_key": "aksak", 
+            "mb_tag": "aksak", 
+            "source": "http://musicbrainz.org/recording/13b98243-3b50-4a0c-99a6-2f26148bb113"
         }
     ]
 }

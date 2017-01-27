@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "curcuna", 
-            "mb_attribute": "Curcuna", 
-            "source": "http://musicbrainz.org/work/79316f2b-5801-4d1d-98eb-ab51834738f8"
-        }, 
-        {
-            "attribute_key": "kapali_curcuna", 
-            "mb_tag": "curcuna", 
-            "source": "http://musicbrainz.org/recording/90dc8556-8fd6-47cf-972f-e4c3bcc3dd77"
-        }
-    ], 
+    "instrumentation_voicing": "ensemble instrumental", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -42,6 +31,12 @@
         }
     ], 
     "mbid": "90dc8556-8fd6-47cf-972f-e4c3bcc3dd77", 
+    "works": [
+        {
+            "mbid": "79316f2b-5801-4d1d-98eb-ab51834738f8", 
+            "title": "Yine Bu Y\u0131l Ada Sensiz"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "nihavent", 
@@ -61,11 +56,16 @@
             "name": "Aziz T\u00fcrk Sanat M\u00fczi\u011fi Grubu"
         }
     ], 
-    "instrumentation_voicing": "Ensemble instrumental", 
-    "works": [
+    "usul": [
         {
-            "mbid": "79316f2b-5801-4d1d-98eb-ab51834738f8", 
-            "title": "Yine Bu Y\u0131l Ada Sensiz"
+            "attribute_key": "curcuna", 
+            "mb_attribute": "Curcuna", 
+            "source": "http://musicbrainz.org/work/79316f2b-5801-4d1d-98eb-ab51834738f8"
+        }, 
+        {
+            "attribute_key": "kapali_curcuna", 
+            "mb_tag": "curcuna", 
+            "source": "http://musicbrainz.org/recording/90dc8556-8fd6-47cf-972f-e4c3bcc3dd77"
         }
     ]
 }

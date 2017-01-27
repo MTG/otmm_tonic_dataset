@@ -1,11 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "devrirevan", 
-            "mb_tag": "devr-i revan", 
-            "source": "http://musicbrainz.org/recording/66d5c661-3dd2-4c00-9a63-ecd4a8005beb"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "ayin_i_serif", 
@@ -33,6 +27,12 @@
         }
     ], 
     "mbid": "66d5c661-3dd2-4c00-9a63-ecd4a8005beb", 
+    "works": [
+        {
+            "mbid": "76600175-7bab-49d6-93dd-f998075dbd4a", 
+            "title": "\u015eevk\u00fctarab Ayin-i \u015eerif"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "sevkutarab", 
@@ -57,11 +57,11 @@
             "name": "Dede Efendi T\u00fcrk M\u00fczi\u011fi Toplulu\u011fu"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "76600175-7bab-49d6-93dd-f998075dbd4a", 
-            "title": "\u015eevk\u00fctarab Ayin-i \u015eerif"
+            "attribute_key": "devrirevan", 
+            "mb_tag": "devr-i revan", 
+            "source": "http://musicbrainz.org/recording/66d5c661-3dd2-4c00-9a63-ecd4a8005beb"
         }
     ]
 }

@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "kapali_curcuna", 
-            "mb_attribute": "Kapal\u0131 Curcuna", 
-            "source": "http://musicbrainz.org/work/8ed3c9e3-4a39-4d8d-b0f9-2bee2732b0d5"
-        }, 
-        {
-            "attribute_key": "kapali_curcuna", 
-            "mb_tag": "curcuna", 
-            "source": "http://musicbrainz.org/recording/b1f1f4c9-7156-47d4-b802-cf822c2639b9"
-        }
-    ], 
+    "instrumentation_voicing": "solo instrumental", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "b1f1f4c9-7156-47d4-b802-cf822c2639b9", 
+    "works": [
+        {
+            "mbid": "8ed3c9e3-4a39-4d8d-b0f9-2bee2732b0d5", 
+            "title": "Gurub Etti G\u00fcne\u015f"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "kurdilihicazkar", 
@@ -60,11 +55,16 @@
             "name": "Ergin K\u0131z\u0131lay"
         }
     ], 
-    "instrumentation_voicing": "Solo instrumental", 
-    "works": [
+    "usul": [
         {
-            "mbid": "8ed3c9e3-4a39-4d8d-b0f9-2bee2732b0d5", 
-            "title": "Gurub Etti G\u00fcne\u015f"
+            "attribute_key": "kapali_curcuna", 
+            "mb_attribute": "Kapal\u0131 Curcuna", 
+            "source": "http://musicbrainz.org/work/8ed3c9e3-4a39-4d8d-b0f9-2bee2732b0d5"
+        }, 
+        {
+            "attribute_key": "kapali_curcuna", 
+            "mb_tag": "curcuna", 
+            "source": "http://musicbrainz.org/recording/b1f1f4c9-7156-47d4-b802-cf822c2639b9"
         }
     ]
 }

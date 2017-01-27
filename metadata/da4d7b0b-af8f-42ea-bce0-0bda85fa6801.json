@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "duyek", 
-            "mb_attribute": "D\u00fcyek", 
-            "source": "http://musicbrainz.org/work/197af7e5-9ee8-4c47-9b6e-6dc6532e1d78"
-        }, 
-        {
-            "attribute_key": "duyek", 
-            "mb_tag": "d\u00fcyek", 
-            "source": "http://musicbrainz.org/recording/da4d7b0b-af8f-42ea-bce0-0bda85fa6801"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "da4d7b0b-af8f-42ea-bce0-0bda85fa6801", 
+    "works": [
+        {
+            "mbid": "197af7e5-9ee8-4c47-9b6e-6dc6532e1d78", 
+            "title": "Seni Sesini G\u00f6zlerinin Rengini Unutabilsem"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "huzzam", 
@@ -108,11 +103,16 @@
             "name": "\u015eule \u00c7akar"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "197af7e5-9ee8-4c47-9b6e-6dc6532e1d78", 
-            "title": "Seni Sesini G\u00f6zlerinin Rengini Unutabilsem"
+            "attribute_key": "duyek", 
+            "mb_attribute": "D\u00fcyek", 
+            "source": "http://musicbrainz.org/work/197af7e5-9ee8-4c47-9b6e-6dc6532e1d78"
+        }, 
+        {
+            "attribute_key": "duyek", 
+            "mb_tag": "d\u00fcyek", 
+            "source": "http://musicbrainz.org/recording/da4d7b0b-af8f-42ea-bce0-0bda85fa6801"
         }
     ]
 }

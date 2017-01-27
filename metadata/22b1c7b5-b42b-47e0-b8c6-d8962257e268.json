@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "muhammes", 
-            "mb_attribute": "Muhammes", 
-            "source": "http://musicbrainz.org/work/197e8937-cb96-463c-bbac-223b1a9f9e73"
-        }, 
-        {
-            "attribute_key": "muhammes", 
-            "mb_tag": "muhammes", 
-            "source": "http://musicbrainz.org/recording/22b1c7b5-b42b-47e0-b8c6-d8962257e268"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal without accompaniment", 
     "form": [
         {
             "attribute_key": "beste", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "22b1c7b5-b42b-47e0-b8c6-d8962257e268", 
+    "works": [
+        {
+            "mbid": "197e8937-cb96-463c-bbac-223b1a9f9e73", 
+            "title": "Bin Cefa G\u00f6rsem Ey Sanem Senden"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "acemasiran", 
@@ -57,11 +52,16 @@
             "name": "Safiye Ayla"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal without accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "197e8937-cb96-463c-bbac-223b1a9f9e73", 
-            "title": "Bin Cefa G\u00f6rsem Ey Sanem Senden"
+            "attribute_key": "muhammes", 
+            "mb_attribute": "Muhammes", 
+            "source": "http://musicbrainz.org/work/197e8937-cb96-463c-bbac-223b1a9f9e73"
+        }, 
+        {
+            "attribute_key": "muhammes", 
+            "mb_tag": "muhammes", 
+            "source": "http://musicbrainz.org/recording/22b1c7b5-b42b-47e0-b8c6-d8962257e268"
         }
     ]
 }

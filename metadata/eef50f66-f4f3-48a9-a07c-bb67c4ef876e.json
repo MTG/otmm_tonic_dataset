@@ -1,21 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "semai", 
-            "mb_attribute": "Semai", 
-            "source": "http://musicbrainz.org/work/2ee036db-45a5-4932-a238-2adc498e674d"
-        }, 
-        {
-            "attribute_key": "duyek", 
-            "mb_attribute": "D\u00fcyek", 
-            "source": "http://musicbrainz.org/work/2ee036db-45a5-4932-a238-2adc498e674d"
-        }, 
-        {
-            "attribute_key": "duyek", 
-            "mb_tag": "d\u00fcyek", 
-            "source": "http://musicbrainz.org/recording/eef50f66-f4f3-48a9-a07c-bb67c4ef876e"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal without accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -43,6 +27,12 @@
         }
     ], 
     "mbid": "eef50f66-f4f3-48a9-a07c-bb67c4ef876e", 
+    "works": [
+        {
+            "mbid": "2ee036db-45a5-4932-a238-2adc498e674d", 
+            "title": "Bir R\u00fczgard\u0131r Gelir Ge\u00e7er Sanm\u0131\u015ft\u0131m"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "segah", 
@@ -62,11 +52,21 @@
             "name": "Zeki M\u00fcren"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal without accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "2ee036db-45a5-4932-a238-2adc498e674d", 
-            "title": "Bir R\u00fczgard\u0131r Gelir Ge\u00e7er Sanm\u0131\u015ft\u0131m"
+            "attribute_key": "semai", 
+            "mb_attribute": "Semai", 
+            "source": "http://musicbrainz.org/work/2ee036db-45a5-4932-a238-2adc498e674d"
+        }, 
+        {
+            "attribute_key": "duyek", 
+            "mb_attribute": "D\u00fcyek", 
+            "source": "http://musicbrainz.org/work/2ee036db-45a5-4932-a238-2adc498e674d"
+        }, 
+        {
+            "attribute_key": "duyek", 
+            "mb_tag": "d\u00fcyek", 
+            "source": "http://musicbrainz.org/recording/eef50f66-f4f3-48a9-a07c-bb67c4ef876e"
         }
     ]
 }

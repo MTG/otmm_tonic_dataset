@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "aksaksemai", 
-            "mb_attribute": "Aksaksemai", 
-            "source": "http://musicbrainz.org/work/6c9e93a8-b022-4f12-805a-737fa827de1f"
-        }, 
-        {
-            "attribute_key": "aksaksemai", 
-            "mb_tag": "aksaksemai", 
-            "source": "http://musicbrainz.org/recording/654bc273-62ed-4a1d-a0af-457178d4f69e"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "agirsemai", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "654bc273-62ed-4a1d-a0af-457178d4f69e", 
+    "works": [
+        {
+            "mbid": "6c9e93a8-b022-4f12-805a-737fa827de1f", 
+            "title": "Dil-i A\u015f\u0131klar\u0131 Bend Etmede Bir Pehlivans\u0131n"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "beyati", 
@@ -92,11 +87,16 @@
             "name": "Do\u011fan Dikmen"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "6c9e93a8-b022-4f12-805a-737fa827de1f", 
-            "title": "Dil-i A\u015f\u0131klar\u0131 Bend Etmede Bir Pehlivans\u0131n"
+            "attribute_key": "aksaksemai", 
+            "mb_attribute": "Aksaksemai", 
+            "source": "http://musicbrainz.org/work/6c9e93a8-b022-4f12-805a-737fa827de1f"
+        }, 
+        {
+            "attribute_key": "aksaksemai", 
+            "mb_tag": "aksaksemai", 
+            "source": "http://musicbrainz.org/recording/654bc273-62ed-4a1d-a0af-457178d4f69e"
         }
     ]
 }

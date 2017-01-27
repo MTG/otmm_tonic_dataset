@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "curcuna", 
-            "mb_attribute": "Curcuna", 
-            "source": "http://musicbrainz.org/work/0650790c-5233-4f3c-97e9-8c5fff7bc639"
-        }, 
-        {
-            "attribute_key": "kapali_curcuna", 
-            "mb_tag": "curcuna", 
-            "source": "http://musicbrainz.org/recording/502faca6-c9a0-44e1-a2e2-c31bbfdcaf38"
-        }
-    ], 
+    "instrumentation_voicing": "choir", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "502faca6-c9a0-44e1-a2e2-c31bbfdcaf38", 
+    "works": [
+        {
+            "mbid": "0650790c-5233-4f3c-97e9-8c5fff7bc639", 
+            "title": "Bir Kere N'olur \u015euh-i \u015eenim"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "hicaz", 
@@ -398,11 +393,16 @@
             "name": "Asuman Demirba\u015f"
         }
     ], 
-    "instrumentation_voicing": "Choir", 
-    "works": [
+    "usul": [
         {
-            "mbid": "0650790c-5233-4f3c-97e9-8c5fff7bc639", 
-            "title": "Bir Kere N'olur \u015euh-i \u015eenim"
+            "attribute_key": "curcuna", 
+            "mb_attribute": "Curcuna", 
+            "source": "http://musicbrainz.org/work/0650790c-5233-4f3c-97e9-8c5fff7bc639"
+        }, 
+        {
+            "attribute_key": "kapali_curcuna", 
+            "mb_tag": "curcuna", 
+            "source": "http://musicbrainz.org/recording/502faca6-c9a0-44e1-a2e2-c31bbfdcaf38"
         }
     ]
 }

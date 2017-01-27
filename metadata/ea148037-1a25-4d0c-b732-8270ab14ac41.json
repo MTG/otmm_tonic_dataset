@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "aksak", 
-            "mb_attribute": "Aksak", 
-            "source": "http://musicbrainz.org/work/b7044fac-cd94-44b7-b59a-494633e95fd6"
-        }, 
-        {
-            "attribute_key": "aksak", 
-            "mb_tag": "aksak", 
-            "source": "http://musicbrainz.org/recording/ea148037-1a25-4d0c-b732-8270ab14ac41"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -42,6 +31,12 @@
         }
     ], 
     "mbid": "ea148037-1a25-4d0c-b732-8270ab14ac41", 
+    "works": [
+        {
+            "mbid": "b7044fac-cd94-44b7-b59a-494633e95fd6", 
+            "title": "Her Bir Bak\u0131\u015f\u0131nda Ne\u015fe Buldum"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "suzidil", 
@@ -137,11 +132,16 @@
             "name": "Sedat G\u00fcndiyer"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "b7044fac-cd94-44b7-b59a-494633e95fd6", 
-            "title": "Her Bir Bak\u0131\u015f\u0131nda Ne\u015fe Buldum"
+            "attribute_key": "aksak", 
+            "mb_attribute": "Aksak", 
+            "source": "http://musicbrainz.org/work/b7044fac-cd94-44b7-b59a-494633e95fd6"
+        }, 
+        {
+            "attribute_key": "aksak", 
+            "mb_tag": "aksak", 
+            "source": "http://musicbrainz.org/recording/ea148037-1a25-4d0c-b732-8270ab14ac41"
         }
     ]
 }

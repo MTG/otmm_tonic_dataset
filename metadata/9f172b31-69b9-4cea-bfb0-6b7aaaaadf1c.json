@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "aksak", 
-            "mb_attribute": "Aksak", 
-            "source": "http://musicbrainz.org/work/d14e218d-1952-4210-b681-e2d2956772d7"
-        }, 
-        {
-            "attribute_key": "aksak", 
-            "mb_tag": "aksak", 
-            "source": "http://musicbrainz.org/recording/9f172b31-69b9-4cea-bfb0-6b7aaaaadf1c"
-        }
-    ], 
+    "instrumentation_voicing": "choir", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "9f172b31-69b9-4cea-bfb0-6b7aaaaadf1c", 
+    "works": [
+        {
+            "mbid": "d14e218d-1952-4210-b681-e2d2956772d7", 
+            "title": "Ben Gaml\u0131 Hazan"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "hicaz", 
@@ -151,11 +146,16 @@
             "name": "Safinaz Rizeli"
         }
     ], 
-    "instrumentation_voicing": "Choir", 
-    "works": [
+    "usul": [
         {
-            "mbid": "d14e218d-1952-4210-b681-e2d2956772d7", 
-            "title": "Ben Gaml\u0131 Hazan"
+            "attribute_key": "aksak", 
+            "mb_attribute": "Aksak", 
+            "source": "http://musicbrainz.org/work/d14e218d-1952-4210-b681-e2d2956772d7"
+        }, 
+        {
+            "attribute_key": "aksak", 
+            "mb_tag": "aksak", 
+            "source": "http://musicbrainz.org/recording/9f172b31-69b9-4cea-bfb0-6b7aaaaadf1c"
         }
     ]
 }

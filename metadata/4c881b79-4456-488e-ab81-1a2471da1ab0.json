@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "agiraksak", 
-            "mb_attribute": "A\u011f\u0131raksak", 
-            "source": "http://musicbrainz.org/work/ef96a073-7b12-4618-8226-dd9900d03e04"
-        }, 
-        {
-            "attribute_key": "agiraksak", 
-            "mb_tag": "a\u011f\u0131raksak", 
-            "source": "http://musicbrainz.org/recording/4c881b79-4456-488e-ab81-1a2471da1ab0"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal without accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "4c881b79-4456-488e-ab81-1a2471da1ab0", 
+    "works": [
+        {
+            "mbid": "ef96a073-7b12-4618-8226-dd9900d03e04", 
+            "title": "Buseler Vadeylemi\u015ftin A\u015f\u0131k-\u0131 Hayran\u0131na"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "buselik", 
@@ -57,11 +52,16 @@
             "name": "Ay\u015fe Ta\u015f"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal without accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "ef96a073-7b12-4618-8226-dd9900d03e04", 
-            "title": "Buseler Vadeylemi\u015ftin A\u015f\u0131k-\u0131 Hayran\u0131na"
+            "attribute_key": "agiraksak", 
+            "mb_attribute": "A\u011f\u0131raksak", 
+            "source": "http://musicbrainz.org/work/ef96a073-7b12-4618-8226-dd9900d03e04"
+        }, 
+        {
+            "attribute_key": "agiraksak", 
+            "mb_tag": "a\u011f\u0131raksak", 
+            "source": "http://musicbrainz.org/recording/4c881b79-4456-488e-ab81-1a2471da1ab0"
         }
     ]
 }

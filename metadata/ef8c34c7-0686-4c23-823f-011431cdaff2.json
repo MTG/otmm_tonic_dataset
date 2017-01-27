@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "hafif", 
-            "mb_attribute": "Hafif", 
-            "source": "http://musicbrainz.org/work/cb36532b-f740-4e41-84bb-58fb8db3bac5"
-        }, 
-        {
-            "attribute_key": "hafif", 
-            "mb_tag": "hafif", 
-            "source": "http://musicbrainz.org/recording/ef8c34c7-0686-4c23-823f-011431cdaff2"
-        }
-    ], 
+    "instrumentation_voicing": "duo instrumental", 
     "form": [
         {
             "attribute_key": "pesrev", 
@@ -42,6 +31,12 @@
         }
     ], 
     "mbid": "ef8c34c7-0686-4c23-823f-011431cdaff2", 
+    "works": [
+        {
+            "mbid": "cb36532b-f740-4e41-84bb-58fb8db3bac5", 
+            "title": "Sultaniyegah Pe\u015frev"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "sultaniyegah", 
@@ -72,11 +67,16 @@
             "name": "Derya T\u00fcrkan"
         }
     ], 
-    "instrumentation_voicing": "Duo instrumental", 
-    "works": [
+    "usul": [
         {
-            "mbid": "cb36532b-f740-4e41-84bb-58fb8db3bac5", 
-            "title": "Sultaniyegah Pe\u015frev"
+            "attribute_key": "hafif", 
+            "mb_attribute": "Hafif", 
+            "source": "http://musicbrainz.org/work/cb36532b-f740-4e41-84bb-58fb8db3bac5"
+        }, 
+        {
+            "attribute_key": "hafif", 
+            "mb_tag": "hafif", 
+            "source": "http://musicbrainz.org/recording/ef8c34c7-0686-4c23-823f-011431cdaff2"
         }
     ]
 }

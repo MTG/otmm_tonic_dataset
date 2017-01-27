@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "duyek", 
-            "mb_attribute": "D\u00fcyek", 
-            "source": "http://musicbrainz.org/work/26836d2e-49b8-4661-9b66-12f8b3c64e6c"
-        }, 
-        {
-            "attribute_key": "duyek", 
-            "mb_tag": "d\u00fcyek", 
-            "source": "http://musicbrainz.org/recording/075e6829-6204-4c07-89a0-1177d4a3bfa5"
-        }
-    ], 
+    "instrumentation_voicing": "choir", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "075e6829-6204-4c07-89a0-1177d4a3bfa5", 
+    "works": [
+        {
+            "mbid": "26836d2e-49b8-4661-9b66-12f8b3c64e6c", 
+            "title": "Unutulmu\u015f Ne Varsa"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "muhayyerkurdi", 
@@ -130,11 +125,16 @@
             "name": "Seyhun \u00c7elik"
         }
     ], 
-    "instrumentation_voicing": "Choir", 
-    "works": [
+    "usul": [
         {
-            "mbid": "26836d2e-49b8-4661-9b66-12f8b3c64e6c", 
-            "title": "Unutulmu\u015f Ne Varsa"
+            "attribute_key": "duyek", 
+            "mb_attribute": "D\u00fcyek", 
+            "source": "http://musicbrainz.org/work/26836d2e-49b8-4661-9b66-12f8b3c64e6c"
+        }, 
+        {
+            "attribute_key": "duyek", 
+            "mb_tag": "d\u00fcyek", 
+            "source": "http://musicbrainz.org/recording/075e6829-6204-4c07-89a0-1177d4a3bfa5"
         }
     ]
 }

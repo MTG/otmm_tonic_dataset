@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "duyek", 
-            "mb_attribute": "D\u00fcyek", 
-            "source": "http://musicbrainz.org/work/2376eca5-8386-432a-aa23-ad42bfd610ad"
-        }, 
-        {
-            "attribute_key": "aksak", 
-            "mb_tag": "aksak", 
-            "source": "http://musicbrainz.org/recording/9566c9df-1a60-4a8f-bd02-c846e3cbee6b"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal without accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "9566c9df-1a60-4a8f-bd02-c846e3cbee6b", 
+    "works": [
+        {
+            "mbid": "2376eca5-8386-432a-aa23-ad42bfd610ad", 
+            "title": "Seni Ne \u00c7ok Sevdi\u011fimi"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "beyati", 
@@ -57,11 +52,16 @@
             "name": "\u0130nci \u00c7ay\u0131rl\u0131"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal without accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "2376eca5-8386-432a-aa23-ad42bfd610ad", 
-            "title": "Seni Ne \u00c7ok Sevdi\u011fimi"
+            "attribute_key": "duyek", 
+            "mb_attribute": "D\u00fcyek", 
+            "source": "http://musicbrainz.org/work/2376eca5-8386-432a-aa23-ad42bfd610ad"
+        }, 
+        {
+            "attribute_key": "aksak", 
+            "mb_tag": "aksak", 
+            "source": "http://musicbrainz.org/recording/9566c9df-1a60-4a8f-bd02-c846e3cbee6b"
         }
     ]
 }

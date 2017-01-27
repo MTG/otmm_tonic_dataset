@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "aksak", 
-            "mb_attribute": "Aksak", 
-            "source": "http://musicbrainz.org/work/b828b736-c0bc-4cf3-9842-eca119178dbe"
-        }, 
-        {
-            "attribute_key": "aksak", 
-            "mb_tag": "aksak", 
-            "source": "http://musicbrainz.org/recording/9fbdd235-9292-4784-a123-3452b9ed3da1"
-        }
-    ], 
+    "instrumentation_voicing": "choir", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "9fbdd235-9292-4784-a123-3452b9ed3da1", 
+    "works": [
+        {
+            "mbid": "b828b736-c0bc-4cf3-9842-eca119178dbe", 
+            "title": "G\u00fcl\u015fenin H\u00fcsn\u00fcne Kimler Var\u0131yor"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "hicaz", 
@@ -533,11 +528,16 @@
             "name": "Arzu \u00d6zg\u00fcn"
         }
     ], 
-    "instrumentation_voicing": "Choir", 
-    "works": [
+    "usul": [
         {
-            "mbid": "b828b736-c0bc-4cf3-9842-eca119178dbe", 
-            "title": "G\u00fcl\u015fenin H\u00fcsn\u00fcne Kimler Var\u0131yor"
+            "attribute_key": "aksak", 
+            "mb_attribute": "Aksak", 
+            "source": "http://musicbrainz.org/work/b828b736-c0bc-4cf3-9842-eca119178dbe"
+        }, 
+        {
+            "attribute_key": "aksak", 
+            "mb_tag": "aksak", 
+            "source": "http://musicbrainz.org/recording/9fbdd235-9292-4784-a123-3452b9ed3da1"
         }
     ]
 }

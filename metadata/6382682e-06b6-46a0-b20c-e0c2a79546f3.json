@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "kapali_curcuna", 
-            "mb_attribute": "Kapal\u0131 Curcuna", 
-            "source": "http://musicbrainz.org/work/043f369e-9685-43c6-8d1d-3640ce356c05"
-        }, 
-        {
-            "attribute_key": "kapali_curcuna", 
-            "mb_tag": "curcuna", 
-            "source": "http://musicbrainz.org/recording/6382682e-06b6-46a0-b20c-e0c2a79546f3"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "6382682e-06b6-46a0-b20c-e0c2a79546f3", 
+    "works": [
+        {
+            "mbid": "043f369e-9685-43c6-8d1d-3640ce356c05", 
+            "title": "Sana Ey Can\u0131m\u0131n Can\u0131 Efendim"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "kurdilihicazkar", 
@@ -75,11 +70,16 @@
             "name": "\u015eent\u00fcrk Deveci"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "043f369e-9685-43c6-8d1d-3640ce356c05", 
-            "title": "Sana Ey Can\u0131m\u0131n Can\u0131 Efendim"
+            "attribute_key": "kapali_curcuna", 
+            "mb_attribute": "Kapal\u0131 Curcuna", 
+            "source": "http://musicbrainz.org/work/043f369e-9685-43c6-8d1d-3640ce356c05"
+        }, 
+        {
+            "attribute_key": "kapali_curcuna", 
+            "mb_tag": "curcuna", 
+            "source": "http://musicbrainz.org/recording/6382682e-06b6-46a0-b20c-e0c2a79546f3"
         }
     ]
 }

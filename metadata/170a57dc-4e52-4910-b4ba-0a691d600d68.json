@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "aksaksemai", 
-            "mb_attribute": "Aksaksemai", 
-            "source": "http://musicbrainz.org/work/45ae0a7a-6abe-453c-9b09-984415379f91"
-        }, 
-        {
-            "attribute_key": "aksaksemai", 
-            "mb_tag": "aksaksemai", 
-            "source": "http://musicbrainz.org/recording/170a57dc-4e52-4910-b4ba-0a691d600d68"
-        }
-    ], 
+    "instrumentation_voicing": "solo instrumental", 
     "form": [
         {
             "attribute_key": "sazsemaisi", 
@@ -42,6 +31,12 @@
         }
     ], 
     "mbid": "170a57dc-4e52-4910-b4ba-0a691d600d68", 
+    "works": [
+        {
+            "mbid": "45ae0a7a-6abe-453c-9b09-984415379f91", 
+            "title": "S\u00fbzidil\u00e2r\u00e2 Saz Semaisi"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "suzidilara", 
@@ -64,11 +59,16 @@
             "name": "Erc\u00fcmend Batanay"
         }
     ], 
-    "instrumentation_voicing": "Solo instrumental", 
-    "works": [
+    "usul": [
         {
-            "mbid": "45ae0a7a-6abe-453c-9b09-984415379f91", 
-            "title": "S\u00fbzidil\u00e2r\u00e2 Saz Semaisi"
+            "attribute_key": "aksaksemai", 
+            "mb_attribute": "Aksaksemai", 
+            "source": "http://musicbrainz.org/work/45ae0a7a-6abe-453c-9b09-984415379f91"
+        }, 
+        {
+            "attribute_key": "aksaksemai", 
+            "mb_tag": "aksaksemai", 
+            "source": "http://musicbrainz.org/recording/170a57dc-4e52-4910-b4ba-0a691d600d68"
         }
     ]
 }

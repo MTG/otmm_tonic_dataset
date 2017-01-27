@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "aksak", 
-            "mb_attribute": "Aksak", 
-            "source": "http://musicbrainz.org/work/a6f1e216-df3b-46c8-b4a9-70268be5bef6"
-        }, 
-        {
-            "attribute_key": "aksak", 
-            "mb_tag": "aksak", 
-            "source": "http://musicbrainz.org/recording/e3135273-be84-465e-99d9-c006e7e281c3"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "e3135273-be84-465e-99d9-c006e7e281c3", 
+    "works": [
+        {
+            "mbid": "a6f1e216-df3b-46c8-b4a9-70268be5bef6", 
+            "title": "Kimseyi B\u00f6yle Peri\u015fan Etme Allah\u0131m Yeter"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "hicaz", 
@@ -62,11 +57,16 @@
             "name": "Bekir S\u0131dk\u0131 Sezgin"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "a6f1e216-df3b-46c8-b4a9-70268be5bef6", 
-            "title": "Kimseyi B\u00f6yle Peri\u015fan Etme Allah\u0131m Yeter"
+            "attribute_key": "aksak", 
+            "mb_attribute": "Aksak", 
+            "source": "http://musicbrainz.org/work/a6f1e216-df3b-46c8-b4a9-70268be5bef6"
+        }, 
+        {
+            "attribute_key": "aksak", 
+            "mb_tag": "aksak", 
+            "source": "http://musicbrainz.org/recording/e3135273-be84-465e-99d9-c006e7e281c3"
         }
     ]
 }

@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "curcuna", 
-            "mb_attribute": "Curcuna", 
-            "source": "http://musicbrainz.org/work/4f6e9373-860f-4bcb-a661-b994feacab48"
-        }, 
-        {
-            "attribute_key": "kapali_curcuna", 
-            "mb_tag": "curcuna", 
-            "source": "http://musicbrainz.org/recording/efff51fe-bd95-45ae-b456-f2712e37aeff"
-        }
-    ], 
+    "instrumentation_voicing": "solo instrumental", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "efff51fe-bd95-45ae-b456-f2712e37aeff", 
+    "works": [
+        {
+            "mbid": "4f6e9373-860f-4bcb-a661-b994feacab48", 
+            "title": "Aman Saki"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "huzzam", 
@@ -60,11 +55,16 @@
             "name": "Ahmet \u015eahin"
         }
     ], 
-    "instrumentation_voicing": "Solo instrumental", 
-    "works": [
+    "usul": [
         {
-            "mbid": "4f6e9373-860f-4bcb-a661-b994feacab48", 
-            "title": "Aman Saki"
+            "attribute_key": "curcuna", 
+            "mb_attribute": "Curcuna", 
+            "source": "http://musicbrainz.org/work/4f6e9373-860f-4bcb-a661-b994feacab48"
+        }, 
+        {
+            "attribute_key": "kapali_curcuna", 
+            "mb_tag": "curcuna", 
+            "source": "http://musicbrainz.org/recording/efff51fe-bd95-45ae-b456-f2712e37aeff"
         }
     ]
 }

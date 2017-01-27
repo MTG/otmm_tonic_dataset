@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "aksak", 
-            "mb_attribute": "Aksak", 
-            "source": "http://musicbrainz.org/work/727dd9a3-7849-4215-960d-76e795ec9148"
-        }, 
-        {
-            "attribute_key": "aksak", 
-            "mb_tag": "aksak", 
-            "source": "http://musicbrainz.org/recording/4abf9352-9fa8-4283-8bd5-01c707c36c75"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -42,6 +31,12 @@
         }
     ], 
     "mbid": "4abf9352-9fa8-4283-8bd5-01c707c36c75", 
+    "works": [
+        {
+            "mbid": "727dd9a3-7849-4215-960d-76e795ec9148", 
+            "title": "Safalar Getirdiniz"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "kurdilihicazkar", 
@@ -69,11 +64,16 @@
             "name": "[unknown]"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "727dd9a3-7849-4215-960d-76e795ec9148", 
-            "title": "Safalar Getirdiniz"
+            "attribute_key": "aksak", 
+            "mb_attribute": "Aksak", 
+            "source": "http://musicbrainz.org/work/727dd9a3-7849-4215-960d-76e795ec9148"
+        }, 
+        {
+            "attribute_key": "aksak", 
+            "mb_tag": "aksak", 
+            "source": "http://musicbrainz.org/recording/4abf9352-9fa8-4283-8bd5-01c707c36c75"
         }
     ]
 }

@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "ciftesofyan", 
-            "mb_attribute": "\u00c7iftesofyan", 
-            "source": "http://musicbrainz.org/work/6d1b0211-153e-4b00-ba3f-b48714216701"
-        }, 
-        {
-            "attribute_key": "aksak", 
-            "mb_tag": "aksak", 
-            "source": "http://musicbrainz.org/recording/01af952a-1538-4913-8faf-22f164c20062"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -42,6 +31,12 @@
         }
     ], 
     "mbid": "01af952a-1538-4913-8faf-22f164c20062", 
+    "works": [
+        {
+            "mbid": "6d1b0211-153e-4b00-ba3f-b48714216701", 
+            "title": "G\u00fcl Olsam S\u0131zsam \u0130mbiklerinden"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "suzidil", 
@@ -137,11 +132,16 @@
             "name": "Sedat G\u00fcndiyer"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "6d1b0211-153e-4b00-ba3f-b48714216701", 
-            "title": "G\u00fcl Olsam S\u0131zsam \u0130mbiklerinden"
+            "attribute_key": "ciftesofyan", 
+            "mb_attribute": "\u00c7iftesofyan", 
+            "source": "http://musicbrainz.org/work/6d1b0211-153e-4b00-ba3f-b48714216701"
+        }, 
+        {
+            "attribute_key": "aksak", 
+            "mb_tag": "aksak", 
+            "source": "http://musicbrainz.org/recording/01af952a-1538-4913-8faf-22f164c20062"
         }
     ]
 }

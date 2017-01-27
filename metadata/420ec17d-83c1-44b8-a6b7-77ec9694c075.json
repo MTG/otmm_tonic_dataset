@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "aksaksemai", 
-            "mb_attribute": "Aksaksemai", 
-            "source": "http://musicbrainz.org/work/b35b01ae-d8e6-4b1a-a8ac-d764d2d3e5f4"
-        }, 
-        {
-            "attribute_key": "aksaksemai", 
-            "mb_tag": "aksaksemai", 
-            "source": "http://musicbrainz.org/recording/420ec17d-83c1-44b8-a6b7-77ec9694c075"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "agirsemai", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "420ec17d-83c1-44b8-a6b7-77ec9694c075", 
+    "works": [
+        {
+            "mbid": "b35b01ae-d8e6-4b1a-a8ac-d764d2d3e5f4", 
+            "title": "Beni Ey Gonca-fem"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "suzidil", 
@@ -62,11 +57,16 @@
             "name": "Bekir S\u0131dk\u0131 Sezgin"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "b35b01ae-d8e6-4b1a-a8ac-d764d2d3e5f4", 
-            "title": "Beni Ey Gonca-fem"
+            "attribute_key": "aksaksemai", 
+            "mb_attribute": "Aksaksemai", 
+            "source": "http://musicbrainz.org/work/b35b01ae-d8e6-4b1a-a8ac-d764d2d3e5f4"
+        }, 
+        {
+            "attribute_key": "aksaksemai", 
+            "mb_tag": "aksaksemai", 
+            "source": "http://musicbrainz.org/recording/420ec17d-83c1-44b8-a6b7-77ec9694c075"
         }
     ]
 }

@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "muhammes", 
-            "mb_attribute": "Muhammes", 
-            "source": "http://musicbrainz.org/work/6f2b316f-f951-4453-9233-2b62e16fcd05"
-        }, 
-        {
-            "attribute_key": "muhammes", 
-            "mb_tag": "muhammes", 
-            "source": "http://musicbrainz.org/recording/de71e729-5e7b-45dc-a38c-cfa7061fecdc"
-        }
-    ], 
+    "instrumentation_voicing": "solo instrumental", 
     "form": [
         {
             "attribute_key": "pesrev", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "de71e729-5e7b-45dc-a38c-cfa7061fecdc", 
+    "works": [
+        {
+            "mbid": "6f2b316f-f951-4453-9233-2b62e16fcd05", 
+            "title": "Ferahfeza Pe\u015frev"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "ferahfeza", 
@@ -60,11 +55,16 @@
             "name": "Murat Aydemir"
         }
     ], 
-    "instrumentation_voicing": "Solo instrumental", 
-    "works": [
+    "usul": [
         {
-            "mbid": "6f2b316f-f951-4453-9233-2b62e16fcd05", 
-            "title": "Ferahfeza Pe\u015frev"
+            "attribute_key": "muhammes", 
+            "mb_attribute": "Muhammes", 
+            "source": "http://musicbrainz.org/work/6f2b316f-f951-4453-9233-2b62e16fcd05"
+        }, 
+        {
+            "attribute_key": "muhammes", 
+            "mb_tag": "muhammes", 
+            "source": "http://musicbrainz.org/recording/de71e729-5e7b-45dc-a38c-cfa7061fecdc"
         }
     ]
 }

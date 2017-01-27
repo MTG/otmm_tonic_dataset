@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "sofyan", 
-            "mb_attribute": "Sofyan", 
-            "source": "http://musicbrainz.org/work/22e2b828-e3d9-4efe-bac6-1b6523e22d03"
-        }, 
-        {
-            "attribute_key": "sofyan", 
-            "mb_tag": "sofyan", 
-            "source": "http://musicbrainz.org/recording/ed90604c-1702-4740-bddc-7a4f94f896a8"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal without accompaniment", 
     "form": [
         {
             "attribute_key": "ilahi", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "ed90604c-1702-4740-bddc-7a4f94f896a8", 
+    "works": [
+        {
+            "mbid": "22e2b828-e3d9-4efe-bac6-1b6523e22d03", 
+            "title": "Re'sul Hikmeti Mehafettullah"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "rast", 
@@ -57,11 +52,16 @@
             "name": "Kani Karaca"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal without accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "22e2b828-e3d9-4efe-bac6-1b6523e22d03", 
-            "title": "Re'sul Hikmeti Mehafettullah"
+            "attribute_key": "sofyan", 
+            "mb_attribute": "Sofyan", 
+            "source": "http://musicbrainz.org/work/22e2b828-e3d9-4efe-bac6-1b6523e22d03"
+        }, 
+        {
+            "attribute_key": "sofyan", 
+            "mb_tag": "sofyan", 
+            "source": "http://musicbrainz.org/recording/ed90604c-1702-4740-bddc-7a4f94f896a8"
         }
     ]
 }

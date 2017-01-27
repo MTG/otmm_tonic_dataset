@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "aksaksemai", 
-            "mb_attribute": "Aksaksemai", 
-            "source": "http://musicbrainz.org/work/f5f2b640-4529-4e5f-98c8-11629c406227"
-        }, 
-        {
-            "attribute_key": "aksaksemai", 
-            "mb_tag": "aksaksemai", 
-            "source": "http://musicbrainz.org/recording/c86c9666-f48b-4388-a1b3-488fd6980499"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "agirsemai", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "c86c9666-f48b-4388-a1b3-488fd6980499", 
+    "works": [
+        {
+            "mbid": "f5f2b640-4529-4e5f-98c8-11629c406227", 
+            "title": "Sarsam Miyan\u0131n Ey G\u00fcl-i Ter Yasemen Gibi"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "mahur", 
@@ -62,11 +57,16 @@
             "name": "Meral U\u011furlu"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "f5f2b640-4529-4e5f-98c8-11629c406227", 
-            "title": "Sarsam Miyan\u0131n Ey G\u00fcl-i Ter Yasemen Gibi"
+            "attribute_key": "aksaksemai", 
+            "mb_attribute": "Aksaksemai", 
+            "source": "http://musicbrainz.org/work/f5f2b640-4529-4e5f-98c8-11629c406227"
+        }, 
+        {
+            "attribute_key": "aksaksemai", 
+            "mb_tag": "aksaksemai", 
+            "source": "http://musicbrainz.org/recording/c86c9666-f48b-4388-a1b3-488fd6980499"
         }
     ]
 }

@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "agir_aksaksemai", 
-            "mb_attribute": "A\u011f\u0131r Aksaksemai", 
-            "source": "http://musicbrainz.org/work/272caadb-14d8-4c13-9744-564d26539101"
-        }, 
-        {
-            "attribute_key": "agir_aksaksemai", 
-            "mb_tag": "a\u011f\u0131r aksaksemai", 
-            "source": "http://musicbrainz.org/recording/ba269207-166d-4f92-933e-4d47f3810621"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "ba269207-166d-4f92-933e-4d47f3810621", 
+    "works": [
+        {
+            "mbid": "272caadb-14d8-4c13-9744-564d26539101", 
+            "title": "Doldur Getir"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "segah", 
@@ -62,11 +57,16 @@
             "name": "Bekir S\u0131dk\u0131 Sezgin"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "272caadb-14d8-4c13-9744-564d26539101", 
-            "title": "Doldur Getir"
+            "attribute_key": "agir_aksaksemai", 
+            "mb_attribute": "A\u011f\u0131r Aksaksemai", 
+            "source": "http://musicbrainz.org/work/272caadb-14d8-4c13-9744-564d26539101"
+        }, 
+        {
+            "attribute_key": "agir_aksaksemai", 
+            "mb_tag": "a\u011f\u0131r aksaksemai", 
+            "source": "http://musicbrainz.org/recording/ba269207-166d-4f92-933e-4d47f3810621"
         }
     ]
 }

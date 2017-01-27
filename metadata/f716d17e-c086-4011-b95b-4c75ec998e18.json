@@ -1,11 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "senginsemai", 
-            "mb_attribute": "Senginsemai", 
-            "source": "http://musicbrainz.org/work/8ff4d355-dd46-4074-b266-aeacabaf875a"
-        }
-    ], 
+    "instrumentation_voicing": "ensemble instrumental", 
     "form": [
         {
             "attribute_key": "sazsemaisi", 
@@ -33,6 +27,12 @@
         }
     ], 
     "mbid": "f716d17e-c086-4011-b95b-4c75ec998e18", 
+    "works": [
+        {
+            "mbid": "8ff4d355-dd46-4074-b266-aeacabaf875a", 
+            "title": "Nihavend Saz Semai"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "nihavent", 
@@ -95,11 +95,11 @@
             "name": "Yurdal Tokcan"
         }
     ], 
-    "instrumentation_voicing": "Ensemble instrumental", 
-    "works": [
+    "usul": [
         {
-            "mbid": "8ff4d355-dd46-4074-b266-aeacabaf875a", 
-            "title": "Nihavend Saz Semai"
+            "attribute_key": "senginsemai", 
+            "mb_attribute": "Senginsemai", 
+            "source": "http://musicbrainz.org/work/8ff4d355-dd46-4074-b266-aeacabaf875a"
         }
     ]
 }

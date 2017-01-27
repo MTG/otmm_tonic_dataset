@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "aksak", 
-            "mb_attribute": "Aksak", 
-            "source": "http://musicbrainz.org/work/9ae2d9dd-6dd3-490a-95ea-eb4e64df9168"
-        }, 
-        {
-            "attribute_key": "aksak", 
-            "mb_tag": "aksak", 
-            "source": "http://musicbrainz.org/recording/43383c69-f078-49bb-8f89-848d65156ee7"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal without accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "43383c69-f078-49bb-8f89-848d65156ee7", 
+    "works": [
+        {
+            "mbid": "9ae2d9dd-6dd3-490a-95ea-eb4e64df9168", 
+            "title": "Ellerine Kimler Yakt\u0131 K\u0131nay\u0131"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "kurdilihicazkar", 
@@ -62,11 +57,16 @@
             "name": "Sabite Tur G\u00fclerman"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal without accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "9ae2d9dd-6dd3-490a-95ea-eb4e64df9168", 
-            "title": "Ellerine Kimler Yakt\u0131 K\u0131nay\u0131"
+            "attribute_key": "aksak", 
+            "mb_attribute": "Aksak", 
+            "source": "http://musicbrainz.org/work/9ae2d9dd-6dd3-490a-95ea-eb4e64df9168"
+        }, 
+        {
+            "attribute_key": "aksak", 
+            "mb_tag": "aksak", 
+            "source": "http://musicbrainz.org/recording/43383c69-f078-49bb-8f89-848d65156ee7"
         }
     ]
 }

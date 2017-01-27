@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "duyek", 
-            "mb_attribute": "D\u00fcyek", 
-            "source": "http://musicbrainz.org/work/7e01a44b-fd20-4d4f-b0a7-1edf2635ac43"
-        }, 
-        {
-            "attribute_key": "duyek", 
-            "mb_tag": "d\u00fcyek", 
-            "source": "http://musicbrainz.org/recording/e6a2a944-de7b-47b2-ab0d-51ab379f44c9"
-        }
-    ], 
+    "instrumentation_voicing": "solo instrumental", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "e6a2a944-de7b-47b2-ab0d-51ab379f44c9", 
+    "works": [
+        {
+            "mbid": "7e01a44b-fd20-4d4f-b0a7-1edf2635ac43", 
+            "title": "Bir Demet Yasemen"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "nihavent", 
@@ -60,11 +55,16 @@
             "name": "Ergin K\u0131z\u0131lay"
         }
     ], 
-    "instrumentation_voicing": "Solo instrumental", 
-    "works": [
+    "usul": [
         {
-            "mbid": "7e01a44b-fd20-4d4f-b0a7-1edf2635ac43", 
-            "title": "Bir Demet Yasemen"
+            "attribute_key": "duyek", 
+            "mb_attribute": "D\u00fcyek", 
+            "source": "http://musicbrainz.org/work/7e01a44b-fd20-4d4f-b0a7-1edf2635ac43"
+        }, 
+        {
+            "attribute_key": "duyek", 
+            "mb_tag": "d\u00fcyek", 
+            "source": "http://musicbrainz.org/recording/e6a2a944-de7b-47b2-ab0d-51ab379f44c9"
         }
     ]
 }

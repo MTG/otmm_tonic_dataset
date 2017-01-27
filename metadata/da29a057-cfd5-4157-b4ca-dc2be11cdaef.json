@@ -1,5 +1,11 @@
 {
-    "instrumentation_voicing": "Duo instrumental", 
+    "usul": [
+        {
+            "attribute_key": "serbest", 
+            "mb_tag": "serbest", 
+            "source": "http://musicbrainz.org/recording/da29a057-cfd5-4157-b4ca-dc2be11cdaef"
+        }
+    ], 
     "form": [
         {
             "attribute_key": "taksim", 
@@ -51,11 +57,5 @@
             "name": "Murat Aydemir"
         }
     ], 
-    "usul": [
-        {
-            "attribute_key": "serbest", 
-            "mb_tag": "serbest", 
-            "source": "http://musicbrainz.org/recording/da29a057-cfd5-4157-b4ca-dc2be11cdaef"
-        }
-    ]
+    "instrumentation_voicing": "duo instrumental"
 }

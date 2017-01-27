@@ -1,21 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "aksaksemai", 
-            "mb_attribute": "Aksaksemai", 
-            "source": "http://musicbrainz.org/work/128bbaa3-e7f2-417e-924e-0eac99880556"
-        }, 
-        {
-            "attribute_key": "devrikebir", 
-            "mb_attribute": "Devr-i Kebir", 
-            "source": "http://musicbrainz.org/work/820b3011-67ba-4dbd-b249-2fd3008ac032"
-        }, 
-        {
-            "attribute_key": "serbest", 
-            "mb_tag": "serbest", 
-            "source": "http://musicbrainz.org/recording/ed189797-5c50-4fde-abfa-cb1c8a2a2571"
-        }
-    ], 
+    "instrumentation_voicing": "trio instrumental", 
     "form": [
         {
             "attribute_key": "sazsemaisi", 
@@ -58,6 +42,16 @@
         }
     ], 
     "mbid": "ed189797-5c50-4fde-abfa-cb1c8a2a2571", 
+    "works": [
+        {
+            "mbid": "128bbaa3-e7f2-417e-924e-0eac99880556", 
+            "title": "Isfahan Sazsemaisi"
+        }, 
+        {
+            "mbid": "820b3011-67ba-4dbd-b249-2fd3008ac032", 
+            "title": "Isfahan Pe\u015frev"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "isfahan", 
@@ -111,15 +105,21 @@
             "name": "Fahire Fersan"
         }
     ], 
-    "instrumentation_voicing": "Trio instrumental", 
-    "works": [
+    "usul": [
         {
-            "mbid": "128bbaa3-e7f2-417e-924e-0eac99880556", 
-            "title": "Isfahan Sazsemaisi"
+            "attribute_key": "aksaksemai", 
+            "mb_attribute": "Aksaksemai", 
+            "source": "http://musicbrainz.org/work/128bbaa3-e7f2-417e-924e-0eac99880556"
         }, 
         {
-            "mbid": "820b3011-67ba-4dbd-b249-2fd3008ac032", 
-            "title": "Isfahan Pe\u015frev"
+            "attribute_key": "devrikebir", 
+            "mb_attribute": "Devr-i Kebir", 
+            "source": "http://musicbrainz.org/work/820b3011-67ba-4dbd-b249-2fd3008ac032"
+        }, 
+        {
+            "attribute_key": "serbest", 
+            "mb_tag": "serbest", 
+            "source": "http://musicbrainz.org/recording/ed189797-5c50-4fde-abfa-cb1c8a2a2571"
         }
     ]
 }

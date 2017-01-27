@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "semai", 
-            "mb_attribute": "Semai", 
-            "source": "http://musicbrainz.org/work/a4cec42c-5a75-4ba4-9ef7-4ad29fbcedb5"
-        }, 
-        {
-            "attribute_key": "semai", 
-            "mb_tag": "semai", 
-            "source": "http://musicbrainz.org/recording/000b5f79-80e8-44ca-80e7-0e3bdc741631"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal without accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "000b5f79-80e8-44ca-80e7-0e3bdc741631", 
+    "works": [
+        {
+            "mbid": "a4cec42c-5a75-4ba4-9ef7-4ad29fbcedb5", 
+            "title": "Mavi G\u00f6k Mavi Deniz"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "kurdilihicazkar", 
@@ -60,11 +55,16 @@
             "name": "[unknown]"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal without accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "a4cec42c-5a75-4ba4-9ef7-4ad29fbcedb5", 
-            "title": "Mavi G\u00f6k Mavi Deniz"
+            "attribute_key": "semai", 
+            "mb_attribute": "Semai", 
+            "source": "http://musicbrainz.org/work/a4cec42c-5a75-4ba4-9ef7-4ad29fbcedb5"
+        }, 
+        {
+            "attribute_key": "semai", 
+            "mb_tag": "semai", 
+            "source": "http://musicbrainz.org/recording/000b5f79-80e8-44ca-80e7-0e3bdc741631"
         }
     ]
 }

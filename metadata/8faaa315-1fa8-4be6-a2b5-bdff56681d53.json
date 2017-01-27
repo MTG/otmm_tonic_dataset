@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "nimsofyan", 
-            "mb_attribute": "Nimsofyan", 
-            "source": "http://musicbrainz.org/work/93b81188-622b-4b0e-8489-b80ee49a22c3"
-        }, 
-        {
-            "attribute_key": "nimsofyan", 
-            "mb_tag": "nimsofyan", 
-            "source": "http://musicbrainz.org/recording/8faaa315-1fa8-4be6-a2b5-bdff56681d53"
-        }
-    ], 
+    "instrumentation_voicing": "solo instrumental", 
     "form": [
         {
             "attribute_key": "sirto", 
@@ -46,6 +35,12 @@
         }
     ], 
     "mbid": "8faaa315-1fa8-4be6-a2b5-bdff56681d53", 
+    "works": [
+        {
+            "mbid": "93b81188-622b-4b0e-8489-b80ee49a22c3", 
+            "title": "Sultaniyegah Sirto"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "sultaniyegah", 
@@ -68,11 +63,16 @@
             "name": "Necati \u00c7elik"
         }
     ], 
-    "instrumentation_voicing": "Solo instrumental", 
-    "works": [
+    "usul": [
         {
-            "mbid": "93b81188-622b-4b0e-8489-b80ee49a22c3", 
-            "title": "Sultaniyegah Sirto"
+            "attribute_key": "nimsofyan", 
+            "mb_attribute": "Nimsofyan", 
+            "source": "http://musicbrainz.org/work/93b81188-622b-4b0e-8489-b80ee49a22c3"
+        }, 
+        {
+            "attribute_key": "nimsofyan", 
+            "mb_tag": "nimsofyan", 
+            "source": "http://musicbrainz.org/recording/8faaa315-1fa8-4be6-a2b5-bdff56681d53"
         }
     ]
 }

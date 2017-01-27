@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "curcuna", 
-            "mb_attribute": "Curcuna", 
-            "source": "http://musicbrainz.org/work/99419e27-bf76-4e62-83a5-619296c4af62"
-        }, 
-        {
-            "attribute_key": "kapali_curcuna", 
-            "mb_tag": "curcuna", 
-            "source": "http://musicbrainz.org/recording/e652dfd7-79fc-4dd7-83ae-e586c62c45c4"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "e652dfd7-79fc-4dd7-83ae-e586c62c45c4", 
+    "works": [
+        {
+            "mbid": "99419e27-bf76-4e62-83a5-619296c4af62", 
+            "title": "Talat Eyler mi Diye Suy-i Ka\u011f\u0131thanede"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "huzzam", 
@@ -62,11 +57,16 @@
             "name": "Bekir S\u0131dk\u0131 Sezgin"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "99419e27-bf76-4e62-83a5-619296c4af62", 
-            "title": "Talat Eyler mi Diye Suy-i Ka\u011f\u0131thanede"
+            "attribute_key": "curcuna", 
+            "mb_attribute": "Curcuna", 
+            "source": "http://musicbrainz.org/work/99419e27-bf76-4e62-83a5-619296c4af62"
+        }, 
+        {
+            "attribute_key": "kapali_curcuna", 
+            "mb_tag": "curcuna", 
+            "source": "http://musicbrainz.org/recording/e652dfd7-79fc-4dd7-83ae-e586c62c45c4"
         }
     ]
 }

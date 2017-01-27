@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "yuruksemai", 
-            "mb_attribute": "Y\u00fcr\u00fcksemai", 
-            "source": "http://musicbrainz.org/work/dcf0164d-59e3-4bcf-98b1-cef70acdcdf5"
-        }, 
-        {
-            "attribute_key": "yuruksemai", 
-            "mb_tag": "y\u00fcr\u00fcksemai", 
-            "source": "http://musicbrainz.org/recording/4d132313-aaa2-43f3-a929-ef25e89c5fbe"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "nakis", 
@@ -43,6 +32,12 @@
         }
     ], 
     "mbid": "4d132313-aaa2-43f3-a929-ef25e89c5fbe", 
+    "works": [
+        {
+            "mbid": "dcf0164d-59e3-4bcf-98b1-cef70acdcdf5", 
+            "title": "Meskenimiz Ku\u015fe-i Meyhanedir"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "beyati", 
@@ -97,11 +92,16 @@
             "name": "Do\u011fan Dikmen"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "dcf0164d-59e3-4bcf-98b1-cef70acdcdf5", 
-            "title": "Meskenimiz Ku\u015fe-i Meyhanedir"
+            "attribute_key": "yuruksemai", 
+            "mb_attribute": "Y\u00fcr\u00fcksemai", 
+            "source": "http://musicbrainz.org/work/dcf0164d-59e3-4bcf-98b1-cef70acdcdf5"
+        }, 
+        {
+            "attribute_key": "yuruksemai", 
+            "mb_tag": "y\u00fcr\u00fcksemai", 
+            "source": "http://musicbrainz.org/recording/4d132313-aaa2-43f3-a929-ef25e89c5fbe"
         }
     ]
 }

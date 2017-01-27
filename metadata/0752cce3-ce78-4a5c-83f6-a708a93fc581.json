@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "turkaksagi", 
-            "mb_attribute": "T\u00fcrkaksa\u011f\u0131", 
-            "source": "http://musicbrainz.org/work/dac027fc-e3ca-47b1-90c7-bb64b02b7d9b"
-        }, 
-        {
-            "attribute_key": "turkaksagi_ii", 
-            "mb_tag": "t\u00fcrkaksa\u011f\u0131", 
-            "source": "http://musicbrainz.org/recording/0752cce3-ce78-4a5c-83f6-a708a93fc581"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "0752cce3-ce78-4a5c-83f6-a708a93fc581", 
+    "works": [
+        {
+            "mbid": "dac027fc-e3ca-47b1-90c7-bb64b02b7d9b", 
+            "title": "Nerelerde Kald\u0131n"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "nihavent", 
@@ -70,11 +65,16 @@
             "name": "Udi Hrant Kenkulian"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "dac027fc-e3ca-47b1-90c7-bb64b02b7d9b", 
-            "title": "Nerelerde Kald\u0131n"
+            "attribute_key": "turkaksagi", 
+            "mb_attribute": "T\u00fcrkaksa\u011f\u0131", 
+            "source": "http://musicbrainz.org/work/dac027fc-e3ca-47b1-90c7-bb64b02b7d9b"
+        }, 
+        {
+            "attribute_key": "turkaksagi_ii", 
+            "mb_tag": "t\u00fcrkaksa\u011f\u0131", 
+            "source": "http://musicbrainz.org/recording/0752cce3-ce78-4a5c-83f6-a708a93fc581"
         }
     ]
 }

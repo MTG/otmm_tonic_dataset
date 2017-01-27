@@ -1,11 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "devrikebir", 
-            "mb_attribute": "Devr-i Kebir", 
-            "source": "http://musicbrainz.org/work/01412a5d-1858-43b3-b5b0-78f383675e9b"
-        }
-    ], 
+    "instrumentation_voicing": "solo instrumental", 
     "form": [
         {
             "attribute_key": "pesrev", 
@@ -33,6 +27,12 @@
         }
     ], 
     "mbid": "d47cb362-e7c4-4a56-863f-20107a3a75b3", 
+    "works": [
+        {
+            "mbid": "01412a5d-1858-43b3-b5b0-78f383675e9b", 
+            "title": "Acema\u015firan Pe\u015frev"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "acemasiran", 
@@ -56,11 +56,11 @@
             "name": "Salih Bilgin"
         }
     ], 
-    "instrumentation_voicing": "Solo instrumental", 
-    "works": [
+    "usul": [
         {
-            "mbid": "01412a5d-1858-43b3-b5b0-78f383675e9b", 
-            "title": "Acema\u015firan Pe\u015frev"
+            "attribute_key": "devrikebir", 
+            "mb_attribute": "Devr-i Kebir", 
+            "source": "http://musicbrainz.org/work/01412a5d-1858-43b3-b5b0-78f383675e9b"
         }
     ]
 }

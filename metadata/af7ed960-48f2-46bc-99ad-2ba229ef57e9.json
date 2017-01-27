@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "duyek", 
-            "mb_attribute": "D\u00fcyek", 
-            "source": "http://musicbrainz.org/work/418a1421-39de-44c4-8f43-26df51202784"
-        }, 
-        {
-            "attribute_key": "duyek", 
-            "mb_tag": "d\u00fcyek", 
-            "source": "http://musicbrainz.org/recording/af7ed960-48f2-46bc-99ad-2ba229ef57e9"
-        }
-    ], 
+    "instrumentation_voicing": "choir", 
     "form": [
         {
             "attribute_key": "pesrev", 
@@ -62,6 +51,12 @@
         }
     ], 
     "mbid": "af7ed960-48f2-46bc-99ad-2ba229ef57e9", 
+    "works": [
+        {
+            "mbid": "418a1421-39de-44c4-8f43-26df51202784", 
+            "title": "Neva Pe\u015frev"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "neva", 
@@ -125,11 +120,16 @@
             "name": "Do\u011fan Dikmen"
         }
     ], 
-    "instrumentation_voicing": "Choir", 
-    "works": [
+    "usul": [
         {
-            "mbid": "418a1421-39de-44c4-8f43-26df51202784", 
-            "title": "Neva Pe\u015frev"
+            "attribute_key": "duyek", 
+            "mb_attribute": "D\u00fcyek", 
+            "source": "http://musicbrainz.org/work/418a1421-39de-44c4-8f43-26df51202784"
+        }, 
+        {
+            "attribute_key": "duyek", 
+            "mb_tag": "d\u00fcyek", 
+            "source": "http://musicbrainz.org/recording/af7ed960-48f2-46bc-99ad-2ba229ef57e9"
         }
     ]
 }

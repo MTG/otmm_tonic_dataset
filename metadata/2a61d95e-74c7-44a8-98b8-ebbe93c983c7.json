@@ -1,5 +1,5 @@
 {
-    "usul": [], 
+    "instrumentation_voicing": "ensemble instrumental", 
     "form": [
         {
             "attribute_key": "oyunhavasi", 
@@ -27,6 +27,12 @@
         }
     ], 
     "mbid": "2a61d95e-74c7-44a8-98b8-ebbe93c983c7", 
+    "works": [
+        {
+            "mbid": "1f3f35d3-25d0-49b5-9f8a-4bd880301902", 
+            "title": "Rast Oyun Havas\u0131"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "rast", 
@@ -46,11 +52,5 @@
             "name": "Aziz T\u00fcrk Sanat M\u00fczi\u011fi Grubu"
         }
     ], 
-    "instrumentation_voicing": "Ensemble instrumental", 
-    "works": [
-        {
-            "mbid": "1f3f35d3-25d0-49b5-9f8a-4bd880301902", 
-            "title": "Rast Oyun Havas\u0131"
-        }
-    ]
+    "usul": []
 }

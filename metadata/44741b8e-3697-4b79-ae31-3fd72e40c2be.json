@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "turkaksagi", 
-            "mb_attribute": "T\u00fcrkaksa\u011f\u0131", 
-            "source": "http://musicbrainz.org/work/ab3e540f-c8dd-4d22-9e74-b684927fbf5d"
-        }, 
-        {
-            "attribute_key": "turkaksagi_ii", 
-            "mb_tag": "t\u00fcrkaksa\u011f\u0131", 
-            "source": "http://musicbrainz.org/recording/44741b8e-3697-4b79-ae31-3fd72e40c2be"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal without accompaniment", 
     "form": [
         {
             "attribute_key": "turku", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "44741b8e-3697-4b79-ae31-3fd72e40c2be", 
+    "works": [
+        {
+            "mbid": "ab3e540f-c8dd-4d22-9e74-b684927fbf5d", 
+            "title": "Tanburam\u0131n \u0130nce K\u0131vrak Beli Var"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "karcigar", 
@@ -57,11 +52,16 @@
             "name": "Sabite Tur G\u00fclerman"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal without accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "ab3e540f-c8dd-4d22-9e74-b684927fbf5d", 
-            "title": "Tanburam\u0131n \u0130nce K\u0131vrak Beli Var"
+            "attribute_key": "turkaksagi", 
+            "mb_attribute": "T\u00fcrkaksa\u011f\u0131", 
+            "source": "http://musicbrainz.org/work/ab3e540f-c8dd-4d22-9e74-b684927fbf5d"
+        }, 
+        {
+            "attribute_key": "turkaksagi_ii", 
+            "mb_tag": "t\u00fcrkaksa\u011f\u0131", 
+            "source": "http://musicbrainz.org/recording/44741b8e-3697-4b79-ae31-3fd72e40c2be"
         }
     ]
 }

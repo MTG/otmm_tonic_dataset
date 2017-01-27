@@ -1,21 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "agiraksak", 
-            "mb_attribute": "A\u011f\u0131raksak", 
-            "source": "http://musicbrainz.org/work/2cf34486-c4e2-4d05-8c67-e603df2e39de"
-        }, 
-        {
-            "attribute_key": "agiraksak", 
-            "mb_tag": "a\u011f\u0131raksak", 
-            "source": "http://musicbrainz.org/recording/3585204e-4b75-486a-acad-547c88c62965"
-        }, 
-        {
-            "attribute_key": "serbest", 
-            "mb_tag": "serbest", 
-            "source": "http://musicbrainz.org/recording/3585204e-4b75-486a-acad-547c88c62965"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -48,6 +32,12 @@
         }
     ], 
     "mbid": "3585204e-4b75-486a-acad-547c88c62965", 
+    "works": [
+        {
+            "mbid": "2cf34486-c4e2-4d05-8c67-e603df2e39de", 
+            "title": "Ka\u00e7ma Mecburundan"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "bestenigar", 
@@ -235,11 +225,21 @@
             "name": "Tar\u0131k Kemanc\u0131"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "2cf34486-c4e2-4d05-8c67-e603df2e39de", 
-            "title": "Ka\u00e7ma Mecburundan"
+            "attribute_key": "agiraksak", 
+            "mb_attribute": "A\u011f\u0131raksak", 
+            "source": "http://musicbrainz.org/work/2cf34486-c4e2-4d05-8c67-e603df2e39de"
+        }, 
+        {
+            "attribute_key": "agiraksak", 
+            "mb_tag": "a\u011f\u0131raksak", 
+            "source": "http://musicbrainz.org/recording/3585204e-4b75-486a-acad-547c88c62965"
+        }, 
+        {
+            "attribute_key": "serbest", 
+            "mb_tag": "serbest", 
+            "source": "http://musicbrainz.org/recording/3585204e-4b75-486a-acad-547c88c62965"
         }
     ]
 }

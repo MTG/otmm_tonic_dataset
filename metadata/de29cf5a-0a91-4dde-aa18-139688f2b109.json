@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "duyek", 
-            "mb_attribute": "D\u00fcyek", 
-            "source": "http://musicbrainz.org/work/85ad22fa-b478-4cb2-b5bd-90c4799a47d4"
-        }, 
-        {
-            "attribute_key": "duyek", 
-            "mb_tag": "d\u00fcyek", 
-            "source": "http://musicbrainz.org/recording/de29cf5a-0a91-4dde-aa18-139688f2b109"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "de29cf5a-0a91-4dde-aa18-139688f2b109", 
+    "works": [
+        {
+            "mbid": "85ad22fa-b478-4cb2-b5bd-90c4799a47d4", 
+            "title": "Dertliyim Ruhuma Hicran\u0131m\u0131 Sard\u0131m da Yine"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "segah", 
@@ -62,11 +57,16 @@
             "name": "Meral U\u011furlu"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "85ad22fa-b478-4cb2-b5bd-90c4799a47d4", 
-            "title": "Dertliyim Ruhuma Hicran\u0131m\u0131 Sard\u0131m da Yine"
+            "attribute_key": "duyek", 
+            "mb_attribute": "D\u00fcyek", 
+            "source": "http://musicbrainz.org/work/85ad22fa-b478-4cb2-b5bd-90c4799a47d4"
+        }, 
+        {
+            "attribute_key": "duyek", 
+            "mb_tag": "d\u00fcyek", 
+            "source": "http://musicbrainz.org/recording/de29cf5a-0a91-4dde-aa18-139688f2b109"
         }
     ]
 }

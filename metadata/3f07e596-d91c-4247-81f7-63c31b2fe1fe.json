@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "duyek", 
-            "mb_attribute": "D\u00fcyek", 
-            "source": "http://musicbrainz.org/work/7617065c-b875-4c22-b167-43eec6e7b9da"
-        }, 
-        {
-            "attribute_key": "duyek", 
-            "mb_tag": "d\u00fcyek", 
-            "source": "http://musicbrainz.org/recording/3f07e596-d91c-4247-81f7-63c31b2fe1fe"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "3f07e596-d91c-4247-81f7-63c31b2fe1fe", 
+    "works": [
+        {
+            "mbid": "7617065c-b875-4c22-b167-43eec6e7b9da", 
+            "title": "Saymad\u0131m Ka\u00e7 Y\u0131l Oldu"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "kurdilihicazkar", 
@@ -62,11 +57,16 @@
             "name": "Mediha \u015een Sancako\u011flu"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "7617065c-b875-4c22-b167-43eec6e7b9da", 
-            "title": "Saymad\u0131m Ka\u00e7 Y\u0131l Oldu"
+            "attribute_key": "duyek", 
+            "mb_attribute": "D\u00fcyek", 
+            "source": "http://musicbrainz.org/work/7617065c-b875-4c22-b167-43eec6e7b9da"
+        }, 
+        {
+            "attribute_key": "duyek", 
+            "mb_tag": "d\u00fcyek", 
+            "source": "http://musicbrainz.org/recording/3f07e596-d91c-4247-81f7-63c31b2fe1fe"
         }
     ]
 }

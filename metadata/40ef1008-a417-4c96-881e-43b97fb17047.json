@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "hafif", 
-            "mb_attribute": "Hafif", 
-            "source": "http://musicbrainz.org/work/32a9c5dc-1e57-47dc-9b97-6e0a611df9e4"
-        }, 
-        {
-            "attribute_key": "muhammes", 
-            "mb_tag": "muhammes", 
-            "source": "http://musicbrainz.org/recording/40ef1008-a417-4c96-881e-43b97fb17047"
-        }
-    ], 
+    "instrumentation_voicing": "ensemble instrumental", 
     "form": [
         {
             "attribute_key": "pesrev", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "40ef1008-a417-4c96-881e-43b97fb17047", 
+    "works": [
+        {
+            "mbid": "32a9c5dc-1e57-47dc-9b97-6e0a611df9e4", 
+            "title": "Mahur Pe\u015frevi"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "mahur", 
@@ -57,11 +52,16 @@
             "name": "[unknown]"
         }
     ], 
-    "instrumentation_voicing": "Ensemble instrumental", 
-    "works": [
+    "usul": [
         {
-            "mbid": "32a9c5dc-1e57-47dc-9b97-6e0a611df9e4", 
-            "title": "Mahur Pe\u015frevi"
+            "attribute_key": "hafif", 
+            "mb_attribute": "Hafif", 
+            "source": "http://musicbrainz.org/work/32a9c5dc-1e57-47dc-9b97-6e0a611df9e4"
+        }, 
+        {
+            "attribute_key": "muhammes", 
+            "mb_tag": "muhammes", 
+            "source": "http://musicbrainz.org/recording/40ef1008-a417-4c96-881e-43b97fb17047"
         }
     ]
 }

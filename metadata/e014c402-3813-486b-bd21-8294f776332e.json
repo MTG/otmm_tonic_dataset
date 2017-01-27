@@ -1,5 +1,11 @@
 {
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
+    "usul": [
+        {
+            "attribute_key": "serbest", 
+            "mb_tag": "serbest", 
+            "source": "http://musicbrainz.org/recording/e014c402-3813-486b-bd21-8294f776332e"
+        }
+    ], 
     "form": [
         {
             "attribute_key": "gazel", 
@@ -44,11 +50,5 @@
             "name": "Ya\u015far Okur"
         }
     ], 
-    "usul": [
-        {
-            "attribute_key": "serbest", 
-            "mb_tag": "serbest", 
-            "source": "http://musicbrainz.org/recording/e014c402-3813-486b-bd21-8294f776332e"
-        }
-    ]
+    "instrumentation_voicing": "solo vocal with accompaniment"
 }

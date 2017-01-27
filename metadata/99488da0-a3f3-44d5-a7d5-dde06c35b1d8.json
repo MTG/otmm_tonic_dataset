@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "kapali_curcuna", 
-            "mb_attribute": "Kapal\u0131 Curcuna", 
-            "source": "http://musicbrainz.org/work/4263f6b7-e31b-48a0-aa75-7eadfa2d37f8"
-        }, 
-        {
-            "attribute_key": "kapali_curcuna", 
-            "mb_tag": "curcuna", 
-            "source": "http://musicbrainz.org/recording/99488da0-a3f3-44d5-a7d5-dde06c35b1d8"
-        }
-    ], 
+    "instrumentation_voicing": "choir", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "99488da0-a3f3-44d5-a7d5-dde06c35b1d8", 
+    "works": [
+        {
+            "mbid": "4263f6b7-e31b-48a0-aa75-7eadfa2d37f8", 
+            "title": "Esir Ettin Beni"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "mahur", 
@@ -275,11 +270,16 @@
             "name": "Nebahat Konu"
         }
     ], 
-    "instrumentation_voicing": "Choir", 
-    "works": [
+    "usul": [
         {
-            "mbid": "4263f6b7-e31b-48a0-aa75-7eadfa2d37f8", 
-            "title": "Esir Ettin Beni"
+            "attribute_key": "kapali_curcuna", 
+            "mb_attribute": "Kapal\u0131 Curcuna", 
+            "source": "http://musicbrainz.org/work/4263f6b7-e31b-48a0-aa75-7eadfa2d37f8"
+        }, 
+        {
+            "attribute_key": "kapali_curcuna", 
+            "mb_tag": "curcuna", 
+            "source": "http://musicbrainz.org/recording/99488da0-a3f3-44d5-a7d5-dde06c35b1d8"
         }
     ]
 }

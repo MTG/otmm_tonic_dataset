@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "aksak", 
-            "mb_attribute": "Aksak", 
-            "source": "http://musicbrainz.org/work/a8dbf725-c45f-4723-9eb2-3e15e51aa478"
-        }, 
-        {
-            "attribute_key": "aksak", 
-            "mb_tag": "aksak", 
-            "source": "http://musicbrainz.org/recording/4ffdbfdb-4a75-4288-9827-ea6cf7f87eab"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "4ffdbfdb-4a75-4288-9827-ea6cf7f87eab", 
+    "works": [
+        {
+            "mbid": "a8dbf725-c45f-4723-9eb2-3e15e51aa478", 
+            "title": "F\u0131rsat Bulsam Yare Varsam"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "sehnaz", 
@@ -241,11 +236,16 @@
             "name": "Sedat G\u00fcndiyer"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "a8dbf725-c45f-4723-9eb2-3e15e51aa478", 
-            "title": "F\u0131rsat Bulsam Yare Varsam"
+            "attribute_key": "aksak", 
+            "mb_attribute": "Aksak", 
+            "source": "http://musicbrainz.org/work/a8dbf725-c45f-4723-9eb2-3e15e51aa478"
+        }, 
+        {
+            "attribute_key": "aksak", 
+            "mb_tag": "aksak", 
+            "source": "http://musicbrainz.org/recording/4ffdbfdb-4a75-4288-9827-ea6cf7f87eab"
         }
     ]
 }

@@ -1,5 +1,5 @@
 {
-    "usul": [], 
+    "instrumentation_voicing": "ensemble instrumental", 
     "form": [
         {
             "attribute_key": "pesrev", 
@@ -31,6 +31,12 @@
         }
     ], 
     "mbid": "478a3420-ef94-47da-a1c8-a13aeb859081", 
+    "works": [
+        {
+            "mbid": "0057740c-1d91-4727-9061-d1e5667e1d6a", 
+            "title": "Pierre Loti"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "rast", 
@@ -80,11 +86,5 @@
             "name": "Vahit Anadolu"
         }
     ], 
-    "instrumentation_voicing": "Ensemble instrumental", 
-    "works": [
-        {
-            "mbid": "0057740c-1d91-4727-9061-d1e5667e1d6a", 
-            "title": "Pierre Loti"
-        }
-    ]
+    "usul": []
 }

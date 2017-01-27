@@ -1,11 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "serbest", 
-            "mb_tag": "serbest", 
-            "source": "http://musicbrainz.org/recording/62f7dbff-6db3-4356-a597-5e4270c5fd93"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal without accompaniment", 
     "form": [
         {
             "attribute_key": "naat", 
@@ -33,6 +27,12 @@
         }
     ], 
     "mbid": "62f7dbff-6db3-4356-a597-5e4270c5fd93", 
+    "works": [
+        {
+            "mbid": "e68fa5d4-55b2-47ac-a56f-39c30c9dd713", 
+            "title": "Na't-\u0131 Mevlana"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "rast", 
@@ -55,11 +55,11 @@
             "name": "Bekir S\u0131dk\u0131 Sezgin"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal without accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "e68fa5d4-55b2-47ac-a56f-39c30c9dd713", 
-            "title": "Na't-\u0131 Mevlana"
+            "attribute_key": "serbest", 
+            "mb_tag": "serbest", 
+            "source": "http://musicbrainz.org/recording/62f7dbff-6db3-4356-a597-5e4270c5fd93"
         }
     ]
 }

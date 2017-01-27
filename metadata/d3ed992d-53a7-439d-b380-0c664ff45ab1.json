@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "curcuna", 
-            "mb_attribute": "Curcuna", 
-            "source": "http://musicbrainz.org/work/7167d5f1-b941-404c-9619-402652385fd8"
-        }, 
-        {
-            "attribute_key": "kapali_curcuna", 
-            "mb_tag": "curcuna", 
-            "source": "http://musicbrainz.org/recording/d3ed992d-53a7-439d-b380-0c664ff45ab1"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "d3ed992d-53a7-439d-b380-0c664ff45ab1", 
+    "works": [
+        {
+            "mbid": "7167d5f1-b941-404c-9619-402652385fd8", 
+            "title": "Kadir Mevlam Sen Verirsin Bu Can\u0131"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "nihavent", 
@@ -62,11 +57,16 @@
             "name": "Bekir S\u0131dk\u0131 Sezgin"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "7167d5f1-b941-404c-9619-402652385fd8", 
-            "title": "Kadir Mevlam Sen Verirsin Bu Can\u0131"
+            "attribute_key": "curcuna", 
+            "mb_attribute": "Curcuna", 
+            "source": "http://musicbrainz.org/work/7167d5f1-b941-404c-9619-402652385fd8"
+        }, 
+        {
+            "attribute_key": "kapali_curcuna", 
+            "mb_tag": "curcuna", 
+            "source": "http://musicbrainz.org/recording/d3ed992d-53a7-439d-b380-0c664ff45ab1"
         }
     ]
 }

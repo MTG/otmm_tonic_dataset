@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "yuruksemai_ii", 
-            "mb_attribute": "Y\u00fcr\u00fcksemai II", 
-            "source": "http://musicbrainz.org/work/51374aea-cbaa-4c47-a030-2adbeac48d61"
-        }, 
-        {
-            "attribute_key": "yuruksemai", 
-            "mb_tag": "y\u00fcr\u00fcksemai", 
-            "source": "http://musicbrainz.org/recording/42f0ae68-f207-4d1d-8163-9e392cc15741"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "42f0ae68-f207-4d1d-8163-9e392cc15741", 
+    "works": [
+        {
+            "mbid": "51374aea-cbaa-4c47-a030-2adbeac48d61", 
+            "title": "S\u00fcz\u00fcp S\u00fcz\u00fcp de Ey Melek"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "nihavent", 
@@ -75,11 +70,16 @@
             "name": "\u015eent\u00fcrk Deveci"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "51374aea-cbaa-4c47-a030-2adbeac48d61", 
-            "title": "S\u00fcz\u00fcp S\u00fcz\u00fcp de Ey Melek"
+            "attribute_key": "yuruksemai_ii", 
+            "mb_attribute": "Y\u00fcr\u00fcksemai II", 
+            "source": "http://musicbrainz.org/work/51374aea-cbaa-4c47-a030-2adbeac48d61"
+        }, 
+        {
+            "attribute_key": "yuruksemai", 
+            "mb_tag": "y\u00fcr\u00fcksemai", 
+            "source": "http://musicbrainz.org/recording/42f0ae68-f207-4d1d-8163-9e392cc15741"
         }
     ]
 }

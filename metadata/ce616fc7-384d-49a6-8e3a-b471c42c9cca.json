@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "agiraksak", 
-            "mb_attribute": "A\u011f\u0131raksak", 
-            "source": "http://musicbrainz.org/work/f9085458-bfcf-4607-8324-bf287bca421b"
-        }, 
-        {
-            "attribute_key": "agiraksak", 
-            "mb_tag": "a\u011f\u0131raksak", 
-            "source": "http://musicbrainz.org/recording/ce616fc7-384d-49a6-8e3a-b471c42c9cca"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "ce616fc7-384d-49a6-8e3a-b471c42c9cca", 
+    "works": [
+        {
+            "mbid": "f9085458-bfcf-4607-8324-bf287bca421b", 
+            "title": "Mahveder Her Ne\u015feyi"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "acemasiran", 
@@ -62,11 +57,16 @@
             "name": "Bekir S\u0131dk\u0131 Sezgin"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "f9085458-bfcf-4607-8324-bf287bca421b", 
-            "title": "Mahveder Her Ne\u015feyi"
+            "attribute_key": "agiraksak", 
+            "mb_attribute": "A\u011f\u0131raksak", 
+            "source": "http://musicbrainz.org/work/f9085458-bfcf-4607-8324-bf287bca421b"
+        }, 
+        {
+            "attribute_key": "agiraksak", 
+            "mb_tag": "a\u011f\u0131raksak", 
+            "source": "http://musicbrainz.org/recording/ce616fc7-384d-49a6-8e3a-b471c42c9cca"
         }
     ]
 }

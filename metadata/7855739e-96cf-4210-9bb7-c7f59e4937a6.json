@@ -1,21 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "agiraksak", 
-            "mb_attribute": "A\u011f\u0131raksak", 
-            "source": "http://musicbrainz.org/work/556f33eb-d503-4211-ac91-b8c6ec2bf78e"
-        }, 
-        {
-            "attribute_key": "devrikebir", 
-            "mb_attribute": "Devr-i Kebir", 
-            "source": "http://musicbrainz.org/work/97ffb9f6-7eca-4dc3-bc45-4d6c14e0fb2d"
-        }, 
-        {
-            "attribute_key": "devrikebir", 
-            "mb_tag": "devr-i kebir", 
-            "source": "http://musicbrainz.org/recording/7855739e-96cf-4210-9bb7-c7f59e4937a6"
-        }
-    ], 
+    "instrumentation_voicing": "ensemble instrumental", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -48,6 +32,16 @@
         }
     ], 
     "mbid": "7855739e-96cf-4210-9bb7-c7f59e4937a6", 
+    "works": [
+        {
+            "mbid": "556f33eb-d503-4211-ac91-b8c6ec2bf78e", 
+            "title": "Bensiz Ey G\u00fcl G\u00fcl\u015fen-i Alemde Mey Nu\u015f Eyleme"
+        }, 
+        {
+            "mbid": "97ffb9f6-7eca-4dc3-bc45-4d6c14e0fb2d", 
+            "title": "Seg\u00e2h Pe\u015frev"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "segah", 
@@ -72,15 +66,21 @@
             "name": "[unknown]"
         }
     ], 
-    "instrumentation_voicing": "Ensemble instrumental", 
-    "works": [
+    "usul": [
         {
-            "mbid": "556f33eb-d503-4211-ac91-b8c6ec2bf78e", 
-            "title": "Bensiz Ey G\u00fcl G\u00fcl\u015fen-i Alemde Mey Nu\u015f Eyleme"
+            "attribute_key": "agiraksak", 
+            "mb_attribute": "A\u011f\u0131raksak", 
+            "source": "http://musicbrainz.org/work/556f33eb-d503-4211-ac91-b8c6ec2bf78e"
         }, 
         {
-            "mbid": "97ffb9f6-7eca-4dc3-bc45-4d6c14e0fb2d", 
-            "title": "Seg\u00e2h Pe\u015frev"
+            "attribute_key": "devrikebir", 
+            "mb_attribute": "Devr-i Kebir", 
+            "source": "http://musicbrainz.org/work/97ffb9f6-7eca-4dc3-bc45-4d6c14e0fb2d"
+        }, 
+        {
+            "attribute_key": "devrikebir", 
+            "mb_tag": "devr-i kebir", 
+            "source": "http://musicbrainz.org/recording/7855739e-96cf-4210-9bb7-c7f59e4937a6"
         }
     ]
 }

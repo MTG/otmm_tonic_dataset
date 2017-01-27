@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "musemmen", 
-            "mb_attribute": "M\u00fcsemmen", 
-            "source": "http://musicbrainz.org/work/03c2c728-6cab-42d1-907c-6be29455ce38"
-        }, 
-        {
-            "attribute_key": "musemmen_ii", 
-            "mb_tag": "m\u00fcsemmen", 
-            "source": "http://musicbrainz.org/recording/39a20910-302e-4f6a-86f2-7d8ec1e64eb9"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal without accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "39a20910-302e-4f6a-86f2-7d8ec1e64eb9", 
+    "works": [
+        {
+            "mbid": "03c2c728-6cab-42d1-907c-6be29455ce38", 
+            "title": "Hem Cemalin G\u00f6sterip"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "huseyni", 
@@ -60,11 +55,16 @@
             "name": "Semahat \u00d6zdenses"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal without accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "03c2c728-6cab-42d1-907c-6be29455ce38", 
-            "title": "Hem Cemalin G\u00f6sterip"
+            "attribute_key": "musemmen", 
+            "mb_attribute": "M\u00fcsemmen", 
+            "source": "http://musicbrainz.org/work/03c2c728-6cab-42d1-907c-6be29455ce38"
+        }, 
+        {
+            "attribute_key": "musemmen_ii", 
+            "mb_tag": "m\u00fcsemmen", 
+            "source": "http://musicbrainz.org/recording/39a20910-302e-4f6a-86f2-7d8ec1e64eb9"
         }
     ]
 }

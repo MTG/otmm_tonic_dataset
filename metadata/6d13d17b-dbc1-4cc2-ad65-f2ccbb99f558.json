@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "duyek", 
-            "mb_attribute": "D\u00fcyek", 
-            "source": "http://musicbrainz.org/work/495bf7af-6849-4977-899d-c3a03e21ca36"
-        }, 
-        {
-            "attribute_key": "duyek", 
-            "mb_tag": "d\u00fcyek", 
-            "source": "http://musicbrainz.org/recording/6d13d17b-dbc1-4cc2-ad65-f2ccbb99f558"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "6d13d17b-dbc1-4cc2-ad65-f2ccbb99f558", 
+    "works": [
+        {
+            "mbid": "495bf7af-6849-4977-899d-c3a03e21ca36", 
+            "title": "Ne \u00c7apk\u0131n Duda\u011f\u0131n Var"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "huzzam", 
@@ -89,11 +84,16 @@
             "name": "Ali Kocadin\u00e7"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "495bf7af-6849-4977-899d-c3a03e21ca36", 
-            "title": "Ne \u00c7apk\u0131n Duda\u011f\u0131n Var"
+            "attribute_key": "duyek", 
+            "mb_attribute": "D\u00fcyek", 
+            "source": "http://musicbrainz.org/work/495bf7af-6849-4977-899d-c3a03e21ca36"
+        }, 
+        {
+            "attribute_key": "duyek", 
+            "mb_tag": "d\u00fcyek", 
+            "source": "http://musicbrainz.org/recording/6d13d17b-dbc1-4cc2-ad65-f2ccbb99f558"
         }
     ]
 }

@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "semai", 
-            "mb_attribute": "Semai", 
-            "source": "http://musicbrainz.org/work/da32f145-d4c5-4f40-a18d-fc37d04b418c"
-        }, 
-        {
-            "attribute_key": "semai", 
-            "mb_tag": "semai", 
-            "source": "http://musicbrainz.org/recording/2ff025cf-a6af-470e-80fc-7ed058b6fc0f"
-        }
-    ], 
+    "instrumentation_voicing": "choir", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "2ff025cf-a6af-470e-80fc-7ed058b6fc0f", 
+    "works": [
+        {
+            "mbid": "da32f145-d4c5-4f40-a18d-fc37d04b418c", 
+            "title": "Bir Bezm-i Meyde Olsak"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "nihavent", 
@@ -148,11 +143,16 @@
             "name": "Safinaz Rizeli"
         }
     ], 
-    "instrumentation_voicing": "Choir", 
-    "works": [
+    "usul": [
         {
-            "mbid": "da32f145-d4c5-4f40-a18d-fc37d04b418c", 
-            "title": "Bir Bezm-i Meyde Olsak"
+            "attribute_key": "semai", 
+            "mb_attribute": "Semai", 
+            "source": "http://musicbrainz.org/work/da32f145-d4c5-4f40-a18d-fc37d04b418c"
+        }, 
+        {
+            "attribute_key": "semai", 
+            "mb_tag": "semai", 
+            "source": "http://musicbrainz.org/recording/2ff025cf-a6af-470e-80fc-7ed058b6fc0f"
         }
     ]
 }

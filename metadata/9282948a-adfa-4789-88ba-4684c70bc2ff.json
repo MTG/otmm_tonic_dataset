@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "duyek", 
-            "mb_attribute": "D\u00fcyek", 
-            "source": "http://musicbrainz.org/work/5c71988d-d9da-46de-bf1b-942000edc25d"
-        }, 
-        {
-            "attribute_key": "duyek", 
-            "mb_tag": "d\u00fcyek", 
-            "source": "http://musicbrainz.org/recording/9282948a-adfa-4789-88ba-4684c70bc2ff"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "9282948a-adfa-4789-88ba-4684c70bc2ff", 
+    "works": [
+        {
+            "mbid": "5c71988d-d9da-46de-bf1b-942000edc25d", 
+            "title": "Bir Nazik Nevreste Fidan"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "suzidil", 
@@ -116,11 +111,16 @@
             "name": "Safinaz Rizeli"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "5c71988d-d9da-46de-bf1b-942000edc25d", 
-            "title": "Bir Nazik Nevreste Fidan"
+            "attribute_key": "duyek", 
+            "mb_attribute": "D\u00fcyek", 
+            "source": "http://musicbrainz.org/work/5c71988d-d9da-46de-bf1b-942000edc25d"
+        }, 
+        {
+            "attribute_key": "duyek", 
+            "mb_tag": "d\u00fcyek", 
+            "source": "http://musicbrainz.org/recording/9282948a-adfa-4789-88ba-4684c70bc2ff"
         }
     ]
 }

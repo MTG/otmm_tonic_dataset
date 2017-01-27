@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "aksak", 
-            "mb_attribute": "Aksak", 
-            "source": "http://musicbrainz.org/work/27c1a7af-bd5b-4868-ab75-242aac35dedf"
-        }, 
-        {
-            "attribute_key": "aksak", 
-            "mb_tag": "aksak", 
-            "source": "http://musicbrainz.org/recording/59dde1f8-ad30-41f0-9017-1c5b505ef9a0"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "59dde1f8-ad30-41f0-9017-1c5b505ef9a0", 
+    "works": [
+        {
+            "mbid": "27c1a7af-bd5b-4868-ab75-242aac35dedf", 
+            "title": "Sevdi\u011fin D\u00fcnyalar Kadar"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "huzzam", 
@@ -62,11 +57,16 @@
             "name": "[unknown]"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "27c1a7af-bd5b-4868-ab75-242aac35dedf", 
-            "title": "Sevdi\u011fin D\u00fcnyalar Kadar"
+            "attribute_key": "aksak", 
+            "mb_attribute": "Aksak", 
+            "source": "http://musicbrainz.org/work/27c1a7af-bd5b-4868-ab75-242aac35dedf"
+        }, 
+        {
+            "attribute_key": "aksak", 
+            "mb_tag": "aksak", 
+            "source": "http://musicbrainz.org/recording/59dde1f8-ad30-41f0-9017-1c5b505ef9a0"
         }
     ]
 }

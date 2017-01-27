@@ -1,21 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "semai", 
-            "mb_attribute": "Semai", 
-            "source": "http://musicbrainz.org/work/4ab1c1d9-6839-45e7-9d65-0a101dab6717"
-        }, 
-        {
-            "attribute_key": "duyek", 
-            "mb_attribute": "D\u00fcyek", 
-            "source": "http://musicbrainz.org/work/4ab1c1d9-6839-45e7-9d65-0a101dab6717"
-        }, 
-        {
-            "attribute_key": "semai", 
-            "mb_tag": "semai", 
-            "source": "http://musicbrainz.org/recording/0d119783-305d-4e70-8832-83163a6d6e05"
-        }
-    ], 
+    "instrumentation_voicing": "ensemble instrumental", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -43,6 +27,12 @@
         }
     ], 
     "mbid": "0d119783-305d-4e70-8832-83163a6d6e05", 
+    "works": [
+        {
+            "mbid": "4ab1c1d9-6839-45e7-9d65-0a101dab6717", 
+            "title": "Ben Seni Unutmak \u0130\u00e7in Sevmedim"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "segah", 
@@ -62,11 +52,21 @@
             "name": "Aziz T\u00fcrk Sanat M\u00fczi\u011fi Grubu"
         }
     ], 
-    "instrumentation_voicing": "Ensemble instrumental", 
-    "works": [
+    "usul": [
         {
-            "mbid": "4ab1c1d9-6839-45e7-9d65-0a101dab6717", 
-            "title": "Ben Seni Unutmak \u0130\u00e7in Sevmedim"
+            "attribute_key": "semai", 
+            "mb_attribute": "Semai", 
+            "source": "http://musicbrainz.org/work/4ab1c1d9-6839-45e7-9d65-0a101dab6717"
+        }, 
+        {
+            "attribute_key": "duyek", 
+            "mb_attribute": "D\u00fcyek", 
+            "source": "http://musicbrainz.org/work/4ab1c1d9-6839-45e7-9d65-0a101dab6717"
+        }, 
+        {
+            "attribute_key": "semai", 
+            "mb_tag": "semai", 
+            "source": "http://musicbrainz.org/recording/0d119783-305d-4e70-8832-83163a6d6e05"
         }
     ]
 }

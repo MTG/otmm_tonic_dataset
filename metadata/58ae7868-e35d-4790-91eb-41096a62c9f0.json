@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "senginsemai", 
-            "mb_attribute": "Senginsemai", 
-            "source": "http://musicbrainz.org/work/ae85e900-4287-40fb-9e7c-53e280ad756b"
-        }, 
-        {
-            "attribute_key": "yuruksemai", 
-            "mb_tag": "y\u00fcr\u00fcksemai", 
-            "source": "http://musicbrainz.org/recording/58ae7868-e35d-4790-91eb-41096a62c9f0"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "58ae7868-e35d-4790-91eb-41096a62c9f0", 
+    "works": [
+        {
+            "mbid": "ae85e900-4287-40fb-9e7c-53e280ad756b", 
+            "title": "R\u00fczgar Uyumu\u015f Ay Dal\u0131yor"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "acemkurdi", 
@@ -62,11 +57,16 @@
             "name": "[unknown]"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "ae85e900-4287-40fb-9e7c-53e280ad756b", 
-            "title": "R\u00fczgar Uyumu\u015f Ay Dal\u0131yor"
+            "attribute_key": "senginsemai", 
+            "mb_attribute": "Senginsemai", 
+            "source": "http://musicbrainz.org/work/ae85e900-4287-40fb-9e7c-53e280ad756b"
+        }, 
+        {
+            "attribute_key": "yuruksemai", 
+            "mb_tag": "y\u00fcr\u00fcksemai", 
+            "source": "http://musicbrainz.org/recording/58ae7868-e35d-4790-91eb-41096a62c9f0"
         }
     ]
 }

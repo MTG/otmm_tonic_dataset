@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "kapali_curcuna", 
-            "mb_attribute": "Kapal\u0131 Curcuna", 
-            "source": "http://musicbrainz.org/work/0a5e760b-f710-40ef-8c7d-93cccc68e5a0"
-        }, 
-        {
-            "attribute_key": "kapali_curcuna", 
-            "mb_tag": "curcuna", 
-            "source": "http://musicbrainz.org/recording/5bcc3b05-e744-410d-b1c9-554d60bc04af"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "5bcc3b05-e744-410d-b1c9-554d60bc04af", 
+    "works": [
+        {
+            "mbid": "0a5e760b-f710-40ef-8c7d-93cccc68e5a0", 
+            "title": "Mani Oluyor"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "hicazkar", 
@@ -62,11 +57,16 @@
             "name": "Melihat G\u00fclses"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "0a5e760b-f710-40ef-8c7d-93cccc68e5a0", 
-            "title": "Mani Oluyor"
+            "attribute_key": "kapali_curcuna", 
+            "mb_attribute": "Kapal\u0131 Curcuna", 
+            "source": "http://musicbrainz.org/work/0a5e760b-f710-40ef-8c7d-93cccc68e5a0"
+        }, 
+        {
+            "attribute_key": "kapali_curcuna", 
+            "mb_tag": "curcuna", 
+            "source": "http://musicbrainz.org/recording/5bcc3b05-e744-410d-b1c9-554d60bc04af"
         }
     ]
 }

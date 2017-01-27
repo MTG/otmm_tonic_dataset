@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "curcuna", 
-            "mb_attribute": "Curcuna", 
-            "source": "http://musicbrainz.org/work/31c5dad5-4e6f-4090-b342-1b5d45bbabde"
-        }, 
-        {
-            "attribute_key": "kapali_curcuna", 
-            "mb_tag": "curcuna", 
-            "source": "http://musicbrainz.org/recording/20befb2c-31b0-421a-af9f-ef410a5135be"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "20befb2c-31b0-421a-af9f-ef410a5135be", 
+    "works": [
+        {
+            "mbid": "31c5dad5-4e6f-4090-b342-1b5d45bbabde", 
+            "title": "Ben Sana G\u00f6n\u00fcl Vereli Bak Ne Hal Oldum"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "hicazkar", 
@@ -108,11 +103,16 @@
             "name": "\u015eule \u00c7akar"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "31c5dad5-4e6f-4090-b342-1b5d45bbabde", 
-            "title": "Ben Sana G\u00f6n\u00fcl Vereli Bak Ne Hal Oldum"
+            "attribute_key": "curcuna", 
+            "mb_attribute": "Curcuna", 
+            "source": "http://musicbrainz.org/work/31c5dad5-4e6f-4090-b342-1b5d45bbabde"
+        }, 
+        {
+            "attribute_key": "kapali_curcuna", 
+            "mb_tag": "curcuna", 
+            "source": "http://musicbrainz.org/recording/20befb2c-31b0-421a-af9f-ef410a5135be"
         }
     ]
 }

@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "senginsemai", 
-            "mb_attribute": "Senginsemai", 
-            "source": "http://musicbrainz.org/work/a463f395-9c0b-4edc-af43-5c0267240d9f"
-        }, 
-        {
-            "attribute_key": "yuruksemai", 
-            "mb_tag": "y\u00fcr\u00fcksemai", 
-            "source": "http://musicbrainz.org/recording/e8cfc3e1-ddd6-4415-9fb4-0af9f3559195"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "e8cfc3e1-ddd6-4415-9fb4-0af9f3559195", 
+    "works": [
+        {
+            "mbid": "a463f395-9c0b-4edc-af43-5c0267240d9f", 
+            "title": "A\u015fk\u0131n \u0130le G\u00fcnd\u00fcz Gece"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "acemkurdi", 
@@ -62,11 +57,16 @@
             "name": "Zeki M\u00fcren"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "a463f395-9c0b-4edc-af43-5c0267240d9f", 
-            "title": "A\u015fk\u0131n \u0130le G\u00fcnd\u00fcz Gece"
+            "attribute_key": "senginsemai", 
+            "mb_attribute": "Senginsemai", 
+            "source": "http://musicbrainz.org/work/a463f395-9c0b-4edc-af43-5c0267240d9f"
+        }, 
+        {
+            "attribute_key": "yuruksemai", 
+            "mb_tag": "y\u00fcr\u00fcksemai", 
+            "source": "http://musicbrainz.org/recording/e8cfc3e1-ddd6-4415-9fb4-0af9f3559195"
         }
     ]
 }

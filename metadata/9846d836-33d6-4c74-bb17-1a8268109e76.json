@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "turkaksagi", 
-            "mb_attribute": "T\u00fcrkaksa\u011f\u0131", 
-            "source": "http://musicbrainz.org/work/013503a8-66e9-4dcb-87f4-caf26dd5aea1"
-        }, 
-        {
-            "attribute_key": "turkaksagi_ii", 
-            "mb_tag": "t\u00fcrkaksa\u011f\u0131", 
-            "source": "http://musicbrainz.org/recording/9846d836-33d6-4c74-bb17-1a8268109e76"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal without accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "9846d836-33d6-4c74-bb17-1a8268109e76", 
+    "works": [
+        {
+            "mbid": "013503a8-66e9-4dcb-87f4-caf26dd5aea1", 
+            "title": "Yand\u0131m O G\u00fczel G\u00f6zlere Ey \u015euh-i Sitemkar"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "suzinak", 
@@ -57,11 +52,16 @@
             "name": "Nusret Y\u0131lmaz"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal without accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "013503a8-66e9-4dcb-87f4-caf26dd5aea1", 
-            "title": "Yand\u0131m O G\u00fczel G\u00f6zlere Ey \u015euh-i Sitemkar"
+            "attribute_key": "turkaksagi", 
+            "mb_attribute": "T\u00fcrkaksa\u011f\u0131", 
+            "source": "http://musicbrainz.org/work/013503a8-66e9-4dcb-87f4-caf26dd5aea1"
+        }, 
+        {
+            "attribute_key": "turkaksagi_ii", 
+            "mb_tag": "t\u00fcrkaksa\u011f\u0131", 
+            "source": "http://musicbrainz.org/recording/9846d836-33d6-4c74-bb17-1a8268109e76"
         }
     ]
 }

@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "curcuna", 
-            "mb_attribute": "Curcuna", 
-            "source": "http://musicbrainz.org/work/cacb7eb8-9de1-461e-b940-a2ef7c18a814"
-        }, 
-        {
-            "attribute_key": "kapali_curcuna", 
-            "mb_tag": "curcuna", 
-            "source": "http://musicbrainz.org/recording/90948b2c-3e2b-42ee-afbc-387ba6725606"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "90948b2c-3e2b-42ee-afbc-387ba6725606", 
+    "works": [
+        {
+            "mbid": "cacb7eb8-9de1-461e-b940-a2ef7c18a814", 
+            "title": "Benim Yarem Gibi Yare Bulunmaz"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "suzinak_zirgule", 
@@ -62,11 +57,16 @@
             "name": "Bekir S\u0131dk\u0131 Sezgin"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "cacb7eb8-9de1-461e-b940-a2ef7c18a814", 
-            "title": "Benim Yarem Gibi Yare Bulunmaz"
+            "attribute_key": "curcuna", 
+            "mb_attribute": "Curcuna", 
+            "source": "http://musicbrainz.org/work/cacb7eb8-9de1-461e-b940-a2ef7c18a814"
+        }, 
+        {
+            "attribute_key": "kapali_curcuna", 
+            "mb_tag": "curcuna", 
+            "source": "http://musicbrainz.org/recording/90948b2c-3e2b-42ee-afbc-387ba6725606"
         }
     ]
 }

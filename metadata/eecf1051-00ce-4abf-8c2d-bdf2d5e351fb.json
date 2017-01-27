@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "agiraksak", 
-            "mb_attribute": "A\u011f\u0131raksak", 
-            "source": "http://musicbrainz.org/work/e41ab346-4c6f-4639-9ac0-e9de1caccdf4"
-        }, 
-        {
-            "attribute_key": "agiraksak", 
-            "mb_tag": "a\u011f\u0131raksak", 
-            "source": "http://musicbrainz.org/recording/eecf1051-00ce-4abf-8c2d-bdf2d5e351fb"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "eecf1051-00ce-4abf-8c2d-bdf2d5e351fb", 
+    "works": [
+        {
+            "mbid": "e41ab346-4c6f-4639-9ac0-e9de1caccdf4", 
+            "title": "Bana Hem Dem Eyleyen Ey Gam Seni"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "hicazkar", 
@@ -62,11 +57,16 @@
             "name": "Bekir S\u0131dk\u0131 Sezgin"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "e41ab346-4c6f-4639-9ac0-e9de1caccdf4", 
-            "title": "Bana Hem Dem Eyleyen Ey Gam Seni"
+            "attribute_key": "agiraksak", 
+            "mb_attribute": "A\u011f\u0131raksak", 
+            "source": "http://musicbrainz.org/work/e41ab346-4c6f-4639-9ac0-e9de1caccdf4"
+        }, 
+        {
+            "attribute_key": "agiraksak", 
+            "mb_tag": "a\u011f\u0131raksak", 
+            "source": "http://musicbrainz.org/recording/eecf1051-00ce-4abf-8c2d-bdf2d5e351fb"
         }
     ]
 }

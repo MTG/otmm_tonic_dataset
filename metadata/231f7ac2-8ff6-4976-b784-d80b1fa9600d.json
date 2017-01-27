@@ -1,5 +1,11 @@
 {
-    "instrumentation_voicing": "Solo instrumental", 
+    "usul": [
+        {
+            "attribute_key": "serbest", 
+            "mb_tag": "serbest", 
+            "source": "http://musicbrainz.org/recording/231f7ac2-8ff6-4976-b784-d80b1fa9600d"
+        }
+    ], 
     "form": [
         {
             "attribute_key": "taksim", 
@@ -32,11 +38,5 @@
             "name": "Fahrettin \u00c7imenli"
         }
     ], 
-    "usul": [
-        {
-            "attribute_key": "serbest", 
-            "mb_tag": "serbest", 
-            "source": "http://musicbrainz.org/recording/231f7ac2-8ff6-4976-b784-d80b1fa9600d"
-        }
-    ]
+    "instrumentation_voicing": "solo instrumental"
 }

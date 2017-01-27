@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "aksak", 
-            "mb_attribute": "Aksak", 
-            "source": "http://musicbrainz.org/work/011a31dc-a768-45db-b362-72928942c86e"
-        }, 
-        {
-            "attribute_key": "aksak", 
-            "mb_tag": "aksak", 
-            "source": "http://musicbrainz.org/recording/ecd6dafc-13a9-4852-b45c-31ba7a3a21d5"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal without accompaniment", 
     "form": [
         {
             "attribute_key": "kalenderi", 
@@ -42,6 +31,12 @@
         }
     ], 
     "mbid": "ecd6dafc-13a9-4852-b45c-31ba7a3a21d5", 
+    "works": [
+        {
+            "mbid": "011a31dc-a768-45db-b362-72928942c86e", 
+            "title": "Ebrulerinin Zahm-i Nihand\u0131r Ci\u011ferimde"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "hicaz", 
@@ -61,11 +56,16 @@
             "name": "Lale Han\u0131m"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal without accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "011a31dc-a768-45db-b362-72928942c86e", 
-            "title": "Ebrulerinin Zahm-i Nihand\u0131r Ci\u011ferimde"
+            "attribute_key": "aksak", 
+            "mb_attribute": "Aksak", 
+            "source": "http://musicbrainz.org/work/011a31dc-a768-45db-b362-72928942c86e"
+        }, 
+        {
+            "attribute_key": "aksak", 
+            "mb_tag": "aksak", 
+            "source": "http://musicbrainz.org/recording/ecd6dafc-13a9-4852-b45c-31ba7a3a21d5"
         }
     ]
 }

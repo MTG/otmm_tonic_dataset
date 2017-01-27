@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "senginsemai", 
-            "mb_attribute": "Senginsemai", 
-            "source": "http://musicbrainz.org/work/0576b84b-1d6b-4008-a289-a9c7c22e2e76"
-        }, 
-        {
-            "attribute_key": "senginsemai", 
-            "mb_tag": "senginsemai", 
-            "source": "http://musicbrainz.org/recording/497b5698-8a36-4a0b-85d1-eb0fa770b934"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -42,6 +31,12 @@
         }
     ], 
     "mbid": "497b5698-8a36-4a0b-85d1-eb0fa770b934", 
+    "works": [
+        {
+            "mbid": "0576b84b-1d6b-4008-a289-a9c7c22e2e76", 
+            "title": "Al Saz\u0131n\u0131 Sen Sevdice\u011fim \u015een Hevesinle"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "sultaniyegah", 
@@ -137,11 +132,16 @@
             "name": "Sedat G\u00fcndiyer"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "0576b84b-1d6b-4008-a289-a9c7c22e2e76", 
-            "title": "Al Saz\u0131n\u0131 Sen Sevdice\u011fim \u015een Hevesinle"
+            "attribute_key": "senginsemai", 
+            "mb_attribute": "Senginsemai", 
+            "source": "http://musicbrainz.org/work/0576b84b-1d6b-4008-a289-a9c7c22e2e76"
+        }, 
+        {
+            "attribute_key": "senginsemai", 
+            "mb_tag": "senginsemai", 
+            "source": "http://musicbrainz.org/recording/497b5698-8a36-4a0b-85d1-eb0fa770b934"
         }
     ]
 }

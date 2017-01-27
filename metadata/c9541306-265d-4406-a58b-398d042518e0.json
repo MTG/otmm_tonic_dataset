@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "curcuna", 
-            "mb_attribute": "Curcuna", 
-            "source": "http://musicbrainz.org/work/7f887070-377f-42bc-81a9-42ea561f0f5c"
-        }, 
-        {
-            "attribute_key": "kapali_curcuna", 
-            "mb_tag": "curcuna", 
-            "source": "http://musicbrainz.org/recording/c9541306-265d-4406-a58b-398d042518e0"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal without accompaniment", 
     "form": [
         {
             "attribute_key": "turku", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "c9541306-265d-4406-a58b-398d042518e0", 
+    "works": [
+        {
+            "mbid": "7f887070-377f-42bc-81a9-42ea561f0f5c", 
+            "title": "Ye\u015fil G\u00f6zlerini Ufkuma Ger ki"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "hicaz", 
@@ -57,11 +52,16 @@
             "name": "Mediha Demirk\u0131ran"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal without accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "7f887070-377f-42bc-81a9-42ea561f0f5c", 
-            "title": "Ye\u015fil G\u00f6zlerini Ufkuma Ger ki"
+            "attribute_key": "curcuna", 
+            "mb_attribute": "Curcuna", 
+            "source": "http://musicbrainz.org/work/7f887070-377f-42bc-81a9-42ea561f0f5c"
+        }, 
+        {
+            "attribute_key": "kapali_curcuna", 
+            "mb_tag": "curcuna", 
+            "source": "http://musicbrainz.org/recording/c9541306-265d-4406-a58b-398d042518e0"
         }
     ]
 }

@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "zencir", 
-            "mb_attribute": "Zencir", 
-            "source": "http://musicbrainz.org/work/54cf9898-e062-452f-a929-249c6b02e539"
-        }, 
-        {
-            "attribute_key": "zencir", 
-            "mb_tag": "zencir", 
-            "source": "http://musicbrainz.org/recording/e422f772-d61a-4f4c-a8d4-e6856f9762b2"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "beste", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "e422f772-d61a-4f4c-a8d4-e6856f9762b2", 
+    "works": [
+        {
+            "mbid": "54cf9898-e062-452f-a929-249c6b02e539", 
+            "title": "Bu H\u00fcsn-\u00fc Beh\u00e7et"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "sultaniirak", 
@@ -73,11 +68,16 @@
             "name": "Kudsi Erguner"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "54cf9898-e062-452f-a929-249c6b02e539", 
-            "title": "Bu H\u00fcsn-\u00fc Beh\u00e7et"
+            "attribute_key": "zencir", 
+            "mb_attribute": "Zencir", 
+            "source": "http://musicbrainz.org/work/54cf9898-e062-452f-a929-249c6b02e539"
+        }, 
+        {
+            "attribute_key": "zencir", 
+            "mb_tag": "zencir", 
+            "source": "http://musicbrainz.org/recording/e422f772-d61a-4f4c-a8d4-e6856f9762b2"
         }
     ]
 }

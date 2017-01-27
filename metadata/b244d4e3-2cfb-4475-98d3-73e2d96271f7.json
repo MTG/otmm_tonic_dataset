@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "duyek", 
-            "mb_attribute": "D\u00fcyek", 
-            "source": "http://musicbrainz.org/work/241901cd-a1e6-4f27-ae79-19d47652d7a2"
-        }, 
-        {
-            "attribute_key": "duyek", 
-            "mb_tag": "d\u00fcyek", 
-            "source": "http://musicbrainz.org/recording/b244d4e3-2cfb-4475-98d3-73e2d96271f7"
-        }
-    ], 
+    "instrumentation_voicing": "choir", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "b244d4e3-2cfb-4475-98d3-73e2d96271f7", 
+    "works": [
+        {
+            "mbid": "241901cd-a1e6-4f27-ae79-19d47652d7a2", 
+            "title": "Var M\u0131 Hacet S\u00f6yleyim Ey G\u00fcl Tenim"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "muhayyerkurdi", 
@@ -156,11 +151,16 @@
             "name": "Safinaz Rizeli"
         }
     ], 
-    "instrumentation_voicing": "Choir", 
-    "works": [
+    "usul": [
         {
-            "mbid": "241901cd-a1e6-4f27-ae79-19d47652d7a2", 
-            "title": "Var M\u0131 Hacet S\u00f6yleyim Ey G\u00fcl Tenim"
+            "attribute_key": "duyek", 
+            "mb_attribute": "D\u00fcyek", 
+            "source": "http://musicbrainz.org/work/241901cd-a1e6-4f27-ae79-19d47652d7a2"
+        }, 
+        {
+            "attribute_key": "duyek", 
+            "mb_tag": "d\u00fcyek", 
+            "source": "http://musicbrainz.org/recording/b244d4e3-2cfb-4475-98d3-73e2d96271f7"
         }
     ]
 }

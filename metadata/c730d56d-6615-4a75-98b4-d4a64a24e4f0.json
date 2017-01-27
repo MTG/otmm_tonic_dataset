@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "turkaksagi", 
-            "mb_attribute": "T\u00fcrkaksa\u011f\u0131", 
-            "source": "http://musicbrainz.org/work/cfb52326-250c-4fb1-809d-53d6237ec80d"
-        }, 
-        {
-            "attribute_key": "turkaksagi_ii", 
-            "mb_tag": "t\u00fcrkaksa\u011f\u0131", 
-            "source": "http://musicbrainz.org/recording/c730d56d-6615-4a75-98b4-d4a64a24e4f0"
-        }
-    ], 
+    "instrumentation_voicing": "choir", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "c730d56d-6615-4a75-98b4-d4a64a24e4f0", 
+    "works": [
+        {
+            "mbid": "cfb52326-250c-4fb1-809d-53d6237ec80d", 
+            "title": "G\u00fcller A\u00e7m\u0131\u015f B\u00fclb\u00fcl Olmu\u015f Bikarar"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "kurdilihicazkar", 
@@ -151,11 +146,16 @@
             "name": "Safinaz Rizeli"
         }
     ], 
-    "instrumentation_voicing": "Choir", 
-    "works": [
+    "usul": [
         {
-            "mbid": "cfb52326-250c-4fb1-809d-53d6237ec80d", 
-            "title": "G\u00fcller A\u00e7m\u0131\u015f B\u00fclb\u00fcl Olmu\u015f Bikarar"
+            "attribute_key": "turkaksagi", 
+            "mb_attribute": "T\u00fcrkaksa\u011f\u0131", 
+            "source": "http://musicbrainz.org/work/cfb52326-250c-4fb1-809d-53d6237ec80d"
+        }, 
+        {
+            "attribute_key": "turkaksagi_ii", 
+            "mb_tag": "t\u00fcrkaksa\u011f\u0131", 
+            "source": "http://musicbrainz.org/recording/c730d56d-6615-4a75-98b4-d4a64a24e4f0"
         }
     ]
 }

@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "aksak", 
-            "mb_attribute": "Aksak", 
-            "source": "http://musicbrainz.org/work/35247879-820c-43fb-8214-7e6c88809f93"
-        }, 
-        {
-            "attribute_key": "aksak", 
-            "mb_tag": "aksak", 
-            "source": "http://musicbrainz.org/recording/9e15fb14-3315-4feb-9c18-4f938dceebbe"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "9e15fb14-3315-4feb-9c18-4f938dceebbe", 
+    "works": [
+        {
+            "mbid": "35247879-820c-43fb-8214-7e6c88809f93", 
+            "title": "Hasretle Bu \u015eeb Gah Uyudum Gah Uyand\u0131m"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "ussak", 
@@ -62,11 +57,16 @@
             "name": "Bekir S\u0131dk\u0131 Sezgin"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "35247879-820c-43fb-8214-7e6c88809f93", 
-            "title": "Hasretle Bu \u015eeb Gah Uyudum Gah Uyand\u0131m"
+            "attribute_key": "aksak", 
+            "mb_attribute": "Aksak", 
+            "source": "http://musicbrainz.org/work/35247879-820c-43fb-8214-7e6c88809f93"
+        }, 
+        {
+            "attribute_key": "aksak", 
+            "mb_tag": "aksak", 
+            "source": "http://musicbrainz.org/recording/9e15fb14-3315-4feb-9c18-4f938dceebbe"
         }
     ]
 }

@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "aksak", 
-            "mb_attribute": "Aksak", 
-            "source": "http://musicbrainz.org/work/9aaf5c0b-4642-40fd-97ba-c861265872ce"
-        }, 
-        {
-            "attribute_key": "aksak", 
-            "mb_tag": "aksak", 
-            "source": "http://musicbrainz.org/recording/63508c21-072a-4e16-b58b-7236f1b2e998"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "63508c21-072a-4e16-b58b-7236f1b2e998", 
+    "works": [
+        {
+            "mbid": "9aaf5c0b-4642-40fd-97ba-c861265872ce", 
+            "title": "Gel G\u00fczelim \u00c7aml\u0131ca'ya"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "nihavent", 
@@ -65,11 +60,16 @@
             "name": "Aziz T\u00fcrk Sanat M\u00fczi\u011fi Grubu"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "9aaf5c0b-4642-40fd-97ba-c861265872ce", 
-            "title": "Gel G\u00fczelim \u00c7aml\u0131ca'ya"
+            "attribute_key": "aksak", 
+            "mb_attribute": "Aksak", 
+            "source": "http://musicbrainz.org/work/9aaf5c0b-4642-40fd-97ba-c861265872ce"
+        }, 
+        {
+            "attribute_key": "aksak", 
+            "mb_tag": "aksak", 
+            "source": "http://musicbrainz.org/recording/63508c21-072a-4e16-b58b-7236f1b2e998"
         }
     ]
 }

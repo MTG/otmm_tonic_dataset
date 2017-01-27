@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "agiraksak", 
-            "mb_attribute": "A\u011f\u0131raksak", 
-            "source": "http://musicbrainz.org/work/b32cbf0b-e0cf-4cdc-920b-b9a123e05233"
-        }, 
-        {
-            "attribute_key": "agiraksak", 
-            "mb_tag": "a\u011f\u0131raksak", 
-            "source": "http://musicbrainz.org/recording/7d5428d7-fc29-45b4-8517-f447c3a36474"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "7d5428d7-fc29-45b4-8517-f447c3a36474", 
+    "works": [
+        {
+            "mbid": "b32cbf0b-e0cf-4cdc-920b-b9a123e05233", 
+            "title": "Meyl Edip A\u011fyar\u0131 Ald\u0131n Yan\u0131na"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "huzzam", 
@@ -77,11 +72,16 @@
             "name": "[unknown]"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "b32cbf0b-e0cf-4cdc-920b-b9a123e05233", 
-            "title": "Meyl Edip A\u011fyar\u0131 Ald\u0131n Yan\u0131na"
+            "attribute_key": "agiraksak", 
+            "mb_attribute": "A\u011f\u0131raksak", 
+            "source": "http://musicbrainz.org/work/b32cbf0b-e0cf-4cdc-920b-b9a123e05233"
+        }, 
+        {
+            "attribute_key": "agiraksak", 
+            "mb_tag": "a\u011f\u0131raksak", 
+            "source": "http://musicbrainz.org/recording/7d5428d7-fc29-45b4-8517-f447c3a36474"
         }
     ]
 }

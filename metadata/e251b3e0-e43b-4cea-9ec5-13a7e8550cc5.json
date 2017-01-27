@@ -1,5 +1,11 @@
 {
-    "instrumentation_voicing": "Solo instrumental", 
+    "usul": [
+        {
+            "attribute_key": "serbest", 
+            "mb_tag": "serbest", 
+            "source": "http://musicbrainz.org/recording/e251b3e0-e43b-4cea-9ec5-13a7e8550cc5"
+        }
+    ], 
     "form": [
         {
             "attribute_key": "taksim", 
@@ -40,11 +46,5 @@
             "name": "Erol Deran"
         }
     ], 
-    "usul": [
-        {
-            "attribute_key": "serbest", 
-            "mb_tag": "serbest", 
-            "source": "http://musicbrainz.org/recording/e251b3e0-e43b-4cea-9ec5-13a7e8550cc5"
-        }
-    ]
+    "instrumentation_voicing": "solo instrumental"
 }

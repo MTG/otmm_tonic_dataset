@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "agiraksak", 
-            "mb_attribute": "A\u011f\u0131raksak", 
-            "source": "http://musicbrainz.org/work/193c36c0-3603-4be4-a97e-c2f30b47f0cd"
-        }, 
-        {
-            "attribute_key": "agiraksak", 
-            "mb_tag": "a\u011f\u0131raksak", 
-            "source": "http://musicbrainz.org/recording/52d5002b-b86b-4a52-8d24-11b9e71ec823"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "52d5002b-b86b-4a52-8d24-11b9e71ec823", 
+    "works": [
+        {
+            "mbid": "193c36c0-3603-4be4-a97e-c2f30b47f0cd", 
+            "title": "Ho\u015f Ola Bu Nev-bahar Ey G\u00fcl Sana"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "buselik", 
@@ -116,11 +111,16 @@
             "name": "Safinaz Rizeli"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "193c36c0-3603-4be4-a97e-c2f30b47f0cd", 
-            "title": "Ho\u015f Ola Bu Nev-bahar Ey G\u00fcl Sana"
+            "attribute_key": "agiraksak", 
+            "mb_attribute": "A\u011f\u0131raksak", 
+            "source": "http://musicbrainz.org/work/193c36c0-3603-4be4-a97e-c2f30b47f0cd"
+        }, 
+        {
+            "attribute_key": "agiraksak", 
+            "mb_tag": "a\u011f\u0131raksak", 
+            "source": "http://musicbrainz.org/recording/52d5002b-b86b-4a52-8d24-11b9e71ec823"
         }
     ]
 }

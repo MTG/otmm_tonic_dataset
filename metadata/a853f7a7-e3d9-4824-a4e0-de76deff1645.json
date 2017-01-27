@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "aksaksemai", 
-            "mb_attribute": "Aksaksemai", 
-            "source": "http://musicbrainz.org/work/0c3aa184-4791-4352-a72b-ef1a0db2d638"
-        }, 
-        {
-            "attribute_key": "aksaksemai", 
-            "mb_tag": "aksaksemai", 
-            "source": "http://musicbrainz.org/recording/a853f7a7-e3d9-4824-a4e0-de76deff1645"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "agirsemai", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "a853f7a7-e3d9-4824-a4e0-de76deff1645", 
+    "works": [
+        {
+            "mbid": "0c3aa184-4791-4352-a72b-ef1a0db2d638", 
+            "title": "Nihan Ettim Seni Sinemde Ey Meh-pare Can\u0131ms\u0131n"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "sultaniyegah", 
@@ -92,11 +87,16 @@
             "name": "Do\u011fan Dikmen"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "0c3aa184-4791-4352-a72b-ef1a0db2d638", 
-            "title": "Nihan Ettim Seni Sinemde Ey Meh-pare Can\u0131ms\u0131n"
+            "attribute_key": "aksaksemai", 
+            "mb_attribute": "Aksaksemai", 
+            "source": "http://musicbrainz.org/work/0c3aa184-4791-4352-a72b-ef1a0db2d638"
+        }, 
+        {
+            "attribute_key": "aksaksemai", 
+            "mb_tag": "aksaksemai", 
+            "source": "http://musicbrainz.org/recording/a853f7a7-e3d9-4824-a4e0-de76deff1645"
         }
     ]
 }

@@ -1,11 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "aksaksemai", 
-            "mb_attribute": "Aksaksemai", 
-            "source": "http://musicbrainz.org/work/900d7e9b-b14b-4ab2-9331-dbe5c7c55eb2"
-        }
-    ], 
+    "instrumentation_voicing": "solo instrumental", 
     "form": [
         {
             "attribute_key": "sazsemaisi", 
@@ -33,6 +27,12 @@
         }
     ], 
     "mbid": "ddbf8ca7-bb16-4ba5-8e2b-803fb0725fd2", 
+    "works": [
+        {
+            "mbid": "900d7e9b-b14b-4ab2-9331-dbe5c7c55eb2", 
+            "title": "Mahur Sazsemaisi"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "mahur", 
@@ -56,11 +56,11 @@
             "name": "Salih Bilgin"
         }
     ], 
-    "instrumentation_voicing": "Solo instrumental", 
-    "works": [
+    "usul": [
         {
-            "mbid": "900d7e9b-b14b-4ab2-9331-dbe5c7c55eb2", 
-            "title": "Mahur Sazsemaisi"
+            "attribute_key": "aksaksemai", 
+            "mb_attribute": "Aksaksemai", 
+            "source": "http://musicbrainz.org/work/900d7e9b-b14b-4ab2-9331-dbe5c7c55eb2"
         }
     ]
 }

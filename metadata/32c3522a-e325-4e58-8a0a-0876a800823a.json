@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "devrihindi", 
-            "mb_attribute": "Devr-i Hindi", 
-            "source": "http://musicbrainz.org/work/853986d4-392d-4866-a041-31239a5bdc8b"
-        }, 
-        {
-            "attribute_key": "devrihindi", 
-            "mb_tag": "devr-i hindi", 
-            "source": "http://musicbrainz.org/recording/32c3522a-e325-4e58-8a0a-0876a800823a"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -42,6 +31,12 @@
         }
     ], 
     "mbid": "32c3522a-e325-4e58-8a0a-0876a800823a", 
+    "works": [
+        {
+            "mbid": "853986d4-392d-4866-a041-31239a5bdc8b", 
+            "title": "Sen De Leyla'dan M\u0131 \u00d6\u011frendin"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "huzzam", 
@@ -69,11 +64,16 @@
             "name": "Erc\u00fcmend Batanay"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "853986d4-392d-4866-a041-31239a5bdc8b", 
-            "title": "Sen De Leyla'dan M\u0131 \u00d6\u011frendin"
+            "attribute_key": "devrihindi", 
+            "mb_attribute": "Devr-i Hindi", 
+            "source": "http://musicbrainz.org/work/853986d4-392d-4866-a041-31239a5bdc8b"
+        }, 
+        {
+            "attribute_key": "devrihindi", 
+            "mb_tag": "devr-i hindi", 
+            "source": "http://musicbrainz.org/recording/32c3522a-e325-4e58-8a0a-0876a800823a"
         }
     ]
 }

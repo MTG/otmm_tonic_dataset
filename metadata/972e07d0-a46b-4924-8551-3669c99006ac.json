@@ -1,21 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "aksaksemai", 
-            "mb_attribute": "Aksaksemai", 
-            "source": "http://musicbrainz.org/work/a094df54-addb-4d43-a06f-fcae06df9132"
-        }, 
-        {
-            "attribute_key": "aksaksemai", 
-            "mb_tag": "aksaksemai", 
-            "source": "http://musicbrainz.org/recording/972e07d0-a46b-4924-8551-3669c99006ac"
-        }, 
-        {
-            "attribute_key": "yuruksemai", 
-            "mb_tag": "y\u00fcr\u00fcksemai", 
-            "source": "http://musicbrainz.org/recording/972e07d0-a46b-4924-8551-3669c99006ac"
-        }
-    ], 
+    "instrumentation_voicing": "ensemble instrumental", 
     "form": [
         {
             "attribute_key": "sazsemaisi", 
@@ -59,6 +43,12 @@
         }
     ], 
     "mbid": "972e07d0-a46b-4924-8551-3669c99006ac", 
+    "works": [
+        {
+            "mbid": "a094df54-addb-4d43-a06f-fcae06df9132", 
+            "title": "Evcara Sazsemaisi"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "evcara", 
@@ -113,11 +103,21 @@
             "name": "\u00d6zer \u00d6zel"
         }
     ], 
-    "instrumentation_voicing": "Ensemble instrumental", 
-    "works": [
+    "usul": [
         {
-            "mbid": "a094df54-addb-4d43-a06f-fcae06df9132", 
-            "title": "Evcara Sazsemaisi"
+            "attribute_key": "aksaksemai", 
+            "mb_attribute": "Aksaksemai", 
+            "source": "http://musicbrainz.org/work/a094df54-addb-4d43-a06f-fcae06df9132"
+        }, 
+        {
+            "attribute_key": "aksaksemai", 
+            "mb_tag": "aksaksemai", 
+            "source": "http://musicbrainz.org/recording/972e07d0-a46b-4924-8551-3669c99006ac"
+        }, 
+        {
+            "attribute_key": "yuruksemai", 
+            "mb_tag": "y\u00fcr\u00fcksemai", 
+            "source": "http://musicbrainz.org/recording/972e07d0-a46b-4924-8551-3669c99006ac"
         }
     ]
 }

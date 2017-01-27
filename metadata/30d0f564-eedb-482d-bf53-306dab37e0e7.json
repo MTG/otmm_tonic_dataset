@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "aksak", 
-            "mb_attribute": "Aksak", 
-            "source": "http://musicbrainz.org/work/70748ef7-10ed-461f-97ba-6ee18d3029d4"
-        }, 
-        {
-            "attribute_key": "aksak", 
-            "mb_tag": "aksak", 
-            "source": "http://musicbrainz.org/recording/30d0f564-eedb-482d-bf53-306dab37e0e7"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "30d0f564-eedb-482d-bf53-306dab37e0e7", 
+    "works": [
+        {
+            "mbid": "70748ef7-10ed-461f-97ba-6ee18d3029d4", 
+            "title": "Bak\u0131n Bad-\u0131 Semum Oldu Ecel Ah"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "hicaz", 
@@ -62,11 +57,16 @@
             "name": "Bekir S\u0131dk\u0131 Sezgin"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "70748ef7-10ed-461f-97ba-6ee18d3029d4", 
-            "title": "Bak\u0131n Bad-\u0131 Semum Oldu Ecel Ah"
+            "attribute_key": "aksak", 
+            "mb_attribute": "Aksak", 
+            "source": "http://musicbrainz.org/work/70748ef7-10ed-461f-97ba-6ee18d3029d4"
+        }, 
+        {
+            "attribute_key": "aksak", 
+            "mb_tag": "aksak", 
+            "source": "http://musicbrainz.org/recording/30d0f564-eedb-482d-bf53-306dab37e0e7"
         }
     ]
 }

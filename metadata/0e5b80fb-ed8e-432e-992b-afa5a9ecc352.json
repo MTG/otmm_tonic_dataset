@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "aksak", 
-            "mb_attribute": "Aksak", 
-            "source": "http://musicbrainz.org/work/d1142ac6-9669-4f81-bdea-c9b0fc8273cc"
-        }, 
-        {
-            "attribute_key": "aksak", 
-            "mb_tag": "aksak", 
-            "source": "http://musicbrainz.org/recording/0e5b80fb-ed8e-432e-992b-afa5a9ecc352"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "0e5b80fb-ed8e-432e-992b-afa5a9ecc352", 
+    "works": [
+        {
+            "mbid": "d1142ac6-9669-4f81-bdea-c9b0fc8273cc", 
+            "title": "Girdim Yarin Bah\u00e7esine G\u00fcl Dibinde G\u00fclizar"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "kurdilihicazkar", 
@@ -225,11 +220,16 @@
             "name": "Tar\u0131k Kemanc\u0131"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "d1142ac6-9669-4f81-bdea-c9b0fc8273cc", 
-            "title": "Girdim Yarin Bah\u00e7esine G\u00fcl Dibinde G\u00fclizar"
+            "attribute_key": "aksak", 
+            "mb_attribute": "Aksak", 
+            "source": "http://musicbrainz.org/work/d1142ac6-9669-4f81-bdea-c9b0fc8273cc"
+        }, 
+        {
+            "attribute_key": "aksak", 
+            "mb_tag": "aksak", 
+            "source": "http://musicbrainz.org/recording/0e5b80fb-ed8e-432e-992b-afa5a9ecc352"
         }
     ]
 }

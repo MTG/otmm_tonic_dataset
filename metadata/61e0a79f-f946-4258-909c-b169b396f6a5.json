@@ -1,11 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "nimsofyan", 
-            "mb_attribute": "Nimsofyan", 
-            "source": "http://musicbrainz.org/work/413364a2-fbed-4f89-8e4e-fc1a35700b42"
-        }
-    ], 
+    "instrumentation_voicing": "solo instrumental", 
     "form": [
         {
             "attribute_key": "sazeseri", 
@@ -33,6 +27,12 @@
         }
     ], 
     "mbid": "61e0a79f-f946-4258-909c-b169b396f6a5", 
+    "works": [
+        {
+            "mbid": "413364a2-fbed-4f89-8e4e-fc1a35700b42", 
+            "title": "Hicazkar Saz Eseri"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "hicazkar", 
@@ -55,11 +55,11 @@
             "name": "Salih Bilgin"
         }
     ], 
-    "instrumentation_voicing": "Solo instrumental", 
-    "works": [
+    "usul": [
         {
-            "mbid": "413364a2-fbed-4f89-8e4e-fc1a35700b42", 
-            "title": "Hicazkar Saz Eseri"
+            "attribute_key": "nimsofyan", 
+            "mb_attribute": "Nimsofyan", 
+            "source": "http://musicbrainz.org/work/413364a2-fbed-4f89-8e4e-fc1a35700b42"
         }
     ]
 }

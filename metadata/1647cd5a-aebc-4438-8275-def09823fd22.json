@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "muhammes", 
-            "mb_attribute": "Muhammes", 
-            "source": "http://musicbrainz.org/work/211a71a2-cd77-4948-9566-0315988329e5"
-        }, 
-        {
-            "attribute_key": "muhammes", 
-            "mb_tag": "muhammes", 
-            "source": "http://musicbrainz.org/recording/1647cd5a-aebc-4438-8275-def09823fd22"
-        }
-    ], 
+    "instrumentation_voicing": "ensemble instrumental", 
     "form": [
         {
             "attribute_key": "pesrev", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "1647cd5a-aebc-4438-8275-def09823fd22", 
+    "works": [
+        {
+            "mbid": "211a71a2-cd77-4948-9566-0315988329e5", 
+            "title": "Hicazk\u00e2r Pe\u015frevi"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "hicazkar", 
@@ -108,11 +103,16 @@
             "name": "Talat Er"
         }
     ], 
-    "instrumentation_voicing": "Ensemble instrumental", 
-    "works": [
+    "usul": [
         {
-            "mbid": "211a71a2-cd77-4948-9566-0315988329e5", 
-            "title": "Hicazk\u00e2r Pe\u015frevi"
+            "attribute_key": "muhammes", 
+            "mb_attribute": "Muhammes", 
+            "source": "http://musicbrainz.org/work/211a71a2-cd77-4948-9566-0315988329e5"
+        }, 
+        {
+            "attribute_key": "muhammes", 
+            "mb_tag": "muhammes", 
+            "source": "http://musicbrainz.org/recording/1647cd5a-aebc-4438-8275-def09823fd22"
         }
     ]
 }

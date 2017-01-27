@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "aksaksemai", 
-            "mb_attribute": "Aksaksemai", 
-            "source": "http://musicbrainz.org/work/a094df54-addb-4d43-a06f-fcae06df9132"
-        }, 
-        {
-            "attribute_key": "aksaksemai", 
-            "mb_tag": "aksaksemai", 
-            "source": "http://musicbrainz.org/recording/3ee9b4c6-a411-4e63-956f-531bf6a6f40f"
-        }
-    ], 
+    "instrumentation_voicing": "solo instrumental", 
     "form": [
         {
             "attribute_key": "sazsemaisi", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "3ee9b4c6-a411-4e63-956f-531bf6a6f40f", 
+    "works": [
+        {
+            "mbid": "a094df54-addb-4d43-a06f-fcae06df9132", 
+            "title": "Evcara Sazsemaisi"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "evcara", 
@@ -60,11 +55,16 @@
             "name": "Ahmet \u015eahin"
         }
     ], 
-    "instrumentation_voicing": "Solo instrumental", 
-    "works": [
+    "usul": [
         {
-            "mbid": "a094df54-addb-4d43-a06f-fcae06df9132", 
-            "title": "Evcara Sazsemaisi"
+            "attribute_key": "aksaksemai", 
+            "mb_attribute": "Aksaksemai", 
+            "source": "http://musicbrainz.org/work/a094df54-addb-4d43-a06f-fcae06df9132"
+        }, 
+        {
+            "attribute_key": "aksaksemai", 
+            "mb_tag": "aksaksemai", 
+            "source": "http://musicbrainz.org/recording/3ee9b4c6-a411-4e63-956f-531bf6a6f40f"
         }
     ]
 }

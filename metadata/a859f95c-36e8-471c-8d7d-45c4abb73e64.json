@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "senginsemai", 
-            "mb_attribute": "Senginsemai", 
-            "source": "http://musicbrainz.org/work/6c92de96-1439-42c3-92fd-c356b99d66f0"
-        }, 
-        {
-            "attribute_key": "senginsemai", 
-            "mb_tag": "senginsemai", 
-            "source": "http://musicbrainz.org/recording/a859f95c-36e8-471c-8d7d-45c4abb73e64"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "a859f95c-36e8-471c-8d7d-45c4abb73e64", 
+    "works": [
+        {
+            "mbid": "6c92de96-1439-42c3-92fd-c356b99d66f0", 
+            "title": "Ey \u015euh-i Cefa Pi\u015fe B\u0131rak"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "ussak", 
@@ -62,11 +57,16 @@
             "name": "Bekir S\u0131dk\u0131 Sezgin"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "6c92de96-1439-42c3-92fd-c356b99d66f0", 
-            "title": "Ey \u015euh-i Cefa Pi\u015fe B\u0131rak"
+            "attribute_key": "senginsemai", 
+            "mb_attribute": "Senginsemai", 
+            "source": "http://musicbrainz.org/work/6c92de96-1439-42c3-92fd-c356b99d66f0"
+        }, 
+        {
+            "attribute_key": "senginsemai", 
+            "mb_tag": "senginsemai", 
+            "source": "http://musicbrainz.org/recording/a859f95c-36e8-471c-8d7d-45c4abb73e64"
         }
     ]
 }

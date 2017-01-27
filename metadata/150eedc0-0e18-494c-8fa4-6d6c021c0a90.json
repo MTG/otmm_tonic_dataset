@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "aksak", 
-            "mb_attribute": "Aksak", 
-            "source": "http://musicbrainz.org/work/888edc19-be16-47c6-92db-170b65caba0e"
-        }, 
-        {
-            "attribute_key": "aksak", 
-            "mb_tag": "aksak", 
-            "source": "http://musicbrainz.org/recording/150eedc0-0e18-494c-8fa4-6d6c021c0a90"
-        }
-    ], 
+    "instrumentation_voicing": "solo instrumental", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "150eedc0-0e18-494c-8fa4-6d6c021c0a90", 
+    "works": [
+        {
+            "mbid": "888edc19-be16-47c6-92db-170b65caba0e", 
+            "title": "Biz Heybeli'de Her Gece"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "sultaniyegah", 
@@ -60,11 +55,16 @@
             "name": "Ergin K\u0131z\u0131lay"
         }
     ], 
-    "instrumentation_voicing": "Solo instrumental", 
-    "works": [
+    "usul": [
         {
-            "mbid": "888edc19-be16-47c6-92db-170b65caba0e", 
-            "title": "Biz Heybeli'de Her Gece"
+            "attribute_key": "aksak", 
+            "mb_attribute": "Aksak", 
+            "source": "http://musicbrainz.org/work/888edc19-be16-47c6-92db-170b65caba0e"
+        }, 
+        {
+            "attribute_key": "aksak", 
+            "mb_tag": "aksak", 
+            "source": "http://musicbrainz.org/recording/150eedc0-0e18-494c-8fa4-6d6c021c0a90"
         }
     ]
 }

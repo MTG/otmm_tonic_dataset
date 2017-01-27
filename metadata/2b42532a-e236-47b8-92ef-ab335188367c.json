@@ -1,11 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "aksak", 
-            "mb_attribute": "Aksak", 
-            "source": "http://musicbrainz.org/work/88d8d952-820d-4a65-92ad-19f1a95f9644"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -33,6 +27,12 @@
         }
     ], 
     "mbid": "2b42532a-e236-47b8-92ef-ab335188367c", 
+    "works": [
+        {
+            "mbid": "88d8d952-820d-4a65-92ad-19f1a95f9644", 
+            "title": "K\u0131rd\u0131n \u00dcmidimi"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "segah", 
@@ -116,11 +116,11 @@
             "name": "Osman Nuri \u00d6zpekel"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "88d8d952-820d-4a65-92ad-19f1a95f9644", 
-            "title": "K\u0131rd\u0131n \u00dcmidimi"
+            "attribute_key": "aksak", 
+            "mb_attribute": "Aksak", 
+            "source": "http://musicbrainz.org/work/88d8d952-820d-4a65-92ad-19f1a95f9644"
         }
     ]
 }

@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "aksak", 
-            "mb_attribute": "Aksak", 
-            "source": "http://musicbrainz.org/work/b14650a8-835d-49c6-a66b-3c789e629548"
-        }, 
-        {
-            "attribute_key": "aksak", 
-            "mb_tag": "aksak", 
-            "source": "http://musicbrainz.org/recording/393d14e2-6481-4255-9019-68971cfd949f"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal without accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "393d14e2-6481-4255-9019-68971cfd949f", 
+    "works": [
+        {
+            "mbid": "b14650a8-835d-49c6-a66b-3c789e629548", 
+            "title": "K\u0131\u015f Geldi Firak A\u00e7madad\u0131r"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "hicaz", 
@@ -57,11 +52,16 @@
             "name": "Haf\u0131z A\u015fir Efendi"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal without accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "b14650a8-835d-49c6-a66b-3c789e629548", 
-            "title": "K\u0131\u015f Geldi Firak A\u00e7madad\u0131r"
+            "attribute_key": "aksak", 
+            "mb_attribute": "Aksak", 
+            "source": "http://musicbrainz.org/work/b14650a8-835d-49c6-a66b-3c789e629548"
+        }, 
+        {
+            "attribute_key": "aksak", 
+            "mb_tag": "aksak", 
+            "source": "http://musicbrainz.org/recording/393d14e2-6481-4255-9019-68971cfd949f"
         }
     ]
 }

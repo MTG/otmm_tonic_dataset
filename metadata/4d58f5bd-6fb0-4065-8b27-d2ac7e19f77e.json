@@ -1,5 +1,11 @@
 {
-    "instrumentation_voicing": "Duo instrumental", 
+    "usul": [
+        {
+            "attribute_key": "serbest", 
+            "mb_tag": "serbest", 
+            "source": "http://musicbrainz.org/recording/4d58f5bd-6fb0-4065-8b27-d2ac7e19f77e"
+        }
+    ], 
     "form": [
         {
             "attribute_key": "taksim", 
@@ -51,11 +57,5 @@
             "name": "Derya T\u00fcrkan"
         }
     ], 
-    "usul": [
-        {
-            "attribute_key": "serbest", 
-            "mb_tag": "serbest", 
-            "source": "http://musicbrainz.org/recording/4d58f5bd-6fb0-4065-8b27-d2ac7e19f77e"
-        }
-    ]
+    "instrumentation_voicing": "duo instrumental"
 }

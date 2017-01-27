@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "yuruksemai", 
-            "mb_attribute": "Y\u00fcr\u00fcksemai", 
-            "source": "http://musicbrainz.org/work/47f047f0-58a2-48e3-9572-78655e9c51fb"
-        }, 
-        {
-            "attribute_key": "yuruksemai", 
-            "mb_tag": "y\u00fcr\u00fcksemai", 
-            "source": "http://musicbrainz.org/recording/468b4cd8-686b-44d1-8942-ead2f7fd67f0"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "468b4cd8-686b-44d1-8942-ead2f7fd67f0", 
+    "works": [
+        {
+            "mbid": "47f047f0-58a2-48e3-9572-78655e9c51fb", 
+            "title": "Mecnun Gibi Sahray\u0131 C\u00fcnun"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "hicaz", 
@@ -62,11 +57,16 @@
             "name": "Bekir S\u0131dk\u0131 Sezgin"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "47f047f0-58a2-48e3-9572-78655e9c51fb", 
-            "title": "Mecnun Gibi Sahray\u0131 C\u00fcnun"
+            "attribute_key": "yuruksemai", 
+            "mb_attribute": "Y\u00fcr\u00fcksemai", 
+            "source": "http://musicbrainz.org/work/47f047f0-58a2-48e3-9572-78655e9c51fb"
+        }, 
+        {
+            "attribute_key": "yuruksemai", 
+            "mb_tag": "y\u00fcr\u00fcksemai", 
+            "source": "http://musicbrainz.org/recording/468b4cd8-686b-44d1-8942-ead2f7fd67f0"
         }
     ]
 }

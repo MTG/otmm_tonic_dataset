@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "agiraksak", 
-            "mb_attribute": "A\u011f\u0131raksak", 
-            "source": "http://musicbrainz.org/work/bfdefd2f-c8a6-445c-a4d0-7ac77b9a41fa"
-        }, 
-        {
-            "attribute_key": "agiraksak", 
-            "mb_tag": "a\u011f\u0131raksak", 
-            "source": "http://musicbrainz.org/recording/e09c7d40-0413-4c93-b0a1-467d5d9be785"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "e09c7d40-0413-4c93-b0a1-467d5d9be785", 
+    "works": [
+        {
+            "mbid": "bfdefd2f-c8a6-445c-a4d0-7ac77b9a41fa", 
+            "title": "Bezm-i Vasl\u0131nda Civan\u0131m"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "acemkurdi", 
@@ -62,11 +57,16 @@
             "name": "Bekir S\u0131dk\u0131 Sezgin"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "bfdefd2f-c8a6-445c-a4d0-7ac77b9a41fa", 
-            "title": "Bezm-i Vasl\u0131nda Civan\u0131m"
+            "attribute_key": "agiraksak", 
+            "mb_attribute": "A\u011f\u0131raksak", 
+            "source": "http://musicbrainz.org/work/bfdefd2f-c8a6-445c-a4d0-7ac77b9a41fa"
+        }, 
+        {
+            "attribute_key": "agiraksak", 
+            "mb_tag": "a\u011f\u0131raksak", 
+            "source": "http://musicbrainz.org/recording/e09c7d40-0413-4c93-b0a1-467d5d9be785"
         }
     ]
 }

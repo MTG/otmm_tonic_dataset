@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "serbest", 
-            "mb_attribute": "Serbest", 
-            "source": "http://musicbrainz.org/work/48144034-596a-4e02-b295-2dbee88befe6"
-        }, 
-        {
-            "attribute_key": "serbest", 
-            "mb_tag": "serbest", 
-            "source": "http://musicbrainz.org/recording/0423e513-cb38-4d7a-b229-f96b9ef923e4"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal without accompaniment", 
     "form": [
         {
             "attribute_key": "uzunhava", 
@@ -54,6 +43,12 @@
         }
     ], 
     "mbid": "0423e513-cb38-4d7a-b229-f96b9ef923e4", 
+    "works": [
+        {
+            "mbid": "48144034-596a-4e02-b295-2dbee88befe6", 
+            "title": "G\u00f6z\u00fcm Yokdur"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "saba", 
@@ -76,11 +71,16 @@
             "name": "Ali Sar\u0131g\u00fcl"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal without accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "48144034-596a-4e02-b295-2dbee88befe6", 
-            "title": "G\u00f6z\u00fcm Yokdur"
+            "attribute_key": "serbest", 
+            "mb_attribute": "Serbest", 
+            "source": "http://musicbrainz.org/work/48144034-596a-4e02-b295-2dbee88befe6"
+        }, 
+        {
+            "attribute_key": "serbest", 
+            "mb_tag": "serbest", 
+            "source": "http://musicbrainz.org/recording/0423e513-cb38-4d7a-b229-f96b9ef923e4"
         }
     ]
 }

@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "yuruksemai", 
-            "mb_attribute": "Y\u00fcr\u00fcksemai", 
-            "source": "http://musicbrainz.org/work/fe458e09-280c-47a9-8efc-710d74c9e7e1"
-        }, 
-        {
-            "attribute_key": "yuruksemai", 
-            "mb_tag": "y\u00fcr\u00fcksemai", 
-            "source": "http://musicbrainz.org/recording/f844472b-55b3-4b57-aaf4-08ec5b7ed118"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "f844472b-55b3-4b57-aaf4-08ec5b7ed118", 
+    "works": [
+        {
+            "mbid": "fe458e09-280c-47a9-8efc-710d74c9e7e1", 
+            "title": "Bir Bekledi\u011fim Var"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "ussak", 
@@ -62,11 +57,16 @@
             "name": "Meral U\u011furlu"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "fe458e09-280c-47a9-8efc-710d74c9e7e1", 
-            "title": "Bir Bekledi\u011fim Var"
+            "attribute_key": "yuruksemai", 
+            "mb_attribute": "Y\u00fcr\u00fcksemai", 
+            "source": "http://musicbrainz.org/work/fe458e09-280c-47a9-8efc-710d74c9e7e1"
+        }, 
+        {
+            "attribute_key": "yuruksemai", 
+            "mb_tag": "y\u00fcr\u00fcksemai", 
+            "source": "http://musicbrainz.org/recording/f844472b-55b3-4b57-aaf4-08ec5b7ed118"
         }
     ]
 }

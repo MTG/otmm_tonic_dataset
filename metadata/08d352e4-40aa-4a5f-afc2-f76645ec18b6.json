@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "agiraksak", 
-            "mb_attribute": "A\u011f\u0131raksak", 
-            "source": "http://musicbrainz.org/work/f6af3bc5-a502-4568-a7ac-999d5a43816b"
-        }, 
-        {
-            "attribute_key": "agiraksak", 
-            "mb_tag": "a\u011f\u0131raksak", 
-            "source": "http://musicbrainz.org/recording/08d352e4-40aa-4a5f-afc2-f76645ec18b6"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "08d352e4-40aa-4a5f-afc2-f76645ec18b6", 
+    "works": [
+        {
+            "mbid": "f6af3bc5-a502-4568-a7ac-999d5a43816b", 
+            "title": "B\u00fclb\u00fcl Asa Ruz u \u015eeb"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "evic", 
@@ -67,11 +62,16 @@
             "name": "Bekir S\u0131dk\u0131 Sezgin"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "f6af3bc5-a502-4568-a7ac-999d5a43816b", 
-            "title": "B\u00fclb\u00fcl Asa Ruz u \u015eeb"
+            "attribute_key": "agiraksak", 
+            "mb_attribute": "A\u011f\u0131raksak", 
+            "source": "http://musicbrainz.org/work/f6af3bc5-a502-4568-a7ac-999d5a43816b"
+        }, 
+        {
+            "attribute_key": "agiraksak", 
+            "mb_tag": "a\u011f\u0131raksak", 
+            "source": "http://musicbrainz.org/recording/08d352e4-40aa-4a5f-afc2-f76645ec18b6"
         }
     ]
 }

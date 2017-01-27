@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "agiraksak", 
-            "mb_attribute": "A\u011f\u0131raksak", 
-            "source": "http://musicbrainz.org/work/91e270d6-020c-467f-a5fc-305a261588d9"
-        }, 
-        {
-            "attribute_key": "agiraksak", 
-            "mb_tag": "a\u011f\u0131raksak", 
-            "source": "http://musicbrainz.org/recording/cc17e410-903c-4157-a224-62a18d4ea317"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "cc17e410-903c-4157-a224-62a18d4ea317", 
+    "works": [
+        {
+            "mbid": "91e270d6-020c-467f-a5fc-305a261588d9", 
+            "title": "Kalbi Sevda-zedeler"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "kurdilihicazkar", 
@@ -73,11 +68,16 @@
             "name": "Nevzat S\u00fcmer"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "91e270d6-020c-467f-a5fc-305a261588d9", 
-            "title": "Kalbi Sevda-zedeler"
+            "attribute_key": "agiraksak", 
+            "mb_attribute": "A\u011f\u0131raksak", 
+            "source": "http://musicbrainz.org/work/91e270d6-020c-467f-a5fc-305a261588d9"
+        }, 
+        {
+            "attribute_key": "agiraksak", 
+            "mb_tag": "a\u011f\u0131raksak", 
+            "source": "http://musicbrainz.org/recording/cc17e410-903c-4157-a224-62a18d4ea317"
         }
     ]
 }

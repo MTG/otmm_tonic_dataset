@@ -1,11 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "aksaksemai", 
-            "mb_attribute": "Aksaksemai", 
-            "source": "http://musicbrainz.org/work/a094df54-addb-4d43-a06f-fcae06df9132"
-        }
-    ], 
+    "instrumentation_voicing": "solo instrumental", 
     "form": [
         {
             "attribute_key": "sazsemaisi", 
@@ -33,6 +27,12 @@
         }
     ], 
     "mbid": "e82ecd55-4d36-4c05-8fe0-d697db1cc9b5", 
+    "works": [
+        {
+            "mbid": "a094df54-addb-4d43-a06f-fcae06df9132", 
+            "title": "Evcara Sazsemaisi"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "evcara", 
@@ -55,11 +55,11 @@
             "name": "Salih Bilgin"
         }
     ], 
-    "instrumentation_voicing": "Solo instrumental", 
-    "works": [
+    "usul": [
         {
-            "mbid": "a094df54-addb-4d43-a06f-fcae06df9132", 
-            "title": "Evcara Sazsemaisi"
+            "attribute_key": "aksaksemai", 
+            "mb_attribute": "Aksaksemai", 
+            "source": "http://musicbrainz.org/work/a094df54-addb-4d43-a06f-fcae06df9132"
         }
     ]
 }

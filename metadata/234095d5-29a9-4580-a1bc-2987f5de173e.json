@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "duyek", 
-            "mb_attribute": "D\u00fcyek", 
-            "source": "http://musicbrainz.org/work/5c7f7dda-944a-473d-96ca-1cac7dd607a4"
-        }, 
-        {
-            "attribute_key": "duyek", 
-            "mb_tag": "d\u00fcyek", 
-            "source": "http://musicbrainz.org/recording/234095d5-29a9-4580-a1bc-2987f5de173e"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "234095d5-29a9-4580-a1bc-2987f5de173e", 
+    "works": [
+        {
+            "mbid": "5c7f7dda-944a-473d-96ca-1cac7dd607a4", 
+            "title": "Visal-i Yar ile"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "hicazkar", 
@@ -62,11 +57,16 @@
             "name": "[unknown]"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "5c7f7dda-944a-473d-96ca-1cac7dd607a4", 
-            "title": "Visal-i Yar ile"
+            "attribute_key": "duyek", 
+            "mb_attribute": "D\u00fcyek", 
+            "source": "http://musicbrainz.org/work/5c7f7dda-944a-473d-96ca-1cac7dd607a4"
+        }, 
+        {
+            "attribute_key": "duyek", 
+            "mb_tag": "d\u00fcyek", 
+            "source": "http://musicbrainz.org/recording/234095d5-29a9-4580-a1bc-2987f5de173e"
         }
     ]
 }

@@ -1,26 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "aksaksemai", 
-            "mb_attribute": "Aksaksemai", 
-            "source": "http://musicbrainz.org/work/7956d9d2-a108-46d3-8ad2-eaa02d8c841e"
-        }, 
-        {
-            "attribute_key": "nimsofyan", 
-            "mb_attribute": "Nimsofyan", 
-            "source": "http://musicbrainz.org/work/8705e9de-bf2c-4590-8be3-f116131c8bb0"
-        }, 
-        {
-            "attribute_key": "muhammes", 
-            "mb_attribute": "Muhammes", 
-            "source": "http://musicbrainz.org/work/d689c032-ab60-4162-b872-b56cf3b24db6"
-        }, 
-        {
-            "attribute_key": null, 
-            "mb_tag": "taksim", 
-            "source": "http://musicbrainz.org/recording/86eddebc-b9b8-4069-aac8-b6d789c6f1c9"
-        }
-    ], 
+    "instrumentation_voicing": "trio instrumental", 
     "form": [
         {
             "attribute_key": "sazsemaisi", 
@@ -73,6 +52,20 @@
         }
     ], 
     "mbid": "86eddebc-b9b8-4069-aac8-b6d789c6f1c9", 
+    "works": [
+        {
+            "mbid": "7956d9d2-a108-46d3-8ad2-eaa02d8c841e", 
+            "title": "K\u00fcrdilihicazkar Sazsemaisi"
+        }, 
+        {
+            "mbid": "8705e9de-bf2c-4590-8be3-f116131c8bb0", 
+            "title": "Hicazkar Sirto"
+        }, 
+        {
+            "mbid": "d689c032-ab60-4162-b872-b56cf3b24db6", 
+            "title": "K\u00fcrd\u00eelihicazk\u00e2r Pe\u015frevi"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "kurdilihicazkar", 
@@ -136,19 +129,26 @@
             "name": "Vecihe Daryal"
         }
     ], 
-    "instrumentation_voicing": "Trio instrumental", 
-    "works": [
+    "usul": [
         {
-            "mbid": "7956d9d2-a108-46d3-8ad2-eaa02d8c841e", 
-            "title": "K\u00fcrdilihicazkar Sazsemaisi"
+            "attribute_key": "aksaksemai", 
+            "mb_attribute": "Aksaksemai", 
+            "source": "http://musicbrainz.org/work/7956d9d2-a108-46d3-8ad2-eaa02d8c841e"
         }, 
         {
-            "mbid": "8705e9de-bf2c-4590-8be3-f116131c8bb0", 
-            "title": "Hicazkar Sirto"
+            "attribute_key": "nimsofyan", 
+            "mb_attribute": "Nimsofyan", 
+            "source": "http://musicbrainz.org/work/8705e9de-bf2c-4590-8be3-f116131c8bb0"
         }, 
         {
-            "mbid": "d689c032-ab60-4162-b872-b56cf3b24db6", 
-            "title": "K\u00fcrd\u00eelihicazk\u00e2r Pe\u015frevi"
+            "attribute_key": "muhammes", 
+            "mb_attribute": "Muhammes", 
+            "source": "http://musicbrainz.org/work/d689c032-ab60-4162-b872-b56cf3b24db6"
+        }, 
+        {
+            "attribute_key": null, 
+            "mb_tag": "taksim", 
+            "source": "http://musicbrainz.org/recording/86eddebc-b9b8-4069-aac8-b6d789c6f1c9"
         }
     ]
 }

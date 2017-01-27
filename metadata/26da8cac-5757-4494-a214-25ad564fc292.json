@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "aksak", 
-            "mb_attribute": "Aksak", 
-            "source": "http://musicbrainz.org/work/e115d32c-2955-4278-bb13-46de299304bb"
-        }, 
-        {
-            "attribute_key": "aksak", 
-            "mb_tag": "aksak", 
-            "source": "http://musicbrainz.org/recording/26da8cac-5757-4494-a214-25ad564fc292"
-        }
-    ], 
+    "instrumentation_voicing": "ensemble instrumental", 
     "form": [
         {
             "attribute_key": "zeybek", 
@@ -42,6 +31,12 @@
         }
     ], 
     "mbid": "26da8cac-5757-4494-a214-25ad564fc292", 
+    "works": [
+        {
+            "mbid": "e115d32c-2955-4278-bb13-46de299304bb", 
+            "title": "Rast Zeybek"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "rast", 
@@ -105,11 +100,16 @@
             "name": "U\u011fur I\u015f\u0131k"
         }
     ], 
-    "instrumentation_voicing": "Ensemble instrumental", 
-    "works": [
+    "usul": [
         {
-            "mbid": "e115d32c-2955-4278-bb13-46de299304bb", 
-            "title": "Rast Zeybek"
+            "attribute_key": "aksak", 
+            "mb_attribute": "Aksak", 
+            "source": "http://musicbrainz.org/work/e115d32c-2955-4278-bb13-46de299304bb"
+        }, 
+        {
+            "attribute_key": "aksak", 
+            "mb_tag": "aksak", 
+            "source": "http://musicbrainz.org/recording/26da8cac-5757-4494-a214-25ad564fc292"
         }
     ]
 }

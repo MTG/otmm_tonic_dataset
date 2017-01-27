@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "evsat", 
-            "mb_attribute": "Evsat", 
-            "source": "http://musicbrainz.org/work/29caaae6-30d0-48e5-bd4f-957578bdb4c3"
-        }, 
-        {
-            "attribute_key": "evsat", 
-            "mb_tag": "evsat", 
-            "source": "http://musicbrainz.org/recording/3aeff39e-4dde-447e-895d-df37b341afea"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "tevsihilahi", 
@@ -42,6 +31,12 @@
         }
     ], 
     "mbid": "3aeff39e-4dde-447e-895d-df37b341afea", 
+    "works": [
+        {
+            "mbid": "29caaae6-30d0-48e5-bd4f-957578bdb4c3", 
+            "title": "Sadr-i C\u00fcmle"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "segah", 
@@ -128,11 +123,16 @@
             "name": "\u00d6zer \u00d6zel"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "29caaae6-30d0-48e5-bd4f-957578bdb4c3", 
-            "title": "Sadr-i C\u00fcmle"
+            "attribute_key": "evsat", 
+            "mb_attribute": "Evsat", 
+            "source": "http://musicbrainz.org/work/29caaae6-30d0-48e5-bd4f-957578bdb4c3"
+        }, 
+        {
+            "attribute_key": "evsat", 
+            "mb_tag": "evsat", 
+            "source": "http://musicbrainz.org/recording/3aeff39e-4dde-447e-895d-df37b341afea"
         }
     ]
 }

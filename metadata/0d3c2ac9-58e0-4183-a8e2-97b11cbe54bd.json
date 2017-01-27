@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "duyek", 
-            "mb_attribute": "D\u00fcyek", 
-            "source": "http://musicbrainz.org/work/7c086f62-5cba-4d2b-8467-d84aa4d9bda4"
-        }, 
-        {
-            "attribute_key": "duyek", 
-            "mb_tag": "d\u00fcyek", 
-            "source": "http://musicbrainz.org/recording/0d3c2ac9-58e0-4183-a8e2-97b11cbe54bd"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -33,6 +22,12 @@
         }
     ], 
     "mbid": "0d3c2ac9-58e0-4183-a8e2-97b11cbe54bd", 
+    "works": [
+        {
+            "mbid": "7c086f62-5cba-4d2b-8467-d84aa4d9bda4", 
+            "title": "A\u00e7\u0131k B\u0131rak Pencereni \u00d6rtme Perdeni Bu Gece"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "hicaz", 
@@ -60,11 +55,16 @@
             "name": "Aziz T\u00fcrk Sanat M\u00fczi\u011fi Grubu"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "7c086f62-5cba-4d2b-8467-d84aa4d9bda4", 
-            "title": "A\u00e7\u0131k B\u0131rak Pencereni \u00d6rtme Perdeni Bu Gece"
+            "attribute_key": "duyek", 
+            "mb_attribute": "D\u00fcyek", 
+            "source": "http://musicbrainz.org/work/7c086f62-5cba-4d2b-8467-d84aa4d9bda4"
+        }, 
+        {
+            "attribute_key": "duyek", 
+            "mb_tag": "d\u00fcyek", 
+            "source": "http://musicbrainz.org/recording/0d3c2ac9-58e0-4183-a8e2-97b11cbe54bd"
         }
     ]
 }

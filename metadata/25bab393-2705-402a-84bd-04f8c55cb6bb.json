@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "aksak", 
-            "mb_attribute": "Aksak", 
-            "source": "http://musicbrainz.org/work/2adac921-dbc1-4daa-9ccc-3dea330932e7"
-        }, 
-        {
-            "attribute_key": "aksak", 
-            "mb_tag": "aksak", 
-            "source": "http://musicbrainz.org/recording/25bab393-2705-402a-84bd-04f8c55cb6bb"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "25bab393-2705-402a-84bd-04f8c55cb6bb", 
+    "works": [
+        {
+            "mbid": "2adac921-dbc1-4daa-9ccc-3dea330932e7", 
+            "title": "Bah\u00e7em Yine Sayende"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "ussak", 
@@ -62,11 +57,16 @@
             "name": "Alaeddin Yava\u015fca"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "2adac921-dbc1-4daa-9ccc-3dea330932e7", 
-            "title": "Bah\u00e7em Yine Sayende"
+            "attribute_key": "aksak", 
+            "mb_attribute": "Aksak", 
+            "source": "http://musicbrainz.org/work/2adac921-dbc1-4daa-9ccc-3dea330932e7"
+        }, 
+        {
+            "attribute_key": "aksak", 
+            "mb_tag": "aksak", 
+            "source": "http://musicbrainz.org/recording/25bab393-2705-402a-84bd-04f8c55cb6bb"
         }
     ]
 }

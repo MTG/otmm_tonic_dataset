@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "senginsemai", 
-            "mb_attribute": "Senginsemai", 
-            "source": "http://musicbrainz.org/work/8ff4d355-dd46-4074-b266-aeacabaf875a"
-        }, 
-        {
-            "attribute_key": "senginsemai", 
-            "mb_tag": "senginsemai", 
-            "source": "http://musicbrainz.org/recording/a98a9f8d-66aa-4ca9-b92a-124c4e351fb7"
-        }
-    ], 
+    "instrumentation_voicing": "ensemble instrumental", 
     "form": [
         {
             "attribute_key": "sazsemaisi", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "a98a9f8d-66aa-4ca9-b92a-124c4e351fb7", 
+    "works": [
+        {
+            "mbid": "8ff4d355-dd46-4074-b266-aeacabaf875a", 
+            "title": "Nihavend Saz Semai"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "nihavent", 
@@ -57,11 +52,16 @@
             "name": "Klasik T\u00fcrk M\u00fczi\u011fi Saz Heyeti"
         }
     ], 
-    "instrumentation_voicing": "Ensemble instrumental", 
-    "works": [
+    "usul": [
         {
-            "mbid": "8ff4d355-dd46-4074-b266-aeacabaf875a", 
-            "title": "Nihavend Saz Semai"
+            "attribute_key": "senginsemai", 
+            "mb_attribute": "Senginsemai", 
+            "source": "http://musicbrainz.org/work/8ff4d355-dd46-4074-b266-aeacabaf875a"
+        }, 
+        {
+            "attribute_key": "senginsemai", 
+            "mb_tag": "senginsemai", 
+            "source": "http://musicbrainz.org/recording/a98a9f8d-66aa-4ca9-b92a-124c4e351fb7"
         }
     ]
 }

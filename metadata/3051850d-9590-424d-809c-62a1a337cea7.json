@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "aksak", 
-            "mb_attribute": "Aksak", 
-            "source": "http://musicbrainz.org/work/60b0a3c7-9dcb-4cd1-8cb5-d89d3d8e118c"
-        }, 
-        {
-            "attribute_key": "aksak", 
-            "mb_tag": "aksak", 
-            "source": "http://musicbrainz.org/recording/3051850d-9590-424d-809c-62a1a337cea7"
-        }
-    ], 
+    "instrumentation_voicing": "choir", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "3051850d-9590-424d-809c-62a1a337cea7", 
+    "works": [
+        {
+            "mbid": "60b0a3c7-9dcb-4cd1-8cb5-d89d3d8e118c", 
+            "title": "Hastay\u0131m Ya\u015f\u0131yorum"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "hicaz", 
@@ -151,11 +146,16 @@
             "name": "Safinaz Rizeli"
         }
     ], 
-    "instrumentation_voicing": "Choir", 
-    "works": [
+    "usul": [
         {
-            "mbid": "60b0a3c7-9dcb-4cd1-8cb5-d89d3d8e118c", 
-            "title": "Hastay\u0131m Ya\u015f\u0131yorum"
+            "attribute_key": "aksak", 
+            "mb_attribute": "Aksak", 
+            "source": "http://musicbrainz.org/work/60b0a3c7-9dcb-4cd1-8cb5-d89d3d8e118c"
+        }, 
+        {
+            "attribute_key": "aksak", 
+            "mb_tag": "aksak", 
+            "source": "http://musicbrainz.org/recording/3051850d-9590-424d-809c-62a1a337cea7"
         }
     ]
 }

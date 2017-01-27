@@ -1,11 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "aksaksemai", 
-            "mb_attribute": "Aksaksemai", 
-            "source": "http://musicbrainz.org/work/2e898944-fdac-44c4-a523-47ef94767d45"
-        }
-    ], 
+    "instrumentation_voicing": "duo instrumental", 
     "form": [
         {
             "attribute_key": "sazsemaisi", 
@@ -37,6 +31,12 @@
         }
     ], 
     "mbid": "e3914243-5077-401b-b40f-2a1b86e34c5b", 
+    "works": [
+        {
+            "mbid": "2e898944-fdac-44c4-a523-47ef94767d45", 
+            "title": "Sultaniyegah Sazsemaisi"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "sultaniyegah", 
@@ -67,11 +67,11 @@
             "name": "Erkan Y\u00fcksel"
         }
     ], 
-    "instrumentation_voicing": "Duo instrumental", 
-    "works": [
+    "usul": [
         {
-            "mbid": "2e898944-fdac-44c4-a523-47ef94767d45", 
-            "title": "Sultaniyegah Sazsemaisi"
+            "attribute_key": "aksaksemai", 
+            "mb_attribute": "Aksaksemai", 
+            "source": "http://musicbrainz.org/work/2e898944-fdac-44c4-a523-47ef94767d45"
         }
     ]
 }

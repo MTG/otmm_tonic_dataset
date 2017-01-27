@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "aksaksemai", 
-            "mb_attribute": "Aksaksemai", 
-            "source": "http://musicbrainz.org/work/12f98c6c-7547-4661-9e79-8bc4264eb3e4"
-        }, 
-        {
-            "attribute_key": "aksaksemai", 
-            "mb_tag": "aksaksemai", 
-            "source": "http://musicbrainz.org/recording/54018171-662d-4aba-b9ca-0b3e56ade62e"
-        }
-    ], 
+    "instrumentation_voicing": "ensemble instrumental", 
     "form": [
         {
             "attribute_key": "sazsemaisi", 
@@ -42,6 +31,12 @@
         }
     ], 
     "mbid": "54018171-662d-4aba-b9ca-0b3e56ade62e", 
+    "works": [
+        {
+            "mbid": "12f98c6c-7547-4661-9e79-8bc4264eb3e4", 
+            "title": "Mahur Sazsemaisi"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "mahur", 
@@ -104,11 +99,16 @@
             "name": "\u00d6zer \u00d6zel"
         }
     ], 
-    "instrumentation_voicing": "Ensemble instrumental", 
-    "works": [
+    "usul": [
         {
-            "mbid": "12f98c6c-7547-4661-9e79-8bc4264eb3e4", 
-            "title": "Mahur Sazsemaisi"
+            "attribute_key": "aksaksemai", 
+            "mb_attribute": "Aksaksemai", 
+            "source": "http://musicbrainz.org/work/12f98c6c-7547-4661-9e79-8bc4264eb3e4"
+        }, 
+        {
+            "attribute_key": "aksaksemai", 
+            "mb_tag": "aksaksemai", 
+            "source": "http://musicbrainz.org/recording/54018171-662d-4aba-b9ca-0b3e56ade62e"
         }
     ]
 }

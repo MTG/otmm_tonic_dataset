@@ -1,11 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "serbest", 
-            "mb_tag": "serbest", 
-            "source": "http://musicbrainz.org/recording/754d6f70-e460-4e8b-89ba-cac1e1ebeacd"
-        }
-    ], 
+    "instrumentation_voicing": "solo instrumental", 
     "form": [
         {
             "attribute_key": "sonata", 
@@ -28,6 +22,12 @@
         }
     ], 
     "mbid": "754d6f70-e460-4e8b-89ba-cac1e1ebeacd", 
+    "works": [
+        {
+            "mbid": "a72a82fe-527d-4971-a3ed-28f6fa20a7c8", 
+            "title": "Tanbur Sonat\u0131"
+        }
+    ], 
     "makam": [], 
     "artists": [
         {
@@ -39,11 +39,11 @@
             "name": "Erc\u00fcmend Batanay"
         }
     ], 
-    "instrumentation_voicing": "Solo instrumental", 
-    "works": [
+    "usul": [
         {
-            "mbid": "a72a82fe-527d-4971-a3ed-28f6fa20a7c8", 
-            "title": "Tanbur Sonat\u0131"
+            "attribute_key": "serbest", 
+            "mb_tag": "serbest", 
+            "source": "http://musicbrainz.org/recording/754d6f70-e460-4e8b-89ba-cac1e1ebeacd"
         }
     ]
 }

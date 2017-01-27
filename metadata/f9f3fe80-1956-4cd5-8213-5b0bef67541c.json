@@ -1,11 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "cenber", 
-            "mb_attribute": "\u00c7enber", 
-            "source": "http://musicbrainz.org/work/d16fbb5c-4565-4abe-817a-435eda5fb08e"
-        }
-    ], 
+    "instrumentation_voicing": "ensemble instrumental", 
     "form": [
         {
             "attribute_key": "pesrev", 
@@ -33,6 +27,12 @@
         }
     ], 
     "mbid": "f9f3fe80-1956-4cd5-8213-5b0bef67541c", 
+    "works": [
+        {
+            "mbid": "d16fbb5c-4565-4abe-817a-435eda5fb08e", 
+            "title": "U\u015f\u015fak Pe\u015frev"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "ussak", 
@@ -100,11 +100,11 @@
             "name": "Yurdal Tokcan"
         }
     ], 
-    "instrumentation_voicing": "Ensemble instrumental", 
-    "works": [
+    "usul": [
         {
-            "mbid": "d16fbb5c-4565-4abe-817a-435eda5fb08e", 
-            "title": "U\u015f\u015fak Pe\u015frev"
+            "attribute_key": "cenber", 
+            "mb_attribute": "\u00c7enber", 
+            "source": "http://musicbrainz.org/work/d16fbb5c-4565-4abe-817a-435eda5fb08e"
         }
     ]
 }

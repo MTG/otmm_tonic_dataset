@@ -1,11 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "aksaksemai", 
-            "mb_attribute": "Aksaksemai", 
-            "source": "http://musicbrainz.org/work/ad2d62cb-6edc-440a-b57c-7ceae4508795"
-        }
-    ], 
+    "instrumentation_voicing": "solo instrumental", 
     "form": [
         {
             "attribute_key": "sazsemaisi", 
@@ -33,6 +27,12 @@
         }
     ], 
     "mbid": "92b24c6a-79a6-4054-babe-179671cef650", 
+    "works": [
+        {
+            "mbid": "ad2d62cb-6edc-440a-b57c-7ceae4508795", 
+            "title": "Arazb\u00e2r Buselik Saz Sem\u00e2isi"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "arazbarbuselik", 
@@ -55,11 +55,11 @@
             "name": "Murat Aydemir"
         }
     ], 
-    "instrumentation_voicing": "Solo instrumental", 
-    "works": [
+    "usul": [
         {
-            "mbid": "ad2d62cb-6edc-440a-b57c-7ceae4508795", 
-            "title": "Arazb\u00e2r Buselik Saz Sem\u00e2isi"
+            "attribute_key": "aksaksemai", 
+            "mb_attribute": "Aksaksemai", 
+            "source": "http://musicbrainz.org/work/ad2d62cb-6edc-440a-b57c-7ceae4508795"
         }
     ]
 }

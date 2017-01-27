@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "duyek", 
-            "mb_attribute": "D\u00fcyek", 
-            "source": "http://musicbrainz.org/work/47894461-f6c9-46c9-8179-7a2d35560dbd"
-        }, 
-        {
-            "attribute_key": "duyek", 
-            "mb_tag": "d\u00fcyek", 
-            "source": "http://musicbrainz.org/recording/4ce4b2cb-7edc-42d4-90df-022e708ecb91"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal without accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "4ce4b2cb-7edc-42d4-90df-022e708ecb91", 
+    "works": [
+        {
+            "mbid": "47894461-f6c9-46c9-8179-7a2d35560dbd", 
+            "title": "Def D\u00fcmbelek \u00c7engi \u00c7emen"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "karcigar", 
@@ -57,11 +52,16 @@
             "name": "Hamiyet Y\u00fcceses"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal without accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "47894461-f6c9-46c9-8179-7a2d35560dbd", 
-            "title": "Def D\u00fcmbelek \u00c7engi \u00c7emen"
+            "attribute_key": "duyek", 
+            "mb_attribute": "D\u00fcyek", 
+            "source": "http://musicbrainz.org/work/47894461-f6c9-46c9-8179-7a2d35560dbd"
+        }, 
+        {
+            "attribute_key": "duyek", 
+            "mb_tag": "d\u00fcyek", 
+            "source": "http://musicbrainz.org/recording/4ce4b2cb-7edc-42d4-90df-022e708ecb91"
         }
     ]
 }

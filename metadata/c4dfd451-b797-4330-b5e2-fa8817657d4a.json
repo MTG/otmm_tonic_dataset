@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "devrihindi", 
-            "mb_attribute": "Devr-i Hindi", 
-            "source": "http://musicbrainz.org/work/6646b5a4-59bf-47c3-957f-a25a095dec19"
-        }, 
-        {
-            "attribute_key": "devrihindi", 
-            "mb_tag": "devr-i hindi", 
-            "source": "http://musicbrainz.org/recording/c4dfd451-b797-4330-b5e2-fa8817657d4a"
-        }
-    ], 
+    "instrumentation_voicing": "choir", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "c4dfd451-b797-4330-b5e2-fa8817657d4a", 
+    "works": [
+        {
+            "mbid": "6646b5a4-59bf-47c3-957f-a25a095dec19", 
+            "title": "Senden Ayr\u0131 Ya\u015fayamam"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "rast", 
@@ -130,11 +125,16 @@
             "name": "Seyhun \u00c7elik"
         }
     ], 
-    "instrumentation_voicing": "Choir", 
-    "works": [
+    "usul": [
         {
-            "mbid": "6646b5a4-59bf-47c3-957f-a25a095dec19", 
-            "title": "Senden Ayr\u0131 Ya\u015fayamam"
+            "attribute_key": "devrihindi", 
+            "mb_attribute": "Devr-i Hindi", 
+            "source": "http://musicbrainz.org/work/6646b5a4-59bf-47c3-957f-a25a095dec19"
+        }, 
+        {
+            "attribute_key": "devrihindi", 
+            "mb_tag": "devr-i hindi", 
+            "source": "http://musicbrainz.org/recording/c4dfd451-b797-4330-b5e2-fa8817657d4a"
         }
     ]
 }

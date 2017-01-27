@@ -1,11 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "yuruksemai", 
-            "mb_attribute": "Y\u00fcr\u00fcksemai", 
-            "source": "http://musicbrainz.org/work/dee81ee2-bfae-4276-ad99-75a05d39c56c"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "yuruksemai", 
@@ -28,6 +22,12 @@
         }
     ], 
     "mbid": "b4c8feab-c01d-40e5-90f2-66bd1e78f61c", 
+    "works": [
+        {
+            "mbid": "dee81ee2-bfae-4276-ad99-75a05d39c56c", 
+            "title": "Ey Gonca Dehen Ah-\u0131 Seherden Hazer Eyle"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "neva", 
@@ -50,11 +50,11 @@
             "name": "[unknown]"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "dee81ee2-bfae-4276-ad99-75a05d39c56c", 
-            "title": "Ey Gonca Dehen Ah-\u0131 Seherden Hazer Eyle"
+            "attribute_key": "yuruksemai", 
+            "mb_attribute": "Y\u00fcr\u00fcksemai", 
+            "source": "http://musicbrainz.org/work/dee81ee2-bfae-4276-ad99-75a05d39c56c"
         }
     ]
 }

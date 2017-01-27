@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "devrikebir", 
-            "mb_attribute": "Devr-i Kebir", 
-            "source": "http://musicbrainz.org/work/98dedfb7-6126-4f5d-b6cc-dd70d701a250"
-        }, 
-        {
-            "attribute_key": "devrikebir", 
-            "mb_tag": "devr-i kebir", 
-            "source": "http://musicbrainz.org/recording/4eed90f3-9585-41ec-9e57-f11069576751"
-        }
-    ], 
+    "instrumentation_voicing": "ensemble instrumental", 
     "form": [
         {
             "attribute_key": "pesrev", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "4eed90f3-9585-41ec-9e57-f11069576751", 
+    "works": [
+        {
+            "mbid": "98dedfb7-6126-4f5d-b6cc-dd70d701a250", 
+            "title": "U\u015f\u015fak Pe\u015frev"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "ussak", 
@@ -201,11 +196,16 @@
             "name": "\u00dcmit G\u00fcrelman"
         }
     ], 
-    "instrumentation_voicing": "Ensemble instrumental", 
-    "works": [
+    "usul": [
         {
-            "mbid": "98dedfb7-6126-4f5d-b6cc-dd70d701a250", 
-            "title": "U\u015f\u015fak Pe\u015frev"
+            "attribute_key": "devrikebir", 
+            "mb_attribute": "Devr-i Kebir", 
+            "source": "http://musicbrainz.org/work/98dedfb7-6126-4f5d-b6cc-dd70d701a250"
+        }, 
+        {
+            "attribute_key": "devrikebir", 
+            "mb_tag": "devr-i kebir", 
+            "source": "http://musicbrainz.org/recording/4eed90f3-9585-41ec-9e57-f11069576751"
         }
     ]
 }

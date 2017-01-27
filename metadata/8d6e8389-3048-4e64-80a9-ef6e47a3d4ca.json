@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "semai", 
-            "mb_attribute": "Semai", 
-            "source": "http://musicbrainz.org/work/0af3ccf3-eb30-408a-b22e-b05644f47e8a"
-        }, 
-        {
-            "attribute_key": "semai", 
-            "mb_tag": "semai", 
-            "source": "http://musicbrainz.org/recording/8d6e8389-3048-4e64-80a9-ef6e47a3d4ca"
-        }
-    ], 
+    "instrumentation_voicing": "ensemble instrumental", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -42,6 +31,12 @@
         }
     ], 
     "mbid": "8d6e8389-3048-4e64-80a9-ef6e47a3d4ca", 
+    "works": [
+        {
+            "mbid": "0af3ccf3-eb30-408a-b22e-b05644f47e8a", 
+            "title": "Duydum Ki Unutmu\u015fsun"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "muhayyerkurdi", 
@@ -61,11 +56,16 @@
             "name": "Aziz T\u00fcrk Sanat M\u00fczi\u011fi Grubu"
         }
     ], 
-    "instrumentation_voicing": "Ensemble instrumental", 
-    "works": [
+    "usul": [
         {
-            "mbid": "0af3ccf3-eb30-408a-b22e-b05644f47e8a", 
-            "title": "Duydum Ki Unutmu\u015fsun"
+            "attribute_key": "semai", 
+            "mb_attribute": "Semai", 
+            "source": "http://musicbrainz.org/work/0af3ccf3-eb30-408a-b22e-b05644f47e8a"
+        }, 
+        {
+            "attribute_key": "semai", 
+            "mb_tag": "semai", 
+            "source": "http://musicbrainz.org/recording/8d6e8389-3048-4e64-80a9-ef6e47a3d4ca"
         }
     ]
 }

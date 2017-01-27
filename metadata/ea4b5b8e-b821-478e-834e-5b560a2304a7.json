@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "serbest", 
-            "mb_attribute": "Serbest", 
-            "source": "http://musicbrainz.org/work/7678c132-72bc-42ea-829a-e8d89e648a76"
-        }, 
-        {
-            "attribute_key": "serbest", 
-            "mb_tag": "serbest", 
-            "source": "http://musicbrainz.org/recording/ea4b5b8e-b821-478e-834e-5b560a2304a7"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal without accompaniment", 
     "form": [
         {
             "attribute_key": "gazel", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "ea4b5b8e-b821-478e-834e-5b560a2304a7", 
+    "works": [
+        {
+            "mbid": "7678c132-72bc-42ea-829a-e8d89e648a76", 
+            "title": "Yeter Art\u0131k \u00c7eker Oldum"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "hicaz", 
@@ -57,11 +52,16 @@
             "name": "Haf\u0131z \u015ea\u015f\u0131 Osman Efendi"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal without accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "7678c132-72bc-42ea-829a-e8d89e648a76", 
-            "title": "Yeter Art\u0131k \u00c7eker Oldum"
+            "attribute_key": "serbest", 
+            "mb_attribute": "Serbest", 
+            "source": "http://musicbrainz.org/work/7678c132-72bc-42ea-829a-e8d89e648a76"
+        }, 
+        {
+            "attribute_key": "serbest", 
+            "mb_tag": "serbest", 
+            "source": "http://musicbrainz.org/recording/ea4b5b8e-b821-478e-834e-5b560a2304a7"
         }
     ]
 }

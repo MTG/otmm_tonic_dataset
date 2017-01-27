@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "aksak", 
-            "mb_attribute": "Aksak", 
-            "source": "http://musicbrainz.org/work/3863e5b2-4b74-4a2c-8250-90356510b925"
-        }, 
-        {
-            "attribute_key": "aksak", 
-            "mb_tag": "aksak", 
-            "source": "http://musicbrainz.org/recording/b997998d-0b78-485a-a04b-e50996e65753"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "b997998d-0b78-485a-a04b-e50996e65753", 
+    "works": [
+        {
+            "mbid": "3863e5b2-4b74-4a2c-8250-90356510b925", 
+            "title": "Ezelden A\u015finan\u0131m Ben"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "huseyni", 
@@ -100,11 +95,16 @@
             "name": "Seyhun \u00c7elik"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "3863e5b2-4b74-4a2c-8250-90356510b925", 
-            "title": "Ezelden A\u015finan\u0131m Ben"
+            "attribute_key": "aksak", 
+            "mb_attribute": "Aksak", 
+            "source": "http://musicbrainz.org/work/3863e5b2-4b74-4a2c-8250-90356510b925"
+        }, 
+        {
+            "attribute_key": "aksak", 
+            "mb_tag": "aksak", 
+            "source": "http://musicbrainz.org/recording/b997998d-0b78-485a-a04b-e50996e65753"
         }
     ]
 }

@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "duyek", 
-            "mb_attribute": "D\u00fcyek", 
-            "source": "http://musicbrainz.org/work/bf42da33-ee08-4565-a13e-02a0ce487289"
-        }, 
-        {
-            "attribute_key": "duyek", 
-            "mb_tag": "d\u00fcyek", 
-            "source": "http://musicbrainz.org/recording/55b83448-9675-4648-acd8-019e9af562b9"
-        }
-    ], 
+    "instrumentation_voicing": "choir", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "55b83448-9675-4648-acd8-019e9af562b9", 
+    "works": [
+        {
+            "mbid": "bf42da33-ee08-4565-a13e-02a0ce487289", 
+            "title": "Sensiz Kalan G\u00f6nl\u00fcmde"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "rast", 
@@ -130,11 +125,16 @@
             "name": "Seyhun \u00c7elik"
         }
     ], 
-    "instrumentation_voicing": "Choir", 
-    "works": [
+    "usul": [
         {
-            "mbid": "bf42da33-ee08-4565-a13e-02a0ce487289", 
-            "title": "Sensiz Kalan G\u00f6nl\u00fcmde"
+            "attribute_key": "duyek", 
+            "mb_attribute": "D\u00fcyek", 
+            "source": "http://musicbrainz.org/work/bf42da33-ee08-4565-a13e-02a0ce487289"
+        }, 
+        {
+            "attribute_key": "duyek", 
+            "mb_tag": "d\u00fcyek", 
+            "source": "http://musicbrainz.org/recording/55b83448-9675-4648-acd8-019e9af562b9"
         }
     ]
 }

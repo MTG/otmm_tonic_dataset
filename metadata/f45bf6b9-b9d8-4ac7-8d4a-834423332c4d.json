@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "aksaksemai", 
-            "mb_attribute": "Aksaksemai", 
-            "source": "http://musicbrainz.org/work/28f85cd2-4966-4942-845f-4d3335576f46"
-        }, 
-        {
-            "attribute_key": "aksaksemai", 
-            "mb_tag": "aksaksemai", 
-            "source": "http://musicbrainz.org/recording/f45bf6b9-b9d8-4ac7-8d4a-834423332c4d"
-        }
-    ], 
+    "instrumentation_voicing": "duo instrumental", 
     "form": [
         {
             "attribute_key": "sazsemaisi", 
@@ -42,6 +31,12 @@
         }
     ], 
     "mbid": "f45bf6b9-b9d8-4ac7-8d4a-834423332c4d", 
+    "works": [
+        {
+            "mbid": "28f85cd2-4966-4942-845f-4d3335576f46", 
+            "title": "Mahur Sazsemaisi"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "mahur", 
@@ -72,11 +67,16 @@
             "name": "Osman Nuri \u00d6zpekel"
         }
     ], 
-    "instrumentation_voicing": "Duo instrumental", 
-    "works": [
+    "usul": [
         {
-            "mbid": "28f85cd2-4966-4942-845f-4d3335576f46", 
-            "title": "Mahur Sazsemaisi"
+            "attribute_key": "aksaksemai", 
+            "mb_attribute": "Aksaksemai", 
+            "source": "http://musicbrainz.org/work/28f85cd2-4966-4942-845f-4d3335576f46"
+        }, 
+        {
+            "attribute_key": "aksaksemai", 
+            "mb_tag": "aksaksemai", 
+            "source": "http://musicbrainz.org/recording/f45bf6b9-b9d8-4ac7-8d4a-834423332c4d"
         }
     ]
 }

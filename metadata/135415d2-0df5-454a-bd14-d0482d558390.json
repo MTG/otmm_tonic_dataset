@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "aksak", 
-            "mb_attribute": "Aksak", 
-            "source": "http://musicbrainz.org/work/750f0fd5-9698-4bac-9384-1be76ba28ae2"
-        }, 
-        {
-            "attribute_key": "aksak", 
-            "mb_tag": "aksak", 
-            "source": "http://musicbrainz.org/recording/135415d2-0df5-454a-bd14-d0482d558390"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "135415d2-0df5-454a-bd14-d0482d558390", 
+    "works": [
+        {
+            "mbid": "750f0fd5-9698-4bac-9384-1be76ba28ae2", 
+            "title": "Titrer Y\u00fcre\u011fim Her Ne Zaman Yard\u0131ma Gelsen"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "muhayyer", 
@@ -108,11 +103,16 @@
             "name": "\u015eule \u00c7akar"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "750f0fd5-9698-4bac-9384-1be76ba28ae2", 
-            "title": "Titrer Y\u00fcre\u011fim Her Ne Zaman Yard\u0131ma Gelsen"
+            "attribute_key": "aksak", 
+            "mb_attribute": "Aksak", 
+            "source": "http://musicbrainz.org/work/750f0fd5-9698-4bac-9384-1be76ba28ae2"
+        }, 
+        {
+            "attribute_key": "aksak", 
+            "mb_tag": "aksak", 
+            "source": "http://musicbrainz.org/recording/135415d2-0df5-454a-bd14-d0482d558390"
         }
     ]
 }

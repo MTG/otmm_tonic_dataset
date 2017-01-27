@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "curcuna", 
-            "mb_attribute": "Curcuna", 
-            "source": "http://musicbrainz.org/work/a8a0d02b-b0cf-40e5-b0f1-1289188b148f"
-        }, 
-        {
-            "attribute_key": "kapali_curcuna", 
-            "mb_tag": "curcuna", 
-            "source": "http://musicbrainz.org/recording/c5467989-6877-4b64-8616-37b86bfa3f41"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -42,6 +31,12 @@
         }
     ], 
     "mbid": "c5467989-6877-4b64-8616-37b86bfa3f41", 
+    "works": [
+        {
+            "mbid": "a8a0d02b-b0cf-40e5-b0f1-1289188b148f", 
+            "title": "Bu Ak\u015fam B\u00fct\u00fcn Meyhanelerini"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "kurdilihicazkar", 
@@ -66,11 +61,16 @@
             "name": "Adnan Yavuzer"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "a8a0d02b-b0cf-40e5-b0f1-1289188b148f", 
-            "title": "Bu Ak\u015fam B\u00fct\u00fcn Meyhanelerini"
+            "attribute_key": "curcuna", 
+            "mb_attribute": "Curcuna", 
+            "source": "http://musicbrainz.org/work/a8a0d02b-b0cf-40e5-b0f1-1289188b148f"
+        }, 
+        {
+            "attribute_key": "kapali_curcuna", 
+            "mb_tag": "curcuna", 
+            "source": "http://musicbrainz.org/recording/c5467989-6877-4b64-8616-37b86bfa3f41"
         }
     ]
 }

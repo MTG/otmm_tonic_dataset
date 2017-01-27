@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "kapali_curcuna", 
-            "mb_attribute": "Kapal\u0131 Curcuna", 
-            "source": "http://musicbrainz.org/work/fad224f8-0973-49ad-9c14-7626b1556411"
-        }, 
-        {
-            "attribute_key": "kapali_curcuna", 
-            "mb_tag": "curcuna", 
-            "source": "http://musicbrainz.org/recording/2dcb32e3-b34b-4719-b6fa-2dccf12dd62d"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "2dcb32e3-b34b-4719-b6fa-2dccf12dd62d", 
+    "works": [
+        {
+            "mbid": "fad224f8-0973-49ad-9c14-7626b1556411", 
+            "title": "Ol Gonca Dehen"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "muhayyer", 
@@ -62,11 +57,16 @@
             "name": "Meral U\u011furlu"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "fad224f8-0973-49ad-9c14-7626b1556411", 
-            "title": "Ol Gonca Dehen"
+            "attribute_key": "kapali_curcuna", 
+            "mb_attribute": "Kapal\u0131 Curcuna", 
+            "source": "http://musicbrainz.org/work/fad224f8-0973-49ad-9c14-7626b1556411"
+        }, 
+        {
+            "attribute_key": "kapali_curcuna", 
+            "mb_tag": "curcuna", 
+            "source": "http://musicbrainz.org/recording/2dcb32e3-b34b-4719-b6fa-2dccf12dd62d"
         }
     ]
 }

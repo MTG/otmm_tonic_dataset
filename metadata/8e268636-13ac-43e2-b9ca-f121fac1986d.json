@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "aksak", 
-            "mb_attribute": "Aksak", 
-            "source": "http://musicbrainz.org/work/86ec2ed8-5c1d-43ce-9113-0b0ccde04746"
-        }, 
-        {
-            "attribute_key": "aksak", 
-            "mb_tag": "aksak", 
-            "source": "http://musicbrainz.org/recording/8e268636-13ac-43e2-b9ca-f121fac1986d"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "8e268636-13ac-43e2-b9ca-f121fac1986d", 
+    "works": [
+        {
+            "mbid": "86ec2ed8-5c1d-43ce-9113-0b0ccde04746", 
+            "title": "Harab Oldu Yerim Yurdum Ota\u011f\u0131m"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "kurdilihicazkar", 
@@ -62,11 +57,16 @@
             "name": "Bekir S\u0131dk\u0131 Sezgin"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "86ec2ed8-5c1d-43ce-9113-0b0ccde04746", 
-            "title": "Harab Oldu Yerim Yurdum Ota\u011f\u0131m"
+            "attribute_key": "aksak", 
+            "mb_attribute": "Aksak", 
+            "source": "http://musicbrainz.org/work/86ec2ed8-5c1d-43ce-9113-0b0ccde04746"
+        }, 
+        {
+            "attribute_key": "aksak", 
+            "mb_tag": "aksak", 
+            "source": "http://musicbrainz.org/recording/8e268636-13ac-43e2-b9ca-f121fac1986d"
         }
     ]
 }

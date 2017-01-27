@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "semai", 
-            "mb_attribute": "Semai", 
-            "source": "http://musicbrainz.org/work/06ab8bcd-b2dc-4e95-a916-1e4f359272b5"
-        }, 
-        {
-            "attribute_key": "semai", 
-            "mb_tag": "semai", 
-            "source": "http://musicbrainz.org/recording/4275e885-15b4-44d8-8296-64b0226d1eb9"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal without accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "4275e885-15b4-44d8-8296-64b0226d1eb9", 
+    "works": [
+        {
+            "mbid": "06ab8bcd-b2dc-4e95-a916-1e4f359272b5", 
+            "title": "\u00d6yle Dudak B\u00fck\u00fcp Hor G\u00f6zle Bakma"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "kurdilihicazkar", 
@@ -57,11 +52,16 @@
             "name": "Ela Alt\u0131n"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal without accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "06ab8bcd-b2dc-4e95-a916-1e4f359272b5", 
-            "title": "\u00d6yle Dudak B\u00fck\u00fcp Hor G\u00f6zle Bakma"
+            "attribute_key": "semai", 
+            "mb_attribute": "Semai", 
+            "source": "http://musicbrainz.org/work/06ab8bcd-b2dc-4e95-a916-1e4f359272b5"
+        }, 
+        {
+            "attribute_key": "semai", 
+            "mb_tag": "semai", 
+            "source": "http://musicbrainz.org/recording/4275e885-15b4-44d8-8296-64b0226d1eb9"
         }
     ]
 }

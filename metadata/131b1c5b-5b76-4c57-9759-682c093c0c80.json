@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "aksaksemai", 
-            "mb_attribute": "Aksaksemai", 
-            "source": "http://musicbrainz.org/work/44eba3fc-ea1a-4549-82a9-a103592f557b"
-        }, 
-        {
-            "attribute_key": "aksaksemai", 
-            "mb_tag": "aksaksemai", 
-            "source": "http://musicbrainz.org/recording/131b1c5b-5b76-4c57-9759-682c093c0c80"
-        }
-    ], 
+    "instrumentation_voicing": "solo instrumental", 
     "form": [
         {
             "attribute_key": "sazsemaisi", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "131b1c5b-5b76-4c57-9759-682c093c0c80", 
+    "works": [
+        {
+            "mbid": "44eba3fc-ea1a-4549-82a9-a103592f557b", 
+            "title": "Irak Sazsemaisi"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "irak", 
@@ -60,11 +55,16 @@
             "name": "\u015eerif Muhittin Targan"
         }
     ], 
-    "instrumentation_voicing": "Solo instrumental", 
-    "works": [
+    "usul": [
         {
-            "mbid": "44eba3fc-ea1a-4549-82a9-a103592f557b", 
-            "title": "Irak Sazsemaisi"
+            "attribute_key": "aksaksemai", 
+            "mb_attribute": "Aksaksemai", 
+            "source": "http://musicbrainz.org/work/44eba3fc-ea1a-4549-82a9-a103592f557b"
+        }, 
+        {
+            "attribute_key": "aksaksemai", 
+            "mb_tag": "aksaksemai", 
+            "source": "http://musicbrainz.org/recording/131b1c5b-5b76-4c57-9759-682c093c0c80"
         }
     ]
 }

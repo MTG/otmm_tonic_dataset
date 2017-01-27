@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "aksaksemai", 
-            "mb_attribute": "Aksaksemai", 
-            "source": "http://musicbrainz.org/work/361881ab-2708-4760-9338-dc829fe64257"
-        }, 
-        {
-            "attribute_key": "aksaksemai", 
-            "mb_tag": "aksaksemai", 
-            "source": "http://musicbrainz.org/recording/0bd10252-cb75-4d6a-838d-4ca8e6da06c2"
-        }
-    ], 
+    "instrumentation_voicing": "ensemble instrumental", 
     "form": [
         {
             "attribute_key": "sazsemaisi", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "0bd10252-cb75-4d6a-838d-4ca8e6da06c2", 
+    "works": [
+        {
+            "mbid": "361881ab-2708-4760-9338-dc829fe64257", 
+            "title": "H\u00fcseyni A\u015firan Saz Semaisi"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "huseyniasiran", 
@@ -108,11 +103,16 @@
             "name": "Safinaz Rizeli"
         }
     ], 
-    "instrumentation_voicing": "Ensemble instrumental", 
-    "works": [
+    "usul": [
         {
-            "mbid": "361881ab-2708-4760-9338-dc829fe64257", 
-            "title": "H\u00fcseyni A\u015firan Saz Semaisi"
+            "attribute_key": "aksaksemai", 
+            "mb_attribute": "Aksaksemai", 
+            "source": "http://musicbrainz.org/work/361881ab-2708-4760-9338-dc829fe64257"
+        }, 
+        {
+            "attribute_key": "aksaksemai", 
+            "mb_tag": "aksaksemai", 
+            "source": "http://musicbrainz.org/recording/0bd10252-cb75-4d6a-838d-4ca8e6da06c2"
         }
     ]
 }

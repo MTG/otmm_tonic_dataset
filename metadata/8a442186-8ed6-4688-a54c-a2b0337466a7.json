@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "duyek", 
-            "mb_attribute": "D\u00fcyek", 
-            "source": "http://musicbrainz.org/work/c6e43ac6-4a18-42ab-bcc4-46e29360051e"
-        }, 
-        {
-            "attribute_key": "duyek", 
-            "mb_tag": "d\u00fcyek", 
-            "source": "http://musicbrainz.org/recording/8a442186-8ed6-4688-a54c-a2b0337466a7"
-        }
-    ], 
+    "instrumentation_voicing": "duo instrumental", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "8a442186-8ed6-4688-a54c-a2b0337466a7", 
+    "works": [
+        {
+            "mbid": "c6e43ac6-4a18-42ab-bcc4-46e29360051e", 
+            "title": "Ak\u015fam Oldu H\u00fcz\u00fcnlendim Ben Yine"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "ussak", 
@@ -68,11 +63,16 @@
             "name": "Ergin K\u0131z\u0131lay"
         }
     ], 
-    "instrumentation_voicing": "Duo instrumental", 
-    "works": [
+    "usul": [
         {
-            "mbid": "c6e43ac6-4a18-42ab-bcc4-46e29360051e", 
-            "title": "Ak\u015fam Oldu H\u00fcz\u00fcnlendim Ben Yine"
+            "attribute_key": "duyek", 
+            "mb_attribute": "D\u00fcyek", 
+            "source": "http://musicbrainz.org/work/c6e43ac6-4a18-42ab-bcc4-46e29360051e"
+        }, 
+        {
+            "attribute_key": "duyek", 
+            "mb_tag": "d\u00fcyek", 
+            "source": "http://musicbrainz.org/recording/8a442186-8ed6-4688-a54c-a2b0337466a7"
         }
     ]
 }

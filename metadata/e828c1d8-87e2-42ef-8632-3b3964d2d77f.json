@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "aksak", 
-            "mb_attribute": "Aksak", 
-            "source": "http://musicbrainz.org/work/718dce53-c816-4f4e-8c63-3d59771ec1ce"
-        }, 
-        {
-            "attribute_key": "aksak", 
-            "mb_tag": "aksak", 
-            "source": "http://musicbrainz.org/recording/e828c1d8-87e2-42ef-8632-3b3964d2d77f"
-        }
-    ], 
+    "instrumentation_voicing": "solo instrumental", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "e828c1d8-87e2-42ef-8632-3b3964d2d77f", 
+    "works": [
+        {
+            "mbid": "718dce53-c816-4f4e-8c63-3d59771ec1ce", 
+            "title": "Ne G\u00fcnah Etse A\u00e7\u0131lmaz"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "hicaz", 
@@ -60,11 +55,16 @@
             "name": "Ergin K\u0131z\u0131lay"
         }
     ], 
-    "instrumentation_voicing": "Solo instrumental", 
-    "works": [
+    "usul": [
         {
-            "mbid": "718dce53-c816-4f4e-8c63-3d59771ec1ce", 
-            "title": "Ne G\u00fcnah Etse A\u00e7\u0131lmaz"
+            "attribute_key": "aksak", 
+            "mb_attribute": "Aksak", 
+            "source": "http://musicbrainz.org/work/718dce53-c816-4f4e-8c63-3d59771ec1ce"
+        }, 
+        {
+            "attribute_key": "aksak", 
+            "mb_tag": "aksak", 
+            "source": "http://musicbrainz.org/recording/e828c1d8-87e2-42ef-8632-3b3964d2d77f"
         }
     ]
 }

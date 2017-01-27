@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "senginsemai", 
-            "mb_attribute": "Senginsemai", 
-            "source": "http://musicbrainz.org/work/49ac3880-f704-4485-90da-aafdc34cfaad"
-        }, 
-        {
-            "attribute_key": "senginsemai", 
-            "mb_tag": "senginsemai", 
-            "source": "http://musicbrainz.org/recording/8b870a7a-6905-4494-b786-adb6380ebc96"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "8b870a7a-6905-4494-b786-adb6380ebc96", 
+    "works": [
+        {
+            "mbid": "49ac3880-f704-4485-90da-aafdc34cfaad", 
+            "title": "Lerzan Ediyor Ruhumu"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "evic", 
@@ -62,11 +57,16 @@
             "name": "Bekir S\u0131dk\u0131 Sezgin"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "49ac3880-f704-4485-90da-aafdc34cfaad", 
-            "title": "Lerzan Ediyor Ruhumu"
+            "attribute_key": "senginsemai", 
+            "mb_attribute": "Senginsemai", 
+            "source": "http://musicbrainz.org/work/49ac3880-f704-4485-90da-aafdc34cfaad"
+        }, 
+        {
+            "attribute_key": "senginsemai", 
+            "mb_tag": "senginsemai", 
+            "source": "http://musicbrainz.org/recording/8b870a7a-6905-4494-b786-adb6380ebc96"
         }
     ]
 }

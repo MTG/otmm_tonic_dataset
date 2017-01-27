@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "aksaksemai", 
-            "mb_attribute": "Aksaksemai", 
-            "source": "http://musicbrainz.org/work/263ec746-c61d-4d79-a67b-99e86387c29a"
-        }, 
-        {
-            "attribute_key": "aksaksemai", 
-            "mb_tag": "aksaksemai", 
-            "source": "http://musicbrainz.org/recording/6f49b674-4843-4577-8dcd-3b06c9851c65"
-        }
-    ], 
+    "instrumentation_voicing": "duo instrumental", 
     "form": [
         {
             "attribute_key": "sazsemaisi", 
@@ -42,6 +31,12 @@
         }
     ], 
     "mbid": "6f49b674-4843-4577-8dcd-3b06c9851c65", 
+    "works": [
+        {
+            "mbid": "263ec746-c61d-4d79-a67b-99e86387c29a", 
+            "title": "Karc\u0131\u011far Sazsemaisi"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "karcigar", 
@@ -72,11 +67,16 @@
             "name": "Mutlu Torun"
         }
     ], 
-    "instrumentation_voicing": "Duo instrumental", 
-    "works": [
+    "usul": [
         {
-            "mbid": "263ec746-c61d-4d79-a67b-99e86387c29a", 
-            "title": "Karc\u0131\u011far Sazsemaisi"
+            "attribute_key": "aksaksemai", 
+            "mb_attribute": "Aksaksemai", 
+            "source": "http://musicbrainz.org/work/263ec746-c61d-4d79-a67b-99e86387c29a"
+        }, 
+        {
+            "attribute_key": "aksaksemai", 
+            "mb_tag": "aksaksemai", 
+            "source": "http://musicbrainz.org/recording/6f49b674-4843-4577-8dcd-3b06c9851c65"
         }
     ]
 }

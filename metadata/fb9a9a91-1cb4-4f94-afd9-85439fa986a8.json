@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "devrikebir", 
-            "mb_attribute": "Devr-i Kebir", 
-            "source": "http://musicbrainz.org/work/b35f8221-5992-4585-9cb3-f153beaa4e62"
-        }, 
-        {
-            "attribute_key": "devrikebir", 
-            "mb_tag": "devrikebir", 
-            "source": "http://musicbrainz.org/recording/fb9a9a91-1cb4-4f94-afd9-85439fa986a8"
-        }
-    ], 
+    "instrumentation_voicing": "ensemble instrumental", 
     "form": [
         {
             "attribute_key": "pesrev", 
@@ -43,6 +32,16 @@
         }
     ], 
     "mbid": "fb9a9a91-1cb4-4f94-afd9-85439fa986a8", 
+    "works": [
+        {
+            "mbid": "b35f8221-5992-4585-9cb3-f153beaa4e62", 
+            "title": "Ferahfeza Pe\u015frev"
+        }, 
+        {
+            "mbid": "c6cdec1a-8763-48dd-9aa9-ad89d5a5e322", 
+            "title": "Ferahfeza Ayin-i \u015eerif"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "ferahfeza", 
@@ -67,15 +66,16 @@
             "name": "Dede Efendi T\u00fcrk M\u00fczi\u011fi Toplulu\u011fu"
         }
     ], 
-    "instrumentation_voicing": "Ensemble instrumental", 
-    "works": [
+    "usul": [
         {
-            "mbid": "b35f8221-5992-4585-9cb3-f153beaa4e62", 
-            "title": "Ferahfeza Pe\u015frev"
+            "attribute_key": "devrikebir", 
+            "mb_attribute": "Devr-i Kebir", 
+            "source": "http://musicbrainz.org/work/b35f8221-5992-4585-9cb3-f153beaa4e62"
         }, 
         {
-            "mbid": "c6cdec1a-8763-48dd-9aa9-ad89d5a5e322", 
-            "title": "Ferahfeza Ayin-i \u015eerif"
+            "attribute_key": "devrikebir", 
+            "mb_tag": "devrikebir", 
+            "source": "http://musicbrainz.org/recording/fb9a9a91-1cb4-4f94-afd9-85439fa986a8"
         }
     ]
 }

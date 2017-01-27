@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "semai", 
-            "mb_attribute": "Semai", 
-            "source": "http://musicbrainz.org/work/cc601533-a50f-4fcc-bca3-aed31342b9e1"
-        }, 
-        {
-            "attribute_key": "semai", 
-            "mb_tag": "semai", 
-            "source": "http://musicbrainz.org/recording/20c47822-6ce3-4c49-b882-344f187cafd5"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal without accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "20c47822-6ce3-4c49-b882-344f187cafd5", 
+    "works": [
+        {
+            "mbid": "cc601533-a50f-4fcc-bca3-aed31342b9e1", 
+            "title": "Canandan Uzak Kald\u0131 G\u00f6n\u00fcl"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "kurdilihicazkar", 
@@ -57,11 +52,16 @@
             "name": "Zeki M\u00fcren"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal without accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "cc601533-a50f-4fcc-bca3-aed31342b9e1", 
-            "title": "Canandan Uzak Kald\u0131 G\u00f6n\u00fcl"
+            "attribute_key": "semai", 
+            "mb_attribute": "Semai", 
+            "source": "http://musicbrainz.org/work/cc601533-a50f-4fcc-bca3-aed31342b9e1"
+        }, 
+        {
+            "attribute_key": "semai", 
+            "mb_tag": "semai", 
+            "source": "http://musicbrainz.org/recording/20c47822-6ce3-4c49-b882-344f187cafd5"
         }
     ]
 }

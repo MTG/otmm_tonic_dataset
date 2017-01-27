@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "yuruksemai", 
-            "mb_attribute": "Y\u00fcr\u00fcksemai", 
-            "source": "http://musicbrainz.org/work/cec429b0-9e04-4b2d-b190-7b056727177f"
-        }, 
-        {
-            "attribute_key": "yuruksemai", 
-            "mb_tag": "y\u00fcr\u00fcksemai", 
-            "source": "http://musicbrainz.org/recording/c6728dc0-5fdf-439a-9d32-56be19a5fa44"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "c6728dc0-5fdf-439a-9d32-56be19a5fa44", 
+    "works": [
+        {
+            "mbid": "cec429b0-9e04-4b2d-b190-7b056727177f", 
+            "title": "Nedir A Sevdi\u011fim S\u00f6yle Bu Halin"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "nihavent", 
@@ -108,11 +103,16 @@
             "name": "\u015eule \u00c7akar"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "cec429b0-9e04-4b2d-b190-7b056727177f", 
-            "title": "Nedir A Sevdi\u011fim S\u00f6yle Bu Halin"
+            "attribute_key": "yuruksemai", 
+            "mb_attribute": "Y\u00fcr\u00fcksemai", 
+            "source": "http://musicbrainz.org/work/cec429b0-9e04-4b2d-b190-7b056727177f"
+        }, 
+        {
+            "attribute_key": "yuruksemai", 
+            "mb_tag": "y\u00fcr\u00fcksemai", 
+            "source": "http://musicbrainz.org/recording/c6728dc0-5fdf-439a-9d32-56be19a5fa44"
         }
     ]
 }

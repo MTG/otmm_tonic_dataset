@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "ciftesofyan", 
-            "mb_attribute": "\u00c7iftesofyan", 
-            "source": "http://musicbrainz.org/work/ec05ec50-2ca6-480f-ab65-44390fa6569a"
-        }, 
-        {
-            "attribute_key": "aksak", 
-            "mb_tag": "aksak", 
-            "source": "http://musicbrainz.org/recording/3799145c-529c-41d2-998a-948a9292f4d8"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "3799145c-529c-41d2-998a-948a9292f4d8", 
+    "works": [
+        {
+            "mbid": "ec05ec50-2ca6-480f-ab65-44390fa6569a", 
+            "title": "Ey G\u00fcl Ba\u011f-\u0131 Eda"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "huzzam", 
@@ -129,11 +124,16 @@
             "name": "Atilla G\u00fcnd\u00fcz"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "ec05ec50-2ca6-480f-ab65-44390fa6569a", 
-            "title": "Ey G\u00fcl Ba\u011f-\u0131 Eda"
+            "attribute_key": "ciftesofyan", 
+            "mb_attribute": "\u00c7iftesofyan", 
+            "source": "http://musicbrainz.org/work/ec05ec50-2ca6-480f-ab65-44390fa6569a"
+        }, 
+        {
+            "attribute_key": "aksak", 
+            "mb_tag": "aksak", 
+            "source": "http://musicbrainz.org/recording/3799145c-529c-41d2-998a-948a9292f4d8"
         }
     ]
 }

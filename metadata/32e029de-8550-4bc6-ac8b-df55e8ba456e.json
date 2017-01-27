@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "kapali_curcuna", 
-            "mb_attribute": "Kapal\u0131 Curcuna", 
-            "source": "http://musicbrainz.org/work/b4b245c4-fa12-46ed-a121-b3e3155276d5"
-        }, 
-        {
-            "attribute_key": "kapali_curcuna", 
-            "mb_tag": "curcuna", 
-            "source": "http://musicbrainz.org/recording/32e029de-8550-4bc6-ac8b-df55e8ba456e"
-        }
-    ], 
+    "instrumentation_voicing": "choir", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "32e029de-8550-4bc6-ac8b-df55e8ba456e", 
+    "works": [
+        {
+            "mbid": "b4b245c4-fa12-46ed-a121-b3e3155276d5", 
+            "title": "Cana Rakibi Handan Edersin"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "ussak", 
@@ -533,11 +528,16 @@
             "name": "Arzu \u00d6zg\u00fcn"
         }
     ], 
-    "instrumentation_voicing": "Choir", 
-    "works": [
+    "usul": [
         {
-            "mbid": "b4b245c4-fa12-46ed-a121-b3e3155276d5", 
-            "title": "Cana Rakibi Handan Edersin"
+            "attribute_key": "kapali_curcuna", 
+            "mb_attribute": "Kapal\u0131 Curcuna", 
+            "source": "http://musicbrainz.org/work/b4b245c4-fa12-46ed-a121-b3e3155276d5"
+        }, 
+        {
+            "attribute_key": "kapali_curcuna", 
+            "mb_tag": "curcuna", 
+            "source": "http://musicbrainz.org/recording/32e029de-8550-4bc6-ac8b-df55e8ba456e"
         }
     ]
 }

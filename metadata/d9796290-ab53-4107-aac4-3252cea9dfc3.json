@@ -1,11 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "evfer", 
-            "mb_attribute": "Evfer", 
-            "source": "http://musicbrainz.org/work/d2a83da8-30aa-43e2-8643-b493320cb476"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal without accompaniment", 
     "form": [
         {
             "attribute_key": "turku", 
@@ -33,6 +27,12 @@
         }
     ], 
     "mbid": "d9796290-ab53-4107-aac4-3252cea9dfc3", 
+    "works": [
+        {
+            "mbid": "d2a83da8-30aa-43e2-8643-b493320cb476", 
+            "title": "Kara G\u00f6zl\u00fc \u00c7ingenem"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "saba", 
@@ -55,11 +55,11 @@
             "name": "Aziz T\u00fcrk Sanat M\u00fczi\u011fi Grubu"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal without accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "d2a83da8-30aa-43e2-8643-b493320cb476", 
-            "title": "Kara G\u00f6zl\u00fc \u00c7ingenem"
+            "attribute_key": "evfer", 
+            "mb_attribute": "Evfer", 
+            "source": "http://musicbrainz.org/work/d2a83da8-30aa-43e2-8643-b493320cb476"
         }
     ]
 }

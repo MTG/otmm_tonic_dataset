@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "aksaksemai", 
-            "mb_attribute": "Aksaksemai", 
-            "source": "http://musicbrainz.org/work/8caa157b-0163-4de7-8625-07e49f262a26"
-        }, 
-        {
-            "attribute_key": "aksaksemai", 
-            "mb_tag": "aksaksemai", 
-            "source": "http://musicbrainz.org/recording/f0663f1b-8e51-4a9f-8695-e5b36ae9a562"
-        }
-    ], 
+    "instrumentation_voicing": "solo instrumental", 
     "form": [
         {
             "attribute_key": "sazsemaisi", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "f0663f1b-8e51-4a9f-8695-e5b36ae9a562", 
+    "works": [
+        {
+            "mbid": "8caa157b-0163-4de7-8625-07e49f262a26", 
+            "title": "Hicaz Sazsemaisi"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "hicaz", 
@@ -60,11 +55,16 @@
             "name": "Taner Kalkulo\u011flu"
         }
     ], 
-    "instrumentation_voicing": "Solo instrumental", 
-    "works": [
+    "usul": [
         {
-            "mbid": "8caa157b-0163-4de7-8625-07e49f262a26", 
-            "title": "Hicaz Sazsemaisi"
+            "attribute_key": "aksaksemai", 
+            "mb_attribute": "Aksaksemai", 
+            "source": "http://musicbrainz.org/work/8caa157b-0163-4de7-8625-07e49f262a26"
+        }, 
+        {
+            "attribute_key": "aksaksemai", 
+            "mb_tag": "aksaksemai", 
+            "source": "http://musicbrainz.org/recording/f0663f1b-8e51-4a9f-8695-e5b36ae9a562"
         }
     ]
 }

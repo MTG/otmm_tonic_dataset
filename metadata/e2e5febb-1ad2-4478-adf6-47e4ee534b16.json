@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "curcuna", 
-            "mb_attribute": "Curcuna", 
-            "source": "http://musicbrainz.org/work/05118462-66f2-4506-bf76-3faa5dca485e"
-        }, 
-        {
-            "attribute_key": "kapali_curcuna", 
-            "mb_tag": "curcuna", 
-            "source": "http://musicbrainz.org/recording/e2e5febb-1ad2-4478-adf6-47e4ee534b16"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "e2e5febb-1ad2-4478-adf6-47e4ee534b16", 
+    "works": [
+        {
+            "mbid": "05118462-66f2-4506-bf76-3faa5dca485e", 
+            "title": "Yine Kalbim Co\u015far A\u011flar"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "huzzam", 
@@ -145,11 +140,16 @@
             "name": "Faik Dinleten"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "05118462-66f2-4506-bf76-3faa5dca485e", 
-            "title": "Yine Kalbim Co\u015far A\u011flar"
+            "attribute_key": "curcuna", 
+            "mb_attribute": "Curcuna", 
+            "source": "http://musicbrainz.org/work/05118462-66f2-4506-bf76-3faa5dca485e"
+        }, 
+        {
+            "attribute_key": "kapali_curcuna", 
+            "mb_tag": "curcuna", 
+            "source": "http://musicbrainz.org/recording/e2e5febb-1ad2-4478-adf6-47e4ee534b16"
         }
     ]
 }

@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "duyek", 
-            "mb_attribute": "D\u00fcyek", 
-            "source": "http://musicbrainz.org/work/98790139-294f-4132-b75d-bc932e58d9a2"
-        }, 
-        {
-            "attribute_key": "duyek", 
-            "mb_tag": "d\u00fcyek", 
-            "source": "http://musicbrainz.org/recording/ba654972-da9a-4cec-8013-16c02acbfaee"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal without accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "ba654972-da9a-4cec-8013-16c02acbfaee", 
+    "works": [
+        {
+            "mbid": "98790139-294f-4132-b75d-bc932e58d9a2", 
+            "title": "\u00dcmitsiz Bir A\u015fka D\u00fc\u015ft\u00fcm"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "hicaz", 
@@ -57,11 +52,16 @@
             "name": "G\u00fcl Yaz\u0131c\u0131"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal without accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "98790139-294f-4132-b75d-bc932e58d9a2", 
-            "title": "\u00dcmitsiz Bir A\u015fka D\u00fc\u015ft\u00fcm"
+            "attribute_key": "duyek", 
+            "mb_attribute": "D\u00fcyek", 
+            "source": "http://musicbrainz.org/work/98790139-294f-4132-b75d-bc932e58d9a2"
+        }, 
+        {
+            "attribute_key": "duyek", 
+            "mb_tag": "d\u00fcyek", 
+            "source": "http://musicbrainz.org/recording/ba654972-da9a-4cec-8013-16c02acbfaee"
         }
     ]
 }

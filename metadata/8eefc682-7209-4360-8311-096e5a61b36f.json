@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "aksaksemaievferi", 
-            "mb_attribute": "Aksaksemai Evferi", 
-            "source": "http://musicbrainz.org/work/33d1561a-8f64-4d47-bf01-284180ca8088"
-        }, 
-        {
-            "attribute_key": "durakevferi", 
-            "mb_attribute": "Durak Evferi", 
-            "source": "http://musicbrainz.org/work/fb7709fb-cd19-45bd-b3a2-948e41ec0c28"
-        }
-    ], 
+    "instrumentation_voicing": "trio instrumental", 
     "form": [
         {
             "attribute_key": "salatiummiye", 
@@ -48,6 +37,16 @@
         }
     ], 
     "mbid": "8eefc682-7209-4360-8311-096e5a61b36f", 
+    "works": [
+        {
+            "mbid": "33d1561a-8f64-4d47-bf01-284180ca8088", 
+            "title": "Salat-\u0131 \u00dcmmiye"
+        }, 
+        {
+            "mbid": "fb7709fb-cd19-45bd-b3a2-948e41ec0c28", 
+            "title": "Segah Tekbir"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "segah", 
@@ -91,15 +90,16 @@
             "name": "Ahmet \u015eahin"
         }
     ], 
-    "instrumentation_voicing": "Trio instrumental", 
-    "works": [
+    "usul": [
         {
-            "mbid": "33d1561a-8f64-4d47-bf01-284180ca8088", 
-            "title": "Salat-\u0131 \u00dcmmiye"
+            "attribute_key": "aksaksemaievferi", 
+            "mb_attribute": "Aksaksemai Evferi", 
+            "source": "http://musicbrainz.org/work/33d1561a-8f64-4d47-bf01-284180ca8088"
         }, 
         {
-            "mbid": "fb7709fb-cd19-45bd-b3a2-948e41ec0c28", 
-            "title": "Segah Tekbir"
+            "attribute_key": "durakevferi", 
+            "mb_attribute": "Durak Evferi", 
+            "source": "http://musicbrainz.org/work/fb7709fb-cd19-45bd-b3a2-948e41ec0c28"
         }
     ]
 }

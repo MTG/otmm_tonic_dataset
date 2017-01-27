@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "duyek", 
-            "mb_attribute": "D\u00fcyek", 
-            "source": "http://musicbrainz.org/work/4cdb99f9-8e2a-47c5-9aa3-d2381d807d49"
-        }, 
-        {
-            "attribute_key": "duyek", 
-            "mb_tag": "d\u00fcyek", 
-            "source": "http://musicbrainz.org/recording/6bf2fee4-72ac-4ba4-b46d-0cc0ac385887"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "6bf2fee4-72ac-4ba4-b46d-0cc0ac385887", 
+    "works": [
+        {
+            "mbid": "4cdb99f9-8e2a-47c5-9aa3-d2381d807d49", 
+            "title": "Bir K\u0131z\u0131l Goncaya Benzer"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "muhayyerkurdi", 
@@ -225,11 +220,16 @@
             "name": "Bekir \u00dcnl\u00fcataer"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "4cdb99f9-8e2a-47c5-9aa3-d2381d807d49", 
-            "title": "Bir K\u0131z\u0131l Goncaya Benzer"
+            "attribute_key": "duyek", 
+            "mb_attribute": "D\u00fcyek", 
+            "source": "http://musicbrainz.org/work/4cdb99f9-8e2a-47c5-9aa3-d2381d807d49"
+        }, 
+        {
+            "attribute_key": "duyek", 
+            "mb_tag": "d\u00fcyek", 
+            "source": "http://musicbrainz.org/recording/6bf2fee4-72ac-4ba4-b46d-0cc0ac385887"
         }
     ]
 }

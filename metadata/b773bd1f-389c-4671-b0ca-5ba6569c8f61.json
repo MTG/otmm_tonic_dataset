@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "yuruksemai", 
-            "mb_attribute": "Y\u00fcr\u00fcksemai", 
-            "source": "http://musicbrainz.org/work/c121c615-d551-4c63-bf38-8aafcac696e6"
-        }, 
-        {
-            "attribute_key": "senginsemai", 
-            "mb_tag": "senginsemai", 
-            "source": "http://musicbrainz.org/recording/b773bd1f-389c-4671-b0ca-5ba6569c8f61"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "b773bd1f-389c-4671-b0ca-5ba6569c8f61", 
+    "works": [
+        {
+            "mbid": "c121c615-d551-4c63-bf38-8aafcac696e6", 
+            "title": "Berdar Olal\u0131 Z\u00fclf\u00fcne"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "kurdilihicazkar", 
@@ -62,11 +57,16 @@
             "name": "Bekir S\u0131dk\u0131 Sezgin"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "c121c615-d551-4c63-bf38-8aafcac696e6", 
-            "title": "Berdar Olal\u0131 Z\u00fclf\u00fcne"
+            "attribute_key": "yuruksemai", 
+            "mb_attribute": "Y\u00fcr\u00fcksemai", 
+            "source": "http://musicbrainz.org/work/c121c615-d551-4c63-bf38-8aafcac696e6"
+        }, 
+        {
+            "attribute_key": "senginsemai", 
+            "mb_tag": "senginsemai", 
+            "source": "http://musicbrainz.org/recording/b773bd1f-389c-4671-b0ca-5ba6569c8f61"
         }
     ]
 }

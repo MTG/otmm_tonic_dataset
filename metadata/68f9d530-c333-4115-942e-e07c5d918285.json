@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "agirduyek", 
-            "mb_attribute": "A\u011f\u0131rd\u00fcyek", 
-            "source": "http://musicbrainz.org/work/e3691957-a2bd-4e40-8041-582af3a02b4e"
-        }, 
-        {
-            "attribute_key": "agirduyek", 
-            "mb_tag": "a\u011f\u0131rd\u00fcyek", 
-            "source": "http://musicbrainz.org/recording/68f9d530-c333-4115-942e-e07c5d918285"
-        }
-    ], 
+    "instrumentation_voicing": "solo instrumental", 
     "form": [
         {
             "attribute_key": "pesrev", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "68f9d530-c333-4115-942e-e07c5d918285", 
+    "works": [
+        {
+            "mbid": "e3691957-a2bd-4e40-8041-582af3a02b4e", 
+            "title": "K\u00fcrdilihicazkar Pe\u015frev"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "kurdilihicazkar", 
@@ -60,11 +55,16 @@
             "name": "Enver Mete Aslan"
         }
     ], 
-    "instrumentation_voicing": "Solo instrumental", 
-    "works": [
+    "usul": [
         {
-            "mbid": "e3691957-a2bd-4e40-8041-582af3a02b4e", 
-            "title": "K\u00fcrdilihicazkar Pe\u015frev"
+            "attribute_key": "agirduyek", 
+            "mb_attribute": "A\u011f\u0131rd\u00fcyek", 
+            "source": "http://musicbrainz.org/work/e3691957-a2bd-4e40-8041-582af3a02b4e"
+        }, 
+        {
+            "attribute_key": "agirduyek", 
+            "mb_tag": "a\u011f\u0131rd\u00fcyek", 
+            "source": "http://musicbrainz.org/recording/68f9d530-c333-4115-942e-e07c5d918285"
         }
     ]
 }

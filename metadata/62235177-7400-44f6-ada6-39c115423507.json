@@ -1,11 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "cenber", 
-            "mb_attribute": "\u00c7enber", 
-            "source": "http://musicbrainz.org/work/ef388aef-3948-4ad5-a759-729f2686ade4"
-        }
-    ], 
+    "instrumentation_voicing": "ensemble instrumental", 
     "form": [
         {
             "attribute_key": "pesrev", 
@@ -33,6 +27,12 @@
         }
     ], 
     "mbid": "62235177-7400-44f6-ada6-39c115423507", 
+    "works": [
+        {
+            "mbid": "ef388aef-3948-4ad5-a759-729f2686ade4", 
+            "title": "Hicaz H\u00fcmayun Pe\u015frevi"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "hicaz_humayun", 
@@ -52,11 +52,11 @@
             "name": "[unknown]"
         }
     ], 
-    "instrumentation_voicing": "Ensemble instrumental", 
-    "works": [
+    "usul": [
         {
-            "mbid": "ef388aef-3948-4ad5-a759-729f2686ade4", 
-            "title": "Hicaz H\u00fcmayun Pe\u015frevi"
+            "attribute_key": "cenber", 
+            "mb_attribute": "\u00c7enber", 
+            "source": "http://musicbrainz.org/work/ef388aef-3948-4ad5-a759-729f2686ade4"
         }
     ]
 }

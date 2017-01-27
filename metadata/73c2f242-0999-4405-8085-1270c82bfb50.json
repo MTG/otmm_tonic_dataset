@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "aksak", 
-            "mb_attribute": "Aksak", 
-            "source": "http://musicbrainz.org/work/bffbd01f-252a-45ee-8e3c-34855650cf60"
-        }, 
-        {
-            "attribute_key": "aksak", 
-            "mb_tag": "aksak", 
-            "source": "http://musicbrainz.org/recording/73c2f242-0999-4405-8085-1270c82bfb50"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal without accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "73c2f242-0999-4405-8085-1270c82bfb50", 
+    "works": [
+        {
+            "mbid": "bffbd01f-252a-45ee-8e3c-34855650cf60", 
+            "title": "Bir Yareli Ku\u015f"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "karcigar", 
@@ -57,11 +52,16 @@
             "name": "Recep Birgit"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal without accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "bffbd01f-252a-45ee-8e3c-34855650cf60", 
-            "title": "Bir Yareli Ku\u015f"
+            "attribute_key": "aksak", 
+            "mb_attribute": "Aksak", 
+            "source": "http://musicbrainz.org/work/bffbd01f-252a-45ee-8e3c-34855650cf60"
+        }, 
+        {
+            "attribute_key": "aksak", 
+            "mb_tag": "aksak", 
+            "source": "http://musicbrainz.org/recording/73c2f242-0999-4405-8085-1270c82bfb50"
         }
     ]
 }

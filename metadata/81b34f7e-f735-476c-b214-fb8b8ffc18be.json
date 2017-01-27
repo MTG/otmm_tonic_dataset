@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "senginsemai", 
-            "mb_attribute": "Senginsemai", 
-            "source": "http://musicbrainz.org/work/83fa8b70-7a88-4826-bdeb-734b893ac489"
-        }, 
-        {
-            "attribute_key": "senginsemai", 
-            "mb_tag": "senginsemai", 
-            "source": "http://musicbrainz.org/recording/81b34f7e-f735-476c-b214-fb8b8ffc18be"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal without accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "81b34f7e-f735-476c-b214-fb8b8ffc18be", 
+    "works": [
+        {
+            "mbid": "83fa8b70-7a88-4826-bdeb-734b893ac489", 
+            "title": "Sevdam\u0131 O H\u00fclyal\u0131 G\u00f6z\u00fcn Rengi Yaratt\u0131"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "huzzam", 
@@ -57,11 +52,16 @@
             "name": "Do\u011fan Dikmen"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal without accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "83fa8b70-7a88-4826-bdeb-734b893ac489", 
-            "title": "Sevdam\u0131 O H\u00fclyal\u0131 G\u00f6z\u00fcn Rengi Yaratt\u0131"
+            "attribute_key": "senginsemai", 
+            "mb_attribute": "Senginsemai", 
+            "source": "http://musicbrainz.org/work/83fa8b70-7a88-4826-bdeb-734b893ac489"
+        }, 
+        {
+            "attribute_key": "senginsemai", 
+            "mb_tag": "senginsemai", 
+            "source": "http://musicbrainz.org/recording/81b34f7e-f735-476c-b214-fb8b8ffc18be"
         }
     ]
 }

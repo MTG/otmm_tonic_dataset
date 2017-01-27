@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "aksak", 
-            "mb_attribute": "Aksak", 
-            "source": "http://musicbrainz.org/work/78f668a0-adee-44f7-b1d7-99a12915fc88"
-        }, 
-        {
-            "attribute_key": "aksak", 
-            "mb_tag": "aksak", 
-            "source": "http://musicbrainz.org/recording/4ad1fac7-a347-479a-bc03-1a2d16f9ba00"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "4ad1fac7-a347-479a-bc03-1a2d16f9ba00", 
+    "works": [
+        {
+            "mbid": "78f668a0-adee-44f7-b1d7-99a12915fc88", 
+            "title": "Gel De G\u00fczelim Beni Sevindir"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "suzinak", 
@@ -62,11 +57,16 @@
             "name": "Zeki M\u00fcren"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "78f668a0-adee-44f7-b1d7-99a12915fc88", 
-            "title": "Gel De G\u00fczelim Beni Sevindir"
+            "attribute_key": "aksak", 
+            "mb_attribute": "Aksak", 
+            "source": "http://musicbrainz.org/work/78f668a0-adee-44f7-b1d7-99a12915fc88"
+        }, 
+        {
+            "attribute_key": "aksak", 
+            "mb_tag": "aksak", 
+            "source": "http://musicbrainz.org/recording/4ad1fac7-a347-479a-bc03-1a2d16f9ba00"
         }
     ]
 }

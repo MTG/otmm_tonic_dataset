@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "curcuna", 
-            "mb_attribute": "Curcuna", 
-            "source": "http://musicbrainz.org/work/2cad3ee9-7520-4e0a-a596-c1208fc3f4b5"
-        }, 
-        {
-            "attribute_key": "kapali_curcuna", 
-            "mb_tag": "curcuna", 
-            "source": "http://musicbrainz.org/recording/047ad4c8-b55b-4846-ae0c-4dbae3256be7"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "047ad4c8-b55b-4846-ae0c-4dbae3256be7", 
+    "works": [
+        {
+            "mbid": "2cad3ee9-7520-4e0a-a596-c1208fc3f4b5", 
+            "title": "Yetmez Mi Sana"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "muhayyer", 
@@ -75,11 +70,16 @@
             "name": "\u015eent\u00fcrk Deveci"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "2cad3ee9-7520-4e0a-a596-c1208fc3f4b5", 
-            "title": "Yetmez Mi Sana"
+            "attribute_key": "curcuna", 
+            "mb_attribute": "Curcuna", 
+            "source": "http://musicbrainz.org/work/2cad3ee9-7520-4e0a-a596-c1208fc3f4b5"
+        }, 
+        {
+            "attribute_key": "kapali_curcuna", 
+            "mb_tag": "curcuna", 
+            "source": "http://musicbrainz.org/recording/047ad4c8-b55b-4846-ae0c-4dbae3256be7"
         }
     ]
 }

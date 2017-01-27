@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "senginsemai", 
-            "mb_attribute": "Senginsemai", 
-            "source": "http://musicbrainz.org/work/e534e173-68aa-4b90-a82c-4d247d8d4eed"
-        }, 
-        {
-            "attribute_key": "agirsenginsemai", 
-            "mb_tag": "a\u011f\u0131rsenginsemai", 
-            "source": "http://musicbrainz.org/recording/7bc74401-43d7-4f61-b86f-89c352f95cf3"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "agirsemai", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "7bc74401-43d7-4f61-b86f-89c352f95cf3", 
+    "works": [
+        {
+            "mbid": "e534e173-68aa-4b90-a82c-4d247d8d4eed", 
+            "title": "Ey Lebleri Gonce Y\u00fcz\u00fc"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "acemasiran", 
@@ -62,11 +57,16 @@
             "name": "Alaeddin Yava\u015fca"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "e534e173-68aa-4b90-a82c-4d247d8d4eed", 
-            "title": "Ey Lebleri Gonce Y\u00fcz\u00fc"
+            "attribute_key": "senginsemai", 
+            "mb_attribute": "Senginsemai", 
+            "source": "http://musicbrainz.org/work/e534e173-68aa-4b90-a82c-4d247d8d4eed"
+        }, 
+        {
+            "attribute_key": "agirsenginsemai", 
+            "mb_tag": "a\u011f\u0131rsenginsemai", 
+            "source": "http://musicbrainz.org/recording/7bc74401-43d7-4f61-b86f-89c352f95cf3"
         }
     ]
 }

@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "semai", 
-            "mb_attribute": "Semai", 
-            "source": "http://musicbrainz.org/work/edb58389-aef5-4000-bfdd-725fd9f4ef56"
-        }, 
-        {
-            "attribute_key": "semai", 
-            "mb_tag": "semai", 
-            "source": "http://musicbrainz.org/recording/17b89450-1935-42d8-a482-9cf74b5ad61c"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "seyir", 
@@ -54,6 +43,12 @@
         }
     ], 
     "mbid": "17b89450-1935-42d8-a482-9cf74b5ad61c", 
+    "works": [
+        {
+            "mbid": "edb58389-aef5-4000-bfdd-725fd9f4ef56", 
+            "title": "Saba Terenn\u00fcm"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "saba", 
@@ -106,11 +101,16 @@
             "name": "Sava\u015f \u015e. Bark\u00e7in"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "edb58389-aef5-4000-bfdd-725fd9f4ef56", 
-            "title": "Saba Terenn\u00fcm"
+            "attribute_key": "semai", 
+            "mb_attribute": "Semai", 
+            "source": "http://musicbrainz.org/work/edb58389-aef5-4000-bfdd-725fd9f4ef56"
+        }, 
+        {
+            "attribute_key": "semai", 
+            "mb_tag": "semai", 
+            "source": "http://musicbrainz.org/recording/17b89450-1935-42d8-a482-9cf74b5ad61c"
         }
     ]
 }

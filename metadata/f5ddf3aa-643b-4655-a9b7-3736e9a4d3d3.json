@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "duyek", 
-            "mb_attribute": "D\u00fcyek", 
-            "source": "http://musicbrainz.org/work/0fc4212e-c3e4-4240-bc83-45cbba000876"
-        }, 
-        {
-            "attribute_key": "duyek", 
-            "mb_tag": "d\u00fcyek", 
-            "source": "http://musicbrainz.org/recording/f5ddf3aa-643b-4655-a9b7-3736e9a4d3d3"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "f5ddf3aa-643b-4655-a9b7-3736e9a4d3d3", 
+    "works": [
+        {
+            "mbid": "0fc4212e-c3e4-4240-bc83-45cbba000876", 
+            "title": "R\u00fczgar S\u00f6yl\u00fcyor"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "muhayyerkurdi", 
@@ -108,11 +103,16 @@
             "name": "\u015eule \u00c7akar"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "0fc4212e-c3e4-4240-bc83-45cbba000876", 
-            "title": "R\u00fczgar S\u00f6yl\u00fcyor"
+            "attribute_key": "duyek", 
+            "mb_attribute": "D\u00fcyek", 
+            "source": "http://musicbrainz.org/work/0fc4212e-c3e4-4240-bc83-45cbba000876"
+        }, 
+        {
+            "attribute_key": "duyek", 
+            "mb_tag": "d\u00fcyek", 
+            "source": "http://musicbrainz.org/recording/f5ddf3aa-643b-4655-a9b7-3736e9a4d3d3"
         }
     ]
 }

@@ -1,21 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "duyek", 
-            "mb_attribute": "D\u00fcyek", 
-            "source": "http://musicbrainz.org/work/b0396179-53a8-4ab2-b07e-5c08e5dbcb0b"
-        }, 
-        {
-            "attribute_key": "kapali_curcuna", 
-            "mb_tag": "curcuna", 
-            "source": "http://musicbrainz.org/recording/b8a3e651-a8dc-48c0-bb4a-a270f3205809"
-        }, 
-        {
-            "attribute_key": "nimsofyan", 
-            "mb_tag": "nimsofyan", 
-            "source": "http://musicbrainz.org/recording/b8a3e651-a8dc-48c0-bb4a-a270f3205809"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -43,6 +27,12 @@
         }
     ], 
     "mbid": "b8a3e651-a8dc-48c0-bb4a-a270f3205809", 
+    "works": [
+        {
+            "mbid": "b0396179-53a8-4ab2-b07e-5c08e5dbcb0b", 
+            "title": "S\u00f6yleyin Nerde O G\u00f6z Nuru G\u00f6n\u00fcl Sevgisi Yar"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "acemkurdi", 
@@ -209,11 +199,21 @@
             "name": "Nam\u0131k Ta\u015fp\u0131narl\u0131"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "b0396179-53a8-4ab2-b07e-5c08e5dbcb0b", 
-            "title": "S\u00f6yleyin Nerde O G\u00f6z Nuru G\u00f6n\u00fcl Sevgisi Yar"
+            "attribute_key": "duyek", 
+            "mb_attribute": "D\u00fcyek", 
+            "source": "http://musicbrainz.org/work/b0396179-53a8-4ab2-b07e-5c08e5dbcb0b"
+        }, 
+        {
+            "attribute_key": "kapali_curcuna", 
+            "mb_tag": "curcuna", 
+            "source": "http://musicbrainz.org/recording/b8a3e651-a8dc-48c0-bb4a-a270f3205809"
+        }, 
+        {
+            "attribute_key": "nimsofyan", 
+            "mb_tag": "nimsofyan", 
+            "source": "http://musicbrainz.org/recording/b8a3e651-a8dc-48c0-bb4a-a270f3205809"
         }
     ]
 }

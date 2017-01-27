@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "duyek", 
-            "mb_attribute": "D\u00fcyek", 
-            "source": "http://musicbrainz.org/work/071c556f-3b64-4b2d-b7a0-edd41f35994c"
-        }, 
-        {
-            "attribute_key": "duyek", 
-            "mb_tag": "d\u00fcyek", 
-            "source": "http://musicbrainz.org/recording/cd9276a7-aaec-482e-af95-af4f5ae57286"
-        }
-    ], 
+    "instrumentation_voicing": "solo instrumental", 
     "form": [
         {
             "attribute_key": "medhal", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "cd9276a7-aaec-482e-af95-af4f5ae57286", 
+    "works": [
+        {
+            "mbid": "071c556f-3b64-4b2d-b7a0-edd41f35994c", 
+            "title": "Sultaniyegah Medhal"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "sultaniyegah", 
@@ -60,11 +55,16 @@
             "name": "Fahrettin \u00c7imenli"
         }
     ], 
-    "instrumentation_voicing": "Solo instrumental", 
-    "works": [
+    "usul": [
         {
-            "mbid": "071c556f-3b64-4b2d-b7a0-edd41f35994c", 
-            "title": "Sultaniyegah Medhal"
+            "attribute_key": "duyek", 
+            "mb_attribute": "D\u00fcyek", 
+            "source": "http://musicbrainz.org/work/071c556f-3b64-4b2d-b7a0-edd41f35994c"
+        }, 
+        {
+            "attribute_key": "duyek", 
+            "mb_tag": "d\u00fcyek", 
+            "source": "http://musicbrainz.org/recording/cd9276a7-aaec-482e-af95-af4f5ae57286"
         }
     ]
 }

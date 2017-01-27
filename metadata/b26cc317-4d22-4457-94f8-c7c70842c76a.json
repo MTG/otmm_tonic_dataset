@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "ciftesofyan", 
-            "mb_attribute": "\u00c7iftesofyan", 
-            "source": "http://musicbrainz.org/work/b032fd48-2548-4382-b604-5366c725f08f"
-        }, 
-        {
-            "attribute_key": "ciftesofyan", 
-            "mb_tag": "\u00e7iftesofyan", 
-            "source": "http://musicbrainz.org/recording/b26cc317-4d22-4457-94f8-c7c70842c76a"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal without accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "b26cc317-4d22-4457-94f8-c7c70842c76a", 
+    "works": [
+        {
+            "mbid": "b032fd48-2548-4382-b604-5366c725f08f", 
+            "title": "Ay G\u00f6kte Hayale"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "sultaniyegah", 
@@ -57,11 +52,16 @@
             "name": "M\u00fcnir Nurettin Sel\u00e7uk"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal without accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "b032fd48-2548-4382-b604-5366c725f08f", 
-            "title": "Ay G\u00f6kte Hayale"
+            "attribute_key": "ciftesofyan", 
+            "mb_attribute": "\u00c7iftesofyan", 
+            "source": "http://musicbrainz.org/work/b032fd48-2548-4382-b604-5366c725f08f"
+        }, 
+        {
+            "attribute_key": "ciftesofyan", 
+            "mb_tag": "\u00e7iftesofyan", 
+            "source": "http://musicbrainz.org/recording/b26cc317-4d22-4457-94f8-c7c70842c76a"
         }
     ]
 }

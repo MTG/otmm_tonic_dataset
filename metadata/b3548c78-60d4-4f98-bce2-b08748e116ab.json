@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "curcuna", 
-            "mb_attribute": "Curcuna", 
-            "source": "http://musicbrainz.org/work/0a34f8d6-6a9e-4768-b611-00478fdf3ace"
-        }, 
-        {
-            "attribute_key": "aksaksemai", 
-            "mb_tag": "aksaksemai", 
-            "source": "http://musicbrainz.org/recording/b3548c78-60d4-4f98-bce2-b08748e116ab"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "b3548c78-60d4-4f98-bce2-b08748e116ab", 
+    "works": [
+        {
+            "mbid": "0a34f8d6-6a9e-4768-b611-00478fdf3ace", 
+            "title": "Kalbim Kan\u0131yor"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "huzzam", 
@@ -225,11 +220,16 @@
             "name": "Tar\u0131k Kemanc\u0131"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "0a34f8d6-6a9e-4768-b611-00478fdf3ace", 
-            "title": "Kalbim Kan\u0131yor"
+            "attribute_key": "curcuna", 
+            "mb_attribute": "Curcuna", 
+            "source": "http://musicbrainz.org/work/0a34f8d6-6a9e-4768-b611-00478fdf3ace"
+        }, 
+        {
+            "attribute_key": "aksaksemai", 
+            "mb_tag": "aksaksemai", 
+            "source": "http://musicbrainz.org/recording/b3548c78-60d4-4f98-bce2-b08748e116ab"
         }
     ]
 }

@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "aksaksemai", 
-            "mb_attribute": "Aksaksemai", 
-            "source": "http://musicbrainz.org/work/343a3ce3-1903-40a6-8dec-724dc3ca09b3"
-        }, 
-        {
-            "attribute_key": "aksaksemai", 
-            "mb_tag": "aksaksemai", 
-            "source": "http://musicbrainz.org/recording/af17dd4b-f0a1-4d36-b3de-c1770c06b3ac"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "agirsemai", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "af17dd4b-f0a1-4d36-b3de-c1770c06b3ac", 
+    "works": [
+        {
+            "mbid": "343a3ce3-1903-40a6-8dec-724dc3ca09b3", 
+            "title": "G\u00fczelsin Bi-bedelsin"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "kurdi", 
@@ -62,11 +57,16 @@
             "name": "Bekir S\u0131dk\u0131 Sezgin"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "343a3ce3-1903-40a6-8dec-724dc3ca09b3", 
-            "title": "G\u00fczelsin Bi-bedelsin"
+            "attribute_key": "aksaksemai", 
+            "mb_attribute": "Aksaksemai", 
+            "source": "http://musicbrainz.org/work/343a3ce3-1903-40a6-8dec-724dc3ca09b3"
+        }, 
+        {
+            "attribute_key": "aksaksemai", 
+            "mb_tag": "aksaksemai", 
+            "source": "http://musicbrainz.org/recording/af17dd4b-f0a1-4d36-b3de-c1770c06b3ac"
         }
     ]
 }

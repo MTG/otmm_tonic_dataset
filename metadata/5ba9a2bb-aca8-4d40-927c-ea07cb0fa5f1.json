@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "duyek", 
-            "mb_attribute": "D\u00fcyek", 
-            "source": "http://musicbrainz.org/work/abbbc04a-e02e-4881-b7ec-7a0806ce4800"
-        }, 
-        {
-            "attribute_key": "duyek", 
-            "mb_tag": "d\u00fcyek", 
-            "source": "http://musicbrainz.org/recording/5ba9a2bb-aca8-4d40-927c-ea07cb0fa5f1"
-        }
-    ], 
+    "instrumentation_voicing": "trio instrumental", 
     "form": [
         {
             "attribute_key": "pesrev", 
@@ -46,6 +35,12 @@
         }
     ], 
     "mbid": "5ba9a2bb-aca8-4d40-927c-ea07cb0fa5f1", 
+    "works": [
+        {
+            "mbid": "abbbc04a-e02e-4881-b7ec-7a0806ce4800", 
+            "title": "Nikriz Pe\u015frev"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "nikriz", 
@@ -84,11 +79,16 @@
             "name": "U\u011fur I\u015f\u0131k"
         }
     ], 
-    "instrumentation_voicing": "Trio instrumental", 
-    "works": [
+    "usul": [
         {
-            "mbid": "abbbc04a-e02e-4881-b7ec-7a0806ce4800", 
-            "title": "Nikriz Pe\u015frev"
+            "attribute_key": "duyek", 
+            "mb_attribute": "D\u00fcyek", 
+            "source": "http://musicbrainz.org/work/abbbc04a-e02e-4881-b7ec-7a0806ce4800"
+        }, 
+        {
+            "attribute_key": "duyek", 
+            "mb_tag": "d\u00fcyek", 
+            "source": "http://musicbrainz.org/recording/5ba9a2bb-aca8-4d40-927c-ea07cb0fa5f1"
         }
     ]
 }

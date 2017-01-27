@@ -1,11 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "devrikebir", 
-            "mb_attribute": "Devr-i Kebir", 
-            "source": "http://musicbrainz.org/work/1ef86e00-6fee-45fd-bd5c-4b22853710f8"
-        }
-    ], 
+    "instrumentation_voicing": "ensemble instrumental", 
     "form": [
         {
             "attribute_key": "pesrev", 
@@ -33,6 +27,12 @@
         }
     ], 
     "mbid": "a7b5d6a9-e90b-44f9-9b70-9465bb8c9795", 
+    "works": [
+        {
+            "mbid": "1ef86e00-6fee-45fd-bd5c-4b22853710f8", 
+            "title": "H\u00fczzam Pe\u015frev"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "huzzam", 
@@ -52,11 +52,11 @@
             "name": "[unknown]"
         }
     ], 
-    "instrumentation_voicing": "Ensemble instrumental", 
-    "works": [
+    "usul": [
         {
-            "mbid": "1ef86e00-6fee-45fd-bd5c-4b22853710f8", 
-            "title": "H\u00fczzam Pe\u015frev"
+            "attribute_key": "devrikebir", 
+            "mb_attribute": "Devr-i Kebir", 
+            "source": "http://musicbrainz.org/work/1ef86e00-6fee-45fd-bd5c-4b22853710f8"
         }
     ]
 }

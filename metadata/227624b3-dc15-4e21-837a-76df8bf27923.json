@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "semai", 
-            "mb_attribute": "Semai", 
-            "source": "http://musicbrainz.org/work/ea39f5b9-9ed5-4841-b0d1-5de24083d67d"
-        }, 
-        {
-            "attribute_key": "semai", 
-            "mb_tag": "semai", 
-            "source": "http://musicbrainz.org/recording/227624b3-dc15-4e21-837a-76df8bf27923"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "227624b3-dc15-4e21-837a-76df8bf27923", 
+    "works": [
+        {
+            "mbid": "ea39f5b9-9ed5-4841-b0d1-5de24083d67d", 
+            "title": "Neden G\u00fccendin Sen Bana"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "hicazkar", 
@@ -81,11 +76,16 @@
             "name": "H\u00fcsn\u00fc \u00d6zenen"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "ea39f5b9-9ed5-4841-b0d1-5de24083d67d", 
-            "title": "Neden G\u00fccendin Sen Bana"
+            "attribute_key": "semai", 
+            "mb_attribute": "Semai", 
+            "source": "http://musicbrainz.org/work/ea39f5b9-9ed5-4841-b0d1-5de24083d67d"
+        }, 
+        {
+            "attribute_key": "semai", 
+            "mb_tag": "semai", 
+            "source": "http://musicbrainz.org/recording/227624b3-dc15-4e21-837a-76df8bf27923"
         }
     ]
 }

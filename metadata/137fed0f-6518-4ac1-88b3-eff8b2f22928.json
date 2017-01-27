@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "agirduyek", 
-            "mb_attribute": "A\u011f\u0131rd\u00fcyek", 
-            "source": "http://musicbrainz.org/work/66cc2366-1593-4fe4-9dc7-79196d9a6a4f"
-        }, 
-        {
-            "attribute_key": "agirduyek", 
-            "mb_tag": "a\u011f\u0131rd\u00fcyek", 
-            "source": "http://musicbrainz.org/recording/137fed0f-6518-4ac1-88b3-eff8b2f22928"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "beste", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "137fed0f-6518-4ac1-88b3-eff8b2f22928", 
+    "works": [
+        {
+            "mbid": "66cc2366-1593-4fe4-9dc7-79196d9a6a4f", 
+            "title": "Bir \u00c7e\u015fm-i Ahu Hicr \u0130le"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "hicaz", 
@@ -62,11 +57,16 @@
             "name": "Bekir S\u0131dk\u0131 Sezgin"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "66cc2366-1593-4fe4-9dc7-79196d9a6a4f", 
-            "title": "Bir \u00c7e\u015fm-i Ahu Hicr \u0130le"
+            "attribute_key": "agirduyek", 
+            "mb_attribute": "A\u011f\u0131rd\u00fcyek", 
+            "source": "http://musicbrainz.org/work/66cc2366-1593-4fe4-9dc7-79196d9a6a4f"
+        }, 
+        {
+            "attribute_key": "agirduyek", 
+            "mb_tag": "a\u011f\u0131rd\u00fcyek", 
+            "source": "http://musicbrainz.org/recording/137fed0f-6518-4ac1-88b3-eff8b2f22928"
         }
     ]
 }

@@ -1,21 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "agiraksak", 
-            "mb_attribute": "A\u011f\u0131raksak", 
-            "source": "http://musicbrainz.org/work/26cedb21-e966-4f97-a911-280244f2d17c"
-        }, 
-        {
-            "attribute_key": "turkaksagi_ii", 
-            "mb_tag": "t\u00fcrkaksa\u011f\u0131", 
-            "source": "http://musicbrainz.org/recording/770fcfea-b9b7-4975-aa5c-2bd08d5385fa"
-        }, 
-        {
-            "attribute_key": "agiraksak", 
-            "mb_tag": "a\u011f\u0131raksak", 
-            "source": "http://musicbrainz.org/recording/770fcfea-b9b7-4975-aa5c-2bd08d5385fa"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -43,6 +27,12 @@
         }
     ], 
     "mbid": "770fcfea-b9b7-4975-aa5c-2bd08d5385fa", 
+    "works": [
+        {
+            "mbid": "26cedb21-e966-4f97-a911-280244f2d17c", 
+            "title": "Ge\u00e7ti Zahm-\u0131 Tir-i Hicrin"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "kurdilihicazkar", 
@@ -67,11 +57,21 @@
             "name": "Bekir S\u0131dk\u0131 Sezgin"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "26cedb21-e966-4f97-a911-280244f2d17c", 
-            "title": "Ge\u00e7ti Zahm-\u0131 Tir-i Hicrin"
+            "attribute_key": "agiraksak", 
+            "mb_attribute": "A\u011f\u0131raksak", 
+            "source": "http://musicbrainz.org/work/26cedb21-e966-4f97-a911-280244f2d17c"
+        }, 
+        {
+            "attribute_key": "turkaksagi_ii", 
+            "mb_tag": "t\u00fcrkaksa\u011f\u0131", 
+            "source": "http://musicbrainz.org/recording/770fcfea-b9b7-4975-aa5c-2bd08d5385fa"
+        }, 
+        {
+            "attribute_key": "agiraksak", 
+            "mb_tag": "a\u011f\u0131raksak", 
+            "source": "http://musicbrainz.org/recording/770fcfea-b9b7-4975-aa5c-2bd08d5385fa"
         }
     ]
 }

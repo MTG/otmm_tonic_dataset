@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "lenkfahte", 
-            "mb_attribute": "Lenk Fahte", 
-            "source": "http://musicbrainz.org/work/905de2ab-5197-4ef9-aca4-b3993985d72b"
-        }, 
-        {
-            "attribute_key": "lenkfahte", 
-            "mb_tag": "lenk fahte", 
-            "source": "http://musicbrainz.org/recording/88c1325a-a00e-40e2-9e6d-56c1a7f8a882"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "beste", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "88c1325a-a00e-40e2-9e6d-56c1a7f8a882", 
+    "works": [
+        {
+            "mbid": "905de2ab-5197-4ef9-aca4-b3993985d72b", 
+            "title": "Bir \u015eeh ki Tac-daran Olmakta"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "acem", 
@@ -62,11 +57,16 @@
             "name": "Bekir S\u0131dk\u0131 Sezgin"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "905de2ab-5197-4ef9-aca4-b3993985d72b", 
-            "title": "Bir \u015eeh ki Tac-daran Olmakta"
+            "attribute_key": "lenkfahte", 
+            "mb_attribute": "Lenk Fahte", 
+            "source": "http://musicbrainz.org/work/905de2ab-5197-4ef9-aca4-b3993985d72b"
+        }, 
+        {
+            "attribute_key": "lenkfahte", 
+            "mb_tag": "lenk fahte", 
+            "source": "http://musicbrainz.org/recording/88c1325a-a00e-40e2-9e6d-56c1a7f8a882"
         }
     ]
 }

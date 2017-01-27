@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "sofyan", 
-            "mb_attribute": "Sofyan", 
-            "source": "http://musicbrainz.org/work/2f4fce92-f329-4e19-87a1-3fc45d602592"
-        }, 
-        {
-            "attribute_key": "sofyan", 
-            "mb_tag": "sofyan", 
-            "source": "http://musicbrainz.org/recording/6f7a74aa-b55e-43a5-96c0-51ffd4cc88b9"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "6f7a74aa-b55e-43a5-96c0-51ffd4cc88b9", 
+    "works": [
+        {
+            "mbid": "2f4fce92-f329-4e19-87a1-3fc45d602592", 
+            "title": "Ben S\u00f6z\u00fcne Ba\u011flamam Bel"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "hicazkar", 
@@ -62,11 +57,16 @@
             "name": "Bekir S\u0131dk\u0131 Sezgin"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "2f4fce92-f329-4e19-87a1-3fc45d602592", 
-            "title": "Ben S\u00f6z\u00fcne Ba\u011flamam Bel"
+            "attribute_key": "sofyan", 
+            "mb_attribute": "Sofyan", 
+            "source": "http://musicbrainz.org/work/2f4fce92-f329-4e19-87a1-3fc45d602592"
+        }, 
+        {
+            "attribute_key": "sofyan", 
+            "mb_tag": "sofyan", 
+            "source": "http://musicbrainz.org/recording/6f7a74aa-b55e-43a5-96c0-51ffd4cc88b9"
         }
     ]
 }

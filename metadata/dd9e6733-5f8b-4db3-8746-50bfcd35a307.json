@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "agiraksak", 
-            "mb_attribute": "A\u011f\u0131raksak", 
-            "source": "http://musicbrainz.org/work/2cf34486-c4e2-4d05-8c67-e603df2e39de"
-        }, 
-        {
-            "attribute_key": "agiraksak", 
-            "mb_tag": "a\u011f\u0131raksak", 
-            "source": "http://musicbrainz.org/recording/dd9e6733-5f8b-4db3-8746-50bfcd35a307"
-        }
-    ], 
+    "instrumentation_voicing": "duet", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "dd9e6733-5f8b-4db3-8746-50bfcd35a307", 
+    "works": [
+        {
+            "mbid": "2cf34486-c4e2-4d05-8c67-e603df2e39de", 
+            "title": "Ka\u00e7ma Mecburundan"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "bestenigar", 
@@ -94,11 +89,16 @@
             "name": "Mustafa Zeki \u00c7a\u011flarman"
         }
     ], 
-    "instrumentation_voicing": "Duet", 
-    "works": [
+    "usul": [
         {
-            "mbid": "2cf34486-c4e2-4d05-8c67-e603df2e39de", 
-            "title": "Ka\u00e7ma Mecburundan"
+            "attribute_key": "agiraksak", 
+            "mb_attribute": "A\u011f\u0131raksak", 
+            "source": "http://musicbrainz.org/work/2cf34486-c4e2-4d05-8c67-e603df2e39de"
+        }, 
+        {
+            "attribute_key": "agiraksak", 
+            "mb_tag": "a\u011f\u0131raksak", 
+            "source": "http://musicbrainz.org/recording/dd9e6733-5f8b-4db3-8746-50bfcd35a307"
         }
     ]
 }

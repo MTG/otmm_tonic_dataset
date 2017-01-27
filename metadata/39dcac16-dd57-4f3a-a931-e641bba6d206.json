@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "curcuna", 
-            "mb_attribute": "Curcuna", 
-            "source": "http://musicbrainz.org/work/4997c154-2dfe-4d4d-83b6-78daab2675d5"
-        }, 
-        {
-            "attribute_key": "kapali_curcuna", 
-            "mb_tag": "curcuna", 
-            "source": "http://musicbrainz.org/recording/39dcac16-dd57-4f3a-a931-e641bba6d206"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal without accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "39dcac16-dd57-4f3a-a931-e641bba6d206", 
+    "works": [
+        {
+            "mbid": "4997c154-2dfe-4d4d-83b6-78daab2675d5", 
+            "title": "Esmerim K\u0131yma Bana"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "muhayyer", 
@@ -57,11 +52,16 @@
             "name": "Safiye Ayla"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal without accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "4997c154-2dfe-4d4d-83b6-78daab2675d5", 
-            "title": "Esmerim K\u0131yma Bana"
+            "attribute_key": "curcuna", 
+            "mb_attribute": "Curcuna", 
+            "source": "http://musicbrainz.org/work/4997c154-2dfe-4d4d-83b6-78daab2675d5"
+        }, 
+        {
+            "attribute_key": "kapali_curcuna", 
+            "mb_tag": "curcuna", 
+            "source": "http://musicbrainz.org/recording/39dcac16-dd57-4f3a-a931-e641bba6d206"
         }
     ]
 }

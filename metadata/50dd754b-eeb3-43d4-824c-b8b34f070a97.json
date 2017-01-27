@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "agiraksak", 
-            "mb_attribute": "A\u011f\u0131raksak", 
-            "source": "http://musicbrainz.org/work/a94d958d-1ec3-4822-8fa8-59b89c3b7097"
-        }, 
-        {
-            "attribute_key": "agiraksak", 
-            "mb_tag": "a\u011f\u0131raksak", 
-            "source": "http://musicbrainz.org/recording/50dd754b-eeb3-43d4-824c-b8b34f070a97"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "50dd754b-eeb3-43d4-824c-b8b34f070a97", 
+    "works": [
+        {
+            "mbid": "a94d958d-1ec3-4822-8fa8-59b89c3b7097", 
+            "title": "Hem Sevip Hem Yakadan Att\u0131n Beni"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "acemasiran", 
@@ -92,11 +87,16 @@
             "name": "Do\u011fan Dikmen"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "a94d958d-1ec3-4822-8fa8-59b89c3b7097", 
-            "title": "Hem Sevip Hem Yakadan Att\u0131n Beni"
+            "attribute_key": "agiraksak", 
+            "mb_attribute": "A\u011f\u0131raksak", 
+            "source": "http://musicbrainz.org/work/a94d958d-1ec3-4822-8fa8-59b89c3b7097"
+        }, 
+        {
+            "attribute_key": "agiraksak", 
+            "mb_tag": "a\u011f\u0131raksak", 
+            "source": "http://musicbrainz.org/recording/50dd754b-eeb3-43d4-824c-b8b34f070a97"
         }
     ]
 }

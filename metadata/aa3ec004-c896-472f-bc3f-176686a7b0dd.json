@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "aksak", 
-            "mb_attribute": "Aksak", 
-            "source": "http://musicbrainz.org/work/acb90f8b-c6a3-426c-ab21-2b0a9ff966d9"
-        }, 
-        {
-            "attribute_key": "aksak", 
-            "mb_tag": "aksak", 
-            "source": "http://musicbrainz.org/recording/aa3ec004-c896-472f-bc3f-176686a7b0dd"
-        }
-    ], 
+    "instrumentation_voicing": "choir", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "aa3ec004-c896-472f-bc3f-176686a7b0dd", 
+    "works": [
+        {
+            "mbid": "acb90f8b-c6a3-426c-ab21-2b0a9ff966d9", 
+            "title": "Ko Sinem Ate\u015fe Yans\u0131n"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "neva", 
@@ -533,11 +528,16 @@
             "name": "Arzu \u00d6zg\u00fcn"
         }
     ], 
-    "instrumentation_voicing": "Choir", 
-    "works": [
+    "usul": [
         {
-            "mbid": "acb90f8b-c6a3-426c-ab21-2b0a9ff966d9", 
-            "title": "Ko Sinem Ate\u015fe Yans\u0131n"
+            "attribute_key": "aksak", 
+            "mb_attribute": "Aksak", 
+            "source": "http://musicbrainz.org/work/acb90f8b-c6a3-426c-ab21-2b0a9ff966d9"
+        }, 
+        {
+            "attribute_key": "aksak", 
+            "mb_tag": "aksak", 
+            "source": "http://musicbrainz.org/recording/aa3ec004-c896-472f-bc3f-176686a7b0dd"
         }
     ]
 }

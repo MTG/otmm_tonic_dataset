@@ -1,11 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "cifteduyek", 
-            "mb_attribute": "\u00c7ifted\u00fcyek", 
-            "source": "http://musicbrainz.org/work/01510767-677e-4c52-aed4-3e18e2fd2c61"
-        }
-    ], 
+    "instrumentation_voicing": "solo instrumental", 
     "form": [
         {
             "attribute_key": "pesrev", 
@@ -33,6 +27,12 @@
         }
     ], 
     "mbid": "b01042b9-18c1-4e1e-9380-4353190945b2", 
+    "works": [
+        {
+            "mbid": "01510767-677e-4c52-aed4-3e18e2fd2c61", 
+            "title": "Karc\u0131\u011far Pe\u015frev"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "karcigar", 
@@ -55,11 +55,11 @@
             "name": "Salih Bilgin"
         }
     ], 
-    "instrumentation_voicing": "Solo instrumental", 
-    "works": [
+    "usul": [
         {
-            "mbid": "01510767-677e-4c52-aed4-3e18e2fd2c61", 
-            "title": "Karc\u0131\u011far Pe\u015frev"
+            "attribute_key": "cifteduyek", 
+            "mb_attribute": "\u00c7ifted\u00fcyek", 
+            "source": "http://musicbrainz.org/work/01510767-677e-4c52-aed4-3e18e2fd2c61"
         }
     ]
 }

@@ -1,5 +1,11 @@
 {
-    "instrumentation_voicing": "Solo vocal without accompaniment", 
+    "usul": [
+        {
+            "attribute_key": "serbest", 
+            "mb_tag": "serbest", 
+            "source": "http://musicbrainz.org/recording/f517a4a5-91da-4c80-9e78-447571073a3b"
+        }
+    ], 
     "form": [
         {
             "attribute_key": "gazel", 
@@ -36,11 +42,5 @@
             "name": "Haf\u0131z Osman"
         }
     ], 
-    "usul": [
-        {
-            "attribute_key": "serbest", 
-            "mb_tag": "serbest", 
-            "source": "http://musicbrainz.org/recording/f517a4a5-91da-4c80-9e78-447571073a3b"
-        }
-    ]
+    "instrumentation_voicing": "solo vocal without accompaniment"
 }

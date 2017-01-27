@@ -1,5 +1,11 @@
 {
-    "instrumentation_voicing": "Duo instrumental", 
+    "usul": [
+        {
+            "attribute_key": "serbest", 
+            "mb_tag": "serbest", 
+            "source": "http://musicbrainz.org/recording/4cba17f6-686e-49ec-8a41-6f6b587d4489"
+        }
+    ], 
     "form": [
         {
             "attribute_key": "taksim", 
@@ -47,11 +53,5 @@
             "name": "Necdet Ya\u015far"
         }
     ], 
-    "usul": [
-        {
-            "attribute_key": "serbest", 
-            "mb_tag": "serbest", 
-            "source": "http://musicbrainz.org/recording/4cba17f6-686e-49ec-8a41-6f6b587d4489"
-        }
-    ]
+    "instrumentation_voicing": "duo instrumental"
 }

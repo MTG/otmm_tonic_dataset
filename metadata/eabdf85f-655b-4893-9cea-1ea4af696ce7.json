@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "duyek", 
-            "mb_attribute": "D\u00fcyek", 
-            "source": "http://musicbrainz.org/work/704228ff-06d0-4fc2-a1b8-8c0202a4dea8"
-        }, 
-        {
-            "attribute_key": "duyek", 
-            "mb_tag": "d\u00fcyek", 
-            "source": "http://musicbrainz.org/recording/eabdf85f-655b-4893-9cea-1ea4af696ce7"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "eabdf85f-655b-4893-9cea-1ea4af696ce7", 
+    "works": [
+        {
+            "mbid": "704228ff-06d0-4fc2-a1b8-8c0202a4dea8", 
+            "title": "Kurumu\u015f Topraklar Gibiyim"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "kurdilihicazkar", 
@@ -62,11 +57,16 @@
             "name": "Bekir S\u0131dk\u0131 Sezgin"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "704228ff-06d0-4fc2-a1b8-8c0202a4dea8", 
-            "title": "Kurumu\u015f Topraklar Gibiyim"
+            "attribute_key": "duyek", 
+            "mb_attribute": "D\u00fcyek", 
+            "source": "http://musicbrainz.org/work/704228ff-06d0-4fc2-a1b8-8c0202a4dea8"
+        }, 
+        {
+            "attribute_key": "duyek", 
+            "mb_tag": "d\u00fcyek", 
+            "source": "http://musicbrainz.org/recording/eabdf85f-655b-4893-9cea-1ea4af696ce7"
         }
     ]
 }

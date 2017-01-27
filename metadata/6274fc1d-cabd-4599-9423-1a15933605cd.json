@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "duyek", 
-            "mb_attribute": "D\u00fcyek", 
-            "source": "http://musicbrainz.org/work/ffd3f79e-de57-4947-be0c-2ad6bebc92aa"
-        }, 
-        {
-            "attribute_key": "duyek", 
-            "mb_tag": "d\u00fcyek", 
-            "source": "http://musicbrainz.org/recording/6274fc1d-cabd-4599-9423-1a15933605cd"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal without accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "6274fc1d-cabd-4599-9423-1a15933605cd", 
+    "works": [
+        {
+            "mbid": "ffd3f79e-de57-4947-be0c-2ad6bebc92aa", 
+            "title": "Yoklu\u011fun Her Dakika \u00d6l\u00fcm Demek"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "huzzam", 
@@ -57,11 +52,16 @@
             "name": "Ne\u015f'e \u00d6zta\u015f"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal without accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "ffd3f79e-de57-4947-be0c-2ad6bebc92aa", 
-            "title": "Yoklu\u011fun Her Dakika \u00d6l\u00fcm Demek"
+            "attribute_key": "duyek", 
+            "mb_attribute": "D\u00fcyek", 
+            "source": "http://musicbrainz.org/work/ffd3f79e-de57-4947-be0c-2ad6bebc92aa"
+        }, 
+        {
+            "attribute_key": "duyek", 
+            "mb_tag": "d\u00fcyek", 
+            "source": "http://musicbrainz.org/recording/6274fc1d-cabd-4599-9423-1a15933605cd"
         }
     ]
 }

@@ -1,11 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "muhammes", 
-            "mb_attribute": "Muhammes", 
-            "source": "http://musicbrainz.org/work/95a0013a-eb0a-48fa-9ac9-05b56e21715e"
-        }
-    ], 
+    "instrumentation_voicing": "duo instrumental", 
     "form": [
         {
             "attribute_key": "pesrev", 
@@ -37,6 +31,12 @@
         }
     ], 
     "mbid": "f78f4295-9d7c-483b-a9a0-97515716155d", 
+    "works": [
+        {
+            "mbid": "95a0013a-eb0a-48fa-9ac9-05b56e21715e", 
+            "title": "Sult\u00e2niyeg\u00e2h Pe\u015frevi"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "sultaniyegah", 
@@ -67,11 +67,11 @@
             "name": "Erkan Y\u00fcksel"
         }
     ], 
-    "instrumentation_voicing": "Duo instrumental", 
-    "works": [
+    "usul": [
         {
-            "mbid": "95a0013a-eb0a-48fa-9ac9-05b56e21715e", 
-            "title": "Sult\u00e2niyeg\u00e2h Pe\u015frevi"
+            "attribute_key": "muhammes", 
+            "mb_attribute": "Muhammes", 
+            "source": "http://musicbrainz.org/work/95a0013a-eb0a-48fa-9ac9-05b56e21715e"
         }
     ]
 }

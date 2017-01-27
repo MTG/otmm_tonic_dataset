@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "duyek", 
-            "mb_attribute": "D\u00fcyek", 
-            "source": "http://musicbrainz.org/work/7f49c050-c440-4350-9c62-798b4b3ce64c"
-        }, 
-        {
-            "attribute_key": "duyek", 
-            "mb_tag": "d\u00fcyek", 
-            "source": "http://musicbrainz.org/recording/a51ee336-cf2a-402d-a9a3-828e68125d13"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -33,6 +22,12 @@
         }
     ], 
     "mbid": "a51ee336-cf2a-402d-a9a3-828e68125d13", 
+    "works": [
+        {
+            "mbid": "7f49c050-c440-4350-9c62-798b4b3ce64c", 
+            "title": "Ne Zaman Geleceksin"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "nihavent", 
@@ -60,11 +55,16 @@
             "name": "Aziz T\u00fcrk Sanat M\u00fczi\u011fi Grubu"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "7f49c050-c440-4350-9c62-798b4b3ce64c", 
-            "title": "Ne Zaman Geleceksin"
+            "attribute_key": "duyek", 
+            "mb_attribute": "D\u00fcyek", 
+            "source": "http://musicbrainz.org/work/7f49c050-c440-4350-9c62-798b4b3ce64c"
+        }, 
+        {
+            "attribute_key": "duyek", 
+            "mb_tag": "d\u00fcyek", 
+            "source": "http://musicbrainz.org/recording/a51ee336-cf2a-402d-a9a3-828e68125d13"
         }
     ]
 }

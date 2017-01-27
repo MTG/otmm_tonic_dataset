@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "sofyan", 
-            "mb_attribute": "Sofyan", 
-            "source": "http://musicbrainz.org/work/a385b575-94d1-4a0e-a51e-1f11e380c535"
-        }, 
-        {
-            "attribute_key": "sofyan", 
-            "mb_tag": "sofyan", 
-            "source": "http://musicbrainz.org/recording/4d31c637-9d6f-491c-bf29-dd952a1aa739"
-        }
-    ], 
+    "instrumentation_voicing": "duet", 
     "form": [
         {
             "attribute_key": "ilahi", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "4d31c637-9d6f-491c-bf29-dd952a1aa739", 
+    "works": [
+        {
+            "mbid": "a385b575-94d1-4a0e-a51e-1f11e380c535", 
+            "title": "\u0130sm-i S\u00fcbhan Virdin mi Var"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "hicaz", 
@@ -73,11 +68,16 @@
             "name": "Bekir S\u0131dk\u0131 Sezgin"
         }
     ], 
-    "instrumentation_voicing": "Duet", 
-    "works": [
+    "usul": [
         {
-            "mbid": "a385b575-94d1-4a0e-a51e-1f11e380c535", 
-            "title": "\u0130sm-i S\u00fcbhan Virdin mi Var"
+            "attribute_key": "sofyan", 
+            "mb_attribute": "Sofyan", 
+            "source": "http://musicbrainz.org/work/a385b575-94d1-4a0e-a51e-1f11e380c535"
+        }, 
+        {
+            "attribute_key": "sofyan", 
+            "mb_tag": "sofyan", 
+            "source": "http://musicbrainz.org/recording/4d31c637-9d6f-491c-bf29-dd952a1aa739"
         }
     ]
 }

@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "agirduyek", 
-            "mb_attribute": "A\u011f\u0131rd\u00fcyek", 
-            "source": "http://musicbrainz.org/work/c478ff5f-c3d6-4c44-8e66-3d8a90c7833e"
-        }, 
-        {
-            "attribute_key": "agirduyek", 
-            "mb_tag": "a\u011f\u0131rd\u00fcyek", 
-            "source": "http://musicbrainz.org/recording/9d0c6119-983c-44ca-9e6e-c97bb148bd56"
-        }
-    ], 
+    "instrumentation_voicing": "duet", 
     "form": [
         {
             "attribute_key": "kar_i_nev", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "9d0c6119-983c-44ca-9e6e-c97bb148bd56", 
+    "works": [
+        {
+            "mbid": "c478ff5f-c3d6-4c44-8e66-3d8a90c7833e", 
+            "title": "G\u00f6z\u00fcmde Daim Hayal-i Cana"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "rast", 
@@ -70,11 +65,16 @@
             "name": "Haf\u0131z Kemal Bey"
         }
     ], 
-    "instrumentation_voicing": "Duet", 
-    "works": [
+    "usul": [
         {
-            "mbid": "c478ff5f-c3d6-4c44-8e66-3d8a90c7833e", 
-            "title": "G\u00f6z\u00fcmde Daim Hayal-i Cana"
+            "attribute_key": "agirduyek", 
+            "mb_attribute": "A\u011f\u0131rd\u00fcyek", 
+            "source": "http://musicbrainz.org/work/c478ff5f-c3d6-4c44-8e66-3d8a90c7833e"
+        }, 
+        {
+            "attribute_key": "agirduyek", 
+            "mb_tag": "a\u011f\u0131rd\u00fcyek", 
+            "source": "http://musicbrainz.org/recording/9d0c6119-983c-44ca-9e6e-c97bb148bd56"
         }
     ]
 }

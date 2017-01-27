@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "senginsemai", 
-            "mb_attribute": "Senginsemai", 
-            "source": "http://musicbrainz.org/work/b67da8bc-2496-4371-b7c0-214d2394b773"
-        }, 
-        {
-            "attribute_key": "yuruksemai", 
-            "mb_tag": "y\u00fcr\u00fcksemai", 
-            "source": "http://musicbrainz.org/recording/5cb0447a-fb14-40d7-95f7-b49e2bdfa2b2"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "yuruksemai", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "5cb0447a-fb14-40d7-95f7-b49e2bdfa2b2", 
+    "works": [
+        {
+            "mbid": "b67da8bc-2496-4371-b7c0-214d2394b773", 
+            "title": "Saki \u00c7ekemem Vaz-i Zarifaneyi, Bo\u015f Ko"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "evcara", 
@@ -62,11 +57,16 @@
             "name": "Bekir S\u0131dk\u0131 Sezgin"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "b67da8bc-2496-4371-b7c0-214d2394b773", 
-            "title": "Saki \u00c7ekemem Vaz-i Zarifaneyi, Bo\u015f Ko"
+            "attribute_key": "senginsemai", 
+            "mb_attribute": "Senginsemai", 
+            "source": "http://musicbrainz.org/work/b67da8bc-2496-4371-b7c0-214d2394b773"
+        }, 
+        {
+            "attribute_key": "yuruksemai", 
+            "mb_tag": "y\u00fcr\u00fcksemai", 
+            "source": "http://musicbrainz.org/recording/5cb0447a-fb14-40d7-95f7-b49e2bdfa2b2"
         }
     ]
 }

@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "havi", 
-            "mb_attribute": "Havi", 
-            "source": "http://musicbrainz.org/work/fa8fc1d1-ceda-4079-9071-0ccb0b0fd51a"
-        }, 
-        {
-            "attribute_key": "havi", 
-            "mb_tag": "havi", 
-            "source": "http://musicbrainz.org/recording/1a88bd5b-ee93-4cef-9824-572c026a0b54"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "beste", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "1a88bd5b-ee93-4cef-9824-572c026a0b54", 
+    "works": [
+        {
+            "mbid": "fa8fc1d1-ceda-4079-9071-0ccb0b0fd51a", 
+            "title": "Gelince Hatt-\u0131 Muanber O Meh Cem\u00e2limize"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "evcara", 
@@ -62,11 +57,16 @@
             "name": "Bekir S\u0131dk\u0131 Sezgin"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "fa8fc1d1-ceda-4079-9071-0ccb0b0fd51a", 
-            "title": "Gelince Hatt-\u0131 Muanber O Meh Cem\u00e2limize"
+            "attribute_key": "havi", 
+            "mb_attribute": "Havi", 
+            "source": "http://musicbrainz.org/work/fa8fc1d1-ceda-4079-9071-0ccb0b0fd51a"
+        }, 
+        {
+            "attribute_key": "havi", 
+            "mb_tag": "havi", 
+            "source": "http://musicbrainz.org/recording/1a88bd5b-ee93-4cef-9824-572c026a0b54"
         }
     ]
 }

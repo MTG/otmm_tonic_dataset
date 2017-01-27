@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "muhammes", 
-            "mb_attribute": "Muhammes", 
-            "source": "http://musicbrainz.org/work/aee5a916-e297-4e01-8398-3e3b69a9c5ba"
-        }, 
-        {
-            "attribute_key": "muhammes", 
-            "mb_tag": "muhammes", 
-            "source": "http://musicbrainz.org/recording/e4c16f0e-67f6-4f60-b2ce-0aeac81a63ef"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "murabba", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "e4c16f0e-67f6-4f60-b2ce-0aeac81a63ef", 
+    "works": [
+        {
+            "mbid": "aee5a916-e297-4e01-8398-3e3b69a9c5ba", 
+            "title": "Zeyn Eden Ba\u011f-\u0131 Cihan\u0131 G\u00fcl M\u00fcd\u00fcr B\u00fclb\u00fcl M\u00fcd\u00fcr"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "neva", 
@@ -92,11 +87,16 @@
             "name": "Do\u011fan Dikmen"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "aee5a916-e297-4e01-8398-3e3b69a9c5ba", 
-            "title": "Zeyn Eden Ba\u011f-\u0131 Cihan\u0131 G\u00fcl M\u00fcd\u00fcr B\u00fclb\u00fcl M\u00fcd\u00fcr"
+            "attribute_key": "muhammes", 
+            "mb_attribute": "Muhammes", 
+            "source": "http://musicbrainz.org/work/aee5a916-e297-4e01-8398-3e3b69a9c5ba"
+        }, 
+        {
+            "attribute_key": "muhammes", 
+            "mb_tag": "muhammes", 
+            "source": "http://musicbrainz.org/recording/e4c16f0e-67f6-4f60-b2ce-0aeac81a63ef"
         }
     ]
 }

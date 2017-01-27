@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "curcuna", 
-            "mb_attribute": "Curcuna", 
-            "source": "http://musicbrainz.org/work/0a34f8d6-6a9e-4768-b611-00478fdf3ace"
-        }, 
-        {
-            "attribute_key": "kapali_curcuna", 
-            "mb_tag": "curcuna", 
-            "source": "http://musicbrainz.org/recording/9d2f4c08-402d-4fb9-a01d-5d2b71f113f3"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "9d2f4c08-402d-4fb9-a01d-5d2b71f113f3", 
+    "works": [
+        {
+            "mbid": "0a34f8d6-6a9e-4768-b611-00478fdf3ace", 
+            "title": "Kalbim Kan\u0131yor"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "huzzam", 
@@ -62,11 +57,16 @@
             "name": "Bekir S\u0131dk\u0131 Sezgin"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "0a34f8d6-6a9e-4768-b611-00478fdf3ace", 
-            "title": "Kalbim Kan\u0131yor"
+            "attribute_key": "curcuna", 
+            "mb_attribute": "Curcuna", 
+            "source": "http://musicbrainz.org/work/0a34f8d6-6a9e-4768-b611-00478fdf3ace"
+        }, 
+        {
+            "attribute_key": "kapali_curcuna", 
+            "mb_tag": "curcuna", 
+            "source": "http://musicbrainz.org/recording/9d2f4c08-402d-4fb9-a01d-5d2b71f113f3"
         }
     ]
 }

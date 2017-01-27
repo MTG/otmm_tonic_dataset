@@ -1,11 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "devrikebir", 
-            "mb_attribute": "Devr-i Kebir", 
-            "source": "http://musicbrainz.org/work/1ef86e00-6fee-45fd-bd5c-4b22853710f8"
-        }
-    ], 
+    "instrumentation_voicing": "ensemble instrumental", 
     "form": [
         {
             "attribute_key": "pesrev", 
@@ -37,6 +31,12 @@
         }
     ], 
     "mbid": "78506aee-6628-49ba-95d5-fafc61c06d2c", 
+    "works": [
+        {
+            "mbid": "1ef86e00-6fee-45fd-bd5c-4b22853710f8", 
+            "title": "H\u00fczzam Pe\u015frev"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "huzzam", 
@@ -56,11 +56,11 @@
             "name": "Aziz T\u00fcrk Sanat M\u00fczi\u011fi Grubu"
         }
     ], 
-    "instrumentation_voicing": "Ensemble instrumental", 
-    "works": [
+    "usul": [
         {
-            "mbid": "1ef86e00-6fee-45fd-bd5c-4b22853710f8", 
-            "title": "H\u00fczzam Pe\u015frev"
+            "attribute_key": "devrikebir", 
+            "mb_attribute": "Devr-i Kebir", 
+            "source": "http://musicbrainz.org/work/1ef86e00-6fee-45fd-bd5c-4b22853710f8"
         }
     ]
 }

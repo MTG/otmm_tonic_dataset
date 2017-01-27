@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "agir_aksaksemai", 
-            "mb_attribute": "A\u011f\u0131r Aksaksemai", 
-            "source": "http://musicbrainz.org/work/60bb4a74-8934-49fa-8179-045d4c360dcf"
-        }, 
-        {
-            "attribute_key": "agir_aksaksemai", 
-            "mb_tag": "a\u011f\u0131r aksaksemai", 
-            "source": "http://musicbrainz.org/recording/028ef718-07a7-4e99-9c88-ce53d4f882f2"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "agirsemai", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "028ef718-07a7-4e99-9c88-ce53d4f882f2", 
+    "works": [
+        {
+            "mbid": "60bb4a74-8934-49fa-8179-045d4c360dcf", 
+            "title": "Dur Etme Yan\u0131ndan Asla Bendeni Ey Ka\u015f-\u0131 Keman"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "acemkurdi", 
@@ -62,11 +57,16 @@
             "name": "Bekir S\u0131dk\u0131 Sezgin"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "60bb4a74-8934-49fa-8179-045d4c360dcf", 
-            "title": "Dur Etme Yan\u0131ndan Asla Bendeni Ey Ka\u015f-\u0131 Keman"
+            "attribute_key": "agir_aksaksemai", 
+            "mb_attribute": "A\u011f\u0131r Aksaksemai", 
+            "source": "http://musicbrainz.org/work/60bb4a74-8934-49fa-8179-045d4c360dcf"
+        }, 
+        {
+            "attribute_key": "agir_aksaksemai", 
+            "mb_tag": "a\u011f\u0131r aksaksemai", 
+            "source": "http://musicbrainz.org/recording/028ef718-07a7-4e99-9c88-ce53d4f882f2"
         }
     ]
 }

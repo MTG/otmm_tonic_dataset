@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "agir_aksaksemai", 
-            "mb_attribute": "A\u011f\u0131r Aksaksemai", 
-            "source": "http://musicbrainz.org/work/a972a213-ee65-4182-8702-90b6e2083474"
-        }, 
-        {
-            "attribute_key": "agir_aksaksemai", 
-            "mb_tag": "a\u011f\u0131r aksaksemai", 
-            "source": "http://musicbrainz.org/recording/b4597463-49fc-40b4-8862-6c34172cd3cc"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "agirsemai", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "b4597463-49fc-40b4-8862-6c34172cd3cc", 
+    "works": [
+        {
+            "mbid": "a972a213-ee65-4182-8702-90b6e2083474", 
+            "title": "A G\u00f6n\u00fcl Cur'am\u0131y\u0131z"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "suzidilara", 
@@ -62,11 +57,16 @@
             "name": "Bekir S\u0131dk\u0131 Sezgin"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "a972a213-ee65-4182-8702-90b6e2083474", 
-            "title": "A G\u00f6n\u00fcl Cur'am\u0131y\u0131z"
+            "attribute_key": "agir_aksaksemai", 
+            "mb_attribute": "A\u011f\u0131r Aksaksemai", 
+            "source": "http://musicbrainz.org/work/a972a213-ee65-4182-8702-90b6e2083474"
+        }, 
+        {
+            "attribute_key": "agir_aksaksemai", 
+            "mb_tag": "a\u011f\u0131r aksaksemai", 
+            "source": "http://musicbrainz.org/recording/b4597463-49fc-40b4-8862-6c34172cd3cc"
         }
     ]
 }

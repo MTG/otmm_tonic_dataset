@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "semai", 
-            "mb_attribute": "Semai", 
-            "source": "http://musicbrainz.org/work/3d6b6fcd-d667-49a6-b9c0-120cedb85cec"
-        }, 
-        {
-            "attribute_key": "semai", 
-            "mb_tag": "semai", 
-            "source": "http://musicbrainz.org/recording/efd26cc9-ec3b-4e03-8b5a-08482dc6ef38"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "kanto", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "efd26cc9-ec3b-4e03-8b5a-08482dc6ef38", 
+    "works": [
+        {
+            "mbid": "3d6b6fcd-d667-49a6-b9c0-120cedb85cec", 
+            "title": "A\u015f\u0131k Oldum Gonca G\u00fcle"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "rast", 
@@ -116,11 +111,16 @@
             "name": "Safinaz Rizeli"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "3d6b6fcd-d667-49a6-b9c0-120cedb85cec", 
-            "title": "A\u015f\u0131k Oldum Gonca G\u00fcle"
+            "attribute_key": "semai", 
+            "mb_attribute": "Semai", 
+            "source": "http://musicbrainz.org/work/3d6b6fcd-d667-49a6-b9c0-120cedb85cec"
+        }, 
+        {
+            "attribute_key": "semai", 
+            "mb_tag": "semai", 
+            "source": "http://musicbrainz.org/recording/efd26cc9-ec3b-4e03-8b5a-08482dc6ef38"
         }
     ]
 }

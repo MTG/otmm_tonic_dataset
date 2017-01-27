@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "duyek", 
-            "mb_attribute": "D\u00fcyek", 
-            "source": "http://musicbrainz.org/work/36a1bd7c-cfc2-47a1-8732-62dbb538c51b"
-        }, 
-        {
-            "attribute_key": "duyek", 
-            "mb_tag": "d\u00fcyek", 
-            "source": "http://musicbrainz.org/recording/effb7c83-0d03-42c1-b43c-050d6406c439"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "kanto", 
@@ -59,6 +48,12 @@
         }
     ], 
     "mbid": "effb7c83-0d03-42c1-b43c-050d6406c439", 
+    "works": [
+        {
+            "mbid": "36a1bd7c-cfc2-47a1-8732-62dbb538c51b", 
+            "title": "Y\u00fcrek Oldu Gaminle"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "saba", 
@@ -111,11 +106,16 @@
             "name": "Sava\u015f \u015e. Bark\u00e7in"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "36a1bd7c-cfc2-47a1-8732-62dbb538c51b", 
-            "title": "Y\u00fcrek Oldu Gaminle"
+            "attribute_key": "duyek", 
+            "mb_attribute": "D\u00fcyek", 
+            "source": "http://musicbrainz.org/work/36a1bd7c-cfc2-47a1-8732-62dbb538c51b"
+        }, 
+        {
+            "attribute_key": "duyek", 
+            "mb_tag": "d\u00fcyek", 
+            "source": "http://musicbrainz.org/recording/effb7c83-0d03-42c1-b43c-050d6406c439"
         }
     ]
 }

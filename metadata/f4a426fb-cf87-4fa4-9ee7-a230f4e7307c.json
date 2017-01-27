@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "aksak", 
-            "mb_attribute": "Aksak", 
-            "source": "http://musicbrainz.org/work/3652ead2-775a-403f-9ac5-c1eafb1c30b7"
-        }, 
-        {
-            "attribute_key": "aksak", 
-            "mb_tag": "aksak", 
-            "source": "http://musicbrainz.org/recording/f4a426fb-cf87-4fa4-9ee7-a230f4e7307c"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal without accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "f4a426fb-cf87-4fa4-9ee7-a230f4e7307c", 
+    "works": [
+        {
+            "mbid": "3652ead2-775a-403f-9ac5-c1eafb1c30b7", 
+            "title": "K\u0131r At\u0131ma Bineyim"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "acemkurdi", 
@@ -57,11 +52,16 @@
             "name": "Muzaffer Birtan"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal without accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "3652ead2-775a-403f-9ac5-c1eafb1c30b7", 
-            "title": "K\u0131r At\u0131ma Bineyim"
+            "attribute_key": "aksak", 
+            "mb_attribute": "Aksak", 
+            "source": "http://musicbrainz.org/work/3652ead2-775a-403f-9ac5-c1eafb1c30b7"
+        }, 
+        {
+            "attribute_key": "aksak", 
+            "mb_tag": "aksak", 
+            "source": "http://musicbrainz.org/recording/f4a426fb-cf87-4fa4-9ee7-a230f4e7307c"
         }
     ]
 }

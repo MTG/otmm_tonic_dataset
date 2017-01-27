@@ -1,5 +1,11 @@
 {
-    "instrumentation_voicing": "Trio instrumental", 
+    "usul": [
+        {
+            "attribute_key": "serbest", 
+            "mb_tag": "serbest", 
+            "source": "http://musicbrainz.org/recording/48f3ff44-c15f-4588-af65-6be454328b02"
+        }
+    ], 
     "form": [
         {
             "attribute_key": "taksim", 
@@ -63,11 +69,5 @@
             "name": "Tahir Aydo\u011fdu"
         }
     ], 
-    "usul": [
-        {
-            "attribute_key": "serbest", 
-            "mb_tag": "serbest", 
-            "source": "http://musicbrainz.org/recording/48f3ff44-c15f-4588-af65-6be454328b02"
-        }
-    ]
+    "instrumentation_voicing": "trio instrumental"
 }

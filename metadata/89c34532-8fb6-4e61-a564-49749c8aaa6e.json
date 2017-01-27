@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "yuruksemai", 
-            "mb_attribute": "Y\u00fcr\u00fcksemai", 
-            "source": "http://musicbrainz.org/work/3ccfdae6-d6e1-4436-8f4a-4b777d28ada9"
-        }, 
-        {
-            "attribute_key": "yuruksemai", 
-            "mb_tag": "y\u00fcr\u00fcksemai", 
-            "source": "http://musicbrainz.org/recording/89c34532-8fb6-4e61-a564-49749c8aaa6e"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "yuruksemai", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "89c34532-8fb6-4e61-a564-49749c8aaa6e", 
+    "works": [
+        {
+            "mbid": "3ccfdae6-d6e1-4436-8f4a-4b777d28ada9", 
+            "title": "Tuti-i Mucize Guyem Ne Desem Laf De\u011fil"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "segah", 
@@ -73,11 +68,16 @@
             "name": "Klasik T\u00fcrk Musikisi Korosu"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "3ccfdae6-d6e1-4436-8f4a-4b777d28ada9", 
-            "title": "Tuti-i Mucize Guyem Ne Desem Laf De\u011fil"
+            "attribute_key": "yuruksemai", 
+            "mb_attribute": "Y\u00fcr\u00fcksemai", 
+            "source": "http://musicbrainz.org/work/3ccfdae6-d6e1-4436-8f4a-4b777d28ada9"
+        }, 
+        {
+            "attribute_key": "yuruksemai", 
+            "mb_tag": "y\u00fcr\u00fcksemai", 
+            "source": "http://musicbrainz.org/recording/89c34532-8fb6-4e61-a564-49749c8aaa6e"
         }
     ]
 }

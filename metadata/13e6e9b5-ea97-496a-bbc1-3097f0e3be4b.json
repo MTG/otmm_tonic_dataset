@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "aksak", 
-            "mb_attribute": "Aksak", 
-            "source": "http://musicbrainz.org/work/54cc982c-508a-474b-9fb8-77ed70efb009"
-        }, 
-        {
-            "attribute_key": "aksak", 
-            "mb_tag": "aksak", 
-            "source": "http://musicbrainz.org/recording/13e6e9b5-ea97-496a-bbc1-3097f0e3be4b"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "13e6e9b5-ea97-496a-bbc1-3097f0e3be4b", 
+    "works": [
+        {
+            "mbid": "54cc982c-508a-474b-9fb8-77ed70efb009", 
+            "title": "K\u00fc\u00e7\u00fck Suda G\u00f6rd\u00fcm Seni"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "sehnazbuselik", 
@@ -241,11 +236,16 @@
             "name": "Sedat G\u00fcndiyer"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "54cc982c-508a-474b-9fb8-77ed70efb009", 
-            "title": "K\u00fc\u00e7\u00fck Suda G\u00f6rd\u00fcm Seni"
+            "attribute_key": "aksak", 
+            "mb_attribute": "Aksak", 
+            "source": "http://musicbrainz.org/work/54cc982c-508a-474b-9fb8-77ed70efb009"
+        }, 
+        {
+            "attribute_key": "aksak", 
+            "mb_tag": "aksak", 
+            "source": "http://musicbrainz.org/recording/13e6e9b5-ea97-496a-bbc1-3097f0e3be4b"
         }
     ]
 }

@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "turkaksagi", 
-            "mb_attribute": "T\u00fcrkaksa\u011f\u0131", 
-            "source": "http://musicbrainz.org/work/06ed2bb0-5fea-4e48-9a33-2e1657e5f79a"
-        }, 
-        {
-            "attribute_key": "turkaksagi_ii", 
-            "mb_tag": "t\u00fcrkaksa\u011f\u0131", 
-            "source": "http://musicbrainz.org/recording/bab68f5b-1388-4c7e-9b0c-f32adf1f3343"
-        }
-    ], 
+    "instrumentation_voicing": "choir", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "bab68f5b-1388-4c7e-9b0c-f32adf1f3343", 
+    "works": [
+        {
+            "mbid": "06ed2bb0-5fea-4e48-9a33-2e1657e5f79a", 
+            "title": "Hicran Oku Sinem Deler"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "huseyni", 
@@ -92,11 +87,16 @@
             "name": "\u015eehnaz U\u011furel"
         }
     ], 
-    "instrumentation_voicing": "Choir", 
-    "works": [
+    "usul": [
         {
-            "mbid": "06ed2bb0-5fea-4e48-9a33-2e1657e5f79a", 
-            "title": "Hicran Oku Sinem Deler"
+            "attribute_key": "turkaksagi", 
+            "mb_attribute": "T\u00fcrkaksa\u011f\u0131", 
+            "source": "http://musicbrainz.org/work/06ed2bb0-5fea-4e48-9a33-2e1657e5f79a"
+        }, 
+        {
+            "attribute_key": "turkaksagi_ii", 
+            "mb_tag": "t\u00fcrkaksa\u011f\u0131", 
+            "source": "http://musicbrainz.org/recording/bab68f5b-1388-4c7e-9b0c-f32adf1f3343"
         }
     ]
 }

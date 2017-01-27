@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "agiraksak", 
-            "mb_attribute": "A\u011f\u0131raksak", 
-            "source": "http://musicbrainz.org/work/bff09ec9-804a-4df6-ad14-6d4e79f456cf"
-        }, 
-        {
-            "attribute_key": "agiraksak", 
-            "mb_tag": "a\u011f\u0131raksak", 
-            "source": "http://musicbrainz.org/recording/88d752ed-645a-4414-8fc8-efc3b815a5b0"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal without accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "88d752ed-645a-4414-8fc8-efc3b815a5b0", 
+    "works": [
+        {
+            "mbid": "bff09ec9-804a-4df6-ad14-6d4e79f456cf", 
+            "title": "Ne Bahar Kald\u0131 Ne G\u00fcl"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "beyati", 
@@ -57,11 +52,16 @@
             "name": "Safiye Ayla"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal without accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "bff09ec9-804a-4df6-ad14-6d4e79f456cf", 
-            "title": "Ne Bahar Kald\u0131 Ne G\u00fcl"
+            "attribute_key": "agiraksak", 
+            "mb_attribute": "A\u011f\u0131raksak", 
+            "source": "http://musicbrainz.org/work/bff09ec9-804a-4df6-ad14-6d4e79f456cf"
+        }, 
+        {
+            "attribute_key": "agiraksak", 
+            "mb_tag": "a\u011f\u0131raksak", 
+            "source": "http://musicbrainz.org/recording/88d752ed-645a-4414-8fc8-efc3b815a5b0"
         }
     ]
 }

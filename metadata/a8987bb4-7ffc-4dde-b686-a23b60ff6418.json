@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "duyek", 
-            "mb_attribute": "D\u00fcyek", 
-            "source": "http://musicbrainz.org/work/32d8fc7f-3709-4073-90c5-d0e8c07cbd06"
-        }, 
-        {
-            "attribute_key": "duyek", 
-            "mb_tag": "d\u00fcyek", 
-            "source": "http://musicbrainz.org/recording/a8987bb4-7ffc-4dde-b686-a23b60ff6418"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -33,6 +22,12 @@
         }
     ], 
     "mbid": "a8987bb4-7ffc-4dde-b686-a23b60ff6418", 
+    "works": [
+        {
+            "mbid": "32d8fc7f-3709-4073-90c5-d0e8c07cbd06", 
+            "title": "Yine Hazan Mevsimi"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "nihavent", 
@@ -60,11 +55,16 @@
             "name": "Aziz T\u00fcrk Sanat M\u00fczi\u011fi Grubu"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "32d8fc7f-3709-4073-90c5-d0e8c07cbd06", 
-            "title": "Yine Hazan Mevsimi"
+            "attribute_key": "duyek", 
+            "mb_attribute": "D\u00fcyek", 
+            "source": "http://musicbrainz.org/work/32d8fc7f-3709-4073-90c5-d0e8c07cbd06"
+        }, 
+        {
+            "attribute_key": "duyek", 
+            "mb_tag": "d\u00fcyek", 
+            "source": "http://musicbrainz.org/recording/a8987bb4-7ffc-4dde-b686-a23b60ff6418"
         }
     ]
 }

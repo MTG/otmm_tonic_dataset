@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "sofyan", 
-            "mb_attribute": "Sofyan", 
-            "source": "http://musicbrainz.org/work/bf93314a-8209-4417-9f56-2a357472af0b"
-        }, 
-        {
-            "attribute_key": "sofyan", 
-            "mb_tag": "sofyan", 
-            "source": "http://musicbrainz.org/recording/56fb5cf8-2337-4489-8906-0913f0b6b0a3"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal without accompaniment", 
     "form": [
         {
             "attribute_key": "turku", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "56fb5cf8-2337-4489-8906-0913f0b6b0a3", 
+    "works": [
+        {
+            "mbid": "bf93314a-8209-4417-9f56-2a357472af0b", 
+            "title": "Rast Geldim \u0130ki C\u00e2ne"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "acemasiran", 
@@ -57,11 +52,16 @@
             "name": "Radife Erten"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal without accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "bf93314a-8209-4417-9f56-2a357472af0b", 
-            "title": "Rast Geldim \u0130ki C\u00e2ne"
+            "attribute_key": "sofyan", 
+            "mb_attribute": "Sofyan", 
+            "source": "http://musicbrainz.org/work/bf93314a-8209-4417-9f56-2a357472af0b"
+        }, 
+        {
+            "attribute_key": "sofyan", 
+            "mb_tag": "sofyan", 
+            "source": "http://musicbrainz.org/recording/56fb5cf8-2337-4489-8906-0913f0b6b0a3"
         }
     ]
 }

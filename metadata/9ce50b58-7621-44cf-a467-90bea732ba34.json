@@ -1,11 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "aksaksemai", 
-            "mb_attribute": "Aksaksemai", 
-            "source": "http://musicbrainz.org/work/8caa157b-0163-4de7-8625-07e49f262a26"
-        }
-    ], 
+    "instrumentation_voicing": "solo instrumental", 
     "form": [
         {
             "attribute_key": "sazsemaisi", 
@@ -38,6 +32,12 @@
         }
     ], 
     "mbid": "9ce50b58-7621-44cf-a467-90bea732ba34", 
+    "works": [
+        {
+            "mbid": "8caa157b-0163-4de7-8625-07e49f262a26", 
+            "title": "Hicaz Sazsemaisi"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "hicaz", 
@@ -60,11 +60,11 @@
             "name": "Fahri Karaduman"
         }
     ], 
-    "instrumentation_voicing": "Solo instrumental", 
-    "works": [
+    "usul": [
         {
-            "mbid": "8caa157b-0163-4de7-8625-07e49f262a26", 
-            "title": "Hicaz Sazsemaisi"
+            "attribute_key": "aksaksemai", 
+            "mb_attribute": "Aksaksemai", 
+            "source": "http://musicbrainz.org/work/8caa157b-0163-4de7-8625-07e49f262a26"
         }
     ]
 }

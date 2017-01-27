@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "aksak", 
-            "mb_attribute": "Aksak", 
-            "source": "http://musicbrainz.org/work/95820088-96af-4201-a35f-e86bd785ca2c"
-        }, 
-        {
-            "attribute_key": "aksak", 
-            "mb_tag": "aksak", 
-            "source": "http://musicbrainz.org/recording/ea98b604-a2b7-460b-99ec-26d957f0f956"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "ea98b604-a2b7-460b-99ec-26d957f0f956", 
+    "works": [
+        {
+            "mbid": "95820088-96af-4201-a35f-e86bd785ca2c", 
+            "title": "Haftalar Aylar Var Ki"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "nihavent", 
@@ -73,11 +68,16 @@
             "name": "Nevzat S\u00fcmer"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "95820088-96af-4201-a35f-e86bd785ca2c", 
-            "title": "Haftalar Aylar Var Ki"
+            "attribute_key": "aksak", 
+            "mb_attribute": "Aksak", 
+            "source": "http://musicbrainz.org/work/95820088-96af-4201-a35f-e86bd785ca2c"
+        }, 
+        {
+            "attribute_key": "aksak", 
+            "mb_tag": "aksak", 
+            "source": "http://musicbrainz.org/recording/ea98b604-a2b7-460b-99ec-26d957f0f956"
         }
     ]
 }

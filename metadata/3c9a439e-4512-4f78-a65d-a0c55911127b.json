@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "senginsemai", 
-            "mb_attribute": "Senginsemai", 
-            "source": "http://musicbrainz.org/work/e8fecb2d-ba8d-4538-a8ce-6b1f7fa1a70e"
-        }, 
-        {
-            "attribute_key": "senginsemai", 
-            "mb_tag": "senginsemai", 
-            "source": "http://musicbrainz.org/recording/3c9a439e-4512-4f78-a65d-a0c55911127b"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "3c9a439e-4512-4f78-a65d-a0c55911127b", 
+    "works": [
+        {
+            "mbid": "e8fecb2d-ba8d-4538-a8ce-6b1f7fa1a70e", 
+            "title": "\u015eem-i \u00fcmidim bu gece s\u00f6nd\u00fc ah"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "bestenigar", 
@@ -89,11 +84,16 @@
             "name": "Mustafa Zeki \u00c7a\u011flarman"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "e8fecb2d-ba8d-4538-a8ce-6b1f7fa1a70e", 
-            "title": "\u015eem-i \u00fcmidim bu gece s\u00f6nd\u00fc ah"
+            "attribute_key": "senginsemai", 
+            "mb_attribute": "Senginsemai", 
+            "source": "http://musicbrainz.org/work/e8fecb2d-ba8d-4538-a8ce-6b1f7fa1a70e"
+        }, 
+        {
+            "attribute_key": "senginsemai", 
+            "mb_tag": "senginsemai", 
+            "source": "http://musicbrainz.org/recording/3c9a439e-4512-4f78-a65d-a0c55911127b"
         }
     ]
 }

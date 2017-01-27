@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "yuruksemai", 
-            "mb_attribute": "Y\u00fcr\u00fcksemai", 
-            "source": "http://musicbrainz.org/work/a2acc29a-fe3e-4346-8d62-457a6857cfeb"
-        }, 
-        {
-            "attribute_key": "yuruksemai", 
-            "mb_tag": "y\u00fcr\u00fcksemai", 
-            "source": "http://musicbrainz.org/recording/27632e1e-3a29-44df-bdf4-59e2f3aff1c7"
-        }
-    ], 
+    "instrumentation_voicing": "solo instrumental", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "27632e1e-3a29-44df-bdf4-59e2f3aff1c7", 
+    "works": [
+        {
+            "mbid": "a2acc29a-fe3e-4346-8d62-457a6857cfeb", 
+            "title": "Bu Y\u0131l Da B\u00f6yle Ge\u00e7ti"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "kurdilihicazkar", 
@@ -60,11 +55,16 @@
             "name": "Ahmet Meter"
         }
     ], 
-    "instrumentation_voicing": "Solo instrumental", 
-    "works": [
+    "usul": [
         {
-            "mbid": "a2acc29a-fe3e-4346-8d62-457a6857cfeb", 
-            "title": "Bu Y\u0131l Da B\u00f6yle Ge\u00e7ti"
+            "attribute_key": "yuruksemai", 
+            "mb_attribute": "Y\u00fcr\u00fcksemai", 
+            "source": "http://musicbrainz.org/work/a2acc29a-fe3e-4346-8d62-457a6857cfeb"
+        }, 
+        {
+            "attribute_key": "yuruksemai", 
+            "mb_tag": "y\u00fcr\u00fcksemai", 
+            "source": "http://musicbrainz.org/recording/27632e1e-3a29-44df-bdf4-59e2f3aff1c7"
         }
     ]
 }

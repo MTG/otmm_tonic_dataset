@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "curcuna", 
-            "mb_attribute": "Curcuna", 
-            "source": "http://musicbrainz.org/work/690fe17c-905c-4dc0-8064-1137f93e6bd7"
-        }, 
-        {
-            "attribute_key": "kapali_curcuna", 
-            "mb_tag": "curcuna", 
-            "source": "http://musicbrainz.org/recording/1e4a2009-f29c-4d37-b7f8-03eb51e5c450"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -42,6 +31,12 @@
         }
     ], 
     "mbid": "1e4a2009-f29c-4d37-b7f8-03eb51e5c450", 
+    "works": [
+        {
+            "mbid": "690fe17c-905c-4dc0-8064-1137f93e6bd7", 
+            "title": "Cana Gam'\u0131 A\u015fk\u0131nla Peri\u015fan Gezer Oldum"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "suzidil", 
@@ -137,11 +132,16 @@
             "name": "Sedat G\u00fcndiyer"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "690fe17c-905c-4dc0-8064-1137f93e6bd7", 
-            "title": "Cana Gam'\u0131 A\u015fk\u0131nla Peri\u015fan Gezer Oldum"
+            "attribute_key": "curcuna", 
+            "mb_attribute": "Curcuna", 
+            "source": "http://musicbrainz.org/work/690fe17c-905c-4dc0-8064-1137f93e6bd7"
+        }, 
+        {
+            "attribute_key": "kapali_curcuna", 
+            "mb_tag": "curcuna", 
+            "source": "http://musicbrainz.org/recording/1e4a2009-f29c-4d37-b7f8-03eb51e5c450"
         }
     ]
 }

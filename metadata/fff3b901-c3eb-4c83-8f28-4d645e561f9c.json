@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "devrikebir", 
-            "mb_attribute": "Devr-i Kebir", 
-            "source": "http://musicbrainz.org/work/deb4380a-f566-40e7-8927-a3899f4088cc"
-        }, 
-        {
-            "attribute_key": "devrikebir", 
-            "mb_tag": "devr-i kebir", 
-            "source": "http://musicbrainz.org/recording/fff3b901-c3eb-4c83-8f28-4d645e561f9c"
-        }
-    ], 
+    "instrumentation_voicing": "ensemble instrumental", 
     "form": [
         {
             "attribute_key": "pesrev", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "fff3b901-c3eb-4c83-8f28-4d645e561f9c", 
+    "works": [
+        {
+            "mbid": "deb4380a-f566-40e7-8927-a3899f4088cc", 
+            "title": "Bestenigar Pe\u015frev"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "bestenigar", 
@@ -84,11 +79,16 @@
             "name": "U\u011fur I\u015f\u0131k"
         }
     ], 
-    "instrumentation_voicing": "Ensemble instrumental", 
-    "works": [
+    "usul": [
         {
-            "mbid": "deb4380a-f566-40e7-8927-a3899f4088cc", 
-            "title": "Bestenigar Pe\u015frev"
+            "attribute_key": "devrikebir", 
+            "mb_attribute": "Devr-i Kebir", 
+            "source": "http://musicbrainz.org/work/deb4380a-f566-40e7-8927-a3899f4088cc"
+        }, 
+        {
+            "attribute_key": "devrikebir", 
+            "mb_tag": "devr-i kebir", 
+            "source": "http://musicbrainz.org/recording/fff3b901-c3eb-4c83-8f28-4d645e561f9c"
         }
     ]
 }

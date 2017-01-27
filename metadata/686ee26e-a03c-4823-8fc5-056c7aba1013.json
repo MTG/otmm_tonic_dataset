@@ -1,11 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "serbest", 
-            "mb_tag": "serbest", 
-            "source": "http://musicbrainz.org/recording/686ee26e-a03c-4823-8fc5-056c7aba1013"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [], 
     "releases": [
         {
@@ -22,6 +16,12 @@
         }
     ], 
     "mbid": "686ee26e-a03c-4823-8fc5-056c7aba1013", 
+    "works": [
+        {
+            "mbid": "bbe72f18-2ba2-4751-bd6c-b576afb551b3", 
+            "title": "Ge\u00e7ti Eyvah Bir Hayal Oldu Saadet Demleri"
+        }
+    ], 
     "makam": [], 
     "artists": [
         {
@@ -35,11 +35,11 @@
             "name": "Bekir S\u0131dk\u0131 Sezgin"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "bbe72f18-2ba2-4751-bd6c-b576afb551b3", 
-            "title": "Ge\u00e7ti Eyvah Bir Hayal Oldu Saadet Demleri"
+            "attribute_key": "serbest", 
+            "mb_tag": "serbest", 
+            "source": "http://musicbrainz.org/recording/686ee26e-a03c-4823-8fc5-056c7aba1013"
         }
     ]
 }

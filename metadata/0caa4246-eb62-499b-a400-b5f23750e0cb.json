@@ -1,5 +1,11 @@
 {
-    "instrumentation_voicing": "Solo instrumental", 
+    "usul": [
+        {
+            "attribute_key": "serbest", 
+            "mb_tag": "serbest", 
+            "source": "http://musicbrainz.org/recording/0caa4246-eb62-499b-a400-b5f23750e0cb"
+        }
+    ], 
     "form": [
         {
             "attribute_key": "taksim", 
@@ -40,11 +46,5 @@
             "name": "[unknown]"
         }
     ], 
-    "usul": [
-        {
-            "attribute_key": "serbest", 
-            "mb_tag": "serbest", 
-            "source": "http://musicbrainz.org/recording/0caa4246-eb62-499b-a400-b5f23750e0cb"
-        }
-    ]
+    "instrumentation_voicing": "solo instrumental"
 }

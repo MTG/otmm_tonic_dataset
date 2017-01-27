@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "duyek", 
-            "mb_attribute": "D\u00fcyek", 
-            "source": "http://musicbrainz.org/work/acfbe5cd-9228-450f-b7d1-26acc5eacd02"
-        }, 
-        {
-            "attribute_key": "duyek", 
-            "mb_tag": "d\u00fcyek", 
-            "source": "http://musicbrainz.org/recording/7e30230e-e9aa-42a7-a463-88e1fb11d443"
-        }
-    ], 
+    "instrumentation_voicing": "choir", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "7e30230e-e9aa-42a7-a463-88e1fb11d443", 
+    "works": [
+        {
+            "mbid": "acfbe5cd-9228-450f-b7d1-26acc5eacd02", 
+            "title": "H\u00fcsn\u00fc G\u00fczel Nazik Beden"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "nihavent", 
@@ -156,11 +151,16 @@
             "name": "Bekir \u00dcnl\u00fcataer"
         }
     ], 
-    "instrumentation_voicing": "Choir", 
-    "works": [
+    "usul": [
         {
-            "mbid": "acfbe5cd-9228-450f-b7d1-26acc5eacd02", 
-            "title": "H\u00fcsn\u00fc G\u00fczel Nazik Beden"
+            "attribute_key": "duyek", 
+            "mb_attribute": "D\u00fcyek", 
+            "source": "http://musicbrainz.org/work/acfbe5cd-9228-450f-b7d1-26acc5eacd02"
+        }, 
+        {
+            "attribute_key": "duyek", 
+            "mb_tag": "d\u00fcyek", 
+            "source": "http://musicbrainz.org/recording/7e30230e-e9aa-42a7-a463-88e1fb11d443"
         }
     ]
 }

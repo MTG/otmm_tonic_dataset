@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "curcuna", 
-            "mb_attribute": "Curcuna", 
-            "source": "http://musicbrainz.org/work/05a8b9b1-8140-4ae2-9051-0e9f2e972ba6"
-        }, 
-        {
-            "attribute_key": "kapali_curcuna", 
-            "mb_tag": "curcuna", 
-            "source": "http://musicbrainz.org/recording/0779dabb-4fbb-4a4e-86cb-c8a0a112510c"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal without accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -42,6 +31,12 @@
         }
     ], 
     "mbid": "0779dabb-4fbb-4a4e-86cb-c8a0a112510c", 
+    "works": [
+        {
+            "mbid": "05a8b9b1-8140-4ae2-9051-0e9f2e972ba6", 
+            "title": "Lutfeyle G\u00fczel Gel de Benim G\u00f6nl\u00fcm\u00fc \u015ead Et"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "hicazkar", 
@@ -61,11 +56,16 @@
             "name": "Lale Han\u0131m"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal without accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "05a8b9b1-8140-4ae2-9051-0e9f2e972ba6", 
-            "title": "Lutfeyle G\u00fczel Gel de Benim G\u00f6nl\u00fcm\u00fc \u015ead Et"
+            "attribute_key": "curcuna", 
+            "mb_attribute": "Curcuna", 
+            "source": "http://musicbrainz.org/work/05a8b9b1-8140-4ae2-9051-0e9f2e972ba6"
+        }, 
+        {
+            "attribute_key": "kapali_curcuna", 
+            "mb_tag": "curcuna", 
+            "source": "http://musicbrainz.org/recording/0779dabb-4fbb-4a4e-86cb-c8a0a112510c"
         }
     ]
 }

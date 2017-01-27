@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "aksak", 
-            "mb_attribute": "Aksak", 
-            "source": "http://musicbrainz.org/work/718dce53-c816-4f4e-8c63-3d59771ec1ce"
-        }, 
-        {
-            "attribute_key": "aksak", 
-            "mb_tag": "aksak", 
-            "source": "http://musicbrainz.org/recording/782e709c-655b-4230-84de-0c8ea4d00d3b"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal without accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "782e709c-655b-4230-84de-0c8ea4d00d3b", 
+    "works": [
+        {
+            "mbid": "718dce53-c816-4f4e-8c63-3d59771ec1ce", 
+            "title": "Ne G\u00fcnah Etse A\u00e7\u0131lmaz"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "hicaz", 
@@ -57,11 +52,16 @@
             "name": "Alaeddin Yava\u015fca"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal without accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "718dce53-c816-4f4e-8c63-3d59771ec1ce", 
-            "title": "Ne G\u00fcnah Etse A\u00e7\u0131lmaz"
+            "attribute_key": "aksak", 
+            "mb_attribute": "Aksak", 
+            "source": "http://musicbrainz.org/work/718dce53-c816-4f4e-8c63-3d59771ec1ce"
+        }, 
+        {
+            "attribute_key": "aksak", 
+            "mb_tag": "aksak", 
+            "source": "http://musicbrainz.org/recording/782e709c-655b-4230-84de-0c8ea4d00d3b"
         }
     ]
 }

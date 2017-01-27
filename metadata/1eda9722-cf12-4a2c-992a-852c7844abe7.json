@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "darbeyn", 
-            "mb_attribute": "Darbeyn", 
-            "source": "http://musicbrainz.org/work/3770a12c-c251-4f3c-89de-1cce62287e81"
-        }, 
-        {
-            "attribute_key": "darbeyn", 
-            "mb_tag": "darbeyn", 
-            "source": "http://musicbrainz.org/recording/1eda9722-cf12-4a2c-992a-852c7844abe7"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "murabba", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "1eda9722-cf12-4a2c-992a-852c7844abe7", 
+    "works": [
+        {
+            "mbid": "3770a12c-c251-4f3c-89de-1cce62287e81", 
+            "title": "M\u00fc\u015ftak-i Cemalin Gece G\u00fcnd\u00fcz"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "suzinak", 
@@ -92,11 +87,16 @@
             "name": "Do\u011fan Dikmen"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "3770a12c-c251-4f3c-89de-1cce62287e81", 
-            "title": "M\u00fc\u015ftak-i Cemalin Gece G\u00fcnd\u00fcz"
+            "attribute_key": "darbeyn", 
+            "mb_attribute": "Darbeyn", 
+            "source": "http://musicbrainz.org/work/3770a12c-c251-4f3c-89de-1cce62287e81"
+        }, 
+        {
+            "attribute_key": "darbeyn", 
+            "mb_tag": "darbeyn", 
+            "source": "http://musicbrainz.org/recording/1eda9722-cf12-4a2c-992a-852c7844abe7"
         }
     ]
 }

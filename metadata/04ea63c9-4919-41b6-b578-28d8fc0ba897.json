@@ -1,5 +1,5 @@
 {
-    "usul": [], 
+    "instrumentation_voicing": "duo instrumental", 
     "form": [
         {
             "attribute_key": "pesrev", 
@@ -31,6 +31,12 @@
         }
     ], 
     "mbid": "04ea63c9-4919-41b6-b578-28d8fc0ba897", 
+    "works": [
+        {
+            "mbid": "d96fe7ab-75df-490a-b2a0-ee6acdb3c7f6", 
+            "title": "\u015eedd-i Arab\u00e2n Pe\u015frevi"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "sedaraban", 
@@ -61,11 +67,5 @@
             "name": "Derya T\u00fcrkan"
         }
     ], 
-    "instrumentation_voicing": "Duo instrumental", 
-    "works": [
-        {
-            "mbid": "d96fe7ab-75df-490a-b2a0-ee6acdb3c7f6", 
-            "title": "\u015eedd-i Arab\u00e2n Pe\u015frevi"
-        }
-    ]
+    "usul": []
 }

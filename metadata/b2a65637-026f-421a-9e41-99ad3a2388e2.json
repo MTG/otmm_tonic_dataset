@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "devrikebir", 
-            "mb_attribute": "Devr-i Kebir", 
-            "source": "http://musicbrainz.org/work/b35f8221-5992-4585-9cb3-f153beaa4e62"
-        }, 
-        {
-            "attribute_key": "devrikebir", 
-            "mb_tag": "devr-i kebir", 
-            "source": "http://musicbrainz.org/recording/b2a65637-026f-421a-9e41-99ad3a2388e2"
-        }
-    ], 
+    "instrumentation_voicing": "ensemble instrumental", 
     "form": [
         {
             "attribute_key": "pesrev", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "b2a65637-026f-421a-9e41-99ad3a2388e2", 
+    "works": [
+        {
+            "mbid": "b35f8221-5992-4585-9cb3-f153beaa4e62", 
+            "title": "Ferahfeza Pe\u015frev"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "ferahfeza", 
@@ -84,11 +79,16 @@
             "name": "U\u011fur I\u015f\u0131k"
         }
     ], 
-    "instrumentation_voicing": "Ensemble instrumental", 
-    "works": [
+    "usul": [
         {
-            "mbid": "b35f8221-5992-4585-9cb3-f153beaa4e62", 
-            "title": "Ferahfeza Pe\u015frev"
+            "attribute_key": "devrikebir", 
+            "mb_attribute": "Devr-i Kebir", 
+            "source": "http://musicbrainz.org/work/b35f8221-5992-4585-9cb3-f153beaa4e62"
+        }, 
+        {
+            "attribute_key": "devrikebir", 
+            "mb_tag": "devr-i kebir", 
+            "source": "http://musicbrainz.org/recording/b2a65637-026f-421a-9e41-99ad3a2388e2"
         }
     ]
 }

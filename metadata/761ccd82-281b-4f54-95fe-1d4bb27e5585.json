@@ -1,5 +1,5 @@
 {
-    "usul": [], 
+    "instrumentation_voicing": "duo instrumental", 
     "form": [
         {
             "attribute_key": "sazeseri", 
@@ -26,6 +26,12 @@
         }
     ], 
     "mbid": "761ccd82-281b-4f54-95fe-1d4bb27e5585", 
+    "works": [
+        {
+            "mbid": "6225450c-51b5-44e9-9e95-5b1d239e541f", 
+            "title": "Suz-i A\u015fk"
+        }
+    ], 
     "makam": [], 
     "artists": [
         {
@@ -45,11 +51,5 @@
             "name": "Hakan G\u00fcng\u00f6r"
         }
     ], 
-    "instrumentation_voicing": "Duo instrumental", 
-    "works": [
-        {
-            "mbid": "6225450c-51b5-44e9-9e95-5b1d239e541f", 
-            "title": "Suz-i A\u015fk"
-        }
-    ]
+    "usul": []
 }

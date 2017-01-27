@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "aksaksemai", 
-            "mb_attribute": "Aksaksemai", 
-            "source": "http://musicbrainz.org/work/5eba4c68-fa50-4aaa-9d9e-05e854105e44"
-        }, 
-        {
-            "attribute_key": "aksaksemai", 
-            "mb_tag": "aksaksemai", 
-            "source": "http://musicbrainz.org/recording/f5fcdb0b-d180-42d7-b6ce-54875932fba8"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "agirsemai", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "f5fcdb0b-d180-42d7-b6ce-54875932fba8", 
+    "works": [
+        {
+            "mbid": "5eba4c68-fa50-4aaa-9d9e-05e854105e44", 
+            "title": "Kap\u0131l\u0131r Her G\u00f6ren Ol \u015euh-i Cihan-a\u015fubu"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "suzinak", 
@@ -62,11 +57,16 @@
             "name": "Zeki M\u00fcren"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "5eba4c68-fa50-4aaa-9d9e-05e854105e44", 
-            "title": "Kap\u0131l\u0131r Her G\u00f6ren Ol \u015euh-i Cihan-a\u015fubu"
+            "attribute_key": "aksaksemai", 
+            "mb_attribute": "Aksaksemai", 
+            "source": "http://musicbrainz.org/work/5eba4c68-fa50-4aaa-9d9e-05e854105e44"
+        }, 
+        {
+            "attribute_key": "aksaksemai", 
+            "mb_tag": "aksaksemai", 
+            "source": "http://musicbrainz.org/recording/f5fcdb0b-d180-42d7-b6ce-54875932fba8"
         }
     ]
 }

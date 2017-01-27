@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "hafif", 
-            "mb_attribute": "Hafif", 
-            "source": "http://musicbrainz.org/work/887fb775-83b1-48bf-bf32-66b263b2de00"
-        }, 
-        {
-            "attribute_key": "hafif", 
-            "mb_tag": "hafif", 
-            "source": "http://musicbrainz.org/recording/cf45be1e-03b3-4f8e-991d-d0d20d39451a"
-        }
-    ], 
+    "instrumentation_voicing": "ensemble instrumental", 
     "form": [
         {
             "attribute_key": "kar", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "cf45be1e-03b3-4f8e-991d-d0d20d39451a", 
+    "works": [
+        {
+            "mbid": "887fb775-83b1-48bf-bf32-66b263b2de00", 
+            "title": "Ey \u015eehin\u015fah-\u0131 Horasan"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "segah", 
@@ -185,11 +180,16 @@
             "name": "\u00dcmit G\u00fcrelman"
         }
     ], 
-    "instrumentation_voicing": "Ensemble instrumental", 
-    "works": [
+    "usul": [
         {
-            "mbid": "887fb775-83b1-48bf-bf32-66b263b2de00", 
-            "title": "Ey \u015eehin\u015fah-\u0131 Horasan"
+            "attribute_key": "hafif", 
+            "mb_attribute": "Hafif", 
+            "source": "http://musicbrainz.org/work/887fb775-83b1-48bf-bf32-66b263b2de00"
+        }, 
+        {
+            "attribute_key": "hafif", 
+            "mb_tag": "hafif", 
+            "source": "http://musicbrainz.org/recording/cf45be1e-03b3-4f8e-991d-d0d20d39451a"
         }
     ]
 }

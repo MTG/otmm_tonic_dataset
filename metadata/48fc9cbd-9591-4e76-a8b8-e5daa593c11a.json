@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "devrikebir", 
-            "mb_attribute": "Devr-i Kebir", 
-            "source": "http://musicbrainz.org/work/e72ff1eb-af4c-4368-a5a6-eb060b102c40"
-        }, 
-        {
-            "attribute_key": "devrikebir", 
-            "mb_tag": "devr-i kebir", 
-            "source": "http://musicbrainz.org/recording/48fc9cbd-9591-4e76-a8b8-e5daa593c11a"
-        }
-    ], 
+    "instrumentation_voicing": "ensemble instrumental", 
     "form": [
         {
             "attribute_key": "pesrev", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "48fc9cbd-9591-4e76-a8b8-e5daa593c11a", 
+    "works": [
+        {
+            "mbid": "e72ff1eb-af4c-4368-a5a6-eb060b102c40", 
+            "title": "Muhayyer Pe\u015frev"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "muhayyer", 
@@ -84,11 +79,16 @@
             "name": "U\u011fur I\u015f\u0131k"
         }
     ], 
-    "instrumentation_voicing": "Ensemble instrumental", 
-    "works": [
+    "usul": [
         {
-            "mbid": "e72ff1eb-af4c-4368-a5a6-eb060b102c40", 
-            "title": "Muhayyer Pe\u015frev"
+            "attribute_key": "devrikebir", 
+            "mb_attribute": "Devr-i Kebir", 
+            "source": "http://musicbrainz.org/work/e72ff1eb-af4c-4368-a5a6-eb060b102c40"
+        }, 
+        {
+            "attribute_key": "devrikebir", 
+            "mb_tag": "devr-i kebir", 
+            "source": "http://musicbrainz.org/recording/48fc9cbd-9591-4e76-a8b8-e5daa593c11a"
         }
     ]
 }

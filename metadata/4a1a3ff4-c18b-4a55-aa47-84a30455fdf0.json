@@ -1,21 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "semai", 
-            "mb_attribute": "Semai", 
-            "source": "http://musicbrainz.org/work/90516943-fb05-4b31-9133-fbbd63dda0e0"
-        }, 
-        {
-            "attribute_key": "semai", 
-            "mb_tag": "semai", 
-            "source": "http://musicbrainz.org/recording/4a1a3ff4-c18b-4a55-aa47-84a30455fdf0"
-        }, 
-        {
-            "attribute_key": "duyek", 
-            "mb_tag": "d\u00fcyek", 
-            "source": "http://musicbrainz.org/recording/4a1a3ff4-c18b-4a55-aa47-84a30455fdf0"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal without accompaniment", 
     "form": [
         {
             "attribute_key": "fantezi", 
@@ -43,6 +27,12 @@
         }
     ], 
     "mbid": "4a1a3ff4-c18b-4a55-aa47-84a30455fdf0", 
+    "works": [
+        {
+            "mbid": "90516943-fb05-4b31-9133-fbbd63dda0e0", 
+            "title": "Ne Bildim K\u0131ymetin Ne Bildin K\u0131ymetim"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "nihavent", 
@@ -62,11 +52,21 @@
             "name": "G\u00fclnaz Ataman"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal without accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "90516943-fb05-4b31-9133-fbbd63dda0e0", 
-            "title": "Ne Bildim K\u0131ymetin Ne Bildin K\u0131ymetim"
+            "attribute_key": "semai", 
+            "mb_attribute": "Semai", 
+            "source": "http://musicbrainz.org/work/90516943-fb05-4b31-9133-fbbd63dda0e0"
+        }, 
+        {
+            "attribute_key": "semai", 
+            "mb_tag": "semai", 
+            "source": "http://musicbrainz.org/recording/4a1a3ff4-c18b-4a55-aa47-84a30455fdf0"
+        }, 
+        {
+            "attribute_key": "duyek", 
+            "mb_tag": "d\u00fcyek", 
+            "source": "http://musicbrainz.org/recording/4a1a3ff4-c18b-4a55-aa47-84a30455fdf0"
         }
     ]
 }

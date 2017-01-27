@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "semai", 
-            "mb_attribute": "Semai", 
-            "source": "http://musicbrainz.org/work/7f689b43-f4f4-4ff1-a2fc-fd1f1e6bd26a"
-        }, 
-        {
-            "attribute_key": "semai", 
-            "mb_tag": "semai", 
-            "source": "http://musicbrainz.org/recording/1d5903b6-24c3-4056-be98-aec246dc77c7"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "seyir", 
@@ -54,6 +43,12 @@
         }
     ], 
     "mbid": "1d5903b6-24c3-4056-be98-aec246dc77c7", 
+    "works": [
+        {
+            "mbid": "7f689b43-f4f4-4ff1-a2fc-fd1f1e6bd26a", 
+            "title": "Muhayyer Terenn\u00fcm"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "muhayyer", 
@@ -106,11 +101,16 @@
             "name": "Sava\u015f \u015e. Bark\u00e7in"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "7f689b43-f4f4-4ff1-a2fc-fd1f1e6bd26a", 
-            "title": "Muhayyer Terenn\u00fcm"
+            "attribute_key": "semai", 
+            "mb_attribute": "Semai", 
+            "source": "http://musicbrainz.org/work/7f689b43-f4f4-4ff1-a2fc-fd1f1e6bd26a"
+        }, 
+        {
+            "attribute_key": "semai", 
+            "mb_tag": "semai", 
+            "source": "http://musicbrainz.org/recording/1d5903b6-24c3-4056-be98-aec246dc77c7"
         }
     ]
 }

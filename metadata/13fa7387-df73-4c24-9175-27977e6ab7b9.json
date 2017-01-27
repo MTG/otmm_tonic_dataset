@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "curcuna", 
-            "mb_attribute": "Curcuna", 
-            "source": "http://musicbrainz.org/work/5fe97db5-f8c0-4e3a-bab8-c578173cae3c"
-        }, 
-        {
-            "attribute_key": "kapali_curcuna", 
-            "mb_tag": "curcuna", 
-            "source": "http://musicbrainz.org/recording/13fa7387-df73-4c24-9175-27977e6ab7b9"
-        }
-    ], 
+    "instrumentation_voicing": "ensemble instrumental", 
     "form": [
         {
             "attribute_key": "turku", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "13fa7387-df73-4c24-9175-27977e6ab7b9", 
+    "works": [
+        {
+            "mbid": "5fe97db5-f8c0-4e3a-bab8-c578173cae3c", 
+            "title": "Sar\u0131 Gelin"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "huseyni", 
@@ -57,11 +52,16 @@
             "name": "Aziz T\u00fcrk Sanat M\u00fczi\u011fi Grubu"
         }
     ], 
-    "instrumentation_voicing": "Ensemble instrumental", 
-    "works": [
+    "usul": [
         {
-            "mbid": "5fe97db5-f8c0-4e3a-bab8-c578173cae3c", 
-            "title": "Sar\u0131 Gelin"
+            "attribute_key": "curcuna", 
+            "mb_attribute": "Curcuna", 
+            "source": "http://musicbrainz.org/work/5fe97db5-f8c0-4e3a-bab8-c578173cae3c"
+        }, 
+        {
+            "attribute_key": "kapali_curcuna", 
+            "mb_tag": "curcuna", 
+            "source": "http://musicbrainz.org/recording/13fa7387-df73-4c24-9175-27977e6ab7b9"
         }
     ]
 }

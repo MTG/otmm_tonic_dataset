@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "aksaksemai", 
-            "mb_attribute": "Aksaksemai", 
-            "source": "http://musicbrainz.org/work/4b3685be-c30a-4b10-8ce6-5bcd2c96b1f3"
-        }, 
-        {
-            "attribute_key": "aksaksemai", 
-            "mb_tag": "aksaksemai", 
-            "source": "http://musicbrainz.org/recording/4041e7ab-b208-4fdb-8305-fa5c3bc0118a"
-        }
-    ], 
+    "instrumentation_voicing": "solo instrumental", 
     "form": [
         {
             "attribute_key": "sazsemaisi", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "4041e7ab-b208-4fdb-8305-fa5c3bc0118a", 
+    "works": [
+        {
+            "mbid": "4b3685be-c30a-4b10-8ce6-5bcd2c96b1f3", 
+            "title": "Hicazkar Sazsemaisi"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "hicazkar", 
@@ -60,11 +55,16 @@
             "name": "Mesut Cemil Bey"
         }
     ], 
-    "instrumentation_voicing": "Solo instrumental", 
-    "works": [
+    "usul": [
         {
-            "mbid": "4b3685be-c30a-4b10-8ce6-5bcd2c96b1f3", 
-            "title": "Hicazkar Sazsemaisi"
+            "attribute_key": "aksaksemai", 
+            "mb_attribute": "Aksaksemai", 
+            "source": "http://musicbrainz.org/work/4b3685be-c30a-4b10-8ce6-5bcd2c96b1f3"
+        }, 
+        {
+            "attribute_key": "aksaksemai", 
+            "mb_tag": "aksaksemai", 
+            "source": "http://musicbrainz.org/recording/4041e7ab-b208-4fdb-8305-fa5c3bc0118a"
         }
     ]
 }

@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "semai", 
-            "mb_attribute": "Semai", 
-            "source": "http://musicbrainz.org/work/a7e45201-167b-4a16-86b3-6c3211a27521"
-        }, 
-        {
-            "attribute_key": "semai", 
-            "mb_tag": "semai", 
-            "source": "http://musicbrainz.org/recording/a1facf99-2565-4e66-b595-397ee79c3a75"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "a1facf99-2565-4e66-b595-397ee79c3a75", 
+    "works": [
+        {
+            "mbid": "a7e45201-167b-4a16-86b3-6c3211a27521", 
+            "title": "Unutur Sanma"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "huzzam", 
@@ -225,11 +220,16 @@
             "name": "Bekir \u00dcnl\u00fcataer"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "a7e45201-167b-4a16-86b3-6c3211a27521", 
-            "title": "Unutur Sanma"
+            "attribute_key": "semai", 
+            "mb_attribute": "Semai", 
+            "source": "http://musicbrainz.org/work/a7e45201-167b-4a16-86b3-6c3211a27521"
+        }, 
+        {
+            "attribute_key": "semai", 
+            "mb_tag": "semai", 
+            "source": "http://musicbrainz.org/recording/a1facf99-2565-4e66-b595-397ee79c3a75"
         }
     ]
 }

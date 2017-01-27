@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "duyek", 
-            "mb_attribute": "D\u00fcyek", 
-            "source": "http://musicbrainz.org/work/2d9ce22c-dba1-489a-b5f3-eb216817616d"
-        }, 
-        {
-            "attribute_key": "duyek", 
-            "mb_tag": "d\u00fcyek", 
-            "source": "http://musicbrainz.org/recording/71d339f2-d567-43da-a3ed-7edb1f644639"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal without accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "71d339f2-d567-43da-a3ed-7edb1f644639", 
+    "works": [
+        {
+            "mbid": "2d9ce22c-dba1-489a-b5f3-eb216817616d", 
+            "title": "A\u011flar Gezerim Sahili Sanki Benimlesin"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "hicaz", 
@@ -57,11 +52,16 @@
             "name": "\u015eehnaz U\u011furel"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal without accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "2d9ce22c-dba1-489a-b5f3-eb216817616d", 
-            "title": "A\u011flar Gezerim Sahili Sanki Benimlesin"
+            "attribute_key": "duyek", 
+            "mb_attribute": "D\u00fcyek", 
+            "source": "http://musicbrainz.org/work/2d9ce22c-dba1-489a-b5f3-eb216817616d"
+        }, 
+        {
+            "attribute_key": "duyek", 
+            "mb_tag": "d\u00fcyek", 
+            "source": "http://musicbrainz.org/recording/71d339f2-d567-43da-a3ed-7edb1f644639"
         }
     ]
 }

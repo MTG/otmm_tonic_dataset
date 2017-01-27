@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "duyek", 
-            "mb_attribute": "D\u00fcyek", 
-            "source": "http://musicbrainz.org/work/cee9dadd-d3f3-4ed9-bc24-133f648a35b3"
-        }, 
-        {
-            "attribute_key": "duyek", 
-            "mb_tag": "d\u00fcyek", 
-            "source": "http://musicbrainz.org/recording/179a80ad-d2e1-42ab-8e2a-b5307322925e"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "179a80ad-d2e1-42ab-8e2a-b5307322925e", 
+    "works": [
+        {
+            "mbid": "cee9dadd-d3f3-4ed9-bc24-133f648a35b3", 
+            "title": "Ak\u015fam Yine \u00c7\u00f6kt\u00fc G\u00f6nl\u00fcme"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "rast", 
@@ -153,11 +148,16 @@
             "name": "Baki Kemanc\u0131"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "cee9dadd-d3f3-4ed9-bc24-133f648a35b3", 
-            "title": "Ak\u015fam Yine \u00c7\u00f6kt\u00fc G\u00f6nl\u00fcme"
+            "attribute_key": "duyek", 
+            "mb_attribute": "D\u00fcyek", 
+            "source": "http://musicbrainz.org/work/cee9dadd-d3f3-4ed9-bc24-133f648a35b3"
+        }, 
+        {
+            "attribute_key": "duyek", 
+            "mb_tag": "d\u00fcyek", 
+            "source": "http://musicbrainz.org/recording/179a80ad-d2e1-42ab-8e2a-b5307322925e"
         }
     ]
 }

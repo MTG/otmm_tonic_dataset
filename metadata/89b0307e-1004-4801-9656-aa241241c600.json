@@ -1,5 +1,11 @@
 {
-    "instrumentation_voicing": "Solo instrumental", 
+    "usul": [
+        {
+            "attribute_key": "serbest", 
+            "mb_tag": "serbest", 
+            "source": "http://musicbrainz.org/recording/89b0307e-1004-4801-9656-aa241241c600"
+        }
+    ], 
     "form": [
         {
             "attribute_key": "taksim", 
@@ -40,11 +46,5 @@
             "name": "Salih Bilgin"
         }
     ], 
-    "usul": [
-        {
-            "attribute_key": "serbest", 
-            "mb_tag": "serbest", 
-            "source": "http://musicbrainz.org/recording/89b0307e-1004-4801-9656-aa241241c600"
-        }
-    ]
+    "instrumentation_voicing": "solo instrumental"
 }

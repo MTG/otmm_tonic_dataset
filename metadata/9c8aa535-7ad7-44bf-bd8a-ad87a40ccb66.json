@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "devrihindi", 
-            "mb_attribute": "Devr-i Hindi", 
-            "source": "http://musicbrainz.org/work/32cca450-5fee-4136-91f4-9cc1ecd3fd50"
-        }, 
-        {
-            "attribute_key": "devrihindi", 
-            "mb_tag": "devr-i hindi", 
-            "source": "http://musicbrainz.org/recording/9c8aa535-7ad7-44bf-bd8a-ad87a40ccb66"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "9c8aa535-7ad7-44bf-bd8a-ad87a40ccb66", 
+    "works": [
+        {
+            "mbid": "32cca450-5fee-4136-91f4-9cc1ecd3fd50", 
+            "title": "Yorgun D\u00fc\u015ft\u00fcm Koklamaktan Hayalini"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "hicaz", 
@@ -225,11 +220,16 @@
             "name": "Tar\u0131k Kemanc\u0131"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "32cca450-5fee-4136-91f4-9cc1ecd3fd50", 
-            "title": "Yorgun D\u00fc\u015ft\u00fcm Koklamaktan Hayalini"
+            "attribute_key": "devrihindi", 
+            "mb_attribute": "Devr-i Hindi", 
+            "source": "http://musicbrainz.org/work/32cca450-5fee-4136-91f4-9cc1ecd3fd50"
+        }, 
+        {
+            "attribute_key": "devrihindi", 
+            "mb_tag": "devr-i hindi", 
+            "source": "http://musicbrainz.org/recording/9c8aa535-7ad7-44bf-bd8a-ad87a40ccb66"
         }
     ]
 }

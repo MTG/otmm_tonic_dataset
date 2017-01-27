@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "agir_aksaksemai", 
-            "mb_attribute": "A\u011f\u0131r Aksaksemai", 
-            "source": "http://musicbrainz.org/work/43161191-a382-4f4a-9601-828ada3b711b"
-        }, 
-        {
-            "attribute_key": "aksaksemai", 
-            "mb_tag": "aksaksemai", 
-            "source": "http://musicbrainz.org/recording/f15aefca-96b4-40fa-b9d7-51c490b03ba9"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "f15aefca-96b4-40fa-b9d7-51c490b03ba9", 
+    "works": [
+        {
+            "mbid": "43161191-a382-4f4a-9601-828ada3b711b", 
+            "title": "Hasret Odu Yakt\u0131 Ci\u011ferim"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "hicaz", 
@@ -62,11 +57,16 @@
             "name": "Bekir S\u0131dk\u0131 Sezgin"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "43161191-a382-4f4a-9601-828ada3b711b", 
-            "title": "Hasret Odu Yakt\u0131 Ci\u011ferim"
+            "attribute_key": "agir_aksaksemai", 
+            "mb_attribute": "A\u011f\u0131r Aksaksemai", 
+            "source": "http://musicbrainz.org/work/43161191-a382-4f4a-9601-828ada3b711b"
+        }, 
+        {
+            "attribute_key": "aksaksemai", 
+            "mb_tag": "aksaksemai", 
+            "source": "http://musicbrainz.org/recording/f15aefca-96b4-40fa-b9d7-51c490b03ba9"
         }
     ]
 }

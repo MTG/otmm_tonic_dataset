@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "aksaksemai", 
-            "mb_attribute": "Aksaksemai", 
-            "source": "http://musicbrainz.org/work/7d338307-ca89-4b5c-b93e-c797d0a4bf8d"
-        }, 
-        {
-            "attribute_key": "aksaksemai", 
-            "mb_tag": "aksaksemai", 
-            "source": "http://musicbrainz.org/recording/adf845de-f2a5-48f2-91c3-862d4fbca705"
-        }
-    ], 
+    "instrumentation_voicing": "duo instrumental", 
     "form": [
         {
             "attribute_key": "sazsemaisi", 
@@ -42,6 +31,12 @@
         }
     ], 
     "mbid": "adf845de-f2a5-48f2-91c3-862d4fbca705", 
+    "works": [
+        {
+            "mbid": "7d338307-ca89-4b5c-b93e-c797d0a4bf8d", 
+            "title": "\u015eevkefza Sazsemaisi"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "sevkefza", 
@@ -72,11 +67,16 @@
             "name": "Necdet Ya\u015far"
         }
     ], 
-    "instrumentation_voicing": "Duo instrumental", 
-    "works": [
+    "usul": [
         {
-            "mbid": "7d338307-ca89-4b5c-b93e-c797d0a4bf8d", 
-            "title": "\u015eevkefza Sazsemaisi"
+            "attribute_key": "aksaksemai", 
+            "mb_attribute": "Aksaksemai", 
+            "source": "http://musicbrainz.org/work/7d338307-ca89-4b5c-b93e-c797d0a4bf8d"
+        }, 
+        {
+            "attribute_key": "aksaksemai", 
+            "mb_tag": "aksaksemai", 
+            "source": "http://musicbrainz.org/recording/adf845de-f2a5-48f2-91c3-862d4fbca705"
         }
     ]
 }

@@ -1,11 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "aksaksemai", 
-            "mb_attribute": "Aksaksemai", 
-            "source": "http://musicbrainz.org/work/bbdb01a7-a8d9-4571-861c-3de1b671a498"
-        }
-    ], 
+    "instrumentation_voicing": "duo instrumental", 
     "form": [
         {
             "attribute_key": "sazsemaisi", 
@@ -37,6 +31,12 @@
         }
     ], 
     "mbid": "2f356ede-270c-4632-a072-0e421ecd2212", 
+    "works": [
+        {
+            "mbid": "bbdb01a7-a8d9-4571-861c-3de1b671a498", 
+            "title": "B\u00fbselik Saz Sem\u00e2\u00eesi"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "buselik", 
@@ -67,11 +67,11 @@
             "name": "Mutlu Torun"
         }
     ], 
-    "instrumentation_voicing": "Duo instrumental", 
-    "works": [
+    "usul": [
         {
-            "mbid": "bbdb01a7-a8d9-4571-861c-3de1b671a498", 
-            "title": "B\u00fbselik Saz Sem\u00e2\u00eesi"
+            "attribute_key": "aksaksemai", 
+            "mb_attribute": "Aksaksemai", 
+            "source": "http://musicbrainz.org/work/bbdb01a7-a8d9-4571-861c-3de1b671a498"
         }
     ]
 }

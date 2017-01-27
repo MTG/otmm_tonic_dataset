@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "aksaksemai", 
-            "mb_attribute": "Aksaksemai", 
-            "source": "http://musicbrainz.org/work/024a6e39-5537-4bb3-9edc-c4fb083fc649"
-        }, 
-        {
-            "attribute_key": "aksaksemai", 
-            "mb_tag": "aksaksemai", 
-            "source": "http://musicbrainz.org/recording/567b1d9a-a046-4990-a203-247ef1824181"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "agirsemai", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "567b1d9a-a046-4990-a203-247ef1824181", 
+    "works": [
+        {
+            "mbid": "024a6e39-5537-4bb3-9edc-c4fb083fc649", 
+            "title": "Usand\u0131rd\u0131m m\u0131"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "huzzam", 
@@ -62,11 +57,16 @@
             "name": "Bekir S\u0131dk\u0131 Sezgin"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "024a6e39-5537-4bb3-9edc-c4fb083fc649", 
-            "title": "Usand\u0131rd\u0131m m\u0131"
+            "attribute_key": "aksaksemai", 
+            "mb_attribute": "Aksaksemai", 
+            "source": "http://musicbrainz.org/work/024a6e39-5537-4bb3-9edc-c4fb083fc649"
+        }, 
+        {
+            "attribute_key": "aksaksemai", 
+            "mb_tag": "aksaksemai", 
+            "source": "http://musicbrainz.org/recording/567b1d9a-a046-4990-a203-247ef1824181"
         }
     ]
 }

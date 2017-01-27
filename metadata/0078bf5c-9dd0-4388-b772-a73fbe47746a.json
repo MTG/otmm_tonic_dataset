@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "yuruksemai", 
-            "mb_attribute": "Y\u00fcr\u00fcksemai", 
-            "source": "http://musicbrainz.org/work/3167a194-6ec6-4f83-af47-9193176e5feb"
-        }, 
-        {
-            "attribute_key": "yuruksemai", 
-            "mb_tag": "y\u00fcr\u00fcksemai", 
-            "source": "http://musicbrainz.org/recording/0078bf5c-9dd0-4388-b772-a73fbe47746a"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "0078bf5c-9dd0-4388-b772-a73fbe47746a", 
+    "works": [
+        {
+            "mbid": "3167a194-6ec6-4f83-af47-9193176e5feb", 
+            "title": "G\u00fclmedi \u015eu Baht\u0131m"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "hicaz", 
@@ -225,11 +220,16 @@
             "name": "Bekir \u00dcnl\u00fcataer"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "3167a194-6ec6-4f83-af47-9193176e5feb", 
-            "title": "G\u00fclmedi \u015eu Baht\u0131m"
+            "attribute_key": "yuruksemai", 
+            "mb_attribute": "Y\u00fcr\u00fcksemai", 
+            "source": "http://musicbrainz.org/work/3167a194-6ec6-4f83-af47-9193176e5feb"
+        }, 
+        {
+            "attribute_key": "yuruksemai", 
+            "mb_tag": "y\u00fcr\u00fcksemai", 
+            "source": "http://musicbrainz.org/recording/0078bf5c-9dd0-4388-b772-a73fbe47746a"
         }
     ]
 }

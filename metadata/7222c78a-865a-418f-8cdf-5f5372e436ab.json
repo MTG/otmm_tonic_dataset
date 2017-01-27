@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "aksak", 
-            "mb_attribute": "Aksak", 
-            "source": "http://musicbrainz.org/work/1ccd4414-bbc6-4ee8-b9a1-7cc6408f1ddc"
-        }, 
-        {
-            "attribute_key": "aksak", 
-            "mb_tag": "aksak", 
-            "source": "http://musicbrainz.org/recording/7222c78a-865a-418f-8cdf-5f5372e436ab"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "7222c78a-865a-418f-8cdf-5f5372e436ab", 
+    "works": [
+        {
+            "mbid": "1ccd4414-bbc6-4ee8-b9a1-7cc6408f1ddc", 
+            "title": "Her Zahm-\u0131 Ciger Suza"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "hicaz", 
@@ -84,11 +79,16 @@
             "name": "[unknown]"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "1ccd4414-bbc6-4ee8-b9a1-7cc6408f1ddc", 
-            "title": "Her Zahm-\u0131 Ciger Suza"
+            "attribute_key": "aksak", 
+            "mb_attribute": "Aksak", 
+            "source": "http://musicbrainz.org/work/1ccd4414-bbc6-4ee8-b9a1-7cc6408f1ddc"
+        }, 
+        {
+            "attribute_key": "aksak", 
+            "mb_tag": "aksak", 
+            "source": "http://musicbrainz.org/recording/7222c78a-865a-418f-8cdf-5f5372e436ab"
         }
     ]
 }

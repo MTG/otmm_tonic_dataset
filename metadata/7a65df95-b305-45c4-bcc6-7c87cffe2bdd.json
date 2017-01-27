@@ -1,5 +1,11 @@
 {
-    "instrumentation_voicing": "Solo vocal without accompaniment", 
+    "usul": [
+        {
+            "attribute_key": "serbest", 
+            "mb_tag": "serbest", 
+            "source": "http://musicbrainz.org/recording/7a65df95-b305-45c4-bcc6-7c87cffe2bdd"
+        }
+    ], 
     "form": [
         {
             "attribute_key": "gazel", 
@@ -36,11 +42,5 @@
             "name": "N. Bey"
         }
     ], 
-    "usul": [
-        {
-            "attribute_key": "serbest", 
-            "mb_tag": "serbest", 
-            "source": "http://musicbrainz.org/recording/7a65df95-b305-45c4-bcc6-7c87cffe2bdd"
-        }
-    ]
+    "instrumentation_voicing": "solo vocal without accompaniment"
 }

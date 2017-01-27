@@ -1,5 +1,11 @@
 {
-    "instrumentation_voicing": "Solo vocal without accompaniment", 
+    "usul": [
+        {
+            "attribute_key": "serbest", 
+            "mb_tag": "serbest", 
+            "source": "http://musicbrainz.org/recording/632656b7-6a0f-476a-80cd-ced396bdb57c"
+        }
+    ], 
     "form": [
         {
             "attribute_key": "gazel", 
@@ -36,11 +42,5 @@
             "name": "Ahmet Celal Tokses"
         }
     ], 
-    "usul": [
-        {
-            "attribute_key": "serbest", 
-            "mb_tag": "serbest", 
-            "source": "http://musicbrainz.org/recording/632656b7-6a0f-476a-80cd-ced396bdb57c"
-        }
-    ]
+    "instrumentation_voicing": "solo vocal without accompaniment"
 }

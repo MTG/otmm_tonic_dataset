@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "evsat", 
-            "mb_attribute": "Evsat", 
-            "source": "http://musicbrainz.org/work/0a47662e-c58b-4395-bbd7-b846eac81ee9"
-        }, 
-        {
-            "attribute_key": "evsat", 
-            "mb_tag": "evsat", 
-            "source": "http://musicbrainz.org/recording/61859472-d87c-4cc7-b91d-f3f16128a3e0"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal without accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "61859472-d87c-4cc7-b91d-f3f16128a3e0", 
+    "works": [
+        {
+            "mbid": "0a47662e-c58b-4395-bbd7-b846eac81ee9", 
+            "title": "Ni\u00e7in A Sevdi\u011fim Ni\u00e7in"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "hicaz_humayun", 
@@ -57,11 +52,16 @@
             "name": "Isaac Algazi"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal without accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "0a47662e-c58b-4395-bbd7-b846eac81ee9", 
-            "title": "Ni\u00e7in A Sevdi\u011fim Ni\u00e7in"
+            "attribute_key": "evsat", 
+            "mb_attribute": "Evsat", 
+            "source": "http://musicbrainz.org/work/0a47662e-c58b-4395-bbd7-b846eac81ee9"
+        }, 
+        {
+            "attribute_key": "evsat", 
+            "mb_tag": "evsat", 
+            "source": "http://musicbrainz.org/recording/61859472-d87c-4cc7-b91d-f3f16128a3e0"
         }
     ]
 }

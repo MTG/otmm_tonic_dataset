@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "curcuna", 
-            "mb_attribute": "Curcuna", 
-            "source": "http://musicbrainz.org/work/ef3ad924-c6aa-4c61-b221-248115ac0115"
-        }, 
-        {
-            "attribute_key": "kapali_curcuna", 
-            "mb_tag": "curcuna", 
-            "source": "http://musicbrainz.org/recording/6636dede-4870-4076-a2b1-3e1e0786e6c2"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal without accompaniment", 
     "form": [
         {
             "attribute_key": "turku", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "6636dede-4870-4076-a2b1-3e1e0786e6c2", 
+    "works": [
+        {
+            "mbid": "ef3ad924-c6aa-4c61-b221-248115ac0115", 
+            "title": "All\u0131 Yemeni"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "segah", 
@@ -57,11 +52,16 @@
             "name": "M\u00fcnir Nurettin Sel\u00e7uk"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal without accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "ef3ad924-c6aa-4c61-b221-248115ac0115", 
-            "title": "All\u0131 Yemeni"
+            "attribute_key": "curcuna", 
+            "mb_attribute": "Curcuna", 
+            "source": "http://musicbrainz.org/work/ef3ad924-c6aa-4c61-b221-248115ac0115"
+        }, 
+        {
+            "attribute_key": "kapali_curcuna", 
+            "mb_tag": "curcuna", 
+            "source": "http://musicbrainz.org/recording/6636dede-4870-4076-a2b1-3e1e0786e6c2"
         }
     ]
 }

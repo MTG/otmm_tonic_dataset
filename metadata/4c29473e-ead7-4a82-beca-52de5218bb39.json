@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "nimevsat", 
-            "mb_attribute": "Nimevsat", 
-            "source": "http://musicbrainz.org/work/b7ce64e9-261b-4f83-b9da-55c0c7c96eb9"
-        }, 
-        {
-            "attribute_key": "nimevsat", 
-            "mb_tag": "nimevsat", 
-            "source": "http://musicbrainz.org/recording/4c29473e-ead7-4a82-beca-52de5218bb39"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "ilahi", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "4c29473e-ead7-4a82-beca-52de5218bb39", 
+    "works": [
+        {
+            "mbid": "b7ce64e9-261b-4f83-b9da-55c0c7c96eb9", 
+            "title": "Nur \u0130le Doldu Yine"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "acemkurdi", 
@@ -65,11 +60,16 @@
             "name": "[unknown]"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "b7ce64e9-261b-4f83-b9da-55c0c7c96eb9", 
-            "title": "Nur \u0130le Doldu Yine"
+            "attribute_key": "nimevsat", 
+            "mb_attribute": "Nimevsat", 
+            "source": "http://musicbrainz.org/work/b7ce64e9-261b-4f83-b9da-55c0c7c96eb9"
+        }, 
+        {
+            "attribute_key": "nimevsat", 
+            "mb_tag": "nimevsat", 
+            "source": "http://musicbrainz.org/recording/4c29473e-ead7-4a82-beca-52de5218bb39"
         }
     ]
 }

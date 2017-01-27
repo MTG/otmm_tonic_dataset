@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "duyek", 
-            "mb_attribute": "D\u00fcyek", 
-            "source": "http://musicbrainz.org/work/e025e91e-b560-44f1-93e9-101254666798"
-        }, 
-        {
-            "attribute_key": "duyek", 
-            "mb_tag": "d\u00fcyek", 
-            "source": "http://musicbrainz.org/recording/69f34475-b628-4fc2-a6fa-d58a90242598"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "kupe", 
@@ -54,6 +43,12 @@
         }
     ], 
     "mbid": "69f34475-b628-4fc2-a6fa-d58a90242598", 
+    "works": [
+        {
+            "mbid": "e025e91e-b560-44f1-93e9-101254666798", 
+            "title": "Ger\u00e7i Pek Esmer Olur"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "hicaz", 
@@ -106,11 +101,16 @@
             "name": "Sava\u015f \u015e. Bark\u00e7in"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "e025e91e-b560-44f1-93e9-101254666798", 
-            "title": "Ger\u00e7i Pek Esmer Olur"
+            "attribute_key": "duyek", 
+            "mb_attribute": "D\u00fcyek", 
+            "source": "http://musicbrainz.org/work/e025e91e-b560-44f1-93e9-101254666798"
+        }, 
+        {
+            "attribute_key": "duyek", 
+            "mb_tag": "d\u00fcyek", 
+            "source": "http://musicbrainz.org/recording/69f34475-b628-4fc2-a6fa-d58a90242598"
         }
     ]
 }

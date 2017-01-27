@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "aksak", 
-            "mb_attribute": "Aksak", 
-            "source": "http://musicbrainz.org/work/4d52e24d-8432-3c49-988a-16e0310a062b"
-        }, 
-        {
-            "attribute_key": "aksak", 
-            "mb_tag": "aksak", 
-            "source": "http://musicbrainz.org/recording/8aa0a6f8-4a44-4588-bebb-f55f23376c51"
-        }
-    ], 
+    "instrumentation_voicing": "solo instrumental", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "8aa0a6f8-4a44-4588-bebb-f55f23376c51", 
+    "works": [
+        {
+            "mbid": "4d52e24d-8432-3c49-988a-16e0310a062b", 
+            "title": "Bir Bahar Ak\u015fam\u0131"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "hicaz", 
@@ -60,11 +55,16 @@
             "name": "Ergin K\u0131z\u0131lay"
         }
     ], 
-    "instrumentation_voicing": "Solo instrumental", 
-    "works": [
+    "usul": [
         {
-            "mbid": "4d52e24d-8432-3c49-988a-16e0310a062b", 
-            "title": "Bir Bahar Ak\u015fam\u0131"
+            "attribute_key": "aksak", 
+            "mb_attribute": "Aksak", 
+            "source": "http://musicbrainz.org/work/4d52e24d-8432-3c49-988a-16e0310a062b"
+        }, 
+        {
+            "attribute_key": "aksak", 
+            "mb_tag": "aksak", 
+            "source": "http://musicbrainz.org/recording/8aa0a6f8-4a44-4588-bebb-f55f23376c51"
         }
     ]
 }

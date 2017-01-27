@@ -1,5 +1,11 @@
 {
-    "instrumentation_voicing": "Solo instrumental", 
+    "usul": [
+        {
+            "attribute_key": "serbest", 
+            "mb_tag": "serbest", 
+            "source": "http://musicbrainz.org/recording/403fc6d6-899b-41eb-90bd-8fd948e3bfd9"
+        }
+    ], 
     "form": [
         {
             "attribute_key": "taksim", 
@@ -39,11 +45,5 @@
             "name": "Tanburi Cemil Bey"
         }
     ], 
-    "usul": [
-        {
-            "attribute_key": "serbest", 
-            "mb_tag": "serbest", 
-            "source": "http://musicbrainz.org/recording/403fc6d6-899b-41eb-90bd-8fd948e3bfd9"
-        }
-    ]
+    "instrumentation_voicing": "solo instrumental"
 }

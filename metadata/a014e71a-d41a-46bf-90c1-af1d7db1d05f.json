@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "duyek", 
-            "mb_attribute": "D\u00fcyek", 
-            "source": "http://musicbrainz.org/work/bf42da33-ee08-4565-a13e-02a0ce487289"
-        }, 
-        {
-            "attribute_key": "duyek", 
-            "mb_tag": "d\u00fcyek", 
-            "source": "http://musicbrainz.org/recording/a014e71a-d41a-46bf-90c1-af1d7db1d05f"
-        }
-    ], 
+    "instrumentation_voicing": "ensemble instrumental", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "a014e71a-d41a-46bf-90c1-af1d7db1d05f", 
+    "works": [
+        {
+            "mbid": "bf42da33-ee08-4565-a13e-02a0ce487289", 
+            "title": "Sensiz Kalan G\u00f6nl\u00fcmde"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "rast", 
@@ -57,11 +52,16 @@
             "name": "Aziz T\u00fcrk Sanat M\u00fczi\u011fi Grubu"
         }
     ], 
-    "instrumentation_voicing": "Ensemble instrumental", 
-    "works": [
+    "usul": [
         {
-            "mbid": "bf42da33-ee08-4565-a13e-02a0ce487289", 
-            "title": "Sensiz Kalan G\u00f6nl\u00fcmde"
+            "attribute_key": "duyek", 
+            "mb_attribute": "D\u00fcyek", 
+            "source": "http://musicbrainz.org/work/bf42da33-ee08-4565-a13e-02a0ce487289"
+        }, 
+        {
+            "attribute_key": "duyek", 
+            "mb_tag": "d\u00fcyek", 
+            "source": "http://musicbrainz.org/recording/a014e71a-d41a-46bf-90c1-af1d7db1d05f"
         }
     ]
 }

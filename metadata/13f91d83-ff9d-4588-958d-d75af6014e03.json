@@ -1,11 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "berefsan", 
-            "mb_attribute": "Beref\u015fan", 
-            "source": "http://musicbrainz.org/work/4124e972-4278-4638-922b-81ad4db9f49f"
-        }
-    ], 
+    "instrumentation_voicing": "trio instrumental", 
     "form": [
         {
             "attribute_key": "pesrev", 
@@ -41,6 +35,12 @@
         }
     ], 
     "mbid": "13f91d83-ff9d-4588-958d-d75af6014e03", 
+    "works": [
+        {
+            "mbid": "4124e972-4278-4638-922b-81ad4db9f49f", 
+            "title": "K\u00fcrdi Pe\u015frevi"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "kurdi", 
@@ -79,11 +79,11 @@
             "name": "U\u011fur I\u015f\u0131k"
         }
     ], 
-    "instrumentation_voicing": "Trio instrumental", 
-    "works": [
+    "usul": [
         {
-            "mbid": "4124e972-4278-4638-922b-81ad4db9f49f", 
-            "title": "K\u00fcrdi Pe\u015frevi"
+            "attribute_key": "berefsan", 
+            "mb_attribute": "Beref\u015fan", 
+            "source": "http://musicbrainz.org/work/4124e972-4278-4638-922b-81ad4db9f49f"
         }
     ]
 }

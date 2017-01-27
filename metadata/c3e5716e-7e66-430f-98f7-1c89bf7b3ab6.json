@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "serbest", 
-            "mb_attribute": "Serbest", 
-            "source": "http://musicbrainz.org/work/761774a8-acdd-46ba-ad00-430ce63acf0a"
-        }, 
-        {
-            "attribute_key": "serbest", 
-            "mb_tag": "serbest", 
-            "source": "http://musicbrainz.org/recording/c3e5716e-7e66-430f-98f7-1c89bf7b3ab6"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "turku", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "c3e5716e-7e66-430f-98f7-1c89bf7b3ab6", 
+    "works": [
+        {
+            "mbid": "761774a8-acdd-46ba-ad00-430ce63acf0a", 
+            "title": "T\u00fcrkmen K\u0131z\u0131"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "huseyni", 
@@ -91,11 +86,16 @@
             "name": "Hasan Esen"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "761774a8-acdd-46ba-ad00-430ce63acf0a", 
-            "title": "T\u00fcrkmen K\u0131z\u0131"
+            "attribute_key": "serbest", 
+            "mb_attribute": "Serbest", 
+            "source": "http://musicbrainz.org/work/761774a8-acdd-46ba-ad00-430ce63acf0a"
+        }, 
+        {
+            "attribute_key": "serbest", 
+            "mb_tag": "serbest", 
+            "source": "http://musicbrainz.org/recording/c3e5716e-7e66-430f-98f7-1c89bf7b3ab6"
         }
     ]
 }

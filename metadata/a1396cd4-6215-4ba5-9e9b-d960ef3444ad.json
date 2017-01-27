@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "aksak", 
-            "mb_attribute": "Aksak", 
-            "source": "http://musicbrainz.org/work/e83ed535-f3fa-46f9-9eae-87dc339f5343"
-        }, 
-        {
-            "attribute_key": "ciftesofyan", 
-            "mb_tag": "\u00e7iftesofyan", 
-            "source": "http://musicbrainz.org/recording/a1396cd4-6215-4ba5-9e9b-d960ef3444ad"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal without accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "a1396cd4-6215-4ba5-9e9b-d960ef3444ad", 
+    "works": [
+        {
+            "mbid": "e83ed535-f3fa-46f9-9eae-87dc339f5343", 
+            "title": "Havaland\u0131 G\u00f6n\u00fcl Ku\u015fu"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "huzzam", 
@@ -57,11 +52,16 @@
             "name": "M\u00fcnir Nurettin Sel\u00e7uk"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal without accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "e83ed535-f3fa-46f9-9eae-87dc339f5343", 
-            "title": "Havaland\u0131 G\u00f6n\u00fcl Ku\u015fu"
+            "attribute_key": "aksak", 
+            "mb_attribute": "Aksak", 
+            "source": "http://musicbrainz.org/work/e83ed535-f3fa-46f9-9eae-87dc339f5343"
+        }, 
+        {
+            "attribute_key": "ciftesofyan", 
+            "mb_tag": "\u00e7iftesofyan", 
+            "source": "http://musicbrainz.org/recording/a1396cd4-6215-4ba5-9e9b-d960ef3444ad"
         }
     ]
 }

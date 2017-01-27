@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "agirduyek", 
-            "mb_attribute": "A\u011f\u0131rd\u00fcyek", 
-            "source": "http://musicbrainz.org/work/72222f36-76f1-4663-a5bf-d16f7af09dfa"
-        }, 
-        {
-            "attribute_key": "agirduyek", 
-            "mb_tag": "a\u011f\u0131rd\u00fcyek", 
-            "source": "http://musicbrainz.org/recording/feb8c6a4-f5b0-4888-b80a-72faccf6cdb1"
-        }
-    ], 
+    "instrumentation_voicing": "duo instrumental", 
     "form": [
         {
             "attribute_key": "pesrev", 
@@ -42,6 +31,12 @@
         }
     ], 
     "mbid": "feb8c6a4-f5b0-4888-b80a-72faccf6cdb1", 
+    "works": [
+        {
+            "mbid": "72222f36-76f1-4663-a5bf-d16f7af09dfa", 
+            "title": "Suzidilara Pe\u015frev"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "suzidilara", 
@@ -72,11 +67,16 @@
             "name": "\u00d6zer \u00d6zel"
         }
     ], 
-    "instrumentation_voicing": "Duo instrumental", 
-    "works": [
+    "usul": [
         {
-            "mbid": "72222f36-76f1-4663-a5bf-d16f7af09dfa", 
-            "title": "Suzidilara Pe\u015frev"
+            "attribute_key": "agirduyek", 
+            "mb_attribute": "A\u011f\u0131rd\u00fcyek", 
+            "source": "http://musicbrainz.org/work/72222f36-76f1-4663-a5bf-d16f7af09dfa"
+        }, 
+        {
+            "attribute_key": "agirduyek", 
+            "mb_tag": "a\u011f\u0131rd\u00fcyek", 
+            "source": "http://musicbrainz.org/recording/feb8c6a4-f5b0-4888-b80a-72faccf6cdb1"
         }
     ]
 }

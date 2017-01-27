@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "aksak", 
-            "mb_attribute": "Aksak", 
-            "source": "http://musicbrainz.org/work/c9526221-1397-4fea-81b0-50f0c1b305d1"
-        }, 
-        {
-            "attribute_key": "aksak", 
-            "mb_tag": "aksak", 
-            "source": "http://musicbrainz.org/recording/e259c2cc-6b0c-402b-a1a8-6396beab7e3f"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "turku", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "e259c2cc-6b0c-402b-a1a8-6396beab7e3f", 
+    "works": [
+        {
+            "mbid": "c9526221-1397-4fea-81b0-50f0c1b305d1", 
+            "title": "Y\u00fcce Da\u011f Ba\u015f\u0131nda Yatm\u0131\u015f"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "huseyni", 
@@ -62,11 +57,16 @@
             "name": "Meral U\u011furlu"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "c9526221-1397-4fea-81b0-50f0c1b305d1", 
-            "title": "Y\u00fcce Da\u011f Ba\u015f\u0131nda Yatm\u0131\u015f"
+            "attribute_key": "aksak", 
+            "mb_attribute": "Aksak", 
+            "source": "http://musicbrainz.org/work/c9526221-1397-4fea-81b0-50f0c1b305d1"
+        }, 
+        {
+            "attribute_key": "aksak", 
+            "mb_tag": "aksak", 
+            "source": "http://musicbrainz.org/recording/e259c2cc-6b0c-402b-a1a8-6396beab7e3f"
         }
     ]
 }

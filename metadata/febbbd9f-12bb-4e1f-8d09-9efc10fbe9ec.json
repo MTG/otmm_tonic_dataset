@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "curcuna", 
-            "mb_attribute": "Curcuna", 
-            "source": "http://musicbrainz.org/work/6841c94e-0228-4e39-a573-4ad8a29224d4"
-        }, 
-        {
-            "attribute_key": "kapali_curcuna", 
-            "mb_tag": "curcuna", 
-            "source": "http://musicbrainz.org/recording/febbbd9f-12bb-4e1f-8d09-9efc10fbe9ec"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal without accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "febbbd9f-12bb-4e1f-8d09-9efc10fbe9ec", 
+    "works": [
+        {
+            "mbid": "6841c94e-0228-4e39-a573-4ad8a29224d4", 
+            "title": "\u00c7\u0131kar Y\u00fccelerden"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "huzzam", 
@@ -57,11 +52,16 @@
             "name": "Zeki M\u00fcren"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal without accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "6841c94e-0228-4e39-a573-4ad8a29224d4", 
-            "title": "\u00c7\u0131kar Y\u00fccelerden"
+            "attribute_key": "curcuna", 
+            "mb_attribute": "Curcuna", 
+            "source": "http://musicbrainz.org/work/6841c94e-0228-4e39-a573-4ad8a29224d4"
+        }, 
+        {
+            "attribute_key": "kapali_curcuna", 
+            "mb_tag": "curcuna", 
+            "source": "http://musicbrainz.org/recording/febbbd9f-12bb-4e1f-8d09-9efc10fbe9ec"
         }
     ]
 }

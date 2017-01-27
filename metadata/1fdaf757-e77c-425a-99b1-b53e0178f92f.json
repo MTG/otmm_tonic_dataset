@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "sofyan", 
-            "mb_attribute": "Sofyan", 
-            "source": "http://musicbrainz.org/work/40950656-d3c2-4567-a8e1-bb12007b0a08"
-        }, 
-        {
-            "attribute_key": "sofyan", 
-            "mb_tag": "sofyan", 
-            "source": "http://musicbrainz.org/recording/1fdaf757-e77c-425a-99b1-b53e0178f92f"
-        }
-    ], 
+    "instrumentation_voicing": "solo instrumental", 
     "form": [
         {
             "attribute_key": "ilahi", 
@@ -42,6 +31,12 @@
         }
     ], 
     "mbid": "1fdaf757-e77c-425a-99b1-b53e0178f92f", 
+    "works": [
+        {
+            "mbid": "40950656-d3c2-4567-a8e1-bb12007b0a08", 
+            "title": "Acep L\u00fctfun Seherinde"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "segah", 
@@ -64,11 +59,16 @@
             "name": "[unknown]"
         }
     ], 
-    "instrumentation_voicing": "Solo instrumental", 
-    "works": [
+    "usul": [
         {
-            "mbid": "40950656-d3c2-4567-a8e1-bb12007b0a08", 
-            "title": "Acep L\u00fctfun Seherinde"
+            "attribute_key": "sofyan", 
+            "mb_attribute": "Sofyan", 
+            "source": "http://musicbrainz.org/work/40950656-d3c2-4567-a8e1-bb12007b0a08"
+        }, 
+        {
+            "attribute_key": "sofyan", 
+            "mb_tag": "sofyan", 
+            "source": "http://musicbrainz.org/recording/1fdaf757-e77c-425a-99b1-b53e0178f92f"
         }
     ]
 }

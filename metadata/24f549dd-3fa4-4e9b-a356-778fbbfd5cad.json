@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "devrihindi", 
-            "mb_attribute": "Devr-i Hindi", 
-            "source": "http://musicbrainz.org/work/291c258f-1108-4810-8b4a-9f5b4fb97d47"
-        }, 
-        {
-            "attribute_key": "devrihindi", 
-            "mb_tag": "devr-i hindi", 
-            "source": "http://musicbrainz.org/recording/24f549dd-3fa4-4e9b-a356-778fbbfd5cad"
-        }
-    ], 
+    "instrumentation_voicing": "ensemble instrumental", 
     "form": [
         {
             "attribute_key": "ilahi", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "24f549dd-3fa4-4e9b-a356-778fbbfd5cad", 
+    "works": [
+        {
+            "mbid": "291c258f-1108-4810-8b4a-9f5b4fb97d47", 
+            "title": "Elveda Bizden Sana"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "acemasiran", 
@@ -62,11 +57,16 @@
             "name": "Ahmet \u00d6zhan"
         }
     ], 
-    "instrumentation_voicing": "Ensemble instrumental", 
-    "works": [
+    "usul": [
         {
-            "mbid": "291c258f-1108-4810-8b4a-9f5b4fb97d47", 
-            "title": "Elveda Bizden Sana"
+            "attribute_key": "devrihindi", 
+            "mb_attribute": "Devr-i Hindi", 
+            "source": "http://musicbrainz.org/work/291c258f-1108-4810-8b4a-9f5b4fb97d47"
+        }, 
+        {
+            "attribute_key": "devrihindi", 
+            "mb_tag": "devr-i hindi", 
+            "source": "http://musicbrainz.org/recording/24f549dd-3fa4-4e9b-a356-778fbbfd5cad"
         }
     ]
 }

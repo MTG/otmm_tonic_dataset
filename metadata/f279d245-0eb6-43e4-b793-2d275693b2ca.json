@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "yuruksemai", 
-            "mb_attribute": "Y\u00fcr\u00fcksemai", 
-            "source": "http://musicbrainz.org/work/e3cb3d21-c9b1-49e9-bc74-4b2d850ed47a"
-        }, 
-        {
-            "attribute_key": "yuruksemai", 
-            "mb_tag": "y\u00fcr\u00fcksemai", 
-            "source": "http://musicbrainz.org/recording/f279d245-0eb6-43e4-b793-2d275693b2ca"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "yuruksemai", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "f279d245-0eb6-43e4-b793-2d275693b2ca", 
+    "works": [
+        {
+            "mbid": "e3cb3d21-c9b1-49e9-bc74-4b2d850ed47a", 
+            "title": "\u015ead Eyledi Can \u00fc Dilimi Ruh-i Revan\u0131m"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "sultaniyegah", 
@@ -92,11 +87,16 @@
             "name": "Do\u011fan Dikmen"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "e3cb3d21-c9b1-49e9-bc74-4b2d850ed47a", 
-            "title": "\u015ead Eyledi Can \u00fc Dilimi Ruh-i Revan\u0131m"
+            "attribute_key": "yuruksemai", 
+            "mb_attribute": "Y\u00fcr\u00fcksemai", 
+            "source": "http://musicbrainz.org/work/e3cb3d21-c9b1-49e9-bc74-4b2d850ed47a"
+        }, 
+        {
+            "attribute_key": "yuruksemai", 
+            "mb_tag": "y\u00fcr\u00fcksemai", 
+            "source": "http://musicbrainz.org/recording/f279d245-0eb6-43e4-b793-2d275693b2ca"
         }
     ]
 }

@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "duyek", 
-            "mb_attribute": "D\u00fcyek", 
-            "source": "http://musicbrainz.org/work/0fc4212e-c3e4-4240-bc83-45cbba000876"
-        }, 
-        {
-            "attribute_key": "duyek", 
-            "mb_tag": "d\u00fcyek", 
-            "source": "http://musicbrainz.org/recording/d461a2ae-239a-47f9-b3e6-dfffc6a1c944"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -33,6 +22,12 @@
         }
     ], 
     "mbid": "d461a2ae-239a-47f9-b3e6-dfffc6a1c944", 
+    "works": [
+        {
+            "mbid": "0fc4212e-c3e4-4240-bc83-45cbba000876", 
+            "title": "R\u00fczgar S\u00f6yl\u00fcyor"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "muhayyerkurdi", 
@@ -60,11 +55,16 @@
             "name": "Aziz T\u00fcrk Sanat M\u00fczi\u011fi Grubu"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "0fc4212e-c3e4-4240-bc83-45cbba000876", 
-            "title": "R\u00fczgar S\u00f6yl\u00fcyor"
+            "attribute_key": "duyek", 
+            "mb_attribute": "D\u00fcyek", 
+            "source": "http://musicbrainz.org/work/0fc4212e-c3e4-4240-bc83-45cbba000876"
+        }, 
+        {
+            "attribute_key": "duyek", 
+            "mb_tag": "d\u00fcyek", 
+            "source": "http://musicbrainz.org/recording/d461a2ae-239a-47f9-b3e6-dfffc6a1c944"
         }
     ]
 }

@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "semai", 
-            "mb_attribute": "Semai", 
-            "source": "http://musicbrainz.org/work/fc8e50e8-7697-4a2e-b53c-04ec826c5029"
-        }, 
-        {
-            "attribute_key": "semai", 
-            "mb_tag": "semai", 
-            "source": "http://musicbrainz.org/recording/5e5c9094-38af-4ad1-85d5-ccf3b4d3d0db"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "5e5c9094-38af-4ad1-85d5-ccf3b4d3d0db", 
+    "works": [
+        {
+            "mbid": "fc8e50e8-7697-4a2e-b53c-04ec826c5029", 
+            "title": "Sar\u0131 Mimozams\u0131n"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "hicazkar", 
@@ -62,11 +57,16 @@
             "name": "Alaeddin Yava\u015fca"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "fc8e50e8-7697-4a2e-b53c-04ec826c5029", 
-            "title": "Sar\u0131 Mimozams\u0131n"
+            "attribute_key": "semai", 
+            "mb_attribute": "Semai", 
+            "source": "http://musicbrainz.org/work/fc8e50e8-7697-4a2e-b53c-04ec826c5029"
+        }, 
+        {
+            "attribute_key": "semai", 
+            "mb_tag": "semai", 
+            "source": "http://musicbrainz.org/recording/5e5c9094-38af-4ad1-85d5-ccf3b4d3d0db"
         }
     ]
 }

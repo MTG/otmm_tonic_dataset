@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "aksak", 
-            "mb_attribute": "Aksak", 
-            "source": "http://musicbrainz.org/work/30cdf1c2-8dc3-4612-9513-a5d7f523a889"
-        }, 
-        {
-            "attribute_key": "aksak", 
-            "mb_tag": "aksak", 
-            "source": "http://musicbrainz.org/recording/dbbab4c0-ad81-4fb3-a273-7aef4ad968ea"
-        }
-    ], 
+    "instrumentation_voicing": "ensemble instrumental", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "dbbab4c0-ad81-4fb3-a273-7aef4ad968ea", 
+    "works": [
+        {
+            "mbid": "30cdf1c2-8dc3-4612-9513-a5d7f523a889", 
+            "title": "Bu Ak\u015fam G\u00fcn Batarken Gel"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "ussak", 
@@ -57,11 +52,16 @@
             "name": "Aziz T\u00fcrk Sanat M\u00fczi\u011fi Grubu"
         }
     ], 
-    "instrumentation_voicing": "Ensemble instrumental", 
-    "works": [
+    "usul": [
         {
-            "mbid": "30cdf1c2-8dc3-4612-9513-a5d7f523a889", 
-            "title": "Bu Ak\u015fam G\u00fcn Batarken Gel"
+            "attribute_key": "aksak", 
+            "mb_attribute": "Aksak", 
+            "source": "http://musicbrainz.org/work/30cdf1c2-8dc3-4612-9513-a5d7f523a889"
+        }, 
+        {
+            "attribute_key": "aksak", 
+            "mb_tag": "aksak", 
+            "source": "http://musicbrainz.org/recording/dbbab4c0-ad81-4fb3-a273-7aef4ad968ea"
         }
     ]
 }

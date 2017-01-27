@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "duyek", 
-            "mb_attribute": "D\u00fcyek", 
-            "source": "http://musicbrainz.org/work/5d53b1e5-dfee-40ff-a45d-32e77fbd7e0a"
-        }, 
-        {
-            "attribute_key": "duyek", 
-            "mb_tag": "d\u00fcyek", 
-            "source": "http://musicbrainz.org/recording/16d87dd4-9cc2-4f8f-ba55-7ca69306aed2"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "16d87dd4-9cc2-4f8f-ba55-7ca69306aed2", 
+    "works": [
+        {
+            "mbid": "5d53b1e5-dfee-40ff-a45d-32e77fbd7e0a", 
+            "title": "Aylard\u0131r G\u00fcl Y\u00fcz\u00fcn\u00fc G\u00f6remez Oldum Senin"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "suzinak_zirgule", 
@@ -62,11 +57,16 @@
             "name": "S\u00fcheyla Eren"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "5d53b1e5-dfee-40ff-a45d-32e77fbd7e0a", 
-            "title": "Aylard\u0131r G\u00fcl Y\u00fcz\u00fcn\u00fc G\u00f6remez Oldum Senin"
+            "attribute_key": "duyek", 
+            "mb_attribute": "D\u00fcyek", 
+            "source": "http://musicbrainz.org/work/5d53b1e5-dfee-40ff-a45d-32e77fbd7e0a"
+        }, 
+        {
+            "attribute_key": "duyek", 
+            "mb_tag": "d\u00fcyek", 
+            "source": "http://musicbrainz.org/recording/16d87dd4-9cc2-4f8f-ba55-7ca69306aed2"
         }
     ]
 }

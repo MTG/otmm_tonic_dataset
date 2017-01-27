@@ -1,11 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "darbeyn", 
-            "mb_tag": "darbeyn", 
-            "source": "http://musicbrainz.org/recording/3577ef76-fe42-41f0-9ce5-205071a0523a"
-        }
-    ], 
+    "instrumentation_voicing": "solo instrumental", 
     "form": [
         {
             "attribute_key": "pesrev", 
@@ -33,6 +27,12 @@
         }
     ], 
     "mbid": "3577ef76-fe42-41f0-9ce5-205071a0523a", 
+    "works": [
+        {
+            "mbid": "7f607dde-81f8-4d91-bad8-249532510105", 
+            "title": "Hicaz Pe\u015frev"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "hicaz", 
@@ -55,11 +55,11 @@
             "name": "Necdet Ya\u015far"
         }
     ], 
-    "instrumentation_voicing": "Solo instrumental", 
-    "works": [
+    "usul": [
         {
-            "mbid": "7f607dde-81f8-4d91-bad8-249532510105", 
-            "title": "Hicaz Pe\u015frev"
+            "attribute_key": "darbeyn", 
+            "mb_tag": "darbeyn", 
+            "source": "http://musicbrainz.org/recording/3577ef76-fe42-41f0-9ce5-205071a0523a"
         }
     ]
 }

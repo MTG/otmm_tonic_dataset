@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "duyek", 
-            "mb_attribute": "D\u00fcyek", 
-            "source": "http://musicbrainz.org/work/53bf3f1b-c618-425f-a179-d463db2ca918"
-        }, 
-        {
-            "attribute_key": "duyek", 
-            "mb_tag": "d\u00fcyek", 
-            "source": "http://musicbrainz.org/recording/dd536d18-aa84-451c-b7e5-d97271300b8c"
-        }
-    ], 
+    "instrumentation_voicing": "duet", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "dd536d18-aa84-451c-b7e5-d97271300b8c", 
+    "works": [
+        {
+            "mbid": "53bf3f1b-c618-425f-a179-d463db2ca918", 
+            "title": "Bir \u0130htimal Daha Var o da \u00d6lmek mi Dersin"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "nihavent", 
@@ -68,11 +63,16 @@
             "name": "Semahat \u00d6zdenses"
         }
     ], 
-    "instrumentation_voicing": "Duet", 
-    "works": [
+    "usul": [
         {
-            "mbid": "53bf3f1b-c618-425f-a179-d463db2ca918", 
-            "title": "Bir \u0130htimal Daha Var o da \u00d6lmek mi Dersin"
+            "attribute_key": "duyek", 
+            "mb_attribute": "D\u00fcyek", 
+            "source": "http://musicbrainz.org/work/53bf3f1b-c618-425f-a179-d463db2ca918"
+        }, 
+        {
+            "attribute_key": "duyek", 
+            "mb_tag": "d\u00fcyek", 
+            "source": "http://musicbrainz.org/recording/dd536d18-aa84-451c-b7e5-d97271300b8c"
         }
     ]
 }

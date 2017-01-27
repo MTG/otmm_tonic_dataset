@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "aksak", 
-            "mb_attribute": "Aksak", 
-            "source": "http://musicbrainz.org/work/788c219a-8b83-4b10-965a-04fe393bed6b"
-        }, 
-        {
-            "attribute_key": "aksak", 
-            "mb_tag": "aksak", 
-            "source": "http://musicbrainz.org/recording/ca79aae1-44d0-4cd1-87b4-c459181a9874"
-        }
-    ], 
+    "instrumentation_voicing": "choir", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "ca79aae1-44d0-4cd1-87b4-c459181a9874", 
+    "works": [
+        {
+            "mbid": "788c219a-8b83-4b10-965a-04fe393bed6b", 
+            "title": "Ey Afitab\u0131 Bezm-i Nur"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "bestenigar", 
@@ -148,11 +143,16 @@
             "name": "Safinaz Rizeli"
         }
     ], 
-    "instrumentation_voicing": "Choir", 
-    "works": [
+    "usul": [
         {
-            "mbid": "788c219a-8b83-4b10-965a-04fe393bed6b", 
-            "title": "Ey Afitab\u0131 Bezm-i Nur"
+            "attribute_key": "aksak", 
+            "mb_attribute": "Aksak", 
+            "source": "http://musicbrainz.org/work/788c219a-8b83-4b10-965a-04fe393bed6b"
+        }, 
+        {
+            "attribute_key": "aksak", 
+            "mb_tag": "aksak", 
+            "source": "http://musicbrainz.org/recording/ca79aae1-44d0-4cd1-87b4-c459181a9874"
         }
     ]
 }

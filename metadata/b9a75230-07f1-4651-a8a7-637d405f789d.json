@@ -1,5 +1,11 @@
 {
-    "instrumentation_voicing": "Duo instrumental", 
+    "usul": [
+        {
+            "attribute_key": "serbest", 
+            "mb_tag": "serbest", 
+            "source": "http://musicbrainz.org/recording/b9a75230-07f1-4651-a8a7-637d405f789d"
+        }
+    ], 
     "form": [
         {
             "attribute_key": "taksim", 
@@ -51,11 +57,5 @@
             "name": "U\u011fur I\u015f\u0131k"
         }
     ], 
-    "usul": [
-        {
-            "attribute_key": "serbest", 
-            "mb_tag": "serbest", 
-            "source": "http://musicbrainz.org/recording/b9a75230-07f1-4651-a8a7-637d405f789d"
-        }
-    ]
+    "instrumentation_voicing": "duo instrumental"
 }

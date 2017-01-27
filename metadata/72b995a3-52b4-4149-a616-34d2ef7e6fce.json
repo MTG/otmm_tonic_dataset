@@ -1,21 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "aksak", 
-            "mb_attribute": "Aksak", 
-            "source": "http://musicbrainz.org/work/62665dc1-16ac-4494-9c4f-223b2ef3bad8"
-        }, 
-        {
-            "attribute_key": "aksak", 
-            "mb_tag": "aksak", 
-            "source": "http://musicbrainz.org/recording/72b995a3-52b4-4149-a616-34d2ef7e6fce"
-        }, 
-        {
-            "attribute_key": "kapali_curcuna", 
-            "mb_tag": "curcuna", 
-            "source": "http://musicbrainz.org/recording/72b995a3-52b4-4149-a616-34d2ef7e6fce"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -47,6 +31,12 @@
         }
     ], 
     "mbid": "72b995a3-52b4-4149-a616-34d2ef7e6fce", 
+    "works": [
+        {
+            "mbid": "62665dc1-16ac-4494-9c4f-223b2ef3bad8", 
+            "title": "Her Gece Semada Arar\u0131m Seni"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "kurdilihicazkar", 
@@ -142,11 +132,21 @@
             "name": "Sedat G\u00fcndiyer"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "62665dc1-16ac-4494-9c4f-223b2ef3bad8", 
-            "title": "Her Gece Semada Arar\u0131m Seni"
+            "attribute_key": "aksak", 
+            "mb_attribute": "Aksak", 
+            "source": "http://musicbrainz.org/work/62665dc1-16ac-4494-9c4f-223b2ef3bad8"
+        }, 
+        {
+            "attribute_key": "aksak", 
+            "mb_tag": "aksak", 
+            "source": "http://musicbrainz.org/recording/72b995a3-52b4-4149-a616-34d2ef7e6fce"
+        }, 
+        {
+            "attribute_key": "kapali_curcuna", 
+            "mb_tag": "curcuna", 
+            "source": "http://musicbrainz.org/recording/72b995a3-52b4-4149-a616-34d2ef7e6fce"
         }
     ]
 }

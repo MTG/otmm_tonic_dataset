@@ -1,5 +1,11 @@
 {
-    "instrumentation_voicing": "Solo vocal without accompaniment", 
+    "usul": [
+        {
+            "attribute_key": "serbest", 
+            "mb_tag": "serbest", 
+            "source": "http://musicbrainz.org/recording/a035b853-1769-4036-a51d-ba881cbcf7a0"
+        }
+    ], 
     "form": [
         {
             "attribute_key": "gazel", 
@@ -36,11 +42,5 @@
             "name": "Haf\u0131z Kemal Bey"
         }
     ], 
-    "usul": [
-        {
-            "attribute_key": "serbest", 
-            "mb_tag": "serbest", 
-            "source": "http://musicbrainz.org/recording/a035b853-1769-4036-a51d-ba881cbcf7a0"
-        }
-    ]
+    "instrumentation_voicing": "solo vocal without accompaniment"
 }

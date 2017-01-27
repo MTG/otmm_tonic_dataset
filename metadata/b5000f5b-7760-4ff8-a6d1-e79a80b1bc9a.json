@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "devrikebir", 
-            "mb_attribute": "Devr-i Kebir", 
-            "source": "http://musicbrainz.org/work/35de9f7a-fbdf-4f59-80f5-82aee2ab7d78"
-        }, 
-        {
-            "attribute_key": "devrikebir", 
-            "mb_tag": "devr-i kebir", 
-            "source": "http://musicbrainz.org/recording/b5000f5b-7760-4ff8-a6d1-e79a80b1bc9a"
-        }
-    ], 
+    "instrumentation_voicing": "ensemble instrumental", 
     "form": [
         {
             "attribute_key": "pesrev", 
@@ -42,6 +31,12 @@
         }
     ], 
     "mbid": "b5000f5b-7760-4ff8-a6d1-e79a80b1bc9a", 
+    "works": [
+        {
+            "mbid": "35de9f7a-fbdf-4f59-80f5-82aee2ab7d78", 
+            "title": "Muhayyerk\u00fcrdi Pe\u015frev"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "muhayyerkurdi", 
@@ -61,11 +56,16 @@
             "name": "Aziz T\u00fcrk Sanat M\u00fczi\u011fi Grubu"
         }
     ], 
-    "instrumentation_voicing": "Ensemble instrumental", 
-    "works": [
+    "usul": [
         {
-            "mbid": "35de9f7a-fbdf-4f59-80f5-82aee2ab7d78", 
-            "title": "Muhayyerk\u00fcrdi Pe\u015frev"
+            "attribute_key": "devrikebir", 
+            "mb_attribute": "Devr-i Kebir", 
+            "source": "http://musicbrainz.org/work/35de9f7a-fbdf-4f59-80f5-82aee2ab7d78"
+        }, 
+        {
+            "attribute_key": "devrikebir", 
+            "mb_tag": "devr-i kebir", 
+            "source": "http://musicbrainz.org/recording/b5000f5b-7760-4ff8-a6d1-e79a80b1bc9a"
         }
     ]
 }

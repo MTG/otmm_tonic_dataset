@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "aksaksemai", 
-            "mb_attribute": "Aksaksemai", 
-            "source": "http://musicbrainz.org/work/22a5384c-d693-40c1-bf6d-b188807eabaf"
-        }, 
-        {
-            "attribute_key": "aksaksemai", 
-            "mb_tag": "aksaksemai", 
-            "source": "http://musicbrainz.org/recording/03bcfc5c-4a34-490f-bdfa-1c8c2766bb50"
-        }
-    ], 
+    "instrumentation_voicing": "trio instrumental", 
     "form": [
         {
             "attribute_key": "sazsemaisi", 
@@ -46,6 +35,12 @@
         }
     ], 
     "mbid": "03bcfc5c-4a34-490f-bdfa-1c8c2766bb50", 
+    "works": [
+        {
+            "mbid": "22a5384c-d693-40c1-bf6d-b188807eabaf", 
+            "title": "H\u00fcseyni Sazsemaisi"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "huseyni", 
@@ -84,11 +79,16 @@
             "name": "H\u00fcsn\u00fc \u00d6zenen"
         }
     ], 
-    "instrumentation_voicing": "Trio instrumental", 
-    "works": [
+    "usul": [
         {
-            "mbid": "22a5384c-d693-40c1-bf6d-b188807eabaf", 
-            "title": "H\u00fcseyni Sazsemaisi"
+            "attribute_key": "aksaksemai", 
+            "mb_attribute": "Aksaksemai", 
+            "source": "http://musicbrainz.org/work/22a5384c-d693-40c1-bf6d-b188807eabaf"
+        }, 
+        {
+            "attribute_key": "aksaksemai", 
+            "mb_tag": "aksaksemai", 
+            "source": "http://musicbrainz.org/recording/03bcfc5c-4a34-490f-bdfa-1c8c2766bb50"
         }
     ]
 }

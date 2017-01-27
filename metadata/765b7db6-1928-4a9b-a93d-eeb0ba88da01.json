@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "sofyan", 
-            "mb_attribute": "Sofyan", 
-            "source": "http://musicbrainz.org/work/be9fea90-30b0-4ecf-b887-aae7267f3603"
-        }, 
-        {
-            "attribute_key": "sofyan", 
-            "mb_tag": "sofyan", 
-            "source": "http://musicbrainz.org/recording/765b7db6-1928-4a9b-a93d-eeb0ba88da01"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal without accompaniment", 
     "form": [
         {
             "attribute_key": "rumeliturkusu", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "765b7db6-1928-4a9b-a93d-eeb0ba88da01", 
+    "works": [
+        {
+            "mbid": "be9fea90-30b0-4ecf-b887-aae7267f3603", 
+            "title": "Kim G\u00f6rm\u00fc\u015ft\u00fcr G\u00fczellerin Vefas\u0131n"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "hicaz", 
@@ -57,11 +52,16 @@
             "name": "Radife Erten"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal without accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "be9fea90-30b0-4ecf-b887-aae7267f3603", 
-            "title": "Kim G\u00f6rm\u00fc\u015ft\u00fcr G\u00fczellerin Vefas\u0131n"
+            "attribute_key": "sofyan", 
+            "mb_attribute": "Sofyan", 
+            "source": "http://musicbrainz.org/work/be9fea90-30b0-4ecf-b887-aae7267f3603"
+        }, 
+        {
+            "attribute_key": "sofyan", 
+            "mb_tag": "sofyan", 
+            "source": "http://musicbrainz.org/recording/765b7db6-1928-4a9b-a93d-eeb0ba88da01"
         }
     ]
 }

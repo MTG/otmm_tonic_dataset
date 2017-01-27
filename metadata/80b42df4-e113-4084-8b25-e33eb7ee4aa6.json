@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "agiraksak", 
-            "mb_attribute": "A\u011f\u0131raksak", 
-            "source": "http://musicbrainz.org/work/b781c4a0-e1f0-4dcc-8c86-01fa17ecfc1f"
-        }, 
-        {
-            "attribute_key": "agiraksak", 
-            "mb_tag": "a\u011f\u0131raksak", 
-            "source": "http://musicbrainz.org/recording/80b42df4-e113-4084-8b25-e33eb7ee4aa6"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal without accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -42,6 +31,12 @@
         }
     ], 
     "mbid": "80b42df4-e113-4084-8b25-e33eb7ee4aa6", 
+    "works": [
+        {
+            "mbid": "b781c4a0-e1f0-4dcc-8c86-01fa17ecfc1f", 
+            "title": "Kimseler Gelmez Senin Feryad-\u0131 Ate\u015f Ba\u011fr\u0131na"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "ussak", 
@@ -61,11 +56,16 @@
             "name": "Lale Han\u0131m"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal without accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "b781c4a0-e1f0-4dcc-8c86-01fa17ecfc1f", 
-            "title": "Kimseler Gelmez Senin Feryad-\u0131 Ate\u015f Ba\u011fr\u0131na"
+            "attribute_key": "agiraksak", 
+            "mb_attribute": "A\u011f\u0131raksak", 
+            "source": "http://musicbrainz.org/work/b781c4a0-e1f0-4dcc-8c86-01fa17ecfc1f"
+        }, 
+        {
+            "attribute_key": "agiraksak", 
+            "mb_tag": "a\u011f\u0131raksak", 
+            "source": "http://musicbrainz.org/recording/80b42df4-e113-4084-8b25-e33eb7ee4aa6"
         }
     ]
 }

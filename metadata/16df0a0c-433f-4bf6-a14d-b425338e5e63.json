@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "cifteduyek", 
-            "mb_attribute": "\u00c7ifted\u00fcyek", 
-            "source": "http://musicbrainz.org/work/15ba9cc8-99fa-44c0-956b-7b4859af5576"
-        }, 
-        {
-            "attribute_key": "cifteduyek", 
-            "mb_tag": "\u00e7ifted\u00fcyek", 
-            "source": "http://musicbrainz.org/recording/16df0a0c-433f-4bf6-a14d-b425338e5e63"
-        }
-    ], 
+    "instrumentation_voicing": "ensemble instrumental", 
     "form": [
         {
             "attribute_key": "pesrev", 
@@ -58,6 +47,12 @@
         }
     ], 
     "mbid": "16df0a0c-433f-4bf6-a14d-b425338e5e63", 
+    "works": [
+        {
+            "mbid": "15ba9cc8-99fa-44c0-956b-7b4859af5576", 
+            "title": "Evc\u00e2r\u00e2 Pe\u015frevi"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "evcara", 
@@ -112,11 +107,16 @@
             "name": "\u00d6zer \u00d6zel"
         }
     ], 
-    "instrumentation_voicing": "Ensemble instrumental", 
-    "works": [
+    "usul": [
         {
-            "mbid": "15ba9cc8-99fa-44c0-956b-7b4859af5576", 
-            "title": "Evc\u00e2r\u00e2 Pe\u015frevi"
+            "attribute_key": "cifteduyek", 
+            "mb_attribute": "\u00c7ifted\u00fcyek", 
+            "source": "http://musicbrainz.org/work/15ba9cc8-99fa-44c0-956b-7b4859af5576"
+        }, 
+        {
+            "attribute_key": "cifteduyek", 
+            "mb_tag": "\u00e7ifted\u00fcyek", 
+            "source": "http://musicbrainz.org/recording/16df0a0c-433f-4bf6-a14d-b425338e5e63"
         }
     ]
 }

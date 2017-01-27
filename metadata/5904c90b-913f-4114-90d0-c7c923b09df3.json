@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "duyek", 
-            "mb_attribute": "D\u00fcyek", 
-            "source": "http://musicbrainz.org/work/ec29d232-7802-4af7-80c8-c77cfeda4bfa"
-        }, 
-        {
-            "attribute_key": "duyek", 
-            "mb_tag": "d\u00fcyek", 
-            "source": "http://musicbrainz.org/recording/5904c90b-913f-4114-90d0-c7c923b09df3"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal without accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "5904c90b-913f-4114-90d0-c7c923b09df3", 
+    "works": [
+        {
+            "mbid": "ec29d232-7802-4af7-80c8-c77cfeda4bfa", 
+            "title": "G\u00f6nl\u00fcm\u00fc Avutamad\u0131m"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "hicaz", 
@@ -57,11 +52,16 @@
             "name": "Melihat G\u00fclses"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal without accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "ec29d232-7802-4af7-80c8-c77cfeda4bfa", 
-            "title": "G\u00f6nl\u00fcm\u00fc Avutamad\u0131m"
+            "attribute_key": "duyek", 
+            "mb_attribute": "D\u00fcyek", 
+            "source": "http://musicbrainz.org/work/ec29d232-7802-4af7-80c8-c77cfeda4bfa"
+        }, 
+        {
+            "attribute_key": "duyek", 
+            "mb_tag": "d\u00fcyek", 
+            "source": "http://musicbrainz.org/recording/5904c90b-913f-4114-90d0-c7c923b09df3"
         }
     ]
 }

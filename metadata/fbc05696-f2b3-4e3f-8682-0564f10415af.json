@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "agircenber", 
-            "mb_attribute": "A\u011f\u0131r\u00e7enber", 
-            "source": "http://musicbrainz.org/work/64bc88c7-b23c-4e53-a674-091e9ba5046b"
-        }, 
-        {
-            "attribute_key": "cenber", 
-            "mb_tag": "\u00e7enber", 
-            "source": "http://musicbrainz.org/recording/fbc05696-f2b3-4e3f-8682-0564f10415af"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "murabba", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "fbc05696-f2b3-4e3f-8682-0564f10415af", 
+    "works": [
+        {
+            "mbid": "64bc88c7-b23c-4e53-a674-091e9ba5046b", 
+            "title": "Hasret-i Ruyinle Giryan Oldu\u011fum"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "hicaz_humayun", 
@@ -62,11 +57,16 @@
             "name": "Bekir S\u0131dk\u0131 Sezgin"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "64bc88c7-b23c-4e53-a674-091e9ba5046b", 
-            "title": "Hasret-i Ruyinle Giryan Oldu\u011fum"
+            "attribute_key": "agircenber", 
+            "mb_attribute": "A\u011f\u0131r\u00e7enber", 
+            "source": "http://musicbrainz.org/work/64bc88c7-b23c-4e53-a674-091e9ba5046b"
+        }, 
+        {
+            "attribute_key": "cenber", 
+            "mb_tag": "\u00e7enber", 
+            "source": "http://musicbrainz.org/recording/fbc05696-f2b3-4e3f-8682-0564f10415af"
         }
     ]
 }

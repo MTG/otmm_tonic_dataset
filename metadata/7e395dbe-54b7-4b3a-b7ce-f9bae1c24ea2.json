@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "senginsemai", 
-            "mb_attribute": "Senginsemai", 
-            "source": "http://musicbrainz.org/work/8dcf0aef-3a46-49b1-9f1f-63e6562aab3f"
-        }, 
-        {
-            "attribute_key": "senginsemai", 
-            "mb_tag": "senginsemai", 
-            "source": "http://musicbrainz.org/recording/7e395dbe-54b7-4b3a-b7ce-f9bae1c24ea2"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal without accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "7e395dbe-54b7-4b3a-b7ce-f9bae1c24ea2", 
+    "works": [
+        {
+            "mbid": "8dcf0aef-3a46-49b1-9f1f-63e6562aab3f", 
+            "title": "Birlikte Ge\u00e7er \u00d6mr\u00fcm\u00fcz\u00fcn G\u00fcnleri Sand\u0131m"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "hicaz", 
@@ -57,11 +52,16 @@
             "name": "Cemile Uncu"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal without accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "8dcf0aef-3a46-49b1-9f1f-63e6562aab3f", 
-            "title": "Birlikte Ge\u00e7er \u00d6mr\u00fcm\u00fcz\u00fcn G\u00fcnleri Sand\u0131m"
+            "attribute_key": "senginsemai", 
+            "mb_attribute": "Senginsemai", 
+            "source": "http://musicbrainz.org/work/8dcf0aef-3a46-49b1-9f1f-63e6562aab3f"
+        }, 
+        {
+            "attribute_key": "senginsemai", 
+            "mb_tag": "senginsemai", 
+            "source": "http://musicbrainz.org/recording/7e395dbe-54b7-4b3a-b7ce-f9bae1c24ea2"
         }
     ]
 }

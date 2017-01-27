@@ -1,11 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "muhammes", 
-            "mb_attribute": "Muhammes", 
-            "source": "http://musicbrainz.org/work/423ec97c-d4bd-4340-81da-625b1934021b"
-        }
-    ], 
+    "instrumentation_voicing": "duo instrumental", 
     "form": [
         {
             "attribute_key": "pesrev", 
@@ -37,6 +31,12 @@
         }
     ], 
     "mbid": "87947c7d-e887-4af9-8baa-85c7e6873812", 
+    "works": [
+        {
+            "mbid": "423ec97c-d4bd-4340-81da-625b1934021b", 
+            "title": "Mahur Pe\u015frevi"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "mahur", 
@@ -67,11 +67,11 @@
             "name": "Demir Karaba\u015f"
         }
     ], 
-    "instrumentation_voicing": "Duo instrumental", 
-    "works": [
+    "usul": [
         {
-            "mbid": "423ec97c-d4bd-4340-81da-625b1934021b", 
-            "title": "Mahur Pe\u015frevi"
+            "attribute_key": "muhammes", 
+            "mb_attribute": "Muhammes", 
+            "source": "http://musicbrainz.org/work/423ec97c-d4bd-4340-81da-625b1934021b"
         }
     ]
 }

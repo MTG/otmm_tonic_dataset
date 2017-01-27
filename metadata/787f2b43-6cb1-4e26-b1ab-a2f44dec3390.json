@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "aksak", 
-            "mb_attribute": "Aksak", 
-            "source": "http://musicbrainz.org/work/1469118e-2714-4d95-806f-97720bee5447"
-        }, 
-        {
-            "attribute_key": "aksak", 
-            "mb_tag": "aksak", 
-            "source": "http://musicbrainz.org/recording/787f2b43-6cb1-4e26-b1ab-a2f44dec3390"
-        }
-    ], 
+    "instrumentation_voicing": "choir", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "787f2b43-6cb1-4e26-b1ab-a2f44dec3390", 
+    "works": [
+        {
+            "mbid": "1469118e-2714-4d95-806f-97720bee5447", 
+            "title": "Aman Saki Can\u0131m Saki"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "ussak", 
@@ -398,11 +393,16 @@
             "name": "Asuman Demirba\u015f"
         }
     ], 
-    "instrumentation_voicing": "Choir", 
-    "works": [
+    "usul": [
         {
-            "mbid": "1469118e-2714-4d95-806f-97720bee5447", 
-            "title": "Aman Saki Can\u0131m Saki"
+            "attribute_key": "aksak", 
+            "mb_attribute": "Aksak", 
+            "source": "http://musicbrainz.org/work/1469118e-2714-4d95-806f-97720bee5447"
+        }, 
+        {
+            "attribute_key": "aksak", 
+            "mb_tag": "aksak", 
+            "source": "http://musicbrainz.org/recording/787f2b43-6cb1-4e26-b1ab-a2f44dec3390"
         }
     ]
 }

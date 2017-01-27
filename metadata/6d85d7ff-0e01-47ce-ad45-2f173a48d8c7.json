@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "aksak", 
-            "mb_attribute": "Aksak", 
-            "source": "http://musicbrainz.org/work/29c90af6-529d-4408-ae02-be449603bd7e"
-        }, 
-        {
-            "attribute_key": "aksak", 
-            "mb_tag": "aksak", 
-            "source": "http://musicbrainz.org/recording/6d85d7ff-0e01-47ce-ad45-2f173a48d8c7"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "6d85d7ff-0e01-47ce-ad45-2f173a48d8c7", 
+    "works": [
+        {
+            "mbid": "29c90af6-529d-4408-ae02-be449603bd7e", 
+            "title": "Bozuldu Lanesi \u00dcftadegan\u0131n"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "hicaz", 
@@ -62,11 +57,16 @@
             "name": "Bekir S\u0131dk\u0131 Sezgin"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "29c90af6-529d-4408-ae02-be449603bd7e", 
-            "title": "Bozuldu Lanesi \u00dcftadegan\u0131n"
+            "attribute_key": "aksak", 
+            "mb_attribute": "Aksak", 
+            "source": "http://musicbrainz.org/work/29c90af6-529d-4408-ae02-be449603bd7e"
+        }, 
+        {
+            "attribute_key": "aksak", 
+            "mb_tag": "aksak", 
+            "source": "http://musicbrainz.org/recording/6d85d7ff-0e01-47ce-ad45-2f173a48d8c7"
         }
     ]
 }

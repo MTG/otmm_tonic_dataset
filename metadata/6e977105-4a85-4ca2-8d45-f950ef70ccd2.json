@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "kapali_curcuna", 
-            "mb_attribute": "Kapal\u0131 Curcuna", 
-            "source": "http://musicbrainz.org/work/4e37b256-aaa6-4174-be6a-122521d2c7ca"
-        }, 
-        {
-            "attribute_key": "kapali_curcuna", 
-            "mb_tag": "curcuna", 
-            "source": "http://musicbrainz.org/recording/6e977105-4a85-4ca2-8d45-f950ef70ccd2"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal without accompaniment", 
     "form": [
         {
             "attribute_key": "turku", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "6e977105-4a85-4ca2-8d45-f950ef70ccd2", 
+    "works": [
+        {
+            "mbid": "4e37b256-aaa6-4174-be6a-122521d2c7ca", 
+            "title": "\u0130ncecikten Bir Kar Ya\u011far Tozar Elif Elif Diye"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "segah", 
@@ -57,11 +52,16 @@
             "name": "Perihan Alt\u0131nda\u011f S\u00f6zeri"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal without accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "4e37b256-aaa6-4174-be6a-122521d2c7ca", 
-            "title": "\u0130ncecikten Bir Kar Ya\u011far Tozar Elif Elif Diye"
+            "attribute_key": "kapali_curcuna", 
+            "mb_attribute": "Kapal\u0131 Curcuna", 
+            "source": "http://musicbrainz.org/work/4e37b256-aaa6-4174-be6a-122521d2c7ca"
+        }, 
+        {
+            "attribute_key": "kapali_curcuna", 
+            "mb_tag": "curcuna", 
+            "source": "http://musicbrainz.org/recording/6e977105-4a85-4ca2-8d45-f950ef70ccd2"
         }
     ]
 }

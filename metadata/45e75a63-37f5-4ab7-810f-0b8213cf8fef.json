@@ -1,21 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "sofyan", 
-            "mb_attribute": "Sofyan", 
-            "source": "http://musicbrainz.org/work/268bdc92-c539-4efe-8373-27fa222d5f96"
-        }, 
-        {
-            "attribute_key": "kapali_curcuna", 
-            "mb_tag": "curcuna", 
-            "source": "http://musicbrainz.org/recording/45e75a63-37f5-4ab7-810f-0b8213cf8fef"
-        }, 
-        {
-            "attribute_key": "sofyan", 
-            "mb_tag": "sofyan", 
-            "source": "http://musicbrainz.org/recording/45e75a63-37f5-4ab7-810f-0b8213cf8fef"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal without accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -43,6 +27,12 @@
         }
     ], 
     "mbid": "45e75a63-37f5-4ab7-810f-0b8213cf8fef", 
+    "works": [
+        {
+            "mbid": "268bdc92-c539-4efe-8373-27fa222d5f96", 
+            "title": "Yine Dumanl\u0131 Da\u011flar Yollar Ge\u00e7ilmez Oldu"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "muhayyer", 
@@ -62,11 +52,21 @@
             "name": "Necmi R\u0131za Ah\u0131skan"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal without accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "268bdc92-c539-4efe-8373-27fa222d5f96", 
-            "title": "Yine Dumanl\u0131 Da\u011flar Yollar Ge\u00e7ilmez Oldu"
+            "attribute_key": "sofyan", 
+            "mb_attribute": "Sofyan", 
+            "source": "http://musicbrainz.org/work/268bdc92-c539-4efe-8373-27fa222d5f96"
+        }, 
+        {
+            "attribute_key": "kapali_curcuna", 
+            "mb_tag": "curcuna", 
+            "source": "http://musicbrainz.org/recording/45e75a63-37f5-4ab7-810f-0b8213cf8fef"
+        }, 
+        {
+            "attribute_key": "sofyan", 
+            "mb_tag": "sofyan", 
+            "source": "http://musicbrainz.org/recording/45e75a63-37f5-4ab7-810f-0b8213cf8fef"
         }
     ]
 }

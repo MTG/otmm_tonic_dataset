@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "agiraksak", 
-            "mb_attribute": "A\u011f\u0131raksak", 
-            "source": "http://musicbrainz.org/work/60ba0e5b-5c00-4169-a9a6-87b18dc38420"
-        }, 
-        {
-            "attribute_key": "agiraksak", 
-            "mb_tag": "a\u011f\u0131raksak", 
-            "source": "http://musicbrainz.org/recording/cd08cc60-81c2-41e2-9ea0-a3b07db0f5fa"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "cd08cc60-81c2-41e2-9ea0-a3b07db0f5fa", 
+    "works": [
+        {
+            "mbid": "60ba0e5b-5c00-4169-a9a6-87b18dc38420", 
+            "title": "Haksar Ettin Beni"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "segah", 
@@ -62,11 +57,16 @@
             "name": "Bekir S\u0131dk\u0131 Sezgin"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "60ba0e5b-5c00-4169-a9a6-87b18dc38420", 
-            "title": "Haksar Ettin Beni"
+            "attribute_key": "agiraksak", 
+            "mb_attribute": "A\u011f\u0131raksak", 
+            "source": "http://musicbrainz.org/work/60ba0e5b-5c00-4169-a9a6-87b18dc38420"
+        }, 
+        {
+            "attribute_key": "agiraksak", 
+            "mb_tag": "a\u011f\u0131raksak", 
+            "source": "http://musicbrainz.org/recording/cd08cc60-81c2-41e2-9ea0-a3b07db0f5fa"
         }
     ]
 }

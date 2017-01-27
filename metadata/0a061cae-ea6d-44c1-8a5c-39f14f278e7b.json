@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "curcuna", 
-            "mb_attribute": "Curcuna", 
-            "source": "http://musicbrainz.org/work/6b4e33d4-e95e-4863-9e28-6852d399e6cb"
-        }, 
-        {
-            "attribute_key": "kapali_curcuna", 
-            "mb_tag": "curcuna", 
-            "source": "http://musicbrainz.org/recording/0a061cae-ea6d-44c1-8a5c-39f14f278e7b"
-        }
-    ], 
+    "instrumentation_voicing": "choir", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "0a061cae-ea6d-44c1-8a5c-39f14f278e7b", 
+    "works": [
+        {
+            "mbid": "6b4e33d4-e95e-4863-9e28-6852d399e6cb", 
+            "title": "Dinmiyor G\u00f6zya\u015flar\u0131m Rahmi Maderden Beri"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "hicazkar", 
@@ -151,11 +146,16 @@
             "name": "Safinaz Rizeli"
         }
     ], 
-    "instrumentation_voicing": "Choir", 
-    "works": [
+    "usul": [
         {
-            "mbid": "6b4e33d4-e95e-4863-9e28-6852d399e6cb", 
-            "title": "Dinmiyor G\u00f6zya\u015flar\u0131m Rahmi Maderden Beri"
+            "attribute_key": "curcuna", 
+            "mb_attribute": "Curcuna", 
+            "source": "http://musicbrainz.org/work/6b4e33d4-e95e-4863-9e28-6852d399e6cb"
+        }, 
+        {
+            "attribute_key": "kapali_curcuna", 
+            "mb_tag": "curcuna", 
+            "source": "http://musicbrainz.org/recording/0a061cae-ea6d-44c1-8a5c-39f14f278e7b"
         }
     ]
 }

@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "aksak", 
-            "mb_attribute": "Aksak", 
-            "source": "http://musicbrainz.org/work/e9982f96-ea37-49a9-80ff-af5a205f9f19"
-        }, 
-        {
-            "attribute_key": "aksak", 
-            "mb_tag": "aksak", 
-            "source": "http://musicbrainz.org/recording/05520697-4e9e-417b-9859-8345d4aad7ce"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "05520697-4e9e-417b-9859-8345d4aad7ce", 
+    "works": [
+        {
+            "mbid": "e9982f96-ea37-49a9-80ff-af5a205f9f19", 
+            "title": "Nerdesin Nerde Acep"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "hicazkar", 
@@ -225,11 +220,16 @@
             "name": "Tar\u0131k Kemanc\u0131"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "e9982f96-ea37-49a9-80ff-af5a205f9f19", 
-            "title": "Nerdesin Nerde Acep"
+            "attribute_key": "aksak", 
+            "mb_attribute": "Aksak", 
+            "source": "http://musicbrainz.org/work/e9982f96-ea37-49a9-80ff-af5a205f9f19"
+        }, 
+        {
+            "attribute_key": "aksak", 
+            "mb_tag": "aksak", 
+            "source": "http://musicbrainz.org/recording/05520697-4e9e-417b-9859-8345d4aad7ce"
         }
     ]
 }

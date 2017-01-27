@@ -1,11 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "duyek", 
-            "mb_attribute": "D\u00fcyek", 
-            "source": "http://musicbrainz.org/work/e4d46b76-3c54-3f11-b606-197caa14706e"
-        }
-    ], 
+    "instrumentation_voicing": "solo instrumental", 
     "form": [
         {
             "attribute_key": "turku", 
@@ -33,6 +27,12 @@
         }
     ], 
     "mbid": "b576d7fc-3238-4b97-9e19-89acac3cda9e", 
+    "works": [
+        {
+            "mbid": "e4d46b76-3c54-3f11-b606-197caa14706e", 
+            "title": "Telgraf\u0131n Tellerine Ku\u015flar m\u0131 Konar"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "ussak", 
@@ -55,11 +55,11 @@
             "name": "Ozan Karata\u015f"
         }
     ], 
-    "instrumentation_voicing": "Solo instrumental", 
-    "works": [
+    "usul": [
         {
-            "mbid": "e4d46b76-3c54-3f11-b606-197caa14706e", 
-            "title": "Telgraf\u0131n Tellerine Ku\u015flar m\u0131 Konar"
+            "attribute_key": "duyek", 
+            "mb_attribute": "D\u00fcyek", 
+            "source": "http://musicbrainz.org/work/e4d46b76-3c54-3f11-b606-197caa14706e"
         }
     ]
 }

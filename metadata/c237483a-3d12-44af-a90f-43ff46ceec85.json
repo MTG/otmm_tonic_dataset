@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "aksak", 
-            "mb_attribute": "Aksak", 
-            "source": "http://musicbrainz.org/work/47ed2b84-36ce-4607-87c4-94b2f0dd0303"
-        }, 
-        {
-            "attribute_key": "aksak", 
-            "mb_tag": "aksak", 
-            "source": "http://musicbrainz.org/recording/c237483a-3d12-44af-a90f-43ff46ceec85"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "c237483a-3d12-44af-a90f-43ff46ceec85", 
+    "works": [
+        {
+            "mbid": "47ed2b84-36ce-4607-87c4-94b2f0dd0303", 
+            "title": "Bir Sihr-i Tarab Na\u011fme"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "suzinak_zirgule", 
@@ -62,11 +57,16 @@
             "name": "Bekir S\u0131dk\u0131 Sezgin"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "47ed2b84-36ce-4607-87c4-94b2f0dd0303", 
-            "title": "Bir Sihr-i Tarab Na\u011fme"
+            "attribute_key": "aksak", 
+            "mb_attribute": "Aksak", 
+            "source": "http://musicbrainz.org/work/47ed2b84-36ce-4607-87c4-94b2f0dd0303"
+        }, 
+        {
+            "attribute_key": "aksak", 
+            "mb_tag": "aksak", 
+            "source": "http://musicbrainz.org/recording/c237483a-3d12-44af-a90f-43ff46ceec85"
         }
     ]
 }

@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "muhammes", 
-            "mb_attribute": "Muhammes", 
-            "source": "http://musicbrainz.org/work/5617c02f-8c47-4fda-9c3c-70dd5a471291"
-        }, 
-        {
-            "attribute_key": "duyek", 
-            "mb_tag": "d\u00fcyek", 
-            "source": "http://musicbrainz.org/recording/e06328bc-0ddb-49ef-9c5c-31a881485d0b"
-        }
-    ], 
+    "instrumentation_voicing": "ensemble instrumental", 
     "form": [
         {
             "attribute_key": "pesrev", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "e06328bc-0ddb-49ef-9c5c-31a881485d0b", 
+    "works": [
+        {
+            "mbid": "5617c02f-8c47-4fda-9c3c-70dd5a471291", 
+            "title": "Rast Pe\u015frev"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "rast", 
@@ -57,11 +52,16 @@
             "name": "Kudsi Erguner Ensemble"
         }
     ], 
-    "instrumentation_voicing": "Ensemble instrumental", 
-    "works": [
+    "usul": [
         {
-            "mbid": "5617c02f-8c47-4fda-9c3c-70dd5a471291", 
-            "title": "Rast Pe\u015frev"
+            "attribute_key": "muhammes", 
+            "mb_attribute": "Muhammes", 
+            "source": "http://musicbrainz.org/work/5617c02f-8c47-4fda-9c3c-70dd5a471291"
+        }, 
+        {
+            "attribute_key": "duyek", 
+            "mb_tag": "d\u00fcyek", 
+            "source": "http://musicbrainz.org/recording/e06328bc-0ddb-49ef-9c5c-31a881485d0b"
         }
     ]
 }

@@ -1,11 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "aksak", 
-            "mb_attribute": "Aksak", 
-            "source": "http://musicbrainz.org/work/128cb07e-000a-4d2e-ae00-92616891aca3"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -33,6 +27,12 @@
         }
     ], 
     "mbid": "ef2e469f-7ffd-4a24-8113-8ee3ee4efab2", 
+    "works": [
+        {
+            "mbid": "128cb07e-000a-4d2e-ae00-92616891aca3", 
+            "title": "Yetti Bunca \u0130ntizar\u0131n"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "necd_i_huseyni", 
@@ -87,11 +87,11 @@
             "name": "Nusret Y\u0131lmaz"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "128cb07e-000a-4d2e-ae00-92616891aca3", 
-            "title": "Yetti Bunca \u0130ntizar\u0131n"
+            "attribute_key": "aksak", 
+            "mb_attribute": "Aksak", 
+            "source": "http://musicbrainz.org/work/128cb07e-000a-4d2e-ae00-92616891aca3"
         }
     ]
 }

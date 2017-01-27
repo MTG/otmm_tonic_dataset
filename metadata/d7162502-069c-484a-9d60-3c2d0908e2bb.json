@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "muhammes", 
-            "mb_attribute": "Muhammes", 
-            "source": "http://musicbrainz.org/work/423ec97c-d4bd-4340-81da-625b1934021b"
-        }, 
-        {
-            "attribute_key": "muhammes", 
-            "mb_tag": "muhammes", 
-            "source": "http://musicbrainz.org/recording/d7162502-069c-484a-9d60-3c2d0908e2bb"
-        }
-    ], 
+    "instrumentation_voicing": "trio instrumental", 
     "form": [
         {
             "attribute_key": "pesrev", 
@@ -46,6 +35,12 @@
         }
     ], 
     "mbid": "d7162502-069c-484a-9d60-3c2d0908e2bb", 
+    "works": [
+        {
+            "mbid": "423ec97c-d4bd-4340-81da-625b1934021b", 
+            "title": "Mahur Pe\u015frevi"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "mahur", 
@@ -84,11 +79,16 @@
             "name": "Tahir Aydo\u011fdu"
         }
     ], 
-    "instrumentation_voicing": "Trio instrumental", 
-    "works": [
+    "usul": [
         {
-            "mbid": "423ec97c-d4bd-4340-81da-625b1934021b", 
-            "title": "Mahur Pe\u015frevi"
+            "attribute_key": "muhammes", 
+            "mb_attribute": "Muhammes", 
+            "source": "http://musicbrainz.org/work/423ec97c-d4bd-4340-81da-625b1934021b"
+        }, 
+        {
+            "attribute_key": "muhammes", 
+            "mb_tag": "muhammes", 
+            "source": "http://musicbrainz.org/recording/d7162502-069c-484a-9d60-3c2d0908e2bb"
         }
     ]
 }

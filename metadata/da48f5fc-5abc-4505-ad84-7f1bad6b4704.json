@@ -1,11 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "sofyan", 
-            "mb_tag": "sofyan", 
-            "source": "http://musicbrainz.org/recording/da48f5fc-5abc-4505-ad84-7f1bad6b4704"
-        }
-    ], 
+    "instrumentation_voicing": "solo instrumental", 
     "form": [
         {
             "attribute_key": null, 
@@ -28,6 +22,12 @@
         }
     ], 
     "mbid": "da48f5fc-5abc-4505-ad84-7f1bad6b4704", 
+    "works": [
+        {
+            "mbid": "b1538459-3ab5-42dd-9579-b10504daed0c", 
+            "title": "Nihavent Sigan"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "nihavent", 
@@ -50,11 +50,11 @@
             "name": "Fahri Karaduman"
         }
     ], 
-    "instrumentation_voicing": "Solo instrumental", 
-    "works": [
+    "usul": [
         {
-            "mbid": "b1538459-3ab5-42dd-9579-b10504daed0c", 
-            "title": "Nihavent Sigan"
+            "attribute_key": "sofyan", 
+            "mb_tag": "sofyan", 
+            "source": "http://musicbrainz.org/recording/da48f5fc-5abc-4505-ad84-7f1bad6b4704"
         }
     ]
 }

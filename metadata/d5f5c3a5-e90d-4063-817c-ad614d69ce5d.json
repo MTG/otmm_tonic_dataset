@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "curcuna", 
-            "mb_attribute": "Curcuna", 
-            "source": "http://musicbrainz.org/work/e6c77985-8670-445a-b742-747649414946"
-        }, 
-        {
-            "attribute_key": "kapali_curcuna", 
-            "mb_tag": "curcuna", 
-            "source": "http://musicbrainz.org/recording/d5f5c3a5-e90d-4063-817c-ad614d69ce5d"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal without accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "d5f5c3a5-e90d-4063-817c-ad614d69ce5d", 
+    "works": [
+        {
+            "mbid": "e6c77985-8670-445a-b742-747649414946", 
+            "title": "O Ahu Bak\u0131\u015flara"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "karcigar", 
@@ -57,11 +52,16 @@
             "name": "Adnan Mungan"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal without accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "e6c77985-8670-445a-b742-747649414946", 
-            "title": "O Ahu Bak\u0131\u015flara"
+            "attribute_key": "curcuna", 
+            "mb_attribute": "Curcuna", 
+            "source": "http://musicbrainz.org/work/e6c77985-8670-445a-b742-747649414946"
+        }, 
+        {
+            "attribute_key": "kapali_curcuna", 
+            "mb_tag": "curcuna", 
+            "source": "http://musicbrainz.org/recording/d5f5c3a5-e90d-4063-817c-ad614d69ce5d"
         }
     ]
 }

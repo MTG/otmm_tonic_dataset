@@ -1,11 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "agiraksak", 
-            "mb_attribute": "A\u011f\u0131raksak", 
-            "source": "http://musicbrainz.org/work/86c12055-b675-46b6-89a6-4568be1143d5"
-        }
-    ], 
+    "instrumentation_voicing": "choir", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -33,6 +27,12 @@
         }
     ], 
     "mbid": "10b59f87-2710-41a1-b98c-b62beccdbd85", 
+    "works": [
+        {
+            "mbid": "86c12055-b675-46b6-89a6-4568be1143d5", 
+            "title": "Sevdi G\u00f6nl\u00fcm Ey Melek Sima Seni"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "acemkurdi", 
@@ -528,11 +528,11 @@
             "name": "Arzu \u00d6zg\u00fcn"
         }
     ], 
-    "instrumentation_voicing": "Choir", 
-    "works": [
+    "usul": [
         {
-            "mbid": "86c12055-b675-46b6-89a6-4568be1143d5", 
-            "title": "Sevdi G\u00f6nl\u00fcm Ey Melek Sima Seni"
+            "attribute_key": "agiraksak", 
+            "mb_attribute": "A\u011f\u0131raksak", 
+            "source": "http://musicbrainz.org/work/86c12055-b675-46b6-89a6-4568be1143d5"
         }
     ]
 }

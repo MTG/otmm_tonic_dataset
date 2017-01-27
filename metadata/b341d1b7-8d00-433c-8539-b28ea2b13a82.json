@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "sofyan", 
-            "mb_attribute": "Sofyan", 
-            "source": "http://musicbrainz.org/work/3d653251-fc0b-4d3b-bb9c-3d40ddfbf97d"
-        }, 
-        {
-            "attribute_key": "sofyan", 
-            "mb_tag": "sofyan", 
-            "source": "http://musicbrainz.org/recording/b341d1b7-8d00-433c-8539-b28ea2b13a82"
-        }
-    ], 
+    "instrumentation_voicing": "ensemble instrumental", 
     "form": [
         {
             "attribute_key": "medhal", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "b341d1b7-8d00-433c-8539-b28ea2b13a82", 
+    "works": [
+        {
+            "mbid": "3d653251-fc0b-4d3b-bb9c-3d40ddfbf97d", 
+            "title": "Sultaniyegah Medhal"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "sultaniyegah", 
@@ -57,11 +52,16 @@
             "name": "Ankara Radyosu Saz Sanat\u00e7\u0131lar\u0131"
         }
     ], 
-    "instrumentation_voicing": "Ensemble instrumental", 
-    "works": [
+    "usul": [
         {
-            "mbid": "3d653251-fc0b-4d3b-bb9c-3d40ddfbf97d", 
-            "title": "Sultaniyegah Medhal"
+            "attribute_key": "sofyan", 
+            "mb_attribute": "Sofyan", 
+            "source": "http://musicbrainz.org/work/3d653251-fc0b-4d3b-bb9c-3d40ddfbf97d"
+        }, 
+        {
+            "attribute_key": "sofyan", 
+            "mb_tag": "sofyan", 
+            "source": "http://musicbrainz.org/recording/b341d1b7-8d00-433c-8539-b28ea2b13a82"
         }
     ]
 }

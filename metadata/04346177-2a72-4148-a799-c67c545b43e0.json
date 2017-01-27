@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "turkaksagi", 
-            "mb_attribute": "T\u00fcrkaksa\u011f\u0131", 
-            "source": "http://musicbrainz.org/work/b78bffc8-ebc9-42f8-9a12-9ca86c195a61"
-        }, 
-        {
-            "attribute_key": "turkaksagi_ii", 
-            "mb_tag": "t\u00fcrkaksa\u011f\u0131", 
-            "source": "http://musicbrainz.org/recording/04346177-2a72-4148-a799-c67c545b43e0"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "04346177-2a72-4148-a799-c67c545b43e0", 
+    "works": [
+        {
+            "mbid": "b78bffc8-ebc9-42f8-9a12-9ca86c195a61", 
+            "title": "Bilmem ki Safa Ne\u015fe Bu \u00d6mr\u00fcn Neresinde"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "karcigar", 
@@ -94,11 +89,16 @@
             "name": "Murat Salim Toka\u00e7"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "b78bffc8-ebc9-42f8-9a12-9ca86c195a61", 
-            "title": "Bilmem ki Safa Ne\u015fe Bu \u00d6mr\u00fcn Neresinde"
+            "attribute_key": "turkaksagi", 
+            "mb_attribute": "T\u00fcrkaksa\u011f\u0131", 
+            "source": "http://musicbrainz.org/work/b78bffc8-ebc9-42f8-9a12-9ca86c195a61"
+        }, 
+        {
+            "attribute_key": "turkaksagi_ii", 
+            "mb_tag": "t\u00fcrkaksa\u011f\u0131", 
+            "source": "http://musicbrainz.org/recording/04346177-2a72-4148-a799-c67c545b43e0"
         }
     ]
 }

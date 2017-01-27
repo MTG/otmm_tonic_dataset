@@ -1,5 +1,11 @@
 {
-    "instrumentation_voicing": "Solo vocal without accompaniment", 
+    "usul": [
+        {
+            "attribute_key": "serbest", 
+            "mb_tag": "serbest", 
+            "source": "http://musicbrainz.org/recording/9eac50c4-c951-44d1-bc80-2f7e4603d4e4"
+        }
+    ], 
     "form": [
         {
             "attribute_key": "gazel", 
@@ -41,11 +47,5 @@
             "name": "Haf\u0131z Ahmed Bey"
         }
     ], 
-    "usul": [
-        {
-            "attribute_key": "serbest", 
-            "mb_tag": "serbest", 
-            "source": "http://musicbrainz.org/recording/9eac50c4-c951-44d1-bc80-2f7e4603d4e4"
-        }
-    ]
+    "instrumentation_voicing": "solo vocal without accompaniment"
 }

@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "agir_aksaksemai", 
-            "mb_attribute": "A\u011f\u0131r Aksaksemai", 
-            "source": "http://musicbrainz.org/work/35bd2fab-8689-442a-ad62-1de7752cbbf6"
-        }, 
-        {
-            "attribute_key": "aksaksemai", 
-            "mb_tag": "aksaksemai", 
-            "source": "http://musicbrainz.org/recording/c3716445-ad74-459c-8fda-16d47d24f85a"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "nakis", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "c3716445-ad74-459c-8fda-16d47d24f85a", 
+    "works": [
+        {
+            "mbid": "35bd2fab-8689-442a-ad62-1de7752cbbf6", 
+            "title": "Ey Gonca-i Ba\u011f-i Cihan"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "neva", 
@@ -92,11 +87,16 @@
             "name": "Do\u011fan Dikmen"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "35bd2fab-8689-442a-ad62-1de7752cbbf6", 
-            "title": "Ey Gonca-i Ba\u011f-i Cihan"
+            "attribute_key": "agir_aksaksemai", 
+            "mb_attribute": "A\u011f\u0131r Aksaksemai", 
+            "source": "http://musicbrainz.org/work/35bd2fab-8689-442a-ad62-1de7752cbbf6"
+        }, 
+        {
+            "attribute_key": "aksaksemai", 
+            "mb_tag": "aksaksemai", 
+            "source": "http://musicbrainz.org/recording/c3716445-ad74-459c-8fda-16d47d24f85a"
         }
     ]
 }

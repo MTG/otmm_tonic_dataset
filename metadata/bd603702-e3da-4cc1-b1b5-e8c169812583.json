@@ -1,11 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "duyek", 
-            "mb_tag": "d\u00fcyek", 
-            "source": "http://musicbrainz.org/recording/bd603702-e3da-4cc1-b1b5-e8c169812583"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [], 
     "releases": [
         {
@@ -22,6 +16,12 @@
         }
     ], 
     "mbid": "bd603702-e3da-4cc1-b1b5-e8c169812583", 
+    "works": [
+        {
+            "mbid": "38a22855-44f6-4e9d-854a-991bf5e47a3a", 
+            "title": "Menek\u015fe G\u00f6zler"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "huzzam", 
@@ -44,11 +44,11 @@
             "name": "Aziz T\u00fcrk Sanat M\u00fczi\u011fi Grubu"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "38a22855-44f6-4e9d-854a-991bf5e47a3a", 
-            "title": "Menek\u015fe G\u00f6zler"
+            "attribute_key": "duyek", 
+            "mb_tag": "d\u00fcyek", 
+            "source": "http://musicbrainz.org/recording/bd603702-e3da-4cc1-b1b5-e8c169812583"
         }
     ]
 }

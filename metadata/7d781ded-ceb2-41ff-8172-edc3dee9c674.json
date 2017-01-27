@@ -1,11 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "yuruksemai", 
-            "mb_attribute": "Y\u00fcr\u00fcksemai", 
-            "source": "http://musicbrainz.org/work/b2b286f3-6522-4076-8702-91944e460f10"
-        }
-    ], 
+    "instrumentation_voicing": "duo instrumental", 
     "form": [
         {
             "attribute_key": "yuruksemai", 
@@ -33,6 +27,12 @@
         }
     ], 
     "mbid": "7d781ded-ceb2-41ff-8172-edc3dee9c674", 
+    "works": [
+        {
+            "mbid": "b2b286f3-6522-4076-8702-91944e460f10", 
+            "title": "G\u00f6n\u00fcller U\u011frusu"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "huseyni", 
@@ -58,11 +58,11 @@
             "name": "Tanburi Cemil Bey"
         }
     ], 
-    "instrumentation_voicing": "Duo instrumental", 
-    "works": [
+    "usul": [
         {
-            "mbid": "b2b286f3-6522-4076-8702-91944e460f10", 
-            "title": "G\u00f6n\u00fcller U\u011frusu"
+            "attribute_key": "yuruksemai", 
+            "mb_attribute": "Y\u00fcr\u00fcksemai", 
+            "source": "http://musicbrainz.org/work/b2b286f3-6522-4076-8702-91944e460f10"
         }
     ]
 }

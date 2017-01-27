@@ -1,5 +1,5 @@
 {
-    "usul": [], 
+    "instrumentation_voicing": "ensemble instrumental", 
     "form": [
         {
             "attribute_key": "pesrev", 
@@ -27,6 +27,12 @@
         }
     ], 
     "mbid": "94302cb3-49f0-4d46-bd4b-72c69d705360", 
+    "works": [
+        {
+            "mbid": "637e7207-802a-45f7-ba88-02d9f450e0eb", 
+            "title": "Acema\u015firan Pe\u015frevi"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "acemasiran", 
@@ -46,11 +52,5 @@
             "name": "Ankara Radyosu Saz Sanat\u00e7\u0131lar\u0131"
         }
     ], 
-    "instrumentation_voicing": "Ensemble instrumental", 
-    "works": [
-        {
-            "mbid": "637e7207-802a-45f7-ba88-02d9f450e0eb", 
-            "title": "Acema\u015firan Pe\u015frevi"
-        }
-    ]
+    "usul": []
 }

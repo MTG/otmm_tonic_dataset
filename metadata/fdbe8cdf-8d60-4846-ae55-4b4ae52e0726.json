@@ -1,5 +1,11 @@
 {
-    "instrumentation_voicing": "Solo instrumental", 
+    "usul": [
+        {
+            "attribute_key": "serbest", 
+            "mb_tag": "serbest", 
+            "source": "http://musicbrainz.org/recording/fdbe8cdf-8d60-4846-ae55-4b4ae52e0726"
+        }
+    ], 
     "form": [
         {
             "attribute_key": "taksim", 
@@ -39,11 +45,5 @@
             "name": "Ahmet \u015eahin"
         }
     ], 
-    "usul": [
-        {
-            "attribute_key": "serbest", 
-            "mb_tag": "serbest", 
-            "source": "http://musicbrainz.org/recording/fdbe8cdf-8d60-4846-ae55-4b4ae52e0726"
-        }
-    ]
+    "instrumentation_voicing": "solo instrumental"
 }

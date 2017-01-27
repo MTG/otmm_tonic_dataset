@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "aksak", 
-            "mb_attribute": "Aksak", 
-            "source": "http://musicbrainz.org/work/9314909a-0b7b-3b85-8f44-de00054cef87"
-        }, 
-        {
-            "attribute_key": "aksak", 
-            "mb_tag": "aksak", 
-            "source": "http://musicbrainz.org/recording/27363779-acc7-43b4-9042-fc00ca7eb5fa"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "27363779-acc7-43b4-9042-fc00ca7eb5fa", 
+    "works": [
+        {
+            "mbid": "9314909a-0b7b-3b85-8f44-de00054cef87", 
+            "title": "Yok Ba\u015fka Yerin L\u00fctfu"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "nihavent", 
@@ -62,11 +57,16 @@
             "name": "[unknown]"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "9314909a-0b7b-3b85-8f44-de00054cef87", 
-            "title": "Yok Ba\u015fka Yerin L\u00fctfu"
+            "attribute_key": "aksak", 
+            "mb_attribute": "Aksak", 
+            "source": "http://musicbrainz.org/work/9314909a-0b7b-3b85-8f44-de00054cef87"
+        }, 
+        {
+            "attribute_key": "aksak", 
+            "mb_tag": "aksak", 
+            "source": "http://musicbrainz.org/recording/27363779-acc7-43b4-9042-fc00ca7eb5fa"
         }
     ]
 }

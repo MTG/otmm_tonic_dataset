@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "sofyan", 
-            "mb_attribute": "Sofyan", 
-            "source": "http://musicbrainz.org/work/d1a3ef59-2a1f-4672-84dd-aa0a2a4f3fb3"
-        }, 
-        {
-            "attribute_key": "sofyan", 
-            "mb_tag": "sofyan", 
-            "source": "http://musicbrainz.org/recording/316533cf-04fd-4416-8f32-ff84becc8a2e"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "316533cf-04fd-4416-8f32-ff84becc8a2e", 
+    "works": [
+        {
+            "mbid": "d1a3ef59-2a1f-4672-84dd-aa0a2a4f3fb3", 
+            "title": "C\u00fcmle \u015eark\u0131lar Yar\u0131m G\u00f6zlerinde"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "rast", 
@@ -62,11 +57,16 @@
             "name": "Zuhal E\u011filmez"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "d1a3ef59-2a1f-4672-84dd-aa0a2a4f3fb3", 
-            "title": "C\u00fcmle \u015eark\u0131lar Yar\u0131m G\u00f6zlerinde"
+            "attribute_key": "sofyan", 
+            "mb_attribute": "Sofyan", 
+            "source": "http://musicbrainz.org/work/d1a3ef59-2a1f-4672-84dd-aa0a2a4f3fb3"
+        }, 
+        {
+            "attribute_key": "sofyan", 
+            "mb_tag": "sofyan", 
+            "source": "http://musicbrainz.org/recording/316533cf-04fd-4416-8f32-ff84becc8a2e"
         }
     ]
 }

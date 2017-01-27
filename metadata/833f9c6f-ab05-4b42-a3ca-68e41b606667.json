@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "devrihindi", 
-            "mb_attribute": "Devr-i Hindi", 
-            "source": "http://musicbrainz.org/work/9e565df7-28d2-4452-9307-665e4d08a8ed"
-        }, 
-        {
-            "attribute_key": "devrihindi", 
-            "mb_tag": "devr-i hindi", 
-            "source": "http://musicbrainz.org/recording/833f9c6f-ab05-4b42-a3ca-68e41b606667"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "833f9c6f-ab05-4b42-a3ca-68e41b606667", 
+    "works": [
+        {
+            "mbid": "9e565df7-28d2-4452-9307-665e4d08a8ed", 
+            "title": "Sevmemi\u015f Bir Sevdi\u011fim Var"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "karcigar", 
@@ -62,11 +57,16 @@
             "name": "Meral U\u011furlu"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "9e565df7-28d2-4452-9307-665e4d08a8ed", 
-            "title": "Sevmemi\u015f Bir Sevdi\u011fim Var"
+            "attribute_key": "devrihindi", 
+            "mb_attribute": "Devr-i Hindi", 
+            "source": "http://musicbrainz.org/work/9e565df7-28d2-4452-9307-665e4d08a8ed"
+        }, 
+        {
+            "attribute_key": "devrihindi", 
+            "mb_tag": "devr-i hindi", 
+            "source": "http://musicbrainz.org/recording/833f9c6f-ab05-4b42-a3ca-68e41b606667"
         }
     ]
 }

@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "duyek", 
-            "mb_attribute": "D\u00fcyek", 
-            "source": "http://musicbrainz.org/work/06af51e6-6f5d-451d-bae9-5b6641c6a82c"
-        }, 
-        {
-            "attribute_key": "duyek", 
-            "mb_tag": "d\u00fcyek", 
-            "source": "http://musicbrainz.org/recording/ad1e74ff-bb4d-45b5-9ca8-f62d7d6aec32"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "ad1e74ff-bb4d-45b5-9ca8-f62d7d6aec32", 
+    "works": [
+        {
+            "mbid": "06af51e6-6f5d-451d-bae9-5b6641c6a82c", 
+            "title": "Bir G\u00fcn Bana Geleceksin Y\u0131llardan Sonra"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "acemkurdi", 
@@ -177,11 +172,16 @@
             "name": "Talat Er"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "06af51e6-6f5d-451d-bae9-5b6641c6a82c", 
-            "title": "Bir G\u00fcn Bana Geleceksin Y\u0131llardan Sonra"
+            "attribute_key": "duyek", 
+            "mb_attribute": "D\u00fcyek", 
+            "source": "http://musicbrainz.org/work/06af51e6-6f5d-451d-bae9-5b6641c6a82c"
+        }, 
+        {
+            "attribute_key": "duyek", 
+            "mb_tag": "d\u00fcyek", 
+            "source": "http://musicbrainz.org/recording/ad1e74ff-bb4d-45b5-9ca8-f62d7d6aec32"
         }
     ]
 }

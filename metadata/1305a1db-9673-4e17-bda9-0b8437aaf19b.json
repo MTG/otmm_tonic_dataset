@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "turkaksagi", 
-            "mb_attribute": "T\u00fcrkaksa\u011f\u0131", 
-            "source": "http://musicbrainz.org/work/b78bffc8-ebc9-42f8-9a12-9ca86c195a61"
-        }, 
-        {
-            "attribute_key": "turkaksagi_ii", 
-            "mb_tag": "t\u00fcrkaksa\u011f\u0131", 
-            "source": "http://musicbrainz.org/recording/1305a1db-9673-4e17-bda9-0b8437aaf19b"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal without accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "1305a1db-9673-4e17-bda9-0b8437aaf19b", 
+    "works": [
+        {
+            "mbid": "b78bffc8-ebc9-42f8-9a12-9ca86c195a61", 
+            "title": "Bilmem ki Safa Ne\u015fe Bu \u00d6mr\u00fcn Neresinde"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "karcigar", 
@@ -57,11 +52,16 @@
             "name": "Turhan \u00d6ge"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal without accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "b78bffc8-ebc9-42f8-9a12-9ca86c195a61", 
-            "title": "Bilmem ki Safa Ne\u015fe Bu \u00d6mr\u00fcn Neresinde"
+            "attribute_key": "turkaksagi", 
+            "mb_attribute": "T\u00fcrkaksa\u011f\u0131", 
+            "source": "http://musicbrainz.org/work/b78bffc8-ebc9-42f8-9a12-9ca86c195a61"
+        }, 
+        {
+            "attribute_key": "turkaksagi_ii", 
+            "mb_tag": "t\u00fcrkaksa\u011f\u0131", 
+            "source": "http://musicbrainz.org/recording/1305a1db-9673-4e17-bda9-0b8437aaf19b"
         }
     ]
 }

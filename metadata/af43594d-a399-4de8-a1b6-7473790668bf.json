@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "duyek", 
-            "mb_attribute": "D\u00fcyek", 
-            "source": "http://musicbrainz.org/work/3601efbc-b05b-4f54-ba07-584a842de72e"
-        }, 
-        {
-            "attribute_key": "duyek", 
-            "mb_tag": "d\u00fcyek", 
-            "source": "http://musicbrainz.org/recording/af43594d-a399-4de8-a1b6-7473790668bf"
-        }
-    ], 
+    "instrumentation_voicing": "solo instrumental", 
     "form": [
         {
             "attribute_key": "pesrev", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "af43594d-a399-4de8-a1b6-7473790668bf", 
+    "works": [
+        {
+            "mbid": "3601efbc-b05b-4f54-ba07-584a842de72e", 
+            "title": "Mahur Pe\u015frevi"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "mahur", 
@@ -60,11 +55,16 @@
             "name": "Necdet Ya\u015far"
         }
     ], 
-    "instrumentation_voicing": "Solo instrumental", 
-    "works": [
+    "usul": [
         {
-            "mbid": "3601efbc-b05b-4f54-ba07-584a842de72e", 
-            "title": "Mahur Pe\u015frevi"
+            "attribute_key": "duyek", 
+            "mb_attribute": "D\u00fcyek", 
+            "source": "http://musicbrainz.org/work/3601efbc-b05b-4f54-ba07-584a842de72e"
+        }, 
+        {
+            "attribute_key": "duyek", 
+            "mb_tag": "d\u00fcyek", 
+            "source": "http://musicbrainz.org/recording/af43594d-a399-4de8-a1b6-7473790668bf"
         }
     ]
 }

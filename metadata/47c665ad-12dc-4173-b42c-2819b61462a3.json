@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "curcuna", 
-            "mb_attribute": "Curcuna", 
-            "source": "http://musicbrainz.org/work/d80a06e8-11e3-4323-a2f0-1208f3c4c138"
-        }, 
-        {
-            "attribute_key": "kapali_curcuna", 
-            "mb_tag": "curcuna", 
-            "source": "http://musicbrainz.org/recording/47c665ad-12dc-4173-b42c-2819b61462a3"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal without accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "47c665ad-12dc-4173-b42c-2819b61462a3", 
+    "works": [
+        {
+            "mbid": "d80a06e8-11e3-4323-a2f0-1208f3c4c138", 
+            "title": "H\u00fcsranla G\u00f6n\u00fcl Hep \u0130nler"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "nihavent", 
@@ -57,11 +52,16 @@
             "name": "Zeki M\u00fcren"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal without accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "d80a06e8-11e3-4323-a2f0-1208f3c4c138", 
-            "title": "H\u00fcsranla G\u00f6n\u00fcl Hep \u0130nler"
+            "attribute_key": "curcuna", 
+            "mb_attribute": "Curcuna", 
+            "source": "http://musicbrainz.org/work/d80a06e8-11e3-4323-a2f0-1208f3c4c138"
+        }, 
+        {
+            "attribute_key": "kapali_curcuna", 
+            "mb_tag": "curcuna", 
+            "source": "http://musicbrainz.org/recording/47c665ad-12dc-4173-b42c-2819b61462a3"
         }
     ]
 }

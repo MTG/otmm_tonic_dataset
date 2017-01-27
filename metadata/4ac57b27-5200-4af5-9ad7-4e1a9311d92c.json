@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "duyek", 
-            "mb_attribute": "D\u00fcyek", 
-            "source": "http://musicbrainz.org/work/196dee2d-321d-4408-b22e-9c27d5b27bb3"
-        }, 
-        {
-            "attribute_key": "duyek", 
-            "mb_tag": "d\u00fcyek", 
-            "source": "http://musicbrainz.org/recording/4ac57b27-5200-4af5-9ad7-4e1a9311d92c"
-        }
-    ], 
+    "instrumentation_voicing": "ensemble instrumental", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "4ac57b27-5200-4af5-9ad7-4e1a9311d92c", 
+    "works": [
+        {
+            "mbid": "196dee2d-321d-4408-b22e-9c27d5b27bb3", 
+            "title": "Unut Beni"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "rast", 
@@ -57,11 +52,16 @@
             "name": "Aziz T\u00fcrk Sanat M\u00fczi\u011fi Grubu"
         }
     ], 
-    "instrumentation_voicing": "Ensemble instrumental", 
-    "works": [
+    "usul": [
         {
-            "mbid": "196dee2d-321d-4408-b22e-9c27d5b27bb3", 
-            "title": "Unut Beni"
+            "attribute_key": "duyek", 
+            "mb_attribute": "D\u00fcyek", 
+            "source": "http://musicbrainz.org/work/196dee2d-321d-4408-b22e-9c27d5b27bb3"
+        }, 
+        {
+            "attribute_key": "duyek", 
+            "mb_tag": "d\u00fcyek", 
+            "source": "http://musicbrainz.org/recording/4ac57b27-5200-4af5-9ad7-4e1a9311d92c"
         }
     ]
 }

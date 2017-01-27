@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "agirduyek", 
-            "mb_attribute": "A\u011f\u0131rd\u00fcyek", 
-            "source": "http://musicbrainz.org/work/7207c53b-2d50-4926-a76b-f66ea636829d"
-        }, 
-        {
-            "attribute_key": "agirduyek", 
-            "mb_tag": "a\u011f\u0131rd\u00fcyek", 
-            "source": "http://musicbrainz.org/recording/4d9f1f51-9d0d-41b4-923d-ad4a308a3e75"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "4d9f1f51-9d0d-41b4-923d-ad4a308a3e75", 
+    "works": [
+        {
+            "mbid": "7207c53b-2d50-4926-a76b-f66ea636829d", 
+            "title": "Var m\u0131 Cana Derd-i A\u015fk\u0131n \u00c7aresi"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "hicaz_humayun", 
@@ -62,11 +57,16 @@
             "name": "Bekir S\u0131dk\u0131 Sezgin"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "7207c53b-2d50-4926-a76b-f66ea636829d", 
-            "title": "Var m\u0131 Cana Derd-i A\u015fk\u0131n \u00c7aresi"
+            "attribute_key": "agirduyek", 
+            "mb_attribute": "A\u011f\u0131rd\u00fcyek", 
+            "source": "http://musicbrainz.org/work/7207c53b-2d50-4926-a76b-f66ea636829d"
+        }, 
+        {
+            "attribute_key": "agirduyek", 
+            "mb_tag": "a\u011f\u0131rd\u00fcyek", 
+            "source": "http://musicbrainz.org/recording/4d9f1f51-9d0d-41b4-923d-ad4a308a3e75"
         }
     ]
 }

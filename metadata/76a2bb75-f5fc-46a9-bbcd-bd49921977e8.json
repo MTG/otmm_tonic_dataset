@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "yuruksemai", 
-            "mb_attribute": "Y\u00fcr\u00fcksemai", 
-            "source": "http://musicbrainz.org/work/bf4f8c62-bed1-41d9-833b-e1354c186a30"
-        }, 
-        {
-            "attribute_key": "yuruksemai", 
-            "mb_tag": "y\u00fcr\u00fcksemai", 
-            "source": "http://musicbrainz.org/recording/76a2bb75-f5fc-46a9-bbcd-bd49921977e8"
-        }
-    ], 
+    "instrumentation_voicing": "ensemble instrumental", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -42,6 +31,12 @@
         }
     ], 
     "mbid": "76a2bb75-f5fc-46a9-bbcd-bd49921977e8", 
+    "works": [
+        {
+            "mbid": "bf4f8c62-bed1-41d9-833b-e1354c186a30", 
+            "title": "Unutulmu\u015f Birer Birer"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "rast", 
@@ -61,11 +56,16 @@
             "name": "Aziz T\u00fcrk Sanat M\u00fczi\u011fi Grubu"
         }
     ], 
-    "instrumentation_voicing": "Ensemble instrumental", 
-    "works": [
+    "usul": [
         {
-            "mbid": "bf4f8c62-bed1-41d9-833b-e1354c186a30", 
-            "title": "Unutulmu\u015f Birer Birer"
+            "attribute_key": "yuruksemai", 
+            "mb_attribute": "Y\u00fcr\u00fcksemai", 
+            "source": "http://musicbrainz.org/work/bf4f8c62-bed1-41d9-833b-e1354c186a30"
+        }, 
+        {
+            "attribute_key": "yuruksemai", 
+            "mb_tag": "y\u00fcr\u00fcksemai", 
+            "source": "http://musicbrainz.org/recording/76a2bb75-f5fc-46a9-bbcd-bd49921977e8"
         }
     ]
 }

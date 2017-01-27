@@ -1,5 +1,11 @@
 {
-    "instrumentation_voicing": "Solo vocal without accompaniment", 
+    "usul": [
+        {
+            "attribute_key": "serbest", 
+            "mb_tag": "serbest", 
+            "source": "http://musicbrainz.org/recording/8e563b52-2c02-4aa6-9af2-b4742c4c2e4e"
+        }
+    ], 
     "form": [
         {
             "attribute_key": "gazel", 
@@ -36,11 +42,5 @@
             "name": "Isaac Algazi"
         }
     ], 
-    "usul": [
-        {
-            "attribute_key": "serbest", 
-            "mb_tag": "serbest", 
-            "source": "http://musicbrainz.org/recording/8e563b52-2c02-4aa6-9af2-b4742c4c2e4e"
-        }
-    ]
+    "instrumentation_voicing": "solo vocal without accompaniment"
 }

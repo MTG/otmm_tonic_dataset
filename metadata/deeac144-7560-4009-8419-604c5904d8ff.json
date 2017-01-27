@@ -1,11 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "hafif", 
-            "mb_attribute": "Hafif", 
-            "source": "http://musicbrainz.org/work/0984224d-2f97-484f-a7b7-e6f78884f30f"
-        }
-    ], 
+    "instrumentation_voicing": "duo instrumental", 
     "form": [
         {
             "attribute_key": "pesrev", 
@@ -37,6 +31,12 @@
         }
     ], 
     "mbid": "deeac144-7560-4009-8419-604c5904d8ff", 
+    "works": [
+        {
+            "mbid": "0984224d-2f97-484f-a7b7-e6f78884f30f", 
+            "title": "U\u015f\u015fak Pe\u015frev"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "ussak", 
@@ -67,11 +67,11 @@
             "name": "Derya T\u00fcrkan"
         }
     ], 
-    "instrumentation_voicing": "Duo instrumental", 
-    "works": [
+    "usul": [
         {
-            "mbid": "0984224d-2f97-484f-a7b7-e6f78884f30f", 
-            "title": "U\u015f\u015fak Pe\u015frev"
+            "attribute_key": "hafif", 
+            "mb_attribute": "Hafif", 
+            "source": "http://musicbrainz.org/work/0984224d-2f97-484f-a7b7-e6f78884f30f"
         }
     ]
 }

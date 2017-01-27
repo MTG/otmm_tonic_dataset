@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "kapali_curcuna", 
-            "mb_attribute": "Kapal\u0131 Curcuna", 
-            "source": "http://musicbrainz.org/work/9e717487-ee3a-4d52-802c-7122feaaa5d2"
-        }, 
-        {
-            "attribute_key": "kapali_curcuna", 
-            "mb_tag": "curcuna", 
-            "source": "http://musicbrainz.org/recording/3a29c7aa-eed2-45ba-9596-5b87dcf1375c"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal without accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "3a29c7aa-eed2-45ba-9596-5b87dcf1375c", 
+    "works": [
+        {
+            "mbid": "9e717487-ee3a-4d52-802c-7122feaaa5d2", 
+            "title": "Hat\u0131ramdan \u00c7\u0131kmaz Asla"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "rast", 
@@ -57,11 +52,16 @@
             "name": "Hamiyet Y\u00fcceses"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal without accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "9e717487-ee3a-4d52-802c-7122feaaa5d2", 
-            "title": "Hat\u0131ramdan \u00c7\u0131kmaz Asla"
+            "attribute_key": "kapali_curcuna", 
+            "mb_attribute": "Kapal\u0131 Curcuna", 
+            "source": "http://musicbrainz.org/work/9e717487-ee3a-4d52-802c-7122feaaa5d2"
+        }, 
+        {
+            "attribute_key": "kapali_curcuna", 
+            "mb_tag": "curcuna", 
+            "source": "http://musicbrainz.org/recording/3a29c7aa-eed2-45ba-9596-5b87dcf1375c"
         }
     ]
 }

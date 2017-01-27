@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "aksak", 
-            "mb_attribute": "Aksak", 
-            "source": "http://musicbrainz.org/work/a3afd990-6b3b-44ff-b4a5-7dcb0337222e"
-        }, 
-        {
-            "attribute_key": "aksak", 
-            "mb_tag": "aksak", 
-            "source": "http://musicbrainz.org/recording/f59af55a-e971-49d2-8f3e-0b934e0aa77b"
-        }
-    ], 
+    "instrumentation_voicing": "solo instrumental", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "f59af55a-e971-49d2-8f3e-0b934e0aa77b", 
+    "works": [
+        {
+            "mbid": "a3afd990-6b3b-44ff-b4a5-7dcb0337222e", 
+            "title": "Dil Yaresini And\u0131racak"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "hicaz", 
@@ -60,11 +55,16 @@
             "name": "Ahmet Meter"
         }
     ], 
-    "instrumentation_voicing": "Solo instrumental", 
-    "works": [
+    "usul": [
         {
-            "mbid": "a3afd990-6b3b-44ff-b4a5-7dcb0337222e", 
-            "title": "Dil Yaresini And\u0131racak"
+            "attribute_key": "aksak", 
+            "mb_attribute": "Aksak", 
+            "source": "http://musicbrainz.org/work/a3afd990-6b3b-44ff-b4a5-7dcb0337222e"
+        }, 
+        {
+            "attribute_key": "aksak", 
+            "mb_tag": "aksak", 
+            "source": "http://musicbrainz.org/recording/f59af55a-e971-49d2-8f3e-0b934e0aa77b"
         }
     ]
 }

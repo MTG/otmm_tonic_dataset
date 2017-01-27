@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "agirduyek", 
-            "mb_attribute": "A\u011f\u0131rd\u00fcyek", 
-            "source": "http://musicbrainz.org/work/787d2c10-4cfd-45dd-9713-ec173719695a"
-        }, 
-        {
-            "attribute_key": "duyek", 
-            "mb_tag": "d\u00fcyek", 
-            "source": "http://musicbrainz.org/recording/90ce68fd-f23b-46ee-bf9d-bc211935df8c"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal without accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "90ce68fd-f23b-46ee-bf9d-bc211935df8c", 
+    "works": [
+        {
+            "mbid": "787d2c10-4cfd-45dd-9713-ec173719695a", 
+            "title": "Kime Halim Diyeyim/ Kime \u015eekva Edeyim"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "acemasiran", 
@@ -57,11 +52,16 @@
             "name": "Sabite Tur G\u00fclerman"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal without accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "787d2c10-4cfd-45dd-9713-ec173719695a", 
-            "title": "Kime Halim Diyeyim/ Kime \u015eekva Edeyim"
+            "attribute_key": "agirduyek", 
+            "mb_attribute": "A\u011f\u0131rd\u00fcyek", 
+            "source": "http://musicbrainz.org/work/787d2c10-4cfd-45dd-9713-ec173719695a"
+        }, 
+        {
+            "attribute_key": "duyek", 
+            "mb_tag": "d\u00fcyek", 
+            "source": "http://musicbrainz.org/recording/90ce68fd-f23b-46ee-bf9d-bc211935df8c"
         }
     ]
 }

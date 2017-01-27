@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "darbifetih", 
-            "mb_attribute": "Darb-\u0131 Fetih", 
-            "source": "http://musicbrainz.org/work/f262511a-6aef-4c52-a59d-f4b1085b536a"
-        }, 
-        {
-            "attribute_key": "darbifetih", 
-            "mb_tag": "darb-\u0131 fetih", 
-            "source": "http://musicbrainz.org/recording/604380e4-1979-4b7f-8187-e3e17d66df1a"
-        }
-    ], 
+    "instrumentation_voicing": "ensemble instrumental", 
     "form": [
         {
             "attribute_key": "pesrev", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "604380e4-1979-4b7f-8187-e3e17d66df1a", 
+    "works": [
+        {
+            "mbid": "f262511a-6aef-4c52-a59d-f4b1085b536a", 
+            "title": "Beyati Pe\u015frevi"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "beyati", 
@@ -220,11 +215,16 @@
             "name": "Tar\u0131k Kemanc\u0131"
         }
     ], 
-    "instrumentation_voicing": "Ensemble instrumental", 
-    "works": [
+    "usul": [
         {
-            "mbid": "f262511a-6aef-4c52-a59d-f4b1085b536a", 
-            "title": "Beyati Pe\u015frevi"
+            "attribute_key": "darbifetih", 
+            "mb_attribute": "Darb-\u0131 Fetih", 
+            "source": "http://musicbrainz.org/work/f262511a-6aef-4c52-a59d-f4b1085b536a"
+        }, 
+        {
+            "attribute_key": "darbifetih", 
+            "mb_tag": "darb-\u0131 fetih", 
+            "source": "http://musicbrainz.org/recording/604380e4-1979-4b7f-8187-e3e17d66df1a"
         }
     ]
 }

@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "aksaksemai", 
-            "mb_attribute": "Aksaksemai", 
-            "source": "http://musicbrainz.org/work/e9456d5a-8cf7-42c2-a819-8c29bbe6af01"
-        }, 
-        {
-            "attribute_key": "aksaksemai", 
-            "mb_tag": "aksaksemai", 
-            "source": "http://musicbrainz.org/recording/89d2c6d4-d66d-4f0e-b38c-f0ed7c833923"
-        }
-    ], 
+    "instrumentation_voicing": "trio instrumental", 
     "form": [
         {
             "attribute_key": "sazsemaisi", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "89d2c6d4-d66d-4f0e-b38c-f0ed7c833923", 
+    "works": [
+        {
+            "mbid": "e9456d5a-8cf7-42c2-a819-8c29bbe6af01", 
+            "title": "Tahirbuselik Sazsemaisi"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "tahirbuselik", 
@@ -76,11 +71,16 @@
             "name": "\u015eevki Bey"
         }
     ], 
-    "instrumentation_voicing": "Trio instrumental", 
-    "works": [
+    "usul": [
         {
-            "mbid": "e9456d5a-8cf7-42c2-a819-8c29bbe6af01", 
-            "title": "Tahirbuselik Sazsemaisi"
+            "attribute_key": "aksaksemai", 
+            "mb_attribute": "Aksaksemai", 
+            "source": "http://musicbrainz.org/work/e9456d5a-8cf7-42c2-a819-8c29bbe6af01"
+        }, 
+        {
+            "attribute_key": "aksaksemai", 
+            "mb_tag": "aksaksemai", 
+            "source": "http://musicbrainz.org/recording/89d2c6d4-d66d-4f0e-b38c-f0ed7c833923"
         }
     ]
 }

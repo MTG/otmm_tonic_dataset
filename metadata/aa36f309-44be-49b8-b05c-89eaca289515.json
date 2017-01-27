@@ -1,11 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "zencir", 
-            "mb_attribute": "Zencir", 
-            "source": "http://musicbrainz.org/work/d1bb61c1-a779-4515-81f6-cda83473374a"
-        }
-    ], 
+    "instrumentation_voicing": "ensemble instrumental", 
     "form": [
         {
             "attribute_key": "pesrev", 
@@ -33,6 +27,12 @@
         }
     ], 
     "mbid": "aa36f309-44be-49b8-b05c-89eaca289515", 
+    "works": [
+        {
+            "mbid": "d1bb61c1-a779-4515-81f6-cda83473374a", 
+            "title": "\u015eehnaz Pe\u015frev"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "sehnaz", 
@@ -194,11 +194,11 @@
             "name": "Nam\u0131k Ta\u015fp\u0131narl\u0131"
         }
     ], 
-    "instrumentation_voicing": "Ensemble instrumental", 
-    "works": [
+    "usul": [
         {
-            "mbid": "d1bb61c1-a779-4515-81f6-cda83473374a", 
-            "title": "\u015eehnaz Pe\u015frev"
+            "attribute_key": "zencir", 
+            "mb_attribute": "Zencir", 
+            "source": "http://musicbrainz.org/work/d1bb61c1-a779-4515-81f6-cda83473374a"
         }
     ]
 }

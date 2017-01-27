@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "agir_aksaksemai", 
-            "mb_attribute": "A\u011f\u0131r Aksaksemai", 
-            "source": "http://musicbrainz.org/work/8290356a-be75-4660-80ee-17a07e4c9d64"
-        }, 
-        {
-            "attribute_key": "agir_aksaksemai", 
-            "mb_tag": "a\u011f\u0131r aksaksemai", 
-            "source": "http://musicbrainz.org/recording/f9703013-27f6-4f3c-ad35-bbaff6ae9062"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "f9703013-27f6-4f3c-ad35-bbaff6ae9062", 
+    "works": [
+        {
+            "mbid": "8290356a-be75-4660-80ee-17a07e4c9d64", 
+            "title": "\u00c7ok K\u0131ld\u0131 Harab Dilleri Mamur-u Nigah\u0131n"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "segah", 
@@ -62,11 +57,16 @@
             "name": "Meral U\u011furlu"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "8290356a-be75-4660-80ee-17a07e4c9d64", 
-            "title": "\u00c7ok K\u0131ld\u0131 Harab Dilleri Mamur-u Nigah\u0131n"
+            "attribute_key": "agir_aksaksemai", 
+            "mb_attribute": "A\u011f\u0131r Aksaksemai", 
+            "source": "http://musicbrainz.org/work/8290356a-be75-4660-80ee-17a07e4c9d64"
+        }, 
+        {
+            "attribute_key": "agir_aksaksemai", 
+            "mb_tag": "a\u011f\u0131r aksaksemai", 
+            "source": "http://musicbrainz.org/recording/f9703013-27f6-4f3c-ad35-bbaff6ae9062"
         }
     ]
 }

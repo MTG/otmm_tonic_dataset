@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "devrikebir", 
-            "mb_attribute": "Devr-i Kebir", 
-            "source": "http://musicbrainz.org/work/a2359815-ad37-4b87-b1c3-f58f738ab73a"
-        }, 
-        {
-            "attribute_key": "devrikebir", 
-            "mb_tag": "devr-i kebir", 
-            "source": "http://musicbrainz.org/recording/662ce606-ab89-4dbe-a0db-ec40eef6e6f3"
-        }
-    ], 
+    "instrumentation_voicing": "duo instrumental", 
     "form": [
         {
             "attribute_key": "pesrev", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "662ce606-ab89-4dbe-a0db-ec40eef6e6f3", 
+    "works": [
+        {
+            "mbid": "a2359815-ad37-4b87-b1c3-f58f738ab73a", 
+            "title": "Hicazkar Pe\u015frev"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "hicazkar", 
@@ -68,11 +63,16 @@
             "name": "\u015eevki Bey"
         }
     ], 
-    "instrumentation_voicing": "Duo instrumental", 
-    "works": [
+    "usul": [
         {
-            "mbid": "a2359815-ad37-4b87-b1c3-f58f738ab73a", 
-            "title": "Hicazkar Pe\u015frev"
+            "attribute_key": "devrikebir", 
+            "mb_attribute": "Devr-i Kebir", 
+            "source": "http://musicbrainz.org/work/a2359815-ad37-4b87-b1c3-f58f738ab73a"
+        }, 
+        {
+            "attribute_key": "devrikebir", 
+            "mb_tag": "devr-i kebir", 
+            "source": "http://musicbrainz.org/recording/662ce606-ab89-4dbe-a0db-ec40eef6e6f3"
         }
     ]
 }

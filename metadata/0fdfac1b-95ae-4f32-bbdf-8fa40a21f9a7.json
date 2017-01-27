@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "duyek", 
-            "mb_attribute": "D\u00fcyek", 
-            "source": "http://musicbrainz.org/work/4e3241e0-cf4e-44b8-ab0e-eb342df832f1"
-        }, 
-        {
-            "attribute_key": "duyek", 
-            "mb_tag": "d\u00fcyek", 
-            "source": "http://musicbrainz.org/recording/0fdfac1b-95ae-4f32-bbdf-8fa40a21f9a7"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -42,6 +31,12 @@
         }
     ], 
     "mbid": "0fdfac1b-95ae-4f32-bbdf-8fa40a21f9a7", 
+    "works": [
+        {
+            "mbid": "4e3241e0-cf4e-44b8-ab0e-eb342df832f1", 
+            "title": "G\u00f6zlerin bir a\u015fk bilmecesi"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "nihavent", 
@@ -66,11 +61,16 @@
             "name": "Mediha \u015een Sancako\u011flu"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "4e3241e0-cf4e-44b8-ab0e-eb342df832f1", 
-            "title": "G\u00f6zlerin bir a\u015fk bilmecesi"
+            "attribute_key": "duyek", 
+            "mb_attribute": "D\u00fcyek", 
+            "source": "http://musicbrainz.org/work/4e3241e0-cf4e-44b8-ab0e-eb342df832f1"
+        }, 
+        {
+            "attribute_key": "duyek", 
+            "mb_tag": "d\u00fcyek", 
+            "source": "http://musicbrainz.org/recording/0fdfac1b-95ae-4f32-bbdf-8fa40a21f9a7"
         }
     ]
 }

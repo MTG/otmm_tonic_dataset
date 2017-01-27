@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "duyek", 
-            "mb_attribute": "D\u00fcyek", 
-            "source": "http://musicbrainz.org/work/bda632cd-ddf5-4e3e-9175-d71ecd2abc15"
-        }, 
-        {
-            "attribute_key": "duyek", 
-            "mb_tag": "d\u00fcyek", 
-            "source": "http://musicbrainz.org/recording/1c1a1689-170b-498e-9f94-d2d806f1d939"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal without accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "1c1a1689-170b-498e-9f94-d2d806f1d939", 
+    "works": [
+        {
+            "mbid": "bda632cd-ddf5-4e3e-9175-d71ecd2abc15", 
+            "title": "Ne Yapt\u0131m Kendimi Nas\u0131l Aldatt\u0131m"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "ussak", 
@@ -57,11 +52,16 @@
             "name": "M\u00fczeyyen Senar"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal without accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "bda632cd-ddf5-4e3e-9175-d71ecd2abc15", 
-            "title": "Ne Yapt\u0131m Kendimi Nas\u0131l Aldatt\u0131m"
+            "attribute_key": "duyek", 
+            "mb_attribute": "D\u00fcyek", 
+            "source": "http://musicbrainz.org/work/bda632cd-ddf5-4e3e-9175-d71ecd2abc15"
+        }, 
+        {
+            "attribute_key": "duyek", 
+            "mb_tag": "d\u00fcyek", 
+            "source": "http://musicbrainz.org/recording/1c1a1689-170b-498e-9f94-d2d806f1d939"
         }
     ]
 }

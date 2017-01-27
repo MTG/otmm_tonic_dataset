@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "aksak", 
-            "mb_attribute": "Aksak", 
-            "source": "http://musicbrainz.org/work/3e97b3ce-6814-454b-adae-22497dbec76f"
-        }, 
-        {
-            "attribute_key": "aksak", 
-            "mb_tag": "aksak", 
-            "source": "http://musicbrainz.org/recording/601ae54a-4068-4d63-97e5-790710de6528"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "601ae54a-4068-4d63-97e5-790710de6528", 
+    "works": [
+        {
+            "mbid": "3e97b3ce-6814-454b-adae-22497dbec76f", 
+            "title": "Zencir-i A\u015fk\u0131n Dil Bestesiyim"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "segah", 
@@ -62,11 +57,16 @@
             "name": "Bekir S\u0131dk\u0131 Sezgin"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "3e97b3ce-6814-454b-adae-22497dbec76f", 
-            "title": "Zencir-i A\u015fk\u0131n Dil Bestesiyim"
+            "attribute_key": "aksak", 
+            "mb_attribute": "Aksak", 
+            "source": "http://musicbrainz.org/work/3e97b3ce-6814-454b-adae-22497dbec76f"
+        }, 
+        {
+            "attribute_key": "aksak", 
+            "mb_tag": "aksak", 
+            "source": "http://musicbrainz.org/recording/601ae54a-4068-4d63-97e5-790710de6528"
         }
     ]
 }

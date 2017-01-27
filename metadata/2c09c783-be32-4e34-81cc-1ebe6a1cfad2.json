@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "aksak", 
-            "mb_attribute": "Aksak", 
-            "source": "http://musicbrainz.org/work/a7ce1d89-4748-4dc6-b654-caa64d96d8ed"
-        }, 
-        {
-            "attribute_key": "aksak", 
-            "mb_tag": "aksak", 
-            "source": "http://musicbrainz.org/recording/2c09c783-be32-4e34-81cc-1ebe6a1cfad2"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal without accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "2c09c783-be32-4e34-81cc-1ebe6a1cfad2", 
+    "works": [
+        {
+            "mbid": "a7ce1d89-4748-4dc6-b654-caa64d96d8ed", 
+            "title": "K\u0131z Sen Ne G\u00fczelsin"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "hicaz", 
@@ -57,11 +52,16 @@
             "name": "Cengizhan S\u00f6nmez"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal without accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "a7ce1d89-4748-4dc6-b654-caa64d96d8ed", 
-            "title": "K\u0131z Sen Ne G\u00fczelsin"
+            "attribute_key": "aksak", 
+            "mb_attribute": "Aksak", 
+            "source": "http://musicbrainz.org/work/a7ce1d89-4748-4dc6-b654-caa64d96d8ed"
+        }, 
+        {
+            "attribute_key": "aksak", 
+            "mb_tag": "aksak", 
+            "source": "http://musicbrainz.org/recording/2c09c783-be32-4e34-81cc-1ebe6a1cfad2"
         }
     ]
 }

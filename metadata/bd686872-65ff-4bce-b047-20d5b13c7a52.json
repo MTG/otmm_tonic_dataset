@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "duyek", 
-            "mb_attribute": "D\u00fcyek", 
-            "source": "http://musicbrainz.org/work/aff4262e-2553-4a98-8d04-a83e22513a56"
-        }, 
-        {
-            "attribute_key": "duyek", 
-            "mb_tag": "d\u00fcyek", 
-            "source": "http://musicbrainz.org/recording/bd686872-65ff-4bce-b047-20d5b13c7a52"
-        }
-    ], 
+    "instrumentation_voicing": "duet", 
     "form": [
         {
             "attribute_key": "tevsihilahi", 
@@ -42,6 +31,12 @@
         }
     ], 
     "mbid": "bd686872-65ff-4bce-b047-20d5b13c7a52", 
+    "works": [
+        {
+            "mbid": "aff4262e-2553-4a98-8d04-a83e22513a56", 
+            "title": "Ravzana \u00c7\u00fcn Y\u00fcz S\u00fcren Bulur Eman"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "acemasiran", 
@@ -130,11 +125,16 @@
             "name": "\u00d6zer \u00d6zel"
         }
     ], 
-    "instrumentation_voicing": "Duet", 
-    "works": [
+    "usul": [
         {
-            "mbid": "aff4262e-2553-4a98-8d04-a83e22513a56", 
-            "title": "Ravzana \u00c7\u00fcn Y\u00fcz S\u00fcren Bulur Eman"
+            "attribute_key": "duyek", 
+            "mb_attribute": "D\u00fcyek", 
+            "source": "http://musicbrainz.org/work/aff4262e-2553-4a98-8d04-a83e22513a56"
+        }, 
+        {
+            "attribute_key": "duyek", 
+            "mb_tag": "d\u00fcyek", 
+            "source": "http://musicbrainz.org/recording/bd686872-65ff-4bce-b047-20d5b13c7a52"
         }
     ]
 }

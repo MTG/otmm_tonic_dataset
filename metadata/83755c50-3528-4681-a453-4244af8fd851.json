@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "zencir", 
-            "mb_attribute": "Zencir", 
-            "source": "http://musicbrainz.org/work/7d180e39-11bd-4874-a0b5-c4d75f1d686d"
-        }, 
-        {
-            "attribute_key": "zencir", 
-            "mb_tag": "zencir", 
-            "source": "http://musicbrainz.org/recording/83755c50-3528-4681-a453-4244af8fd851"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "beste", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "83755c50-3528-4681-a453-4244af8fd851", 
+    "works": [
+        {
+            "mbid": "7d180e39-11bd-4874-a0b5-c4d75f1d686d", 
+            "title": "Eri\u015fti Mevsim-i G\u00fcl Seyr-i G\u00fclistan Edelim"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "bestenigar", 
@@ -92,11 +87,16 @@
             "name": "Do\u011fan Dikmen"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "7d180e39-11bd-4874-a0b5-c4d75f1d686d", 
-            "title": "Eri\u015fti Mevsim-i G\u00fcl Seyr-i G\u00fclistan Edelim"
+            "attribute_key": "zencir", 
+            "mb_attribute": "Zencir", 
+            "source": "http://musicbrainz.org/work/7d180e39-11bd-4874-a0b5-c4d75f1d686d"
+        }, 
+        {
+            "attribute_key": "zencir", 
+            "mb_tag": "zencir", 
+            "source": "http://musicbrainz.org/recording/83755c50-3528-4681-a453-4244af8fd851"
         }
     ]
 }

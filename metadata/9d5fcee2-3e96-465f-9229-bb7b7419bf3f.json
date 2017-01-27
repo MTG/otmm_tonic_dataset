@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "musemmen", 
-            "mb_attribute": "M\u00fcsemmen", 
-            "source": "http://musicbrainz.org/work/77227562-648e-49d0-9c75-ee6557630ce7"
-        }, 
-        {
-            "attribute_key": "musemmen_ii", 
-            "mb_tag": "m\u00fcsemmen", 
-            "source": "http://musicbrainz.org/recording/9d5fcee2-3e96-465f-9229-bb7b7419bf3f"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "9d5fcee2-3e96-465f-9229-bb7b7419bf3f", 
+    "works": [
+        {
+            "mbid": "77227562-648e-49d0-9c75-ee6557630ce7", 
+            "title": "Neler \u00c7ektim Neler Canan Elinden"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "ussak", 
@@ -62,11 +57,16 @@
             "name": "Bekir S\u0131dk\u0131 Sezgin"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "77227562-648e-49d0-9c75-ee6557630ce7", 
-            "title": "Neler \u00c7ektim Neler Canan Elinden"
+            "attribute_key": "musemmen", 
+            "mb_attribute": "M\u00fcsemmen", 
+            "source": "http://musicbrainz.org/work/77227562-648e-49d0-9c75-ee6557630ce7"
+        }, 
+        {
+            "attribute_key": "musemmen_ii", 
+            "mb_tag": "m\u00fcsemmen", 
+            "source": "http://musicbrainz.org/recording/9d5fcee2-3e96-465f-9229-bb7b7419bf3f"
         }
     ]
 }

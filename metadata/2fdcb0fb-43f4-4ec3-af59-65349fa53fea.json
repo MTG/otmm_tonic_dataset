@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "raksaksagi", 
-            "mb_attribute": "Raksaksa\u011f\u0131", 
-            "source": "http://musicbrainz.org/work/36a7a9a1-faac-439d-90bb-117597e13ffc"
-        }, 
-        {
-            "attribute_key": "raksaksagi_ii", 
-            "mb_tag": "raksaksa\u011f\u0131", 
-            "source": "http://musicbrainz.org/recording/2fdcb0fb-43f4-4ec3-af59-65349fa53fea"
-        }
-    ], 
+    "instrumentation_voicing": "solo instrumental", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "2fdcb0fb-43f4-4ec3-af59-65349fa53fea", 
+    "works": [
+        {
+            "mbid": "36a7a9a1-faac-439d-90bb-117597e13ffc", 
+            "title": "Benim Yarim Geli\u015finden Bellidir"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "hicaz", 
@@ -60,11 +55,16 @@
             "name": "Ahmet Meter"
         }
     ], 
-    "instrumentation_voicing": "Solo instrumental", 
-    "works": [
+    "usul": [
         {
-            "mbid": "36a7a9a1-faac-439d-90bb-117597e13ffc", 
-            "title": "Benim Yarim Geli\u015finden Bellidir"
+            "attribute_key": "raksaksagi", 
+            "mb_attribute": "Raksaksa\u011f\u0131", 
+            "source": "http://musicbrainz.org/work/36a7a9a1-faac-439d-90bb-117597e13ffc"
+        }, 
+        {
+            "attribute_key": "raksaksagi_ii", 
+            "mb_tag": "raksaksa\u011f\u0131", 
+            "source": "http://musicbrainz.org/recording/2fdcb0fb-43f4-4ec3-af59-65349fa53fea"
         }
     ]
 }

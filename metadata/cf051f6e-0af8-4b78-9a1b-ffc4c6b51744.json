@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "curcuna", 
-            "mb_attribute": "Curcuna", 
-            "source": "http://musicbrainz.org/work/2e6f9077-e732-486f-9c3a-4c15e263c05d"
-        }, 
-        {
-            "attribute_key": "kapali_curcuna", 
-            "mb_tag": "curcuna", 
-            "source": "http://musicbrainz.org/recording/cf051f6e-0af8-4b78-9a1b-ffc4c6b51744"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal without accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "cf051f6e-0af8-4b78-9a1b-ffc4c6b51744", 
+    "works": [
+        {
+            "mbid": "2e6f9077-e732-486f-9c3a-4c15e263c05d", 
+            "title": "Bahar Bitti G\u00fcz Bitti"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "nihavent", 
@@ -57,11 +52,16 @@
             "name": "Bekir S\u0131dk\u0131 Sezgin"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal without accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "2e6f9077-e732-486f-9c3a-4c15e263c05d", 
-            "title": "Bahar Bitti G\u00fcz Bitti"
+            "attribute_key": "curcuna", 
+            "mb_attribute": "Curcuna", 
+            "source": "http://musicbrainz.org/work/2e6f9077-e732-486f-9c3a-4c15e263c05d"
+        }, 
+        {
+            "attribute_key": "kapali_curcuna", 
+            "mb_tag": "curcuna", 
+            "source": "http://musicbrainz.org/recording/cf051f6e-0af8-4b78-9a1b-ffc4c6b51744"
         }
     ]
 }

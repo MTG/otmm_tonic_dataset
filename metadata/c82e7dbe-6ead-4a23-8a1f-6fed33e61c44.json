@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "aksak", 
-            "mb_attribute": "Aksak", 
-            "source": "http://musicbrainz.org/work/f9c497dc-575a-4952-9332-e8a383da4a27"
-        }, 
-        {
-            "attribute_key": "aksak", 
-            "mb_tag": "aksak", 
-            "source": "http://musicbrainz.org/recording/c82e7dbe-6ead-4a23-8a1f-6fed33e61c44"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal without accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "c82e7dbe-6ead-4a23-8a1f-6fed33e61c44", 
+    "works": [
+        {
+            "mbid": "f9c497dc-575a-4952-9332-e8a383da4a27", 
+            "title": "\u00c7apk\u0131n Bak\u0131\u015fl\u0131"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "kurdilihicazkar", 
@@ -57,11 +52,16 @@
             "name": "Bimen \u015een"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal without accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "f9c497dc-575a-4952-9332-e8a383da4a27", 
-            "title": "\u00c7apk\u0131n Bak\u0131\u015fl\u0131"
+            "attribute_key": "aksak", 
+            "mb_attribute": "Aksak", 
+            "source": "http://musicbrainz.org/work/f9c497dc-575a-4952-9332-e8a383da4a27"
+        }, 
+        {
+            "attribute_key": "aksak", 
+            "mb_tag": "aksak", 
+            "source": "http://musicbrainz.org/recording/c82e7dbe-6ead-4a23-8a1f-6fed33e61c44"
         }
     ]
 }

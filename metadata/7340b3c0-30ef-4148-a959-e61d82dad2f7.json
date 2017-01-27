@@ -1,5 +1,5 @@
 {
-    "usul": [], 
+    "instrumentation_voicing": "ensemble instrumental", 
     "form": [
         {
             "attribute_key": "sazeseri", 
@@ -26,6 +26,12 @@
         }
     ], 
     "mbid": "7340b3c0-30ef-4148-a959-e61d82dad2f7", 
+    "works": [
+        {
+            "mbid": "78d97855-67f3-425b-9609-7fd906cb1c5d", 
+            "title": "\u00dcsk\u00fcdar"
+        }
+    ], 
     "makam": [], 
     "artists": [
         {
@@ -69,11 +75,5 @@
             "name": "Vahit Anadolu"
         }
     ], 
-    "instrumentation_voicing": "Ensemble instrumental", 
-    "works": [
-        {
-            "mbid": "78d97855-67f3-425b-9609-7fd906cb1c5d", 
-            "title": "\u00dcsk\u00fcdar"
-        }
-    ]
+    "usul": []
 }

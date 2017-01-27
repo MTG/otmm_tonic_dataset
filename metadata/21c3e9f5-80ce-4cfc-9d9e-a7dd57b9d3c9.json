@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "aksak", 
-            "mb_attribute": "Aksak", 
-            "source": "http://musicbrainz.org/work/de395649-6132-41c4-96cf-824ccb707e7d"
-        }, 
-        {
-            "attribute_key": "aksak", 
-            "mb_tag": "aksak", 
-            "source": "http://musicbrainz.org/recording/21c3e9f5-80ce-4cfc-9d9e-a7dd57b9d3c9"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "21c3e9f5-80ce-4cfc-9d9e-a7dd57b9d3c9", 
+    "works": [
+        {
+            "mbid": "de395649-6132-41c4-96cf-824ccb707e7d", 
+            "title": "Alt\u0131n Tasta G\u00fcl Kuruttum Aman Ali'm"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "acemkurdi", 
@@ -204,11 +199,16 @@
             "name": "Nam\u0131k Ta\u015fp\u0131narl\u0131"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "de395649-6132-41c4-96cf-824ccb707e7d", 
-            "title": "Alt\u0131n Tasta G\u00fcl Kuruttum Aman Ali'm"
+            "attribute_key": "aksak", 
+            "mb_attribute": "Aksak", 
+            "source": "http://musicbrainz.org/work/de395649-6132-41c4-96cf-824ccb707e7d"
+        }, 
+        {
+            "attribute_key": "aksak", 
+            "mb_tag": "aksak", 
+            "source": "http://musicbrainz.org/recording/21c3e9f5-80ce-4cfc-9d9e-a7dd57b9d3c9"
         }
     ]
 }

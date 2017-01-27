@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "senginsemai", 
-            "mb_attribute": "Senginsemai", 
-            "source": "http://musicbrainz.org/work/14467e1a-80c7-4351-8a8d-bdaa9a08b8fd"
-        }, 
-        {
-            "attribute_key": "senginsemai", 
-            "mb_tag": "senginsemai", 
-            "source": "http://musicbrainz.org/recording/023f82a0-fdce-4b89-8e1e-9822e9cc5585"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -54,6 +43,12 @@
         }
     ], 
     "mbid": "023f82a0-fdce-4b89-8e1e-9822e9cc5585", 
+    "works": [
+        {
+            "mbid": "14467e1a-80c7-4351-8a8d-bdaa9a08b8fd", 
+            "title": "Gaddar Felek"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "hicaz", 
@@ -106,11 +101,16 @@
             "name": "Sava\u015f \u015e. Bark\u00e7in"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "14467e1a-80c7-4351-8a8d-bdaa9a08b8fd", 
-            "title": "Gaddar Felek"
+            "attribute_key": "senginsemai", 
+            "mb_attribute": "Senginsemai", 
+            "source": "http://musicbrainz.org/work/14467e1a-80c7-4351-8a8d-bdaa9a08b8fd"
+        }, 
+        {
+            "attribute_key": "senginsemai", 
+            "mb_tag": "senginsemai", 
+            "source": "http://musicbrainz.org/recording/023f82a0-fdce-4b89-8e1e-9822e9cc5585"
         }
     ]
 }

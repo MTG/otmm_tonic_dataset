@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "cenber", 
-            "mb_attribute": "\u00c7enber", 
-            "source": "http://musicbrainz.org/work/270f55e1-d479-47d0-832f-930a2d20f90a"
-        }, 
-        {
-            "attribute_key": "sofyan", 
-            "mb_tag": "sofyan", 
-            "source": "http://musicbrainz.org/recording/9348afbd-cc69-436e-a2d8-fbb1a6b69af0"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "pesrev", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "9348afbd-cc69-436e-a2d8-fbb1a6b69af0", 
+    "works": [
+        {
+            "mbid": "270f55e1-d479-47d0-832f-930a2d20f90a", 
+            "title": "Suzinak Pe\u015frev"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "suzinak", 
@@ -201,11 +196,16 @@
             "name": "Sedat G\u00fcndiyer"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "270f55e1-d479-47d0-832f-930a2d20f90a", 
-            "title": "Suzinak Pe\u015frev"
+            "attribute_key": "cenber", 
+            "mb_attribute": "\u00c7enber", 
+            "source": "http://musicbrainz.org/work/270f55e1-d479-47d0-832f-930a2d20f90a"
+        }, 
+        {
+            "attribute_key": "sofyan", 
+            "mb_tag": "sofyan", 
+            "source": "http://musicbrainz.org/recording/9348afbd-cc69-436e-a2d8-fbb1a6b69af0"
         }
     ]
 }

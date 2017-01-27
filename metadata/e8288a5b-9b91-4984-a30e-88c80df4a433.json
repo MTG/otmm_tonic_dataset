@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "turkaksagi", 
-            "mb_attribute": "T\u00fcrkaksa\u011f\u0131", 
-            "source": "http://musicbrainz.org/work/b34f1fea-df55-463e-815c-6866ecd05f4f"
-        }, 
-        {
-            "attribute_key": "turkaksagi_ii", 
-            "mb_tag": "t\u00fcrkaksa\u011f\u0131", 
-            "source": "http://musicbrainz.org/recording/e8288a5b-9b91-4984-a30e-88c80df4a433"
-        }
-    ], 
+    "instrumentation_voicing": "ensemble instrumental", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "e8288a5b-9b91-4984-a30e-88c80df4a433", 
+    "works": [
+        {
+            "mbid": "b34f1fea-df55-463e-815c-6866ecd05f4f", 
+            "title": "K\u00f6rfezdeki Dalg\u0131n Suya Bir Bak G\u00f6receksin"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "nihavent", 
@@ -57,11 +52,16 @@
             "name": "[unknown]"
         }
     ], 
-    "instrumentation_voicing": "Ensemble instrumental", 
-    "works": [
+    "usul": [
         {
-            "mbid": "b34f1fea-df55-463e-815c-6866ecd05f4f", 
-            "title": "K\u00f6rfezdeki Dalg\u0131n Suya Bir Bak G\u00f6receksin"
+            "attribute_key": "turkaksagi", 
+            "mb_attribute": "T\u00fcrkaksa\u011f\u0131", 
+            "source": "http://musicbrainz.org/work/b34f1fea-df55-463e-815c-6866ecd05f4f"
+        }, 
+        {
+            "attribute_key": "turkaksagi_ii", 
+            "mb_tag": "t\u00fcrkaksa\u011f\u0131", 
+            "source": "http://musicbrainz.org/recording/e8288a5b-9b91-4984-a30e-88c80df4a433"
         }
     ]
 }

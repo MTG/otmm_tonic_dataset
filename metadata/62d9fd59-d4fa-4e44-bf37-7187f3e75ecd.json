@@ -1,5 +1,5 @@
 {
-    "usul": [], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "ilahi", 
@@ -27,6 +27,12 @@
         }
     ], 
     "mbid": "62d9fd59-d4fa-4e44-bf37-7187f3e75ecd", 
+    "works": [
+        {
+            "mbid": "3930f5b8-1e13-45ce-957a-95a0023e89ae", 
+            "title": "Neva Yigdal"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "neva", 
@@ -78,11 +84,5 @@
             "name": "Fahrettin Yark\u0131n"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
-        {
-            "mbid": "3930f5b8-1e13-45ce-957a-95a0023e89ae", 
-            "title": "Neva Yigdal"
-        }
-    ]
+    "usul": []
 }

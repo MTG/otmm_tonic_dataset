@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "yuruksemai", 
-            "mb_attribute": "Y\u00fcr\u00fcksemai", 
-            "source": "http://musicbrainz.org/work/2e595215-0221-4ff8-ae60-cca5cccad114"
-        }, 
-        {
-            "attribute_key": "yuruksemai", 
-            "mb_tag": "y\u00fcr\u00fcksemai", 
-            "source": "http://musicbrainz.org/recording/ae963e34-08d4-4b01-8a65-4f84f79ac85d"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "yuruksemai", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "ae963e34-08d4-4b01-8a65-4f84f79ac85d", 
+    "works": [
+        {
+            "mbid": "2e595215-0221-4ff8-ae60-cca5cccad114", 
+            "title": "Terkeyledi Ger\u00e7i Beni"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "hicaz_uzzal", 
@@ -62,11 +57,16 @@
             "name": "Bekir S\u0131dk\u0131 Sezgin"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "2e595215-0221-4ff8-ae60-cca5cccad114", 
-            "title": "Terkeyledi Ger\u00e7i Beni"
+            "attribute_key": "yuruksemai", 
+            "mb_attribute": "Y\u00fcr\u00fcksemai", 
+            "source": "http://musicbrainz.org/work/2e595215-0221-4ff8-ae60-cca5cccad114"
+        }, 
+        {
+            "attribute_key": "yuruksemai", 
+            "mb_tag": "y\u00fcr\u00fcksemai", 
+            "source": "http://musicbrainz.org/recording/ae963e34-08d4-4b01-8a65-4f84f79ac85d"
         }
     ]
 }

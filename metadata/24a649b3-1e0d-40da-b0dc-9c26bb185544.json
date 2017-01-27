@@ -1,5 +1,5 @@
 {
-    "usul": [], 
+    "instrumentation_voicing": "ensemble instrumental", 
     "form": [
         {
             "attribute_key": "pesrev", 
@@ -67,6 +67,12 @@
         }
     ], 
     "mbid": "24a649b3-1e0d-40da-b0dc-9c26bb185544", 
+    "works": [
+        {
+            "mbid": "3ae218a6-3119-4dea-a079-5b8e727d028c", 
+            "title": "Mahur Pe\u015frevi"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "mahur", 
@@ -169,11 +175,5 @@
             "name": "U\u011fur I\u015f\u0131k"
         }
     ], 
-    "instrumentation_voicing": "Ensemble instrumental", 
-    "works": [
-        {
-            "mbid": "3ae218a6-3119-4dea-a079-5b8e727d028c", 
-            "title": "Mahur Pe\u015frevi"
-        }
-    ]
+    "usul": []
 }

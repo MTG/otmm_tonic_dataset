@@ -1,11 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "aksaksemai", 
-            "mb_attribute": "Aksaksemai", 
-            "source": "http://musicbrainz.org/work/c08c0594-cc01-4f32-8e9c-fe60949791dd"
-        }
-    ], 
+    "instrumentation_voicing": "solo instrumental", 
     "form": [
         {
             "attribute_key": "sazsemaisi", 
@@ -33,6 +27,12 @@
         }
     ], 
     "mbid": "b711fc01-0210-484d-ac37-76ce4431279a", 
+    "works": [
+        {
+            "mbid": "c08c0594-cc01-4f32-8e9c-fe60949791dd", 
+            "title": "Evc Saz Sem\u00e2isi"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "evic", 
@@ -55,11 +55,11 @@
             "name": "Murat Aydemir"
         }
     ], 
-    "instrumentation_voicing": "Solo instrumental", 
-    "works": [
+    "usul": [
         {
-            "mbid": "c08c0594-cc01-4f32-8e9c-fe60949791dd", 
-            "title": "Evc Saz Sem\u00e2isi"
+            "attribute_key": "aksaksemai", 
+            "mb_attribute": "Aksaksemai", 
+            "source": "http://musicbrainz.org/work/c08c0594-cc01-4f32-8e9c-fe60949791dd"
         }
     ]
 }

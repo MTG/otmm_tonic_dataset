@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "muhammes", 
-            "mb_attribute": "Muhammes", 
-            "source": "http://musicbrainz.org/work/5617c02f-8c47-4fda-9c3c-70dd5a471291"
-        }, 
-        {
-            "attribute_key": "duyek", 
-            "mb_tag": "d\u00fcyek", 
-            "source": "http://musicbrainz.org/recording/5d4397f8-37ef-4340-99f5-d934af028c91"
-        }
-    ], 
+    "instrumentation_voicing": "solo instrumental", 
     "form": [
         {
             "attribute_key": "pesrev", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "5d4397f8-37ef-4340-99f5-d934af028c91", 
+    "works": [
+        {
+            "mbid": "5617c02f-8c47-4fda-9c3c-70dd5a471291", 
+            "title": "Rast Pe\u015frev"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "rast", 
@@ -60,11 +55,16 @@
             "name": "Anastas Efendi"
         }
     ], 
-    "instrumentation_voicing": "Solo instrumental", 
-    "works": [
+    "usul": [
         {
-            "mbid": "5617c02f-8c47-4fda-9c3c-70dd5a471291", 
-            "title": "Rast Pe\u015frev"
+            "attribute_key": "muhammes", 
+            "mb_attribute": "Muhammes", 
+            "source": "http://musicbrainz.org/work/5617c02f-8c47-4fda-9c3c-70dd5a471291"
+        }, 
+        {
+            "attribute_key": "duyek", 
+            "mb_tag": "d\u00fcyek", 
+            "source": "http://musicbrainz.org/recording/5d4397f8-37ef-4340-99f5-d934af028c91"
         }
     ]
 }

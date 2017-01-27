@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "duyek", 
-            "mb_attribute": "D\u00fcyek", 
-            "source": "http://musicbrainz.org/work/80ff9303-e75f-4a9b-86a1-1ba503c2ec04"
-        }, 
-        {
-            "attribute_key": "duyek", 
-            "mb_tag": "d\u00fcyek", 
-            "source": "http://musicbrainz.org/recording/d031401a-ff44-4d42-bd2a-679596a9c3f3"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "ilahi", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "d031401a-ff44-4d42-bd2a-679596a9c3f3", 
+    "works": [
+        {
+            "mbid": "80ff9303-e75f-4a9b-86a1-1ba503c2ec04", 
+            "title": "Ey \u015eehri N\u00fcz\u00fcli Sure"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "acemasiran", 
@@ -65,11 +60,16 @@
             "name": "[unknown]"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "80ff9303-e75f-4a9b-86a1-1ba503c2ec04", 
-            "title": "Ey \u015eehri N\u00fcz\u00fcli Sure"
+            "attribute_key": "duyek", 
+            "mb_attribute": "D\u00fcyek", 
+            "source": "http://musicbrainz.org/work/80ff9303-e75f-4a9b-86a1-1ba503c2ec04"
+        }, 
+        {
+            "attribute_key": "duyek", 
+            "mb_tag": "d\u00fcyek", 
+            "source": "http://musicbrainz.org/recording/d031401a-ff44-4d42-bd2a-679596a9c3f3"
         }
     ]
 }

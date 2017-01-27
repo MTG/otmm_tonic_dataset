@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "aksaksemai", 
-            "mb_attribute": "Aksaksemai", 
-            "source": "http://musicbrainz.org/work/10cddd5e-6bd8-4c69-8561-0d0541f46f34"
-        }, 
-        {
-            "attribute_key": "aksaksemai", 
-            "mb_tag": "aksaksemai", 
-            "source": "http://musicbrainz.org/recording/97eb2ab3-11f9-4ae5-92b3-115e490a11a6"
-        }
-    ], 
+    "instrumentation_voicing": "ensemble instrumental", 
     "form": [
         {
             "attribute_key": "sazsemaisi", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "97eb2ab3-11f9-4ae5-92b3-115e490a11a6", 
+    "works": [
+        {
+            "mbid": "10cddd5e-6bd8-4c69-8561-0d0541f46f34", 
+            "title": "H\u00fczzam Saz Semaisi"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "huzzam", 
@@ -209,11 +204,16 @@
             "name": "\u00d6zer \u00d6zel"
         }
     ], 
-    "instrumentation_voicing": "Ensemble instrumental", 
-    "works": [
+    "usul": [
         {
-            "mbid": "10cddd5e-6bd8-4c69-8561-0d0541f46f34", 
-            "title": "H\u00fczzam Saz Semaisi"
+            "attribute_key": "aksaksemai", 
+            "mb_attribute": "Aksaksemai", 
+            "source": "http://musicbrainz.org/work/10cddd5e-6bd8-4c69-8561-0d0541f46f34"
+        }, 
+        {
+            "attribute_key": "aksaksemai", 
+            "mb_tag": "aksaksemai", 
+            "source": "http://musicbrainz.org/recording/97eb2ab3-11f9-4ae5-92b3-115e490a11a6"
         }
     ]
 }

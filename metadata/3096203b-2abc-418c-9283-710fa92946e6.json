@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "sofyan", 
-            "mb_attribute": "Sofyan", 
-            "source": "http://musicbrainz.org/work/eb990a83-445e-48ca-bee7-a26e00340fc2"
-        }, 
-        {
-            "attribute_key": "sofyan", 
-            "mb_tag": "sofyan", 
-            "source": "http://musicbrainz.org/recording/3096203b-2abc-418c-9283-710fa92946e6"
-        }
-    ], 
+    "instrumentation_voicing": "ensemble instrumental", 
     "form": [
         {
             "attribute_key": "medhal", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "3096203b-2abc-418c-9283-710fa92946e6", 
+    "works": [
+        {
+            "mbid": "eb990a83-445e-48ca-bee7-a26e00340fc2", 
+            "title": "H\u00fczzam Medhal"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "huzzam", 
@@ -220,11 +215,16 @@
             "name": "Tar\u0131k Kemanc\u0131"
         }
     ], 
-    "instrumentation_voicing": "Ensemble instrumental", 
-    "works": [
+    "usul": [
         {
-            "mbid": "eb990a83-445e-48ca-bee7-a26e00340fc2", 
-            "title": "H\u00fczzam Medhal"
+            "attribute_key": "sofyan", 
+            "mb_attribute": "Sofyan", 
+            "source": "http://musicbrainz.org/work/eb990a83-445e-48ca-bee7-a26e00340fc2"
+        }, 
+        {
+            "attribute_key": "sofyan", 
+            "mb_tag": "sofyan", 
+            "source": "http://musicbrainz.org/recording/3096203b-2abc-418c-9283-710fa92946e6"
         }
     ]
 }

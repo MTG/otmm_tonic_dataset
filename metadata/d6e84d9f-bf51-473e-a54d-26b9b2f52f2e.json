@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "sofyan", 
-            "mb_attribute": "Sofyan", 
-            "source": "http://musicbrainz.org/work/337e5065-945d-42a9-9e5e-7a86f5d63bef"
-        }, 
-        {
-            "attribute_key": "duyek", 
-            "mb_tag": "d\u00fcyek", 
-            "source": "http://musicbrainz.org/recording/d6e84d9f-bf51-473e-a54d-26b9b2f52f2e"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal without accompaniment", 
     "form": [
         {
             "attribute_key": "turku", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "d6e84d9f-bf51-473e-a54d-26b9b2f52f2e", 
+    "works": [
+        {
+            "mbid": "337e5065-945d-42a9-9e5e-7a86f5d63bef", 
+            "title": "Mendilimin Ye\u015fili"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "saba", 
@@ -60,11 +55,16 @@
             "name": "Aziz T\u00fcrk Sanat M\u00fczi\u011fi Grubu"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal without accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "337e5065-945d-42a9-9e5e-7a86f5d63bef", 
-            "title": "Mendilimin Ye\u015fili"
+            "attribute_key": "sofyan", 
+            "mb_attribute": "Sofyan", 
+            "source": "http://musicbrainz.org/work/337e5065-945d-42a9-9e5e-7a86f5d63bef"
+        }, 
+        {
+            "attribute_key": "duyek", 
+            "mb_tag": "d\u00fcyek", 
+            "source": "http://musicbrainz.org/recording/d6e84d9f-bf51-473e-a54d-26b9b2f52f2e"
         }
     ]
 }

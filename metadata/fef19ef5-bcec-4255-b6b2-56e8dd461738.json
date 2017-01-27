@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "duyek", 
-            "mb_attribute": "D\u00fcyek", 
-            "source": "http://musicbrainz.org/work/95451d4b-02c4-47fb-a65d-b7b6efe43ac2"
-        }, 
-        {
-            "attribute_key": null, 
-            "mb_tag": "\u015fark\u0131", 
-            "source": "http://musicbrainz.org/recording/fef19ef5-bcec-4255-b6b2-56e8dd461738"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "fef19ef5-bcec-4255-b6b2-56e8dd461738", 
+    "works": [
+        {
+            "mbid": "95451d4b-02c4-47fb-a65d-b7b6efe43ac2", 
+            "title": "Sen Sa\u00e7lar\u0131ma Ko\u015fan Aklar Gibisin"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "hicaz", 
@@ -62,11 +57,16 @@
             "name": "Bekir S\u0131dk\u0131 Sezgin"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "95451d4b-02c4-47fb-a65d-b7b6efe43ac2", 
-            "title": "Sen Sa\u00e7lar\u0131ma Ko\u015fan Aklar Gibisin"
+            "attribute_key": "duyek", 
+            "mb_attribute": "D\u00fcyek", 
+            "source": "http://musicbrainz.org/work/95451d4b-02c4-47fb-a65d-b7b6efe43ac2"
+        }, 
+        {
+            "attribute_key": null, 
+            "mb_tag": "\u015fark\u0131", 
+            "source": "http://musicbrainz.org/recording/fef19ef5-bcec-4255-b6b2-56e8dd461738"
         }
     ]
 }

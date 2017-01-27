@@ -1,11 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "aksaksemai", 
-            "mb_tag": "aksaksemai", 
-            "source": "http://musicbrainz.org/recording/fab5722d-cef1-4cd5-be15-1fbe9012a07b"
-        }
-    ], 
+    "instrumentation_voicing": "trio instrumental", 
     "form": [
         {
             "attribute_key": "sazsemaisi", 
@@ -33,6 +27,12 @@
         }
     ], 
     "mbid": "fab5722d-cef1-4cd5-be15-1fbe9012a07b", 
+    "works": [
+        {
+            "mbid": "b7d09514-5875-43a7-8d30-f5b9ca0900c5", 
+            "title": "Acema\u015firan Sazsemaisi"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "acemasiran", 
@@ -71,11 +71,11 @@
             "name": "Safinaz Rizeli"
         }
     ], 
-    "instrumentation_voicing": "Trio instrumental", 
-    "works": [
+    "usul": [
         {
-            "mbid": "b7d09514-5875-43a7-8d30-f5b9ca0900c5", 
-            "title": "Acema\u015firan Sazsemaisi"
+            "attribute_key": "aksaksemai", 
+            "mb_tag": "aksaksemai", 
+            "source": "http://musicbrainz.org/recording/fab5722d-cef1-4cd5-be15-1fbe9012a07b"
         }
     ]
 }

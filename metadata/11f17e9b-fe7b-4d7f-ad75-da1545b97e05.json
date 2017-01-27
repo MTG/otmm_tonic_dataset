@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "devrikebir", 
-            "mb_attribute": "Devr-i Kebir", 
-            "source": "http://musicbrainz.org/work/35de9f7a-fbdf-4f59-80f5-82aee2ab7d78"
-        }, 
-        {
-            "attribute_key": "devrikebir", 
-            "mb_tag": "devr-i kebir", 
-            "source": "http://musicbrainz.org/recording/11f17e9b-fe7b-4d7f-ad75-da1545b97e05"
-        }
-    ], 
+    "instrumentation_voicing": "solo instrumental", 
     "form": [
         {
             "attribute_key": "pesrev", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "11f17e9b-fe7b-4d7f-ad75-da1545b97e05", 
+    "works": [
+        {
+            "mbid": "35de9f7a-fbdf-4f59-80f5-82aee2ab7d78", 
+            "title": "Muhayyerk\u00fcrdi Pe\u015frev"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "muhayyerkurdi", 
@@ -60,11 +55,16 @@
             "name": "Murat Aydemir"
         }
     ], 
-    "instrumentation_voicing": "Solo instrumental", 
-    "works": [
+    "usul": [
         {
-            "mbid": "35de9f7a-fbdf-4f59-80f5-82aee2ab7d78", 
-            "title": "Muhayyerk\u00fcrdi Pe\u015frev"
+            "attribute_key": "devrikebir", 
+            "mb_attribute": "Devr-i Kebir", 
+            "source": "http://musicbrainz.org/work/35de9f7a-fbdf-4f59-80f5-82aee2ab7d78"
+        }, 
+        {
+            "attribute_key": "devrikebir", 
+            "mb_tag": "devr-i kebir", 
+            "source": "http://musicbrainz.org/recording/11f17e9b-fe7b-4d7f-ad75-da1545b97e05"
         }
     ]
 }

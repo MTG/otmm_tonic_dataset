@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "agiraksak", 
-            "mb_attribute": "A\u011f\u0131raksak", 
-            "source": "http://musicbrainz.org/work/133913a9-5753-4216-9ec2-50f867fc8e06"
-        }, 
-        {
-            "attribute_key": "agiraksak", 
-            "mb_tag": "a\u011f\u0131raksak", 
-            "source": "http://musicbrainz.org/recording/212d5c66-32d4-4346-b197-00c941a6461a"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "212d5c66-32d4-4346-b197-00c941a6461a", 
+    "works": [
+        {
+            "mbid": "133913a9-5753-4216-9ec2-50f867fc8e06", 
+            "title": "\u00d6mr\u00fcm Artar Sana Bakt\u0131k\u00e7a"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "hicaz", 
@@ -62,11 +57,16 @@
             "name": "Bekir S\u0131dk\u0131 Sezgin"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "133913a9-5753-4216-9ec2-50f867fc8e06", 
-            "title": "\u00d6mr\u00fcm Artar Sana Bakt\u0131k\u00e7a"
+            "attribute_key": "agiraksak", 
+            "mb_attribute": "A\u011f\u0131raksak", 
+            "source": "http://musicbrainz.org/work/133913a9-5753-4216-9ec2-50f867fc8e06"
+        }, 
+        {
+            "attribute_key": "agiraksak", 
+            "mb_tag": "a\u011f\u0131raksak", 
+            "source": "http://musicbrainz.org/recording/212d5c66-32d4-4346-b197-00c941a6461a"
         }
     ]
 }

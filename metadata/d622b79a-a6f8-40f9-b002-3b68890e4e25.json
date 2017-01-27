@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "devrikebir", 
-            "mb_attribute": "Devr-i Kebir", 
-            "source": "http://musicbrainz.org/work/1d7aa01a-8bf2-43e1-b972-714699db563d"
-        }, 
-        {
-            "attribute_key": "devrikebir", 
-            "mb_tag": "devrikebir", 
-            "source": "http://musicbrainz.org/recording/d622b79a-a6f8-40f9-b002-3b68890e4e25"
-        }
-    ], 
+    "instrumentation_voicing": "solo instrumental", 
     "form": [
         {
             "attribute_key": "pesrev", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "d622b79a-a6f8-40f9-b002-3b68890e4e25", 
+    "works": [
+        {
+            "mbid": "1d7aa01a-8bf2-43e1-b972-714699db563d", 
+            "title": "Nihavend Pe\u015frev"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "nihavent", 
@@ -60,11 +55,16 @@
             "name": "Erc\u00fcmend Batanay"
         }
     ], 
-    "instrumentation_voicing": "Solo instrumental", 
-    "works": [
+    "usul": [
         {
-            "mbid": "1d7aa01a-8bf2-43e1-b972-714699db563d", 
-            "title": "Nihavend Pe\u015frev"
+            "attribute_key": "devrikebir", 
+            "mb_attribute": "Devr-i Kebir", 
+            "source": "http://musicbrainz.org/work/1d7aa01a-8bf2-43e1-b972-714699db563d"
+        }, 
+        {
+            "attribute_key": "devrikebir", 
+            "mb_tag": "devrikebir", 
+            "source": "http://musicbrainz.org/recording/d622b79a-a6f8-40f9-b002-3b68890e4e25"
         }
     ]
 }

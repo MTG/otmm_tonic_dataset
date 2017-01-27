@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "duyek", 
-            "mb_attribute": "D\u00fcyek", 
-            "source": "http://musicbrainz.org/work/87f9035f-20d6-462d-989a-3165e532deb4"
-        }, 
-        {
-            "attribute_key": "duyek", 
-            "mb_tag": "d\u00fcyek", 
-            "source": "http://musicbrainz.org/recording/8d4b7e1b-d1c5-4c08-85b1-34abbbf06484"
-        }
-    ], 
+    "instrumentation_voicing": "duet", 
     "form": [
         {
             "attribute_key": "tevsihilahi", 
@@ -42,6 +31,12 @@
         }
     ], 
     "mbid": "8d4b7e1b-d1c5-4c08-85b1-34abbbf06484", 
+    "works": [
+        {
+            "mbid": "87f9035f-20d6-462d-989a-3165e532deb4", 
+            "title": "\u00c7\u00fcn Do\u011fup Tuttu Cihan Y\u00fcz\u00fcn\u00fc H\u00fcsn\u00fcn G\u00fcne\u015fi"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "bestenigar", 
@@ -122,11 +117,16 @@
             "name": "\u00d6zer \u00d6zel"
         }
     ], 
-    "instrumentation_voicing": "Duet", 
-    "works": [
+    "usul": [
         {
-            "mbid": "87f9035f-20d6-462d-989a-3165e532deb4", 
-            "title": "\u00c7\u00fcn Do\u011fup Tuttu Cihan Y\u00fcz\u00fcn\u00fc H\u00fcsn\u00fcn G\u00fcne\u015fi"
+            "attribute_key": "duyek", 
+            "mb_attribute": "D\u00fcyek", 
+            "source": "http://musicbrainz.org/work/87f9035f-20d6-462d-989a-3165e532deb4"
+        }, 
+        {
+            "attribute_key": "duyek", 
+            "mb_tag": "d\u00fcyek", 
+            "source": "http://musicbrainz.org/recording/8d4b7e1b-d1c5-4c08-85b1-34abbbf06484"
         }
     ]
 }

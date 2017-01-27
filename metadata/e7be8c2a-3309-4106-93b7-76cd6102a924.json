@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "aksak", 
-            "mb_attribute": "Aksak", 
-            "source": "http://musicbrainz.org/work/9aaf5c0b-4642-40fd-97ba-c861265872ce"
-        }, 
-        {
-            "attribute_key": "aksak", 
-            "mb_tag": "aksak", 
-            "source": "http://musicbrainz.org/recording/e7be8c2a-3309-4106-93b7-76cd6102a924"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "e7be8c2a-3309-4106-93b7-76cd6102a924", 
+    "works": [
+        {
+            "mbid": "9aaf5c0b-4642-40fd-97ba-c861265872ce", 
+            "title": "Gel G\u00fczelim \u00c7aml\u0131ca'ya"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "nihavent", 
@@ -70,11 +65,16 @@
             "name": "Udi Hrant Kenkulian"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "9aaf5c0b-4642-40fd-97ba-c861265872ce", 
-            "title": "Gel G\u00fczelim \u00c7aml\u0131ca'ya"
+            "attribute_key": "aksak", 
+            "mb_attribute": "Aksak", 
+            "source": "http://musicbrainz.org/work/9aaf5c0b-4642-40fd-97ba-c861265872ce"
+        }, 
+        {
+            "attribute_key": "aksak", 
+            "mb_tag": "aksak", 
+            "source": "http://musicbrainz.org/recording/e7be8c2a-3309-4106-93b7-76cd6102a924"
         }
     ]
 }

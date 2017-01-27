@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "agiraksak", 
-            "mb_attribute": "A\u011f\u0131raksak", 
-            "source": "http://musicbrainz.org/work/237394f7-e02e-4ee8-8a9e-f2ee35ed9786"
-        }, 
-        {
-            "attribute_key": "agiraksak", 
-            "mb_tag": "a\u011f\u0131raksak", 
-            "source": "http://musicbrainz.org/recording/73fa7160-66de-4f9e-8512-c6845ee02ee4"
-        }
-    ], 
+    "instrumentation_voicing": "duet", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "73fa7160-66de-4f9e-8512-c6845ee02ee4", 
+    "works": [
+        {
+            "mbid": "237394f7-e02e-4ee8-8a9e-f2ee35ed9786", 
+            "title": "G\u00fcl\u015fen-i Ezhar A\u00e7t\u0131"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "mahur", 
@@ -70,11 +65,16 @@
             "name": "Haf\u0131z Kemal Bey"
         }
     ], 
-    "instrumentation_voicing": "Duet", 
-    "works": [
+    "usul": [
         {
-            "mbid": "237394f7-e02e-4ee8-8a9e-f2ee35ed9786", 
-            "title": "G\u00fcl\u015fen-i Ezhar A\u00e7t\u0131"
+            "attribute_key": "agiraksak", 
+            "mb_attribute": "A\u011f\u0131raksak", 
+            "source": "http://musicbrainz.org/work/237394f7-e02e-4ee8-8a9e-f2ee35ed9786"
+        }, 
+        {
+            "attribute_key": "agiraksak", 
+            "mb_tag": "a\u011f\u0131raksak", 
+            "source": "http://musicbrainz.org/recording/73fa7160-66de-4f9e-8512-c6845ee02ee4"
         }
     ]
 }

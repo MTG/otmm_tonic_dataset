@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "raksaksagi", 
-            "mb_attribute": "Raksaksa\u011f\u0131", 
-            "source": "http://musicbrainz.org/work/39323d4f-d8ef-4b85-9507-d2e78daae96e"
-        }, 
-        {
-            "attribute_key": "raksaksagi_ii", 
-            "mb_tag": "raksaksa\u011f\u0131", 
-            "source": "http://musicbrainz.org/recording/731dd279-da71-4735-b6bd-9f06c78152d0"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal without accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "731dd279-da71-4735-b6bd-9f06c78152d0", 
+    "works": [
+        {
+            "mbid": "39323d4f-d8ef-4b85-9507-d2e78daae96e", 
+            "title": "Herkes Gitti Yaln\u0131z Kald\u0131m"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "segah", 
@@ -57,11 +52,16 @@
             "name": "Hamiyet Y\u00fcceses"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal without accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "39323d4f-d8ef-4b85-9507-d2e78daae96e", 
-            "title": "Herkes Gitti Yaln\u0131z Kald\u0131m"
+            "attribute_key": "raksaksagi", 
+            "mb_attribute": "Raksaksa\u011f\u0131", 
+            "source": "http://musicbrainz.org/work/39323d4f-d8ef-4b85-9507-d2e78daae96e"
+        }, 
+        {
+            "attribute_key": "raksaksagi_ii", 
+            "mb_tag": "raksaksa\u011f\u0131", 
+            "source": "http://musicbrainz.org/recording/731dd279-da71-4735-b6bd-9f06c78152d0"
         }
     ]
 }

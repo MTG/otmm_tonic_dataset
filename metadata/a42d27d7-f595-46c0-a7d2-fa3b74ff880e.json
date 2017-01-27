@@ -1,5 +1,11 @@
 {
-    "instrumentation_voicing": "Solo instrumental", 
+    "usul": [
+        {
+            "attribute_key": "serbest", 
+            "mb_tag": "serbest", 
+            "source": "http://musicbrainz.org/recording/a42d27d7-f595-46c0-a7d2-fa3b74ff880e"
+        }
+    ], 
     "form": [
         {
             "attribute_key": "taksim", 
@@ -39,11 +45,5 @@
             "name": "\u0130hsan G\u00fcndiyer"
         }
     ], 
-    "usul": [
-        {
-            "attribute_key": "serbest", 
-            "mb_tag": "serbest", 
-            "source": "http://musicbrainz.org/recording/a42d27d7-f595-46c0-a7d2-fa3b74ff880e"
-        }
-    ]
+    "instrumentation_voicing": "solo instrumental"
 }

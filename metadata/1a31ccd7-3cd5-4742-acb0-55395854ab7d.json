@@ -1,21 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "sofyan", 
-            "mb_attribute": "Sofyan", 
-            "source": "http://musicbrainz.org/work/7c351c54-3256-45e2-91cf-0adc74bb3816"
-        }, 
-        {
-            "attribute_key": "sofyan", 
-            "mb_attribute": "Sofyan", 
-            "source": "http://musicbrainz.org/work/c5c8c8f6-d12f-4012-977a-3b25042e71bd"
-        }, 
-        {
-            "attribute_key": "sofyan", 
-            "mb_tag": "sofyan", 
-            "source": "http://musicbrainz.org/recording/1a31ccd7-3cd5-4742-acb0-55395854ab7d"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "tevsihilahi", 
@@ -53,6 +37,16 @@
         }
     ], 
     "mbid": "1a31ccd7-3cd5-4742-acb0-55395854ab7d", 
+    "works": [
+        {
+            "mbid": "7c351c54-3256-45e2-91cf-0adc74bb3816", 
+            "title": "Gaflet \u0130le Hakk\u0131 Buldum Diyenler"
+        }, 
+        {
+            "mbid": "c5c8c8f6-d12f-4012-977a-3b25042e71bd", 
+            "title": "Ya \u0130lahi \u0130sm-i A'zam Hakk\u0131y\u00e7\u00fcn"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "segah", 
@@ -82,15 +76,21 @@
             "name": "Bekir S\u0131dk\u0131 Sezgin"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "7c351c54-3256-45e2-91cf-0adc74bb3816", 
-            "title": "Gaflet \u0130le Hakk\u0131 Buldum Diyenler"
+            "attribute_key": "sofyan", 
+            "mb_attribute": "Sofyan", 
+            "source": "http://musicbrainz.org/work/7c351c54-3256-45e2-91cf-0adc74bb3816"
         }, 
         {
-            "mbid": "c5c8c8f6-d12f-4012-977a-3b25042e71bd", 
-            "title": "Ya \u0130lahi \u0130sm-i A'zam Hakk\u0131y\u00e7\u00fcn"
+            "attribute_key": "sofyan", 
+            "mb_attribute": "Sofyan", 
+            "source": "http://musicbrainz.org/work/c5c8c8f6-d12f-4012-977a-3b25042e71bd"
+        }, 
+        {
+            "attribute_key": "sofyan", 
+            "mb_tag": "sofyan", 
+            "source": "http://musicbrainz.org/recording/1a31ccd7-3cd5-4742-acb0-55395854ab7d"
         }
     ]
 }

@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "nimsofyan", 
-            "mb_attribute": "Nimsofyan", 
-            "source": "http://musicbrainz.org/work/a7de0206-4f78-473c-8224-ac32c235f93a"
-        }, 
-        {
-            "attribute_key": "sofyan", 
-            "mb_tag": "sofyan", 
-            "source": "http://musicbrainz.org/recording/ede7de37-eab2-4812-9d90-09f2803dd969"
-        }
-    ], 
+    "instrumentation_voicing": "solo instrumental", 
     "form": [
         {
             "attribute_key": "longa", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "ede7de37-eab2-4812-9d90-09f2803dd969", 
+    "works": [
+        {
+            "mbid": "a7de0206-4f78-473c-8224-ac32c235f93a", 
+            "title": "K\u00fcrdilihicazk\u00e2r Longa"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "kurdilihicazkar", 
@@ -60,11 +55,16 @@
             "name": "\u015e\u00fckr\u00fc Tunar"
         }
     ], 
-    "instrumentation_voicing": "Solo instrumental", 
-    "works": [
+    "usul": [
         {
-            "mbid": "a7de0206-4f78-473c-8224-ac32c235f93a", 
-            "title": "K\u00fcrdilihicazk\u00e2r Longa"
+            "attribute_key": "nimsofyan", 
+            "mb_attribute": "Nimsofyan", 
+            "source": "http://musicbrainz.org/work/a7de0206-4f78-473c-8224-ac32c235f93a"
+        }, 
+        {
+            "attribute_key": "sofyan", 
+            "mb_tag": "sofyan", 
+            "source": "http://musicbrainz.org/recording/ede7de37-eab2-4812-9d90-09f2803dd969"
         }
     ]
 }

@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "aksaksemai", 
-            "mb_attribute": "Aksaksemai", 
-            "source": "http://musicbrainz.org/work/baa1861e-432c-4d92-81ac-cfbf34e1d852"
-        }, 
-        {
-            "attribute_key": "aksaksemai", 
-            "mb_tag": "aksaksemai", 
-            "source": "http://musicbrainz.org/recording/7be686ef-913a-4352-bf4b-10446c6f10fb"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal without accompaniment", 
     "form": [
         {
             "attribute_key": "agirsemai", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "7be686ef-913a-4352-bf4b-10446c6f10fb", 
+    "works": [
+        {
+            "mbid": "baa1861e-432c-4d92-81ac-cfbf34e1d852", 
+            "title": "Sevdi Bu G\u00f6n\u00fcl Seni Yaman Eylemedi"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "neva", 
@@ -57,11 +52,16 @@
             "name": "Sabite Tur G\u00fclerman"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal without accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "baa1861e-432c-4d92-81ac-cfbf34e1d852", 
-            "title": "Sevdi Bu G\u00f6n\u00fcl Seni Yaman Eylemedi"
+            "attribute_key": "aksaksemai", 
+            "mb_attribute": "Aksaksemai", 
+            "source": "http://musicbrainz.org/work/baa1861e-432c-4d92-81ac-cfbf34e1d852"
+        }, 
+        {
+            "attribute_key": "aksaksemai", 
+            "mb_tag": "aksaksemai", 
+            "source": "http://musicbrainz.org/recording/7be686ef-913a-4352-bf4b-10446c6f10fb"
         }
     ]
 }

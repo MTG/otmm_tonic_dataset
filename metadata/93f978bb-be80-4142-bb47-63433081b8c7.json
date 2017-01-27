@@ -1,26 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "devrikebir", 
-            "mb_attribute": "Devr-i Kebir", 
-            "source": "http://musicbrainz.org/work/71d5fcfb-03c6-4850-b4db-b4c54a79e348"
-        }, 
-        {
-            "attribute_key": "darb", 
-            "mb_tag": "darb", 
-            "source": "http://musicbrainz.org/recording/93f978bb-be80-4142-bb47-63433081b8c7"
-        }, 
-        {
-            "attribute_key": "aksaksemai", 
-            "mb_tag": "aksaksemai", 
-            "source": "http://musicbrainz.org/recording/93f978bb-be80-4142-bb47-63433081b8c7"
-        }, 
-        {
-            "attribute_key": "yuruksemai", 
-            "mb_tag": "y\u00fcr\u00fcksemai", 
-            "source": "http://musicbrainz.org/recording/93f978bb-be80-4142-bb47-63433081b8c7"
-        }
-    ], 
+    "instrumentation_voicing": "ensemble instrumental", 
     "form": [
         {
             "attribute_key": "pesrev", 
@@ -48,6 +27,12 @@
         }
     ], 
     "mbid": "93f978bb-be80-4142-bb47-63433081b8c7", 
+    "works": [
+        {
+            "mbid": "71d5fcfb-03c6-4850-b4db-b4c54a79e348", 
+            "title": "Bestenigar Ayin-i \u015eerif"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "bestenigar", 
@@ -67,11 +52,26 @@
             "name": "Dede Efendi T\u00fcrk M\u00fczi\u011fi Toplulu\u011fu"
         }
     ], 
-    "instrumentation_voicing": "Ensemble instrumental", 
-    "works": [
+    "usul": [
         {
-            "mbid": "71d5fcfb-03c6-4850-b4db-b4c54a79e348", 
-            "title": "Bestenigar Ayin-i \u015eerif"
+            "attribute_key": "devrikebir", 
+            "mb_attribute": "Devr-i Kebir", 
+            "source": "http://musicbrainz.org/work/71d5fcfb-03c6-4850-b4db-b4c54a79e348"
+        }, 
+        {
+            "attribute_key": "darb", 
+            "mb_tag": "darb", 
+            "source": "http://musicbrainz.org/recording/93f978bb-be80-4142-bb47-63433081b8c7"
+        }, 
+        {
+            "attribute_key": "aksaksemai", 
+            "mb_tag": "aksaksemai", 
+            "source": "http://musicbrainz.org/recording/93f978bb-be80-4142-bb47-63433081b8c7"
+        }, 
+        {
+            "attribute_key": "yuruksemai", 
+            "mb_tag": "y\u00fcr\u00fcksemai", 
+            "source": "http://musicbrainz.org/recording/93f978bb-be80-4142-bb47-63433081b8c7"
         }
     ]
 }

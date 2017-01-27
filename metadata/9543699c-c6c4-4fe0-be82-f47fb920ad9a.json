@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "agiraksak", 
-            "mb_attribute": "A\u011f\u0131raksak", 
-            "source": "http://musicbrainz.org/work/4d45c058-0652-4421-8494-ef74ad52e0e1"
-        }, 
-        {
-            "attribute_key": "agiraksak", 
-            "mb_tag": "a\u011f\u0131raksak", 
-            "source": "http://musicbrainz.org/recording/9543699c-c6c4-4fe0-be82-f47fb920ad9a"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "9543699c-c6c4-4fe0-be82-f47fb920ad9a", 
+    "works": [
+        {
+            "mbid": "4d45c058-0652-4421-8494-ef74ad52e0e1", 
+            "title": "Olsa Alem Re\u015fk-i G\u00fclzar-\u0131 Sitem"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "huzzam", 
@@ -62,11 +57,16 @@
             "name": "Bekir S\u0131dk\u0131 Sezgin"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "4d45c058-0652-4421-8494-ef74ad52e0e1", 
-            "title": "Olsa Alem Re\u015fk-i G\u00fclzar-\u0131 Sitem"
+            "attribute_key": "agiraksak", 
+            "mb_attribute": "A\u011f\u0131raksak", 
+            "source": "http://musicbrainz.org/work/4d45c058-0652-4421-8494-ef74ad52e0e1"
+        }, 
+        {
+            "attribute_key": "agiraksak", 
+            "mb_tag": "a\u011f\u0131raksak", 
+            "source": "http://musicbrainz.org/recording/9543699c-c6c4-4fe0-be82-f47fb920ad9a"
         }
     ]
 }

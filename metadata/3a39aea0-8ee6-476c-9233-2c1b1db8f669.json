@@ -1,5 +1,5 @@
 {
-    "usul": [], 
+    "instrumentation_voicing": "ensemble instrumental", 
     "form": [
         {
             "attribute_key": "sazsemaisi", 
@@ -31,6 +31,12 @@
         }
     ], 
     "mbid": "3a39aea0-8ee6-476c-9233-2c1b1db8f669", 
+    "works": [
+        {
+            "mbid": "27c7ed26-085e-4338-92be-abcfa587baf9", 
+            "title": "Nevruz"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "segah", 
@@ -80,11 +86,5 @@
             "name": "Vahit Anadolu"
         }
     ], 
-    "instrumentation_voicing": "Ensemble instrumental", 
-    "works": [
-        {
-            "mbid": "27c7ed26-085e-4338-92be-abcfa587baf9", 
-            "title": "Nevruz"
-        }
-    ]
+    "usul": []
 }

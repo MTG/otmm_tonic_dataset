@@ -1,11 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "serbest", 
-            "mb_tag": "serbest", 
-            "source": "http://musicbrainz.org/recording/a8cd450e-e8d9-4245-b670-2a9626e14b0c"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [], 
     "releases": [
         {
@@ -22,6 +16,12 @@
         }
     ], 
     "mbid": "a8cd450e-e8d9-4245-b670-2a9626e14b0c", 
+    "works": [
+        {
+            "mbid": "157c0c22-960b-45c4-9596-ff3506423951", 
+            "title": "Mecnun Gibi Leyla Diyerek A\u015fk\u0131na Kand\u0131m"
+        }
+    ], 
     "makam": [], 
     "artists": [
         {
@@ -35,11 +35,11 @@
             "name": "Bekir S\u0131dk\u0131 Sezgin"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "157c0c22-960b-45c4-9596-ff3506423951", 
-            "title": "Mecnun Gibi Leyla Diyerek A\u015fk\u0131na Kand\u0131m"
+            "attribute_key": "serbest", 
+            "mb_tag": "serbest", 
+            "source": "http://musicbrainz.org/recording/a8cd450e-e8d9-4245-b670-2a9626e14b0c"
         }
     ]
 }

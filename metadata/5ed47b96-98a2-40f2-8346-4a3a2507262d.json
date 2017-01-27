@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "aksaksemai", 
-            "mb_attribute": "Aksaksemai", 
-            "source": "http://musicbrainz.org/work/969634b1-6404-47cc-9d16-3f893b64616e"
-        }, 
-        {
-            "attribute_key": "aksaksemai", 
-            "mb_tag": "aksaksemai", 
-            "source": "http://musicbrainz.org/recording/5ed47b96-98a2-40f2-8346-4a3a2507262d"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "agirsemai", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "5ed47b96-98a2-40f2-8346-4a3a2507262d", 
+    "works": [
+        {
+            "mbid": "969634b1-6404-47cc-9d16-3f893b64616e", 
+            "title": "Gerdane Nak\u015fi Buse-i G\u00fcl"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "sultaniirak", 
@@ -73,11 +68,16 @@
             "name": "Kudsi Erguner"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "969634b1-6404-47cc-9d16-3f893b64616e", 
-            "title": "Gerdane Nak\u015fi Buse-i G\u00fcl"
+            "attribute_key": "aksaksemai", 
+            "mb_attribute": "Aksaksemai", 
+            "source": "http://musicbrainz.org/work/969634b1-6404-47cc-9d16-3f893b64616e"
+        }, 
+        {
+            "attribute_key": "aksaksemai", 
+            "mb_tag": "aksaksemai", 
+            "source": "http://musicbrainz.org/recording/5ed47b96-98a2-40f2-8346-4a3a2507262d"
         }
     ]
 }

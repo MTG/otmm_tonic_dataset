@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "turkaksagi", 
-            "mb_attribute": "T\u00fcrkaksa\u011f\u0131", 
-            "source": "http://musicbrainz.org/work/dac027fc-e3ca-47b1-90c7-bb64b02b7d9b"
-        }, 
-        {
-            "attribute_key": "turkaksagi_ii", 
-            "mb_tag": "t\u00fcrkaksa\u011f\u0131", 
-            "source": "http://musicbrainz.org/recording/aa58b3a3-3c01-4161-95d9-5679db655fae"
-        }
-    ], 
+    "instrumentation_voicing": "duo instrumental", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -42,6 +31,12 @@
         }
     ], 
     "mbid": "aa58b3a3-3c01-4161-95d9-5679db655fae", 
+    "works": [
+        {
+            "mbid": "dac027fc-e3ca-47b1-90c7-bb64b02b7d9b", 
+            "title": "Nerelerde Kald\u0131n"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "nihavent", 
@@ -72,11 +67,16 @@
             "name": "Min\u00f6r"
         }
     ], 
-    "instrumentation_voicing": "Duo instrumental", 
-    "works": [
+    "usul": [
         {
-            "mbid": "dac027fc-e3ca-47b1-90c7-bb64b02b7d9b", 
-            "title": "Nerelerde Kald\u0131n"
+            "attribute_key": "turkaksagi", 
+            "mb_attribute": "T\u00fcrkaksa\u011f\u0131", 
+            "source": "http://musicbrainz.org/work/dac027fc-e3ca-47b1-90c7-bb64b02b7d9b"
+        }, 
+        {
+            "attribute_key": "turkaksagi_ii", 
+            "mb_tag": "t\u00fcrkaksa\u011f\u0131", 
+            "source": "http://musicbrainz.org/recording/aa58b3a3-3c01-4161-95d9-5679db655fae"
         }
     ]
 }

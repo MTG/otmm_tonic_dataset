@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "aksaksemai", 
-            "mb_attribute": "Aksaksemai", 
-            "source": "http://musicbrainz.org/work/73da854a-5a12-4048-93d5-c4e9a612f405"
-        }, 
-        {
-            "attribute_key": "aksaksemai", 
-            "mb_tag": "aksaksemai", 
-            "source": "http://musicbrainz.org/recording/2a215ec8-617c-4dd9-bdcf-b945f8484f57"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "2a215ec8-617c-4dd9-bdcf-b945f8484f57", 
+    "works": [
+        {
+            "mbid": "73da854a-5a12-4048-93d5-c4e9a612f405", 
+            "title": "G\u00fcn Kavu\u015ftu Su Karard\u0131"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "muhayyer", 
@@ -62,11 +57,16 @@
             "name": "Bekir S\u0131dk\u0131 Sezgin"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "73da854a-5a12-4048-93d5-c4e9a612f405", 
-            "title": "G\u00fcn Kavu\u015ftu Su Karard\u0131"
+            "attribute_key": "aksaksemai", 
+            "mb_attribute": "Aksaksemai", 
+            "source": "http://musicbrainz.org/work/73da854a-5a12-4048-93d5-c4e9a612f405"
+        }, 
+        {
+            "attribute_key": "aksaksemai", 
+            "mb_tag": "aksaksemai", 
+            "source": "http://musicbrainz.org/recording/2a215ec8-617c-4dd9-bdcf-b945f8484f57"
         }
     ]
 }

@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "semai", 
-            "mb_attribute": "Semai", 
-            "source": "http://musicbrainz.org/work/8289398d-87a4-47f8-825d-d2057e2f0bee"
-        }, 
-        {
-            "attribute_key": "semai", 
-            "mb_tag": "semai", 
-            "source": "http://musicbrainz.org/recording/533738a4-a46f-4f15-9bd7-5d2756b36326"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "533738a4-a46f-4f15-9bd7-5d2756b36326", 
+    "works": [
+        {
+            "mbid": "8289398d-87a4-47f8-825d-d2057e2f0bee", 
+            "title": "\u015eu G\u00f6nl\u00fcm\u00fc Yaralayan Bu Baht\u0131m\u0131 Karalayan"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "nihavent", 
@@ -225,11 +220,16 @@
             "name": "Bekir \u00dcnl\u00fcataer"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "8289398d-87a4-47f8-825d-d2057e2f0bee", 
-            "title": "\u015eu G\u00f6nl\u00fcm\u00fc Yaralayan Bu Baht\u0131m\u0131 Karalayan"
+            "attribute_key": "semai", 
+            "mb_attribute": "Semai", 
+            "source": "http://musicbrainz.org/work/8289398d-87a4-47f8-825d-d2057e2f0bee"
+        }, 
+        {
+            "attribute_key": "semai", 
+            "mb_tag": "semai", 
+            "source": "http://musicbrainz.org/recording/533738a4-a46f-4f15-9bd7-5d2756b36326"
         }
     ]
 }

@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "sofyan", 
-            "mb_attribute": "Sofyan", 
-            "source": "http://musicbrainz.org/work/b4d1bfea-a1a6-42fb-bd4a-40116e395b4e"
-        }, 
-        {
-            "attribute_key": "sofyan", 
-            "mb_tag": "sofyan", 
-            "source": "http://musicbrainz.org/recording/407bb0b4-f19b-42ab-8c0a-9f1263126951"
-        }
-    ], 
+    "instrumentation_voicing": "choir", 
     "form": [
         {
             "attribute_key": "ilahi", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "407bb0b4-f19b-42ab-8c0a-9f1263126951", 
+    "works": [
+        {
+            "mbid": "b4d1bfea-a1a6-42fb-bd4a-40116e395b4e", 
+            "title": "Kerim Allah Rahim Allah"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "acemasiran", 
@@ -258,11 +253,16 @@
             "name": "Eray Mescio\u011flu"
         }
     ], 
-    "instrumentation_voicing": "Choir", 
-    "works": [
+    "usul": [
         {
-            "mbid": "b4d1bfea-a1a6-42fb-bd4a-40116e395b4e", 
-            "title": "Kerim Allah Rahim Allah"
+            "attribute_key": "sofyan", 
+            "mb_attribute": "Sofyan", 
+            "source": "http://musicbrainz.org/work/b4d1bfea-a1a6-42fb-bd4a-40116e395b4e"
+        }, 
+        {
+            "attribute_key": "sofyan", 
+            "mb_tag": "sofyan", 
+            "source": "http://musicbrainz.org/recording/407bb0b4-f19b-42ab-8c0a-9f1263126951"
         }
     ]
 }

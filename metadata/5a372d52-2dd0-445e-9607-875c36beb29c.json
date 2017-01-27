@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "duyek", 
-            "mb_attribute": "D\u00fcyek", 
-            "source": "http://musicbrainz.org/work/fc1508ed-2c07-46bb-b47d-71eccb822ff0"
-        }, 
-        {
-            "attribute_key": "duyek", 
-            "mb_tag": "d\u00fcyek", 
-            "source": "http://musicbrainz.org/recording/5a372d52-2dd0-445e-9607-875c36beb29c"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "5a372d52-2dd0-445e-9607-875c36beb29c", 
+    "works": [
+        {
+            "mbid": "fc1508ed-2c07-46bb-b47d-71eccb822ff0", 
+            "title": "Leb-i Renginine Bir G\u00fcl Konsun"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "rast", 
@@ -195,11 +190,16 @@
             "name": "Sedat G\u00fcndiyer"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "fc1508ed-2c07-46bb-b47d-71eccb822ff0", 
-            "title": "Leb-i Renginine Bir G\u00fcl Konsun"
+            "attribute_key": "duyek", 
+            "mb_attribute": "D\u00fcyek", 
+            "source": "http://musicbrainz.org/work/fc1508ed-2c07-46bb-b47d-71eccb822ff0"
+        }, 
+        {
+            "attribute_key": "duyek", 
+            "mb_tag": "d\u00fcyek", 
+            "source": "http://musicbrainz.org/recording/5a372d52-2dd0-445e-9607-875c36beb29c"
         }
     ]
 }

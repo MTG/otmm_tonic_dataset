@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "yuruksemai", 
-            "mb_attribute": "Y\u00fcr\u00fcksemai", 
-            "source": "http://musicbrainz.org/work/d461e990-e760-4b20-9be7-268b5ce7c346"
-        }, 
-        {
-            "attribute_key": "yuruksemai", 
-            "mb_tag": "y\u00fcr\u00fcksemai", 
-            "source": "http://musicbrainz.org/recording/e411fd99-d149-4e4a-b3be-34fd5775c51d"
-        }
-    ], 
+    "instrumentation_voicing": "choir", 
     "form": [
         {
             "attribute_key": "yuruksemai", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "e411fd99-d149-4e4a-b3be-34fd5775c51d", 
+    "works": [
+        {
+            "mbid": "d461e990-e760-4b20-9be7-268b5ce7c346", 
+            "title": "Ey Dil Heves-i Vuslat-\u0131 Canan Sana D\u00fc\u015fmez"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "suzinak", 
@@ -533,11 +528,16 @@
             "name": "Arzu \u00d6zg\u00fcn"
         }
     ], 
-    "instrumentation_voicing": "Choir", 
-    "works": [
+    "usul": [
         {
-            "mbid": "d461e990-e760-4b20-9be7-268b5ce7c346", 
-            "title": "Ey Dil Heves-i Vuslat-\u0131 Canan Sana D\u00fc\u015fmez"
+            "attribute_key": "yuruksemai", 
+            "mb_attribute": "Y\u00fcr\u00fcksemai", 
+            "source": "http://musicbrainz.org/work/d461e990-e760-4b20-9be7-268b5ce7c346"
+        }, 
+        {
+            "attribute_key": "yuruksemai", 
+            "mb_tag": "y\u00fcr\u00fcksemai", 
+            "source": "http://musicbrainz.org/recording/e411fd99-d149-4e4a-b3be-34fd5775c51d"
         }
     ]
 }

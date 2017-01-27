@@ -1,5 +1,11 @@
 {
-    "instrumentation_voicing": "Solo instrumental", 
+    "usul": [
+        {
+            "attribute_key": "serbest", 
+            "mb_tag": "serbest", 
+            "source": "http://musicbrainz.org/recording/3d68d532-d14c-4abd-a3df-c581e4865236"
+        }
+    ], 
     "form": [
         {
             "attribute_key": "taksim", 
@@ -48,11 +54,5 @@
             "name": "Erc\u00fcmend Batanay"
         }
     ], 
-    "usul": [
-        {
-            "attribute_key": "serbest", 
-            "mb_tag": "serbest", 
-            "source": "http://musicbrainz.org/recording/3d68d532-d14c-4abd-a3df-c581e4865236"
-        }
-    ]
+    "instrumentation_voicing": "solo instrumental"
 }

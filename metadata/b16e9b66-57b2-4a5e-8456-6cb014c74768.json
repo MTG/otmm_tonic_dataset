@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "semai", 
-            "mb_attribute": "Semai", 
-            "source": "http://musicbrainz.org/work/0c4ce1d1-ee80-46da-b17c-5ce4f8771133"
-        }, 
-        {
-            "attribute_key": "semai", 
-            "mb_tag": "semai", 
-            "source": "http://musicbrainz.org/recording/b16e9b66-57b2-4a5e-8456-6cb014c74768"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "b16e9b66-57b2-4a5e-8456-6cb014c74768", 
+    "works": [
+        {
+            "mbid": "0c4ce1d1-ee80-46da-b17c-5ce4f8771133", 
+            "title": "H\u00fclyaya Dalar"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "sultaniyegah", 
@@ -81,11 +76,16 @@
             "name": "Nevzat S\u00fcmer"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "0c4ce1d1-ee80-46da-b17c-5ce4f8771133", 
-            "title": "H\u00fclyaya Dalar"
+            "attribute_key": "semai", 
+            "mb_attribute": "Semai", 
+            "source": "http://musicbrainz.org/work/0c4ce1d1-ee80-46da-b17c-5ce4f8771133"
+        }, 
+        {
+            "attribute_key": "semai", 
+            "mb_tag": "semai", 
+            "source": "http://musicbrainz.org/recording/b16e9b66-57b2-4a5e-8456-6cb014c74768"
         }
     ]
 }

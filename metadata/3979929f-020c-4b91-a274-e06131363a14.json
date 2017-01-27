@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "aksaksemai", 
-            "mb_attribute": "Aksaksemai", 
-            "source": "http://musicbrainz.org/work/45ae0a7a-6abe-453c-9b09-984415379f91"
-        }, 
-        {
-            "attribute_key": "aksaksemai", 
-            "mb_tag": "aksaksemai", 
-            "source": "http://musicbrainz.org/recording/3979929f-020c-4b91-a274-e06131363a14"
-        }
-    ], 
+    "instrumentation_voicing": "duo instrumental", 
     "form": [
         {
             "attribute_key": "sazsemaisi", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "3979929f-020c-4b91-a274-e06131363a14", 
+    "works": [
+        {
+            "mbid": "45ae0a7a-6abe-453c-9b09-984415379f91", 
+            "title": "S\u00fbzidil\u00e2r\u00e2 Saz Semaisi"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "suzidilara", 
@@ -70,11 +65,16 @@
             "name": "\u0130hsan \u00d6zgen"
         }
     ], 
-    "instrumentation_voicing": "Duo instrumental", 
-    "works": [
+    "usul": [
         {
-            "mbid": "45ae0a7a-6abe-453c-9b09-984415379f91", 
-            "title": "S\u00fbzidil\u00e2r\u00e2 Saz Semaisi"
+            "attribute_key": "aksaksemai", 
+            "mb_attribute": "Aksaksemai", 
+            "source": "http://musicbrainz.org/work/45ae0a7a-6abe-453c-9b09-984415379f91"
+        }, 
+        {
+            "attribute_key": "aksaksemai", 
+            "mb_tag": "aksaksemai", 
+            "source": "http://musicbrainz.org/recording/3979929f-020c-4b91-a274-e06131363a14"
         }
     ]
 }

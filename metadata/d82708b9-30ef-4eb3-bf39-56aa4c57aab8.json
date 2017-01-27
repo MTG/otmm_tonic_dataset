@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "hafif", 
-            "mb_attribute": "Hafif", 
-            "source": "http://musicbrainz.org/work/831d4801-0562-491f-922b-f6f987d19b3d"
-        }, 
-        {
-            "attribute_key": "hafif", 
-            "mb_tag": "hafif", 
-            "source": "http://musicbrainz.org/recording/d82708b9-30ef-4eb3-bf39-56aa4c57aab8"
-        }
-    ], 
+    "instrumentation_voicing": "ensemble instrumental", 
     "form": [
         {
             "attribute_key": "pesrev", 
@@ -42,6 +31,12 @@
         }
     ], 
     "mbid": "d82708b9-30ef-4eb3-bf39-56aa4c57aab8", 
+    "works": [
+        {
+            "mbid": "831d4801-0562-491f-922b-f6f987d19b3d", 
+            "title": "Beyati Pe\u015frev"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "beyati", 
@@ -104,11 +99,16 @@
             "name": "\u00d6zer \u00d6zel"
         }
     ], 
-    "instrumentation_voicing": "Ensemble instrumental", 
-    "works": [
+    "usul": [
         {
-            "mbid": "831d4801-0562-491f-922b-f6f987d19b3d", 
-            "title": "Beyati Pe\u015frev"
+            "attribute_key": "hafif", 
+            "mb_attribute": "Hafif", 
+            "source": "http://musicbrainz.org/work/831d4801-0562-491f-922b-f6f987d19b3d"
+        }, 
+        {
+            "attribute_key": "hafif", 
+            "mb_tag": "hafif", 
+            "source": "http://musicbrainz.org/recording/d82708b9-30ef-4eb3-bf39-56aa4c57aab8"
         }
     ]
 }

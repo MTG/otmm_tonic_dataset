@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "aksaksemai", 
-            "mb_attribute": "Aksaksemai", 
-            "source": "http://musicbrainz.org/work/0a6df140-6905-415b-81c0-0be9eac50893"
-        }, 
-        {
-            "attribute_key": "aksaksemai", 
-            "mb_tag": "aksaksemai", 
-            "source": "http://musicbrainz.org/recording/cbbc59ec-1980-4d68-86fd-7406564f7572"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "agirsemai", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "cbbc59ec-1980-4d68-86fd-7406564f7572", 
+    "works": [
+        {
+            "mbid": "0a6df140-6905-415b-81c0-0be9eac50893", 
+            "title": "Kul Oldum Bir Cefakare"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "hicaz_humayun", 
@@ -62,11 +57,16 @@
             "name": "Bekir S\u0131dk\u0131 Sezgin"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "0a6df140-6905-415b-81c0-0be9eac50893", 
-            "title": "Kul Oldum Bir Cefakare"
+            "attribute_key": "aksaksemai", 
+            "mb_attribute": "Aksaksemai", 
+            "source": "http://musicbrainz.org/work/0a6df140-6905-415b-81c0-0be9eac50893"
+        }, 
+        {
+            "attribute_key": "aksaksemai", 
+            "mb_tag": "aksaksemai", 
+            "source": "http://musicbrainz.org/recording/cbbc59ec-1980-4d68-86fd-7406564f7572"
         }
     ]
 }

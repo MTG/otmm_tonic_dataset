@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "duyek", 
-            "mb_attribute": "D\u00fcyek", 
-            "source": "http://musicbrainz.org/work/b0396179-53a8-4ab2-b07e-5c08e5dbcb0b"
-        }, 
-        {
-            "attribute_key": "duyek", 
-            "mb_tag": "d\u00fcyek", 
-            "source": "http://musicbrainz.org/recording/d726cd51-fda8-467e-aa08-3d75f2fffc07"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal without accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "d726cd51-fda8-467e-aa08-3d75f2fffc07", 
+    "works": [
+        {
+            "mbid": "b0396179-53a8-4ab2-b07e-5c08e5dbcb0b", 
+            "title": "S\u00f6yleyin Nerde O G\u00f6z Nuru G\u00f6n\u00fcl Sevgisi Yar"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "acemkurdi", 
@@ -57,11 +52,16 @@
             "name": "Sabite Tur G\u00fclerman"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal without accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "b0396179-53a8-4ab2-b07e-5c08e5dbcb0b", 
-            "title": "S\u00f6yleyin Nerde O G\u00f6z Nuru G\u00f6n\u00fcl Sevgisi Yar"
+            "attribute_key": "duyek", 
+            "mb_attribute": "D\u00fcyek", 
+            "source": "http://musicbrainz.org/work/b0396179-53a8-4ab2-b07e-5c08e5dbcb0b"
+        }, 
+        {
+            "attribute_key": "duyek", 
+            "mb_tag": "d\u00fcyek", 
+            "source": "http://musicbrainz.org/recording/d726cd51-fda8-467e-aa08-3d75f2fffc07"
         }
     ]
 }

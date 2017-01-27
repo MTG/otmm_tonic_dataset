@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "aksak", 
-            "mb_attribute": "Aksak", 
-            "source": "http://musicbrainz.org/work/7f39416e-d671-407c-94b5-0f3187d6f9f3"
-        }, 
-        {
-            "attribute_key": "sofyan", 
-            "mb_tag": "sofyan", 
-            "source": "http://musicbrainz.org/recording/761df7ce-d396-4a44-8f7b-ceb7f5d6cd46"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "761df7ce-d396-4a44-8f7b-ceb7f5d6cd46", 
+    "works": [
+        {
+            "mbid": "7f39416e-d671-407c-94b5-0f3187d6f9f3", 
+            "title": "Bir Taraftan \u00dcz\u00fcyor G\u00f6nl\u00fcm\u00fc"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "hicaz", 
@@ -62,11 +57,16 @@
             "name": "Bekir S\u0131dk\u0131 Sezgin"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "7f39416e-d671-407c-94b5-0f3187d6f9f3", 
-            "title": "Bir Taraftan \u00dcz\u00fcyor G\u00f6nl\u00fcm\u00fc"
+            "attribute_key": "aksak", 
+            "mb_attribute": "Aksak", 
+            "source": "http://musicbrainz.org/work/7f39416e-d671-407c-94b5-0f3187d6f9f3"
+        }, 
+        {
+            "attribute_key": "sofyan", 
+            "mb_tag": "sofyan", 
+            "source": "http://musicbrainz.org/recording/761df7ce-d396-4a44-8f7b-ceb7f5d6cd46"
         }
     ]
 }

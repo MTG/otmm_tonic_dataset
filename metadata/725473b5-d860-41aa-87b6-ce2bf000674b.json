@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "duyek", 
-            "mb_attribute": "D\u00fcyek", 
-            "source": "http://musicbrainz.org/work/6fbaa7e1-e2f2-4b72-99fe-d31ff460c2bc"
-        }, 
-        {
-            "attribute_key": "duyek", 
-            "mb_tag": "d\u00fcyek", 
-            "source": "http://musicbrainz.org/recording/725473b5-d860-41aa-87b6-ce2bf000674b"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -33,6 +22,12 @@
         }
     ], 
     "mbid": "725473b5-d860-41aa-87b6-ce2bf000674b", 
+    "works": [
+        {
+            "mbid": "6fbaa7e1-e2f2-4b72-99fe-d31ff460c2bc", 
+            "title": "Senede Bir G\u00fcn"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "hicaz_zirgule", 
@@ -60,11 +55,16 @@
             "name": "Aziz T\u00fcrk Sanat M\u00fczi\u011fi Grubu"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "6fbaa7e1-e2f2-4b72-99fe-d31ff460c2bc", 
-            "title": "Senede Bir G\u00fcn"
+            "attribute_key": "duyek", 
+            "mb_attribute": "D\u00fcyek", 
+            "source": "http://musicbrainz.org/work/6fbaa7e1-e2f2-4b72-99fe-d31ff460c2bc"
+        }, 
+        {
+            "attribute_key": "duyek", 
+            "mb_tag": "d\u00fcyek", 
+            "source": "http://musicbrainz.org/recording/725473b5-d860-41aa-87b6-ce2bf000674b"
         }
     ]
 }

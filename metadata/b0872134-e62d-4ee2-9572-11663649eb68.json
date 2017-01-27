@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "devrikebir", 
-            "mb_attribute": "Devr-i Kebir", 
-            "source": "http://musicbrainz.org/work/b2014c94-0c24-4163-bec9-ca090f0c4f34"
-        }, 
-        {
-            "attribute_key": "devrikebir", 
-            "mb_tag": "devrikebir", 
-            "source": "http://musicbrainz.org/recording/b0872134-e62d-4ee2-9572-11663649eb68"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal without accompaniment", 
     "form": [
         {
             "attribute_key": "beste", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "b0872134-e62d-4ee2-9572-11663649eb68", 
+    "works": [
+        {
+            "mbid": "b2014c94-0c24-4163-bec9-ca090f0c4f34", 
+            "title": "Sinede Bir Lahza Aram Eyle Gel"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "suzinak", 
@@ -65,11 +60,16 @@
             "name": "Klasik T\u00fcrk Musikisi Korosu"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal without accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "b2014c94-0c24-4163-bec9-ca090f0c4f34", 
-            "title": "Sinede Bir Lahza Aram Eyle Gel"
+            "attribute_key": "devrikebir", 
+            "mb_attribute": "Devr-i Kebir", 
+            "source": "http://musicbrainz.org/work/b2014c94-0c24-4163-bec9-ca090f0c4f34"
+        }, 
+        {
+            "attribute_key": "devrikebir", 
+            "mb_tag": "devrikebir", 
+            "source": "http://musicbrainz.org/recording/b0872134-e62d-4ee2-9572-11663649eb68"
         }
     ]
 }

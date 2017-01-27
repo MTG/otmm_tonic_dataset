@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "aksak", 
-            "mb_attribute": "Aksak", 
-            "source": "http://musicbrainz.org/work/b383be51-a2e3-4855-b8db-feeb620f0a46"
-        }, 
-        {
-            "attribute_key": "aksak", 
-            "mb_tag": "aksak", 
-            "source": "http://musicbrainz.org/recording/2c2b51b3-150b-4693-9383-9c467cbbdadd"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal without accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "2c2b51b3-150b-4693-9383-9c467cbbdadd", 
+    "works": [
+        {
+            "mbid": "b383be51-a2e3-4855-b8db-feeb620f0a46", 
+            "title": "Sormad\u0131n Halimi"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "huzzam", 
@@ -57,11 +52,16 @@
             "name": "Hamiyet Y\u00fcceses"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal without accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "b383be51-a2e3-4855-b8db-feeb620f0a46", 
-            "title": "Sormad\u0131n Halimi"
+            "attribute_key": "aksak", 
+            "mb_attribute": "Aksak", 
+            "source": "http://musicbrainz.org/work/b383be51-a2e3-4855-b8db-feeb620f0a46"
+        }, 
+        {
+            "attribute_key": "aksak", 
+            "mb_tag": "aksak", 
+            "source": "http://musicbrainz.org/recording/2c2b51b3-150b-4693-9383-9c467cbbdadd"
         }
     ]
 }

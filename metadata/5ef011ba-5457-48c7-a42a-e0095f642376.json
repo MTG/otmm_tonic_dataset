@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "aksak", 
-            "mb_attribute": "Aksak", 
-            "source": "http://musicbrainz.org/work/ed706f69-b43b-46e5-90e2-da3df672e35e"
-        }, 
-        {
-            "attribute_key": "aksak", 
-            "mb_tag": "aksak", 
-            "source": "http://musicbrainz.org/recording/5ef011ba-5457-48c7-a42a-e0095f642376"
-        }
-    ], 
+    "instrumentation_voicing": "choir", 
     "form": [
         {
             "attribute_key": "turku", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "5ef011ba-5457-48c7-a42a-e0095f642376", 
+    "works": [
+        {
+            "mbid": "ed706f69-b43b-46e5-90e2-da3df672e35e", 
+            "title": "\u0130zmir'in Kavaklar\u0131"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "segah", 
@@ -130,11 +125,16 @@
             "name": "Seyhun \u00c7elik"
         }
     ], 
-    "instrumentation_voicing": "Choir", 
-    "works": [
+    "usul": [
         {
-            "mbid": "ed706f69-b43b-46e5-90e2-da3df672e35e", 
-            "title": "\u0130zmir'in Kavaklar\u0131"
+            "attribute_key": "aksak", 
+            "mb_attribute": "Aksak", 
+            "source": "http://musicbrainz.org/work/ed706f69-b43b-46e5-90e2-da3df672e35e"
+        }, 
+        {
+            "attribute_key": "aksak", 
+            "mb_tag": "aksak", 
+            "source": "http://musicbrainz.org/recording/5ef011ba-5457-48c7-a42a-e0095f642376"
         }
     ]
 }

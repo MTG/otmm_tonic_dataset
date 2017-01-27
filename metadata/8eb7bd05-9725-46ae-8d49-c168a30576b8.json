@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "aksaksemai", 
-            "mb_attribute": "Aksaksemai", 
-            "source": "http://musicbrainz.org/work/52454ace-07c8-4d72-a48f-ea16d7a1b418"
-        }, 
-        {
-            "attribute_key": "aksaksemai", 
-            "mb_tag": "aksaksemai", 
-            "source": "http://musicbrainz.org/recording/8eb7bd05-9725-46ae-8d49-c168a30576b8"
-        }
-    ], 
+    "instrumentation_voicing": "ensemble instrumental", 
     "form": [
         {
             "attribute_key": "sazsemaisi", 
@@ -42,6 +31,12 @@
         }
     ], 
     "mbid": "8eb7bd05-9725-46ae-8d49-c168a30576b8", 
+    "works": [
+        {
+            "mbid": "52454ace-07c8-4d72-a48f-ea16d7a1b418", 
+            "title": "Muhayyerk\u00fcrdi Sazsemaisi"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "muhayyerkurdi", 
@@ -96,11 +91,16 @@
             "name": "Vahit Anadolu"
         }
     ], 
-    "instrumentation_voicing": "Ensemble instrumental", 
-    "works": [
+    "usul": [
         {
-            "mbid": "52454ace-07c8-4d72-a48f-ea16d7a1b418", 
-            "title": "Muhayyerk\u00fcrdi Sazsemaisi"
+            "attribute_key": "aksaksemai", 
+            "mb_attribute": "Aksaksemai", 
+            "source": "http://musicbrainz.org/work/52454ace-07c8-4d72-a48f-ea16d7a1b418"
+        }, 
+        {
+            "attribute_key": "aksaksemai", 
+            "mb_tag": "aksaksemai", 
+            "source": "http://musicbrainz.org/recording/8eb7bd05-9725-46ae-8d49-c168a30576b8"
         }
     ]
 }

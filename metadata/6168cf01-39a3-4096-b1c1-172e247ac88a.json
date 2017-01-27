@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "oynak", 
-            "mb_attribute": "Oynak", 
-            "source": "http://musicbrainz.org/work/39428bf1-d2c6-482a-a072-87f1571f7437"
-        }, 
-        {
-            "attribute_key": "serbest", 
-            "mb_tag": "serbest", 
-            "source": "http://musicbrainz.org/recording/6168cf01-39a3-4096-b1c1-172e247ac88a"
-        }
-    ], 
+    "instrumentation_voicing": "duo instrumental", 
     "form": [
         {
             "attribute_key": "kocekce", 
@@ -42,6 +31,12 @@
         }
     ], 
     "mbid": "6168cf01-39a3-4096-b1c1-172e247ac88a", 
+    "works": [
+        {
+            "mbid": "39428bf1-d2c6-482a-a072-87f1571f7437", 
+            "title": "Elem \u00c7ekme G\u00f6n\u00fcl B\u00f6yle Kal\u0131nmaz"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "karcigar", 
@@ -77,11 +72,16 @@
             "name": "Derya T\u00fcrkan"
         }
     ], 
-    "instrumentation_voicing": "Duo instrumental", 
-    "works": [
+    "usul": [
         {
-            "mbid": "39428bf1-d2c6-482a-a072-87f1571f7437", 
-            "title": "Elem \u00c7ekme G\u00f6n\u00fcl B\u00f6yle Kal\u0131nmaz"
+            "attribute_key": "oynak", 
+            "mb_attribute": "Oynak", 
+            "source": "http://musicbrainz.org/work/39428bf1-d2c6-482a-a072-87f1571f7437"
+        }, 
+        {
+            "attribute_key": "serbest", 
+            "mb_tag": "serbest", 
+            "source": "http://musicbrainz.org/recording/6168cf01-39a3-4096-b1c1-172e247ac88a"
         }
     ]
 }

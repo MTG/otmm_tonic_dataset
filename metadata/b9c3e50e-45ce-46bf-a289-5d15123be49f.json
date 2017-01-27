@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "aksak", 
-            "mb_attribute": "Aksak", 
-            "source": "http://musicbrainz.org/work/719238bd-fa4e-46c1-87d8-2a9ae699ff6a"
-        }, 
-        {
-            "attribute_key": "aksak", 
-            "mb_tag": "aksak", 
-            "source": "http://musicbrainz.org/recording/b9c3e50e-45ce-46bf-a289-5d15123be49f"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "b9c3e50e-45ce-46bf-a289-5d15123be49f", 
+    "works": [
+        {
+            "mbid": "719238bd-fa4e-46c1-87d8-2a9ae699ff6a", 
+            "title": "Bir Yana E\u011fdir Fesin"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "huseyni", 
@@ -65,11 +60,16 @@
             "name": "Haf\u0131z Sami"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "719238bd-fa4e-46c1-87d8-2a9ae699ff6a", 
-            "title": "Bir Yana E\u011fdir Fesin"
+            "attribute_key": "aksak", 
+            "mb_attribute": "Aksak", 
+            "source": "http://musicbrainz.org/work/719238bd-fa4e-46c1-87d8-2a9ae699ff6a"
+        }, 
+        {
+            "attribute_key": "aksak", 
+            "mb_tag": "aksak", 
+            "source": "http://musicbrainz.org/recording/b9c3e50e-45ce-46bf-a289-5d15123be49f"
         }
     ]
 }

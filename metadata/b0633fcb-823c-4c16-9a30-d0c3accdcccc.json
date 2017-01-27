@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "kapali_curcuna", 
-            "mb_attribute": "Kapal\u0131 Curcuna", 
-            "source": "http://musicbrainz.org/work/e0571832-f8df-4192-b1cc-a655c5c782d7"
-        }, 
-        {
-            "attribute_key": "kapali_curcuna", 
-            "mb_tag": "curcuna", 
-            "source": "http://musicbrainz.org/recording/b0633fcb-823c-4c16-9a30-d0c3accdcccc"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal without accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "b0633fcb-823c-4c16-9a30-d0c3accdcccc", 
+    "works": [
+        {
+            "mbid": "e0571832-f8df-4192-b1cc-a655c5c782d7", 
+            "title": "\u00c7ok S\u00fcrmedi Ge\u00e7ti"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "bestenigar", 
@@ -57,11 +52,16 @@
             "name": "Selma Sa\u011fba\u015f"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal without accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "e0571832-f8df-4192-b1cc-a655c5c782d7", 
-            "title": "\u00c7ok S\u00fcrmedi Ge\u00e7ti"
+            "attribute_key": "kapali_curcuna", 
+            "mb_attribute": "Kapal\u0131 Curcuna", 
+            "source": "http://musicbrainz.org/work/e0571832-f8df-4192-b1cc-a655c5c782d7"
+        }, 
+        {
+            "attribute_key": "kapali_curcuna", 
+            "mb_tag": "curcuna", 
+            "source": "http://musicbrainz.org/recording/b0633fcb-823c-4c16-9a30-d0c3accdcccc"
         }
     ]
 }

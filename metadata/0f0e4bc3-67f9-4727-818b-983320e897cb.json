@@ -1,11 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "devrikebir", 
-            "mb_attribute": "Devr-i Kebir", 
-            "source": "http://musicbrainz.org/work/4b6540da-6806-4521-aa86-389615d475e7"
-        }
-    ], 
+    "instrumentation_voicing": "trio instrumental", 
     "form": [
         {
             "attribute_key": "pesrev", 
@@ -41,6 +35,12 @@
         }
     ], 
     "mbid": "0f0e4bc3-67f9-4727-818b-983320e897cb", 
+    "works": [
+        {
+            "mbid": "4b6540da-6806-4521-aa86-389615d475e7", 
+            "title": "Saba Pe\u015frev"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "saba", 
@@ -79,11 +79,11 @@
             "name": "Ali Do\u011fan Ergin"
         }
     ], 
-    "instrumentation_voicing": "Trio instrumental", 
-    "works": [
+    "usul": [
         {
-            "mbid": "4b6540da-6806-4521-aa86-389615d475e7", 
-            "title": "Saba Pe\u015frev"
+            "attribute_key": "devrikebir", 
+            "mb_attribute": "Devr-i Kebir", 
+            "source": "http://musicbrainz.org/work/4b6540da-6806-4521-aa86-389615d475e7"
         }
     ]
 }

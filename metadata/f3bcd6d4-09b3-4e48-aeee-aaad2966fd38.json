@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "yuruksemai", 
-            "mb_attribute": "Y\u00fcr\u00fcksemai", 
-            "source": "http://musicbrainz.org/work/78717acf-6e80-4821-9317-7f3229e5f2c0"
-        }, 
-        {
-            "attribute_key": "yuruksemai", 
-            "mb_tag": "y\u00fcr\u00fcksemai", 
-            "source": "http://musicbrainz.org/recording/f3bcd6d4-09b3-4e48-aeee-aaad2966fd38"
-        }
-    ], 
+    "instrumentation_voicing": "choir", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "f3bcd6d4-09b3-4e48-aeee-aaad2966fd38", 
+    "works": [
+        {
+            "mbid": "78717acf-6e80-4821-9317-7f3229e5f2c0", 
+            "title": "Kuyunda Figan\u0131mla Aceb Gulgule Yok Mu, Ey Turra-i Tarrar"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "rast", 
@@ -148,11 +143,16 @@
             "name": "Safinaz Rizeli"
         }
     ], 
-    "instrumentation_voicing": "Choir", 
-    "works": [
+    "usul": [
         {
-            "mbid": "78717acf-6e80-4821-9317-7f3229e5f2c0", 
-            "title": "Kuyunda Figan\u0131mla Aceb Gulgule Yok Mu, Ey Turra-i Tarrar"
+            "attribute_key": "yuruksemai", 
+            "mb_attribute": "Y\u00fcr\u00fcksemai", 
+            "source": "http://musicbrainz.org/work/78717acf-6e80-4821-9317-7f3229e5f2c0"
+        }, 
+        {
+            "attribute_key": "yuruksemai", 
+            "mb_tag": "y\u00fcr\u00fcksemai", 
+            "source": "http://musicbrainz.org/recording/f3bcd6d4-09b3-4e48-aeee-aaad2966fd38"
         }
     ]
 }

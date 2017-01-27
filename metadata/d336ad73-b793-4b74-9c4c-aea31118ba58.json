@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "duyek", 
-            "mb_attribute": "D\u00fcyek", 
-            "source": "http://musicbrainz.org/work/36ccab8e-e144-40ce-aec8-cb36c6dc5ce3"
-        }, 
-        {
-            "attribute_key": "duyek", 
-            "mb_tag": "d\u00fcyek", 
-            "source": "http://musicbrainz.org/recording/d336ad73-b793-4b74-9c4c-aea31118ba58"
-        }
-    ], 
+    "instrumentation_voicing": "choir", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "d336ad73-b793-4b74-9c4c-aea31118ba58", 
+    "works": [
+        {
+            "mbid": "36ccab8e-e144-40ce-aec8-cb36c6dc5ce3", 
+            "title": "D\u00fc \u00c7e\u015fmimden Gitmez"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "hisarbuselik", 
@@ -564,11 +559,16 @@
             "name": "Nebahat Konu"
         }
     ], 
-    "instrumentation_voicing": "Choir", 
-    "works": [
+    "usul": [
         {
-            "mbid": "36ccab8e-e144-40ce-aec8-cb36c6dc5ce3", 
-            "title": "D\u00fc \u00c7e\u015fmimden Gitmez"
+            "attribute_key": "duyek", 
+            "mb_attribute": "D\u00fcyek", 
+            "source": "http://musicbrainz.org/work/36ccab8e-e144-40ce-aec8-cb36c6dc5ce3"
+        }, 
+        {
+            "attribute_key": "duyek", 
+            "mb_tag": "d\u00fcyek", 
+            "source": "http://musicbrainz.org/recording/d336ad73-b793-4b74-9c4c-aea31118ba58"
         }
     ]
 }

@@ -1,11 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "aksaksemai", 
-            "mb_attribute": "Aksaksemai", 
-            "source": "http://musicbrainz.org/work/8457bce2-07f0-4502-ae86-19b61c6bb77e"
-        }
-    ], 
+    "instrumentation_voicing": "solo instrumental", 
     "form": [
         {
             "attribute_key": "sazsemaisi", 
@@ -33,6 +27,12 @@
         }
     ], 
     "mbid": "3ff9a9ce-de66-4efc-a62c-7bf9481273ab", 
+    "works": [
+        {
+            "mbid": "8457bce2-07f0-4502-ae86-19b61c6bb77e", 
+            "title": "Yegah Sazsemaisi"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "yegah", 
@@ -55,11 +55,11 @@
             "name": "Salih Bilgin"
         }
     ], 
-    "instrumentation_voicing": "Solo instrumental", 
-    "works": [
+    "usul": [
         {
-            "mbid": "8457bce2-07f0-4502-ae86-19b61c6bb77e", 
-            "title": "Yegah Sazsemaisi"
+            "attribute_key": "aksaksemai", 
+            "mb_attribute": "Aksaksemai", 
+            "source": "http://musicbrainz.org/work/8457bce2-07f0-4502-ae86-19b61c6bb77e"
         }
     ]
 }

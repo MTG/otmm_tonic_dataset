@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "duyek", 
-            "mb_attribute": "D\u00fcyek", 
-            "source": "http://musicbrainz.org/work/03395494-23ec-4a85-8fab-d4c0dbbec2e2"
-        }, 
-        {
-            "attribute_key": "duyek", 
-            "mb_tag": "d\u00fcyek", 
-            "source": "http://musicbrainz.org/recording/d9cdfff9-fe30-4064-b271-f97dbcf6071b"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal without accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "d9cdfff9-fe30-4064-b271-f97dbcf6071b", 
+    "works": [
+        {
+            "mbid": "03395494-23ec-4a85-8fab-d4c0dbbec2e2", 
+            "title": "Bana Nas\u0131l Vazge\u00e7 Dersin"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "rast", 
@@ -57,11 +52,16 @@
             "name": "Serhat Sarpel"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal without accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "03395494-23ec-4a85-8fab-d4c0dbbec2e2", 
-            "title": "Bana Nas\u0131l Vazge\u00e7 Dersin"
+            "attribute_key": "duyek", 
+            "mb_attribute": "D\u00fcyek", 
+            "source": "http://musicbrainz.org/work/03395494-23ec-4a85-8fab-d4c0dbbec2e2"
+        }, 
+        {
+            "attribute_key": "duyek", 
+            "mb_tag": "d\u00fcyek", 
+            "source": "http://musicbrainz.org/recording/d9cdfff9-fe30-4064-b271-f97dbcf6071b"
         }
     ]
 }

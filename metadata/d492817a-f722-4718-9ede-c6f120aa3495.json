@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "curcuna", 
-            "mb_attribute": "Curcuna", 
-            "source": "http://musicbrainz.org/work/d4c1b72b-ae54-456d-a695-6b7d4950d6f4"
-        }, 
-        {
-            "attribute_key": "kapali_curcuna", 
-            "mb_tag": "curcuna", 
-            "source": "http://musicbrainz.org/recording/d492817a-f722-4718-9ede-c6f120aa3495"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "d492817a-f722-4718-9ede-c6f120aa3495", 
+    "works": [
+        {
+            "mbid": "d4c1b72b-ae54-456d-a695-6b7d4950d6f4", 
+            "title": "Sa\u00e7lar\u0131na Ba\u011flanal\u0131 Ey Peri"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "nihavent", 
@@ -75,11 +70,16 @@
             "name": "\u015eent\u00fcrk Deveci"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "d4c1b72b-ae54-456d-a695-6b7d4950d6f4", 
-            "title": "Sa\u00e7lar\u0131na Ba\u011flanal\u0131 Ey Peri"
+            "attribute_key": "curcuna", 
+            "mb_attribute": "Curcuna", 
+            "source": "http://musicbrainz.org/work/d4c1b72b-ae54-456d-a695-6b7d4950d6f4"
+        }, 
+        {
+            "attribute_key": "kapali_curcuna", 
+            "mb_tag": "curcuna", 
+            "source": "http://musicbrainz.org/recording/d492817a-f722-4718-9ede-c6f120aa3495"
         }
     ]
 }

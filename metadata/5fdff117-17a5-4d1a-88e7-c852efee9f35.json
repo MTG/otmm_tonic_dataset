@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "duyek", 
-            "mb_attribute": "D\u00fcyek", 
-            "source": "http://musicbrainz.org/work/fba48015-ae62-4425-a6ef-1dff5f20cd93"
-        }, 
-        {
-            "attribute_key": "duyek", 
-            "mb_tag": "d\u00fcyek", 
-            "source": "http://musicbrainz.org/recording/5fdff117-17a5-4d1a-88e7-c852efee9f35"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "5fdff117-17a5-4d1a-88e7-c852efee9f35", 
+    "works": [
+        {
+            "mbid": "fba48015-ae62-4425-a6ef-1dff5f20cd93", 
+            "title": "D\u00fcn Gece Bir \u015euhun..."
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "huzzam", 
@@ -153,11 +148,16 @@
             "name": "\u00dcmit G\u00fcrelman"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "fba48015-ae62-4425-a6ef-1dff5f20cd93", 
-            "title": "D\u00fcn Gece Bir \u015euhun..."
+            "attribute_key": "duyek", 
+            "mb_attribute": "D\u00fcyek", 
+            "source": "http://musicbrainz.org/work/fba48015-ae62-4425-a6ef-1dff5f20cd93"
+        }, 
+        {
+            "attribute_key": "duyek", 
+            "mb_tag": "d\u00fcyek", 
+            "source": "http://musicbrainz.org/recording/5fdff117-17a5-4d1a-88e7-c852efee9f35"
         }
     ]
 }

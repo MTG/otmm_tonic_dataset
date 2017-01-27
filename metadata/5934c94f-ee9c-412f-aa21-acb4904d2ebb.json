@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "curcuna", 
-            "mb_attribute": "Curcuna", 
-            "source": "http://musicbrainz.org/work/6eee275a-e0ef-4d88-830d-900429f9325a"
-        }, 
-        {
-            "attribute_key": "kapali_curcuna", 
-            "mb_tag": "curcuna", 
-            "source": "http://musicbrainz.org/recording/5934c94f-ee9c-412f-aa21-acb4904d2ebb"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal without accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "5934c94f-ee9c-412f-aa21-acb4904d2ebb", 
+    "works": [
+        {
+            "mbid": "6eee275a-e0ef-4d88-830d-900429f9325a", 
+            "title": "Y\u00fcz\u00fcm \u015een Hat\u0131ram \u015een"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "kurdilihicazkar", 
@@ -57,11 +52,16 @@
             "name": "Haf\u0131z Burhan Sesy\u0131lmaz"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal without accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "6eee275a-e0ef-4d88-830d-900429f9325a", 
-            "title": "Y\u00fcz\u00fcm \u015een Hat\u0131ram \u015een"
+            "attribute_key": "curcuna", 
+            "mb_attribute": "Curcuna", 
+            "source": "http://musicbrainz.org/work/6eee275a-e0ef-4d88-830d-900429f9325a"
+        }, 
+        {
+            "attribute_key": "kapali_curcuna", 
+            "mb_tag": "curcuna", 
+            "source": "http://musicbrainz.org/recording/5934c94f-ee9c-412f-aa21-acb4904d2ebb"
         }
     ]
 }

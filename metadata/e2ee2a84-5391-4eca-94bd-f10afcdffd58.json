@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "sofyan", 
-            "mb_attribute": "Sofyan", 
-            "source": "http://musicbrainz.org/work/e5a93ab8-a877-4d24-8e22-4f1e99514369"
-        }, 
-        {
-            "attribute_key": "sofyan", 
-            "mb_tag": "sofyan", 
-            "source": "http://musicbrainz.org/recording/e2ee2a84-5391-4eca-94bd-f10afcdffd58"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "e2ee2a84-5391-4eca-94bd-f10afcdffd58", 
+    "works": [
+        {
+            "mbid": "e5a93ab8-a877-4d24-8e22-4f1e99514369", 
+            "title": "Hep A\u011flatt\u0131 Beni Kaderim"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "nihavent", 
@@ -62,11 +57,16 @@
             "name": "Seda G\u00fclbeyaz"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "e5a93ab8-a877-4d24-8e22-4f1e99514369", 
-            "title": "Hep A\u011flatt\u0131 Beni Kaderim"
+            "attribute_key": "sofyan", 
+            "mb_attribute": "Sofyan", 
+            "source": "http://musicbrainz.org/work/e5a93ab8-a877-4d24-8e22-4f1e99514369"
+        }, 
+        {
+            "attribute_key": "sofyan", 
+            "mb_tag": "sofyan", 
+            "source": "http://musicbrainz.org/recording/e2ee2a84-5391-4eca-94bd-f10afcdffd58"
         }
     ]
 }

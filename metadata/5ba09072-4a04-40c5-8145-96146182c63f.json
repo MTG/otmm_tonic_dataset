@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "duyek", 
-            "mb_attribute": "D\u00fcyek", 
-            "source": "http://musicbrainz.org/work/1d3193f4-eb7b-47db-8f1c-d3049736a45c"
-        }, 
-        {
-            "attribute_key": "duyek", 
-            "mb_tag": "d\u00fcyek", 
-            "source": "http://musicbrainz.org/recording/5ba09072-4a04-40c5-8145-96146182c63f"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal without accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "5ba09072-4a04-40c5-8145-96146182c63f", 
+    "works": [
+        {
+            "mbid": "1d3193f4-eb7b-47db-8f1c-d3049736a45c", 
+            "title": "Art\u0131k Bu Solan Bah\u00e7ede B\u00fclb\u00fcllere Yer Yok"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "hicaz", 
@@ -57,11 +52,16 @@
             "name": "Filiz \u015eat\u0131ro\u011flu"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal without accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "1d3193f4-eb7b-47db-8f1c-d3049736a45c", 
-            "title": "Art\u0131k Bu Solan Bah\u00e7ede B\u00fclb\u00fcllere Yer Yok"
+            "attribute_key": "duyek", 
+            "mb_attribute": "D\u00fcyek", 
+            "source": "http://musicbrainz.org/work/1d3193f4-eb7b-47db-8f1c-d3049736a45c"
+        }, 
+        {
+            "attribute_key": "duyek", 
+            "mb_tag": "d\u00fcyek", 
+            "source": "http://musicbrainz.org/recording/5ba09072-4a04-40c5-8145-96146182c63f"
         }
     ]
 }

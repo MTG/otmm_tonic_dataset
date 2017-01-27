@@ -1,11 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "duyek", 
-            "mb_tag": "d\u00fcyek", 
-            "source": "http://musicbrainz.org/recording/5ebf92a1-245c-4fb9-8cde-356bdcc016a2"
-        }
-    ], 
+    "instrumentation_voicing": "solo instrumental", 
     "form": [
         {
             "attribute_key": "pesrev", 
@@ -33,6 +27,12 @@
         }
     ], 
     "mbid": "5ebf92a1-245c-4fb9-8cde-356bdcc016a2", 
+    "works": [
+        {
+            "mbid": "e92c8a45-8bd0-40b0-bcc7-2c4c035c6605", 
+            "title": "\u015eehnaz Pe\u015frev"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "sehnaz", 
@@ -55,11 +55,11 @@
             "name": "Fahrettin \u00c7imenli"
         }
     ], 
-    "instrumentation_voicing": "Solo instrumental", 
-    "works": [
+    "usul": [
         {
-            "mbid": "e92c8a45-8bd0-40b0-bcc7-2c4c035c6605", 
-            "title": "\u015eehnaz Pe\u015frev"
+            "attribute_key": "duyek", 
+            "mb_tag": "d\u00fcyek", 
+            "source": "http://musicbrainz.org/recording/5ebf92a1-245c-4fb9-8cde-356bdcc016a2"
         }
     ]
 }

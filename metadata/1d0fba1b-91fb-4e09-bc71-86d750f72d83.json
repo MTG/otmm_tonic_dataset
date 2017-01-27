@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "sofyan", 
-            "mb_attribute": "Sofyan", 
-            "source": "http://musicbrainz.org/work/f62b58be-2e28-4c13-ab61-84a90fdbdde2"
-        }, 
-        {
-            "attribute_key": "sofyan", 
-            "mb_tag": "sofyan", 
-            "source": "http://musicbrainz.org/recording/1d0fba1b-91fb-4e09-bc71-86d750f72d83"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "mars", 
@@ -42,6 +31,12 @@
         }
     ], 
     "mbid": "1d0fba1b-91fb-4e09-bc71-86d750f72d83", 
+    "works": [
+        {
+            "mbid": "f62b58be-2e28-4c13-ab61-84a90fdbdde2", 
+            "title": "Ordu Mar\u015f\u0131"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "rast", 
@@ -66,11 +61,16 @@
             "name": "Riyaset-i Cumhur Fas\u0131l Heyeti"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "f62b58be-2e28-4c13-ab61-84a90fdbdde2", 
-            "title": "Ordu Mar\u015f\u0131"
+            "attribute_key": "sofyan", 
+            "mb_attribute": "Sofyan", 
+            "source": "http://musicbrainz.org/work/f62b58be-2e28-4c13-ab61-84a90fdbdde2"
+        }, 
+        {
+            "attribute_key": "sofyan", 
+            "mb_tag": "sofyan", 
+            "source": "http://musicbrainz.org/recording/1d0fba1b-91fb-4e09-bc71-86d750f72d83"
         }
     ]
 }

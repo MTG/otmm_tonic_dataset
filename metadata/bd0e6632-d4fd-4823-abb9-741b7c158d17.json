@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "devrihindi", 
-            "mb_attribute": "Devr-i Hindi", 
-            "source": "http://musicbrainz.org/work/c9fd7e69-ae69-4c73-a8cd-fc605c74d787"
-        }, 
-        {
-            "attribute_key": "devrihindi", 
-            "mb_tag": "devr-i hindi", 
-            "source": "http://musicbrainz.org/recording/bd0e6632-d4fd-4823-abb9-741b7c158d17"
-        }
-    ], 
+    "instrumentation_voicing": "duet", 
     "form": [
         {
             "attribute_key": "tevsihilahi", 
@@ -42,6 +31,12 @@
         }
     ], 
     "mbid": "bd0e6632-d4fd-4823-abb9-741b7c158d17", 
+    "works": [
+        {
+            "mbid": "c9fd7e69-ae69-4c73-a8cd-fc605c74d787", 
+            "title": "Bir Mehin Bendesiyim Saye Dahi Olmaz E\u015fi"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "muhayyer", 
@@ -130,11 +125,16 @@
             "name": "\u00d6zer \u00d6zel"
         }
     ], 
-    "instrumentation_voicing": "Duet", 
-    "works": [
+    "usul": [
         {
-            "mbid": "c9fd7e69-ae69-4c73-a8cd-fc605c74d787", 
-            "title": "Bir Mehin Bendesiyim Saye Dahi Olmaz E\u015fi"
+            "attribute_key": "devrihindi", 
+            "mb_attribute": "Devr-i Hindi", 
+            "source": "http://musicbrainz.org/work/c9fd7e69-ae69-4c73-a8cd-fc605c74d787"
+        }, 
+        {
+            "attribute_key": "devrihindi", 
+            "mb_tag": "devr-i hindi", 
+            "source": "http://musicbrainz.org/recording/bd0e6632-d4fd-4823-abb9-741b7c158d17"
         }
     ]
 }

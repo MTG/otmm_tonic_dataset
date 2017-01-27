@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "curcuna", 
-            "mb_attribute": "Curcuna", 
-            "source": "http://musicbrainz.org/work/8f5d77a2-b4a6-4274-8c36-9ec08b511bba"
-        }, 
-        {
-            "attribute_key": "kapali_curcuna", 
-            "mb_tag": "curcuna", 
-            "source": "http://musicbrainz.org/recording/9b821a35-6703-4ebf-918f-5c36c02ab90a"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "9b821a35-6703-4ebf-918f-5c36c02ab90a", 
+    "works": [
+        {
+            "mbid": "8f5d77a2-b4a6-4274-8c36-9ec08b511bba", 
+            "title": "G\u00fcnlerce Ok\u015fay\u0131p Avuttun Beni"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "huzzam", 
@@ -62,11 +57,16 @@
             "name": "Bekir S\u0131dk\u0131 Sezgin"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "8f5d77a2-b4a6-4274-8c36-9ec08b511bba", 
-            "title": "G\u00fcnlerce Ok\u015fay\u0131p Avuttun Beni"
+            "attribute_key": "curcuna", 
+            "mb_attribute": "Curcuna", 
+            "source": "http://musicbrainz.org/work/8f5d77a2-b4a6-4274-8c36-9ec08b511bba"
+        }, 
+        {
+            "attribute_key": "kapali_curcuna", 
+            "mb_tag": "curcuna", 
+            "source": "http://musicbrainz.org/recording/9b821a35-6703-4ebf-918f-5c36c02ab90a"
         }
     ]
 }

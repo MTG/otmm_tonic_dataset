@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "aydin", 
-            "mb_attribute": "Ayd\u0131n", 
-            "source": "http://musicbrainz.org/work/22429758-01be-4700-8d1a-0db6dfbfc667"
-        }, 
-        {
-            "attribute_key": "aksak", 
-            "mb_tag": "aksak", 
-            "source": "http://musicbrainz.org/recording/9dfbed06-8187-4bbb-9302-33d452e349ea"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "9dfbed06-8187-4bbb-9302-33d452e349ea", 
+    "works": [
+        {
+            "mbid": "22429758-01be-4700-8d1a-0db6dfbfc667", 
+            "title": "G\u00f6zlerin Mavi Mine"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "kurdilihicazkar", 
@@ -81,11 +76,16 @@
             "name": "Safinaz Rizeli"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "22429758-01be-4700-8d1a-0db6dfbfc667", 
-            "title": "G\u00f6zlerin Mavi Mine"
+            "attribute_key": "aydin", 
+            "mb_attribute": "Ayd\u0131n", 
+            "source": "http://musicbrainz.org/work/22429758-01be-4700-8d1a-0db6dfbfc667"
+        }, 
+        {
+            "attribute_key": "aksak", 
+            "mb_tag": "aksak", 
+            "source": "http://musicbrainz.org/recording/9dfbed06-8187-4bbb-9302-33d452e349ea"
         }
     ]
 }

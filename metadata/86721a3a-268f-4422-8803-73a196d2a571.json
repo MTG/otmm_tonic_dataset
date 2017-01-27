@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "aksaksemai", 
-            "mb_attribute": "Aksaksemai", 
-            "source": "http://musicbrainz.org/work/e7924b0d-c8a0-4b4a-b253-8eec898eac1e"
-        }, 
-        {
-            "attribute_key": "aksaksemai", 
-            "mb_tag": "aksaksemai", 
-            "source": "http://musicbrainz.org/recording/86721a3a-268f-4422-8803-73a196d2a571"
-        }
-    ], 
+    "instrumentation_voicing": "duo instrumental", 
     "form": [
         {
             "attribute_key": "sazsemaisi", 
@@ -42,6 +31,12 @@
         }
     ], 
     "mbid": "86721a3a-268f-4422-8803-73a196d2a571", 
+    "works": [
+        {
+            "mbid": "e7924b0d-c8a0-4b4a-b253-8eec898eac1e", 
+            "title": "U\u015f\u015fak Saz Semaisi"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "ussak", 
@@ -72,11 +67,16 @@
             "name": "Murat Aydemir"
         }
     ], 
-    "instrumentation_voicing": "Duo instrumental", 
-    "works": [
+    "usul": [
         {
-            "mbid": "e7924b0d-c8a0-4b4a-b253-8eec898eac1e", 
-            "title": "U\u015f\u015fak Saz Semaisi"
+            "attribute_key": "aksaksemai", 
+            "mb_attribute": "Aksaksemai", 
+            "source": "http://musicbrainz.org/work/e7924b0d-c8a0-4b4a-b253-8eec898eac1e"
+        }, 
+        {
+            "attribute_key": "aksaksemai", 
+            "mb_tag": "aksaksemai", 
+            "source": "http://musicbrainz.org/recording/86721a3a-268f-4422-8803-73a196d2a571"
         }
     ]
 }

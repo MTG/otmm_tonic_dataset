@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "duyek", 
-            "mb_attribute": "D\u00fcyek", 
-            "source": "http://musicbrainz.org/work/ce85916c-8458-443c-9821-aa77102e16b6"
-        }, 
-        {
-            "attribute_key": "duyek", 
-            "mb_tag": "d\u00fcyek", 
-            "source": "http://musicbrainz.org/recording/5f135ea4-abc1-4b55-8335-722f059321a5"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "5f135ea4-abc1-4b55-8335-722f059321a5", 
+    "works": [
+        {
+            "mbid": "ce85916c-8458-443c-9821-aa77102e16b6", 
+            "title": "Yalans\u0131z Riyas\u0131z"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "huzzam", 
@@ -62,11 +57,16 @@
             "name": "Alaeddin Yava\u015fca"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "ce85916c-8458-443c-9821-aa77102e16b6", 
-            "title": "Yalans\u0131z Riyas\u0131z"
+            "attribute_key": "duyek", 
+            "mb_attribute": "D\u00fcyek", 
+            "source": "http://musicbrainz.org/work/ce85916c-8458-443c-9821-aa77102e16b6"
+        }, 
+        {
+            "attribute_key": "duyek", 
+            "mb_tag": "d\u00fcyek", 
+            "source": "http://musicbrainz.org/recording/5f135ea4-abc1-4b55-8335-722f059321a5"
         }
     ]
 }

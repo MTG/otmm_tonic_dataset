@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "curcuna", 
-            "mb_attribute": "Curcuna", 
-            "source": "http://musicbrainz.org/work/ebe9ab18-d9a9-43f9-8ad1-69f53a333b71"
-        }, 
-        {
-            "attribute_key": "kapali_curcuna", 
-            "mb_tag": "curcuna", 
-            "source": "http://musicbrainz.org/recording/1701ceba-bd5a-477e-b883-5dacac67da43"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal without accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "1701ceba-bd5a-477e-b883-5dacac67da43", 
+    "works": [
+        {
+            "mbid": "ebe9ab18-d9a9-43f9-8ad1-69f53a333b71", 
+            "title": "Nihans\u0131n Dideden Ey Mest-i Naz\u0131m"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "rast", 
@@ -57,11 +52,16 @@
             "name": "Nurten Demirkol"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal without accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "ebe9ab18-d9a9-43f9-8ad1-69f53a333b71", 
-            "title": "Nihans\u0131n Dideden Ey Mest-i Naz\u0131m"
+            "attribute_key": "curcuna", 
+            "mb_attribute": "Curcuna", 
+            "source": "http://musicbrainz.org/work/ebe9ab18-d9a9-43f9-8ad1-69f53a333b71"
+        }, 
+        {
+            "attribute_key": "kapali_curcuna", 
+            "mb_tag": "curcuna", 
+            "source": "http://musicbrainz.org/recording/1701ceba-bd5a-477e-b883-5dacac67da43"
         }
     ]
 }

@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "semai", 
-            "mb_attribute": "Semai", 
-            "source": "http://musicbrainz.org/work/44c72fcf-7477-4611-a8bf-b191651ae3a0"
-        }, 
-        {
-            "attribute_key": "semai", 
-            "mb_tag": "semai", 
-            "source": "http://musicbrainz.org/recording/398d9240-32f5-4930-9895-a04ff3f6a67b"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "398d9240-32f5-4930-9895-a04ff3f6a67b", 
+    "works": [
+        {
+            "mbid": "44c72fcf-7477-4611-a8bf-b191651ae3a0", 
+            "title": "Ey Bu Bah\u00e7elerde Esen Eski \u015eark\u0131lar"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "kurdilihicazkar", 
@@ -62,11 +57,16 @@
             "name": "Bekir S\u0131dk\u0131 Sezgin"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "44c72fcf-7477-4611-a8bf-b191651ae3a0", 
-            "title": "Ey Bu Bah\u00e7elerde Esen Eski \u015eark\u0131lar"
+            "attribute_key": "semai", 
+            "mb_attribute": "Semai", 
+            "source": "http://musicbrainz.org/work/44c72fcf-7477-4611-a8bf-b191651ae3a0"
+        }, 
+        {
+            "attribute_key": "semai", 
+            "mb_tag": "semai", 
+            "source": "http://musicbrainz.org/recording/398d9240-32f5-4930-9895-a04ff3f6a67b"
         }
     ]
 }

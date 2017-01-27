@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "aksak", 
-            "mb_attribute": "Aksak", 
-            "source": "http://musicbrainz.org/work/23508b75-95db-4ce5-99f5-908e402aeedf"
-        }, 
-        {
-            "attribute_key": "aksak", 
-            "mb_tag": "aksak", 
-            "source": "http://musicbrainz.org/recording/37c01b9b-d03d-4a73-92be-63b1a5004ffc"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "37c01b9b-d03d-4a73-92be-63b1a5004ffc", 
+    "works": [
+        {
+            "mbid": "23508b75-95db-4ce5-99f5-908e402aeedf", 
+            "title": "Senin G\u00fczel Y\u00fcz\u00fcn\u00fc Senin \u015eirin S\u00f6z\u00fcn\u00fc"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "karcigar", 
@@ -177,11 +172,16 @@
             "name": "Talat Er"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "23508b75-95db-4ce5-99f5-908e402aeedf", 
-            "title": "Senin G\u00fczel Y\u00fcz\u00fcn\u00fc Senin \u015eirin S\u00f6z\u00fcn\u00fc"
+            "attribute_key": "aksak", 
+            "mb_attribute": "Aksak", 
+            "source": "http://musicbrainz.org/work/23508b75-95db-4ce5-99f5-908e402aeedf"
+        }, 
+        {
+            "attribute_key": "aksak", 
+            "mb_tag": "aksak", 
+            "source": "http://musicbrainz.org/recording/37c01b9b-d03d-4a73-92be-63b1a5004ffc"
         }
     ]
 }

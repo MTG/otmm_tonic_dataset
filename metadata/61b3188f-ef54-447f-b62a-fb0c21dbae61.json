@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "aksak", 
-            "mb_attribute": "Aksak", 
-            "source": "http://musicbrainz.org/work/1f426906-201f-4098-ba98-1592d7e0caf0"
-        }, 
-        {
-            "attribute_key": "aksak", 
-            "mb_tag": "aksak", 
-            "source": "http://musicbrainz.org/recording/61b3188f-ef54-447f-b62a-fb0c21dbae61"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -54,6 +43,12 @@
         }
     ], 
     "mbid": "61b3188f-ef54-447f-b62a-fb0c21dbae61", 
+    "works": [
+        {
+            "mbid": "1f426906-201f-4098-ba98-1592d7e0caf0", 
+            "title": "Meclise Gel"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "beyati", 
@@ -106,11 +101,16 @@
             "name": "Sava\u015f \u015e. Bark\u00e7in"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "1f426906-201f-4098-ba98-1592d7e0caf0", 
-            "title": "Meclise Gel"
+            "attribute_key": "aksak", 
+            "mb_attribute": "Aksak", 
+            "source": "http://musicbrainz.org/work/1f426906-201f-4098-ba98-1592d7e0caf0"
+        }, 
+        {
+            "attribute_key": "aksak", 
+            "mb_tag": "aksak", 
+            "source": "http://musicbrainz.org/recording/61b3188f-ef54-447f-b62a-fb0c21dbae61"
         }
     ]
 }

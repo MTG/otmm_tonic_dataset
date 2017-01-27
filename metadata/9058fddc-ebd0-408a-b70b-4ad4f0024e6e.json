@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "aksak", 
-            "mb_attribute": "Aksak", 
-            "source": "http://musicbrainz.org/work/15b03ad0-4fbf-47fd-9a13-34e2c472aba4"
-        }, 
-        {
-            "attribute_key": "aksak", 
-            "mb_tag": "aksak", 
-            "source": "http://musicbrainz.org/recording/9058fddc-ebd0-408a-b70b-4ad4f0024e6e"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "9058fddc-ebd0-408a-b70b-4ad4f0024e6e", 
+    "works": [
+        {
+            "mbid": "15b03ad0-4fbf-47fd-9a13-34e2c472aba4", 
+            "title": "Sebep Ne Bakm\u0131yor Yarim"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "beyati", 
@@ -129,11 +124,16 @@
             "name": "Nuri G\u00fcn"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "15b03ad0-4fbf-47fd-9a13-34e2c472aba4", 
-            "title": "Sebep Ne Bakm\u0131yor Yarim"
+            "attribute_key": "aksak", 
+            "mb_attribute": "Aksak", 
+            "source": "http://musicbrainz.org/work/15b03ad0-4fbf-47fd-9a13-34e2c472aba4"
+        }, 
+        {
+            "attribute_key": "aksak", 
+            "mb_tag": "aksak", 
+            "source": "http://musicbrainz.org/recording/9058fddc-ebd0-408a-b70b-4ad4f0024e6e"
         }
     ]
 }

@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "aksak", 
-            "mb_attribute": "Aksak", 
-            "source": "http://musicbrainz.org/work/35247879-820c-43fb-8214-7e6c88809f93"
-        }, 
-        {
-            "attribute_key": "aksak", 
-            "mb_tag": "aksak", 
-            "source": "http://musicbrainz.org/recording/3dc2a235-3f39-4dcc-929e-8d3ab56d181b"
-        }
-    ], 
+    "instrumentation_voicing": "choir", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "3dc2a235-3f39-4dcc-929e-8d3ab56d181b", 
+    "works": [
+        {
+            "mbid": "35247879-820c-43fb-8214-7e6c88809f93", 
+            "title": "Hasretle Bu \u015eeb Gah Uyudum Gah Uyand\u0131m"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "ussak", 
@@ -533,11 +528,16 @@
             "name": "Arzu \u00d6zg\u00fcn"
         }
     ], 
-    "instrumentation_voicing": "Choir", 
-    "works": [
+    "usul": [
         {
-            "mbid": "35247879-820c-43fb-8214-7e6c88809f93", 
-            "title": "Hasretle Bu \u015eeb Gah Uyudum Gah Uyand\u0131m"
+            "attribute_key": "aksak", 
+            "mb_attribute": "Aksak", 
+            "source": "http://musicbrainz.org/work/35247879-820c-43fb-8214-7e6c88809f93"
+        }, 
+        {
+            "attribute_key": "aksak", 
+            "mb_tag": "aksak", 
+            "source": "http://musicbrainz.org/recording/3dc2a235-3f39-4dcc-929e-8d3ab56d181b"
         }
     ]
 }

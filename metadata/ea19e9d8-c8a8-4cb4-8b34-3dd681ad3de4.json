@@ -1,26 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "duyek", 
-            "mb_attribute": "D\u00fcyek", 
-            "source": "http://musicbrainz.org/work/3601efbc-b05b-4f54-ba07-584a842de72e"
-        }, 
-        {
-            "attribute_key": "hafif", 
-            "mb_attribute": "Hafif", 
-            "source": "http://musicbrainz.org/work/c9c5f64a-69b6-4922-9114-5451c328ffc4"
-        }, 
-        {
-            "attribute_key": "hafif", 
-            "mb_tag": "hafif", 
-            "source": "http://musicbrainz.org/recording/ea19e9d8-c8a8-4cb4-8b34-3dd681ad3de4"
-        }, 
-        {
-            "attribute_key": "duyek", 
-            "mb_tag": "d\u00fcyek", 
-            "source": "http://musicbrainz.org/recording/ea19e9d8-c8a8-4cb4-8b34-3dd681ad3de4"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "pesrev", 
@@ -58,6 +37,16 @@
         }
     ], 
     "mbid": "ea19e9d8-c8a8-4cb4-8b34-3dd681ad3de4", 
+    "works": [
+        {
+            "mbid": "3601efbc-b05b-4f54-ba07-584a842de72e", 
+            "title": "Mahur Pe\u015frevi"
+        }, 
+        {
+            "mbid": "c9c5f64a-69b6-4922-9114-5451c328ffc4", 
+            "title": "G\u00fcl Bi-ruh Yari Ho\u015f Ne Ba\u015fed"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "mahur", 
@@ -87,15 +76,26 @@
             "name": "Meral U\u011furlu"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "3601efbc-b05b-4f54-ba07-584a842de72e", 
-            "title": "Mahur Pe\u015frevi"
+            "attribute_key": "duyek", 
+            "mb_attribute": "D\u00fcyek", 
+            "source": "http://musicbrainz.org/work/3601efbc-b05b-4f54-ba07-584a842de72e"
         }, 
         {
-            "mbid": "c9c5f64a-69b6-4922-9114-5451c328ffc4", 
-            "title": "G\u00fcl Bi-ruh Yari Ho\u015f Ne Ba\u015fed"
+            "attribute_key": "hafif", 
+            "mb_attribute": "Hafif", 
+            "source": "http://musicbrainz.org/work/c9c5f64a-69b6-4922-9114-5451c328ffc4"
+        }, 
+        {
+            "attribute_key": "hafif", 
+            "mb_tag": "hafif", 
+            "source": "http://musicbrainz.org/recording/ea19e9d8-c8a8-4cb4-8b34-3dd681ad3de4"
+        }, 
+        {
+            "attribute_key": "duyek", 
+            "mb_tag": "d\u00fcyek", 
+            "source": "http://musicbrainz.org/recording/ea19e9d8-c8a8-4cb4-8b34-3dd681ad3de4"
         }
     ]
 }

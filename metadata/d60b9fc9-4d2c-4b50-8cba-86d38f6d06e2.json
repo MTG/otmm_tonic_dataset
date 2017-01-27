@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "aksak", 
-            "mb_attribute": "Aksak", 
-            "source": "http://musicbrainz.org/work/28e8d5cc-11d5-42cc-a238-13b52bb09f03"
-        }, 
-        {
-            "attribute_key": "aksak", 
-            "mb_tag": "aksak", 
-            "source": "http://musicbrainz.org/recording/d60b9fc9-4d2c-4b50-8cba-86d38f6d06e2"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal without accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "d60b9fc9-4d2c-4b50-8cba-86d38f6d06e2", 
+    "works": [
+        {
+            "mbid": "28e8d5cc-11d5-42cc-a238-13b52bb09f03", 
+            "title": "B\u00f6l\u00fck B\u00f6l\u00fck Turna Ge\u00e7er Y\u00fcceden"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "hicaz", 
@@ -57,11 +52,16 @@
             "name": "T\u00fclin Ku\u015fo\u011flu"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal without accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "28e8d5cc-11d5-42cc-a238-13b52bb09f03", 
-            "title": "B\u00f6l\u00fck B\u00f6l\u00fck Turna Ge\u00e7er Y\u00fcceden"
+            "attribute_key": "aksak", 
+            "mb_attribute": "Aksak", 
+            "source": "http://musicbrainz.org/work/28e8d5cc-11d5-42cc-a238-13b52bb09f03"
+        }, 
+        {
+            "attribute_key": "aksak", 
+            "mb_tag": "aksak", 
+            "source": "http://musicbrainz.org/recording/d60b9fc9-4d2c-4b50-8cba-86d38f6d06e2"
         }
     ]
 }

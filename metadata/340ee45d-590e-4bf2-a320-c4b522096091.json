@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "aksak", 
-            "mb_attribute": "Aksak", 
-            "source": "http://musicbrainz.org/work/b14650a8-835d-49c6-a66b-3c789e629548"
-        }, 
-        {
-            "attribute_key": "aksak", 
-            "mb_tag": "aksak", 
-            "source": "http://musicbrainz.org/recording/340ee45d-590e-4bf2-a320-c4b522096091"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "340ee45d-590e-4bf2-a320-c4b522096091", 
+    "works": [
+        {
+            "mbid": "b14650a8-835d-49c6-a66b-3c789e629548", 
+            "title": "K\u0131\u015f Geldi Firak A\u00e7madad\u0131r"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "hicaz", 
@@ -62,11 +57,16 @@
             "name": "Bekir S\u0131dk\u0131 Sezgin"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "b14650a8-835d-49c6-a66b-3c789e629548", 
-            "title": "K\u0131\u015f Geldi Firak A\u00e7madad\u0131r"
+            "attribute_key": "aksak", 
+            "mb_attribute": "Aksak", 
+            "source": "http://musicbrainz.org/work/b14650a8-835d-49c6-a66b-3c789e629548"
+        }, 
+        {
+            "attribute_key": "aksak", 
+            "mb_tag": "aksak", 
+            "source": "http://musicbrainz.org/recording/340ee45d-590e-4bf2-a320-c4b522096091"
         }
     ]
 }

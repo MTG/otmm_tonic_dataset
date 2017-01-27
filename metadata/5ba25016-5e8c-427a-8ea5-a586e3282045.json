@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "cenber", 
-            "mb_attribute": "\u00c7enber", 
-            "source": "http://musicbrainz.org/work/188f77fb-b044-4757-9c66-d5653091da5a"
-        }, 
-        {
-            "attribute_key": "cenber", 
-            "mb_tag": "\u00e7enber", 
-            "source": "http://musicbrainz.org/recording/5ba25016-5e8c-427a-8ea5-a586e3282045"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "beste", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "5ba25016-5e8c-427a-8ea5-a586e3282045", 
+    "works": [
+        {
+            "mbid": "188f77fb-b044-4757-9c66-d5653091da5a", 
+            "title": "Muhabbetin Dilimi"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "beyati", 
@@ -97,11 +92,16 @@
             "name": "Do\u011fan Dikmen"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "188f77fb-b044-4757-9c66-d5653091da5a", 
-            "title": "Muhabbetin Dilimi"
+            "attribute_key": "cenber", 
+            "mb_attribute": "\u00c7enber", 
+            "source": "http://musicbrainz.org/work/188f77fb-b044-4757-9c66-d5653091da5a"
+        }, 
+        {
+            "attribute_key": "cenber", 
+            "mb_tag": "\u00e7enber", 
+            "source": "http://musicbrainz.org/recording/5ba25016-5e8c-427a-8ea5-a586e3282045"
         }
     ]
 }

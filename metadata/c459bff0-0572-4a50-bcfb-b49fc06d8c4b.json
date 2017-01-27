@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "semai", 
-            "mb_attribute": "Semai", 
-            "source": "http://musicbrainz.org/work/54bc8afa-0cb2-4790-9a65-8c7213aa3db4"
-        }, 
-        {
-            "attribute_key": "semai", 
-            "mb_tag": "semai", 
-            "source": "http://musicbrainz.org/recording/c459bff0-0572-4a50-bcfb-b49fc06d8c4b"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal without accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "c459bff0-0572-4a50-bcfb-b49fc06d8c4b", 
+    "works": [
+        {
+            "mbid": "54bc8afa-0cb2-4790-9a65-8c7213aa3db4", 
+            "title": "Uzun Y\u0131llar Bekledim"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "kurdilihicazkar", 
@@ -57,11 +52,16 @@
             "name": "Zeki M\u00fcren"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal without accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "54bc8afa-0cb2-4790-9a65-8c7213aa3db4", 
-            "title": "Uzun Y\u0131llar Bekledim"
+            "attribute_key": "semai", 
+            "mb_attribute": "Semai", 
+            "source": "http://musicbrainz.org/work/54bc8afa-0cb2-4790-9a65-8c7213aa3db4"
+        }, 
+        {
+            "attribute_key": "semai", 
+            "mb_tag": "semai", 
+            "source": "http://musicbrainz.org/recording/c459bff0-0572-4a50-bcfb-b49fc06d8c4b"
         }
     ]
 }

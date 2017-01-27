@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "curcuna", 
-            "mb_attribute": "Curcuna", 
-            "source": "http://musicbrainz.org/work/3bdfe52a-8d8f-48e0-bec4-0da54898d8b8"
-        }, 
-        {
-            "attribute_key": "kapali_curcuna", 
-            "mb_tag": "curcuna", 
-            "source": "http://musicbrainz.org/recording/d29d8f2b-1e7c-4a49-95c3-81f246242080"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "d29d8f2b-1e7c-4a49-95c3-81f246242080", 
+    "works": [
+        {
+            "mbid": "3bdfe52a-8d8f-48e0-bec4-0da54898d8b8", 
+            "title": "G\u00f6z\u00fcmden Gitmiyor Bir Dem Hayalin"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "suzinak", 
@@ -108,11 +103,16 @@
             "name": "\u015eule \u00c7akar"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "3bdfe52a-8d8f-48e0-bec4-0da54898d8b8", 
-            "title": "G\u00f6z\u00fcmden Gitmiyor Bir Dem Hayalin"
+            "attribute_key": "curcuna", 
+            "mb_attribute": "Curcuna", 
+            "source": "http://musicbrainz.org/work/3bdfe52a-8d8f-48e0-bec4-0da54898d8b8"
+        }, 
+        {
+            "attribute_key": "kapali_curcuna", 
+            "mb_tag": "curcuna", 
+            "source": "http://musicbrainz.org/recording/d29d8f2b-1e7c-4a49-95c3-81f246242080"
         }
     ]
 }

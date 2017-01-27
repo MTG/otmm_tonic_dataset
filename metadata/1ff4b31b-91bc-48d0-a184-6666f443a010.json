@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "aksak", 
-            "mb_attribute": "Aksak", 
-            "source": "http://musicbrainz.org/work/256efd9c-8c81-4065-9968-f760a5742dd7"
-        }, 
-        {
-            "attribute_key": "aksak", 
-            "mb_tag": "aksak", 
-            "source": "http://musicbrainz.org/recording/1ff4b31b-91bc-48d0-a184-6666f443a010"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal without accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "1ff4b31b-91bc-48d0-a184-6666f443a010", 
+    "works": [
+        {
+            "mbid": "256efd9c-8c81-4065-9968-f760a5742dd7", 
+            "title": "Da\u011fda Tav\u015fanlar Geziyor"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "karcigar", 
@@ -57,11 +52,16 @@
             "name": "Serhat Sarpel"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal without accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "256efd9c-8c81-4065-9968-f760a5742dd7", 
-            "title": "Da\u011fda Tav\u015fanlar Geziyor"
+            "attribute_key": "aksak", 
+            "mb_attribute": "Aksak", 
+            "source": "http://musicbrainz.org/work/256efd9c-8c81-4065-9968-f760a5742dd7"
+        }, 
+        {
+            "attribute_key": "aksak", 
+            "mb_tag": "aksak", 
+            "source": "http://musicbrainz.org/recording/1ff4b31b-91bc-48d0-a184-6666f443a010"
         }
     ]
 }

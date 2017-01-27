@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "duyek", 
-            "mb_attribute": "D\u00fcyek", 
-            "source": "http://musicbrainz.org/work/12dbd03f-0959-4751-96dc-5761938081fd"
-        }, 
-        {
-            "attribute_key": "duyek", 
-            "mb_tag": "d\u00fcyek", 
-            "source": "http://musicbrainz.org/recording/16175e26-1a89-433c-97b1-cb736c1f8141"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "beste", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "16175e26-1a89-433c-97b1-cb736c1f8141", 
+    "works": [
+        {
+            "mbid": "12dbd03f-0959-4751-96dc-5761938081fd", 
+            "title": "Cevr-i Yare Sab\u0131r Buldum"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "hicaz", 
@@ -62,11 +57,16 @@
             "name": "Bekir S\u0131dk\u0131 Sezgin"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "12dbd03f-0959-4751-96dc-5761938081fd", 
-            "title": "Cevr-i Yare Sab\u0131r Buldum"
+            "attribute_key": "duyek", 
+            "mb_attribute": "D\u00fcyek", 
+            "source": "http://musicbrainz.org/work/12dbd03f-0959-4751-96dc-5761938081fd"
+        }, 
+        {
+            "attribute_key": "duyek", 
+            "mb_tag": "d\u00fcyek", 
+            "source": "http://musicbrainz.org/recording/16175e26-1a89-433c-97b1-cb736c1f8141"
         }
     ]
 }

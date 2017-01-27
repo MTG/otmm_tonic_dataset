@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "aksaksemai", 
-            "mb_attribute": "Aksaksemai", 
-            "source": "http://musicbrainz.org/work/4025c156-3e4b-4d36-bd81-89f2d513a631"
-        }, 
-        {
-            "attribute_key": "aksaksemai", 
-            "mb_tag": "aksaksemai", 
-            "source": "http://musicbrainz.org/recording/2ff5b6e0-7616-4b49-8fb6-c423d676d9a6"
-        }
-    ], 
+    "instrumentation_voicing": "ensemble instrumental", 
     "form": [
         {
             "attribute_key": "sazsemaisi", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "2ff5b6e0-7616-4b49-8fb6-c423d676d9a6", 
+    "works": [
+        {
+            "mbid": "4025c156-3e4b-4d36-bd81-89f2d513a631", 
+            "title": "Saba Sazsemaisi"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "saba", 
@@ -161,11 +156,16 @@
             "name": "\u00dcmit G\u00fcrelman"
         }
     ], 
-    "instrumentation_voicing": "Ensemble instrumental", 
-    "works": [
+    "usul": [
         {
-            "mbid": "4025c156-3e4b-4d36-bd81-89f2d513a631", 
-            "title": "Saba Sazsemaisi"
+            "attribute_key": "aksaksemai", 
+            "mb_attribute": "Aksaksemai", 
+            "source": "http://musicbrainz.org/work/4025c156-3e4b-4d36-bd81-89f2d513a631"
+        }, 
+        {
+            "attribute_key": "aksaksemai", 
+            "mb_tag": "aksaksemai", 
+            "source": "http://musicbrainz.org/recording/2ff5b6e0-7616-4b49-8fb6-c423d676d9a6"
         }
     ]
 }

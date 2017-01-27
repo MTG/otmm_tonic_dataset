@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "agiraksak", 
-            "mb_attribute": "A\u011f\u0131raksak", 
-            "source": "http://musicbrainz.org/work/5ed4bb91-760f-4863-9467-87307de9181a"
-        }, 
-        {
-            "attribute_key": "agiraksak", 
-            "mb_tag": "a\u011f\u0131raksak", 
-            "source": "http://musicbrainz.org/recording/60b8d4ae-fe44-4240-bcbe-4b291dedbf72"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "60b8d4ae-fe44-4240-bcbe-4b291dedbf72", 
+    "works": [
+        {
+            "mbid": "5ed4bb91-760f-4863-9467-87307de9181a", 
+            "title": "Sineler A\u015fk\u0131nla \u0130nler"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "kurdilihicazkar", 
@@ -81,11 +76,16 @@
             "name": "H\u00fcsn\u00fc \u00d6zenen"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "5ed4bb91-760f-4863-9467-87307de9181a", 
-            "title": "Sineler A\u015fk\u0131nla \u0130nler"
+            "attribute_key": "agiraksak", 
+            "mb_attribute": "A\u011f\u0131raksak", 
+            "source": "http://musicbrainz.org/work/5ed4bb91-760f-4863-9467-87307de9181a"
+        }, 
+        {
+            "attribute_key": "agiraksak", 
+            "mb_tag": "a\u011f\u0131raksak", 
+            "source": "http://musicbrainz.org/recording/60b8d4ae-fe44-4240-bcbe-4b291dedbf72"
         }
     ]
 }

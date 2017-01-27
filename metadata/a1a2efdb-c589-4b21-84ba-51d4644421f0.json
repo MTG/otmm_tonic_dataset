@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "curcuna", 
-            "mb_attribute": "Curcuna", 
-            "source": "http://musicbrainz.org/work/fbdb879a-b84f-421b-bed4-5680d7938ecf"
-        }, 
-        {
-            "attribute_key": "kapali_curcuna", 
-            "mb_tag": "curcuna", 
-            "source": "http://musicbrainz.org/recording/a1a2efdb-c589-4b21-84ba-51d4644421f0"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "a1a2efdb-c589-4b21-84ba-51d4644421f0", 
+    "works": [
+        {
+            "mbid": "fbdb879a-b84f-421b-bed4-5680d7938ecf", 
+            "title": "Ne Baht\u0131md\u0131r"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "hicaz", 
@@ -62,11 +57,16 @@
             "name": "Bekir S\u0131dk\u0131 Sezgin"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "fbdb879a-b84f-421b-bed4-5680d7938ecf", 
-            "title": "Ne Baht\u0131md\u0131r"
+            "attribute_key": "curcuna", 
+            "mb_attribute": "Curcuna", 
+            "source": "http://musicbrainz.org/work/fbdb879a-b84f-421b-bed4-5680d7938ecf"
+        }, 
+        {
+            "attribute_key": "kapali_curcuna", 
+            "mb_tag": "curcuna", 
+            "source": "http://musicbrainz.org/recording/a1a2efdb-c589-4b21-84ba-51d4644421f0"
         }
     ]
 }

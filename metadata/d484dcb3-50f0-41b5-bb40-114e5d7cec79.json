@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "senginsemai", 
-            "mb_attribute": "Senginsemai", 
-            "source": "http://musicbrainz.org/work/39b2f807-dcac-4500-a0ae-8a5c9a253c0b"
-        }, 
-        {
-            "attribute_key": "senginsemai", 
-            "mb_tag": "senginsemai", 
-            "source": "http://musicbrainz.org/recording/d484dcb3-50f0-41b5-bb40-114e5d7cec79"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal without accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "d484dcb3-50f0-41b5-bb40-114e5d7cec79", 
+    "works": [
+        {
+            "mbid": "39b2f807-dcac-4500-a0ae-8a5c9a253c0b", 
+            "title": "Ta Ha\u015fre Kadar"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "kurdilihicazkar", 
@@ -57,11 +52,16 @@
             "name": "Bimen \u015een"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal without accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "39b2f807-dcac-4500-a0ae-8a5c9a253c0b", 
-            "title": "Ta Ha\u015fre Kadar"
+            "attribute_key": "senginsemai", 
+            "mb_attribute": "Senginsemai", 
+            "source": "http://musicbrainz.org/work/39b2f807-dcac-4500-a0ae-8a5c9a253c0b"
+        }, 
+        {
+            "attribute_key": "senginsemai", 
+            "mb_tag": "senginsemai", 
+            "source": "http://musicbrainz.org/recording/d484dcb3-50f0-41b5-bb40-114e5d7cec79"
         }
     ]
 }

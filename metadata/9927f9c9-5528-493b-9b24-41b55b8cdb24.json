@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "kapali_curcuna", 
-            "mb_attribute": "Kapal\u0131 Curcuna", 
-            "source": "http://musicbrainz.org/work/e75867c0-44d4-4d18-a170-c096498aba8a"
-        }, 
-        {
-            "attribute_key": "kapali_curcuna", 
-            "mb_tag": "curcuna", 
-            "source": "http://musicbrainz.org/recording/9927f9c9-5528-493b-9b24-41b55b8cdb24"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal without accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "9927f9c9-5528-493b-9b24-41b55b8cdb24", 
+    "works": [
+        {
+            "mbid": "e75867c0-44d4-4d18-a170-c096498aba8a", 
+            "title": "Sana Eller Ne G\u00fczelsin Demesin"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "acemkurdi", 
@@ -57,11 +52,16 @@
             "name": "Burhan Dikencik"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal without accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "e75867c0-44d4-4d18-a170-c096498aba8a", 
-            "title": "Sana Eller Ne G\u00fczelsin Demesin"
+            "attribute_key": "kapali_curcuna", 
+            "mb_attribute": "Kapal\u0131 Curcuna", 
+            "source": "http://musicbrainz.org/work/e75867c0-44d4-4d18-a170-c096498aba8a"
+        }, 
+        {
+            "attribute_key": "kapali_curcuna", 
+            "mb_tag": "curcuna", 
+            "source": "http://musicbrainz.org/recording/9927f9c9-5528-493b-9b24-41b55b8cdb24"
         }
     ]
 }

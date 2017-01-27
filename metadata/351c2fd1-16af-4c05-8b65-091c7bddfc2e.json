@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "duyek", 
-            "mb_attribute": "D\u00fcyek", 
-            "source": "http://musicbrainz.org/work/ffefc26e-4854-4af1-83b9-ac4e773dfc75"
-        }, 
-        {
-            "attribute_key": "duyek", 
-            "mb_tag": "d\u00fcyek", 
-            "source": "http://musicbrainz.org/recording/351c2fd1-16af-4c05-8b65-091c7bddfc2e"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "351c2fd1-16af-4c05-8b65-091c7bddfc2e", 
+    "works": [
+        {
+            "mbid": "ffefc26e-4854-4af1-83b9-ac4e773dfc75", 
+            "title": "Ka\u00e7\u0131nc\u0131 Fasl-\u0131 Bahar Bu Solar Gider Emelim"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "sultaniyegah", 
@@ -108,11 +103,16 @@
             "name": "\u015eule \u00c7akar"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "ffefc26e-4854-4af1-83b9-ac4e773dfc75", 
-            "title": "Ka\u00e7\u0131nc\u0131 Fasl-\u0131 Bahar Bu Solar Gider Emelim"
+            "attribute_key": "duyek", 
+            "mb_attribute": "D\u00fcyek", 
+            "source": "http://musicbrainz.org/work/ffefc26e-4854-4af1-83b9-ac4e773dfc75"
+        }, 
+        {
+            "attribute_key": "duyek", 
+            "mb_tag": "d\u00fcyek", 
+            "source": "http://musicbrainz.org/recording/351c2fd1-16af-4c05-8b65-091c7bddfc2e"
         }
     ]
 }

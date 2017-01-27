@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "devrikebir", 
-            "mb_attribute": "Devr-i Kebir", 
-            "source": "http://musicbrainz.org/work/820b3011-67ba-4dbd-b249-2fd3008ac032"
-        }, 
-        {
-            "attribute_key": "devrikebir", 
-            "mb_tag": "devr-i kebir", 
-            "source": "http://musicbrainz.org/recording/d7379bfc-9ddd-4235-b8fe-9fb5d7066ab9"
-        }
-    ], 
+    "instrumentation_voicing": "duo instrumental", 
     "form": [
         {
             "attribute_key": "pesrev", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "d7379bfc-9ddd-4235-b8fe-9fb5d7066ab9", 
+    "works": [
+        {
+            "mbid": "820b3011-67ba-4dbd-b249-2fd3008ac032", 
+            "title": "Isfahan Pe\u015frev"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "isfahan", 
@@ -68,11 +63,16 @@
             "name": "\u0130hsan \u00d6zgen"
         }
     ], 
-    "instrumentation_voicing": "Duo instrumental", 
-    "works": [
+    "usul": [
         {
-            "mbid": "820b3011-67ba-4dbd-b249-2fd3008ac032", 
-            "title": "Isfahan Pe\u015frev"
+            "attribute_key": "devrikebir", 
+            "mb_attribute": "Devr-i Kebir", 
+            "source": "http://musicbrainz.org/work/820b3011-67ba-4dbd-b249-2fd3008ac032"
+        }, 
+        {
+            "attribute_key": "devrikebir", 
+            "mb_tag": "devr-i kebir", 
+            "source": "http://musicbrainz.org/recording/d7379bfc-9ddd-4235-b8fe-9fb5d7066ab9"
         }
     ]
 }

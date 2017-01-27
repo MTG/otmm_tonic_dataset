@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "agiraksak", 
-            "mb_attribute": "A\u011f\u0131raksak", 
-            "source": "http://musicbrainz.org/work/b13e1edf-ca11-425e-a900-d2b02cfbd6e4"
-        }, 
-        {
-            "attribute_key": "agiraksak", 
-            "mb_tag": "a\u011f\u0131raksak", 
-            "source": "http://musicbrainz.org/recording/f0152902-92e2-4c37-b702-8521d1c668fa"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal without accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "f0152902-92e2-4c37-b702-8521d1c668fa", 
+    "works": [
+        {
+            "mbid": "b13e1edf-ca11-425e-a900-d2b02cfbd6e4", 
+            "title": "Gayr\u0131dan Bulmaz Teselli"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "bestenigar", 
@@ -57,11 +52,16 @@
             "name": "Selma Sa\u011fba\u015f"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal without accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "b13e1edf-ca11-425e-a900-d2b02cfbd6e4", 
-            "title": "Gayr\u0131dan Bulmaz Teselli"
+            "attribute_key": "agiraksak", 
+            "mb_attribute": "A\u011f\u0131raksak", 
+            "source": "http://musicbrainz.org/work/b13e1edf-ca11-425e-a900-d2b02cfbd6e4"
+        }, 
+        {
+            "attribute_key": "agiraksak", 
+            "mb_tag": "a\u011f\u0131raksak", 
+            "source": "http://musicbrainz.org/recording/f0152902-92e2-4c37-b702-8521d1c668fa"
         }
     ]
 }

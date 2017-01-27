@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "sofyan", 
-            "mb_attribute": "Sofyan", 
-            "source": "http://musicbrainz.org/work/3f724f7b-60da-4324-946f-9c4138297725"
-        }, 
-        {
-            "attribute_key": "sofyan", 
-            "mb_tag": "sofyan", 
-            "source": "http://musicbrainz.org/recording/4b2fd03a-5dd3-45c6-a276-b986ff2c2377"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal without accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "4b2fd03a-5dd3-45c6-a276-b986ff2c2377", 
+    "works": [
+        {
+            "mbid": "3f724f7b-60da-4324-946f-9c4138297725", 
+            "title": "G\u00fcne\u015fin Bat\u0131\u015f\u0131n\u0131 Seyre Dald\u0131m"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "nihavent", 
@@ -57,11 +52,16 @@
             "name": "\u00d6zer U\u00e7ar"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal without accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "3f724f7b-60da-4324-946f-9c4138297725", 
-            "title": "G\u00fcne\u015fin Bat\u0131\u015f\u0131n\u0131 Seyre Dald\u0131m"
+            "attribute_key": "sofyan", 
+            "mb_attribute": "Sofyan", 
+            "source": "http://musicbrainz.org/work/3f724f7b-60da-4324-946f-9c4138297725"
+        }, 
+        {
+            "attribute_key": "sofyan", 
+            "mb_tag": "sofyan", 
+            "source": "http://musicbrainz.org/recording/4b2fd03a-5dd3-45c6-a276-b986ff2c2377"
         }
     ]
 }

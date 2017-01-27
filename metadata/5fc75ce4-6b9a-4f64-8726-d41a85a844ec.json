@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "oynak", 
-            "mb_attribute": "Oynak", 
-            "source": "http://musicbrainz.org/work/daf77c69-f6db-4d69-b12a-b96cc9fecb51"
-        }, 
-        {
-            "attribute_key": "oynak", 
-            "mb_tag": "oynak", 
-            "source": "http://musicbrainz.org/recording/5fc75ce4-6b9a-4f64-8726-d41a85a844ec"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal without accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "5fc75ce4-6b9a-4f64-8726-d41a85a844ec", 
+    "works": [
+        {
+            "mbid": "daf77c69-f6db-4d69-b12a-b96cc9fecb51", 
+            "title": "\u00c7i\u00e7ekler Derleyeyim"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "hicazkar", 
@@ -57,11 +52,16 @@
             "name": "Recep Birgit"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal without accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "daf77c69-f6db-4d69-b12a-b96cc9fecb51", 
-            "title": "\u00c7i\u00e7ekler Derleyeyim"
+            "attribute_key": "oynak", 
+            "mb_attribute": "Oynak", 
+            "source": "http://musicbrainz.org/work/daf77c69-f6db-4d69-b12a-b96cc9fecb51"
+        }, 
+        {
+            "attribute_key": "oynak", 
+            "mb_tag": "oynak", 
+            "source": "http://musicbrainz.org/recording/5fc75ce4-6b9a-4f64-8726-d41a85a844ec"
         }
     ]
 }

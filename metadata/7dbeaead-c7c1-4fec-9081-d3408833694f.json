@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "duyek", 
-            "mb_attribute": "D\u00fcyek", 
-            "source": "http://musicbrainz.org/work/aad83e39-1970-4dd6-8e28-333d57af7d8e"
-        }, 
-        {
-            "attribute_key": "duyek", 
-            "mb_tag": "d\u00fcyek", 
-            "source": "http://musicbrainz.org/recording/7dbeaead-c7c1-4fec-9081-d3408833694f"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "7dbeaead-c7c1-4fec-9081-d3408833694f", 
+    "works": [
+        {
+            "mbid": "aad83e39-1970-4dd6-8e28-333d57af7d8e", 
+            "title": "Ey Dil Ne Bitmez Bu Ah \u00fc Vah\u0131n"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "hicaz", 
@@ -62,11 +57,16 @@
             "name": "Bekir S\u0131dk\u0131 Sezgin"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "aad83e39-1970-4dd6-8e28-333d57af7d8e", 
-            "title": "Ey Dil Ne Bitmez Bu Ah \u00fc Vah\u0131n"
+            "attribute_key": "duyek", 
+            "mb_attribute": "D\u00fcyek", 
+            "source": "http://musicbrainz.org/work/aad83e39-1970-4dd6-8e28-333d57af7d8e"
+        }, 
+        {
+            "attribute_key": "duyek", 
+            "mb_tag": "d\u00fcyek", 
+            "source": "http://musicbrainz.org/recording/7dbeaead-c7c1-4fec-9081-d3408833694f"
         }
     ]
 }

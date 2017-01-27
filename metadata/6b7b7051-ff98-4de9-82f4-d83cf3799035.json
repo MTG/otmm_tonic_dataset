@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "duyek", 
-            "mb_attribute": "D\u00fcyek", 
-            "source": "http://musicbrainz.org/work/72828685-9240-4ee3-890b-666b4b9a5025"
-        }, 
-        {
-            "attribute_key": "duyek", 
-            "mb_tag": "d\u00fcyek", 
-            "source": "http://musicbrainz.org/recording/6b7b7051-ff98-4de9-82f4-d83cf3799035"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "6b7b7051-ff98-4de9-82f4-d83cf3799035", 
+    "works": [
+        {
+            "mbid": "72828685-9240-4ee3-890b-666b4b9a5025", 
+            "title": "Hasretin P\u0131nar\u0131 \u00c7a\u011flar \u0130\u00e7imde"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "nihavent", 
@@ -137,11 +132,16 @@
             "name": "Nuri G\u00fcn"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "72828685-9240-4ee3-890b-666b4b9a5025", 
-            "title": "Hasretin P\u0131nar\u0131 \u00c7a\u011flar \u0130\u00e7imde"
+            "attribute_key": "duyek", 
+            "mb_attribute": "D\u00fcyek", 
+            "source": "http://musicbrainz.org/work/72828685-9240-4ee3-890b-666b4b9a5025"
+        }, 
+        {
+            "attribute_key": "duyek", 
+            "mb_tag": "d\u00fcyek", 
+            "source": "http://musicbrainz.org/recording/6b7b7051-ff98-4de9-82f4-d83cf3799035"
         }
     ]
 }

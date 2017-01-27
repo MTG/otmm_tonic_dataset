@@ -1,11 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "aksaksemai", 
-            "mb_attribute": "Aksaksemai", 
-            "source": "http://musicbrainz.org/work/aa62a6be-c7a0-4bc7-9931-4190af588d07"
-        }
-    ], 
+    "instrumentation_voicing": "solo instrumental", 
     "form": [
         {
             "attribute_key": "sazsemaisi", 
@@ -33,6 +27,12 @@
         }
     ], 
     "mbid": "221e5475-a79d-4995-8968-d7dc52dc387b", 
+    "works": [
+        {
+            "mbid": "aa62a6be-c7a0-4bc7-9931-4190af588d07", 
+            "title": "Bestenig\u00e2r Saz Sem\u00e2\u00ee"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "bestenigar", 
@@ -55,11 +55,11 @@
             "name": "Salih Bilgin"
         }
     ], 
-    "instrumentation_voicing": "Solo instrumental", 
-    "works": [
+    "usul": [
         {
-            "mbid": "aa62a6be-c7a0-4bc7-9931-4190af588d07", 
-            "title": "Bestenig\u00e2r Saz Sem\u00e2\u00ee"
+            "attribute_key": "aksaksemai", 
+            "mb_attribute": "Aksaksemai", 
+            "source": "http://musicbrainz.org/work/aa62a6be-c7a0-4bc7-9931-4190af588d07"
         }
     ]
 }

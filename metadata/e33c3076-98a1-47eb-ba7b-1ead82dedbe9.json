@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "aksaksemai", 
-            "mb_attribute": "Aksaksemai", 
-            "source": "http://musicbrainz.org/work/44eba3fc-ea1a-4549-82a9-a103592f557b"
-        }, 
-        {
-            "attribute_key": "aksaksemai", 
-            "mb_tag": "aksaksemai", 
-            "source": "http://musicbrainz.org/recording/e33c3076-98a1-47eb-ba7b-1ead82dedbe9"
-        }
-    ], 
+    "instrumentation_voicing": "duo instrumental", 
     "form": [
         {
             "attribute_key": "sazsemaisi", 
@@ -42,6 +31,12 @@
         }
     ], 
     "mbid": "e33c3076-98a1-47eb-ba7b-1ead82dedbe9", 
+    "works": [
+        {
+            "mbid": "44eba3fc-ea1a-4549-82a9-a103592f557b", 
+            "title": "Irak Sazsemaisi"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "irak", 
@@ -72,11 +67,16 @@
             "name": "Nevzat S\u00fcmer"
         }
     ], 
-    "instrumentation_voicing": "Duo instrumental", 
-    "works": [
+    "usul": [
         {
-            "mbid": "44eba3fc-ea1a-4549-82a9-a103592f557b", 
-            "title": "Irak Sazsemaisi"
+            "attribute_key": "aksaksemai", 
+            "mb_attribute": "Aksaksemai", 
+            "source": "http://musicbrainz.org/work/44eba3fc-ea1a-4549-82a9-a103592f557b"
+        }, 
+        {
+            "attribute_key": "aksaksemai", 
+            "mb_tag": "aksaksemai", 
+            "source": "http://musicbrainz.org/recording/e33c3076-98a1-47eb-ba7b-1ead82dedbe9"
         }
     ]
 }

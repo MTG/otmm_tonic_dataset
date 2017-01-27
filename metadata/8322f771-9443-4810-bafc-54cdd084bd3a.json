@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "muhammes", 
-            "mb_attribute": "Muhammes", 
-            "source": "http://musicbrainz.org/work/95a0013a-eb0a-48fa-9ac9-05b56e21715e"
-        }, 
-        {
-            "attribute_key": "muhammes", 
-            "mb_tag": "muhammes", 
-            "source": "http://musicbrainz.org/recording/8322f771-9443-4810-bafc-54cdd084bd3a"
-        }
-    ], 
+    "instrumentation_voicing": "ensemble instrumental", 
     "form": [
         {
             "attribute_key": "pesrev", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "8322f771-9443-4810-bafc-54cdd084bd3a", 
+    "works": [
+        {
+            "mbid": "95a0013a-eb0a-48fa-9ac9-05b56e21715e", 
+            "title": "Sult\u00e2niyeg\u00e2h Pe\u015frevi"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "sultaniyegah", 
@@ -133,11 +128,16 @@
             "name": "Sedat G\u00fcndiyer"
         }
     ], 
-    "instrumentation_voicing": "Ensemble instrumental", 
-    "works": [
+    "usul": [
         {
-            "mbid": "95a0013a-eb0a-48fa-9ac9-05b56e21715e", 
-            "title": "Sult\u00e2niyeg\u00e2h Pe\u015frevi"
+            "attribute_key": "muhammes", 
+            "mb_attribute": "Muhammes", 
+            "source": "http://musicbrainz.org/work/95a0013a-eb0a-48fa-9ac9-05b56e21715e"
+        }, 
+        {
+            "attribute_key": "muhammes", 
+            "mb_tag": "muhammes", 
+            "source": "http://musicbrainz.org/recording/8322f771-9443-4810-bafc-54cdd084bd3a"
         }
     ]
 }

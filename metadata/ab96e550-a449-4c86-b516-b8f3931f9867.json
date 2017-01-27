@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "devrirevan", 
-            "mb_attribute": "Devr-i Revan", 
-            "source": "http://musicbrainz.org/work/f9e6e6e7-1bce-4653-9f63-4f78dd334922"
-        }, 
-        {
-            "attribute_key": "devrirevan", 
-            "mb_tag": "devr-i revan", 
-            "source": "http://musicbrainz.org/recording/ab96e550-a449-4c86-b516-b8f3931f9867"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "ayin_i_serif", 
@@ -43,6 +32,16 @@
         }
     ], 
     "mbid": "ab96e550-a449-4c86-b516-b8f3931f9867", 
+    "works": [
+        {
+            "mbid": "c6cdec1a-8763-48dd-9aa9-ad89d5a5e322", 
+            "title": "Ferahfeza Ayin-i \u015eerif"
+        }, 
+        {
+            "mbid": "f9e6e6e7-1bce-4653-9f63-4f78dd334922", 
+            "title": "1. Selam"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "ferahfeza", 
@@ -72,15 +71,16 @@
             "name": "Dede Efendi T\u00fcrk M\u00fczi\u011fi Toplulu\u011fu"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "c6cdec1a-8763-48dd-9aa9-ad89d5a5e322", 
-            "title": "Ferahfeza Ayin-i \u015eerif"
+            "attribute_key": "devrirevan", 
+            "mb_attribute": "Devr-i Revan", 
+            "source": "http://musicbrainz.org/work/f9e6e6e7-1bce-4653-9f63-4f78dd334922"
         }, 
         {
-            "mbid": "f9e6e6e7-1bce-4653-9f63-4f78dd334922", 
-            "title": "1. Selam"
+            "attribute_key": "devrirevan", 
+            "mb_tag": "devr-i revan", 
+            "source": "http://musicbrainz.org/recording/ab96e550-a449-4c86-b516-b8f3931f9867"
         }
     ]
 }

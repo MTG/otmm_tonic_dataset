@@ -1,26 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "agiraksak", 
-            "mb_attribute": "A\u011f\u0131raksak", 
-            "source": "http://musicbrainz.org/work/b43fd61e-522c-4af4-821d-db85722bf48c"
-        }, 
-        {
-            "attribute_key": "agirduyek", 
-            "mb_attribute": "A\u011f\u0131rd\u00fcyek", 
-            "source": "http://musicbrainz.org/work/e3691957-a2bd-4e40-8041-582af3a02b4e"
-        }, 
-        {
-            "attribute_key": "duyek", 
-            "mb_tag": "d\u00fcyek", 
-            "source": "http://musicbrainz.org/recording/3a8b4caa-c2a0-47fc-9804-6d99afdcded6"
-        }, 
-        {
-            "attribute_key": "aksak", 
-            "mb_tag": "aksak", 
-            "source": "http://musicbrainz.org/recording/3a8b4caa-c2a0-47fc-9804-6d99afdcded6"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -58,6 +37,16 @@
         }
     ], 
     "mbid": "3a8b4caa-c2a0-47fc-9804-6d99afdcded6", 
+    "works": [
+        {
+            "mbid": "b43fd61e-522c-4af4-821d-db85722bf48c", 
+            "title": "Ehl-i A\u015fk\u0131n"
+        }, 
+        {
+            "mbid": "e3691957-a2bd-4e40-8041-582af3a02b4e", 
+            "title": "K\u00fcrdilihicazkar Pe\u015frev"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "kurdilihicazkar", 
@@ -106,15 +95,26 @@
             "name": "[unknown]"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "b43fd61e-522c-4af4-821d-db85722bf48c", 
-            "title": "Ehl-i A\u015fk\u0131n"
+            "attribute_key": "agiraksak", 
+            "mb_attribute": "A\u011f\u0131raksak", 
+            "source": "http://musicbrainz.org/work/b43fd61e-522c-4af4-821d-db85722bf48c"
         }, 
         {
-            "mbid": "e3691957-a2bd-4e40-8041-582af3a02b4e", 
-            "title": "K\u00fcrdilihicazkar Pe\u015frev"
+            "attribute_key": "agirduyek", 
+            "mb_attribute": "A\u011f\u0131rd\u00fcyek", 
+            "source": "http://musicbrainz.org/work/e3691957-a2bd-4e40-8041-582af3a02b4e"
+        }, 
+        {
+            "attribute_key": "duyek", 
+            "mb_tag": "d\u00fcyek", 
+            "source": "http://musicbrainz.org/recording/3a8b4caa-c2a0-47fc-9804-6d99afdcded6"
+        }, 
+        {
+            "attribute_key": "aksak", 
+            "mb_tag": "aksak", 
+            "source": "http://musicbrainz.org/recording/3a8b4caa-c2a0-47fc-9804-6d99afdcded6"
         }
     ]
 }

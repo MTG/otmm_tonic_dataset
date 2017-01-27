@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "berefsan", 
-            "mb_attribute": "Beref\u015fan", 
-            "source": "http://musicbrainz.org/work/bdd00620-607e-4502-8b37-685d6da5580c"
-        }, 
-        {
-            "attribute_key": "berefsan", 
-            "mb_tag": "beref\u015fan", 
-            "source": "http://musicbrainz.org/recording/4a2c7b38-a122-4051-85f8-c9b83ee05767"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "4a2c7b38-a122-4051-85f8-c9b83ee05767", 
+    "works": [
+        {
+            "mbid": "bdd00620-607e-4502-8b37-685d6da5580c", 
+            "title": "Ate\u015f-i A\u015fk\u0131nla"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "acemkurdi", 
@@ -62,11 +57,16 @@
             "name": "Bekir S\u0131dk\u0131 Sezgin"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "bdd00620-607e-4502-8b37-685d6da5580c", 
-            "title": "Ate\u015f-i A\u015fk\u0131nla"
+            "attribute_key": "berefsan", 
+            "mb_attribute": "Beref\u015fan", 
+            "source": "http://musicbrainz.org/work/bdd00620-607e-4502-8b37-685d6da5580c"
+        }, 
+        {
+            "attribute_key": "berefsan", 
+            "mb_tag": "beref\u015fan", 
+            "source": "http://musicbrainz.org/recording/4a2c7b38-a122-4051-85f8-c9b83ee05767"
         }
     ]
 }

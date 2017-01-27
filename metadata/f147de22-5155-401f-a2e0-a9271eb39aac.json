@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "duyek", 
-            "mb_attribute": "D\u00fcyek", 
-            "source": "http://musicbrainz.org/work/b0c1412f-c3e5-4403-a25f-839c3db9b8cf"
-        }, 
-        {
-            "attribute_key": "duyek", 
-            "mb_tag": "d\u00fcyek", 
-            "source": "http://musicbrainz.org/recording/f147de22-5155-401f-a2e0-a9271eb39aac"
-        }
-    ], 
+    "instrumentation_voicing": "duet", 
     "form": [
         {
             "attribute_key": "tevsihilahi", 
@@ -42,6 +31,12 @@
         }
     ], 
     "mbid": "f147de22-5155-401f-a2e0-a9271eb39aac", 
+    "works": [
+        {
+            "mbid": "b0c1412f-c3e5-4403-a25f-839c3db9b8cf", 
+            "title": "Hadden A\u015ft\u0131 \u0130\u015ftiyak\u0131n"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "beyati", 
@@ -130,11 +125,16 @@
             "name": "\u00d6zer \u00d6zel"
         }
     ], 
-    "instrumentation_voicing": "Duet", 
-    "works": [
+    "usul": [
         {
-            "mbid": "b0c1412f-c3e5-4403-a25f-839c3db9b8cf", 
-            "title": "Hadden A\u015ft\u0131 \u0130\u015ftiyak\u0131n"
+            "attribute_key": "duyek", 
+            "mb_attribute": "D\u00fcyek", 
+            "source": "http://musicbrainz.org/work/b0c1412f-c3e5-4403-a25f-839c3db9b8cf"
+        }, 
+        {
+            "attribute_key": "duyek", 
+            "mb_tag": "d\u00fcyek", 
+            "source": "http://musicbrainz.org/recording/f147de22-5155-401f-a2e0-a9271eb39aac"
         }
     ]
 }

@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "devrihindi", 
-            "mb_attribute": "Devr-i Hindi", 
-            "source": "http://musicbrainz.org/work/5393c103-3b46-48c4-9836-3930d6260252"
-        }, 
-        {
-            "attribute_key": "devrihindi", 
-            "mb_tag": "devr-i hindi", 
-            "source": "http://musicbrainz.org/recording/edf7991c-744c-4189-a58a-3c78fe703872"
-        }
-    ], 
+    "instrumentation_voicing": "choir", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "edf7991c-744c-4189-a58a-3c78fe703872", 
+    "works": [
+        {
+            "mbid": "5393c103-3b46-48c4-9836-3930d6260252", 
+            "title": "Hakipayin Oldun Art\u0131k \u00dczme Bu Can-\u0131 Teni"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "kurdilihicazkar", 
@@ -148,11 +143,16 @@
             "name": "Safinaz Rizeli"
         }
     ], 
-    "instrumentation_voicing": "Choir", 
-    "works": [
+    "usul": [
         {
-            "mbid": "5393c103-3b46-48c4-9836-3930d6260252", 
-            "title": "Hakipayin Oldun Art\u0131k \u00dczme Bu Can-\u0131 Teni"
+            "attribute_key": "devrihindi", 
+            "mb_attribute": "Devr-i Hindi", 
+            "source": "http://musicbrainz.org/work/5393c103-3b46-48c4-9836-3930d6260252"
+        }, 
+        {
+            "attribute_key": "devrihindi", 
+            "mb_tag": "devr-i hindi", 
+            "source": "http://musicbrainz.org/recording/edf7991c-744c-4189-a58a-3c78fe703872"
         }
     ]
 }

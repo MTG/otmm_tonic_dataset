@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "curcuna", 
-            "mb_attribute": "Curcuna", 
-            "source": "http://musicbrainz.org/work/415af4f8-1448-4750-9481-c67e8970c382"
-        }, 
-        {
-            "attribute_key": "kapali_curcuna", 
-            "mb_tag": "curcuna", 
-            "source": "http://musicbrainz.org/recording/f9709290-4828-4316-b2b1-906a9ea9802e"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "f9709290-4828-4316-b2b1-906a9ea9802e", 
+    "works": [
+        {
+            "mbid": "415af4f8-1448-4750-9481-c67e8970c382", 
+            "title": "Uyur Daim Uyanmazd\u0131"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "nihavent", 
@@ -62,11 +57,16 @@
             "name": "Meral U\u011furlu"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "415af4f8-1448-4750-9481-c67e8970c382", 
-            "title": "Uyur Daim Uyanmazd\u0131"
+            "attribute_key": "curcuna", 
+            "mb_attribute": "Curcuna", 
+            "source": "http://musicbrainz.org/work/415af4f8-1448-4750-9481-c67e8970c382"
+        }, 
+        {
+            "attribute_key": "kapali_curcuna", 
+            "mb_tag": "curcuna", 
+            "source": "http://musicbrainz.org/recording/f9709290-4828-4316-b2b1-906a9ea9802e"
         }
     ]
 }

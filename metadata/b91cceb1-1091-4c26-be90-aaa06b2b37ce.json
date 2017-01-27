@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "semai", 
-            "mb_attribute": "Semai", 
-            "source": "http://musicbrainz.org/work/820fba19-5c4d-4b53-b0d8-7df64b6a8fd3"
-        }, 
-        {
-            "attribute_key": "semai", 
-            "mb_tag": "semai", 
-            "source": "http://musicbrainz.org/recording/b91cceb1-1091-4c26-be90-aaa06b2b37ce"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "b91cceb1-1091-4c26-be90-aaa06b2b37ce", 
+    "works": [
+        {
+            "mbid": "820fba19-5c4d-4b53-b0d8-7df64b6a8fd3", 
+            "title": "Kaderimde Hep G\u00fczeli Arad\u0131m"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "nihavent", 
@@ -228,11 +223,16 @@
             "name": "Suat G\u00fczeller"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "820fba19-5c4d-4b53-b0d8-7df64b6a8fd3", 
-            "title": "Kaderimde Hep G\u00fczeli Arad\u0131m"
+            "attribute_key": "semai", 
+            "mb_attribute": "Semai", 
+            "source": "http://musicbrainz.org/work/820fba19-5c4d-4b53-b0d8-7df64b6a8fd3"
+        }, 
+        {
+            "attribute_key": "semai", 
+            "mb_tag": "semai", 
+            "source": "http://musicbrainz.org/recording/b91cceb1-1091-4c26-be90-aaa06b2b37ce"
         }
     ]
 }

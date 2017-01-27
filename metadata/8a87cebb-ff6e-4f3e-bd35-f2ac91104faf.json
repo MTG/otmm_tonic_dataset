@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "duyek", 
-            "mb_attribute": "D\u00fcyek", 
-            "source": "http://musicbrainz.org/work/9ad5ac27-4e1d-453c-85cb-72e87277f810"
-        }, 
-        {
-            "attribute_key": "duyek", 
-            "mb_tag": "d\u00fcyek", 
-            "source": "http://musicbrainz.org/recording/8a87cebb-ff6e-4f3e-bd35-f2ac91104faf"
-        }
-    ], 
+    "instrumentation_voicing": "solo instrumental", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "8a87cebb-ff6e-4f3e-bd35-f2ac91104faf", 
+    "works": [
+        {
+            "mbid": "9ad5ac27-4e1d-453c-85cb-72e87277f810", 
+            "title": "Menek\u015fe G\u00f6zler H\u00fclyal\u0131"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "ussak", 
@@ -60,11 +55,16 @@
             "name": "Ergin K\u0131z\u0131lay"
         }
     ], 
-    "instrumentation_voicing": "Solo instrumental", 
-    "works": [
+    "usul": [
         {
-            "mbid": "9ad5ac27-4e1d-453c-85cb-72e87277f810", 
-            "title": "Menek\u015fe G\u00f6zler H\u00fclyal\u0131"
+            "attribute_key": "duyek", 
+            "mb_attribute": "D\u00fcyek", 
+            "source": "http://musicbrainz.org/work/9ad5ac27-4e1d-453c-85cb-72e87277f810"
+        }, 
+        {
+            "attribute_key": "duyek", 
+            "mb_tag": "d\u00fcyek", 
+            "source": "http://musicbrainz.org/recording/8a87cebb-ff6e-4f3e-bd35-f2ac91104faf"
         }
     ]
 }

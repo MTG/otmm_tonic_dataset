@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "agiraksak", 
-            "mb_attribute": "A\u011f\u0131raksak", 
-            "source": "http://musicbrainz.org/work/fa198a88-f713-4af8-9dc3-f5d0df048965"
-        }, 
-        {
-            "attribute_key": "agiraksak", 
-            "mb_tag": "a\u011f\u0131raksak", 
-            "source": "http://musicbrainz.org/recording/e41043b8-be39-4858-9bd7-9739f24b4c84"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "e41043b8-be39-4858-9bd7-9739f24b4c84", 
+    "works": [
+        {
+            "mbid": "fa198a88-f713-4af8-9dc3-f5d0df048965", 
+            "title": "Ey Hevai Me\u015freb Oldun"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "hicaz", 
@@ -62,11 +57,16 @@
             "name": "Bekir S\u0131dk\u0131 Sezgin"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "fa198a88-f713-4af8-9dc3-f5d0df048965", 
-            "title": "Ey Hevai Me\u015freb Oldun"
+            "attribute_key": "agiraksak", 
+            "mb_attribute": "A\u011f\u0131raksak", 
+            "source": "http://musicbrainz.org/work/fa198a88-f713-4af8-9dc3-f5d0df048965"
+        }, 
+        {
+            "attribute_key": "agiraksak", 
+            "mb_tag": "a\u011f\u0131raksak", 
+            "source": "http://musicbrainz.org/recording/e41043b8-be39-4858-9bd7-9739f24b4c84"
         }
     ]
 }

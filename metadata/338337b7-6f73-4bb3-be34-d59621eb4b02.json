@@ -1,11 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "aksaksemai", 
-            "mb_tag": "aksaksemai", 
-            "source": "http://musicbrainz.org/recording/338337b7-6f73-4bb3-be34-d59621eb4b02"
-        }
-    ], 
+    "instrumentation_voicing": "ensemble instrumental", 
     "form": [
         {
             "attribute_key": "sazsemaisi", 
@@ -33,6 +27,12 @@
         }
     ], 
     "mbid": "338337b7-6f73-4bb3-be34-d59621eb4b02", 
+    "works": [
+        {
+            "mbid": "8c6dbffc-ff4e-4ecf-a433-b506838a8f8d", 
+            "title": "Saba Sazsemaisi"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "saba", 
@@ -169,11 +169,11 @@
             "name": "Aykut B\u00fcy\u00fck\u00e7\u0131nar"
         }
     ], 
-    "instrumentation_voicing": "Ensemble instrumental", 
-    "works": [
+    "usul": [
         {
-            "mbid": "8c6dbffc-ff4e-4ecf-a433-b506838a8f8d", 
-            "title": "Saba Sazsemaisi"
+            "attribute_key": "aksaksemai", 
+            "mb_tag": "aksaksemai", 
+            "source": "http://musicbrainz.org/recording/338337b7-6f73-4bb3-be34-d59621eb4b02"
         }
     ]
 }

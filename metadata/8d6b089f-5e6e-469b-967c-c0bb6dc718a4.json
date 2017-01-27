@@ -1,11 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "aksaksemai", 
-            "mb_attribute": "Aksaksemai", 
-            "source": "http://musicbrainz.org/work/1dc8a983-8c66-477e-8c63-22409806f2e1"
-        }
-    ], 
+    "instrumentation_voicing": "solo instrumental", 
     "form": [
         {
             "attribute_key": "sazsemaisi", 
@@ -33,6 +27,12 @@
         }
     ], 
     "mbid": "8d6b089f-5e6e-469b-967c-c0bb6dc718a4", 
+    "works": [
+        {
+            "mbid": "1dc8a983-8c66-477e-8c63-22409806f2e1", 
+            "title": "Beyati-Araban Sazsemaisi"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "beyati_araban", 
@@ -55,11 +55,11 @@
             "name": "Salih Bilgin"
         }
     ], 
-    "instrumentation_voicing": "Solo instrumental", 
-    "works": [
+    "usul": [
         {
-            "mbid": "1dc8a983-8c66-477e-8c63-22409806f2e1", 
-            "title": "Beyati-Araban Sazsemaisi"
+            "attribute_key": "aksaksemai", 
+            "mb_attribute": "Aksaksemai", 
+            "source": "http://musicbrainz.org/work/1dc8a983-8c66-477e-8c63-22409806f2e1"
         }
     ]
 }

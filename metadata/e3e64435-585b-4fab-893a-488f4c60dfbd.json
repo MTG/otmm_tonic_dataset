@@ -1,5 +1,11 @@
 {
-    "instrumentation_voicing": "Solo instrumental", 
+    "usul": [
+        {
+            "attribute_key": "serbest", 
+            "mb_tag": "serbest", 
+            "source": "http://musicbrainz.org/recording/e3e64435-585b-4fab-893a-488f4c60dfbd"
+        }
+    ], 
     "form": [
         {
             "attribute_key": "taksim", 
@@ -56,11 +62,5 @@
             "name": "Ali Sar\u0131g\u00fcl"
         }
     ], 
-    "usul": [
-        {
-            "attribute_key": "serbest", 
-            "mb_tag": "serbest", 
-            "source": "http://musicbrainz.org/recording/e3e64435-585b-4fab-893a-488f4c60dfbd"
-        }
-    ]
+    "instrumentation_voicing": "solo instrumental"
 }

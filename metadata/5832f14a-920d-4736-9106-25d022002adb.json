@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "duyek", 
-            "mb_tag": "d\u00fcyek", 
-            "source": "http://musicbrainz.org/recording/5832f14a-920d-4736-9106-25d022002adb"
-        }, 
-        {
-            "attribute_key": "yuruksemai", 
-            "mb_tag": "y\u00fcr\u00fcksemai", 
-            "source": "http://musicbrainz.org/recording/5832f14a-920d-4736-9106-25d022002adb"
-        }
-    ], 
+    "instrumentation_voicing": "ensemble instrumental", 
     "form": [
         {
             "attribute_key": "ayin_i_serif", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "5832f14a-920d-4736-9106-25d022002adb", 
+    "works": [
+        {
+            "mbid": "2612a010-8d83-4056-90c2-7aa6569603e7", 
+            "title": "Sababuselik Ayin-i \u015eerif"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "sababuselik", 
@@ -57,11 +52,16 @@
             "name": "Dede Efendi T\u00fcrk M\u00fczi\u011fi Toplulu\u011fu"
         }
     ], 
-    "instrumentation_voicing": "Ensemble instrumental", 
-    "works": [
+    "usul": [
         {
-            "mbid": "2612a010-8d83-4056-90c2-7aa6569603e7", 
-            "title": "Sababuselik Ayin-i \u015eerif"
+            "attribute_key": "duyek", 
+            "mb_tag": "d\u00fcyek", 
+            "source": "http://musicbrainz.org/recording/5832f14a-920d-4736-9106-25d022002adb"
+        }, 
+        {
+            "attribute_key": "yuruksemai", 
+            "mb_tag": "y\u00fcr\u00fcksemai", 
+            "source": "http://musicbrainz.org/recording/5832f14a-920d-4736-9106-25d022002adb"
         }
     ]
 }

@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "aksak", 
-            "mb_attribute": "Aksak", 
-            "source": "http://musicbrainz.org/work/0272866b-d101-43f7-9e93-a1a7d72c5e5e"
-        }, 
-        {
-            "attribute_key": "aksak", 
-            "mb_tag": "aksak", 
-            "source": "http://musicbrainz.org/recording/af16ae9d-d007-4a3b-9956-c817231e6643"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal without accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "af16ae9d-d007-4a3b-9956-c817231e6643", 
+    "works": [
+        {
+            "mbid": "0272866b-d101-43f7-9e93-a1a7d72c5e5e", 
+            "title": "Duyup Ahvalimizi"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "kurdilihicazkar", 
@@ -60,11 +55,16 @@
             "name": "Serhat Sarpel"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal without accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "0272866b-d101-43f7-9e93-a1a7d72c5e5e", 
-            "title": "Duyup Ahvalimizi"
+            "attribute_key": "aksak", 
+            "mb_attribute": "Aksak", 
+            "source": "http://musicbrainz.org/work/0272866b-d101-43f7-9e93-a1a7d72c5e5e"
+        }, 
+        {
+            "attribute_key": "aksak", 
+            "mb_tag": "aksak", 
+            "source": "http://musicbrainz.org/recording/af16ae9d-d007-4a3b-9956-c817231e6643"
         }
     ]
 }

@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "aksaksemai", 
-            "mb_attribute": "Aksaksemai", 
-            "source": "http://musicbrainz.org/work/2a71e15d-9d5e-4b04-be31-48b3931cbde3"
-        }, 
-        {
-            "attribute_key": "aksaksemai", 
-            "mb_tag": "aksaksemai", 
-            "source": "http://musicbrainz.org/recording/40552e7a-5aae-4829-ac2e-4b5ee7afe8ec"
-        }
-    ], 
+    "instrumentation_voicing": "trio instrumental", 
     "form": [
         {
             "attribute_key": "sazsemaisi", 
@@ -46,6 +35,12 @@
         }
     ], 
     "mbid": "40552e7a-5aae-4829-ac2e-4b5ee7afe8ec", 
+    "works": [
+        {
+            "mbid": "2a71e15d-9d5e-4b04-be31-48b3931cbde3", 
+            "title": "K\u00fcrdilihicazk\u00e2r Saz Semaisi"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "kurdilihicazkar", 
@@ -84,11 +79,16 @@
             "name": "Tahir Aydo\u011fdu"
         }
     ], 
-    "instrumentation_voicing": "Trio instrumental", 
-    "works": [
+    "usul": [
         {
-            "mbid": "2a71e15d-9d5e-4b04-be31-48b3931cbde3", 
-            "title": "K\u00fcrdilihicazk\u00e2r Saz Semaisi"
+            "attribute_key": "aksaksemai", 
+            "mb_attribute": "Aksaksemai", 
+            "source": "http://musicbrainz.org/work/2a71e15d-9d5e-4b04-be31-48b3931cbde3"
+        }, 
+        {
+            "attribute_key": "aksaksemai", 
+            "mb_tag": "aksaksemai", 
+            "source": "http://musicbrainz.org/recording/40552e7a-5aae-4829-ac2e-4b5ee7afe8ec"
         }
     ]
 }

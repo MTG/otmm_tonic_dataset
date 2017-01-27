@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "aksak", 
-            "mb_attribute": "Aksak", 
-            "source": "http://musicbrainz.org/work/9b4052e3-409d-4cd1-9f48-307613870cd9"
-        }, 
-        {
-            "attribute_key": "aksak", 
-            "mb_tag": "aksak", 
-            "source": "http://musicbrainz.org/recording/490bfed2-a356-46f7-8ba8-02bbfe92a688"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "490bfed2-a356-46f7-8ba8-02bbfe92a688", 
+    "works": [
+        {
+            "mbid": "9b4052e3-409d-4cd1-9f48-307613870cd9", 
+            "title": "Mehcur Olal\u0131 Hayli Zamand\u0131r"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "hicaz", 
@@ -62,11 +57,16 @@
             "name": "Bekir S\u0131dk\u0131 Sezgin"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "9b4052e3-409d-4cd1-9f48-307613870cd9", 
-            "title": "Mehcur Olal\u0131 Hayli Zamand\u0131r"
+            "attribute_key": "aksak", 
+            "mb_attribute": "Aksak", 
+            "source": "http://musicbrainz.org/work/9b4052e3-409d-4cd1-9f48-307613870cd9"
+        }, 
+        {
+            "attribute_key": "aksak", 
+            "mb_tag": "aksak", 
+            "source": "http://musicbrainz.org/recording/490bfed2-a356-46f7-8ba8-02bbfe92a688"
         }
     ]
 }

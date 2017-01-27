@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "devrihindi", 
-            "mb_attribute": "Devr-i Hindi", 
-            "source": "http://musicbrainz.org/work/45d63a69-4ba7-4a84-a2cb-db2417a22f7e"
-        }, 
-        {
-            "attribute_key": "devrihindi", 
-            "mb_tag": "devr-i hindi", 
-            "source": "http://musicbrainz.org/recording/b67b3747-c431-4d94-8329-e5b6ab7256e0"
-        }
-    ], 
+    "instrumentation_voicing": "duet", 
     "form": [
         {
             "attribute_key": "tevsihilahi", 
@@ -42,6 +31,12 @@
         }
     ], 
     "mbid": "b67b3747-c431-4d94-8329-e5b6ab7256e0", 
+    "works": [
+        {
+            "mbid": "45d63a69-4ba7-4a84-a2cb-db2417a22f7e", 
+            "title": "Ey \u015eehin\u015fah-\u0131 Risalet V'ey Habib-i Kibriya"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "acemasiran", 
@@ -130,11 +125,16 @@
             "name": "\u00d6zer \u00d6zel"
         }
     ], 
-    "instrumentation_voicing": "Duet", 
-    "works": [
+    "usul": [
         {
-            "mbid": "45d63a69-4ba7-4a84-a2cb-db2417a22f7e", 
-            "title": "Ey \u015eehin\u015fah-\u0131 Risalet V'ey Habib-i Kibriya"
+            "attribute_key": "devrihindi", 
+            "mb_attribute": "Devr-i Hindi", 
+            "source": "http://musicbrainz.org/work/45d63a69-4ba7-4a84-a2cb-db2417a22f7e"
+        }, 
+        {
+            "attribute_key": "devrihindi", 
+            "mb_tag": "devr-i hindi", 
+            "source": "http://musicbrainz.org/recording/b67b3747-c431-4d94-8329-e5b6ab7256e0"
         }
     ]
 }

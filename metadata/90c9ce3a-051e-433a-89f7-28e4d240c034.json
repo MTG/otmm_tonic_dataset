@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "aksak", 
-            "mb_attribute": "Aksak", 
-            "source": "http://musicbrainz.org/work/888edc19-be16-47c6-92db-170b65caba0e"
-        }, 
-        {
-            "attribute_key": "aksak", 
-            "mb_tag": "aksak", 
-            "source": "http://musicbrainz.org/recording/90c9ce3a-051e-433a-89f7-28e4d240c034"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "90c9ce3a-051e-433a-89f7-28e4d240c034", 
+    "works": [
+        {
+            "mbid": "888edc19-be16-47c6-92db-170b65caba0e", 
+            "title": "Biz Heybeli'de Her Gece"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "sultaniyegah", 
@@ -62,11 +57,16 @@
             "name": "[unknown]"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "888edc19-be16-47c6-92db-170b65caba0e", 
-            "title": "Biz Heybeli'de Her Gece"
+            "attribute_key": "aksak", 
+            "mb_attribute": "Aksak", 
+            "source": "http://musicbrainz.org/work/888edc19-be16-47c6-92db-170b65caba0e"
+        }, 
+        {
+            "attribute_key": "aksak", 
+            "mb_tag": "aksak", 
+            "source": "http://musicbrainz.org/recording/90c9ce3a-051e-433a-89f7-28e4d240c034"
         }
     ]
 }

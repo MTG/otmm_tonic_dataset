@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "aksak", 
-            "mb_attribute": "Aksak", 
-            "source": "http://musicbrainz.org/work/1d8f1c81-f4b6-4a75-8bd7-fb264760ba5b"
-        }, 
-        {
-            "attribute_key": "aksak", 
-            "mb_tag": "aksak", 
-            "source": "http://musicbrainz.org/recording/1f6af8f0-9c70-4afe-99ab-40720fb2f26f"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal without accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "1f6af8f0-9c70-4afe-99ab-40720fb2f26f", 
+    "works": [
+        {
+            "mbid": "1d8f1c81-f4b6-4a75-8bd7-fb264760ba5b", 
+            "title": "Bu Ak\u015fam Yine Sensiz"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "saba", 
@@ -57,11 +52,16 @@
             "name": "Tahir Engin \u0130\u00e7\u00f6z"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal without accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "1d8f1c81-f4b6-4a75-8bd7-fb264760ba5b", 
-            "title": "Bu Ak\u015fam Yine Sensiz"
+            "attribute_key": "aksak", 
+            "mb_attribute": "Aksak", 
+            "source": "http://musicbrainz.org/work/1d8f1c81-f4b6-4a75-8bd7-fb264760ba5b"
+        }, 
+        {
+            "attribute_key": "aksak", 
+            "mb_tag": "aksak", 
+            "source": "http://musicbrainz.org/recording/1f6af8f0-9c70-4afe-99ab-40720fb2f26f"
         }
     ]
 }

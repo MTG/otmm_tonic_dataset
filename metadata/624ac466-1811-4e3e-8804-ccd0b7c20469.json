@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "ciftesofyan", 
-            "mb_attribute": "\u00c7iftesofyan", 
-            "source": "http://musicbrainz.org/work/5e916a14-8524-4bd8-9970-fff56493f348"
-        }, 
-        {
-            "attribute_key": "aksak", 
-            "mb_tag": "aksak", 
-            "source": "http://musicbrainz.org/recording/624ac466-1811-4e3e-8804-ccd0b7c20469"
-        }
-    ], 
+    "instrumentation_voicing": "solo instrumental", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "624ac466-1811-4e3e-8804-ccd0b7c20469", 
+    "works": [
+        {
+            "mbid": "5e916a14-8524-4bd8-9970-fff56493f348", 
+            "title": "Kara Bulutlar\u0131 Kald\u0131r Aradan"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "karcigar", 
@@ -60,11 +55,16 @@
             "name": "Ahmet Meter"
         }
     ], 
-    "instrumentation_voicing": "Solo instrumental", 
-    "works": [
+    "usul": [
         {
-            "mbid": "5e916a14-8524-4bd8-9970-fff56493f348", 
-            "title": "Kara Bulutlar\u0131 Kald\u0131r Aradan"
+            "attribute_key": "ciftesofyan", 
+            "mb_attribute": "\u00c7iftesofyan", 
+            "source": "http://musicbrainz.org/work/5e916a14-8524-4bd8-9970-fff56493f348"
+        }, 
+        {
+            "attribute_key": "aksak", 
+            "mb_tag": "aksak", 
+            "source": "http://musicbrainz.org/recording/624ac466-1811-4e3e-8804-ccd0b7c20469"
         }
     ]
 }

@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "duyek", 
-            "mb_attribute": "D\u00fcyek", 
-            "source": "http://musicbrainz.org/work/ebdb0be4-e3b0-4e4d-94a7-1380af91a0fe"
-        }, 
-        {
-            "attribute_key": "duyek", 
-            "mb_tag": "d\u00fcyek", 
-            "source": "http://musicbrainz.org/recording/81a9ae33-e801-48a6-9d4c-19d2565cf881"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal without accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "81a9ae33-e801-48a6-9d4c-19d2565cf881", 
+    "works": [
+        {
+            "mbid": "ebdb0be4-e3b0-4e4d-94a7-1380af91a0fe", 
+            "title": "G\u00fclen G\u00f6zlerinin Manas\u0131 Derin"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "huseyni", 
@@ -57,11 +52,16 @@
             "name": "Filiz \u015eat\u0131ro\u011flu"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal without accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "ebdb0be4-e3b0-4e4d-94a7-1380af91a0fe", 
-            "title": "G\u00fclen G\u00f6zlerinin Manas\u0131 Derin"
+            "attribute_key": "duyek", 
+            "mb_attribute": "D\u00fcyek", 
+            "source": "http://musicbrainz.org/work/ebdb0be4-e3b0-4e4d-94a7-1380af91a0fe"
+        }, 
+        {
+            "attribute_key": "duyek", 
+            "mb_tag": "d\u00fcyek", 
+            "source": "http://musicbrainz.org/recording/81a9ae33-e801-48a6-9d4c-19d2565cf881"
         }
     ]
 }

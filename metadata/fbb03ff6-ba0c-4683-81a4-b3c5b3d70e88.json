@@ -1,21 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "duyek", 
-            "mb_attribute": "D\u00fcyek", 
-            "source": "http://musicbrainz.org/work/aa2ed854-ff92-47b8-98cf-359b5364220a"
-        }, 
-        {
-            "attribute_key": "sofyan", 
-            "mb_attribute": "Sofyan", 
-            "source": "http://musicbrainz.org/work/aa2ed854-ff92-47b8-98cf-359b5364220a"
-        }, 
-        {
-            "attribute_key": "sofyan", 
-            "mb_tag": "sofyan", 
-            "source": "http://musicbrainz.org/recording/fbb03ff6-ba0c-4683-81a4-b3c5b3d70e88"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal without accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -43,6 +27,12 @@
         }
     ], 
     "mbid": "fbb03ff6-ba0c-4683-81a4-b3c5b3d70e88", 
+    "works": [
+        {
+            "mbid": "aa2ed854-ff92-47b8-98cf-359b5364220a", 
+            "title": "Bu H\u00fclyalar Diyar\u0131nda"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "sultaniyegah", 
@@ -62,11 +52,21 @@
             "name": "M\u00fcnir Nurettin Sel\u00e7uk"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal without accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "aa2ed854-ff92-47b8-98cf-359b5364220a", 
-            "title": "Bu H\u00fclyalar Diyar\u0131nda"
+            "attribute_key": "duyek", 
+            "mb_attribute": "D\u00fcyek", 
+            "source": "http://musicbrainz.org/work/aa2ed854-ff92-47b8-98cf-359b5364220a"
+        }, 
+        {
+            "attribute_key": "sofyan", 
+            "mb_attribute": "Sofyan", 
+            "source": "http://musicbrainz.org/work/aa2ed854-ff92-47b8-98cf-359b5364220a"
+        }, 
+        {
+            "attribute_key": "sofyan", 
+            "mb_tag": "sofyan", 
+            "source": "http://musicbrainz.org/recording/fbb03ff6-ba0c-4683-81a4-b3c5b3d70e88"
         }
     ]
 }

@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "aksak", 
-            "mb_attribute": "Aksak", 
-            "source": "http://musicbrainz.org/work/a00aa0d1-1e59-40d1-8602-76b4aef68ada"
-        }, 
-        {
-            "attribute_key": "aksak", 
-            "mb_tag": "aksak", 
-            "source": "http://musicbrainz.org/recording/1c3d6251-3cf5-46ff-a34a-3d67dd8b2a43"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "1c3d6251-3cf5-46ff-a34a-3d67dd8b2a43", 
+    "works": [
+        {
+            "mbid": "a00aa0d1-1e59-40d1-8602-76b4aef68ada", 
+            "title": "Sensiz Ya\u015famak Bil ki \u00d6l\u00fcmden de Ac\u0131ym\u0131\u015f"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "suzinak", 
@@ -113,11 +108,16 @@
             "name": "Faik Dinleten"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "a00aa0d1-1e59-40d1-8602-76b4aef68ada", 
-            "title": "Sensiz Ya\u015famak Bil ki \u00d6l\u00fcmden de Ac\u0131ym\u0131\u015f"
+            "attribute_key": "aksak", 
+            "mb_attribute": "Aksak", 
+            "source": "http://musicbrainz.org/work/a00aa0d1-1e59-40d1-8602-76b4aef68ada"
+        }, 
+        {
+            "attribute_key": "aksak", 
+            "mb_tag": "aksak", 
+            "source": "http://musicbrainz.org/recording/1c3d6251-3cf5-46ff-a34a-3d67dd8b2a43"
         }
     ]
 }

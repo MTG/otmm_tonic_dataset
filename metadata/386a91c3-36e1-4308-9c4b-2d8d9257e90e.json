@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "aksak", 
-            "mb_attribute": "Aksak", 
-            "source": "http://musicbrainz.org/work/c59ff240-0b4c-493b-953d-7df0d5519120"
-        }, 
-        {
-            "attribute_key": "aksak", 
-            "mb_tag": "aksak", 
-            "source": "http://musicbrainz.org/recording/386a91c3-36e1-4308-9c4b-2d8d9257e90e"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal without accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "386a91c3-36e1-4308-9c4b-2d8d9257e90e", 
+    "works": [
+        {
+            "mbid": "c59ff240-0b4c-493b-953d-7df0d5519120", 
+            "title": "G\u00fcl Mevsimi Yavrum Yine G\u00fcllerle A\u00e7\u0131l Gez"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "evcara", 
@@ -57,11 +52,16 @@
             "name": "G\u00fcler Basu \u015een"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal without accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "c59ff240-0b4c-493b-953d-7df0d5519120", 
-            "title": "G\u00fcl Mevsimi Yavrum Yine G\u00fcllerle A\u00e7\u0131l Gez"
+            "attribute_key": "aksak", 
+            "mb_attribute": "Aksak", 
+            "source": "http://musicbrainz.org/work/c59ff240-0b4c-493b-953d-7df0d5519120"
+        }, 
+        {
+            "attribute_key": "aksak", 
+            "mb_tag": "aksak", 
+            "source": "http://musicbrainz.org/recording/386a91c3-36e1-4308-9c4b-2d8d9257e90e"
         }
     ]
 }

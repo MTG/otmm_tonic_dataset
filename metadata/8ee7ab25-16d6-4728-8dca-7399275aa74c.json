@@ -1,11 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "devrikebir", 
-            "mb_attribute": "Devr-i Kebir", 
-            "source": "http://musicbrainz.org/work/28fa678e-2a5e-4d2a-ac78-b116b2794bdf"
-        }
-    ], 
+    "instrumentation_voicing": "solo instrumental", 
     "form": [
         {
             "attribute_key": "pesrev", 
@@ -33,6 +27,12 @@
         }
     ], 
     "mbid": "8ee7ab25-16d6-4728-8dca-7399275aa74c", 
+    "works": [
+        {
+            "mbid": "28fa678e-2a5e-4d2a-ac78-b116b2794bdf", 
+            "title": "H\u00fcseyni Pe\u015frev"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "huseyni", 
@@ -55,11 +55,11 @@
             "name": "Salih Bilgin"
         }
     ], 
-    "instrumentation_voicing": "Solo instrumental", 
-    "works": [
+    "usul": [
         {
-            "mbid": "28fa678e-2a5e-4d2a-ac78-b116b2794bdf", 
-            "title": "H\u00fcseyni Pe\u015frev"
+            "attribute_key": "devrikebir", 
+            "mb_attribute": "Devr-i Kebir", 
+            "source": "http://musicbrainz.org/work/28fa678e-2a5e-4d2a-ac78-b116b2794bdf"
         }
     ]
 }

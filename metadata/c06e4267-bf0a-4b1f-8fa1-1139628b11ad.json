@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "duyek", 
-            "mb_attribute": "D\u00fcyek", 
-            "source": "http://musicbrainz.org/work/2f1bbd2f-dbcf-4309-be72-7b94ce4d463e"
-        }, 
-        {
-            "attribute_key": "duyek", 
-            "mb_tag": "d\u00fcyek", 
-            "source": "http://musicbrainz.org/recording/c06e4267-bf0a-4b1f-8fa1-1139628b11ad"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal without accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "c06e4267-bf0a-4b1f-8fa1-1139628b11ad", 
+    "works": [
+        {
+            "mbid": "2f1bbd2f-dbcf-4309-be72-7b94ce4d463e", 
+            "title": "Ge\u00e7mesin G\u00fcn\u00fcm\u00fcz Sevgilim Yas'la"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "kurdilihicazkar", 
@@ -57,11 +52,16 @@
             "name": "\u0130lhan Yaz\u0131c\u0131"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal without accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "2f1bbd2f-dbcf-4309-be72-7b94ce4d463e", 
-            "title": "Ge\u00e7mesin G\u00fcn\u00fcm\u00fcz Sevgilim Yas'la"
+            "attribute_key": "duyek", 
+            "mb_attribute": "D\u00fcyek", 
+            "source": "http://musicbrainz.org/work/2f1bbd2f-dbcf-4309-be72-7b94ce4d463e"
+        }, 
+        {
+            "attribute_key": "duyek", 
+            "mb_tag": "d\u00fcyek", 
+            "source": "http://musicbrainz.org/recording/c06e4267-bf0a-4b1f-8fa1-1139628b11ad"
         }
     ]
 }

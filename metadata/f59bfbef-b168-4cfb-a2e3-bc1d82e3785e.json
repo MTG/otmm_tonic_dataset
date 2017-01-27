@@ -1,5 +1,5 @@
 {
-    "usul": [], 
+    "instrumentation_voicing": "trio instrumental", 
     "form": [
         {
             "attribute_key": "pesrev", 
@@ -35,6 +35,12 @@
         }
     ], 
     "mbid": "f59bfbef-b168-4cfb-a2e3-bc1d82e3785e", 
+    "works": [
+        {
+            "mbid": "b16f1c13-f7d6-4a6e-a27f-be3731541d63", 
+            "title": "Mevc-i Derya Pe\u015frev"
+        }
+    ], 
     "makam": [], 
     "artists": [
         {
@@ -62,11 +68,5 @@
             "name": "U\u011fur I\u015f\u0131k"
         }
     ], 
-    "instrumentation_voicing": "Trio instrumental", 
-    "works": [
-        {
-            "mbid": "b16f1c13-f7d6-4a6e-a27f-be3731541d63", 
-            "title": "Mevc-i Derya Pe\u015frev"
-        }
-    ]
+    "usul": []
 }

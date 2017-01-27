@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "aksak", 
-            "mb_attribute": "Aksak", 
-            "source": "http://musicbrainz.org/work/40e93193-f3e4-4f0a-82cb-9c1928fe8dc0"
-        }, 
-        {
-            "attribute_key": "aksak", 
-            "mb_tag": "aksak", 
-            "source": "http://musicbrainz.org/recording/f95996b8-452d-4e7f-baa6-ded041a4ec35"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "f95996b8-452d-4e7f-baa6-ded041a4ec35", 
+    "works": [
+        {
+            "mbid": "40e93193-f3e4-4f0a-82cb-9c1928fe8dc0", 
+            "title": "Bir Nigah Et Kahrile Sen Bakma Allah A\u015fk\u0131na"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "saba", 
@@ -62,11 +57,16 @@
             "name": "Alaeddin Yava\u015fca"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "40e93193-f3e4-4f0a-82cb-9c1928fe8dc0", 
-            "title": "Bir Nigah Et Kahrile Sen Bakma Allah A\u015fk\u0131na"
+            "attribute_key": "aksak", 
+            "mb_attribute": "Aksak", 
+            "source": "http://musicbrainz.org/work/40e93193-f3e4-4f0a-82cb-9c1928fe8dc0"
+        }, 
+        {
+            "attribute_key": "aksak", 
+            "mb_tag": "aksak", 
+            "source": "http://musicbrainz.org/recording/f95996b8-452d-4e7f-baa6-ded041a4ec35"
         }
     ]
 }

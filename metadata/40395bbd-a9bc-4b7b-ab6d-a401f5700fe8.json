@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "aksak", 
-            "mb_attribute": "Aksak", 
-            "source": "http://musicbrainz.org/work/a95a8c55-72d6-4b53-a411-cd3ba2acc900"
-        }, 
-        {
-            "attribute_key": "aksak", 
-            "mb_tag": "aksak", 
-            "source": "http://musicbrainz.org/recording/40395bbd-a9bc-4b7b-ab6d-a401f5700fe8"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "40395bbd-a9bc-4b7b-ab6d-a401f5700fe8", 
+    "works": [
+        {
+            "mbid": "a95a8c55-72d6-4b53-a411-cd3ba2acc900", 
+            "title": "G\u00f6n\u00fcl Beni Usand\u0131rd\u0131 Bana Yari And\u0131rd\u0131"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "karcigar", 
@@ -65,11 +60,16 @@
             "name": "Haf\u0131z Kemal Bey"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "a95a8c55-72d6-4b53-a411-cd3ba2acc900", 
-            "title": "G\u00f6n\u00fcl Beni Usand\u0131rd\u0131 Bana Yari And\u0131rd\u0131"
+            "attribute_key": "aksak", 
+            "mb_attribute": "Aksak", 
+            "source": "http://musicbrainz.org/work/a95a8c55-72d6-4b53-a411-cd3ba2acc900"
+        }, 
+        {
+            "attribute_key": "aksak", 
+            "mb_tag": "aksak", 
+            "source": "http://musicbrainz.org/recording/40395bbd-a9bc-4b7b-ab6d-a401f5700fe8"
         }
     ]
 }

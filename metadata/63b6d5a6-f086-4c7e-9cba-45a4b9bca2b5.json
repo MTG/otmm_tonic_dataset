@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "raksan", 
-            "mb_attribute": "Raksan", 
-            "source": "http://musicbrainz.org/work/7a4c6c8a-71e8-4921-b8b0-aec239b5bc05"
-        }, 
-        {
-            "attribute_key": "raksan", 
-            "mb_tag": "raksan", 
-            "source": "http://musicbrainz.org/recording/63b6d5a6-f086-4c7e-9cba-45a4b9bca2b5"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "turku", 
@@ -42,6 +31,12 @@
         }
     ], 
     "mbid": "63b6d5a6-f086-4c7e-9cba-45a4b9bca2b5", 
+    "works": [
+        {
+            "mbid": "7a4c6c8a-71e8-4921-b8b0-aec239b5bc05", 
+            "title": "S\u00f6\u011f\u00fcd\u00fcn Yapra\u011f\u0131 Narindir"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "muhayyer", 
@@ -134,11 +129,16 @@
             "name": "Sedat G\u00fcndiyer"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "7a4c6c8a-71e8-4921-b8b0-aec239b5bc05", 
-            "title": "S\u00f6\u011f\u00fcd\u00fcn Yapra\u011f\u0131 Narindir"
+            "attribute_key": "raksan", 
+            "mb_attribute": "Raksan", 
+            "source": "http://musicbrainz.org/work/7a4c6c8a-71e8-4921-b8b0-aec239b5bc05"
+        }, 
+        {
+            "attribute_key": "raksan", 
+            "mb_tag": "raksan", 
+            "source": "http://musicbrainz.org/recording/63b6d5a6-f086-4c7e-9cba-45a4b9bca2b5"
         }
     ]
 }

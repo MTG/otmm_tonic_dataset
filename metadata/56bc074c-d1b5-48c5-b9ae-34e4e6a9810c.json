@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "duyek", 
-            "mb_attribute": "D\u00fcyek", 
-            "source": "http://musicbrainz.org/work/33c92219-0bc8-4789-963f-640755bb0d32"
-        }, 
-        {
-            "attribute_key": "duyek", 
-            "mb_tag": "d\u00fcyek", 
-            "source": "http://musicbrainz.org/recording/56bc074c-d1b5-48c5-b9ae-34e4e6a9810c"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "kupe", 
@@ -54,6 +43,12 @@
         }
     ], 
     "mbid": "56bc074c-d1b5-48c5-b9ae-34e4e6a9810c", 
+    "works": [
+        {
+            "mbid": "33c92219-0bc8-4789-963f-640755bb0d32", 
+            "title": "Gayri Sen de Ol Biraz"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "saba", 
@@ -106,11 +101,16 @@
             "name": "Sava\u015f \u015e. Bark\u00e7in"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "33c92219-0bc8-4789-963f-640755bb0d32", 
-            "title": "Gayri Sen de Ol Biraz"
+            "attribute_key": "duyek", 
+            "mb_attribute": "D\u00fcyek", 
+            "source": "http://musicbrainz.org/work/33c92219-0bc8-4789-963f-640755bb0d32"
+        }, 
+        {
+            "attribute_key": "duyek", 
+            "mb_tag": "d\u00fcyek", 
+            "source": "http://musicbrainz.org/recording/56bc074c-d1b5-48c5-b9ae-34e4e6a9810c"
         }
     ]
 }

@@ -1,5 +1,11 @@
 {
-    "instrumentation_voicing": "Duo instrumental", 
+    "usul": [
+        {
+            "attribute_key": "serbest", 
+            "mb_tag": "serbest", 
+            "source": "http://musicbrainz.org/recording/aa5fe379-9d32-4ab3-a073-1bf44e771506"
+        }
+    ], 
     "form": [
         {
             "attribute_key": "taksim", 
@@ -47,11 +53,5 @@
             "name": "Ali A\u015fk\u0131n"
         }
     ], 
-    "usul": [
-        {
-            "attribute_key": "serbest", 
-            "mb_tag": "serbest", 
-            "source": "http://musicbrainz.org/recording/aa5fe379-9d32-4ab3-a073-1bf44e771506"
-        }
-    ]
+    "instrumentation_voicing": "duo instrumental"
 }

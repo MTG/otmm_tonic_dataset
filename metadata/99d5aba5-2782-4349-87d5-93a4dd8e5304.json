@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "agiraksak", 
-            "mb_attribute": "A\u011f\u0131raksak", 
-            "source": "http://musicbrainz.org/work/efce5948-8179-49f9-8a61-c7dea8c2ed3b"
-        }, 
-        {
-            "attribute_key": "agiraksak", 
-            "mb_tag": "a\u011f\u0131raksak", 
-            "source": "http://musicbrainz.org/recording/99d5aba5-2782-4349-87d5-93a4dd8e5304"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal without accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "99d5aba5-2782-4349-87d5-93a4dd8e5304", 
+    "works": [
+        {
+            "mbid": "efce5948-8179-49f9-8a61-c7dea8c2ed3b", 
+            "title": "Gitti\u011fin Yerde Unutma"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "karcigar", 
@@ -57,11 +52,16 @@
             "name": "\u00d6zdal Orhon"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal without accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "efce5948-8179-49f9-8a61-c7dea8c2ed3b", 
-            "title": "Gitti\u011fin Yerde Unutma"
+            "attribute_key": "agiraksak", 
+            "mb_attribute": "A\u011f\u0131raksak", 
+            "source": "http://musicbrainz.org/work/efce5948-8179-49f9-8a61-c7dea8c2ed3b"
+        }, 
+        {
+            "attribute_key": "agiraksak", 
+            "mb_tag": "a\u011f\u0131raksak", 
+            "source": "http://musicbrainz.org/recording/99d5aba5-2782-4349-87d5-93a4dd8e5304"
         }
     ]
 }

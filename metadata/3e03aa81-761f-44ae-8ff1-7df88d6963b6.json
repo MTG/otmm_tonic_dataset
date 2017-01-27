@@ -1,5 +1,11 @@
 {
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
+    "usul": [
+        {
+            "attribute_key": "serbest", 
+            "mb_tag": "serbest", 
+            "source": "http://musicbrainz.org/recording/3e03aa81-761f-44ae-8ff1-7df88d6963b6"
+        }
+    ], 
     "form": [
         {
             "attribute_key": "gazel", 
@@ -45,11 +51,5 @@
             "name": "[unknown]"
         }
     ], 
-    "usul": [
-        {
-            "attribute_key": "serbest", 
-            "mb_tag": "serbest", 
-            "source": "http://musicbrainz.org/recording/3e03aa81-761f-44ae-8ff1-7df88d6963b6"
-        }
-    ]
+    "instrumentation_voicing": "solo vocal with accompaniment"
 }

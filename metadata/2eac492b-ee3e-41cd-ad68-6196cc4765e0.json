@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "agiraksak", 
-            "mb_attribute": "A\u011f\u0131raksak", 
-            "source": "http://musicbrainz.org/work/d90f1891-40d6-4ac8-98d5-c89e5d12720d"
-        }, 
-        {
-            "attribute_key": "agiraksak", 
-            "mb_tag": "a\u011f\u0131raksak", 
-            "source": "http://musicbrainz.org/recording/2eac492b-ee3e-41cd-ad68-6196cc4765e0"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "2eac492b-ee3e-41cd-ad68-6196cc4765e0", 
+    "works": [
+        {
+            "mbid": "d90f1891-40d6-4ac8-98d5-c89e5d12720d", 
+            "title": "G\u00fclmedim G\u00fcld\u00fcrmedim"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "huzzam", 
@@ -225,11 +220,16 @@
             "name": "Tar\u0131k Kemanc\u0131"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "d90f1891-40d6-4ac8-98d5-c89e5d12720d", 
-            "title": "G\u00fclmedim G\u00fcld\u00fcrmedim"
+            "attribute_key": "agiraksak", 
+            "mb_attribute": "A\u011f\u0131raksak", 
+            "source": "http://musicbrainz.org/work/d90f1891-40d6-4ac8-98d5-c89e5d12720d"
+        }, 
+        {
+            "attribute_key": "agiraksak", 
+            "mb_tag": "a\u011f\u0131raksak", 
+            "source": "http://musicbrainz.org/recording/2eac492b-ee3e-41cd-ad68-6196cc4765e0"
         }
     ]
 }

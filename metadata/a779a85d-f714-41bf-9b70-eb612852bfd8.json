@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "muhammes", 
-            "mb_attribute": "Muhammes", 
-            "source": "http://musicbrainz.org/work/726a739d-3e0e-4d15-be3a-7ff200ab8050"
-        }, 
-        {
-            "attribute_key": "muhammes", 
-            "mb_tag": "muhammes", 
-            "source": "http://musicbrainz.org/recording/a779a85d-f714-41bf-9b70-eb612852bfd8"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "beste", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "a779a85d-f714-41bf-9b70-eb612852bfd8", 
+    "works": [
+        {
+            "mbid": "726a739d-3e0e-4d15-be3a-7ff200ab8050", 
+            "title": "R\u00fcz \u00fc \u015eeb Ah Eylemekten"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "suzinak", 
@@ -62,11 +57,16 @@
             "name": "Bekir S\u0131dk\u0131 Sezgin"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "726a739d-3e0e-4d15-be3a-7ff200ab8050", 
-            "title": "R\u00fcz \u00fc \u015eeb Ah Eylemekten"
+            "attribute_key": "muhammes", 
+            "mb_attribute": "Muhammes", 
+            "source": "http://musicbrainz.org/work/726a739d-3e0e-4d15-be3a-7ff200ab8050"
+        }, 
+        {
+            "attribute_key": "muhammes", 
+            "mb_tag": "muhammes", 
+            "source": "http://musicbrainz.org/recording/a779a85d-f714-41bf-9b70-eb612852bfd8"
         }
     ]
 }

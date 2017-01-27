@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "nimsakil", 
-            "mb_attribute": "Nimsakil", 
-            "source": "http://musicbrainz.org/work/9cfa97f7-5fe2-4578-907a-a4b722a20f74"
-        }, 
-        {
-            "attribute_key": "nimsakil", 
-            "mb_tag": "nimsakil", 
-            "source": "http://musicbrainz.org/recording/8ca7ed06-d505-455d-8136-e5e12b1cb1a9"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "kar", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "8ca7ed06-d505-455d-8136-e5e12b1cb1a9", 
+    "works": [
+        {
+            "mbid": "9cfa97f7-5fe2-4578-907a-a4b722a20f74", 
+            "title": "G\u00fclbin-i Iy\u015f Midemed Saki-i G\u00fcl-izar Ku"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "neva", 
@@ -92,11 +87,16 @@
             "name": "Do\u011fan Dikmen"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "9cfa97f7-5fe2-4578-907a-a4b722a20f74", 
-            "title": "G\u00fclbin-i Iy\u015f Midemed Saki-i G\u00fcl-izar Ku"
+            "attribute_key": "nimsakil", 
+            "mb_attribute": "Nimsakil", 
+            "source": "http://musicbrainz.org/work/9cfa97f7-5fe2-4578-907a-a4b722a20f74"
+        }, 
+        {
+            "attribute_key": "nimsakil", 
+            "mb_tag": "nimsakil", 
+            "source": "http://musicbrainz.org/recording/8ca7ed06-d505-455d-8136-e5e12b1cb1a9"
         }
     ]
 }

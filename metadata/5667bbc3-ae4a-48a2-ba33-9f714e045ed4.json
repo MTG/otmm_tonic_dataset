@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "aksak", 
-            "mb_attribute": "Aksak", 
-            "source": "http://musicbrainz.org/work/b046a3af-4881-4aaa-8af7-42c87ae576f4"
-        }, 
-        {
-            "attribute_key": "aksak", 
-            "mb_tag": "aksak", 
-            "source": "http://musicbrainz.org/recording/5667bbc3-ae4a-48a2-ba33-9f714e045ed4"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "5667bbc3-ae4a-48a2-ba33-9f714e045ed4", 
+    "works": [
+        {
+            "mbid": "b046a3af-4881-4aaa-8af7-42c87ae576f4", 
+            "title": "Geldi Ku\u015flarla Ye\u015fil Dallara"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "sultaniyegah", 
@@ -81,11 +76,16 @@
             "name": "Nevzat S\u00fcmer"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "b046a3af-4881-4aaa-8af7-42c87ae576f4", 
-            "title": "Geldi Ku\u015flarla Ye\u015fil Dallara"
+            "attribute_key": "aksak", 
+            "mb_attribute": "Aksak", 
+            "source": "http://musicbrainz.org/work/b046a3af-4881-4aaa-8af7-42c87ae576f4"
+        }, 
+        {
+            "attribute_key": "aksak", 
+            "mb_tag": "aksak", 
+            "source": "http://musicbrainz.org/recording/5667bbc3-ae4a-48a2-ba33-9f714e045ed4"
         }
     ]
 }

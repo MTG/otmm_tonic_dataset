@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "yuruksemai", 
-            "mb_attribute": "Y\u00fcr\u00fcksemai", 
-            "source": "http://musicbrainz.org/work/090e2a93-aeac-4e75-abe3-04dd6d838367"
-        }, 
-        {
-            "attribute_key": "yuruksemai", 
-            "mb_tag": "y\u00fcr\u00fcksemai", 
-            "source": "http://musicbrainz.org/recording/411a69c1-c016-45cd-bdbf-5bbe3dfa6d3c"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "411a69c1-c016-45cd-bdbf-5bbe3dfa6d3c", 
+    "works": [
+        {
+            "mbid": "090e2a93-aeac-4e75-abe3-04dd6d838367", 
+            "title": "Birlikte Bu Ak\u015fam \u00c7\u0131kal\u0131m Seyre"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "neva", 
@@ -62,11 +57,16 @@
             "name": "Zeki M\u00fcren"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "090e2a93-aeac-4e75-abe3-04dd6d838367", 
-            "title": "Birlikte Bu Ak\u015fam \u00c7\u0131kal\u0131m Seyre"
+            "attribute_key": "yuruksemai", 
+            "mb_attribute": "Y\u00fcr\u00fcksemai", 
+            "source": "http://musicbrainz.org/work/090e2a93-aeac-4e75-abe3-04dd6d838367"
+        }, 
+        {
+            "attribute_key": "yuruksemai", 
+            "mb_tag": "y\u00fcr\u00fcksemai", 
+            "source": "http://musicbrainz.org/recording/411a69c1-c016-45cd-bdbf-5bbe3dfa6d3c"
         }
     ]
 }

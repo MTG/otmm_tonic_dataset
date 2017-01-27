@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "zencir", 
-            "mb_attribute": "Zencir", 
-            "source": "http://musicbrainz.org/work/d1bb61c1-a779-4515-81f6-cda83473374a"
-        }, 
-        {
-            "attribute_key": "zencir", 
-            "mb_tag": "zencir", 
-            "source": "http://musicbrainz.org/recording/9ecda61d-6eaf-4f72-bf10-88d317af1e67"
-        }
-    ], 
+    "instrumentation_voicing": "duo instrumental", 
     "form": [
         {
             "attribute_key": "pesrev", 
@@ -42,6 +31,12 @@
         }
     ], 
     "mbid": "9ecda61d-6eaf-4f72-bf10-88d317af1e67", 
+    "works": [
+        {
+            "mbid": "d1bb61c1-a779-4515-81f6-cda83473374a", 
+            "title": "\u015eehnaz Pe\u015frev"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "sehnaz", 
@@ -72,11 +67,16 @@
             "name": "Murat Aydemir"
         }
     ], 
-    "instrumentation_voicing": "Duo instrumental", 
-    "works": [
+    "usul": [
         {
-            "mbid": "d1bb61c1-a779-4515-81f6-cda83473374a", 
-            "title": "\u015eehnaz Pe\u015frev"
+            "attribute_key": "zencir", 
+            "mb_attribute": "Zencir", 
+            "source": "http://musicbrainz.org/work/d1bb61c1-a779-4515-81f6-cda83473374a"
+        }, 
+        {
+            "attribute_key": "zencir", 
+            "mb_tag": "zencir", 
+            "source": "http://musicbrainz.org/recording/9ecda61d-6eaf-4f72-bf10-88d317af1e67"
         }
     ]
 }

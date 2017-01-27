@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "aksaksemai", 
-            "mb_attribute": "Aksaksemai", 
-            "source": "http://musicbrainz.org/work/bd82468d-e5bf-4541-9b4e-7402332508ba"
-        }, 
-        {
-            "attribute_key": "aksaksemai", 
-            "mb_tag": "aksaksemai", 
-            "source": "http://musicbrainz.org/recording/d0d3c5ca-bd83-458f-953f-ffbf1eb10862"
-        }
-    ], 
+    "instrumentation_voicing": "solo instrumental", 
     "form": [
         {
             "attribute_key": "sazsemaisi", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "d0d3c5ca-bd83-458f-953f-ffbf1eb10862", 
+    "works": [
+        {
+            "mbid": "bd82468d-e5bf-4541-9b4e-7402332508ba", 
+            "title": "Nihavent Sazsemaisi"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "nihavent", 
@@ -61,11 +56,16 @@
             "name": "Erol Deran"
         }
     ], 
-    "instrumentation_voicing": "Solo instrumental", 
-    "works": [
+    "usul": [
         {
-            "mbid": "bd82468d-e5bf-4541-9b4e-7402332508ba", 
-            "title": "Nihavent Sazsemaisi"
+            "attribute_key": "aksaksemai", 
+            "mb_attribute": "Aksaksemai", 
+            "source": "http://musicbrainz.org/work/bd82468d-e5bf-4541-9b4e-7402332508ba"
+        }, 
+        {
+            "attribute_key": "aksaksemai", 
+            "mb_tag": "aksaksemai", 
+            "source": "http://musicbrainz.org/recording/d0d3c5ca-bd83-458f-953f-ffbf1eb10862"
         }
     ]
 }

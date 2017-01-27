@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "duyek", 
-            "mb_attribute": "D\u00fcyek", 
-            "source": "http://musicbrainz.org/work/31cfc649-c2af-4981-9a9e-2d8af97d50f0"
-        }, 
-        {
-            "attribute_key": "duyek", 
-            "mb_tag": "d\u00fcyek", 
-            "source": "http://musicbrainz.org/recording/f2f17f09-a7cc-418d-8885-268e49d10e85"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal without accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "f2f17f09-a7cc-418d-8885-268e49d10e85", 
+    "works": [
+        {
+            "mbid": "31cfc649-c2af-4981-9a9e-2d8af97d50f0", 
+            "title": "Bo\u011fazi\u00e7i \u015een G\u00f6n\u00fcller Yata\u011f\u0131"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "hicaz", 
@@ -57,11 +52,16 @@
             "name": "Alaeddin Yava\u015fca"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal without accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "31cfc649-c2af-4981-9a9e-2d8af97d50f0", 
-            "title": "Bo\u011fazi\u00e7i \u015een G\u00f6n\u00fcller Yata\u011f\u0131"
+            "attribute_key": "duyek", 
+            "mb_attribute": "D\u00fcyek", 
+            "source": "http://musicbrainz.org/work/31cfc649-c2af-4981-9a9e-2d8af97d50f0"
+        }, 
+        {
+            "attribute_key": "duyek", 
+            "mb_tag": "d\u00fcyek", 
+            "source": "http://musicbrainz.org/recording/f2f17f09-a7cc-418d-8885-268e49d10e85"
         }
     ]
 }

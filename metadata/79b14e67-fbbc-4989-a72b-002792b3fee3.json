@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "duyek", 
-            "mb_attribute": "D\u00fcyek", 
-            "source": "http://musicbrainz.org/work/36057ec2-1df5-4dab-9051-1643b6530b9a"
-        }, 
-        {
-            "attribute_key": "duyek", 
-            "mb_tag": "d\u00fcyek", 
-            "source": "http://musicbrainz.org/recording/79b14e67-fbbc-4989-a72b-002792b3fee3"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "79b14e67-fbbc-4989-a72b-002792b3fee3", 
+    "works": [
+        {
+            "mbid": "36057ec2-1df5-4dab-9051-1643b6530b9a", 
+            "title": "Bana O Kadar Yak\u0131ns\u0131n ki"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "karcigar", 
@@ -62,11 +57,16 @@
             "name": "Meral U\u011furlu"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "36057ec2-1df5-4dab-9051-1643b6530b9a", 
-            "title": "Bana O Kadar Yak\u0131ns\u0131n ki"
+            "attribute_key": "duyek", 
+            "mb_attribute": "D\u00fcyek", 
+            "source": "http://musicbrainz.org/work/36057ec2-1df5-4dab-9051-1643b6530b9a"
+        }, 
+        {
+            "attribute_key": "duyek", 
+            "mb_tag": "d\u00fcyek", 
+            "source": "http://musicbrainz.org/recording/79b14e67-fbbc-4989-a72b-002792b3fee3"
         }
     ]
 }

@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "aksak", 
-            "mb_attribute": "Aksak", 
-            "source": "http://musicbrainz.org/work/67938bce-1cff-34ff-8aad-e1b3a3b17aa8"
-        }, 
-        {
-            "attribute_key": "aksak", 
-            "mb_tag": "aksak", 
-            "source": "http://musicbrainz.org/recording/009309d2-c260-4808-8f1d-44a5ddc6bc5f"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal without accompaniment", 
     "form": [
         {
             "attribute_key": "kocekce", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "009309d2-c260-4808-8f1d-44a5ddc6bc5f", 
+    "works": [
+        {
+            "mbid": "67938bce-1cff-34ff-8aad-e1b3a3b17aa8", 
+            "title": "Benliyi Ald\u0131m Ka\u00e7aktan"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "karcigar", 
@@ -57,11 +52,16 @@
             "name": "Zeki M\u00fcren"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal without accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "67938bce-1cff-34ff-8aad-e1b3a3b17aa8", 
-            "title": "Benliyi Ald\u0131m Ka\u00e7aktan"
+            "attribute_key": "aksak", 
+            "mb_attribute": "Aksak", 
+            "source": "http://musicbrainz.org/work/67938bce-1cff-34ff-8aad-e1b3a3b17aa8"
+        }, 
+        {
+            "attribute_key": "aksak", 
+            "mb_tag": "aksak", 
+            "source": "http://musicbrainz.org/recording/009309d2-c260-4808-8f1d-44a5ddc6bc5f"
         }
     ]
 }

@@ -1,11 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "aksaksemai", 
-            "mb_tag": "aksaksemai", 
-            "source": "http://musicbrainz.org/recording/bcefed68-06f7-450f-a402-e52bf18eea66"
-        }
-    ], 
+    "instrumentation_voicing": "ensemble instrumental", 
     "form": [
         {
             "attribute_key": "sazsemaisi", 
@@ -33,6 +27,12 @@
         }
     ], 
     "mbid": "bcefed68-06f7-450f-a402-e52bf18eea66", 
+    "works": [
+        {
+            "mbid": "b7d09514-5875-43a7-8d30-f5b9ca0900c5", 
+            "title": "Acema\u015firan Sazsemaisi"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "acemasiran", 
@@ -169,11 +169,11 @@
             "name": "Aykut B\u00fcy\u00fck\u00e7\u0131nar"
         }
     ], 
-    "instrumentation_voicing": "Ensemble instrumental", 
-    "works": [
+    "usul": [
         {
-            "mbid": "b7d09514-5875-43a7-8d30-f5b9ca0900c5", 
-            "title": "Acema\u015firan Sazsemaisi"
+            "attribute_key": "aksaksemai", 
+            "mb_tag": "aksaksemai", 
+            "source": "http://musicbrainz.org/recording/bcefed68-06f7-450f-a402-e52bf18eea66"
         }
     ]
 }

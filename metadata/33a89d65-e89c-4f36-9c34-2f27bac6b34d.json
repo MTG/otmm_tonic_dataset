@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "aksak", 
-            "mb_attribute": "Aksak", 
-            "source": "http://musicbrainz.org/work/ba32d223-5f01-48c4-af7e-34707353ddea"
-        }, 
-        {
-            "attribute_key": "aksak", 
-            "mb_tag": "aksak", 
-            "source": "http://musicbrainz.org/recording/33a89d65-e89c-4f36-9c34-2f27bac6b34d"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "33a89d65-e89c-4f36-9c34-2f27bac6b34d", 
+    "works": [
+        {
+            "mbid": "ba32d223-5f01-48c4-af7e-34707353ddea", 
+            "title": "A\u00e7\u0131l Ey Gonce-i Sad-berg Yara\u015f\u0131r"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "hicazkar", 
@@ -62,11 +57,16 @@
             "name": "Bekir S\u0131dk\u0131 Sezgin"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "ba32d223-5f01-48c4-af7e-34707353ddea", 
-            "title": "A\u00e7\u0131l Ey Gonce-i Sad-berg Yara\u015f\u0131r"
+            "attribute_key": "aksak", 
+            "mb_attribute": "Aksak", 
+            "source": "http://musicbrainz.org/work/ba32d223-5f01-48c4-af7e-34707353ddea"
+        }, 
+        {
+            "attribute_key": "aksak", 
+            "mb_tag": "aksak", 
+            "source": "http://musicbrainz.org/recording/33a89d65-e89c-4f36-9c34-2f27bac6b34d"
         }
     ]
 }

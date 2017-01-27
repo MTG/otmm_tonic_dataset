@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "turkaksagi", 
-            "mb_attribute": "T\u00fcrkaksa\u011f\u0131", 
-            "source": "http://musicbrainz.org/work/cfb52326-250c-4fb1-809d-53d6237ec80d"
-        }, 
-        {
-            "attribute_key": "turkaksagi_ii", 
-            "mb_tag": "t\u00fcrkaksa\u011f\u0131", 
-            "source": "http://musicbrainz.org/recording/56e1f968-864e-4b9e-aca3-a27eb932ccfd"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -42,6 +31,12 @@
         }
     ], 
     "mbid": "56e1f968-864e-4b9e-aca3-a27eb932ccfd", 
+    "works": [
+        {
+            "mbid": "cfb52326-250c-4fb1-809d-53d6237ec80d", 
+            "title": "G\u00fcller A\u00e7m\u0131\u015f B\u00fclb\u00fcl Olmu\u015f Bikarar"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "kurdilihicazkar", 
@@ -137,11 +132,16 @@
             "name": "Sedat G\u00fcndiyer"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "cfb52326-250c-4fb1-809d-53d6237ec80d", 
-            "title": "G\u00fcller A\u00e7m\u0131\u015f B\u00fclb\u00fcl Olmu\u015f Bikarar"
+            "attribute_key": "turkaksagi", 
+            "mb_attribute": "T\u00fcrkaksa\u011f\u0131", 
+            "source": "http://musicbrainz.org/work/cfb52326-250c-4fb1-809d-53d6237ec80d"
+        }, 
+        {
+            "attribute_key": "turkaksagi_ii", 
+            "mb_tag": "t\u00fcrkaksa\u011f\u0131", 
+            "source": "http://musicbrainz.org/recording/56e1f968-864e-4b9e-aca3-a27eb932ccfd"
         }
     ]
 }

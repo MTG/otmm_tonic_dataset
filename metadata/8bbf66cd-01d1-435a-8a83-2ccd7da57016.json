@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "raksaksagi", 
-            "mb_attribute": "Raksaksa\u011f\u0131", 
-            "source": "http://musicbrainz.org/work/820b1b89-3596-42ec-b1b7-26d0974b0dd2"
-        }, 
-        {
-            "attribute_key": "raksaksagi_ii", 
-            "mb_tag": "raksaksa\u011f\u0131", 
-            "source": "http://musicbrainz.org/recording/8bbf66cd-01d1-435a-8a83-2ccd7da57016"
-        }
-    ], 
+    "instrumentation_voicing": "ensemble instrumental", 
     "form": [
         {
             "attribute_key": "tavsanca", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "8bbf66cd-01d1-435a-8a83-2ccd7da57016", 
+    "works": [
+        {
+            "mbid": "820b1b89-3596-42ec-b1b7-26d0974b0dd2", 
+            "title": "D\u00f6k Z\u00fclf\u00fcn\u00fc Meydana Gel"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "hisarbuselik", 
@@ -57,11 +52,16 @@
             "name": "Aziz T\u00fcrk Sanat M\u00fczi\u011fi Grubu"
         }
     ], 
-    "instrumentation_voicing": "Ensemble instrumental", 
-    "works": [
+    "usul": [
         {
-            "mbid": "820b1b89-3596-42ec-b1b7-26d0974b0dd2", 
-            "title": "D\u00f6k Z\u00fclf\u00fcn\u00fc Meydana Gel"
+            "attribute_key": "raksaksagi", 
+            "mb_attribute": "Raksaksa\u011f\u0131", 
+            "source": "http://musicbrainz.org/work/820b1b89-3596-42ec-b1b7-26d0974b0dd2"
+        }, 
+        {
+            "attribute_key": "raksaksagi_ii", 
+            "mb_tag": "raksaksa\u011f\u0131", 
+            "source": "http://musicbrainz.org/recording/8bbf66cd-01d1-435a-8a83-2ccd7da57016"
         }
     ]
 }

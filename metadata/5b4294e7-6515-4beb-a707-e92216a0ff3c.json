@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "semai", 
-            "mb_attribute": "Semai", 
-            "source": "http://musicbrainz.org/work/5f738fd5-fc44-471a-9f07-26c7181914a1"
-        }, 
-        {
-            "attribute_key": "semai", 
-            "mb_tag": "semai", 
-            "source": "http://musicbrainz.org/recording/5b4294e7-6515-4beb-a707-e92216a0ff3c"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal without accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "5b4294e7-6515-4beb-a707-e92216a0ff3c", 
+    "works": [
+        {
+            "mbid": "5f738fd5-fc44-471a-9f07-26c7181914a1", 
+            "title": "G\u00f6nl\u00fcm Kuru Bir G\u00fcl Gibi Titrerken Ad\u0131nda"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "suzinak", 
@@ -57,11 +52,16 @@
             "name": "Sabite Tur G\u00fclerman"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal without accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "5f738fd5-fc44-471a-9f07-26c7181914a1", 
-            "title": "G\u00f6nl\u00fcm Kuru Bir G\u00fcl Gibi Titrerken Ad\u0131nda"
+            "attribute_key": "semai", 
+            "mb_attribute": "Semai", 
+            "source": "http://musicbrainz.org/work/5f738fd5-fc44-471a-9f07-26c7181914a1"
+        }, 
+        {
+            "attribute_key": "semai", 
+            "mb_tag": "semai", 
+            "source": "http://musicbrainz.org/recording/5b4294e7-6515-4beb-a707-e92216a0ff3c"
         }
     ]
 }

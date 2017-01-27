@@ -1,21 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "devrikebir", 
-            "mb_attribute": "Devr-i Kebir", 
-            "source": "http://musicbrainz.org/work/35de9f7a-fbdf-4f59-80f5-82aee2ab7d78"
-        }, 
-        {
-            "attribute_key": "devrikebir", 
-            "mb_tag": "devr-i kebir", 
-            "source": "http://musicbrainz.org/recording/e53fafa0-051e-4b79-adad-52fda8488eb1"
-        }, 
-        {
-            "attribute_key": "serbest", 
-            "mb_tag": "serbest", 
-            "source": "http://musicbrainz.org/recording/e53fafa0-051e-4b79-adad-52fda8488eb1"
-        }
-    ], 
+    "instrumentation_voicing": "solo instrumental", 
     "form": [
         {
             "attribute_key": "pesrev", 
@@ -48,6 +32,12 @@
         }
     ], 
     "mbid": "e53fafa0-051e-4b79-adad-52fda8488eb1", 
+    "works": [
+        {
+            "mbid": "35de9f7a-fbdf-4f59-80f5-82aee2ab7d78", 
+            "title": "Muhayyerk\u00fcrdi Pe\u015frev"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "muhayyerkurdi", 
@@ -70,11 +60,21 @@
             "name": "Necdet Ya\u015far"
         }
     ], 
-    "instrumentation_voicing": "Solo instrumental", 
-    "works": [
+    "usul": [
         {
-            "mbid": "35de9f7a-fbdf-4f59-80f5-82aee2ab7d78", 
-            "title": "Muhayyerk\u00fcrdi Pe\u015frev"
+            "attribute_key": "devrikebir", 
+            "mb_attribute": "Devr-i Kebir", 
+            "source": "http://musicbrainz.org/work/35de9f7a-fbdf-4f59-80f5-82aee2ab7d78"
+        }, 
+        {
+            "attribute_key": "devrikebir", 
+            "mb_tag": "devr-i kebir", 
+            "source": "http://musicbrainz.org/recording/e53fafa0-051e-4b79-adad-52fda8488eb1"
+        }, 
+        {
+            "attribute_key": "serbest", 
+            "mb_tag": "serbest", 
+            "source": "http://musicbrainz.org/recording/e53fafa0-051e-4b79-adad-52fda8488eb1"
         }
     ]
 }

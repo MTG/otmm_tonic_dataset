@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "aksak", 
-            "mb_attribute": "Aksak", 
-            "source": "http://musicbrainz.org/work/a53ea432-bdf0-4b1a-9726-48af3d38cd6b"
-        }, 
-        {
-            "attribute_key": "aksak", 
-            "mb_tag": "aksak", 
-            "source": "http://musicbrainz.org/recording/83deb922-e969-4d62-9105-4b2c5c4b54a8"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "kocekce", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "83deb922-e969-4d62-9105-4b2c5c4b54a8", 
+    "works": [
+        {
+            "mbid": "a53ea432-bdf0-4b1a-9726-48af3d38cd6b", 
+            "title": "Al Yazmal\u0131m Hadi Gel"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "karcigar", 
@@ -62,11 +57,16 @@
             "name": "Alaeddin Yava\u015fca"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "a53ea432-bdf0-4b1a-9726-48af3d38cd6b", 
-            "title": "Al Yazmal\u0131m Hadi Gel"
+            "attribute_key": "aksak", 
+            "mb_attribute": "Aksak", 
+            "source": "http://musicbrainz.org/work/a53ea432-bdf0-4b1a-9726-48af3d38cd6b"
+        }, 
+        {
+            "attribute_key": "aksak", 
+            "mb_tag": "aksak", 
+            "source": "http://musicbrainz.org/recording/83deb922-e969-4d62-9105-4b2c5c4b54a8"
         }
     ]
 }

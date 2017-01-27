@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "sofyan", 
-            "mb_attribute": "Sofyan", 
-            "source": "http://musicbrainz.org/work/f34311ed-7f5f-4300-91bc-c3dc28eb1585"
-        }, 
-        {
-            "attribute_key": "sofyan", 
-            "mb_tag": "sofyan", 
-            "source": "http://musicbrainz.org/recording/9ae02585-75a9-4de7-8044-143007be8c66"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal without accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "9ae02585-75a9-4de7-8044-143007be8c66", 
+    "works": [
+        {
+            "mbid": "f34311ed-7f5f-4300-91bc-c3dc28eb1585", 
+            "title": "Dula G\u00f6n\u00fcl Verdim"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "huseyni", 
@@ -57,11 +52,16 @@
             "name": "Ahmet Celal Tokses"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal without accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "f34311ed-7f5f-4300-91bc-c3dc28eb1585", 
-            "title": "Dula G\u00f6n\u00fcl Verdim"
+            "attribute_key": "sofyan", 
+            "mb_attribute": "Sofyan", 
+            "source": "http://musicbrainz.org/work/f34311ed-7f5f-4300-91bc-c3dc28eb1585"
+        }, 
+        {
+            "attribute_key": "sofyan", 
+            "mb_tag": "sofyan", 
+            "source": "http://musicbrainz.org/recording/9ae02585-75a9-4de7-8044-143007be8c66"
         }
     ]
 }

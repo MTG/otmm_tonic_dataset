@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "aksak", 
-            "mb_attribute": "Aksak", 
-            "source": "http://musicbrainz.org/work/619a1912-51ae-4af9-9797-9f33f832d31e"
-        }, 
-        {
-            "attribute_key": "aksak", 
-            "mb_tag": "aksak", 
-            "source": "http://musicbrainz.org/recording/e9693710-d9cd-4d2a-b0df-a845c7df3a8f"
-        }
-    ], 
+    "instrumentation_voicing": "choir", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "e9693710-d9cd-4d2a-b0df-a845c7df3a8f", 
+    "works": [
+        {
+            "mbid": "619a1912-51ae-4af9-9797-9f33f832d31e", 
+            "title": "Muntaz\u0131r\u0131m Te\u015frifine"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "neva", 
@@ -558,11 +553,16 @@
             "name": "Nebahat Konu"
         }
     ], 
-    "instrumentation_voicing": "Choir", 
-    "works": [
+    "usul": [
         {
-            "mbid": "619a1912-51ae-4af9-9797-9f33f832d31e", 
-            "title": "Muntaz\u0131r\u0131m Te\u015frifine"
+            "attribute_key": "aksak", 
+            "mb_attribute": "Aksak", 
+            "source": "http://musicbrainz.org/work/619a1912-51ae-4af9-9797-9f33f832d31e"
+        }, 
+        {
+            "attribute_key": "aksak", 
+            "mb_tag": "aksak", 
+            "source": "http://musicbrainz.org/recording/e9693710-d9cd-4d2a-b0df-a845c7df3a8f"
         }
     ]
 }

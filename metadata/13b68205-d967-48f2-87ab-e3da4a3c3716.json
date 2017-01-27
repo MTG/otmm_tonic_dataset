@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "yuruksemai", 
-            "mb_attribute": "Y\u00fcr\u00fcksemai", 
-            "source": "http://musicbrainz.org/work/237e4e7e-5ddd-46d8-aa0b-bec398152e09"
-        }, 
-        {
-            "attribute_key": "yuruksemai", 
-            "mb_tag": "y\u00fcr\u00fcksemai", 
-            "source": "http://musicbrainz.org/recording/13b68205-d967-48f2-87ab-e3da4a3c3716"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "yuruksemai", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "13b68205-d967-48f2-87ab-e3da4a3c3716", 
+    "works": [
+        {
+            "mbid": "237e4e7e-5ddd-46d8-aa0b-bec398152e09", 
+            "title": "Bir Elif \u00c7ekti Yine"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "muhayyer", 
@@ -62,11 +57,16 @@
             "name": "Bekir S\u0131dk\u0131 Sezgin"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "237e4e7e-5ddd-46d8-aa0b-bec398152e09", 
-            "title": "Bir Elif \u00c7ekti Yine"
+            "attribute_key": "yuruksemai", 
+            "mb_attribute": "Y\u00fcr\u00fcksemai", 
+            "source": "http://musicbrainz.org/work/237e4e7e-5ddd-46d8-aa0b-bec398152e09"
+        }, 
+        {
+            "attribute_key": "yuruksemai", 
+            "mb_tag": "y\u00fcr\u00fcksemai", 
+            "source": "http://musicbrainz.org/recording/13b68205-d967-48f2-87ab-e3da4a3c3716"
         }
     ]
 }

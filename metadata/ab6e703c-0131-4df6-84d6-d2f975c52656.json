@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "senginsemai", 
-            "mb_attribute": "Senginsemai", 
-            "source": "http://musicbrainz.org/work/ae85e900-4287-40fb-9e7c-53e280ad756b"
-        }, 
-        {
-            "attribute_key": "senginsemai", 
-            "mb_tag": "senginsemai", 
-            "source": "http://musicbrainz.org/recording/ab6e703c-0131-4df6-84d6-d2f975c52656"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "ab6e703c-0131-4df6-84d6-d2f975c52656", 
+    "works": [
+        {
+            "mbid": "ae85e900-4287-40fb-9e7c-53e280ad756b", 
+            "title": "R\u00fczgar Uyumu\u015f Ay Dal\u0131yor"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "acemkurdi", 
@@ -81,11 +76,16 @@
             "name": "Safinaz Rizeli"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "ae85e900-4287-40fb-9e7c-53e280ad756b", 
-            "title": "R\u00fczgar Uyumu\u015f Ay Dal\u0131yor"
+            "attribute_key": "senginsemai", 
+            "mb_attribute": "Senginsemai", 
+            "source": "http://musicbrainz.org/work/ae85e900-4287-40fb-9e7c-53e280ad756b"
+        }, 
+        {
+            "attribute_key": "senginsemai", 
+            "mb_tag": "senginsemai", 
+            "source": "http://musicbrainz.org/recording/ab6e703c-0131-4df6-84d6-d2f975c52656"
         }
     ]
 }

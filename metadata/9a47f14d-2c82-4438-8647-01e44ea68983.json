@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "aksaksemai", 
-            "mb_attribute": "Aksaksemai", 
-            "source": "http://musicbrainz.org/work/9c2d020f-ad46-4909-8fb9-aad6fe985c13"
-        }, 
-        {
-            "attribute_key": "aksaksemai", 
-            "mb_tag": "aksaksemai", 
-            "source": "http://musicbrainz.org/recording/9a47f14d-2c82-4438-8647-01e44ea68983"
-        }
-    ], 
+    "instrumentation_voicing": "solo instrumental", 
     "form": [
         {
             "attribute_key": "sazsemaisi", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "9a47f14d-2c82-4438-8647-01e44ea68983", 
+    "works": [
+        {
+            "mbid": "9c2d020f-ad46-4909-8fb9-aad6fe985c13", 
+            "title": "Hicaz Sazsemaisi"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "hicaz", 
@@ -61,11 +56,16 @@
             "name": "Hulusi Babal\u0131k"
         }
     ], 
-    "instrumentation_voicing": "Solo instrumental", 
-    "works": [
+    "usul": [
         {
-            "mbid": "9c2d020f-ad46-4909-8fb9-aad6fe985c13", 
-            "title": "Hicaz Sazsemaisi"
+            "attribute_key": "aksaksemai", 
+            "mb_attribute": "Aksaksemai", 
+            "source": "http://musicbrainz.org/work/9c2d020f-ad46-4909-8fb9-aad6fe985c13"
+        }, 
+        {
+            "attribute_key": "aksaksemai", 
+            "mb_tag": "aksaksemai", 
+            "source": "http://musicbrainz.org/recording/9a47f14d-2c82-4438-8647-01e44ea68983"
         }
     ]
 }

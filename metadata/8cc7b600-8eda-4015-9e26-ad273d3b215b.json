@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "curcuna", 
-            "mb_attribute": "Curcuna", 
-            "source": "http://musicbrainz.org/work/cac4d311-4042-4e36-95bf-e04f3572c2f0"
-        }, 
-        {
-            "attribute_key": "kapali_curcuna", 
-            "mb_tag": "curcuna", 
-            "source": "http://musicbrainz.org/recording/8cc7b600-8eda-4015-9e26-ad273d3b215b"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "8cc7b600-8eda-4015-9e26-ad273d3b215b", 
+    "works": [
+        {
+            "mbid": "cac4d311-4042-4e36-95bf-e04f3572c2f0", 
+            "title": "Seyrana Geldim Ben Seni"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "suzinak", 
@@ -62,11 +57,16 @@
             "name": "Alaeddin Yava\u015fca"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "cac4d311-4042-4e36-95bf-e04f3572c2f0", 
-            "title": "Seyrana Geldim Ben Seni"
+            "attribute_key": "curcuna", 
+            "mb_attribute": "Curcuna", 
+            "source": "http://musicbrainz.org/work/cac4d311-4042-4e36-95bf-e04f3572c2f0"
+        }, 
+        {
+            "attribute_key": "kapali_curcuna", 
+            "mb_tag": "curcuna", 
+            "source": "http://musicbrainz.org/recording/8cc7b600-8eda-4015-9e26-ad273d3b215b"
         }
     ]
 }

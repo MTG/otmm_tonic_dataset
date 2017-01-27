@@ -1,5 +1,11 @@
 {
-    "instrumentation_voicing": "Solo instrumental", 
+    "usul": [
+        {
+            "attribute_key": "serbest", 
+            "mb_tag": "serbest", 
+            "source": "http://musicbrainz.org/recording/1f78c4a9-68fa-4830-baad-cfa57d51ad45"
+        }
+    ], 
     "form": [
         {
             "attribute_key": "taksim", 
@@ -32,11 +38,5 @@
             "name": "Sava\u015f Zurnac\u0131"
         }
     ], 
-    "usul": [
-        {
-            "attribute_key": "serbest", 
-            "mb_tag": "serbest", 
-            "source": "http://musicbrainz.org/recording/1f78c4a9-68fa-4830-baad-cfa57d51ad45"
-        }
-    ]
+    "instrumentation_voicing": "solo instrumental"
 }

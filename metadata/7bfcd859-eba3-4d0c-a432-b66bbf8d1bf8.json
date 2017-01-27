@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "hafif", 
-            "mb_attribute": "Hafif", 
-            "source": "http://musicbrainz.org/work/1832a5b3-ecc7-45a7-a023-783fb97ad6e1"
-        }, 
-        {
-            "attribute_key": "muhammes", 
-            "mb_tag": "muhammes", 
-            "source": "http://musicbrainz.org/recording/7bfcd859-eba3-4d0c-a432-b66bbf8d1bf8"
-        }
-    ], 
+    "instrumentation_voicing": "ensemble instrumental", 
     "form": [
         {
             "attribute_key": "pesrev", 
@@ -42,6 +31,12 @@
         }
     ], 
     "mbid": "7bfcd859-eba3-4d0c-a432-b66bbf8d1bf8", 
+    "works": [
+        {
+            "mbid": "1832a5b3-ecc7-45a7-a023-783fb97ad6e1", 
+            "title": "Ferahfeza Son Pe\u015frev"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "ferahfeza", 
@@ -96,11 +91,16 @@
             "name": "Vahit Anadolu"
         }
     ], 
-    "instrumentation_voicing": "Ensemble instrumental", 
-    "works": [
+    "usul": [
         {
-            "mbid": "1832a5b3-ecc7-45a7-a023-783fb97ad6e1", 
-            "title": "Ferahfeza Son Pe\u015frev"
+            "attribute_key": "hafif", 
+            "mb_attribute": "Hafif", 
+            "source": "http://musicbrainz.org/work/1832a5b3-ecc7-45a7-a023-783fb97ad6e1"
+        }, 
+        {
+            "attribute_key": "muhammes", 
+            "mb_tag": "muhammes", 
+            "source": "http://musicbrainz.org/recording/7bfcd859-eba3-4d0c-a432-b66bbf8d1bf8"
         }
     ]
 }

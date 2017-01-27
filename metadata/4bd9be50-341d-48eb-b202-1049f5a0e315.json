@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "turkaksagi", 
-            "mb_attribute": "T\u00fcrkaksa\u011f\u0131", 
-            "source": "http://musicbrainz.org/work/c058d3ac-973b-4b04-8367-38a630977148"
-        }, 
-        {
-            "attribute_key": "turkaksagi_ii", 
-            "mb_tag": "t\u00fcrkaksa\u011f\u0131", 
-            "source": "http://musicbrainz.org/recording/4bd9be50-341d-48eb-b202-1049f5a0e315"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "4bd9be50-341d-48eb-b202-1049f5a0e315", 
+    "works": [
+        {
+            "mbid": "c058d3ac-973b-4b04-8367-38a630977148", 
+            "title": "Sevmi\u015fti G\u00f6nl\u00fcm Bir Nev-nihali"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "suzidil", 
@@ -62,11 +57,16 @@
             "name": "Bekir S\u0131dk\u0131 Sezgin"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "c058d3ac-973b-4b04-8367-38a630977148", 
-            "title": "Sevmi\u015fti G\u00f6nl\u00fcm Bir Nev-nihali"
+            "attribute_key": "turkaksagi", 
+            "mb_attribute": "T\u00fcrkaksa\u011f\u0131", 
+            "source": "http://musicbrainz.org/work/c058d3ac-973b-4b04-8367-38a630977148"
+        }, 
+        {
+            "attribute_key": "turkaksagi_ii", 
+            "mb_tag": "t\u00fcrkaksa\u011f\u0131", 
+            "source": "http://musicbrainz.org/recording/4bd9be50-341d-48eb-b202-1049f5a0e315"
         }
     ]
 }

@@ -1,11 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "aksaksemai", 
-            "mb_attribute": "Aksaksemai", 
-            "source": "http://musicbrainz.org/work/a4188c4a-8c7f-4889-b838-d6443aef68dc"
-        }
-    ], 
+    "instrumentation_voicing": "solo instrumental", 
     "form": [
         {
             "attribute_key": "sazsemaisi", 
@@ -33,6 +27,12 @@
         }
     ], 
     "mbid": "94da0278-44a8-446b-8d04-b99a90db9d77", 
+    "works": [
+        {
+            "mbid": "a4188c4a-8c7f-4889-b838-d6443aef68dc", 
+            "title": "Karc\u0131\u011far Sazsemaisi"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "karcigar", 
@@ -55,11 +55,11 @@
             "name": "Salih Bilgin"
         }
     ], 
-    "instrumentation_voicing": "Solo instrumental", 
-    "works": [
+    "usul": [
         {
-            "mbid": "a4188c4a-8c7f-4889-b838-d6443aef68dc", 
-            "title": "Karc\u0131\u011far Sazsemaisi"
+            "attribute_key": "aksaksemai", 
+            "mb_attribute": "Aksaksemai", 
+            "source": "http://musicbrainz.org/work/a4188c4a-8c7f-4889-b838-d6443aef68dc"
         }
     ]
 }

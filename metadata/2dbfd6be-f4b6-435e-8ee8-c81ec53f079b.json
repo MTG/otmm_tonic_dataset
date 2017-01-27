@@ -1,21 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "aksak", 
-            "mb_attribute": "Aksak", 
-            "source": "http://musicbrainz.org/work/a1d5ce79-568b-488f-aef5-1d28a8986320"
-        }, 
-        {
-            "attribute_key": "aksak", 
-            "mb_tag": "aksak", 
-            "source": "http://musicbrainz.org/recording/2dbfd6be-f4b6-435e-8ee8-c81ec53f079b"
-        }, 
-        {
-            "attribute_key": "serbest", 
-            "mb_tag": "serbest", 
-            "source": "http://musicbrainz.org/recording/2dbfd6be-f4b6-435e-8ee8-c81ec53f079b"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -48,6 +32,12 @@
         }
     ], 
     "mbid": "2dbfd6be-f4b6-435e-8ee8-c81ec53f079b", 
+    "works": [
+        {
+            "mbid": "a1d5ce79-568b-488f-aef5-1d28a8986320", 
+            "title": "B\u0131rak\u0131p Gitti\u011fin Ak\u015fam"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "hicaz", 
@@ -235,11 +225,21 @@
             "name": "Tar\u0131k Kemanc\u0131"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "a1d5ce79-568b-488f-aef5-1d28a8986320", 
-            "title": "B\u0131rak\u0131p Gitti\u011fin Ak\u015fam"
+            "attribute_key": "aksak", 
+            "mb_attribute": "Aksak", 
+            "source": "http://musicbrainz.org/work/a1d5ce79-568b-488f-aef5-1d28a8986320"
+        }, 
+        {
+            "attribute_key": "aksak", 
+            "mb_tag": "aksak", 
+            "source": "http://musicbrainz.org/recording/2dbfd6be-f4b6-435e-8ee8-c81ec53f079b"
+        }, 
+        {
+            "attribute_key": "serbest", 
+            "mb_tag": "serbest", 
+            "source": "http://musicbrainz.org/recording/2dbfd6be-f4b6-435e-8ee8-c81ec53f079b"
         }
     ]
 }

@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "aksaksemai", 
-            "mb_attribute": "Aksaksemai", 
-            "source": "http://musicbrainz.org/work/5c687772-8bf7-49cf-8999-e189703ae1b7"
-        }, 
-        {
-            "attribute_key": "aksaksemai", 
-            "mb_tag": "aksaksemai", 
-            "source": "http://musicbrainz.org/recording/66ab24e6-b7a6-48c1-8752-93e2c143ebd2"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "agirsemai", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "66ab24e6-b7a6-48c1-8752-93e2c143ebd2", 
+    "works": [
+        {
+            "mbid": "5c687772-8bf7-49cf-8999-e189703ae1b7", 
+            "title": "Efendimsin Cihanda"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "acem", 
@@ -62,11 +57,16 @@
             "name": "Bekir S\u0131dk\u0131 Sezgin"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "5c687772-8bf7-49cf-8999-e189703ae1b7", 
-            "title": "Efendimsin Cihanda"
+            "attribute_key": "aksaksemai", 
+            "mb_attribute": "Aksaksemai", 
+            "source": "http://musicbrainz.org/work/5c687772-8bf7-49cf-8999-e189703ae1b7"
+        }, 
+        {
+            "attribute_key": "aksaksemai", 
+            "mb_tag": "aksaksemai", 
+            "source": "http://musicbrainz.org/recording/66ab24e6-b7a6-48c1-8752-93e2c143ebd2"
         }
     ]
 }

@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "duyek", 
-            "mb_attribute": "D\u00fcyek", 
-            "source": "http://musicbrainz.org/work/82dd48fa-a1f5-4f02-a8a3-b838c31fd3e1"
-        }, 
-        {
-            "attribute_key": "duyek", 
-            "mb_tag": "d\u00fcyek", 
-            "source": "http://musicbrainz.org/recording/7ac43178-d1ca-40cd-b552-735b518f171f"
-        }
-    ], 
+    "instrumentation_voicing": "solo instrumental", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "7ac43178-d1ca-40cd-b552-735b518f171f", 
+    "works": [
+        {
+            "mbid": "82dd48fa-a1f5-4f02-a8a3-b838c31fd3e1", 
+            "title": "Yemin Ettim Bir Kere"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "rast", 
@@ -60,11 +55,16 @@
             "name": "Ergin K\u0131z\u0131lay"
         }
     ], 
-    "instrumentation_voicing": "Solo instrumental", 
-    "works": [
+    "usul": [
         {
-            "mbid": "82dd48fa-a1f5-4f02-a8a3-b838c31fd3e1", 
-            "title": "Yemin Ettim Bir Kere"
+            "attribute_key": "duyek", 
+            "mb_attribute": "D\u00fcyek", 
+            "source": "http://musicbrainz.org/work/82dd48fa-a1f5-4f02-a8a3-b838c31fd3e1"
+        }, 
+        {
+            "attribute_key": "duyek", 
+            "mb_tag": "d\u00fcyek", 
+            "source": "http://musicbrainz.org/recording/7ac43178-d1ca-40cd-b552-735b518f171f"
         }
     ]
 }

@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "senginsemai", 
-            "mb_attribute": "Senginsemai", 
-            "source": "http://musicbrainz.org/work/ad8704da-e128-457b-9b48-d04ebc187d23"
-        }, 
-        {
-            "attribute_key": "senginsemai", 
-            "mb_tag": "senginsemai", 
-            "source": "http://musicbrainz.org/recording/6552fe4d-493d-440f-b2c2-6bb972ccd0a2"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "6552fe4d-493d-440f-b2c2-6bb972ccd0a2", 
+    "works": [
+        {
+            "mbid": "ad8704da-e128-457b-9b48-d04ebc187d23", 
+            "title": "P\u00fcr-hande \u00c7i\u00e7ekler Dereler"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "acemkurdi", 
@@ -62,11 +57,16 @@
             "name": "Zeki M\u00fcren"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "ad8704da-e128-457b-9b48-d04ebc187d23", 
-            "title": "P\u00fcr-hande \u00c7i\u00e7ekler Dereler"
+            "attribute_key": "senginsemai", 
+            "mb_attribute": "Senginsemai", 
+            "source": "http://musicbrainz.org/work/ad8704da-e128-457b-9b48-d04ebc187d23"
+        }, 
+        {
+            "attribute_key": "senginsemai", 
+            "mb_tag": "senginsemai", 
+            "source": "http://musicbrainz.org/recording/6552fe4d-493d-440f-b2c2-6bb972ccd0a2"
         }
     ]
 }

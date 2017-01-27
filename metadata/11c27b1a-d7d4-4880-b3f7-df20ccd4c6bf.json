@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "duyek", 
-            "mb_attribute": "D\u00fcyek", 
-            "source": "http://musicbrainz.org/work/7c97ffbb-a591-4158-bd1b-f0d5ef84545b"
-        }, 
-        {
-            "attribute_key": "duyek", 
-            "mb_tag": "d\u00fcyek", 
-            "source": "http://musicbrainz.org/recording/11c27b1a-d7d4-4880-b3f7-df20ccd4c6bf"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal without accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "11c27b1a-d7d4-4880-b3f7-df20ccd4c6bf", 
+    "works": [
+        {
+            "mbid": "7c97ffbb-a591-4158-bd1b-f0d5ef84545b", 
+            "title": "Kalplerden Dudaklara"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "nihavent", 
@@ -57,11 +52,16 @@
             "name": "Zeki M\u00fcren"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal without accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "7c97ffbb-a591-4158-bd1b-f0d5ef84545b", 
-            "title": "Kalplerden Dudaklara"
+            "attribute_key": "duyek", 
+            "mb_attribute": "D\u00fcyek", 
+            "source": "http://musicbrainz.org/work/7c97ffbb-a591-4158-bd1b-f0d5ef84545b"
+        }, 
+        {
+            "attribute_key": "duyek", 
+            "mb_tag": "d\u00fcyek", 
+            "source": "http://musicbrainz.org/recording/11c27b1a-d7d4-4880-b3f7-df20ccd4c6bf"
         }
     ]
 }

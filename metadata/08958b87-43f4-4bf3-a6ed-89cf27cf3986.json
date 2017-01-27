@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "hafif", 
-            "mb_attribute": "Hafif", 
-            "source": "http://musicbrainz.org/work/831d4801-0562-491f-922b-f6f987d19b3d"
-        }, 
-        {
-            "attribute_key": "hafif", 
-            "mb_tag": "hafif", 
-            "source": "http://musicbrainz.org/recording/08958b87-43f4-4bf3-a6ed-89cf27cf3986"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "pesrev", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "08958b87-43f4-4bf3-a6ed-89cf27cf3986", 
+    "works": [
+        {
+            "mbid": "831d4801-0562-491f-922b-f6f987d19b3d", 
+            "title": "Beyati Pe\u015frev"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "beyati", 
@@ -129,11 +124,16 @@
             "name": "Nuri G\u00fcn"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "831d4801-0562-491f-922b-f6f987d19b3d", 
-            "title": "Beyati Pe\u015frev"
+            "attribute_key": "hafif", 
+            "mb_attribute": "Hafif", 
+            "source": "http://musicbrainz.org/work/831d4801-0562-491f-922b-f6f987d19b3d"
+        }, 
+        {
+            "attribute_key": "hafif", 
+            "mb_tag": "hafif", 
+            "source": "http://musicbrainz.org/recording/08958b87-43f4-4bf3-a6ed-89cf27cf3986"
         }
     ]
 }

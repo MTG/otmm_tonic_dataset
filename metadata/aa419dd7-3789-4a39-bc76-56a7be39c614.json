@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "nimsofyan", 
-            "mb_attribute": "Nimsofyan", 
-            "source": "http://musicbrainz.org/work/040a9362-abd5-4135-be2c-cb889e083706"
-        }, 
-        {
-            "attribute_key": "nimsofyan", 
-            "mb_tag": "nimsofyan", 
-            "source": "http://musicbrainz.org/recording/aa419dd7-3789-4a39-bc76-56a7be39c614"
-        }
-    ], 
+    "instrumentation_voicing": "solo instrumental", 
     "form": [
         {
             "attribute_key": "sazeseri", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "aa419dd7-3789-4a39-bc76-56a7be39c614", 
+    "works": [
+        {
+            "mbid": "040a9362-abd5-4135-be2c-cb889e083706", 
+            "title": "Kanatlar\u0131m Olsayd\u0131"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "nihavent", 
@@ -60,11 +55,16 @@
             "name": "\u015eerif Muhittin Targan"
         }
     ], 
-    "instrumentation_voicing": "Solo instrumental", 
-    "works": [
+    "usul": [
         {
-            "mbid": "040a9362-abd5-4135-be2c-cb889e083706", 
-            "title": "Kanatlar\u0131m Olsayd\u0131"
+            "attribute_key": "nimsofyan", 
+            "mb_attribute": "Nimsofyan", 
+            "source": "http://musicbrainz.org/work/040a9362-abd5-4135-be2c-cb889e083706"
+        }, 
+        {
+            "attribute_key": "nimsofyan", 
+            "mb_tag": "nimsofyan", 
+            "source": "http://musicbrainz.org/recording/aa419dd7-3789-4a39-bc76-56a7be39c614"
         }
     ]
 }

@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "curcuna", 
-            "mb_attribute": "Curcuna", 
-            "source": "http://musicbrainz.org/work/e7ac1689-7219-44aa-8d1f-45dcb764652d"
-        }, 
-        {
-            "attribute_key": "kapali_curcuna", 
-            "mb_tag": "curcuna", 
-            "source": "http://musicbrainz.org/recording/f6930241-3ed8-4ea4-8faf-ea0d7027ee06"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "f6930241-3ed8-4ea4-8faf-ea0d7027ee06", 
+    "works": [
+        {
+            "mbid": "e7ac1689-7219-44aa-8d1f-45dcb764652d", 
+            "title": "Bizar Ediyor Alemi"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "ussak", 
@@ -62,11 +57,16 @@
             "name": "Bekir S\u0131dk\u0131 Sezgin"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "e7ac1689-7219-44aa-8d1f-45dcb764652d", 
-            "title": "Bizar Ediyor Alemi"
+            "attribute_key": "curcuna", 
+            "mb_attribute": "Curcuna", 
+            "source": "http://musicbrainz.org/work/e7ac1689-7219-44aa-8d1f-45dcb764652d"
+        }, 
+        {
+            "attribute_key": "kapali_curcuna", 
+            "mb_tag": "curcuna", 
+            "source": "http://musicbrainz.org/recording/f6930241-3ed8-4ea4-8faf-ea0d7027ee06"
         }
     ]
 }

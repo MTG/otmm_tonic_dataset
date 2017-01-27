@@ -1,11 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "duyek", 
-            "mb_tag": "d\u00fcyek", 
-            "source": "http://musicbrainz.org/recording/e2292def-492f-465f-9883-540a05a92dcf"
-        }
-    ], 
+    "instrumentation_voicing": "ensemble instrumental", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -28,6 +22,12 @@
         }
     ], 
     "mbid": "e2292def-492f-465f-9883-540a05a92dcf", 
+    "works": [
+        {
+            "mbid": "ff450475-daaf-457f-98e6-9f7c7fb527ab", 
+            "title": "Sevmekten Kim Usan\u0131r"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "rast", 
@@ -42,11 +42,11 @@
             "name": "Aziz T\u00fcrk Sanat M\u00fczi\u011fi Grubu"
         }
     ], 
-    "instrumentation_voicing": "Ensemble instrumental", 
-    "works": [
+    "usul": [
         {
-            "mbid": "ff450475-daaf-457f-98e6-9f7c7fb527ab", 
-            "title": "Sevmekten Kim Usan\u0131r"
+            "attribute_key": "duyek", 
+            "mb_tag": "d\u00fcyek", 
+            "source": "http://musicbrainz.org/recording/e2292def-492f-465f-9883-540a05a92dcf"
         }
     ]
 }

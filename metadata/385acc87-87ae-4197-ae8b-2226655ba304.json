@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "sofyan", 
-            "mb_attribute": "Sofyan", 
-            "source": "http://musicbrainz.org/work/19180bc4-3665-4e53-9207-e0514234e1c3"
-        }, 
-        {
-            "attribute_key": "sofyan", 
-            "mb_tag": "sofyan", 
-            "source": "http://musicbrainz.org/recording/385acc87-87ae-4197-ae8b-2226655ba304"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "385acc87-87ae-4197-ae8b-2226655ba304", 
+    "works": [
+        {
+            "mbid": "19180bc4-3665-4e53-9207-e0514234e1c3", 
+            "title": "A\u015fk Denilen Ate\u015fe Yanal\u0131m M\u0131"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "rast", 
@@ -62,11 +57,16 @@
             "name": "Nazan S\u0131vac\u0131"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "19180bc4-3665-4e53-9207-e0514234e1c3", 
-            "title": "A\u015fk Denilen Ate\u015fe Yanal\u0131m M\u0131"
+            "attribute_key": "sofyan", 
+            "mb_attribute": "Sofyan", 
+            "source": "http://musicbrainz.org/work/19180bc4-3665-4e53-9207-e0514234e1c3"
+        }, 
+        {
+            "attribute_key": "sofyan", 
+            "mb_tag": "sofyan", 
+            "source": "http://musicbrainz.org/recording/385acc87-87ae-4197-ae8b-2226655ba304"
         }
     ]
 }

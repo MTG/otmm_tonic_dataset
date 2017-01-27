@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "duyek", 
-            "mb_attribute": "D\u00fcyek", 
-            "source": "http://musicbrainz.org/work/54691898-821d-4deb-9f1e-a9623edacd7a"
-        }, 
-        {
-            "attribute_key": "duyek", 
-            "mb_tag": "d\u00fcyek", 
-            "source": "http://musicbrainz.org/recording/dc4dabb4-3ea6-4c20-ae84-ca652416ee90"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "dc4dabb4-3ea6-4c20-ae84-ca652416ee90", 
+    "works": [
+        {
+            "mbid": "54691898-821d-4deb-9f1e-a9623edacd7a", 
+            "title": "Hayat Gen\u00e7lik Boyunca"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "sultaniyegah", 
@@ -62,11 +57,16 @@
             "name": "[unknown]"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "54691898-821d-4deb-9f1e-a9623edacd7a", 
-            "title": "Hayat Gen\u00e7lik Boyunca"
+            "attribute_key": "duyek", 
+            "mb_attribute": "D\u00fcyek", 
+            "source": "http://musicbrainz.org/work/54691898-821d-4deb-9f1e-a9623edacd7a"
+        }, 
+        {
+            "attribute_key": "duyek", 
+            "mb_tag": "d\u00fcyek", 
+            "source": "http://musicbrainz.org/recording/dc4dabb4-3ea6-4c20-ae84-ca652416ee90"
         }
     ]
 }

@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "aksak", 
-            "mb_attribute": "Aksak", 
-            "source": "http://musicbrainz.org/work/c99aa41b-fe75-4ba0-ba16-0fd1a67c945b"
-        }, 
-        {
-            "attribute_key": "aksak", 
-            "mb_tag": "aksak", 
-            "source": "http://musicbrainz.org/recording/ff9769d3-81f4-4d30-b6a4-30179f668236"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -42,6 +31,12 @@
         }
     ], 
     "mbid": "ff9769d3-81f4-4d30-b6a4-30179f668236", 
+    "works": [
+        {
+            "mbid": "c99aa41b-fe75-4ba0-ba16-0fd1a67c945b", 
+            "title": "Sen Bu Yerden Gideli"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "hicaz", 
@@ -137,11 +132,16 @@
             "name": "Sedat G\u00fcndiyer"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "c99aa41b-fe75-4ba0-ba16-0fd1a67c945b", 
-            "title": "Sen Bu Yerden Gideli"
+            "attribute_key": "aksak", 
+            "mb_attribute": "Aksak", 
+            "source": "http://musicbrainz.org/work/c99aa41b-fe75-4ba0-ba16-0fd1a67c945b"
+        }, 
+        {
+            "attribute_key": "aksak", 
+            "mb_tag": "aksak", 
+            "source": "http://musicbrainz.org/recording/ff9769d3-81f4-4d30-b6a4-30179f668236"
         }
     ]
 }

@@ -1,21 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "aksak", 
-            "mb_attribute": "Aksak", 
-            "source": "http://musicbrainz.org/work/4ccfe707-49e1-42b9-90a6-9145523c2b73"
-        }, 
-        {
-            "attribute_key": "aksak", 
-            "mb_tag": "aksak", 
-            "source": "http://musicbrainz.org/recording/2d6c58a2-44c7-4616-80c4-8d68c0f1adb8"
-        }, 
-        {
-            "attribute_key": null, 
-            "mb_tag": "\u015fark\u0131", 
-            "source": "http://musicbrainz.org/recording/2d6c58a2-44c7-4616-80c4-8d68c0f1adb8"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -48,6 +32,12 @@
         }
     ], 
     "mbid": "2d6c58a2-44c7-4616-80c4-8d68c0f1adb8", 
+    "works": [
+        {
+            "mbid": "4ccfe707-49e1-42b9-90a6-9145523c2b73", 
+            "title": "\u00c7ekme Elem \u00fc Derdini"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "hicaz", 
@@ -72,11 +62,21 @@
             "name": "Bekir S\u0131dk\u0131 Sezgin"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "4ccfe707-49e1-42b9-90a6-9145523c2b73", 
-            "title": "\u00c7ekme Elem \u00fc Derdini"
+            "attribute_key": "aksak", 
+            "mb_attribute": "Aksak", 
+            "source": "http://musicbrainz.org/work/4ccfe707-49e1-42b9-90a6-9145523c2b73"
+        }, 
+        {
+            "attribute_key": "aksak", 
+            "mb_tag": "aksak", 
+            "source": "http://musicbrainz.org/recording/2d6c58a2-44c7-4616-80c4-8d68c0f1adb8"
+        }, 
+        {
+            "attribute_key": null, 
+            "mb_tag": "\u015fark\u0131", 
+            "source": "http://musicbrainz.org/recording/2d6c58a2-44c7-4616-80c4-8d68c0f1adb8"
         }
     ]
 }

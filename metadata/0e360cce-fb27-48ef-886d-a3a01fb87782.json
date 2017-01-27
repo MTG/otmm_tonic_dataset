@@ -1,11 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "duyek", 
-            "mb_tag": "d\u00fcyek", 
-            "source": "http://musicbrainz.org/recording/0e360cce-fb27-48ef-886d-a3a01fb87782"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -28,6 +22,12 @@
         }
     ], 
     "mbid": "0e360cce-fb27-48ef-886d-a3a01fb87782", 
+    "works": [
+        {
+            "mbid": "23bc0001-e28a-402e-81bd-0f43b2f73c53", 
+            "title": "O muydu?"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "rast", 
@@ -50,11 +50,11 @@
             "name": "Aziz T\u00fcrk Sanat M\u00fczi\u011fi Grubu"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "23bc0001-e28a-402e-81bd-0f43b2f73c53", 
-            "title": "O muydu?"
+            "attribute_key": "duyek", 
+            "mb_tag": "d\u00fcyek", 
+            "source": "http://musicbrainz.org/recording/0e360cce-fb27-48ef-886d-a3a01fb87782"
         }
     ]
 }

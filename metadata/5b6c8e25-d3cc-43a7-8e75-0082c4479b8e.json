@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "yuruksemai", 
-            "mb_attribute": "Y\u00fcr\u00fcksemai", 
-            "source": "http://musicbrainz.org/work/849c23d0-ead7-42f5-b7e3-fa65dfbda2fc"
-        }, 
-        {
-            "attribute_key": "aksaksemai", 
-            "mb_tag": "aksaksemai", 
-            "source": "http://musicbrainz.org/recording/5b6c8e25-d3cc-43a7-8e75-0082c4479b8e"
-        }
-    ], 
+    "instrumentation_voicing": "ensemble instrumental", 
     "form": [
         {
             "attribute_key": "sazsemaisi", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "5b6c8e25-d3cc-43a7-8e75-0082c4479b8e", 
+    "works": [
+        {
+            "mbid": "849c23d0-ead7-42f5-b7e3-fa65dfbda2fc", 
+            "title": "Muhayyer Sazsemaisi"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "muhayyer", 
@@ -84,11 +79,16 @@
             "name": "U\u011fur I\u015f\u0131k"
         }
     ], 
-    "instrumentation_voicing": "Ensemble instrumental", 
-    "works": [
+    "usul": [
         {
-            "mbid": "849c23d0-ead7-42f5-b7e3-fa65dfbda2fc", 
-            "title": "Muhayyer Sazsemaisi"
+            "attribute_key": "yuruksemai", 
+            "mb_attribute": "Y\u00fcr\u00fcksemai", 
+            "source": "http://musicbrainz.org/work/849c23d0-ead7-42f5-b7e3-fa65dfbda2fc"
+        }, 
+        {
+            "attribute_key": "aksaksemai", 
+            "mb_tag": "aksaksemai", 
+            "source": "http://musicbrainz.org/recording/5b6c8e25-d3cc-43a7-8e75-0082c4479b8e"
         }
     ]
 }

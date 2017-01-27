@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "aksaksemai", 
-            "mb_attribute": "Aksaksemai", 
-            "source": "http://musicbrainz.org/work/0c3aa184-4791-4352-a72b-ef1a0db2d638"
-        }, 
-        {
-            "attribute_key": "aksaksemai", 
-            "mb_tag": "aksaksemai", 
-            "source": "http://musicbrainz.org/recording/61c4c9a4-351a-4169-ab14-133ec3452adf"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "agirsemai", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "61c4c9a4-351a-4169-ab14-133ec3452adf", 
+    "works": [
+        {
+            "mbid": "0c3aa184-4791-4352-a72b-ef1a0db2d638", 
+            "title": "Nihan Ettim Seni Sinemde Ey Meh-pare Can\u0131ms\u0131n"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "sultaniyegah", 
@@ -62,11 +57,16 @@
             "name": "Alaeddin Yava\u015fca"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "0c3aa184-4791-4352-a72b-ef1a0db2d638", 
-            "title": "Nihan Ettim Seni Sinemde Ey Meh-pare Can\u0131ms\u0131n"
+            "attribute_key": "aksaksemai", 
+            "mb_attribute": "Aksaksemai", 
+            "source": "http://musicbrainz.org/work/0c3aa184-4791-4352-a72b-ef1a0db2d638"
+        }, 
+        {
+            "attribute_key": "aksaksemai", 
+            "mb_tag": "aksaksemai", 
+            "source": "http://musicbrainz.org/recording/61c4c9a4-351a-4169-ab14-133ec3452adf"
         }
     ]
 }

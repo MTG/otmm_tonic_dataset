@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "duyek", 
-            "mb_attribute": "D\u00fcyek", 
-            "source": "http://musicbrainz.org/work/f37432d4-cce4-411f-847e-87f8b98ba57d"
-        }, 
-        {
-            "attribute_key": "duyek", 
-            "mb_tag": "d\u00fcyek", 
-            "source": "http://musicbrainz.org/recording/3e83ae71-0b22-49b1-b601-a5918063989f"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal without accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "3e83ae71-0b22-49b1-b601-a5918063989f", 
+    "works": [
+        {
+            "mbid": "f37432d4-cce4-411f-847e-87f8b98ba57d", 
+            "title": "Senden Uzak G\u00fcnlerim Zindan Oluyor"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "rast", 
@@ -57,11 +52,16 @@
             "name": "Koray Safkan"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal without accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "f37432d4-cce4-411f-847e-87f8b98ba57d", 
-            "title": "Senden Uzak G\u00fcnlerim Zindan Oluyor"
+            "attribute_key": "duyek", 
+            "mb_attribute": "D\u00fcyek", 
+            "source": "http://musicbrainz.org/work/f37432d4-cce4-411f-847e-87f8b98ba57d"
+        }, 
+        {
+            "attribute_key": "duyek", 
+            "mb_tag": "d\u00fcyek", 
+            "source": "http://musicbrainz.org/recording/3e83ae71-0b22-49b1-b601-a5918063989f"
         }
     ]
 }

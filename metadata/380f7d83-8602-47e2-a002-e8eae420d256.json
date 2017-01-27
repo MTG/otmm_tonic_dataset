@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "curcuna", 
-            "mb_attribute": "Curcuna", 
-            "source": "http://musicbrainz.org/work/1f23231c-13dc-4303-964b-f29db152fa6f"
-        }, 
-        {
-            "attribute_key": "kapali_curcuna", 
-            "mb_tag": "curcuna", 
-            "source": "http://musicbrainz.org/recording/380f7d83-8602-47e2-a002-e8eae420d256"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "380f7d83-8602-47e2-a002-e8eae420d256", 
+    "works": [
+        {
+            "mbid": "1f23231c-13dc-4303-964b-f29db152fa6f", 
+            "title": "Meftunun Oldum Ey Vech-i Ahsen"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "kurdilihicazkar", 
@@ -145,11 +140,16 @@
             "name": "Do\u011fan Ho\u015fses"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "1f23231c-13dc-4303-964b-f29db152fa6f", 
-            "title": "Meftunun Oldum Ey Vech-i Ahsen"
+            "attribute_key": "curcuna", 
+            "mb_attribute": "Curcuna", 
+            "source": "http://musicbrainz.org/work/1f23231c-13dc-4303-964b-f29db152fa6f"
+        }, 
+        {
+            "attribute_key": "kapali_curcuna", 
+            "mb_tag": "curcuna", 
+            "source": "http://musicbrainz.org/recording/380f7d83-8602-47e2-a002-e8eae420d256"
         }
     ]
 }

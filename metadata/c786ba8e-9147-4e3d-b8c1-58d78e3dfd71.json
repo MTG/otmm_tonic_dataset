@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "turkaksagi", 
-            "mb_attribute": "T\u00fcrkaksa\u011f\u0131", 
-            "source": "http://musicbrainz.org/work/f9bda789-3355-4b02-946e-70a8e59f24d4"
-        }, 
-        {
-            "attribute_key": "turkaksagi_ii", 
-            "mb_tag": "t\u00fcrkaksa\u011f\u0131", 
-            "source": "http://musicbrainz.org/recording/c786ba8e-9147-4e3d-b8c1-58d78e3dfd71"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "c786ba8e-9147-4e3d-b8c1-58d78e3dfd71", 
+    "works": [
+        {
+            "mbid": "f9bda789-3355-4b02-946e-70a8e59f24d4", 
+            "title": "Varken G\u00f6n\u00fclde Bin T\u00fcrl\u00fc Yare"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "karcigar", 
@@ -92,11 +87,16 @@
             "name": "Safinaz Rizeli"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "f9bda789-3355-4b02-946e-70a8e59f24d4", 
-            "title": "Varken G\u00f6n\u00fclde Bin T\u00fcrl\u00fc Yare"
+            "attribute_key": "turkaksagi", 
+            "mb_attribute": "T\u00fcrkaksa\u011f\u0131", 
+            "source": "http://musicbrainz.org/work/f9bda789-3355-4b02-946e-70a8e59f24d4"
+        }, 
+        {
+            "attribute_key": "turkaksagi_ii", 
+            "mb_tag": "t\u00fcrkaksa\u011f\u0131", 
+            "source": "http://musicbrainz.org/recording/c786ba8e-9147-4e3d-b8c1-58d78e3dfd71"
         }
     ]
 }

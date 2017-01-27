@@ -1,5 +1,5 @@
 {
-    "usul": [], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "rumeliturkusu", 
@@ -32,6 +32,12 @@
         }
     ], 
     "mbid": "0ca3cad0-ea0d-424a-856f-023df26b2c09", 
+    "works": [
+        {
+            "mbid": "974879f0-62a1-4c1d-88b9-477127aab2e8", 
+            "title": "Aht\u0131m Olsun Giymeyeyim Karalar"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "huzzam", 
@@ -75,11 +81,5 @@
             "name": "Haf\u0131z Kemal Bey"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
-        {
-            "mbid": "974879f0-62a1-4c1d-88b9-477127aab2e8", 
-            "title": "Aht\u0131m Olsun Giymeyeyim Karalar"
-        }
-    ]
+    "usul": []
 }

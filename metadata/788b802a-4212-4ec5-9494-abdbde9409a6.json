@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "curcuna", 
-            "mb_attribute": "Curcuna", 
-            "source": "http://musicbrainz.org/work/bb87c4af-d3d4-4506-86c3-c1a17b43dac0"
-        }, 
-        {
-            "attribute_key": "kapali_curcuna", 
-            "mb_tag": "curcuna", 
-            "source": "http://musicbrainz.org/recording/788b802a-4212-4ec5-9494-abdbde9409a6"
-        }
-    ], 
+    "instrumentation_voicing": "choir", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "788b802a-4212-4ec5-9494-abdbde9409a6", 
+    "works": [
+        {
+            "mbid": "bb87c4af-d3d4-4506-86c3-c1a17b43dac0", 
+            "title": "Neden Kalbim Seni Sevdi"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "acemasiran", 
@@ -148,11 +143,16 @@
             "name": "Safinaz Rizeli"
         }
     ], 
-    "instrumentation_voicing": "Choir", 
-    "works": [
+    "usul": [
         {
-            "mbid": "bb87c4af-d3d4-4506-86c3-c1a17b43dac0", 
-            "title": "Neden Kalbim Seni Sevdi"
+            "attribute_key": "curcuna", 
+            "mb_attribute": "Curcuna", 
+            "source": "http://musicbrainz.org/work/bb87c4af-d3d4-4506-86c3-c1a17b43dac0"
+        }, 
+        {
+            "attribute_key": "kapali_curcuna", 
+            "mb_tag": "curcuna", 
+            "source": "http://musicbrainz.org/recording/788b802a-4212-4ec5-9494-abdbde9409a6"
         }
     ]
 }

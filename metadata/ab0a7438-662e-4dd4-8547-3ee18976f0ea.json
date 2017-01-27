@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "kapali_curcuna", 
-            "mb_tag": "curcuna", 
-            "source": "http://musicbrainz.org/recording/ab0a7438-662e-4dd4-8547-3ee18976f0ea"
-        }, 
-        {
-            "attribute_key": "serbest", 
-            "mb_tag": "serbest", 
-            "source": "http://musicbrainz.org/recording/ab0a7438-662e-4dd4-8547-3ee18976f0ea"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -43,6 +32,12 @@
         }
     ], 
     "mbid": "ab0a7438-662e-4dd4-8547-3ee18976f0ea", 
+    "works": [
+        {
+            "mbid": "0351730d-db18-44a9-ac66-fd6ee5217afd", 
+            "title": "Seven Yok Sevdi\u011fim Dil-hun Eder"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "huseyni", 
@@ -230,11 +225,16 @@
             "name": "Tar\u0131k Kemanc\u0131"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "0351730d-db18-44a9-ac66-fd6ee5217afd", 
-            "title": "Seven Yok Sevdi\u011fim Dil-hun Eder"
+            "attribute_key": "kapali_curcuna", 
+            "mb_tag": "curcuna", 
+            "source": "http://musicbrainz.org/recording/ab0a7438-662e-4dd4-8547-3ee18976f0ea"
+        }, 
+        {
+            "attribute_key": "serbest", 
+            "mb_tag": "serbest", 
+            "source": "http://musicbrainz.org/recording/ab0a7438-662e-4dd4-8547-3ee18976f0ea"
         }
     ]
 }

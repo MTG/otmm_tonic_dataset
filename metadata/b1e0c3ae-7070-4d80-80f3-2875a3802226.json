@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "duyek", 
-            "mb_attribute": "D\u00fcyek", 
-            "source": "http://musicbrainz.org/work/c889e665-c35f-44ed-97b2-cffaa7f7f0c7"
-        }, 
-        {
-            "attribute_key": "duyek", 
-            "mb_tag": "d\u00fcyek", 
-            "source": "http://musicbrainz.org/recording/b1e0c3ae-7070-4d80-80f3-2875a3802226"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "b1e0c3ae-7070-4d80-80f3-2875a3802226", 
+    "works": [
+        {
+            "mbid": "c889e665-c35f-44ed-97b2-cffaa7f7f0c7", 
+            "title": "Belki Bir Sabah Geleceksin"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "rast", 
@@ -108,11 +103,16 @@
             "name": "\u015eule \u00c7akar"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "c889e665-c35f-44ed-97b2-cffaa7f7f0c7", 
-            "title": "Belki Bir Sabah Geleceksin"
+            "attribute_key": "duyek", 
+            "mb_attribute": "D\u00fcyek", 
+            "source": "http://musicbrainz.org/work/c889e665-c35f-44ed-97b2-cffaa7f7f0c7"
+        }, 
+        {
+            "attribute_key": "duyek", 
+            "mb_tag": "d\u00fcyek", 
+            "source": "http://musicbrainz.org/recording/b1e0c3ae-7070-4d80-80f3-2875a3802226"
         }
     ]
 }

@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "sofyan", 
-            "mb_attribute": "Sofyan", 
-            "source": "http://musicbrainz.org/work/2f6dd6b3-031d-4559-aa1f-64da831d4411"
-        }, 
-        {
-            "attribute_key": "sofyan", 
-            "mb_tag": "sofyan", 
-            "source": "http://musicbrainz.org/recording/558a6be4-1de4-4486-bc8f-f348c2d02c82"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal without accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "558a6be4-1de4-4486-bc8f-f348c2d02c82", 
+    "works": [
+        {
+            "mbid": "2f6dd6b3-031d-4559-aa1f-64da831d4411", 
+            "title": "S\u00f6yle Git A\u011flanacak Halini Dildare G\u00f6n\u00fcl"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "bestenigar", 
@@ -57,11 +52,16 @@
             "name": "Bekir S\u0131dk\u0131 Sezgin"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal without accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "2f6dd6b3-031d-4559-aa1f-64da831d4411", 
-            "title": "S\u00f6yle Git A\u011flanacak Halini Dildare G\u00f6n\u00fcl"
+            "attribute_key": "sofyan", 
+            "mb_attribute": "Sofyan", 
+            "source": "http://musicbrainz.org/work/2f6dd6b3-031d-4559-aa1f-64da831d4411"
+        }, 
+        {
+            "attribute_key": "sofyan", 
+            "mb_tag": "sofyan", 
+            "source": "http://musicbrainz.org/recording/558a6be4-1de4-4486-bc8f-f348c2d02c82"
         }
     ]
 }

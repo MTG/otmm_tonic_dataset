@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "sofyan", 
-            "mb_attribute": "Sofyan", 
-            "source": "http://musicbrainz.org/work/f1c64982-8ff2-4d1e-a579-fa4ee562ee3b"
-        }, 
-        {
-            "attribute_key": "sofyan", 
-            "mb_tag": "sofyan", 
-            "source": "http://musicbrainz.org/recording/020be96d-54c2-440e-9e91-c17f242b1dbb"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "020be96d-54c2-440e-9e91-c17f242b1dbb", 
+    "works": [
+        {
+            "mbid": "f1c64982-8ff2-4d1e-a579-fa4ee562ee3b", 
+            "title": "I\u015f\u0131l I\u015f\u0131l G\u00f6zlerinde Siyah Sa\u00e7\u0131n Rengi Mi Var"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "nihavent", 
@@ -62,11 +57,16 @@
             "name": "Bahad\u0131r \u00d6z\u00fc\u015fen"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "f1c64982-8ff2-4d1e-a579-fa4ee562ee3b", 
-            "title": "I\u015f\u0131l I\u015f\u0131l G\u00f6zlerinde Siyah Sa\u00e7\u0131n Rengi Mi Var"
+            "attribute_key": "sofyan", 
+            "mb_attribute": "Sofyan", 
+            "source": "http://musicbrainz.org/work/f1c64982-8ff2-4d1e-a579-fa4ee562ee3b"
+        }, 
+        {
+            "attribute_key": "sofyan", 
+            "mb_tag": "sofyan", 
+            "source": "http://musicbrainz.org/recording/020be96d-54c2-440e-9e91-c17f242b1dbb"
         }
     ]
 }

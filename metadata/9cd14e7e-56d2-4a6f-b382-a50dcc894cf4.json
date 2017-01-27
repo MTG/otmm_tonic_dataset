@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "semai", 
-            "mb_attribute": "Semai", 
-            "source": "http://musicbrainz.org/work/f4da85b4-abc7-4c81-b585-04f0a882f486"
-        }, 
-        {
-            "attribute_key": "semai", 
-            "mb_tag": "semai", 
-            "source": "http://musicbrainz.org/recording/9cd14e7e-56d2-4a6f-b382-a50dcc894cf4"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "turku", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "9cd14e7e-56d2-4a6f-b382-a50dcc894cf4", 
+    "works": [
+        {
+            "mbid": "f4da85b4-abc7-4c81-b585-04f0a882f486", 
+            "title": "G\u00fcl A\u011fac\u0131"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "rast", 
@@ -225,11 +220,16 @@
             "name": "Bekir \u00dcnl\u00fcataer"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "f4da85b4-abc7-4c81-b585-04f0a882f486", 
-            "title": "G\u00fcl A\u011fac\u0131"
+            "attribute_key": "semai", 
+            "mb_attribute": "Semai", 
+            "source": "http://musicbrainz.org/work/f4da85b4-abc7-4c81-b585-04f0a882f486"
+        }, 
+        {
+            "attribute_key": "semai", 
+            "mb_tag": "semai", 
+            "source": "http://musicbrainz.org/recording/9cd14e7e-56d2-4a6f-b382-a50dcc894cf4"
         }
     ]
 }

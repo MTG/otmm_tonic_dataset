@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "aksak", 
-            "mb_attribute": "Aksak", 
-            "source": "http://musicbrainz.org/work/f3651822-56e9-4143-a7a5-79e024ea282e"
-        }, 
-        {
-            "attribute_key": "aksak", 
-            "mb_tag": "aksak", 
-            "source": "http://musicbrainz.org/recording/f3cf3c22-d96d-4d36-9562-ea5551f104c0"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal without accompaniment", 
     "form": [
         {
             "attribute_key": "turku", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "f3cf3c22-d96d-4d36-9562-ea5551f104c0", 
+    "works": [
+        {
+            "mbid": "f3651822-56e9-4143-a7a5-79e024ea282e", 
+            "title": "K\u00fcffar San\u0131r H\u00fcccet Alm\u0131\u015f E\u011fri'ye"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "acemasiran", 
@@ -57,11 +52,16 @@
             "name": "Radife Erten"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal without accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "f3651822-56e9-4143-a7a5-79e024ea282e", 
-            "title": "K\u00fcffar San\u0131r H\u00fcccet Alm\u0131\u015f E\u011fri'ye"
+            "attribute_key": "aksak", 
+            "mb_attribute": "Aksak", 
+            "source": "http://musicbrainz.org/work/f3651822-56e9-4143-a7a5-79e024ea282e"
+        }, 
+        {
+            "attribute_key": "aksak", 
+            "mb_tag": "aksak", 
+            "source": "http://musicbrainz.org/recording/f3cf3c22-d96d-4d36-9562-ea5551f104c0"
         }
     ]
 }

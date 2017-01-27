@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "muhammes", 
-            "mb_attribute": "Muhammes", 
-            "source": "http://musicbrainz.org/work/7d5ff1f5-8402-4e9a-868e-8ad48aaa8847"
-        }, 
-        {
-            "attribute_key": "muhammes", 
-            "mb_tag": "muhammes", 
-            "source": "http://musicbrainz.org/recording/c815f87b-dedb-45cd-9c7b-e5ed04dd3ab6"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal without accompaniment", 
     "form": [
         {
             "attribute_key": "beste", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "c815f87b-dedb-45cd-9c7b-e5ed04dd3ab6", 
+    "works": [
+        {
+            "mbid": "7d5ff1f5-8402-4e9a-868e-8ad48aaa8847", 
+            "title": "D\u00fc\u015fse Z\u00fclf\u00fcnden"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "hicaz", 
@@ -57,11 +52,16 @@
             "name": "Sadettin Kaynak"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal without accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "7d5ff1f5-8402-4e9a-868e-8ad48aaa8847", 
-            "title": "D\u00fc\u015fse Z\u00fclf\u00fcnden"
+            "attribute_key": "muhammes", 
+            "mb_attribute": "Muhammes", 
+            "source": "http://musicbrainz.org/work/7d5ff1f5-8402-4e9a-868e-8ad48aaa8847"
+        }, 
+        {
+            "attribute_key": "muhammes", 
+            "mb_tag": "muhammes", 
+            "source": "http://musicbrainz.org/recording/c815f87b-dedb-45cd-9c7b-e5ed04dd3ab6"
         }
     ]
 }

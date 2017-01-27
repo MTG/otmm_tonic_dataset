@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "kapali_curcuna", 
-            "mb_attribute": "Kapal\u0131 Curcuna", 
-            "source": "http://musicbrainz.org/work/f8a79c74-cb05-328a-924e-fc751733763b"
-        }, 
-        {
-            "attribute_key": "kapali_curcuna", 
-            "mb_tag": "curcuna", 
-            "source": "http://musicbrainz.org/recording/5967d486-1226-44c7-baa6-88e4c68da88e"
-        }
-    ], 
+    "instrumentation_voicing": "duo instrumental", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -42,6 +31,12 @@
         }
     ], 
     "mbid": "5967d486-1226-44c7-baa6-88e4c68da88e", 
+    "works": [
+        {
+            "mbid": "f8a79c74-cb05-328a-924e-fc751733763b", 
+            "title": "Kimseye Etmem \u015eikayet"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "nihavent", 
@@ -72,11 +67,16 @@
             "name": "Min\u00f6r"
         }
     ], 
-    "instrumentation_voicing": "Duo instrumental", 
-    "works": [
+    "usul": [
         {
-            "mbid": "f8a79c74-cb05-328a-924e-fc751733763b", 
-            "title": "Kimseye Etmem \u015eikayet"
+            "attribute_key": "kapali_curcuna", 
+            "mb_attribute": "Kapal\u0131 Curcuna", 
+            "source": "http://musicbrainz.org/work/f8a79c74-cb05-328a-924e-fc751733763b"
+        }, 
+        {
+            "attribute_key": "kapali_curcuna", 
+            "mb_tag": "curcuna", 
+            "source": "http://musicbrainz.org/recording/5967d486-1226-44c7-baa6-88e4c68da88e"
         }
     ]
 }

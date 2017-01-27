@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "turkaksagi", 
-            "mb_attribute": "T\u00fcrkaksa\u011f\u0131", 
-            "source": "http://musicbrainz.org/work/06ed2bb0-5fea-4e48-9a33-2e1657e5f79a"
-        }, 
-        {
-            "attribute_key": "turkaksagi_ii", 
-            "mb_tag": "t\u00fcrkaksa\u011f\u0131", 
-            "source": "http://musicbrainz.org/recording/56b567da-b428-45cd-b76a-b944a91bf876"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "56b567da-b428-45cd-b76a-b944a91bf876", 
+    "works": [
+        {
+            "mbid": "06ed2bb0-5fea-4e48-9a33-2e1657e5f79a", 
+            "title": "Hicran Oku Sinem Deler"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "huseyni", 
@@ -100,11 +95,16 @@
             "name": "Seyhun \u00c7elik"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "06ed2bb0-5fea-4e48-9a33-2e1657e5f79a", 
-            "title": "Hicran Oku Sinem Deler"
+            "attribute_key": "turkaksagi", 
+            "mb_attribute": "T\u00fcrkaksa\u011f\u0131", 
+            "source": "http://musicbrainz.org/work/06ed2bb0-5fea-4e48-9a33-2e1657e5f79a"
+        }, 
+        {
+            "attribute_key": "turkaksagi_ii", 
+            "mb_tag": "t\u00fcrkaksa\u011f\u0131", 
+            "source": "http://musicbrainz.org/recording/56b567da-b428-45cd-b76a-b944a91bf876"
         }
     ]
 }

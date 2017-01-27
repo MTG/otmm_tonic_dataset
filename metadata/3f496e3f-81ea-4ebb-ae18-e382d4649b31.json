@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "nimsofyan", 
-            "mb_attribute": "Nimsofyan", 
-            "source": "http://musicbrainz.org/work/f62b5ca1-b73c-4cd9-a1af-b0d35029e1d1"
-        }, 
-        {
-            "attribute_key": "nimsofyan", 
-            "mb_tag": "nimsofyan", 
-            "source": "http://musicbrainz.org/recording/3f496e3f-81ea-4ebb-ae18-e382d4649b31"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "3f496e3f-81ea-4ebb-ae18-e382d4649b31", 
+    "works": [
+        {
+            "mbid": "f62b5ca1-b73c-4cd9-a1af-b0d35029e1d1", 
+            "title": "Sularda Kaybolurken"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "acemkurdi", 
@@ -73,11 +68,16 @@
             "name": "Nevzat S\u00fcmer"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "f62b5ca1-b73c-4cd9-a1af-b0d35029e1d1", 
-            "title": "Sularda Kaybolurken"
+            "attribute_key": "nimsofyan", 
+            "mb_attribute": "Nimsofyan", 
+            "source": "http://musicbrainz.org/work/f62b5ca1-b73c-4cd9-a1af-b0d35029e1d1"
+        }, 
+        {
+            "attribute_key": "nimsofyan", 
+            "mb_tag": "nimsofyan", 
+            "source": "http://musicbrainz.org/recording/3f496e3f-81ea-4ebb-ae18-e382d4649b31"
         }
     ]
 }

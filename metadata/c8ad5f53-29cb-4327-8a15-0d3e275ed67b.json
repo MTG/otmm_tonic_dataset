@@ -1,11 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "serbest", 
-            "mb_attribute": "Serbest", 
-            "source": "http://musicbrainz.org/work/44c1a878-9e0e-43e6-982c-0e02b864b6ea"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal without accompaniment", 
     "form": [
         {
             "attribute_key": "ezan", 
@@ -33,6 +27,12 @@
         }
     ], 
     "mbid": "c8ad5f53-29cb-4327-8a15-0d3e275ed67b", 
+    "works": [
+        {
+            "mbid": "44c1a878-9e0e-43e6-982c-0e02b864b6ea", 
+            "title": "Saba Ezan\u0131"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "saba", 
@@ -55,11 +55,11 @@
             "name": "Kani Karaca"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal without accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "44c1a878-9e0e-43e6-982c-0e02b864b6ea", 
-            "title": "Saba Ezan\u0131"
+            "attribute_key": "serbest", 
+            "mb_attribute": "Serbest", 
+            "source": "http://musicbrainz.org/work/44c1a878-9e0e-43e6-982c-0e02b864b6ea"
         }
     ]
 }

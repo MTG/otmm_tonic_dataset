@@ -1,5 +1,11 @@
 {
-    "instrumentation_voicing": "Solo instrumental", 
+    "usul": [
+        {
+            "attribute_key": "serbest", 
+            "mb_tag": "serbest", 
+            "source": "http://musicbrainz.org/recording/7aae8fd0-345c-4ccc-a5a5-326069112b4f"
+        }
+    ], 
     "form": [
         {
             "attribute_key": "taksim", 
@@ -43,11 +49,5 @@
             "name": "Derya T\u00fcrkan"
         }
     ], 
-    "usul": [
-        {
-            "attribute_key": "serbest", 
-            "mb_tag": "serbest", 
-            "source": "http://musicbrainz.org/recording/7aae8fd0-345c-4ccc-a5a5-326069112b4f"
-        }
-    ]
+    "instrumentation_voicing": "solo instrumental"
 }

@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "curcuna", 
-            "mb_attribute": "Curcuna", 
-            "source": "http://musicbrainz.org/work/86060905-449e-42fb-8409-a0beebbda98b"
-        }, 
-        {
-            "attribute_key": "kapali_curcuna", 
-            "mb_tag": "curcuna", 
-            "source": "http://musicbrainz.org/recording/f925a8a6-5754-4d7d-a891-0b2b13c1f34f"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "f925a8a6-5754-4d7d-a891-0b2b13c1f34f", 
+    "works": [
+        {
+            "mbid": "86060905-449e-42fb-8409-a0beebbda98b", 
+            "title": "Demem Cana Beni Yad Et"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "hicaz", 
@@ -62,11 +57,16 @@
             "name": "Bekir S\u0131dk\u0131 Sezgin"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "86060905-449e-42fb-8409-a0beebbda98b", 
-            "title": "Demem Cana Beni Yad Et"
+            "attribute_key": "curcuna", 
+            "mb_attribute": "Curcuna", 
+            "source": "http://musicbrainz.org/work/86060905-449e-42fb-8409-a0beebbda98b"
+        }, 
+        {
+            "attribute_key": "kapali_curcuna", 
+            "mb_tag": "curcuna", 
+            "source": "http://musicbrainz.org/recording/f925a8a6-5754-4d7d-a891-0b2b13c1f34f"
         }
     ]
 }

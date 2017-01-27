@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "nimsofyan", 
-            "mb_attribute": "Nimsofyan", 
-            "source": "http://musicbrainz.org/work/413364a2-fbed-4f89-8e4e-fc1a35700b42"
-        }, 
-        {
-            "attribute_key": "nimsofyan", 
-            "mb_tag": "nimsofyan", 
-            "source": "http://musicbrainz.org/recording/391ad327-e834-42c6-baf0-35e81582ef63"
-        }
-    ], 
+    "instrumentation_voicing": "trio instrumental", 
     "form": [
         {
             "attribute_key": "sazeseri", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "391ad327-e834-42c6-baf0-35e81582ef63", 
+    "works": [
+        {
+            "mbid": "413364a2-fbed-4f89-8e4e-fc1a35700b42", 
+            "title": "Hicazkar Saz Eseri"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "hicazkar", 
@@ -76,11 +71,16 @@
             "name": "Osman Nuri \u00d6zpekel"
         }
     ], 
-    "instrumentation_voicing": "Trio instrumental", 
-    "works": [
+    "usul": [
         {
-            "mbid": "413364a2-fbed-4f89-8e4e-fc1a35700b42", 
-            "title": "Hicazkar Saz Eseri"
+            "attribute_key": "nimsofyan", 
+            "mb_attribute": "Nimsofyan", 
+            "source": "http://musicbrainz.org/work/413364a2-fbed-4f89-8e4e-fc1a35700b42"
+        }, 
+        {
+            "attribute_key": "nimsofyan", 
+            "mb_tag": "nimsofyan", 
+            "source": "http://musicbrainz.org/recording/391ad327-e834-42c6-baf0-35e81582ef63"
         }
     ]
 }

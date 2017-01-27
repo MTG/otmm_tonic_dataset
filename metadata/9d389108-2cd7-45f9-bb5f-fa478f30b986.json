@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "curcuna", 
-            "mb_attribute": "Curcuna", 
-            "source": "http://musicbrainz.org/work/1fd39fb7-2fa3-4612-a08b-18ac7d2ab04d"
-        }, 
-        {
-            "attribute_key": "kapali_curcuna", 
-            "mb_tag": "curcuna", 
-            "source": "http://musicbrainz.org/recording/9d389108-2cd7-45f9-bb5f-fa478f30b986"
-        }
-    ], 
+    "instrumentation_voicing": "choir", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "9d389108-2cd7-45f9-bb5f-fa478f30b986", 
+    "works": [
+        {
+            "mbid": "1fd39fb7-2fa3-4612-a08b-18ac7d2ab04d", 
+            "title": "A\u011flam\u0131\u015f G\u00fclm\u00fc\u015f Cefaya Durmadan Yanm\u0131\u015f G\u00f6n\u00fcl"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "hicaz", 
@@ -156,11 +151,16 @@
             "name": "Safinaz Rizeli"
         }
     ], 
-    "instrumentation_voicing": "Choir", 
-    "works": [
+    "usul": [
         {
-            "mbid": "1fd39fb7-2fa3-4612-a08b-18ac7d2ab04d", 
-            "title": "A\u011flam\u0131\u015f G\u00fclm\u00fc\u015f Cefaya Durmadan Yanm\u0131\u015f G\u00f6n\u00fcl"
+            "attribute_key": "curcuna", 
+            "mb_attribute": "Curcuna", 
+            "source": "http://musicbrainz.org/work/1fd39fb7-2fa3-4612-a08b-18ac7d2ab04d"
+        }, 
+        {
+            "attribute_key": "kapali_curcuna", 
+            "mb_tag": "curcuna", 
+            "source": "http://musicbrainz.org/recording/9d389108-2cd7-45f9-bb5f-fa478f30b986"
         }
     ]
 }

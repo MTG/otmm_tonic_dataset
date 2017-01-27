@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "fahte", 
-            "mb_attribute": "Fahte", 
-            "source": "http://musicbrainz.org/work/995e922d-ef6a-456a-b1e0-23250330d188"
-        }, 
-        {
-            "attribute_key": "fahte", 
-            "mb_tag": "fahte", 
-            "source": "http://musicbrainz.org/recording/d505445e-7ed9-47b5-88b2-86c869be9f52"
-        }
-    ], 
+    "instrumentation_voicing": "ensemble instrumental", 
     "form": [
         {
             "attribute_key": "pesrev", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "d505445e-7ed9-47b5-88b2-86c869be9f52", 
+    "works": [
+        {
+            "mbid": "995e922d-ef6a-456a-b1e0-23250330d188", 
+            "title": "Hicaz Pe\u015frev"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "hicaz", 
@@ -57,11 +52,16 @@
             "name": "[unknown]"
         }
     ], 
-    "instrumentation_voicing": "Ensemble instrumental", 
-    "works": [
+    "usul": [
         {
-            "mbid": "995e922d-ef6a-456a-b1e0-23250330d188", 
-            "title": "Hicaz Pe\u015frev"
+            "attribute_key": "fahte", 
+            "mb_attribute": "Fahte", 
+            "source": "http://musicbrainz.org/work/995e922d-ef6a-456a-b1e0-23250330d188"
+        }, 
+        {
+            "attribute_key": "fahte", 
+            "mb_tag": "fahte", 
+            "source": "http://musicbrainz.org/recording/d505445e-7ed9-47b5-88b2-86c869be9f52"
         }
     ]
 }

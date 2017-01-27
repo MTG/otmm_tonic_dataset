@@ -1,11 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "sofyan", 
-            "mb_tag": "sofyan", 
-            "source": "http://musicbrainz.org/recording/4b6bb137-87d7-42b2-a349-f06f40bdb98a"
-        }
-    ], 
+    "instrumentation_voicing": "solo instrumental", 
     "form": [
         {
             "attribute_key": "kasaphavasi", 
@@ -33,6 +27,12 @@
         }
     ], 
     "mbid": "4b6bb137-87d7-42b2-a349-f06f40bdb98a", 
+    "works": [
+        {
+            "mbid": "6df7b919-91e0-44e3-9e98-4807a1fa6458", 
+            "title": "Sak\u0131z Kasap Havas\u0131"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "suzinak", 
@@ -55,11 +55,11 @@
             "name": "Udi Yorgo Bacanos"
         }
     ], 
-    "instrumentation_voicing": "Solo instrumental", 
-    "works": [
+    "usul": [
         {
-            "mbid": "6df7b919-91e0-44e3-9e98-4807a1fa6458", 
-            "title": "Sak\u0131z Kasap Havas\u0131"
+            "attribute_key": "sofyan", 
+            "mb_tag": "sofyan", 
+            "source": "http://musicbrainz.org/recording/4b6bb137-87d7-42b2-a349-f06f40bdb98a"
         }
     ]
 }

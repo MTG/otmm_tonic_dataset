@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "aksak", 
-            "mb_attribute": "Aksak", 
-            "source": "http://musicbrainz.org/work/add497a1-e469-4642-893e-409999b56fc7"
-        }, 
-        {
-            "attribute_key": "aksak", 
-            "mb_tag": "aksak", 
-            "source": "http://musicbrainz.org/recording/fc99ad70-9a45-477e-8760-be8ad5773785"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "fc99ad70-9a45-477e-8760-be8ad5773785", 
+    "works": [
+        {
+            "mbid": "add497a1-e469-4642-893e-409999b56fc7", 
+            "title": "Meyhane mi Bu"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "ussak", 
@@ -62,11 +57,16 @@
             "name": "Bekir S\u0131dk\u0131 Sezgin"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "add497a1-e469-4642-893e-409999b56fc7", 
-            "title": "Meyhane mi Bu"
+            "attribute_key": "aksak", 
+            "mb_attribute": "Aksak", 
+            "source": "http://musicbrainz.org/work/add497a1-e469-4642-893e-409999b56fc7"
+        }, 
+        {
+            "attribute_key": "aksak", 
+            "mb_tag": "aksak", 
+            "source": "http://musicbrainz.org/recording/fc99ad70-9a45-477e-8760-be8ad5773785"
         }
     ]
 }

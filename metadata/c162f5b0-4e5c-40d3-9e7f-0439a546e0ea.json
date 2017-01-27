@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "yuruksemai", 
-            "mb_attribute": "Y\u00fcr\u00fcksemai", 
-            "source": "http://musicbrainz.org/work/a2acc29a-fe3e-4346-8d62-457a6857cfeb"
-        }, 
-        {
-            "attribute_key": "yuruksemai", 
-            "mb_tag": "y\u00fcr\u00fcksemai", 
-            "source": "http://musicbrainz.org/recording/c162f5b0-4e5c-40d3-9e7f-0439a546e0ea"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal without accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "c162f5b0-4e5c-40d3-9e7f-0439a546e0ea", 
+    "works": [
+        {
+            "mbid": "a2acc29a-fe3e-4346-8d62-457a6857cfeb", 
+            "title": "Bu Y\u0131l Da B\u00f6yle Ge\u00e7ti"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "kurdilihicazkar", 
@@ -57,11 +52,16 @@
             "name": "M\u00fcnir Nurettin Sel\u00e7uk"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal without accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "a2acc29a-fe3e-4346-8d62-457a6857cfeb", 
-            "title": "Bu Y\u0131l Da B\u00f6yle Ge\u00e7ti"
+            "attribute_key": "yuruksemai", 
+            "mb_attribute": "Y\u00fcr\u00fcksemai", 
+            "source": "http://musicbrainz.org/work/a2acc29a-fe3e-4346-8d62-457a6857cfeb"
+        }, 
+        {
+            "attribute_key": "yuruksemai", 
+            "mb_tag": "y\u00fcr\u00fcksemai", 
+            "source": "http://musicbrainz.org/recording/c162f5b0-4e5c-40d3-9e7f-0439a546e0ea"
         }
     ]
 }

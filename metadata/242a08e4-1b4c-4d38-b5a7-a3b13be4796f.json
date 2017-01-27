@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "agiraksak", 
-            "mb_attribute": "A\u011f\u0131raksak", 
-            "source": "http://musicbrainz.org/work/20040cbe-924a-4975-a0c8-1541037c52d9"
-        }, 
-        {
-            "attribute_key": "agiraksak", 
-            "mb_tag": "a\u011f\u0131raksak", 
-            "source": "http://musicbrainz.org/recording/242a08e4-1b4c-4d38-b5a7-a3b13be4796f"
-        }
-    ], 
+    "instrumentation_voicing": "ensemble instrumental", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "242a08e4-1b4c-4d38-b5a7-a3b13be4796f", 
+    "works": [
+        {
+            "mbid": "20040cbe-924a-4975-a0c8-1541037c52d9", 
+            "title": "Koparan Sinemi A\u011fyar Elidir"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "kurdilihicazkar", 
@@ -57,11 +52,16 @@
             "name": "[unknown]"
         }
     ], 
-    "instrumentation_voicing": "Ensemble instrumental", 
-    "works": [
+    "usul": [
         {
-            "mbid": "20040cbe-924a-4975-a0c8-1541037c52d9", 
-            "title": "Koparan Sinemi A\u011fyar Elidir"
+            "attribute_key": "agiraksak", 
+            "mb_attribute": "A\u011f\u0131raksak", 
+            "source": "http://musicbrainz.org/work/20040cbe-924a-4975-a0c8-1541037c52d9"
+        }, 
+        {
+            "attribute_key": "agiraksak", 
+            "mb_tag": "a\u011f\u0131raksak", 
+            "source": "http://musicbrainz.org/recording/242a08e4-1b4c-4d38-b5a7-a3b13be4796f"
         }
     ]
 }

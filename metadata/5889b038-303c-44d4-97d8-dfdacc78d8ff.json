@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "aksaksemai", 
-            "mb_attribute": "Aksaksemai", 
-            "source": "http://musicbrainz.org/work/8457bce2-07f0-4502-ae86-19b61c6bb77e"
-        }, 
-        {
-            "attribute_key": "aksaksemai", 
-            "mb_tag": "aksaksemai", 
-            "source": "http://musicbrainz.org/recording/5889b038-303c-44d4-97d8-dfdacc78d8ff"
-        }
-    ], 
+    "instrumentation_voicing": "solo instrumental", 
     "form": [
         {
             "attribute_key": "sazsemaisi", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "5889b038-303c-44d4-97d8-dfdacc78d8ff", 
+    "works": [
+        {
+            "mbid": "8457bce2-07f0-4502-ae86-19b61c6bb77e", 
+            "title": "Yegah Sazsemaisi"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "yegah", 
@@ -60,11 +55,16 @@
             "name": "Murat Aydemir"
         }
     ], 
-    "instrumentation_voicing": "Solo instrumental", 
-    "works": [
+    "usul": [
         {
-            "mbid": "8457bce2-07f0-4502-ae86-19b61c6bb77e", 
-            "title": "Yegah Sazsemaisi"
+            "attribute_key": "aksaksemai", 
+            "mb_attribute": "Aksaksemai", 
+            "source": "http://musicbrainz.org/work/8457bce2-07f0-4502-ae86-19b61c6bb77e"
+        }, 
+        {
+            "attribute_key": "aksaksemai", 
+            "mb_tag": "aksaksemai", 
+            "source": "http://musicbrainz.org/recording/5889b038-303c-44d4-97d8-dfdacc78d8ff"
         }
     ]
 }

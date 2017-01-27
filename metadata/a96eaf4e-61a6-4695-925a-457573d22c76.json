@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "semai", 
-            "mb_attribute": "Semai", 
-            "source": "http://musicbrainz.org/work/c0ab3e07-f978-49ea-b115-619f39e1fe9b"
-        }, 
-        {
-            "attribute_key": "semai", 
-            "mb_tag": "semai", 
-            "source": "http://musicbrainz.org/recording/a96eaf4e-61a6-4695-925a-457573d22c76"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "a96eaf4e-61a6-4695-925a-457573d22c76", 
+    "works": [
+        {
+            "mbid": "c0ab3e07-f978-49ea-b115-619f39e1fe9b", 
+            "title": "Kim G\u00f6rse Seni A\u015fk\u0131na Hasr-\u0131"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "hicaz", 
@@ -62,11 +57,16 @@
             "name": "Bekir S\u0131dk\u0131 Sezgin"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "c0ab3e07-f978-49ea-b115-619f39e1fe9b", 
-            "title": "Kim G\u00f6rse Seni A\u015fk\u0131na Hasr-\u0131"
+            "attribute_key": "semai", 
+            "mb_attribute": "Semai", 
+            "source": "http://musicbrainz.org/work/c0ab3e07-f978-49ea-b115-619f39e1fe9b"
+        }, 
+        {
+            "attribute_key": "semai", 
+            "mb_tag": "semai", 
+            "source": "http://musicbrainz.org/recording/a96eaf4e-61a6-4695-925a-457573d22c76"
         }
     ]
 }

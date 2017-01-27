@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "serbest", 
-            "mb_attribute": "Serbest", 
-            "source": "http://musicbrainz.org/work/8716f5fc-ca7d-493d-b74c-aaae5356d20e"
-        }, 
-        {
-            "attribute_key": "serbest", 
-            "mb_tag": "serbest", 
-            "source": "http://musicbrainz.org/recording/31c46dbe-668e-40ae-9a66-a54bd57f960e"
-        }
-    ], 
+    "instrumentation_voicing": "solo instrumental", 
     "form": [
         {
             "attribute_key": "fantezi", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "31c46dbe-668e-40ae-9a66-a54bd57f960e", 
+    "works": [
+        {
+            "mbid": "8716f5fc-ca7d-493d-b74c-aaae5356d20e", 
+            "title": "\u0130spanyolita"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "nihavent", 
@@ -60,11 +55,16 @@
             "name": "Erc\u00fcmend Batanay"
         }
     ], 
-    "instrumentation_voicing": "Solo instrumental", 
-    "works": [
+    "usul": [
         {
-            "mbid": "8716f5fc-ca7d-493d-b74c-aaae5356d20e", 
-            "title": "\u0130spanyolita"
+            "attribute_key": "serbest", 
+            "mb_attribute": "Serbest", 
+            "source": "http://musicbrainz.org/work/8716f5fc-ca7d-493d-b74c-aaae5356d20e"
+        }, 
+        {
+            "attribute_key": "serbest", 
+            "mb_tag": "serbest", 
+            "source": "http://musicbrainz.org/recording/31c46dbe-668e-40ae-9a66-a54bd57f960e"
         }
     ]
 }

@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "aksak", 
-            "mb_attribute": "Aksak", 
-            "source": "http://musicbrainz.org/work/a7e60dbc-1137-4fc2-978b-4365aee6de3c"
-        }, 
-        {
-            "attribute_key": "aksak", 
-            "mb_tag": "aksak", 
-            "source": "http://musicbrainz.org/recording/c165a8d4-bc48-46ff-9951-fb396366c5c9"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "c165a8d4-bc48-46ff-9951-fb396366c5c9", 
+    "works": [
+        {
+            "mbid": "a7e60dbc-1137-4fc2-978b-4365aee6de3c", 
+            "title": "Humar\u0131 Yok Bozulmaz"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "muhayyer", 
@@ -62,11 +57,16 @@
             "name": "[unknown]"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "a7e60dbc-1137-4fc2-978b-4365aee6de3c", 
-            "title": "Humar\u0131 Yok Bozulmaz"
+            "attribute_key": "aksak", 
+            "mb_attribute": "Aksak", 
+            "source": "http://musicbrainz.org/work/a7e60dbc-1137-4fc2-978b-4365aee6de3c"
+        }, 
+        {
+            "attribute_key": "aksak", 
+            "mb_tag": "aksak", 
+            "source": "http://musicbrainz.org/recording/c165a8d4-bc48-46ff-9951-fb396366c5c9"
         }
     ]
 }

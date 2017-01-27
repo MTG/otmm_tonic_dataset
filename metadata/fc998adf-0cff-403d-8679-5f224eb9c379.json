@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "aksak", 
-            "mb_attribute": "Aksak", 
-            "source": "http://musicbrainz.org/work/10f00516-e6be-47fa-8aba-28c2bd1bed6b"
-        }, 
-        {
-            "attribute_key": "aksak", 
-            "mb_tag": "aksak", 
-            "source": "http://musicbrainz.org/recording/fc998adf-0cff-403d-8679-5f224eb9c379"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "fc998adf-0cff-403d-8679-5f224eb9c379", 
+    "works": [
+        {
+            "mbid": "10f00516-e6be-47fa-8aba-28c2bd1bed6b", 
+            "title": "\u0130ltifat\u0131n \u00c7ok \u0130nayettir Bana"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "hicaz", 
@@ -92,11 +87,16 @@
             "name": "G\u00fclnaz Ataman"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "10f00516-e6be-47fa-8aba-28c2bd1bed6b", 
-            "title": "\u0130ltifat\u0131n \u00c7ok \u0130nayettir Bana"
+            "attribute_key": "aksak", 
+            "mb_attribute": "Aksak", 
+            "source": "http://musicbrainz.org/work/10f00516-e6be-47fa-8aba-28c2bd1bed6b"
+        }, 
+        {
+            "attribute_key": "aksak", 
+            "mb_tag": "aksak", 
+            "source": "http://musicbrainz.org/recording/fc998adf-0cff-403d-8679-5f224eb9c379"
         }
     ]
 }

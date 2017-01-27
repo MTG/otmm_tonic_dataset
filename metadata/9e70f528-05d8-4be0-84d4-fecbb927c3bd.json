@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "aksak", 
-            "mb_attribute": "Aksak", 
-            "source": "http://musicbrainz.org/work/ecadfcac-8580-4070-8ddb-e2359c6cf741"
-        }, 
-        {
-            "attribute_key": "aksak", 
-            "mb_tag": "aksak", 
-            "source": "http://musicbrainz.org/recording/9e70f528-05d8-4be0-84d4-fecbb927c3bd"
-        }
-    ], 
+    "instrumentation_voicing": "choir", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "9e70f528-05d8-4be0-84d4-fecbb927c3bd", 
+    "works": [
+        {
+            "mbid": "ecadfcac-8580-4070-8ddb-e2359c6cf741", 
+            "title": "D\u00fcn Yine G\u00fcn\u00fcm\u00fcz Ge\u00e7ti Beraber"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "mahur", 
@@ -100,11 +95,16 @@
             "name": "Safinaz Rizeli"
         }
     ], 
-    "instrumentation_voicing": "Choir", 
-    "works": [
+    "usul": [
         {
-            "mbid": "ecadfcac-8580-4070-8ddb-e2359c6cf741", 
-            "title": "D\u00fcn Yine G\u00fcn\u00fcm\u00fcz Ge\u00e7ti Beraber"
+            "attribute_key": "aksak", 
+            "mb_attribute": "Aksak", 
+            "source": "http://musicbrainz.org/work/ecadfcac-8580-4070-8ddb-e2359c6cf741"
+        }, 
+        {
+            "attribute_key": "aksak", 
+            "mb_tag": "aksak", 
+            "source": "http://musicbrainz.org/recording/9e70f528-05d8-4be0-84d4-fecbb927c3bd"
         }
     ]
 }

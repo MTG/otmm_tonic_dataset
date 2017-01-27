@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "duyek", 
-            "mb_attribute": "D\u00fcyek", 
-            "source": "http://musicbrainz.org/work/da42bcac-7633-44ec-8626-4356064695c1"
-        }, 
-        {
-            "attribute_key": "duyek", 
-            "mb_tag": "d\u00fcyek", 
-            "source": "http://musicbrainz.org/recording/acc2c656-a980-44fa-8f88-9d0c89ca1a4c"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal without accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "acc2c656-a980-44fa-8f88-9d0c89ca1a4c", 
+    "works": [
+        {
+            "mbid": "da42bcac-7633-44ec-8626-4356064695c1", 
+            "title": "\u015eu G\u00f6\u011fs\u00fcm Y\u0131rt\u0131l\u0131p"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "huzzam", 
@@ -57,11 +52,16 @@
             "name": "Ahmet \u00dcst\u00fcn"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal without accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "da42bcac-7633-44ec-8626-4356064695c1", 
-            "title": "\u015eu G\u00f6\u011fs\u00fcm Y\u0131rt\u0131l\u0131p"
+            "attribute_key": "duyek", 
+            "mb_attribute": "D\u00fcyek", 
+            "source": "http://musicbrainz.org/work/da42bcac-7633-44ec-8626-4356064695c1"
+        }, 
+        {
+            "attribute_key": "duyek", 
+            "mb_tag": "d\u00fcyek", 
+            "source": "http://musicbrainz.org/recording/acc2c656-a980-44fa-8f88-9d0c89ca1a4c"
         }
     ]
 }

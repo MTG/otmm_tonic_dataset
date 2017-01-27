@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "duyek", 
-            "mb_attribute": "D\u00fcyek", 
-            "source": "http://musicbrainz.org/work/9d0b4241-28d2-4d53-8bbf-852e1fef4395"
-        }, 
-        {
-            "attribute_key": "duyek", 
-            "mb_tag": "d\u00fcyek", 
-            "source": "http://musicbrainz.org/recording/0c9bfa02-1270-40bc-9e14-e56928a6d49d"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "turku", 
@@ -42,6 +31,12 @@
         }
     ], 
     "mbid": "0c9bfa02-1270-40bc-9e14-e56928a6d49d", 
+    "works": [
+        {
+            "mbid": "9d0b4241-28d2-4d53-8bbf-852e1fef4395", 
+            "title": "\u0130\u015fte Seni Seven Benim"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "muhayyer", 
@@ -137,11 +132,16 @@
             "name": "Sedat G\u00fcndiyer"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "9d0b4241-28d2-4d53-8bbf-852e1fef4395", 
-            "title": "\u0130\u015fte Seni Seven Benim"
+            "attribute_key": "duyek", 
+            "mb_attribute": "D\u00fcyek", 
+            "source": "http://musicbrainz.org/work/9d0b4241-28d2-4d53-8bbf-852e1fef4395"
+        }, 
+        {
+            "attribute_key": "duyek", 
+            "mb_tag": "d\u00fcyek", 
+            "source": "http://musicbrainz.org/recording/0c9bfa02-1270-40bc-9e14-e56928a6d49d"
         }
     ]
 }

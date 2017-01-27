@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "nimdevir", 
-            "mb_attribute": "Nimdevir", 
-            "source": "http://musicbrainz.org/work/7a149d15-3a2f-4a20-83e0-389eba851daa"
-        }, 
-        {
-            "attribute_key": "nimdevir", 
-            "mb_tag": "nimdevir", 
-            "source": "http://musicbrainz.org/recording/6ea058af-4888-415a-8933-edb99238a095"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "beste", 
@@ -42,6 +31,12 @@
         }
     ], 
     "mbid": "6ea058af-4888-415a-8933-edb99238a095", 
+    "works": [
+        {
+            "mbid": "7a149d15-3a2f-4a20-83e0-389eba851daa", 
+            "title": "Beyati Beste"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "beyati", 
@@ -69,11 +64,16 @@
             "name": "Kani Karaca"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "7a149d15-3a2f-4a20-83e0-389eba851daa", 
-            "title": "Beyati Beste"
+            "attribute_key": "nimdevir", 
+            "mb_attribute": "Nimdevir", 
+            "source": "http://musicbrainz.org/work/7a149d15-3a2f-4a20-83e0-389eba851daa"
+        }, 
+        {
+            "attribute_key": "nimdevir", 
+            "mb_tag": "nimdevir", 
+            "source": "http://musicbrainz.org/recording/6ea058af-4888-415a-8933-edb99238a095"
         }
     ]
 }

@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "sofyan", 
-            "mb_attribute": "Sofyan", 
-            "source": "http://musicbrainz.org/work/036d024d-6d07-49d7-8df9-c31379773ff0"
-        }, 
-        {
-            "attribute_key": "sofyan", 
-            "mb_tag": "sofyan", 
-            "source": "http://musicbrainz.org/recording/13e3e63c-7391-48eb-a957-13e218a6b19a"
-        }
-    ], 
+    "instrumentation_voicing": "choir", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "13e3e63c-7391-48eb-a957-13e218a6b19a", 
+    "works": [
+        {
+            "mbid": "036d024d-6d07-49d7-8df9-c31379773ff0", 
+            "title": "Bir G\u00fczele Kul Oldum Ta G\u00f6n\u00fclden Vuruldum"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "suzinak", 
@@ -148,11 +143,16 @@
             "name": "Safinaz Rizeli"
         }
     ], 
-    "instrumentation_voicing": "Choir", 
-    "works": [
+    "usul": [
         {
-            "mbid": "036d024d-6d07-49d7-8df9-c31379773ff0", 
-            "title": "Bir G\u00fczele Kul Oldum Ta G\u00f6n\u00fclden Vuruldum"
+            "attribute_key": "sofyan", 
+            "mb_attribute": "Sofyan", 
+            "source": "http://musicbrainz.org/work/036d024d-6d07-49d7-8df9-c31379773ff0"
+        }, 
+        {
+            "attribute_key": "sofyan", 
+            "mb_tag": "sofyan", 
+            "source": "http://musicbrainz.org/recording/13e3e63c-7391-48eb-a957-13e218a6b19a"
         }
     ]
 }

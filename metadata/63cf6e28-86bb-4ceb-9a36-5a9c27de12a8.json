@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "aksaksemai", 
-            "mb_attribute": "Aksaksemai", 
-            "source": "http://musicbrainz.org/work/46b1d655-724a-464a-a127-f0075a6f8856"
-        }, 
-        {
-            "attribute_key": "aksaksemai", 
-            "mb_tag": "aksaksemai", 
-            "source": "http://musicbrainz.org/recording/63cf6e28-86bb-4ceb-9a36-5a9c27de12a8"
-        }
-    ], 
+    "instrumentation_voicing": "solo instrumental", 
     "form": [
         {
             "attribute_key": "sazsemaisi", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "63cf6e28-86bb-4ceb-9a36-5a9c27de12a8", 
+    "works": [
+        {
+            "mbid": "46b1d655-724a-464a-a127-f0075a6f8856", 
+            "title": "Nih\u00e2vend Saz Sem\u00e2isi"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "nihavent", 
@@ -60,11 +55,16 @@
             "name": "Necdet Ya\u015far"
         }
     ], 
-    "instrumentation_voicing": "Solo instrumental", 
-    "works": [
+    "usul": [
         {
-            "mbid": "46b1d655-724a-464a-a127-f0075a6f8856", 
-            "title": "Nih\u00e2vend Saz Sem\u00e2isi"
+            "attribute_key": "aksaksemai", 
+            "mb_attribute": "Aksaksemai", 
+            "source": "http://musicbrainz.org/work/46b1d655-724a-464a-a127-f0075a6f8856"
+        }, 
+        {
+            "attribute_key": "aksaksemai", 
+            "mb_tag": "aksaksemai", 
+            "source": "http://musicbrainz.org/recording/63cf6e28-86bb-4ceb-9a36-5a9c27de12a8"
         }
     ]
 }

@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "duyek", 
-            "mb_attribute": "D\u00fcyek", 
-            "source": "http://musicbrainz.org/work/0564a914-b1da-45d5-9e12-a01d95615860"
-        }, 
-        {
-            "attribute_key": "duyek", 
-            "mb_tag": "d\u00fcyek", 
-            "source": "http://musicbrainz.org/recording/aa883bbb-1d1d-49f0-a9a2-fa6b7cdeb41a"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal without accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "aa883bbb-1d1d-49f0-a9a2-fa6b7cdeb41a", 
+    "works": [
+        {
+            "mbid": "0564a914-b1da-45d5-9e12-a01d95615860", 
+            "title": "Ben Y\u00fcr\u00fcr\u00fcm Yane Yane"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "neva", 
@@ -57,11 +52,16 @@
             "name": "M\u00fcnir Nurettin Sel\u00e7uk"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal without accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "0564a914-b1da-45d5-9e12-a01d95615860", 
-            "title": "Ben Y\u00fcr\u00fcr\u00fcm Yane Yane"
+            "attribute_key": "duyek", 
+            "mb_attribute": "D\u00fcyek", 
+            "source": "http://musicbrainz.org/work/0564a914-b1da-45d5-9e12-a01d95615860"
+        }, 
+        {
+            "attribute_key": "duyek", 
+            "mb_tag": "d\u00fcyek", 
+            "source": "http://musicbrainz.org/recording/aa883bbb-1d1d-49f0-a9a2-fa6b7cdeb41a"
         }
     ]
 }

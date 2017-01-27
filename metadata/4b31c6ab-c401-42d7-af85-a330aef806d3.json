@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "agiraksak", 
-            "mb_attribute": "A\u011f\u0131raksak", 
-            "source": "http://musicbrainz.org/work/53d8cf86-f36b-4f6f-95c7-1dc7e5975f68"
-        }, 
-        {
-            "attribute_key": "agiraksak", 
-            "mb_tag": "a\u011f\u0131raksak", 
-            "source": "http://musicbrainz.org/recording/4b31c6ab-c401-42d7-af85-a330aef806d3"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "4b31c6ab-c401-42d7-af85-a330aef806d3", 
+    "works": [
+        {
+            "mbid": "53d8cf86-f36b-4f6f-95c7-1dc7e5975f68", 
+            "title": "Ey Melek Sima Seni G\u00fcnden G\u00fcne Sevmekteyim"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "karcigar", 
@@ -62,11 +57,16 @@
             "name": "Bekir S\u0131dk\u0131 Sezgin"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "53d8cf86-f36b-4f6f-95c7-1dc7e5975f68", 
-            "title": "Ey Melek Sima Seni G\u00fcnden G\u00fcne Sevmekteyim"
+            "attribute_key": "agiraksak", 
+            "mb_attribute": "A\u011f\u0131raksak", 
+            "source": "http://musicbrainz.org/work/53d8cf86-f36b-4f6f-95c7-1dc7e5975f68"
+        }, 
+        {
+            "attribute_key": "agiraksak", 
+            "mb_tag": "a\u011f\u0131raksak", 
+            "source": "http://musicbrainz.org/recording/4b31c6ab-c401-42d7-af85-a330aef806d3"
         }
     ]
 }

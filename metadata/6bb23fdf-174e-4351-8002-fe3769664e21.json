@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "devrihindi", 
-            "mb_attribute": "Devr-i Hindi", 
-            "source": "http://musicbrainz.org/work/471ce76e-2593-4345-a9d1-30a9abf1e087"
-        }, 
-        {
-            "attribute_key": "devrihindi", 
-            "mb_tag": "devr-i hindi", 
-            "source": "http://musicbrainz.org/recording/6bb23fdf-174e-4351-8002-fe3769664e21"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "ilahi", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "6bb23fdf-174e-4351-8002-fe3769664e21", 
+    "works": [
+        {
+            "mbid": "471ce76e-2593-4345-a9d1-30a9abf1e087", 
+            "title": "Merhaba Ya Merhaba"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "saba", 
@@ -65,11 +60,16 @@
             "name": "[unknown]"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "471ce76e-2593-4345-a9d1-30a9abf1e087", 
-            "title": "Merhaba Ya Merhaba"
+            "attribute_key": "devrihindi", 
+            "mb_attribute": "Devr-i Hindi", 
+            "source": "http://musicbrainz.org/work/471ce76e-2593-4345-a9d1-30a9abf1e087"
+        }, 
+        {
+            "attribute_key": "devrihindi", 
+            "mb_tag": "devr-i hindi", 
+            "source": "http://musicbrainz.org/recording/6bb23fdf-174e-4351-8002-fe3769664e21"
         }
     ]
 }

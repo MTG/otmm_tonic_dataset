@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "agiraksak", 
-            "mb_attribute": "A\u011f\u0131raksak", 
-            "source": "http://musicbrainz.org/work/93651162-609a-4609-ba67-7a5d1b307db1"
-        }, 
-        {
-            "attribute_key": "agiraksak", 
-            "mb_tag": "a\u011f\u0131raksak", 
-            "source": "http://musicbrainz.org/recording/57f425be-fb88-47bd-925e-b9719968cace"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "57f425be-fb88-47bd-925e-b9719968cace", 
+    "works": [
+        {
+            "mbid": "93651162-609a-4609-ba67-7a5d1b307db1", 
+            "title": "G\u00fcld\u00fcn E\u011flendin"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "karcigar", 
@@ -62,11 +57,16 @@
             "name": "Melihat G\u00fclses"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "93651162-609a-4609-ba67-7a5d1b307db1", 
-            "title": "G\u00fcld\u00fcn E\u011flendin"
+            "attribute_key": "agiraksak", 
+            "mb_attribute": "A\u011f\u0131raksak", 
+            "source": "http://musicbrainz.org/work/93651162-609a-4609-ba67-7a5d1b307db1"
+        }, 
+        {
+            "attribute_key": "agiraksak", 
+            "mb_tag": "a\u011f\u0131raksak", 
+            "source": "http://musicbrainz.org/recording/57f425be-fb88-47bd-925e-b9719968cace"
         }
     ]
 }

@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "aksak", 
-            "mb_attribute": "Aksak", 
-            "source": "http://musicbrainz.org/work/b828b736-c0bc-4cf3-9842-eca119178dbe"
-        }, 
-        {
-            "attribute_key": "aksak", 
-            "mb_tag": "aksak", 
-            "source": "http://musicbrainz.org/recording/6ee15ee9-312f-4411-8303-bcd763ff011f"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -42,6 +31,12 @@
         }
     ], 
     "mbid": "6ee15ee9-312f-4411-8303-bcd763ff011f", 
+    "works": [
+        {
+            "mbid": "b828b736-c0bc-4cf3-9842-eca119178dbe", 
+            "title": "G\u00fcl\u015fenin H\u00fcsn\u00fcne Kimler Var\u0131yor"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "hicaz", 
@@ -137,11 +132,16 @@
             "name": "Sedat G\u00fcndiyer"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "b828b736-c0bc-4cf3-9842-eca119178dbe", 
-            "title": "G\u00fcl\u015fenin H\u00fcsn\u00fcne Kimler Var\u0131yor"
+            "attribute_key": "aksak", 
+            "mb_attribute": "Aksak", 
+            "source": "http://musicbrainz.org/work/b828b736-c0bc-4cf3-9842-eca119178dbe"
+        }, 
+        {
+            "attribute_key": "aksak", 
+            "mb_tag": "aksak", 
+            "source": "http://musicbrainz.org/recording/6ee15ee9-312f-4411-8303-bcd763ff011f"
         }
     ]
 }

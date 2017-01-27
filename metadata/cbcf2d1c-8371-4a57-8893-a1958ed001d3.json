@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "aksak", 
-            "mb_attribute": "Aksak", 
-            "source": "http://musicbrainz.org/work/580aa88c-f6f5-4dae-af5c-3c036fa85b3e"
-        }, 
-        {
-            "attribute_key": "aksak", 
-            "mb_tag": "aksak", 
-            "source": "http://musicbrainz.org/recording/cbcf2d1c-8371-4a57-8893-a1958ed001d3"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "turku", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "cbcf2d1c-8371-4a57-8893-a1958ed001d3", 
+    "works": [
+        {
+            "mbid": "580aa88c-f6f5-4dae-af5c-3c036fa85b3e", 
+            "title": "Demirciler Demir D\u00f6ver Tun\u00e7 Olur"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "huseyni", 
@@ -153,11 +148,16 @@
             "name": "Nuri G\u00fcn"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "580aa88c-f6f5-4dae-af5c-3c036fa85b3e", 
-            "title": "Demirciler Demir D\u00f6ver Tun\u00e7 Olur"
+            "attribute_key": "aksak", 
+            "mb_attribute": "Aksak", 
+            "source": "http://musicbrainz.org/work/580aa88c-f6f5-4dae-af5c-3c036fa85b3e"
+        }, 
+        {
+            "attribute_key": "aksak", 
+            "mb_tag": "aksak", 
+            "source": "http://musicbrainz.org/recording/cbcf2d1c-8371-4a57-8893-a1958ed001d3"
         }
     ]
 }

@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "agiraksak", 
-            "mb_attribute": "A\u011f\u0131raksak", 
-            "source": "http://musicbrainz.org/work/9832af8a-9308-41d0-850b-a83f072a378d"
-        }, 
-        {
-            "attribute_key": "agiraksak", 
-            "mb_tag": "a\u011f\u0131raksak", 
-            "source": "http://musicbrainz.org/recording/d07a2aa9-9e70-4408-9084-392c3ef44297"
-        }
-    ], 
+    "instrumentation_voicing": "choir", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "d07a2aa9-9e70-4408-9084-392c3ef44297", 
+    "works": [
+        {
+            "mbid": "9832af8a-9308-41d0-850b-a83f072a378d", 
+            "title": "Ey \u015eehin \u015eah-\u0131 Ferid-i R\u00fczgar"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "hicazkar", 
@@ -148,11 +143,16 @@
             "name": "Safinaz Rizeli"
         }
     ], 
-    "instrumentation_voicing": "Choir", 
-    "works": [
+    "usul": [
         {
-            "mbid": "9832af8a-9308-41d0-850b-a83f072a378d", 
-            "title": "Ey \u015eehin \u015eah-\u0131 Ferid-i R\u00fczgar"
+            "attribute_key": "agiraksak", 
+            "mb_attribute": "A\u011f\u0131raksak", 
+            "source": "http://musicbrainz.org/work/9832af8a-9308-41d0-850b-a83f072a378d"
+        }, 
+        {
+            "attribute_key": "agiraksak", 
+            "mb_tag": "a\u011f\u0131raksak", 
+            "source": "http://musicbrainz.org/recording/d07a2aa9-9e70-4408-9084-392c3ef44297"
         }
     ]
 }

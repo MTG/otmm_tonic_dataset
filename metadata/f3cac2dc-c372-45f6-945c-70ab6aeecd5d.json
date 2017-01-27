@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "cenber", 
-            "mb_attribute": "\u00c7enber", 
-            "source": "http://musicbrainz.org/work/270f55e1-d479-47d0-832f-930a2d20f90a"
-        }, 
-        {
-            "attribute_key": "sofyan", 
-            "mb_tag": "sofyan", 
-            "source": "http://musicbrainz.org/recording/f3cac2dc-c372-45f6-945c-70ab6aeecd5d"
-        }
-    ], 
+    "instrumentation_voicing": "ensemble instrumental", 
     "form": [
         {
             "attribute_key": "pesrev", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "f3cac2dc-c372-45f6-945c-70ab6aeecd5d", 
+    "works": [
+        {
+            "mbid": "270f55e1-d479-47d0-832f-930a2d20f90a", 
+            "title": "Suzinak Pe\u015frev"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "suzinak", 
@@ -57,11 +52,16 @@
             "name": "Kudsi Erguner Ensemble"
         }
     ], 
-    "instrumentation_voicing": "Ensemble instrumental", 
-    "works": [
+    "usul": [
         {
-            "mbid": "270f55e1-d479-47d0-832f-930a2d20f90a", 
-            "title": "Suzinak Pe\u015frev"
+            "attribute_key": "cenber", 
+            "mb_attribute": "\u00c7enber", 
+            "source": "http://musicbrainz.org/work/270f55e1-d479-47d0-832f-930a2d20f90a"
+        }, 
+        {
+            "attribute_key": "sofyan", 
+            "mb_tag": "sofyan", 
+            "source": "http://musicbrainz.org/recording/f3cac2dc-c372-45f6-945c-70ab6aeecd5d"
         }
     ]
 }

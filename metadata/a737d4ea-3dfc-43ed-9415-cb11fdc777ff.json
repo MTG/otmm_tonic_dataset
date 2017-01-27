@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "senginsemai", 
-            "mb_attribute": "Senginsemai", 
-            "source": "http://musicbrainz.org/work/d2a8ac3e-5668-40d0-a16c-86a92cb6b8f1"
-        }, 
-        {
-            "attribute_key": "senginsemai", 
-            "mb_tag": "senginsemai", 
-            "source": "http://musicbrainz.org/recording/a737d4ea-3dfc-43ed-9415-cb11fdc777ff"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal without accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -42,6 +31,12 @@
         }
     ], 
     "mbid": "a737d4ea-3dfc-43ed-9415-cb11fdc777ff", 
+    "works": [
+        {
+            "mbid": "d2a8ac3e-5668-40d0-a16c-86a92cb6b8f1", 
+            "title": "Her Dem S\u00f6z\u00fcm"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "bestenigar", 
@@ -61,11 +56,16 @@
             "name": "Haf\u0131z A\u015fir Efendi"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal without accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "d2a8ac3e-5668-40d0-a16c-86a92cb6b8f1", 
-            "title": "Her Dem S\u00f6z\u00fcm"
+            "attribute_key": "senginsemai", 
+            "mb_attribute": "Senginsemai", 
+            "source": "http://musicbrainz.org/work/d2a8ac3e-5668-40d0-a16c-86a92cb6b8f1"
+        }, 
+        {
+            "attribute_key": "senginsemai", 
+            "mb_tag": "senginsemai", 
+            "source": "http://musicbrainz.org/recording/a737d4ea-3dfc-43ed-9415-cb11fdc777ff"
         }
     ]
 }

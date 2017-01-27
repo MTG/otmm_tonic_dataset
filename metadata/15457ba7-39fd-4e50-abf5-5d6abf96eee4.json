@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "agiraksak", 
-            "mb_attribute": "A\u011f\u0131raksak", 
-            "source": "http://musicbrainz.org/work/86c12055-b675-46b6-89a6-4568be1143d5"
-        }, 
-        {
-            "attribute_key": "agiraksak", 
-            "mb_tag": "a\u011f\u0131raksak", 
-            "source": "http://musicbrainz.org/recording/15457ba7-39fd-4e50-abf5-5d6abf96eee4"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal without accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "15457ba7-39fd-4e50-abf5-5d6abf96eee4", 
+    "works": [
+        {
+            "mbid": "86c12055-b675-46b6-89a6-4568be1143d5", 
+            "title": "Sevdi G\u00f6nl\u00fcm Ey Melek Sima Seni"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "acemkurdi", 
@@ -57,11 +52,16 @@
             "name": "Perihan Boran"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal without accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "86c12055-b675-46b6-89a6-4568be1143d5", 
-            "title": "Sevdi G\u00f6nl\u00fcm Ey Melek Sima Seni"
+            "attribute_key": "agiraksak", 
+            "mb_attribute": "A\u011f\u0131raksak", 
+            "source": "http://musicbrainz.org/work/86c12055-b675-46b6-89a6-4568be1143d5"
+        }, 
+        {
+            "attribute_key": "agiraksak", 
+            "mb_tag": "a\u011f\u0131raksak", 
+            "source": "http://musicbrainz.org/recording/15457ba7-39fd-4e50-abf5-5d6abf96eee4"
         }
     ]
 }

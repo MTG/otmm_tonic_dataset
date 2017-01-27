@@ -1,5 +1,11 @@
 {
-    "instrumentation_voicing": "Solo instrumental", 
+    "usul": [
+        {
+            "attribute_key": "serbest", 
+            "mb_tag": "serbest", 
+            "source": "http://musicbrainz.org/recording/06b6ee3b-34a0-4b9b-a2ba-469ad8240bca"
+        }
+    ], 
     "form": [
         {
             "attribute_key": "taksim", 
@@ -39,11 +45,5 @@
             "name": "\u0130lhan Barut\u00e7u"
         }
     ], 
-    "usul": [
-        {
-            "attribute_key": "serbest", 
-            "mb_tag": "serbest", 
-            "source": "http://musicbrainz.org/recording/06b6ee3b-34a0-4b9b-a2ba-469ad8240bca"
-        }
-    ]
+    "instrumentation_voicing": "solo instrumental"
 }

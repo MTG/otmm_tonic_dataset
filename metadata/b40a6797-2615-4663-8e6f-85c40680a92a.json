@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "nimsakil", 
-            "mb_attribute": "Nimsakil", 
-            "source": "http://musicbrainz.org/work/9cfa97f7-5fe2-4578-907a-a4b722a20f74"
-        }, 
-        {
-            "attribute_key": "nimsakil", 
-            "mb_tag": "nimsakil", 
-            "source": "http://musicbrainz.org/recording/b40a6797-2615-4663-8e6f-85c40680a92a"
-        }
-    ], 
+    "instrumentation_voicing": "choir", 
     "form": [
         {
             "attribute_key": "kar", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "b40a6797-2615-4663-8e6f-85c40680a92a", 
+    "works": [
+        {
+            "mbid": "9cfa97f7-5fe2-4578-907a-a4b722a20f74", 
+            "title": "G\u00fclbin-i Iy\u015f Midemed Saki-i G\u00fcl-izar Ku"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "neva", 
@@ -370,11 +365,16 @@
             "name": "Yurdag\u00fcl Ero\u011flu"
         }
     ], 
-    "instrumentation_voicing": "Choir", 
-    "works": [
+    "usul": [
         {
-            "mbid": "9cfa97f7-5fe2-4578-907a-a4b722a20f74", 
-            "title": "G\u00fclbin-i Iy\u015f Midemed Saki-i G\u00fcl-izar Ku"
+            "attribute_key": "nimsakil", 
+            "mb_attribute": "Nimsakil", 
+            "source": "http://musicbrainz.org/work/9cfa97f7-5fe2-4578-907a-a4b722a20f74"
+        }, 
+        {
+            "attribute_key": "nimsakil", 
+            "mb_tag": "nimsakil", 
+            "source": "http://musicbrainz.org/recording/b40a6797-2615-4663-8e6f-85c40680a92a"
         }
     ]
 }

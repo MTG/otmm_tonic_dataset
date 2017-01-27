@@ -1,11 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "aksaksemai", 
-            "mb_attribute": "Aksaksemai", 
-            "source": "http://musicbrainz.org/work/6660aaa1-95ec-44f7-a3dd-1dbfa0c01107"
-        }
-    ], 
+    "instrumentation_voicing": "solo instrumental", 
     "form": [
         {
             "attribute_key": "sazsemaisi", 
@@ -33,6 +27,12 @@
         }
     ], 
     "mbid": "fa17872a-bb57-4201-bfce-eae96d2c2b08", 
+    "works": [
+        {
+            "mbid": "6660aaa1-95ec-44f7-a3dd-1dbfa0c01107", 
+            "title": "Saba Sazsemaisi"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "saba", 
@@ -55,11 +55,11 @@
             "name": "Salih Bilgin"
         }
     ], 
-    "instrumentation_voicing": "Solo instrumental", 
-    "works": [
+    "usul": [
         {
-            "mbid": "6660aaa1-95ec-44f7-a3dd-1dbfa0c01107", 
-            "title": "Saba Sazsemaisi"
+            "attribute_key": "aksaksemai", 
+            "mb_attribute": "Aksaksemai", 
+            "source": "http://musicbrainz.org/work/6660aaa1-95ec-44f7-a3dd-1dbfa0c01107"
         }
     ]
 }

@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "senginsemai", 
-            "mb_attribute": "Senginsemai", 
-            "source": "http://musicbrainz.org/work/9fa7e534-ca52-4d27-9bb6-bd166a1cb21e"
-        }, 
-        {
-            "attribute_key": "senginsemai", 
-            "mb_tag": "senginsemai", 
-            "source": "http://musicbrainz.org/recording/f62c932b-514d-40af-9022-d0cab04f3a14"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "f62c932b-514d-40af-9022-d0cab04f3a14", 
+    "works": [
+        {
+            "mbid": "9fa7e534-ca52-4d27-9bb6-bd166a1cb21e", 
+            "title": "Zevkim Hevesim"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "huseyni", 
@@ -225,11 +220,16 @@
             "name": "Tar\u0131k Kemanc\u0131"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "9fa7e534-ca52-4d27-9bb6-bd166a1cb21e", 
-            "title": "Zevkim Hevesim"
+            "attribute_key": "senginsemai", 
+            "mb_attribute": "Senginsemai", 
+            "source": "http://musicbrainz.org/work/9fa7e534-ca52-4d27-9bb6-bd166a1cb21e"
+        }, 
+        {
+            "attribute_key": "senginsemai", 
+            "mb_tag": "senginsemai", 
+            "source": "http://musicbrainz.org/recording/f62c932b-514d-40af-9022-d0cab04f3a14"
         }
     ]
 }

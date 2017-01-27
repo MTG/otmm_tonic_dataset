@@ -1,5 +1,5 @@
 {
-    "usul": [], 
+    "instrumentation_voicing": "ensemble instrumental", 
     "form": [
         {
             "attribute_key": "sazeseri", 
@@ -26,6 +26,12 @@
         }
     ], 
     "mbid": "3f9b5288-1082-48ca-94f2-b91b407ea5c2", 
+    "works": [
+        {
+            "mbid": "7d97260f-f3b0-4d63-b711-05b41cb6e9dd", 
+            "title": "Hayal"
+        }
+    ], 
     "makam": [], 
     "artists": [
         {
@@ -61,11 +67,5 @@
             "name": "Vahit Anadolu"
         }
     ], 
-    "instrumentation_voicing": "Ensemble instrumental", 
-    "works": [
-        {
-            "mbid": "7d97260f-f3b0-4d63-b711-05b41cb6e9dd", 
-            "title": "Hayal"
-        }
-    ]
+    "usul": []
 }

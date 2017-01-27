@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "duyek", 
-            "mb_attribute": "D\u00fcyek", 
-            "source": "http://musicbrainz.org/work/af14f16d-f7fd-42d3-8221-e4b83fca949d"
-        }, 
-        {
-            "attribute_key": "duyek", 
-            "mb_tag": "d\u00fcyek", 
-            "source": "http://musicbrainz.org/recording/79ef8add-d7c5-40b3-a172-44ec34da8ef9"
-        }
-    ], 
+    "instrumentation_voicing": "duet", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "79ef8add-d7c5-40b3-a172-44ec34da8ef9", 
+    "works": [
+        {
+            "mbid": "af14f16d-f7fd-42d3-8221-e4b83fca949d", 
+            "title": "Ge\u00e7en G\u00fcn Eyledin \u0130krar"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "saba", 
@@ -121,11 +116,16 @@
             "name": "Safinaz Rizeli"
         }
     ], 
-    "instrumentation_voicing": "Duet", 
-    "works": [
+    "usul": [
         {
-            "mbid": "af14f16d-f7fd-42d3-8221-e4b83fca949d", 
-            "title": "Ge\u00e7en G\u00fcn Eyledin \u0130krar"
+            "attribute_key": "duyek", 
+            "mb_attribute": "D\u00fcyek", 
+            "source": "http://musicbrainz.org/work/af14f16d-f7fd-42d3-8221-e4b83fca949d"
+        }, 
+        {
+            "attribute_key": "duyek", 
+            "mb_tag": "d\u00fcyek", 
+            "source": "http://musicbrainz.org/recording/79ef8add-d7c5-40b3-a172-44ec34da8ef9"
         }
     ]
 }

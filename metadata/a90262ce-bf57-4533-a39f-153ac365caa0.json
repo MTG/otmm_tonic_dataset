@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "duyek", 
-            "mb_attribute": "D\u00fcyek", 
-            "source": "http://musicbrainz.org/work/5beb76e5-1fa5-4aea-bd26-8c73fe299549"
-        }, 
-        {
-            "attribute_key": "duyek", 
-            "mb_tag": "d\u00fcyek", 
-            "source": "http://musicbrainz.org/recording/a90262ce-bf57-4533-a39f-153ac365caa0"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "a90262ce-bf57-4533-a39f-153ac365caa0", 
+    "works": [
+        {
+            "mbid": "5beb76e5-1fa5-4aea-bd26-8c73fe299549", 
+            "title": "Gittin B\u0131rakt\u0131n Beni Gurbet Ellerde"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "kurdilihicazkar", 
@@ -225,11 +220,16 @@
             "name": "Tar\u0131k Kemanc\u0131"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "5beb76e5-1fa5-4aea-bd26-8c73fe299549", 
-            "title": "Gittin B\u0131rakt\u0131n Beni Gurbet Ellerde"
+            "attribute_key": "duyek", 
+            "mb_attribute": "D\u00fcyek", 
+            "source": "http://musicbrainz.org/work/5beb76e5-1fa5-4aea-bd26-8c73fe299549"
+        }, 
+        {
+            "attribute_key": "duyek", 
+            "mb_tag": "d\u00fcyek", 
+            "source": "http://musicbrainz.org/recording/a90262ce-bf57-4533-a39f-153ac365caa0"
         }
     ]
 }

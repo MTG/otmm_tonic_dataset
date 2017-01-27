@@ -1,11 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "evfer", 
-            "mb_attribute": "Evfer", 
-            "source": "http://musicbrainz.org/work/5242bca8-2eba-42ca-822d-89b62d170409"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal without accompaniment", 
     "form": [
         {
             "attribute_key": "durak", 
@@ -33,6 +27,12 @@
         }
     ], 
     "mbid": "29d3a323-dad2-4bb5-9bd1-c6d9d2b6ddce", 
+    "works": [
+        {
+            "mbid": "5242bca8-2eba-42ca-822d-89b62d170409", 
+            "title": "Aya\u011f\u0131n Tozunu S\u00fcrme \u00c7ekelden G\u00f6z\u00fcme"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "suzidil", 
@@ -55,11 +55,11 @@
             "name": "Bekir S\u0131dk\u0131 Sezgin"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal without accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "5242bca8-2eba-42ca-822d-89b62d170409", 
-            "title": "Aya\u011f\u0131n Tozunu S\u00fcrme \u00c7ekelden G\u00f6z\u00fcme"
+            "attribute_key": "evfer", 
+            "mb_attribute": "Evfer", 
+            "source": "http://musicbrainz.org/work/5242bca8-2eba-42ca-822d-89b62d170409"
         }
     ]
 }

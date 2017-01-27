@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "agiraksak", 
-            "mb_attribute": "A\u011f\u0131raksak", 
-            "source": "http://musicbrainz.org/work/ae0e817d-163d-40ff-83aa-f66172783f34"
-        }, 
-        {
-            "attribute_key": "agiraksak", 
-            "mb_tag": "a\u011f\u0131raksak", 
-            "source": "http://musicbrainz.org/recording/7b04beee-e32c-407e-a886-24ef3a4f3e9f"
-        }
-    ], 
+    "instrumentation_voicing": "choir", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "7b04beee-e32c-407e-a886-24ef3a4f3e9f", 
+    "works": [
+        {
+            "mbid": "ae0e817d-163d-40ff-83aa-f66172783f34", 
+            "title": "Kald\u0131 Ate\u015fler \u0130\u00e7inde Yine Sevdal\u0131 Serim"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "ussak", 
@@ -148,11 +143,16 @@
             "name": "Safinaz Rizeli"
         }
     ], 
-    "instrumentation_voicing": "Choir", 
-    "works": [
+    "usul": [
         {
-            "mbid": "ae0e817d-163d-40ff-83aa-f66172783f34", 
-            "title": "Kald\u0131 Ate\u015fler \u0130\u00e7inde Yine Sevdal\u0131 Serim"
+            "attribute_key": "agiraksak", 
+            "mb_attribute": "A\u011f\u0131raksak", 
+            "source": "http://musicbrainz.org/work/ae0e817d-163d-40ff-83aa-f66172783f34"
+        }, 
+        {
+            "attribute_key": "agiraksak", 
+            "mb_tag": "a\u011f\u0131raksak", 
+            "source": "http://musicbrainz.org/recording/7b04beee-e32c-407e-a886-24ef3a4f3e9f"
         }
     ]
 }

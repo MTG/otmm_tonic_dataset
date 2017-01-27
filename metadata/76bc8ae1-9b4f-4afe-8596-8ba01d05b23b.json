@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "aksak", 
-            "mb_attribute": "Aksak", 
-            "source": "http://musicbrainz.org/work/f0c6b68d-df32-4823-ad31-545ae9bc9911"
-        }, 
-        {
-            "attribute_key": "aksak", 
-            "mb_tag": "aksak", 
-            "source": "http://musicbrainz.org/recording/76bc8ae1-9b4f-4afe-8596-8ba01d05b23b"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "76bc8ae1-9b4f-4afe-8596-8ba01d05b23b", 
+    "works": [
+        {
+            "mbid": "f0c6b68d-df32-4823-ad31-545ae9bc9911", 
+            "title": "Firak\u0131nla Zalim Harab Oldu Can"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "hicaz", 
@@ -62,11 +57,16 @@
             "name": "Bekir S\u0131dk\u0131 Sezgin"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "f0c6b68d-df32-4823-ad31-545ae9bc9911", 
-            "title": "Firak\u0131nla Zalim Harab Oldu Can"
+            "attribute_key": "aksak", 
+            "mb_attribute": "Aksak", 
+            "source": "http://musicbrainz.org/work/f0c6b68d-df32-4823-ad31-545ae9bc9911"
+        }, 
+        {
+            "attribute_key": "aksak", 
+            "mb_tag": "aksak", 
+            "source": "http://musicbrainz.org/recording/76bc8ae1-9b4f-4afe-8596-8ba01d05b23b"
         }
     ]
 }

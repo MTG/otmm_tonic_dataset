@@ -1,21 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "turkaksagi", 
-            "mb_attribute": "T\u00fcrkaksa\u011f\u0131", 
-            "source": "http://musicbrainz.org/work/4aa14ed9-6918-37b9-855b-b5599d98a5bf"
-        }, 
-        {
-            "attribute_key": "turkaksagi_ii", 
-            "mb_tag": "t\u00fcrkaksa\u011f\u0131", 
-            "source": "http://musicbrainz.org/recording/af43bd04-14a6-4e9c-9522-902fd44829a2"
-        }, 
-        {
-            "attribute_key": "aksak", 
-            "mb_tag": "aksak", 
-            "source": "http://musicbrainz.org/recording/af43bd04-14a6-4e9c-9522-902fd44829a2"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "turku", 
@@ -48,6 +32,12 @@
         }
     ], 
     "mbid": "af43bd04-14a6-4e9c-9522-902fd44829a2", 
+    "works": [
+        {
+            "mbid": "4aa14ed9-6918-37b9-855b-b5599d98a5bf", 
+            "title": "Vardar Ovas\u0131"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "hicaz", 
@@ -161,11 +151,21 @@
             "name": "Sedat G\u00fcndiyer"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "4aa14ed9-6918-37b9-855b-b5599d98a5bf", 
-            "title": "Vardar Ovas\u0131"
+            "attribute_key": "turkaksagi", 
+            "mb_attribute": "T\u00fcrkaksa\u011f\u0131", 
+            "source": "http://musicbrainz.org/work/4aa14ed9-6918-37b9-855b-b5599d98a5bf"
+        }, 
+        {
+            "attribute_key": "turkaksagi_ii", 
+            "mb_tag": "t\u00fcrkaksa\u011f\u0131", 
+            "source": "http://musicbrainz.org/recording/af43bd04-14a6-4e9c-9522-902fd44829a2"
+        }, 
+        {
+            "attribute_key": "aksak", 
+            "mb_tag": "aksak", 
+            "source": "http://musicbrainz.org/recording/af43bd04-14a6-4e9c-9522-902fd44829a2"
         }
     ]
 }

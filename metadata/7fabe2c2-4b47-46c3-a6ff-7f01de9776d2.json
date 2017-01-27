@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "aksak", 
-            "mb_attribute": "Aksak", 
-            "source": "http://musicbrainz.org/work/0153f458-46eb-49d0-860d-60d5a6688a87"
-        }, 
-        {
-            "attribute_key": "aksak", 
-            "mb_tag": "aksak", 
-            "source": "http://musicbrainz.org/recording/7fabe2c2-4b47-46c3-a6ff-7f01de9776d2"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -42,6 +31,12 @@
         }
     ], 
     "mbid": "7fabe2c2-4b47-46c3-a6ff-7f01de9776d2", 
+    "works": [
+        {
+            "mbid": "0153f458-46eb-49d0-860d-60d5a6688a87", 
+            "title": "Muntaz\u0131r Te\u015frifine Haz\u0131r Kay\u0131k"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "kurdilihicazkar", 
@@ -137,11 +132,16 @@
             "name": "Sedat G\u00fcndiyer"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "0153f458-46eb-49d0-860d-60d5a6688a87", 
-            "title": "Muntaz\u0131r Te\u015frifine Haz\u0131r Kay\u0131k"
+            "attribute_key": "aksak", 
+            "mb_attribute": "Aksak", 
+            "source": "http://musicbrainz.org/work/0153f458-46eb-49d0-860d-60d5a6688a87"
+        }, 
+        {
+            "attribute_key": "aksak", 
+            "mb_tag": "aksak", 
+            "source": "http://musicbrainz.org/recording/7fabe2c2-4b47-46c3-a6ff-7f01de9776d2"
         }
     ]
 }

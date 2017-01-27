@@ -1,5 +1,5 @@
 {
-    "usul": [], 
+    "instrumentation_voicing": "trio instrumental", 
     "form": [
         {
             "attribute_key": "sazeseri", 
@@ -30,6 +30,12 @@
         }
     ], 
     "mbid": "99041cd5-fd7b-4630-a03f-b8c038c0fd3d", 
+    "works": [
+        {
+            "mbid": "6ba31329-3df1-42cf-bca7-3df5d39da226", 
+            "title": "Sahara"
+        }
+    ], 
     "makam": [], 
     "artists": [
         {
@@ -57,11 +63,5 @@
             "name": "U\u011fur I\u015f\u0131k"
         }
     ], 
-    "instrumentation_voicing": "Trio instrumental", 
-    "works": [
-        {
-            "mbid": "6ba31329-3df1-42cf-bca7-3df5d39da226", 
-            "title": "Sahara"
-        }
-    ]
+    "usul": []
 }

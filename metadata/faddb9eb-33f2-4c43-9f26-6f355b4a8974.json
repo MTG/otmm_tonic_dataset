@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "curcuna", 
-            "mb_attribute": "Curcuna", 
-            "source": "http://musicbrainz.org/work/670beb49-9038-482c-9088-eca04a62ae2f"
-        }, 
-        {
-            "attribute_key": "kapali_curcuna", 
-            "mb_tag": "curcuna", 
-            "source": "http://musicbrainz.org/recording/faddb9eb-33f2-4c43-9f26-6f355b4a8974"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "faddb9eb-33f2-4c43-9f26-6f355b4a8974", 
+    "works": [
+        {
+            "mbid": "670beb49-9038-482c-9088-eca04a62ae2f", 
+            "title": "Sislendi Hava"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "hicaz", 
@@ -62,11 +57,16 @@
             "name": "Bekir S\u0131dk\u0131 Sezgin"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "670beb49-9038-482c-9088-eca04a62ae2f", 
-            "title": "Sislendi Hava"
+            "attribute_key": "curcuna", 
+            "mb_attribute": "Curcuna", 
+            "source": "http://musicbrainz.org/work/670beb49-9038-482c-9088-eca04a62ae2f"
+        }, 
+        {
+            "attribute_key": "kapali_curcuna", 
+            "mb_tag": "curcuna", 
+            "source": "http://musicbrainz.org/recording/faddb9eb-33f2-4c43-9f26-6f355b4a8974"
         }
     ]
 }

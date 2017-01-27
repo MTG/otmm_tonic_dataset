@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "duyek", 
-            "mb_attribute": "D\u00fcyek", 
-            "source": "http://musicbrainz.org/work/78bb9c2c-e288-44bc-b8dd-6a3be63b32ae"
-        }, 
-        {
-            "attribute_key": "duyek", 
-            "mb_tag": "d\u00fcyek", 
-            "source": "http://musicbrainz.org/recording/e8a889aa-989c-4d96-9978-3af3d08a9005"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "e8a889aa-989c-4d96-9978-3af3d08a9005", 
+    "works": [
+        {
+            "mbid": "78bb9c2c-e288-44bc-b8dd-6a3be63b32ae", 
+            "title": "Unutulmaz Ad\u0131nla"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "muhayyerkurdi", 
@@ -225,11 +220,16 @@
             "name": "Bekir \u00dcnl\u00fcataer"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "78bb9c2c-e288-44bc-b8dd-6a3be63b32ae", 
-            "title": "Unutulmaz Ad\u0131nla"
+            "attribute_key": "duyek", 
+            "mb_attribute": "D\u00fcyek", 
+            "source": "http://musicbrainz.org/work/78bb9c2c-e288-44bc-b8dd-6a3be63b32ae"
+        }, 
+        {
+            "attribute_key": "duyek", 
+            "mb_tag": "d\u00fcyek", 
+            "source": "http://musicbrainz.org/recording/e8a889aa-989c-4d96-9978-3af3d08a9005"
         }
     ]
 }

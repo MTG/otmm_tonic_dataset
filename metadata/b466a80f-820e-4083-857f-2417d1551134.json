@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "sakil", 
-            "mb_attribute": "Sakil", 
-            "source": "http://musicbrainz.org/work/26264847-f0af-44cf-b1b0-6a13ed0333fb"
-        }, 
-        {
-            "attribute_key": "sakil", 
-            "mb_tag": "sakil", 
-            "source": "http://musicbrainz.org/recording/b466a80f-820e-4083-857f-2417d1551134"
-        }
-    ], 
+    "instrumentation_voicing": "ensemble instrumental", 
     "form": [
         {
             "attribute_key": "pesrev", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "b466a80f-820e-4083-857f-2417d1551134", 
+    "works": [
+        {
+            "mbid": "26264847-f0af-44cf-b1b0-6a13ed0333fb", 
+            "title": "Rast Pe\u015frev"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "rast", 
@@ -220,11 +215,16 @@
             "name": "Tar\u0131k Kemanc\u0131"
         }
     ], 
-    "instrumentation_voicing": "Ensemble instrumental", 
-    "works": [
+    "usul": [
         {
-            "mbid": "26264847-f0af-44cf-b1b0-6a13ed0333fb", 
-            "title": "Rast Pe\u015frev"
+            "attribute_key": "sakil", 
+            "mb_attribute": "Sakil", 
+            "source": "http://musicbrainz.org/work/26264847-f0af-44cf-b1b0-6a13ed0333fb"
+        }, 
+        {
+            "attribute_key": "sakil", 
+            "mb_tag": "sakil", 
+            "source": "http://musicbrainz.org/recording/b466a80f-820e-4083-857f-2417d1551134"
         }
     ]
 }

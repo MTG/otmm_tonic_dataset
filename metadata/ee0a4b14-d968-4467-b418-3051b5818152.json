@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "curcuna", 
-            "mb_attribute": "Curcuna", 
-            "source": "http://musicbrainz.org/work/49c1e12d-aeb6-444f-ac29-373850cf29a2"
-        }, 
-        {
-            "attribute_key": "kapali_curcuna", 
-            "mb_tag": "curcuna", 
-            "source": "http://musicbrainz.org/recording/ee0a4b14-d968-4467-b418-3051b5818152"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal without accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "ee0a4b14-d968-4467-b418-3051b5818152", 
+    "works": [
+        {
+            "mbid": "49c1e12d-aeb6-444f-ac29-373850cf29a2", 
+            "title": "Gecenin Matemini A\u015fk\u0131ma \u00d6rt\u00fcp"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "huzzam", 
@@ -57,11 +52,16 @@
             "name": "M\u00fczeyyen Senar"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal without accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "49c1e12d-aeb6-444f-ac29-373850cf29a2", 
-            "title": "Gecenin Matemini A\u015fk\u0131ma \u00d6rt\u00fcp"
+            "attribute_key": "curcuna", 
+            "mb_attribute": "Curcuna", 
+            "source": "http://musicbrainz.org/work/49c1e12d-aeb6-444f-ac29-373850cf29a2"
+        }, 
+        {
+            "attribute_key": "kapali_curcuna", 
+            "mb_tag": "curcuna", 
+            "source": "http://musicbrainz.org/recording/ee0a4b14-d968-4467-b418-3051b5818152"
         }
     ]
 }

@@ -1,5 +1,5 @@
 {
-    "usul": [], 
+    "instrumentation_voicing": "ensemble instrumental", 
     "form": [
         {
             "attribute_key": "pesrev", 
@@ -27,6 +27,12 @@
         }
     ], 
     "mbid": "84e73a0e-f650-4ade-b437-69387d3d4063", 
+    "works": [
+        {
+            "mbid": "876f179e-322d-4c57-b270-5b38073b1b0b", 
+            "title": "Hisarbuselik Pe\u015frev"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "hisarbuselik", 
@@ -225,11 +231,5 @@
             "name": "Sedat G\u00fcndiyer"
         }
     ], 
-    "instrumentation_voicing": "Ensemble instrumental", 
-    "works": [
-        {
-            "mbid": "876f179e-322d-4c57-b270-5b38073b1b0b", 
-            "title": "Hisarbuselik Pe\u015frev"
-        }
-    ]
+    "usul": []
 }

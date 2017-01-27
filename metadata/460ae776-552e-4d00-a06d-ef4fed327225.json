@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "aksak", 
-            "mb_attribute": "Aksak", 
-            "source": "http://musicbrainz.org/work/ff8836b8-ee9b-4351-b30c-03b2aac0dc25"
-        }, 
-        {
-            "attribute_key": "aksak", 
-            "mb_tag": "aksak", 
-            "source": "http://musicbrainz.org/recording/460ae776-552e-4d00-a06d-ef4fed327225"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "460ae776-552e-4d00-a06d-ef4fed327225", 
+    "works": [
+        {
+            "mbid": "ff8836b8-ee9b-4351-b30c-03b2aac0dc25", 
+            "title": "Koklasam Sa\u00e7lar\u0131n\u0131"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "nihavent", 
@@ -121,11 +116,16 @@
             "name": "Osman Nuri \u00d6zpekel"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "ff8836b8-ee9b-4351-b30c-03b2aac0dc25", 
-            "title": "Koklasam Sa\u00e7lar\u0131n\u0131"
+            "attribute_key": "aksak", 
+            "mb_attribute": "Aksak", 
+            "source": "http://musicbrainz.org/work/ff8836b8-ee9b-4351-b30c-03b2aac0dc25"
+        }, 
+        {
+            "attribute_key": "aksak", 
+            "mb_tag": "aksak", 
+            "source": "http://musicbrainz.org/recording/460ae776-552e-4d00-a06d-ef4fed327225"
         }
     ]
 }

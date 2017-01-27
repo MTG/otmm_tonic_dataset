@@ -1,11 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "duyek", 
-            "mb_attribute": "D\u00fcyek", 
-            "source": "http://musicbrainz.org/work/a4d99d5b-e4a2-4b0b-8b92-2706710e3b53"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -33,6 +27,12 @@
         }
     ], 
     "mbid": "a07494f2-0d4b-4f2a-a00d-f88d1e60e68d", 
+    "works": [
+        {
+            "mbid": "a4d99d5b-e4a2-4b0b-8b92-2706710e3b53", 
+            "title": "El Eldirmek Vis\u00e2li Y\u00e2re Pek G\u00fc\u00e7"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "kurdilihicazkar", 
@@ -87,11 +87,11 @@
             "name": "Ayta\u00e7 Ergen"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "a4d99d5b-e4a2-4b0b-8b92-2706710e3b53", 
-            "title": "El Eldirmek Vis\u00e2li Y\u00e2re Pek G\u00fc\u00e7"
+            "attribute_key": "duyek", 
+            "mb_attribute": "D\u00fcyek", 
+            "source": "http://musicbrainz.org/work/a4d99d5b-e4a2-4b0b-8b92-2706710e3b53"
         }
     ]
 }

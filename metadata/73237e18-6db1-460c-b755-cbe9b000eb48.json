@@ -1,5 +1,5 @@
 {
-    "usul": [], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [], 
     "releases": [
         {
@@ -16,6 +16,12 @@
         }
     ], 
     "mbid": "73237e18-6db1-460c-b755-cbe9b000eb48", 
+    "works": [
+        {
+            "mbid": "8ff551e0-507d-418e-a62f-57d3126bc671", 
+            "title": "Karev-l\u0131 \u015eenat"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "bestenigar", 
@@ -59,11 +65,5 @@
             "name": "Derya T\u00fcrkan"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
-        {
-            "mbid": "8ff551e0-507d-418e-a62f-57d3126bc671", 
-            "title": "Karev-l\u0131 \u015eenat"
-        }
-    ]
+    "usul": []
 }

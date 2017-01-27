@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "musemmen", 
-            "mb_attribute": "M\u00fcsemmen", 
-            "source": "http://musicbrainz.org/work/08507ea8-4766-4850-a971-bcc47737f6e4"
-        }, 
-        {
-            "attribute_key": "musemmen_ii", 
-            "mb_tag": "m\u00fcsemmen", 
-            "source": "http://musicbrainz.org/recording/f15e55b0-77e3-4e01-9c84-c3a45144c523"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "f15e55b0-77e3-4e01-9c84-c3a45144c523", 
+    "works": [
+        {
+            "mbid": "08507ea8-4766-4850-a971-bcc47737f6e4", 
+            "title": "G\u00f6sterip A\u011fyare Lutfun Bizlere Biganesin"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "mahur", 
@@ -65,11 +60,16 @@
             "name": "Haf\u0131z Kemal Bey"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "08507ea8-4766-4850-a971-bcc47737f6e4", 
-            "title": "G\u00f6sterip A\u011fyare Lutfun Bizlere Biganesin"
+            "attribute_key": "musemmen", 
+            "mb_attribute": "M\u00fcsemmen", 
+            "source": "http://musicbrainz.org/work/08507ea8-4766-4850-a971-bcc47737f6e4"
+        }, 
+        {
+            "attribute_key": "musemmen_ii", 
+            "mb_tag": "m\u00fcsemmen", 
+            "source": "http://musicbrainz.org/recording/f15e55b0-77e3-4e01-9c84-c3a45144c523"
         }
     ]
 }

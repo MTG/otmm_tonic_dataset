@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "aksaksemai", 
-            "mb_attribute": "Aksaksemai", 
-            "source": "http://musicbrainz.org/work/80a81c87-eb6e-40dc-b69a-e0712b4374f2"
-        }, 
-        {
-            "attribute_key": "aksaksemai", 
-            "mb_tag": "aksaksemai", 
-            "source": "http://musicbrainz.org/recording/60f7b0d0-606a-4f58-9ff5-211f0facec86"
-        }
-    ], 
+    "instrumentation_voicing": "duo instrumental", 
     "form": [
         {
             "attribute_key": "sazsemaisi", 
@@ -42,6 +31,12 @@
         }
     ], 
     "mbid": "60f7b0d0-606a-4f58-9ff5-211f0facec86", 
+    "works": [
+        {
+            "mbid": "80a81c87-eb6e-40dc-b69a-e0712b4374f2", 
+            "title": "Ferahfeza Sazsemaisi"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "ferahfeza", 
@@ -72,11 +67,16 @@
             "name": "Derya T\u00fcrkan"
         }
     ], 
-    "instrumentation_voicing": "Duo instrumental", 
-    "works": [
+    "usul": [
         {
-            "mbid": "80a81c87-eb6e-40dc-b69a-e0712b4374f2", 
-            "title": "Ferahfeza Sazsemaisi"
+            "attribute_key": "aksaksemai", 
+            "mb_attribute": "Aksaksemai", 
+            "source": "http://musicbrainz.org/work/80a81c87-eb6e-40dc-b69a-e0712b4374f2"
+        }, 
+        {
+            "attribute_key": "aksaksemai", 
+            "mb_tag": "aksaksemai", 
+            "source": "http://musicbrainz.org/recording/60f7b0d0-606a-4f58-9ff5-211f0facec86"
         }
     ]
 }

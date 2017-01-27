@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "turkaksagi", 
-            "mb_attribute": "T\u00fcrkaksa\u011f\u0131", 
-            "source": "http://musicbrainz.org/work/264127e5-82b5-4ea7-a1d3-80074fafa19d"
-        }, 
-        {
-            "attribute_key": "turkaksagi_ii", 
-            "mb_tag": "t\u00fcrkaksa\u011f\u0131", 
-            "source": "http://musicbrainz.org/recording/516b99cd-060c-4212-83f1-5693012c5d2b"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal without accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -42,6 +31,12 @@
         }
     ], 
     "mbid": "516b99cd-060c-4212-83f1-5693012c5d2b", 
+    "works": [
+        {
+            "mbid": "264127e5-82b5-4ea7-a1d3-80074fafa19d", 
+            "title": "Sensiz Bu Sabah"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "suzinak", 
@@ -61,11 +56,16 @@
             "name": "Lale Han\u0131m"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal without accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "264127e5-82b5-4ea7-a1d3-80074fafa19d", 
-            "title": "Sensiz Bu Sabah"
+            "attribute_key": "turkaksagi", 
+            "mb_attribute": "T\u00fcrkaksa\u011f\u0131", 
+            "source": "http://musicbrainz.org/work/264127e5-82b5-4ea7-a1d3-80074fafa19d"
+        }, 
+        {
+            "attribute_key": "turkaksagi_ii", 
+            "mb_tag": "t\u00fcrkaksa\u011f\u0131", 
+            "source": "http://musicbrainz.org/recording/516b99cd-060c-4212-83f1-5693012c5d2b"
         }
     ]
 }

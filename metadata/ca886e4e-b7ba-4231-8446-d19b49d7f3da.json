@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "cifteduyek", 
-            "mb_attribute": "\u00c7ifted\u00fcyek", 
-            "source": "http://musicbrainz.org/work/01510767-677e-4c52-aed4-3e18e2fd2c61"
-        }, 
-        {
-            "attribute_key": "cifteduyek", 
-            "mb_tag": "\u00e7ifted\u00fcyek", 
-            "source": "http://musicbrainz.org/recording/ca886e4e-b7ba-4231-8446-d19b49d7f3da"
-        }
-    ], 
+    "instrumentation_voicing": "ensemble instrumental", 
     "form": [
         {
             "attribute_key": "pesrev", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "ca886e4e-b7ba-4231-8446-d19b49d7f3da", 
+    "works": [
+        {
+            "mbid": "01510767-677e-4c52-aed4-3e18e2fd2c61", 
+            "title": "Karc\u0131\u011far Pe\u015frev"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "karcigar", 
@@ -57,11 +52,16 @@
             "name": "Kudsi Erguner Ensemble"
         }
     ], 
-    "instrumentation_voicing": "Ensemble instrumental", 
-    "works": [
+    "usul": [
         {
-            "mbid": "01510767-677e-4c52-aed4-3e18e2fd2c61", 
-            "title": "Karc\u0131\u011far Pe\u015frev"
+            "attribute_key": "cifteduyek", 
+            "mb_attribute": "\u00c7ifted\u00fcyek", 
+            "source": "http://musicbrainz.org/work/01510767-677e-4c52-aed4-3e18e2fd2c61"
+        }, 
+        {
+            "attribute_key": "cifteduyek", 
+            "mb_tag": "\u00e7ifted\u00fcyek", 
+            "source": "http://musicbrainz.org/recording/ca886e4e-b7ba-4231-8446-d19b49d7f3da"
         }
     ]
 }

@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "duyek", 
-            "mb_attribute": "D\u00fcyek", 
-            "source": "http://musicbrainz.org/work/c2a3768e-6982-4c75-a30b-6abf757327bb"
-        }, 
-        {
-            "attribute_key": "duyek", 
-            "mb_tag": "d\u00fcyek", 
-            "source": "http://musicbrainz.org/recording/75c034d1-11e0-4851-93d8-a07ba41fae81"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -42,6 +31,12 @@
         }
     ], 
     "mbid": "75c034d1-11e0-4851-93d8-a07ba41fae81", 
+    "works": [
+        {
+            "mbid": "c2a3768e-6982-4c75-a30b-6abf757327bb", 
+            "title": "Emeli Meyl-i Vefa"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "beyati", 
@@ -112,11 +107,16 @@
             "name": "G\u00f6khan \u00c7a\u011fl\u0131"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "c2a3768e-6982-4c75-a30b-6abf757327bb", 
-            "title": "Emeli Meyl-i Vefa"
+            "attribute_key": "duyek", 
+            "mb_attribute": "D\u00fcyek", 
+            "source": "http://musicbrainz.org/work/c2a3768e-6982-4c75-a30b-6abf757327bb"
+        }, 
+        {
+            "attribute_key": "duyek", 
+            "mb_tag": "d\u00fcyek", 
+            "source": "http://musicbrainz.org/recording/75c034d1-11e0-4851-93d8-a07ba41fae81"
         }
     ]
 }

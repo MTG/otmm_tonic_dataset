@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "aksak", 
-            "mb_attribute": "Aksak", 
-            "source": "http://musicbrainz.org/work/4d52e24d-8432-3c49-988a-16e0310a062b"
-        }, 
-        {
-            "attribute_key": "aksak", 
-            "mb_tag": "aksak", 
-            "source": "http://musicbrainz.org/recording/7b6f48da-b415-4664-880b-2a37a60fb897"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "7b6f48da-b415-4664-880b-2a37a60fb897", 
+    "works": [
+        {
+            "mbid": "4d52e24d-8432-3c49-988a-16e0310a062b", 
+            "title": "Bir Bahar Ak\u015fam\u0131"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "hicaz", 
@@ -129,11 +124,16 @@
             "name": "Atilla G\u00fcnd\u00fcz"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "4d52e24d-8432-3c49-988a-16e0310a062b", 
-            "title": "Bir Bahar Ak\u015fam\u0131"
+            "attribute_key": "aksak", 
+            "mb_attribute": "Aksak", 
+            "source": "http://musicbrainz.org/work/4d52e24d-8432-3c49-988a-16e0310a062b"
+        }, 
+        {
+            "attribute_key": "aksak", 
+            "mb_tag": "aksak", 
+            "source": "http://musicbrainz.org/recording/7b6f48da-b415-4664-880b-2a37a60fb897"
         }
     ]
 }

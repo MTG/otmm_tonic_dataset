@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "aksaksemai", 
-            "mb_attribute": "Aksaksemai", 
-            "source": "http://musicbrainz.org/work/80a81c87-eb6e-40dc-b69a-e0712b4374f2"
-        }, 
-        {
-            "attribute_key": "aksaksemai", 
-            "mb_tag": "aksaksemai", 
-            "source": "http://musicbrainz.org/recording/e3a22684-d237-48b5-ac27-e9b77ddd3c18"
-        }
-    ], 
+    "instrumentation_voicing": "solo instrumental", 
     "form": [
         {
             "attribute_key": "sazsemaisi", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "e3a22684-d237-48b5-ac27-e9b77ddd3c18", 
+    "works": [
+        {
+            "mbid": "80a81c87-eb6e-40dc-b69a-e0712b4374f2", 
+            "title": "Ferahfeza Sazsemaisi"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "ferahfeza", 
@@ -60,11 +55,16 @@
             "name": "Salih Bilgin"
         }
     ], 
-    "instrumentation_voicing": "Solo instrumental", 
-    "works": [
+    "usul": [
         {
-            "mbid": "80a81c87-eb6e-40dc-b69a-e0712b4374f2", 
-            "title": "Ferahfeza Sazsemaisi"
+            "attribute_key": "aksaksemai", 
+            "mb_attribute": "Aksaksemai", 
+            "source": "http://musicbrainz.org/work/80a81c87-eb6e-40dc-b69a-e0712b4374f2"
+        }, 
+        {
+            "attribute_key": "aksaksemai", 
+            "mb_tag": "aksaksemai", 
+            "source": "http://musicbrainz.org/recording/e3a22684-d237-48b5-ac27-e9b77ddd3c18"
         }
     ]
 }

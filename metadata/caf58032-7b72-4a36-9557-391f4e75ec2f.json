@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "yuruksemai", 
-            "mb_attribute": "Y\u00fcr\u00fcksemai", 
-            "source": "http://musicbrainz.org/work/c677348d-ad7b-4094-a2c1-8c00d3e4c3ee"
-        }, 
-        {
-            "attribute_key": "yuruksemai", 
-            "mb_tag": "y\u00fcr\u00fcksemai", 
-            "source": "http://musicbrainz.org/recording/caf58032-7b72-4a36-9557-391f4e75ec2f"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "nakis", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "caf58032-7b72-4a36-9557-391f4e75ec2f", 
+    "works": [
+        {
+            "mbid": "c677348d-ad7b-4094-a2c1-8c00d3e4c3ee", 
+            "title": "Ne Heva-y\u0131 Ba\u011f-\u0131 Sazed"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "acemasiran", 
@@ -92,11 +87,16 @@
             "name": "Do\u011fan Dikmen"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "c677348d-ad7b-4094-a2c1-8c00d3e4c3ee", 
-            "title": "Ne Heva-y\u0131 Ba\u011f-\u0131 Sazed"
+            "attribute_key": "yuruksemai", 
+            "mb_attribute": "Y\u00fcr\u00fcksemai", 
+            "source": "http://musicbrainz.org/work/c677348d-ad7b-4094-a2c1-8c00d3e4c3ee"
+        }, 
+        {
+            "attribute_key": "yuruksemai", 
+            "mb_tag": "y\u00fcr\u00fcksemai", 
+            "source": "http://musicbrainz.org/recording/caf58032-7b72-4a36-9557-391f4e75ec2f"
         }
     ]
 }

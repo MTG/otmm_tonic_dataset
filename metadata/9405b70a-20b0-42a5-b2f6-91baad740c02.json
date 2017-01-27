@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "duyek", 
-            "mb_attribute": "D\u00fcyek", 
-            "source": "http://musicbrainz.org/work/48fbedf2-5717-4beb-a97e-3b4a50d291ba"
-        }, 
-        {
-            "attribute_key": "duyek", 
-            "mb_tag": "d\u00fcyek", 
-            "source": "http://musicbrainz.org/recording/9405b70a-20b0-42a5-b2f6-91baad740c02"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "ilahi", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "9405b70a-20b0-42a5-b2f6-91baad740c02", 
+    "works": [
+        {
+            "mbid": "48fbedf2-5717-4beb-a97e-3b4a50d291ba", 
+            "title": "Rumda Acemde A\u015f\u0131k Oldu\u011fum"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "suzinak", 
@@ -62,11 +57,16 @@
             "name": "[unknown]"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "48fbedf2-5717-4beb-a97e-3b4a50d291ba", 
-            "title": "Rumda Acemde A\u015f\u0131k Oldu\u011fum"
+            "attribute_key": "duyek", 
+            "mb_attribute": "D\u00fcyek", 
+            "source": "http://musicbrainz.org/work/48fbedf2-5717-4beb-a97e-3b4a50d291ba"
+        }, 
+        {
+            "attribute_key": "duyek", 
+            "mb_tag": "d\u00fcyek", 
+            "source": "http://musicbrainz.org/recording/9405b70a-20b0-42a5-b2f6-91baad740c02"
         }
     ]
 }

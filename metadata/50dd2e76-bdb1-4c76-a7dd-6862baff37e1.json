@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "bektasiraksani", 
-            "mb_attribute": "Bekta\u015fi Raksan\u0131", 
-            "source": "http://musicbrainz.org/work/3d9a6644-0d1a-428c-8370-297082b69689"
-        }, 
-        {
-            "attribute_key": "raksan", 
-            "mb_tag": "raksan", 
-            "source": "http://musicbrainz.org/recording/50dd2e76-bdb1-4c76-a7dd-6862baff37e1"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "nefes", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "50dd2e76-bdb1-4c76-a7dd-6862baff37e1", 
+    "works": [
+        {
+            "mbid": "3d9a6644-0d1a-428c-8370-297082b69689", 
+            "title": "\u015eah-\u0131 Merdan\u0131n Avaz\u0131"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "acemkurdi", 
@@ -62,11 +57,16 @@
             "name": "Bekir S\u0131dk\u0131 Sezgin"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "3d9a6644-0d1a-428c-8370-297082b69689", 
-            "title": "\u015eah-\u0131 Merdan\u0131n Avaz\u0131"
+            "attribute_key": "bektasiraksani", 
+            "mb_attribute": "Bekta\u015fi Raksan\u0131", 
+            "source": "http://musicbrainz.org/work/3d9a6644-0d1a-428c-8370-297082b69689"
+        }, 
+        {
+            "attribute_key": "raksan", 
+            "mb_tag": "raksan", 
+            "source": "http://musicbrainz.org/recording/50dd2e76-bdb1-4c76-a7dd-6862baff37e1"
         }
     ]
 }

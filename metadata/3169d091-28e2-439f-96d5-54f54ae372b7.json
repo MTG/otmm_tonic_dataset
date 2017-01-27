@@ -1,5 +1,5 @@
 {
-    "usul": [], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "ilahi", 
@@ -27,6 +27,12 @@
         }
     ], 
     "mbid": "3169d091-28e2-439f-96d5-54f54ae372b7", 
+    "works": [
+        {
+            "mbid": "b1ca68f2-ef46-4765-9e9b-74062607fe5b", 
+            "title": "Anenu"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "huseyni", 
@@ -86,11 +92,5 @@
             "name": "Derya T\u00fcrkan"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
-        {
-            "mbid": "b1ca68f2-ef46-4765-9e9b-74062607fe5b", 
-            "title": "Anenu"
-        }
-    ]
+    "usul": []
 }

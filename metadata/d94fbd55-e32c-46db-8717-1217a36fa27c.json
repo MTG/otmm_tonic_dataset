@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "agiraksak", 
-            "mb_attribute": "A\u011f\u0131raksak", 
-            "source": "http://musicbrainz.org/work/e41ab346-4c6f-4639-9ac0-e9de1caccdf4"
-        }, 
-        {
-            "attribute_key": "aksak", 
-            "mb_tag": "aksak", 
-            "source": "http://musicbrainz.org/recording/d94fbd55-e32c-46db-8717-1217a36fa27c"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal without accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "d94fbd55-e32c-46db-8717-1217a36fa27c", 
+    "works": [
+        {
+            "mbid": "e41ab346-4c6f-4639-9ac0-e9de1caccdf4", 
+            "title": "Bana Hem Dem Eyleyen Ey Gam Seni"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "hicazkar", 
@@ -57,11 +52,16 @@
             "name": "Sabite Tur G\u00fclerman"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal without accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "e41ab346-4c6f-4639-9ac0-e9de1caccdf4", 
-            "title": "Bana Hem Dem Eyleyen Ey Gam Seni"
+            "attribute_key": "agiraksak", 
+            "mb_attribute": "A\u011f\u0131raksak", 
+            "source": "http://musicbrainz.org/work/e41ab346-4c6f-4639-9ac0-e9de1caccdf4"
+        }, 
+        {
+            "attribute_key": "aksak", 
+            "mb_tag": "aksak", 
+            "source": "http://musicbrainz.org/recording/d94fbd55-e32c-46db-8717-1217a36fa27c"
         }
     ]
 }

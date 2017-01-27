@@ -1,11 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "aksaksemai", 
-            "mb_attribute": "Aksaksemai", 
-            "source": "http://musicbrainz.org/work/3cea4b37-3225-4bfc-9d8e-ffd990f56689"
-        }
-    ], 
+    "instrumentation_voicing": "solo instrumental", 
     "form": [
         {
             "attribute_key": "sazsemaisi", 
@@ -33,6 +27,12 @@
         }
     ], 
     "mbid": "9d0b294c-d40e-40e2-b991-3aa47f61dd95", 
+    "works": [
+        {
+            "mbid": "3cea4b37-3225-4bfc-9d8e-ffd990f56689", 
+            "title": "Hicaz Sazsemaisi"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "hicaz_humayun", 
@@ -55,11 +55,11 @@
             "name": "Volkan Y\u0131lmaz"
         }
     ], 
-    "instrumentation_voicing": "Solo instrumental", 
-    "works": [
+    "usul": [
         {
-            "mbid": "3cea4b37-3225-4bfc-9d8e-ffd990f56689", 
-            "title": "Hicaz Sazsemaisi"
+            "attribute_key": "aksaksemai", 
+            "mb_attribute": "Aksaksemai", 
+            "source": "http://musicbrainz.org/work/3cea4b37-3225-4bfc-9d8e-ffd990f56689"
         }
     ]
 }

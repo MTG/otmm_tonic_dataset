@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "aksaksemai", 
-            "mb_attribute": "Aksaksemai", 
-            "source": "http://musicbrainz.org/work/50f8563f-9077-4a49-989a-d6e5daacf8d7"
-        }, 
-        {
-            "attribute_key": "aksaksemai", 
-            "mb_tag": "aksaksemai", 
-            "source": "http://musicbrainz.org/recording/1e7aa252-93e7-4589-b94b-83c2c0e47503"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "agirsemai", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "1e7aa252-93e7-4589-b94b-83c2c0e47503", 
+    "works": [
+        {
+            "mbid": "50f8563f-9077-4a49-989a-d6e5daacf8d7", 
+            "title": "Nice Bir B\u00fclb\u00fcl-i Nal\u00e2n Edeyim"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "sazkar", 
@@ -62,11 +57,16 @@
             "name": "Bekir S\u0131dk\u0131 Sezgin"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "50f8563f-9077-4a49-989a-d6e5daacf8d7", 
-            "title": "Nice Bir B\u00fclb\u00fcl-i Nal\u00e2n Edeyim"
+            "attribute_key": "aksaksemai", 
+            "mb_attribute": "Aksaksemai", 
+            "source": "http://musicbrainz.org/work/50f8563f-9077-4a49-989a-d6e5daacf8d7"
+        }, 
+        {
+            "attribute_key": "aksaksemai", 
+            "mb_tag": "aksaksemai", 
+            "source": "http://musicbrainz.org/recording/1e7aa252-93e7-4589-b94b-83c2c0e47503"
         }
     ]
 }

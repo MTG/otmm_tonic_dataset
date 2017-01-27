@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "duyek", 
-            "mb_attribute": "D\u00fcyek", 
-            "source": "http://musicbrainz.org/work/307aecac-526d-49cf-9ab3-bcb4d33566b1"
-        }, 
-        {
-            "attribute_key": "duyek", 
-            "mb_tag": "d\u00fcyek", 
-            "source": "http://musicbrainz.org/recording/e05b2a9f-a129-4847-99ca-562628b97bc1"
-        }
-    ], 
+    "instrumentation_voicing": "ensemble instrumental", 
     "form": [
         {
             "attribute_key": "pesrev", 
@@ -62,6 +51,12 @@
         }
     ], 
     "mbid": "e05b2a9f-a129-4847-99ca-562628b97bc1", 
+    "works": [
+        {
+            "mbid": "307aecac-526d-49cf-9ab3-bcb4d33566b1", 
+            "title": "Saba Pe\u015frev"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "saba", 
@@ -132,11 +127,16 @@
             "name": "Safinaz Rizeli"
         }
     ], 
-    "instrumentation_voicing": "Ensemble instrumental", 
-    "works": [
+    "usul": [
         {
-            "mbid": "307aecac-526d-49cf-9ab3-bcb4d33566b1", 
-            "title": "Saba Pe\u015frev"
+            "attribute_key": "duyek", 
+            "mb_attribute": "D\u00fcyek", 
+            "source": "http://musicbrainz.org/work/307aecac-526d-49cf-9ab3-bcb4d33566b1"
+        }, 
+        {
+            "attribute_key": "duyek", 
+            "mb_tag": "d\u00fcyek", 
+            "source": "http://musicbrainz.org/recording/e05b2a9f-a129-4847-99ca-562628b97bc1"
         }
     ]
 }

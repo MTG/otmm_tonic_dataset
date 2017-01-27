@@ -1,5 +1,5 @@
 {
-    "usul": [], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "kupe", 
@@ -43,6 +43,12 @@
         }
     ], 
     "mbid": "f18dea69-8780-432b-967e-e6e03046dd83", 
+    "works": [
+        {
+            "mbid": "f3f9c442-1c60-48ab-a299-54cba719887b", 
+            "title": "Rahmet Eyle Bana"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "ussak", 
@@ -95,11 +101,5 @@
             "name": "Sava\u015f \u015e. Bark\u00e7in"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
-        {
-            "mbid": "f3f9c442-1c60-48ab-a299-54cba719887b", 
-            "title": "Rahmet Eyle Bana"
-        }
-    ]
+    "usul": []
 }

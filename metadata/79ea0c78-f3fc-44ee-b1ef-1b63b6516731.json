@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "devrikebir", 
-            "mb_attribute": "Devr-i Kebir", 
-            "source": "http://musicbrainz.org/work/826b1c80-e409-42c5-9f67-7a05a0ec2453"
-        }, 
-        {
-            "attribute_key": "devrirevan", 
-            "mb_tag": "devr-i revan", 
-            "source": "http://musicbrainz.org/recording/79ea0c78-f3fc-44ee-b1ef-1b63b6516731"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "pesrev", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "79ea0c78-f3fc-44ee-b1ef-1b63b6516731", 
+    "works": [
+        {
+            "mbid": "826b1c80-e409-42c5-9f67-7a05a0ec2453", 
+            "title": "H\u00fczzam Ayin-i \u015eerif"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "huzzam", 
@@ -62,11 +57,16 @@
             "name": "Dede Efendi T\u00fcrk M\u00fczi\u011fi Toplulu\u011fu"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "826b1c80-e409-42c5-9f67-7a05a0ec2453", 
-            "title": "H\u00fczzam Ayin-i \u015eerif"
+            "attribute_key": "devrikebir", 
+            "mb_attribute": "Devr-i Kebir", 
+            "source": "http://musicbrainz.org/work/826b1c80-e409-42c5-9f67-7a05a0ec2453"
+        }, 
+        {
+            "attribute_key": "devrirevan", 
+            "mb_tag": "devr-i revan", 
+            "source": "http://musicbrainz.org/recording/79ea0c78-f3fc-44ee-b1ef-1b63b6516731"
         }
     ]
 }

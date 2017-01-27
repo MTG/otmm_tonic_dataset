@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "nimsofyan", 
-            "mb_attribute": "Nimsofyan", 
-            "source": "http://musicbrainz.org/work/d95f4a85-23a1-4d84-b425-fb55a4ee67c6"
-        }, 
-        {
-            "attribute_key": "nimsofyan", 
-            "mb_tag": "nimsofyan", 
-            "source": "http://musicbrainz.org/recording/14011beb-2a00-4b33-a64a-75164a1c30a0"
-        }
-    ], 
+    "instrumentation_voicing": "solo instrumental", 
     "form": [
         {
             "attribute_key": "sirto", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "14011beb-2a00-4b33-a64a-75164a1c30a0", 
+    "works": [
+        {
+            "mbid": "d95f4a85-23a1-4d84-b425-fb55a4ee67c6", 
+            "title": "Rast Sirto"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "rast", 
@@ -60,11 +55,16 @@
             "name": "Taner Kalkulo\u011flu"
         }
     ], 
-    "instrumentation_voicing": "Solo instrumental", 
-    "works": [
+    "usul": [
         {
-            "mbid": "d95f4a85-23a1-4d84-b425-fb55a4ee67c6", 
-            "title": "Rast Sirto"
+            "attribute_key": "nimsofyan", 
+            "mb_attribute": "Nimsofyan", 
+            "source": "http://musicbrainz.org/work/d95f4a85-23a1-4d84-b425-fb55a4ee67c6"
+        }, 
+        {
+            "attribute_key": "nimsofyan", 
+            "mb_tag": "nimsofyan", 
+            "source": "http://musicbrainz.org/recording/14011beb-2a00-4b33-a64a-75164a1c30a0"
         }
     ]
 }

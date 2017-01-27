@@ -1,21 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "aksaksemai", 
-            "mb_attribute": "Aksaksemai", 
-            "source": "http://musicbrainz.org/work/9afa81b7-5d65-4235-b66c-a766e3ed1281"
-        }, 
-        {
-            "attribute_key": "fahte", 
-            "mb_attribute": "Fahte", 
-            "source": "http://musicbrainz.org/work/9afa81b7-5d65-4235-b66c-a766e3ed1281"
-        }, 
-        {
-            "attribute_key": "aksaksemai", 
-            "mb_tag": "aksaksemai", 
-            "source": "http://musicbrainz.org/recording/9f5ac91c-d168-4065-bbce-f07c33de9eb5"
-        }
-    ], 
+    "instrumentation_voicing": "solo instrumental", 
     "form": [
         {
             "attribute_key": "pesrev", 
@@ -48,6 +32,12 @@
         }
     ], 
     "mbid": "9f5ac91c-d168-4065-bbce-f07c33de9eb5", 
+    "works": [
+        {
+            "mbid": "9afa81b7-5d65-4235-b66c-a766e3ed1281", 
+            "title": "Acemk\u00fcrdi Sazsemaisi"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "acemkurdi", 
@@ -71,11 +61,21 @@
             "name": "Erol Deran"
         }
     ], 
-    "instrumentation_voicing": "Solo instrumental", 
-    "works": [
+    "usul": [
         {
-            "mbid": "9afa81b7-5d65-4235-b66c-a766e3ed1281", 
-            "title": "Acemk\u00fcrdi Sazsemaisi"
+            "attribute_key": "aksaksemai", 
+            "mb_attribute": "Aksaksemai", 
+            "source": "http://musicbrainz.org/work/9afa81b7-5d65-4235-b66c-a766e3ed1281"
+        }, 
+        {
+            "attribute_key": "fahte", 
+            "mb_attribute": "Fahte", 
+            "source": "http://musicbrainz.org/work/9afa81b7-5d65-4235-b66c-a766e3ed1281"
+        }, 
+        {
+            "attribute_key": "aksaksemai", 
+            "mb_tag": "aksaksemai", 
+            "source": "http://musicbrainz.org/recording/9f5ac91c-d168-4065-bbce-f07c33de9eb5"
         }
     ]
 }

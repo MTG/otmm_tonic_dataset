@@ -1,21 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "aksaksemai", 
-            "mb_attribute": "Aksaksemai", 
-            "source": "http://musicbrainz.org/work/bcf2f9b2-7a89-444f-8be5-de56e991b406"
-        }, 
-        {
-            "attribute_key": "kapali_curcuna", 
-            "mb_tag": "curcuna", 
-            "source": "http://musicbrainz.org/recording/e98f5540-1dd2-4a1a-abf4-6c9ef8ea05d1"
-        }, 
-        {
-            "attribute_key": "aksaksemai", 
-            "mb_tag": "aksaksemai", 
-            "source": "http://musicbrainz.org/recording/e98f5540-1dd2-4a1a-abf4-6c9ef8ea05d1"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -43,6 +27,12 @@
         }
     ], 
     "mbid": "e98f5540-1dd2-4a1a-abf4-6c9ef8ea05d1", 
+    "works": [
+        {
+            "mbid": "bcf2f9b2-7a89-444f-8be5-de56e991b406", 
+            "title": "Nazirin Yok Senin"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "evic", 
@@ -67,11 +57,21 @@
             "name": "Bekir S\u0131dk\u0131 Sezgin"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "bcf2f9b2-7a89-444f-8be5-de56e991b406", 
-            "title": "Nazirin Yok Senin"
+            "attribute_key": "aksaksemai", 
+            "mb_attribute": "Aksaksemai", 
+            "source": "http://musicbrainz.org/work/bcf2f9b2-7a89-444f-8be5-de56e991b406"
+        }, 
+        {
+            "attribute_key": "kapali_curcuna", 
+            "mb_tag": "curcuna", 
+            "source": "http://musicbrainz.org/recording/e98f5540-1dd2-4a1a-abf4-6c9ef8ea05d1"
+        }, 
+        {
+            "attribute_key": "aksaksemai", 
+            "mb_tag": "aksaksemai", 
+            "source": "http://musicbrainz.org/recording/e98f5540-1dd2-4a1a-abf4-6c9ef8ea05d1"
         }
     ]
 }

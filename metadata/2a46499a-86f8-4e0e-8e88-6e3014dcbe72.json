@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "agiraksak", 
-            "mb_attribute": "A\u011f\u0131raksak", 
-            "source": "http://musicbrainz.org/work/cda21395-7663-400a-99de-479b14ea0e0d"
-        }, 
-        {
-            "attribute_key": "agiraksak", 
-            "mb_tag": "a\u011f\u0131raksak", 
-            "source": "http://musicbrainz.org/recording/2a46499a-86f8-4e0e-8e88-6e3014dcbe72"
-        }
-    ], 
+    "instrumentation_voicing": "choir", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "2a46499a-86f8-4e0e-8e88-6e3014dcbe72", 
+    "works": [
+        {
+            "mbid": "cda21395-7663-400a-99de-479b14ea0e0d", 
+            "title": "Gel Seninle"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "suzinak", 
@@ -398,11 +393,16 @@
             "name": "Asuman Demirba\u015f"
         }
     ], 
-    "instrumentation_voicing": "Choir", 
-    "works": [
+    "usul": [
         {
-            "mbid": "cda21395-7663-400a-99de-479b14ea0e0d", 
-            "title": "Gel Seninle"
+            "attribute_key": "agiraksak", 
+            "mb_attribute": "A\u011f\u0131raksak", 
+            "source": "http://musicbrainz.org/work/cda21395-7663-400a-99de-479b14ea0e0d"
+        }, 
+        {
+            "attribute_key": "agiraksak", 
+            "mb_tag": "a\u011f\u0131raksak", 
+            "source": "http://musicbrainz.org/recording/2a46499a-86f8-4e0e-8e88-6e3014dcbe72"
         }
     ]
 }

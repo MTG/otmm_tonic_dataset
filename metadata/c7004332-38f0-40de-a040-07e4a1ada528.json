@@ -1,11 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "yuruksemai_ii", 
-            "mb_attribute": "Y\u00fcr\u00fcksemai II", 
-            "source": "http://musicbrainz.org/work/77d378a1-6879-4595-9336-5487c6507922"
-        }
-    ], 
+    "instrumentation_voicing": "duet", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -32,6 +26,12 @@
         }
     ], 
     "mbid": "c7004332-38f0-40de-a040-07e4a1ada528", 
+    "works": [
+        {
+            "mbid": "77d378a1-6879-4595-9336-5487c6507922", 
+            "title": "Ey B\u00fct-i Nev Eda"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "hicaz", 
@@ -115,11 +115,11 @@
             "name": "Sarper Ero\u011flu"
         }
     ], 
-    "instrumentation_voicing": "Duet", 
-    "works": [
+    "usul": [
         {
-            "mbid": "77d378a1-6879-4595-9336-5487c6507922", 
-            "title": "Ey B\u00fct-i Nev Eda"
+            "attribute_key": "yuruksemai_ii", 
+            "mb_attribute": "Y\u00fcr\u00fcksemai II", 
+            "source": "http://musicbrainz.org/work/77d378a1-6879-4595-9336-5487c6507922"
         }
     ]
 }

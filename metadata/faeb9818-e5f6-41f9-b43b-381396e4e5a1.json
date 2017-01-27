@@ -1,11 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "evfer", 
-            "mb_tag": "evfer", 
-            "source": "http://musicbrainz.org/recording/faeb9818-e5f6-41f9-b43b-381396e4e5a1"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "ayin_i_serif", 
@@ -33,6 +27,12 @@
         }
     ], 
     "mbid": "faeb9818-e5f6-41f9-b43b-381396e4e5a1", 
+    "works": [
+        {
+            "mbid": "c6cdec1a-8763-48dd-9aa9-ad89d5a5e322", 
+            "title": "Ferahfeza Ayin-i \u015eerif"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "ferahfeza", 
@@ -57,11 +57,11 @@
             "name": "Dede Efendi T\u00fcrk M\u00fczi\u011fi Toplulu\u011fu"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "c6cdec1a-8763-48dd-9aa9-ad89d5a5e322", 
-            "title": "Ferahfeza Ayin-i \u015eerif"
+            "attribute_key": "evfer", 
+            "mb_tag": "evfer", 
+            "source": "http://musicbrainz.org/recording/faeb9818-e5f6-41f9-b43b-381396e4e5a1"
         }
     ]
 }

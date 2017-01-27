@@ -1,11 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "serbest", 
-            "mb_tag": "serbest", 
-            "source": "http://musicbrainz.org/recording/0a49eb8e-79f5-429e-9846-a36dda35dd23"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [], 
     "releases": [
         {
@@ -22,6 +16,12 @@
         }
     ], 
     "mbid": "0a49eb8e-79f5-429e-9846-a36dda35dd23", 
+    "works": [
+        {
+            "mbid": "9f36ad2b-25ca-4aae-a5ef-9ad107295aaf", 
+            "title": "Etmiyor Kalbim Tahamm\u00fcl Ate\u015f-i Hicran\u0131na"
+        }
+    ], 
     "makam": [], 
     "artists": [
         {
@@ -35,11 +35,11 @@
             "name": "Bekir S\u0131dk\u0131 Sezgin"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "9f36ad2b-25ca-4aae-a5ef-9ad107295aaf", 
-            "title": "Etmiyor Kalbim Tahamm\u00fcl Ate\u015f-i Hicran\u0131na"
+            "attribute_key": "serbest", 
+            "mb_tag": "serbest", 
+            "source": "http://musicbrainz.org/recording/0a49eb8e-79f5-429e-9846-a36dda35dd23"
         }
     ]
 }

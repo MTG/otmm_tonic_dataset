@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "aksak", 
-            "mb_attribute": "Aksak", 
-            "source": "http://musicbrainz.org/work/44c7f3c1-151a-4d68-a4b4-adcdaea36a83"
-        }, 
-        {
-            "attribute_key": "aksak", 
-            "mb_tag": "aksak", 
-            "source": "http://musicbrainz.org/recording/2269f319-1587-4955-b414-718d1e2886b6"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "2269f319-1587-4955-b414-718d1e2886b6", 
+    "works": [
+        {
+            "mbid": "44c7f3c1-151a-4d68-a4b4-adcdaea36a83", 
+            "title": "Gece Sahilden A\u00e7\u0131p"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "nihavent", 
@@ -225,11 +220,16 @@
             "name": "Tar\u0131k Kemanc\u0131"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "44c7f3c1-151a-4d68-a4b4-adcdaea36a83", 
-            "title": "Gece Sahilden A\u00e7\u0131p"
+            "attribute_key": "aksak", 
+            "mb_attribute": "Aksak", 
+            "source": "http://musicbrainz.org/work/44c7f3c1-151a-4d68-a4b4-adcdaea36a83"
+        }, 
+        {
+            "attribute_key": "aksak", 
+            "mb_tag": "aksak", 
+            "source": "http://musicbrainz.org/recording/2269f319-1587-4955-b414-718d1e2886b6"
         }
     ]
 }

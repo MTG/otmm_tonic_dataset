@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "aksak", 
-            "mb_attribute": "Aksak", 
-            "source": "http://musicbrainz.org/work/1fe8de49-0fbc-4c0e-9fd0-9fc8124364b3"
-        }, 
-        {
-            "attribute_key": "aksak", 
-            "mb_tag": "aksak", 
-            "source": "http://musicbrainz.org/recording/5ce785bd-7812-4433-baba-94cbec7f35b6"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal without accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "5ce785bd-7812-4433-baba-94cbec7f35b6", 
+    "works": [
+        {
+            "mbid": "1fe8de49-0fbc-4c0e-9fd0-9fc8124364b3", 
+            "title": "\u0130stemem Seni Art\u0131k Gelsen de Olur Gelmesen de"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "karcigar", 
@@ -57,11 +52,16 @@
             "name": "Esma Ba\u015fbu\u011f"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal without accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "1fe8de49-0fbc-4c0e-9fd0-9fc8124364b3", 
-            "title": "\u0130stemem Seni Art\u0131k Gelsen de Olur Gelmesen de"
+            "attribute_key": "aksak", 
+            "mb_attribute": "Aksak", 
+            "source": "http://musicbrainz.org/work/1fe8de49-0fbc-4c0e-9fd0-9fc8124364b3"
+        }, 
+        {
+            "attribute_key": "aksak", 
+            "mb_tag": "aksak", 
+            "source": "http://musicbrainz.org/recording/5ce785bd-7812-4433-baba-94cbec7f35b6"
         }
     ]
 }

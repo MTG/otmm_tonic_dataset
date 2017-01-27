@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "evfer", 
-            "mb_attribute": "Evfer", 
-            "source": "http://musicbrainz.org/work/1ea6f206-bac1-4131-b79d-6b85bf93c234"
-        }, 
-        {
-            "attribute_key": "evfer", 
-            "mb_tag": "evfer", 
-            "source": "http://musicbrainz.org/recording/bfbe23cd-613c-4008-8ca1-89292147cecc"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "bfbe23cd-613c-4008-8ca1-89292147cecc", 
+    "works": [
+        {
+            "mbid": "1ea6f206-bac1-4131-b79d-6b85bf93c234", 
+            "title": "Mah Y\u00fcz\u00fcne A\u015f\u0131kan\u0131m"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "hicaz", 
@@ -62,11 +57,16 @@
             "name": "Bekir S\u0131dk\u0131 Sezgin"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "1ea6f206-bac1-4131-b79d-6b85bf93c234", 
-            "title": "Mah Y\u00fcz\u00fcne A\u015f\u0131kan\u0131m"
+            "attribute_key": "evfer", 
+            "mb_attribute": "Evfer", 
+            "source": "http://musicbrainz.org/work/1ea6f206-bac1-4131-b79d-6b85bf93c234"
+        }, 
+        {
+            "attribute_key": "evfer", 
+            "mb_tag": "evfer", 
+            "source": "http://musicbrainz.org/recording/bfbe23cd-613c-4008-8ca1-89292147cecc"
         }
     ]
 }

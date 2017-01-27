@@ -1,21 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "aksak", 
-            "mb_attribute": "Aksak", 
-            "source": "http://musicbrainz.org/work/dd1ab37c-a16a-44ed-b43a-faaf85e67314"
-        }, 
-        {
-            "attribute_key": "aksak", 
-            "mb_tag": "aksak", 
-            "source": "http://musicbrainz.org/recording/9282df6d-565e-41b1-b0c9-758da6afb442"
-        }, 
-        {
-            "attribute_key": "serbest", 
-            "mb_tag": "serbest", 
-            "source": "http://musicbrainz.org/recording/9282df6d-565e-41b1-b0c9-758da6afb442"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -48,6 +32,12 @@
         }
     ], 
     "mbid": "9282df6d-565e-41b1-b0c9-758da6afb442", 
+    "works": [
+        {
+            "mbid": "dd1ab37c-a16a-44ed-b43a-faaf85e67314", 
+            "title": "Gelmiyorsun Yak\u0131yor Ba\u011fr\u0131m\u0131"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "kurdilihicazkar", 
@@ -235,11 +225,21 @@
             "name": "Tar\u0131k Kemanc\u0131"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "dd1ab37c-a16a-44ed-b43a-faaf85e67314", 
-            "title": "Gelmiyorsun Yak\u0131yor Ba\u011fr\u0131m\u0131"
+            "attribute_key": "aksak", 
+            "mb_attribute": "Aksak", 
+            "source": "http://musicbrainz.org/work/dd1ab37c-a16a-44ed-b43a-faaf85e67314"
+        }, 
+        {
+            "attribute_key": "aksak", 
+            "mb_tag": "aksak", 
+            "source": "http://musicbrainz.org/recording/9282df6d-565e-41b1-b0c9-758da6afb442"
+        }, 
+        {
+            "attribute_key": "serbest", 
+            "mb_tag": "serbest", 
+            "source": "http://musicbrainz.org/recording/9282df6d-565e-41b1-b0c9-758da6afb442"
         }
     ]
 }

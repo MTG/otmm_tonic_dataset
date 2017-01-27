@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "duyek", 
-            "mb_attribute": "D\u00fcyek", 
-            "source": "http://musicbrainz.org/work/81c5d8bc-5dee-4dd7-b6ff-32953df139ba"
-        }, 
-        {
-            "attribute_key": "duyek", 
-            "mb_tag": "d\u00fcyek", 
-            "source": "http://musicbrainz.org/recording/aadaddb0-d4c4-4a01-b5c2-4f6aa596db1c"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "aadaddb0-d4c4-4a01-b5c2-4f6aa596db1c", 
+    "works": [
+        {
+            "mbid": "81c5d8bc-5dee-4dd7-b6ff-32953df139ba", 
+            "title": "Bu Tats\u0131z Ak\u015fam Saatinde"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "segah", 
@@ -225,11 +220,16 @@
             "name": "Bekir \u00dcnl\u00fcataer"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "81c5d8bc-5dee-4dd7-b6ff-32953df139ba", 
-            "title": "Bu Tats\u0131z Ak\u015fam Saatinde"
+            "attribute_key": "duyek", 
+            "mb_attribute": "D\u00fcyek", 
+            "source": "http://musicbrainz.org/work/81c5d8bc-5dee-4dd7-b6ff-32953df139ba"
+        }, 
+        {
+            "attribute_key": "duyek", 
+            "mb_tag": "d\u00fcyek", 
+            "source": "http://musicbrainz.org/recording/aadaddb0-d4c4-4a01-b5c2-4f6aa596db1c"
         }
     ]
 }

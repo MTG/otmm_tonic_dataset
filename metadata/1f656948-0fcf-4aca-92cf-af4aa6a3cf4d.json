@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "senginsemai", 
-            "mb_attribute": "Senginsemai", 
-            "source": "http://musicbrainz.org/work/05402315-0063-4cfe-b894-1ec8922357b2"
-        }, 
-        {
-            "attribute_key": "yuruksemai", 
-            "mb_tag": "y\u00fcr\u00fcksemai", 
-            "source": "http://musicbrainz.org/recording/1f656948-0fcf-4aca-92cf-af4aa6a3cf4d"
-        }
-    ], 
+    "instrumentation_voicing": "choir", 
     "form": [
         {
             "attribute_key": "yuruksemai", 
@@ -62,6 +51,12 @@
         }
     ], 
     "mbid": "1f656948-0fcf-4aca-92cf-af4aa6a3cf4d", 
+    "works": [
+        {
+            "mbid": "05402315-0063-4cfe-b894-1ec8922357b2", 
+            "title": "Gelse Nesim-i Subh"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "beyati", 
@@ -125,11 +120,16 @@
             "name": "Do\u011fan Dikmen"
         }
     ], 
-    "instrumentation_voicing": "Choir", 
-    "works": [
+    "usul": [
         {
-            "mbid": "05402315-0063-4cfe-b894-1ec8922357b2", 
-            "title": "Gelse Nesim-i Subh"
+            "attribute_key": "senginsemai", 
+            "mb_attribute": "Senginsemai", 
+            "source": "http://musicbrainz.org/work/05402315-0063-4cfe-b894-1ec8922357b2"
+        }, 
+        {
+            "attribute_key": "yuruksemai", 
+            "mb_tag": "y\u00fcr\u00fcksemai", 
+            "source": "http://musicbrainz.org/recording/1f656948-0fcf-4aca-92cf-af4aa6a3cf4d"
         }
     ]
 }

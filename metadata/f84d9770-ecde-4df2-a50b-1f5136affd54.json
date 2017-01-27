@@ -1,11 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "agiraksak", 
-            "mb_attribute": "A\u011f\u0131raksak", 
-            "source": "http://musicbrainz.org/work/2d12ca9d-c5bc-4849-a08e-d1b3a7deeaa0"
-        }
-    ], 
+    "instrumentation_voicing": "choir", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -33,6 +27,12 @@
         }
     ], 
     "mbid": "f84d9770-ecde-4df2-a50b-1f5136affd54", 
+    "works": [
+        {
+            "mbid": "2d12ca9d-c5bc-4849-a08e-d1b3a7deeaa0", 
+            "title": "S\u00f6yle Ey Mutrib-i Nazende Eda"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "kurdilihicazkar", 
@@ -262,11 +262,11 @@
             "name": "Nebahat Konu"
         }
     ], 
-    "instrumentation_voicing": "Choir", 
-    "works": [
+    "usul": [
         {
-            "mbid": "2d12ca9d-c5bc-4849-a08e-d1b3a7deeaa0", 
-            "title": "S\u00f6yle Ey Mutrib-i Nazende Eda"
+            "attribute_key": "agiraksak", 
+            "mb_attribute": "A\u011f\u0131raksak", 
+            "source": "http://musicbrainz.org/work/2d12ca9d-c5bc-4849-a08e-d1b3a7deeaa0"
         }
     ]
 }

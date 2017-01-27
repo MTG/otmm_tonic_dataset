@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "duyek", 
-            "mb_attribute": "D\u00fcyek", 
-            "source": "http://musicbrainz.org/work/0564a914-b1da-45d5-9e12-a01d95615860"
-        }, 
-        {
-            "attribute_key": "sofyan", 
-            "mb_tag": "sofyan", 
-            "source": "http://musicbrainz.org/recording/74ac652a-37b7-41d6-aa9a-517a5f1cd7fc"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal without accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "74ac652a-37b7-41d6-aa9a-517a5f1cd7fc", 
+    "works": [
+        {
+            "mbid": "0564a914-b1da-45d5-9e12-a01d95615860", 
+            "title": "Ben Y\u00fcr\u00fcr\u00fcm Yane Yane"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "neva", 
@@ -57,11 +52,16 @@
             "name": "Selahattin P\u0131nar"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal without accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "0564a914-b1da-45d5-9e12-a01d95615860", 
-            "title": "Ben Y\u00fcr\u00fcr\u00fcm Yane Yane"
+            "attribute_key": "duyek", 
+            "mb_attribute": "D\u00fcyek", 
+            "source": "http://musicbrainz.org/work/0564a914-b1da-45d5-9e12-a01d95615860"
+        }, 
+        {
+            "attribute_key": "sofyan", 
+            "mb_tag": "sofyan", 
+            "source": "http://musicbrainz.org/recording/74ac652a-37b7-41d6-aa9a-517a5f1cd7fc"
         }
     ]
 }

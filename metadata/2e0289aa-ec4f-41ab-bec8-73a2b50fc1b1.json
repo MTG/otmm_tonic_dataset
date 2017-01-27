@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "senginsemai", 
-            "mb_attribute": "Senginsemai", 
-            "source": "http://musicbrainz.org/work/d214f1fe-19ed-4982-910e-b286df64d85d"
-        }, 
-        {
-            "attribute_key": "senginsemai", 
-            "mb_tag": "senginsemai", 
-            "source": "http://musicbrainz.org/recording/2e0289aa-ec4f-41ab-bec8-73a2b50fc1b1"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal without accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "2e0289aa-ec4f-41ab-bec8-73a2b50fc1b1", 
+    "works": [
+        {
+            "mbid": "d214f1fe-19ed-4982-910e-b286df64d85d", 
+            "title": "Bir Goncaya Bir Hare Nigah Eyledi B\u00fclb\u00fcl"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "karcigar", 
@@ -57,11 +52,16 @@
             "name": "Nusret Ers\u00f6z"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal without accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "d214f1fe-19ed-4982-910e-b286df64d85d", 
-            "title": "Bir Goncaya Bir Hare Nigah Eyledi B\u00fclb\u00fcl"
+            "attribute_key": "senginsemai", 
+            "mb_attribute": "Senginsemai", 
+            "source": "http://musicbrainz.org/work/d214f1fe-19ed-4982-910e-b286df64d85d"
+        }, 
+        {
+            "attribute_key": "senginsemai", 
+            "mb_tag": "senginsemai", 
+            "source": "http://musicbrainz.org/recording/2e0289aa-ec4f-41ab-bec8-73a2b50fc1b1"
         }
     ]
 }

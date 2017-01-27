@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "duyek", 
-            "mb_attribute": "D\u00fcyek", 
-            "source": "http://musicbrainz.org/work/d17f1b36-8dd1-428a-bc5b-2982a109f83b"
-        }, 
-        {
-            "attribute_key": "duyek", 
-            "mb_tag": "d\u00fcyek", 
-            "source": "http://musicbrainz.org/recording/85cf1608-d1cc-40ad-9a31-4bbae162dae5"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal without accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "85cf1608-d1cc-40ad-9a31-4bbae162dae5", 
+    "works": [
+        {
+            "mbid": "d17f1b36-8dd1-428a-bc5b-2982a109f83b", 
+            "title": "B\u00fclb\u00fcl\u00fcm Gel de Dile"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "muhayyer", 
@@ -57,11 +52,16 @@
             "name": "Safiye Ayla"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal without accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "d17f1b36-8dd1-428a-bc5b-2982a109f83b", 
-            "title": "B\u00fclb\u00fcl\u00fcm Gel de Dile"
+            "attribute_key": "duyek", 
+            "mb_attribute": "D\u00fcyek", 
+            "source": "http://musicbrainz.org/work/d17f1b36-8dd1-428a-bc5b-2982a109f83b"
+        }, 
+        {
+            "attribute_key": "duyek", 
+            "mb_tag": "d\u00fcyek", 
+            "source": "http://musicbrainz.org/recording/85cf1608-d1cc-40ad-9a31-4bbae162dae5"
         }
     ]
 }

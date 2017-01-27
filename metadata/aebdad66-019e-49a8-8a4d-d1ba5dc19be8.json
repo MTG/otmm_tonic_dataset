@@ -1,11 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "nimsofyan", 
-            "mb_attribute": "Nimsofyan", 
-            "source": "http://musicbrainz.org/work/d95f4a85-23a1-4d84-b425-fb55a4ee67c6"
-        }
-    ], 
+    "instrumentation_voicing": "ensemble instrumental", 
     "form": [
         {
             "attribute_key": "sirto", 
@@ -33,6 +27,12 @@
         }
     ], 
     "mbid": "aebdad66-019e-49a8-8a4d-d1ba5dc19be8", 
+    "works": [
+        {
+            "mbid": "d95f4a85-23a1-4d84-b425-fb55a4ee67c6", 
+            "title": "Rast Sirto"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "rast", 
@@ -95,11 +95,11 @@
             "name": "Yurdal Tokcan"
         }
     ], 
-    "instrumentation_voicing": "Ensemble instrumental", 
-    "works": [
+    "usul": [
         {
-            "mbid": "d95f4a85-23a1-4d84-b425-fb55a4ee67c6", 
-            "title": "Rast Sirto"
+            "attribute_key": "nimsofyan", 
+            "mb_attribute": "Nimsofyan", 
+            "source": "http://musicbrainz.org/work/d95f4a85-23a1-4d84-b425-fb55a4ee67c6"
         }
     ]
 }

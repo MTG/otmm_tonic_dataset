@@ -1,11 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "cenber", 
-            "mb_attribute": "\u00c7enber", 
-            "source": "http://musicbrainz.org/work/ef388aef-3948-4ad5-a759-729f2686ade4"
-        }
-    ], 
+    "instrumentation_voicing": "duo instrumental", 
     "form": [
         {
             "attribute_key": "pesrev", 
@@ -37,6 +31,12 @@
         }
     ], 
     "mbid": "a9021077-8d17-4319-b34c-b475c7a6c3fa", 
+    "works": [
+        {
+            "mbid": "ef388aef-3948-4ad5-a759-729f2686ade4", 
+            "title": "Hicaz H\u00fcmayun Pe\u015frevi"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "hicaz_humayun", 
@@ -67,11 +67,11 @@
             "name": "Necdet Ya\u015far"
         }
     ], 
-    "instrumentation_voicing": "Duo instrumental", 
-    "works": [
+    "usul": [
         {
-            "mbid": "ef388aef-3948-4ad5-a759-729f2686ade4", 
-            "title": "Hicaz H\u00fcmayun Pe\u015frevi"
+            "attribute_key": "cenber", 
+            "mb_attribute": "\u00c7enber", 
+            "source": "http://musicbrainz.org/work/ef388aef-3948-4ad5-a759-729f2686ade4"
         }
     ]
 }

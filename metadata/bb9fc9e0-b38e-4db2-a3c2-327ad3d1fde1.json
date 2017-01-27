@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "muhammes", 
-            "mb_attribute": "Muhammes", 
-            "source": "http://musicbrainz.org/work/0d7f26ab-f303-45d0-9047-22bf00852979"
-        }, 
-        {
-            "attribute_key": "muhammes", 
-            "mb_tag": "muhammes", 
-            "source": "http://musicbrainz.org/recording/bb9fc9e0-b38e-4db2-a3c2-327ad3d1fde1"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "beste", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "bb9fc9e0-b38e-4db2-a3c2-327ad3d1fde1", 
+    "works": [
+        {
+            "mbid": "0d7f26ab-f303-45d0-9047-22bf00852979", 
+            "title": "Bezm-i Meyde Mutr\u0131ba Bir Na\u011fme-i Dil-cu Kopar"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "segah", 
@@ -62,11 +57,16 @@
             "name": "Bekir S\u0131dk\u0131 Sezgin"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "0d7f26ab-f303-45d0-9047-22bf00852979", 
-            "title": "Bezm-i Meyde Mutr\u0131ba Bir Na\u011fme-i Dil-cu Kopar"
+            "attribute_key": "muhammes", 
+            "mb_attribute": "Muhammes", 
+            "source": "http://musicbrainz.org/work/0d7f26ab-f303-45d0-9047-22bf00852979"
+        }, 
+        {
+            "attribute_key": "muhammes", 
+            "mb_tag": "muhammes", 
+            "source": "http://musicbrainz.org/recording/bb9fc9e0-b38e-4db2-a3c2-327ad3d1fde1"
         }
     ]
 }

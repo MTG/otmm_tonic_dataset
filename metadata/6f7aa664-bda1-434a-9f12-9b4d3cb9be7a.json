@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "curcuna", 
-            "mb_attribute": "Curcuna", 
-            "source": "http://musicbrainz.org/work/f9611c86-c656-4ca9-a536-5d6e11217637"
-        }, 
-        {
-            "attribute_key": "kapali_curcuna", 
-            "mb_tag": "curcuna", 
-            "source": "http://musicbrainz.org/recording/6f7aa664-bda1-434a-9f12-9b4d3cb9be7a"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "6f7aa664-bda1-434a-9f12-9b4d3cb9be7a", 
+    "works": [
+        {
+            "mbid": "f9611c86-c656-4ca9-a536-5d6e11217637", 
+            "title": "S\u00fczd\u00fck\u00e7e G\u00fczel G\u00f6zlerini"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "saba", 
@@ -62,11 +57,16 @@
             "name": "Alaeddin Yava\u015fca"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "f9611c86-c656-4ca9-a536-5d6e11217637", 
-            "title": "S\u00fczd\u00fck\u00e7e G\u00fczel G\u00f6zlerini"
+            "attribute_key": "curcuna", 
+            "mb_attribute": "Curcuna", 
+            "source": "http://musicbrainz.org/work/f9611c86-c656-4ca9-a536-5d6e11217637"
+        }, 
+        {
+            "attribute_key": "kapali_curcuna", 
+            "mb_tag": "curcuna", 
+            "source": "http://musicbrainz.org/recording/6f7aa664-bda1-434a-9f12-9b4d3cb9be7a"
         }
     ]
 }

@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "semai", 
-            "mb_attribute": "Semai", 
-            "source": "http://musicbrainz.org/work/5001369a-437b-4331-8693-4408ee913892"
-        }, 
-        {
-            "attribute_key": "semai", 
-            "mb_tag": "semai", 
-            "source": "http://musicbrainz.org/recording/d2e872d7-5b69-4e54-9077-116a86ce6a32"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "d2e872d7-5b69-4e54-9077-116a86ce6a32", 
+    "works": [
+        {
+            "mbid": "5001369a-437b-4331-8693-4408ee913892", 
+            "title": "Her Dil Seni Sevda ile S\u00f6yler"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "suzinak", 
@@ -62,11 +57,16 @@
             "name": "Alaeddin Yava\u015fca"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "5001369a-437b-4331-8693-4408ee913892", 
-            "title": "Her Dil Seni Sevda ile S\u00f6yler"
+            "attribute_key": "semai", 
+            "mb_attribute": "Semai", 
+            "source": "http://musicbrainz.org/work/5001369a-437b-4331-8693-4408ee913892"
+        }, 
+        {
+            "attribute_key": "semai", 
+            "mb_tag": "semai", 
+            "source": "http://musicbrainz.org/recording/d2e872d7-5b69-4e54-9077-116a86ce6a32"
         }
     ]
 }

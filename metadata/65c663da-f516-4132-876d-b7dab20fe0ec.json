@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "agiraksak", 
-            "mb_attribute": "A\u011f\u0131raksak", 
-            "source": "http://musicbrainz.org/work/bee6ac55-19d8-4bdf-891e-ea2c8cc91837"
-        }, 
-        {
-            "attribute_key": "agiraksak", 
-            "mb_tag": "a\u011f\u0131raksak", 
-            "source": "http://musicbrainz.org/recording/65c663da-f516-4132-876d-b7dab20fe0ec"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "65c663da-f516-4132-876d-b7dab20fe0ec", 
+    "works": [
+        {
+            "mbid": "bee6ac55-19d8-4bdf-891e-ea2c8cc91837", 
+            "title": "G\u00fcl Hazin S\u00fcnb\u00fcl Peri\u015fan"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "beyati", 
@@ -129,11 +124,16 @@
             "name": "Nuri G\u00fcn"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "bee6ac55-19d8-4bdf-891e-ea2c8cc91837", 
-            "title": "G\u00fcl Hazin S\u00fcnb\u00fcl Peri\u015fan"
+            "attribute_key": "agiraksak", 
+            "mb_attribute": "A\u011f\u0131raksak", 
+            "source": "http://musicbrainz.org/work/bee6ac55-19d8-4bdf-891e-ea2c8cc91837"
+        }, 
+        {
+            "attribute_key": "agiraksak", 
+            "mb_tag": "a\u011f\u0131raksak", 
+            "source": "http://musicbrainz.org/recording/65c663da-f516-4132-876d-b7dab20fe0ec"
         }
     ]
 }

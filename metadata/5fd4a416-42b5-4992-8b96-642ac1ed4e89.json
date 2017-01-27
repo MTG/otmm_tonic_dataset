@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "sofyan", 
-            "mb_attribute": "Sofyan", 
-            "source": "http://musicbrainz.org/work/46497022-66e6-4cf9-8901-18b1ab3fcce3"
-        }, 
-        {
-            "attribute_key": "sofyan", 
-            "mb_tag": "sofyan", 
-            "source": "http://musicbrainz.org/recording/5fd4a416-42b5-4992-8b96-642ac1ed4e89"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "turku", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "5fd4a416-42b5-4992-8b96-642ac1ed4e89", 
+    "works": [
+        {
+            "mbid": "46497022-66e6-4cf9-8901-18b1ab3fcce3", 
+            "title": "Pencereden Kar Geliyor"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "ussak", 
@@ -89,11 +84,16 @@
             "name": "Ali Kocadin\u00e7"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "46497022-66e6-4cf9-8901-18b1ab3fcce3", 
-            "title": "Pencereden Kar Geliyor"
+            "attribute_key": "sofyan", 
+            "mb_attribute": "Sofyan", 
+            "source": "http://musicbrainz.org/work/46497022-66e6-4cf9-8901-18b1ab3fcce3"
+        }, 
+        {
+            "attribute_key": "sofyan", 
+            "mb_tag": "sofyan", 
+            "source": "http://musicbrainz.org/recording/5fd4a416-42b5-4992-8b96-642ac1ed4e89"
         }
     ]
 }

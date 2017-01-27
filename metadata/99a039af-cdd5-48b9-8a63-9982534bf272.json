@@ -1,21 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "aksak", 
-            "mb_attribute": "Aksak", 
-            "source": "http://musicbrainz.org/work/8a147e87-8102-4eee-a3b8-63ea88184ee6"
-        }, 
-        {
-            "attribute_key": "senginsemai", 
-            "mb_tag": "senginsemai", 
-            "source": "http://musicbrainz.org/recording/99a039af-cdd5-48b9-8a63-9982534bf272"
-        }, 
-        {
-            "attribute_key": "aksak", 
-            "mb_tag": "aksak", 
-            "source": "http://musicbrainz.org/recording/99a039af-cdd5-48b9-8a63-9982534bf272"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -43,6 +27,12 @@
         }
     ], 
     "mbid": "99a039af-cdd5-48b9-8a63-9982534bf272", 
+    "works": [
+        {
+            "mbid": "8a147e87-8102-4eee-a3b8-63ea88184ee6", 
+            "title": "G\u00fclmezse Y\u00fcz\u00fcn Goncalar\u0131n Kalbi A\u011flar"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "karcigar", 
@@ -67,11 +57,21 @@
             "name": "Bekir S\u0131dk\u0131 Sezgin"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "8a147e87-8102-4eee-a3b8-63ea88184ee6", 
-            "title": "G\u00fclmezse Y\u00fcz\u00fcn Goncalar\u0131n Kalbi A\u011flar"
+            "attribute_key": "aksak", 
+            "mb_attribute": "Aksak", 
+            "source": "http://musicbrainz.org/work/8a147e87-8102-4eee-a3b8-63ea88184ee6"
+        }, 
+        {
+            "attribute_key": "senginsemai", 
+            "mb_tag": "senginsemai", 
+            "source": "http://musicbrainz.org/recording/99a039af-cdd5-48b9-8a63-9982534bf272"
+        }, 
+        {
+            "attribute_key": "aksak", 
+            "mb_tag": "aksak", 
+            "source": "http://musicbrainz.org/recording/99a039af-cdd5-48b9-8a63-9982534bf272"
         }
     ]
 }

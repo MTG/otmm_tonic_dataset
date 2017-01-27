@@ -1,5 +1,11 @@
 {
-    "instrumentation_voicing": "Solo instrumental", 
+    "usul": [
+        {
+            "attribute_key": "serbest", 
+            "mb_tag": "serbest", 
+            "source": "http://musicbrainz.org/recording/96c6c1d5-e2cd-4a76-8bae-ffc49caec0fb"
+        }
+    ], 
     "form": [
         {
             "attribute_key": "taksim", 
@@ -40,11 +46,5 @@
             "name": "Kudsi Erguner"
         }
     ], 
-    "usul": [
-        {
-            "attribute_key": "serbest", 
-            "mb_tag": "serbest", 
-            "source": "http://musicbrainz.org/recording/96c6c1d5-e2cd-4a76-8bae-ffc49caec0fb"
-        }
-    ]
+    "instrumentation_voicing": "solo instrumental"
 }

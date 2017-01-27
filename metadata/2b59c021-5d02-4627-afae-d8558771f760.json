@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "nimsofyan", 
-            "mb_attribute": "Nimsofyan", 
-            "source": "http://musicbrainz.org/work/4bd35bf6-043b-43e5-89fb-e92153dc50b1"
-        }, 
-        {
-            "attribute_key": "nimsofyan", 
-            "mb_tag": "nimsofyan", 
-            "source": "http://musicbrainz.org/recording/2b59c021-5d02-4627-afae-d8558771f760"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal without accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "2b59c021-5d02-4627-afae-d8558771f760", 
+    "works": [
+        {
+            "mbid": "4bd35bf6-043b-43e5-89fb-e92153dc50b1", 
+            "title": "Beni Sana Ba\u011flayan G\u00f6zlerinin Rengidir"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "hicazkar", 
@@ -57,11 +52,16 @@
             "name": "Radife Erten"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal without accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "4bd35bf6-043b-43e5-89fb-e92153dc50b1", 
-            "title": "Beni Sana Ba\u011flayan G\u00f6zlerinin Rengidir"
+            "attribute_key": "nimsofyan", 
+            "mb_attribute": "Nimsofyan", 
+            "source": "http://musicbrainz.org/work/4bd35bf6-043b-43e5-89fb-e92153dc50b1"
+        }, 
+        {
+            "attribute_key": "nimsofyan", 
+            "mb_tag": "nimsofyan", 
+            "source": "http://musicbrainz.org/recording/2b59c021-5d02-4627-afae-d8558771f760"
         }
     ]
 }

@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "sofyan", 
-            "mb_attribute": "Sofyan", 
-            "source": "http://musicbrainz.org/work/8c3dba8c-f08e-4219-b1a4-b7b6eca29946"
-        }, 
-        {
-            "attribute_key": "sofyan", 
-            "mb_tag": "sofyan", 
-            "source": "http://musicbrainz.org/recording/71f8bdfc-6181-43b0-a993-29badae80ddd"
-        }
-    ], 
+    "instrumentation_voicing": "choir", 
     "form": [
         {
             "attribute_key": "turku", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "71f8bdfc-6181-43b0-a993-29badae80ddd", 
+    "works": [
+        {
+            "mbid": "8c3dba8c-f08e-4219-b1a4-b7b6eca29946", 
+            "title": "Beyo\u011flu'nda Gezersin"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "mahur", 
@@ -138,11 +133,16 @@
             "name": "Ayta\u00e7 Ergen"
         }
     ], 
-    "instrumentation_voicing": "Choir", 
-    "works": [
+    "usul": [
         {
-            "mbid": "8c3dba8c-f08e-4219-b1a4-b7b6eca29946", 
-            "title": "Beyo\u011flu'nda Gezersin"
+            "attribute_key": "sofyan", 
+            "mb_attribute": "Sofyan", 
+            "source": "http://musicbrainz.org/work/8c3dba8c-f08e-4219-b1a4-b7b6eca29946"
+        }, 
+        {
+            "attribute_key": "sofyan", 
+            "mb_tag": "sofyan", 
+            "source": "http://musicbrainz.org/recording/71f8bdfc-6181-43b0-a993-29badae80ddd"
         }
     ]
 }

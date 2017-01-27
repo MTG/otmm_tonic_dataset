@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "curcuna", 
-            "mb_attribute": "Curcuna", 
-            "source": "http://musicbrainz.org/work/583768cf-88b3-442d-96f9-e5736e5e89e5"
-        }, 
-        {
-            "attribute_key": "kapali_curcuna", 
-            "mb_tag": "curcuna", 
-            "source": "http://musicbrainz.org/recording/1d43b758-119c-484e-b8cd-086fbe643847"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "1d43b758-119c-484e-b8cd-086fbe643847", 
+    "works": [
+        {
+            "mbid": "583768cf-88b3-442d-96f9-e5736e5e89e5", 
+            "title": "Etme Beyhude Fidan"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "isfahan", 
@@ -75,11 +70,16 @@
             "name": "\u015eent\u00fcrk Deveci"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "583768cf-88b3-442d-96f9-e5736e5e89e5", 
-            "title": "Etme Beyhude Fidan"
+            "attribute_key": "curcuna", 
+            "mb_attribute": "Curcuna", 
+            "source": "http://musicbrainz.org/work/583768cf-88b3-442d-96f9-e5736e5e89e5"
+        }, 
+        {
+            "attribute_key": "kapali_curcuna", 
+            "mb_tag": "curcuna", 
+            "source": "http://musicbrainz.org/recording/1d43b758-119c-484e-b8cd-086fbe643847"
         }
     ]
 }

@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "sofyan", 
-            "mb_attribute": "Sofyan", 
-            "source": "http://musicbrainz.org/work/9299c2a1-4640-4999-8cb6-67e96291ce50"
-        }, 
-        {
-            "attribute_key": "sofyan", 
-            "mb_tag": "sofyan", 
-            "source": "http://musicbrainz.org/recording/ebacd0b1-f1d8-4544-ada2-d2f7111360ff"
-        }
-    ], 
+    "instrumentation_voicing": "duo instrumental", 
     "form": [
         {
             "attribute_key": "sirto", 
@@ -42,6 +31,12 @@
         }
     ], 
     "mbid": "ebacd0b1-f1d8-4544-ada2-d2f7111360ff", 
+    "works": [
+        {
+            "mbid": "9299c2a1-4640-4999-8cb6-67e96291ce50", 
+            "title": "U\u015f\u015fak Sirto"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "ussak", 
@@ -72,11 +67,16 @@
             "name": "Derya T\u00fcrkan"
         }
     ], 
-    "instrumentation_voicing": "Duo instrumental", 
-    "works": [
+    "usul": [
         {
-            "mbid": "9299c2a1-4640-4999-8cb6-67e96291ce50", 
-            "title": "U\u015f\u015fak Sirto"
+            "attribute_key": "sofyan", 
+            "mb_attribute": "Sofyan", 
+            "source": "http://musicbrainz.org/work/9299c2a1-4640-4999-8cb6-67e96291ce50"
+        }, 
+        {
+            "attribute_key": "sofyan", 
+            "mb_tag": "sofyan", 
+            "source": "http://musicbrainz.org/recording/ebacd0b1-f1d8-4544-ada2-d2f7111360ff"
         }
     ]
 }

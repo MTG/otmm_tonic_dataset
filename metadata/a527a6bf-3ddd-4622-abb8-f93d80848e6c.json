@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "aksak", 
-            "mb_attribute": "Aksak", 
-            "source": "http://musicbrainz.org/work/3863e5b2-4b74-4a2c-8250-90356510b925"
-        }, 
-        {
-            "attribute_key": "aksak", 
-            "mb_tag": "aksak", 
-            "source": "http://musicbrainz.org/recording/a527a6bf-3ddd-4622-abb8-f93d80848e6c"
-        }
-    ], 
+    "instrumentation_voicing": "solo instrumental", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "a527a6bf-3ddd-4622-abb8-f93d80848e6c", 
+    "works": [
+        {
+            "mbid": "3863e5b2-4b74-4a2c-8250-90356510b925", 
+            "title": "Ezelden A\u015finan\u0131m Ben"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "huseyni", 
@@ -60,11 +55,16 @@
             "name": "Ahmet Meter"
         }
     ], 
-    "instrumentation_voicing": "Solo instrumental", 
-    "works": [
+    "usul": [
         {
-            "mbid": "3863e5b2-4b74-4a2c-8250-90356510b925", 
-            "title": "Ezelden A\u015finan\u0131m Ben"
+            "attribute_key": "aksak", 
+            "mb_attribute": "Aksak", 
+            "source": "http://musicbrainz.org/work/3863e5b2-4b74-4a2c-8250-90356510b925"
+        }, 
+        {
+            "attribute_key": "aksak", 
+            "mb_tag": "aksak", 
+            "source": "http://musicbrainz.org/recording/a527a6bf-3ddd-4622-abb8-f93d80848e6c"
         }
     ]
 }

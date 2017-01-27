@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "aksak", 
-            "mb_attribute": "Aksak", 
-            "source": "http://musicbrainz.org/work/88d8d952-820d-4a65-92ad-19f1a95f9644"
-        }, 
-        {
-            "attribute_key": "aksak", 
-            "mb_tag": "aksak", 
-            "source": "http://musicbrainz.org/recording/9c974473-d2b8-47b1-b76d-921ba24a0d92"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "9c974473-d2b8-47b1-b76d-921ba24a0d92", 
+    "works": [
+        {
+            "mbid": "88d8d952-820d-4a65-92ad-19f1a95f9644", 
+            "title": "K\u0131rd\u0131n \u00dcmidimi"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "segah", 
@@ -62,11 +57,16 @@
             "name": "M\u00fcnip Utand\u0131"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "88d8d952-820d-4a65-92ad-19f1a95f9644", 
-            "title": "K\u0131rd\u0131n \u00dcmidimi"
+            "attribute_key": "aksak", 
+            "mb_attribute": "Aksak", 
+            "source": "http://musicbrainz.org/work/88d8d952-820d-4a65-92ad-19f1a95f9644"
+        }, 
+        {
+            "attribute_key": "aksak", 
+            "mb_tag": "aksak", 
+            "source": "http://musicbrainz.org/recording/9c974473-d2b8-47b1-b76d-921ba24a0d92"
         }
     ]
 }

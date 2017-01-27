@@ -1,5 +1,5 @@
 {
-    "usul": [], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "gazel", 
@@ -27,6 +27,12 @@
         }
     ], 
     "mbid": "60f544d2-dec5-459f-97a0-abd4925582bd", 
+    "works": [
+        {
+            "mbid": "24c48d90-5070-4cf5-83b5-d80aec225b46", 
+            "title": "\u015eim\u015fir-i Nigah\u0131nla Vuruldum Ci\u011ferimde"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "neva", 
@@ -83,11 +89,5 @@
             "name": "Haf\u0131z Kemal Bey"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
-        {
-            "mbid": "24c48d90-5070-4cf5-83b5-d80aec225b46", 
-            "title": "\u015eim\u015fir-i Nigah\u0131nla Vuruldum Ci\u011ferimde"
-        }
-    ]
+    "usul": []
 }

@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "sofyan", 
-            "mb_attribute": "Sofyan", 
-            "source": "http://musicbrainz.org/work/a042064d-a921-457c-8c6f-e3e4584f795f"
-        }, 
-        {
-            "attribute_key": "sofyan", 
-            "mb_tag": "sofyan", 
-            "source": "http://musicbrainz.org/recording/32e9be56-5de2-44de-8915-b07ef13a86b9"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "fantezi", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "32e9be56-5de2-44de-8915-b07ef13a86b9", 
+    "works": [
+        {
+            "mbid": "a042064d-a921-457c-8c6f-e3e4584f795f", 
+            "title": "Yasemin"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "nihavent", 
@@ -225,11 +220,16 @@
             "name": "Bekir \u00dcnl\u00fcataer"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "a042064d-a921-457c-8c6f-e3e4584f795f", 
-            "title": "Yasemin"
+            "attribute_key": "sofyan", 
+            "mb_attribute": "Sofyan", 
+            "source": "http://musicbrainz.org/work/a042064d-a921-457c-8c6f-e3e4584f795f"
+        }, 
+        {
+            "attribute_key": "sofyan", 
+            "mb_tag": "sofyan", 
+            "source": "http://musicbrainz.org/recording/32e9be56-5de2-44de-8915-b07ef13a86b9"
         }
     ]
 }

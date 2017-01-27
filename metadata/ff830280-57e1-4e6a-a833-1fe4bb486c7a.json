@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "hafif", 
-            "mb_attribute": "Hafif", 
-            "source": "http://musicbrainz.org/work/d9b7f04f-d093-4798-882d-07756cdb4d98"
-        }, 
-        {
-            "attribute_key": "hafif", 
-            "mb_tag": "hafif", 
-            "source": "http://musicbrainz.org/recording/ff830280-57e1-4e6a-a833-1fe4bb486c7a"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "beste", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "ff830280-57e1-4e6a-a833-1fe4bb486c7a", 
+    "works": [
+        {
+            "mbid": "d9b7f04f-d093-4798-882d-07756cdb4d98", 
+            "title": "Sabaki Destura Ol Z\u00fclfe M\u00fc\u015fkinab Kokar"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "acem", 
@@ -62,11 +57,16 @@
             "name": "Bekir S\u0131dk\u0131 Sezgin"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "d9b7f04f-d093-4798-882d-07756cdb4d98", 
-            "title": "Sabaki Destura Ol Z\u00fclfe M\u00fc\u015fkinab Kokar"
+            "attribute_key": "hafif", 
+            "mb_attribute": "Hafif", 
+            "source": "http://musicbrainz.org/work/d9b7f04f-d093-4798-882d-07756cdb4d98"
+        }, 
+        {
+            "attribute_key": "hafif", 
+            "mb_tag": "hafif", 
+            "source": "http://musicbrainz.org/recording/ff830280-57e1-4e6a-a833-1fe4bb486c7a"
         }
     ]
 }

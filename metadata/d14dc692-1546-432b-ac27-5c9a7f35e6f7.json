@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "aksaksemai", 
-            "mb_attribute": "Aksaksemai", 
-            "source": "http://musicbrainz.org/work/ad2d62cb-6edc-440a-b57c-7ceae4508795"
-        }, 
-        {
-            "attribute_key": "aksaksemai", 
-            "mb_tag": "aksaksemai", 
-            "source": "http://musicbrainz.org/recording/d14dc692-1546-432b-ac27-5c9a7f35e6f7"
-        }
-    ], 
+    "instrumentation_voicing": "ensemble instrumental", 
     "form": [
         {
             "attribute_key": "sazsemaisi", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "d14dc692-1546-432b-ac27-5c9a7f35e6f7", 
+    "works": [
+        {
+            "mbid": "ad2d62cb-6edc-440a-b57c-7ceae4508795", 
+            "title": "Arazb\u00e2r Buselik Saz Sem\u00e2isi"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "arazbarbuselik", 
@@ -174,11 +169,16 @@
             "name": "Aykut B\u00fcy\u00fck\u00e7\u0131nar"
         }
     ], 
-    "instrumentation_voicing": "Ensemble instrumental", 
-    "works": [
+    "usul": [
         {
-            "mbid": "ad2d62cb-6edc-440a-b57c-7ceae4508795", 
-            "title": "Arazb\u00e2r Buselik Saz Sem\u00e2isi"
+            "attribute_key": "aksaksemai", 
+            "mb_attribute": "Aksaksemai", 
+            "source": "http://musicbrainz.org/work/ad2d62cb-6edc-440a-b57c-7ceae4508795"
+        }, 
+        {
+            "attribute_key": "aksaksemai", 
+            "mb_tag": "aksaksemai", 
+            "source": "http://musicbrainz.org/recording/d14dc692-1546-432b-ac27-5c9a7f35e6f7"
         }
     ]
 }

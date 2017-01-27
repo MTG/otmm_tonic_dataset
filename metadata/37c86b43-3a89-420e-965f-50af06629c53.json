@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "duyek", 
-            "mb_attribute": "D\u00fcyek", 
-            "source": "http://musicbrainz.org/work/06dc5d29-9aa6-4dc9-aa09-b25d1720ed69"
-        }, 
-        {
-            "attribute_key": "duyek", 
-            "mb_tag": "d\u00fcyek", 
-            "source": "http://musicbrainz.org/recording/37c86b43-3a89-420e-965f-50af06629c53"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal without accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "37c86b43-3a89-420e-965f-50af06629c53", 
+    "works": [
+        {
+            "mbid": "06dc5d29-9aa6-4dc9-aa09-b25d1720ed69", 
+            "title": "G\u00f6z\u00fcmde \u00d6zleyi\u015f"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "bestenigar", 
@@ -57,11 +52,16 @@
             "name": "Ayla B\u00fcy\u00fckataman"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal without accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "06dc5d29-9aa6-4dc9-aa09-b25d1720ed69", 
-            "title": "G\u00f6z\u00fcmde \u00d6zleyi\u015f"
+            "attribute_key": "duyek", 
+            "mb_attribute": "D\u00fcyek", 
+            "source": "http://musicbrainz.org/work/06dc5d29-9aa6-4dc9-aa09-b25d1720ed69"
+        }, 
+        {
+            "attribute_key": "duyek", 
+            "mb_tag": "d\u00fcyek", 
+            "source": "http://musicbrainz.org/recording/37c86b43-3a89-420e-965f-50af06629c53"
         }
     ]
 }

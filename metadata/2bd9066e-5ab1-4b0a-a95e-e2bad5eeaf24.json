@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "duyek", 
-            "mb_attribute": "D\u00fcyek", 
-            "source": "http://musicbrainz.org/work/1fe305f2-b181-4648-b686-c50f302c6ae2"
-        }, 
-        {
-            "attribute_key": "duyek", 
-            "mb_tag": "d\u00fcyek", 
-            "source": "http://musicbrainz.org/recording/2bd9066e-5ab1-4b0a-a95e-e2bad5eeaf24"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "2bd9066e-5ab1-4b0a-a95e-e2bad5eeaf24", 
+    "works": [
+        {
+            "mbid": "1fe305f2-b181-4648-b686-c50f302c6ae2", 
+            "title": "Bir Bahar Ak\u015fam\u0131nda Yine Bana D\u00f6nsen"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "acemkurdi", 
@@ -177,11 +172,16 @@
             "name": "Talat Er"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "1fe305f2-b181-4648-b686-c50f302c6ae2", 
-            "title": "Bir Bahar Ak\u015fam\u0131nda Yine Bana D\u00f6nsen"
+            "attribute_key": "duyek", 
+            "mb_attribute": "D\u00fcyek", 
+            "source": "http://musicbrainz.org/work/1fe305f2-b181-4648-b686-c50f302c6ae2"
+        }, 
+        {
+            "attribute_key": "duyek", 
+            "mb_tag": "d\u00fcyek", 
+            "source": "http://musicbrainz.org/recording/2bd9066e-5ab1-4b0a-a95e-e2bad5eeaf24"
         }
     ]
 }

@@ -1,5 +1,11 @@
 {
-    "instrumentation_voicing": "Solo instrumental", 
+    "usul": [
+        {
+            "attribute_key": "serbest", 
+            "mb_tag": "serbest", 
+            "source": "http://musicbrainz.org/recording/a78f1da9-4a1b-440e-8476-ecdee5b27669"
+        }
+    ], 
     "form": [
         {
             "attribute_key": "taksim", 
@@ -44,11 +50,5 @@
             "name": "Ulvi Erg\u00fcner"
         }
     ], 
-    "usul": [
-        {
-            "attribute_key": "serbest", 
-            "mb_tag": "serbest", 
-            "source": "http://musicbrainz.org/recording/a78f1da9-4a1b-440e-8476-ecdee5b27669"
-        }
-    ]
+    "instrumentation_voicing": "solo instrumental"
 }

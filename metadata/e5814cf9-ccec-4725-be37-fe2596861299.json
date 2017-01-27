@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "aksak", 
-            "mb_attribute": "Aksak", 
-            "source": "http://musicbrainz.org/work/a453af7e-5d5b-4bf2-9842-40de83113634"
-        }, 
-        {
-            "attribute_key": "aksak", 
-            "mb_tag": "aksak", 
-            "source": "http://musicbrainz.org/recording/e5814cf9-ccec-4725-be37-fe2596861299"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "e5814cf9-ccec-4725-be37-fe2596861299", 
+    "works": [
+        {
+            "mbid": "a453af7e-5d5b-4bf2-9842-40de83113634", 
+            "title": "Sa\u00e7\u0131n\u0131n Telleri G\u00f6\u011fs\u00fcnde"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "sultaniyegah", 
@@ -62,11 +57,16 @@
             "name": "[unknown]"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "a453af7e-5d5b-4bf2-9842-40de83113634", 
-            "title": "Sa\u00e7\u0131n\u0131n Telleri G\u00f6\u011fs\u00fcnde"
+            "attribute_key": "aksak", 
+            "mb_attribute": "Aksak", 
+            "source": "http://musicbrainz.org/work/a453af7e-5d5b-4bf2-9842-40de83113634"
+        }, 
+        {
+            "attribute_key": "aksak", 
+            "mb_tag": "aksak", 
+            "source": "http://musicbrainz.org/recording/e5814cf9-ccec-4725-be37-fe2596861299"
         }
     ]
 }

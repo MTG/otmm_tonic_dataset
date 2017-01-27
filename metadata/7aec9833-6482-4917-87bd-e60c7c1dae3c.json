@@ -1,11 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "kapali_curcuna", 
-            "mb_attribute": "Kapal\u0131 Curcuna", 
-            "source": "http://musicbrainz.org/work/bcc986b0-2f6d-49c2-8e55-ce63dc48fe4a"
-        }
-    ], 
+    "instrumentation_voicing": "choir", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -28,6 +22,12 @@
         }
     ], 
     "mbid": "7aec9833-6482-4917-87bd-e60c7c1dae3c", 
+    "works": [
+        {
+            "mbid": "bcc986b0-2f6d-49c2-8e55-ce63dc48fe4a", 
+            "title": "Nedendir Bu Dil-i zar\u0131n Figan\u0131"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "rast", 
@@ -80,11 +80,11 @@
             "name": "\u015eehnaz U\u011furel"
         }
     ], 
-    "instrumentation_voicing": "Choir", 
-    "works": [
+    "usul": [
         {
-            "mbid": "bcc986b0-2f6d-49c2-8e55-ce63dc48fe4a", 
-            "title": "Nedendir Bu Dil-i zar\u0131n Figan\u0131"
+            "attribute_key": "kapali_curcuna", 
+            "mb_attribute": "Kapal\u0131 Curcuna", 
+            "source": "http://musicbrainz.org/work/bcc986b0-2f6d-49c2-8e55-ce63dc48fe4a"
         }
     ]
 }

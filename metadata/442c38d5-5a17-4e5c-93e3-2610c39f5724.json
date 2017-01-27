@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "devrihindi", 
-            "mb_attribute": "Devr-i Hindi", 
-            "source": "http://musicbrainz.org/work/5e8a923a-cca2-4081-b04f-961339f3390d"
-        }, 
-        {
-            "attribute_key": "devrihindi", 
-            "mb_tag": "devr-i hindi", 
-            "source": "http://musicbrainz.org/recording/442c38d5-5a17-4e5c-93e3-2610c39f5724"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "442c38d5-5a17-4e5c-93e3-2610c39f5724", 
+    "works": [
+        {
+            "mbid": "5e8a923a-cca2-4081-b04f-961339f3390d", 
+            "title": "Leyl Olur ki H\u00fczn \u0130\u00e7inde Her Nefes Bir Ah Olur"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "acemkurdi", 
@@ -62,11 +57,16 @@
             "name": "Bekir S\u0131dk\u0131 Sezgin"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "5e8a923a-cca2-4081-b04f-961339f3390d", 
-            "title": "Leyl Olur ki H\u00fczn \u0130\u00e7inde Her Nefes Bir Ah Olur"
+            "attribute_key": "devrihindi", 
+            "mb_attribute": "Devr-i Hindi", 
+            "source": "http://musicbrainz.org/work/5e8a923a-cca2-4081-b04f-961339f3390d"
+        }, 
+        {
+            "attribute_key": "devrihindi", 
+            "mb_tag": "devr-i hindi", 
+            "source": "http://musicbrainz.org/recording/442c38d5-5a17-4e5c-93e3-2610c39f5724"
         }
     ]
 }

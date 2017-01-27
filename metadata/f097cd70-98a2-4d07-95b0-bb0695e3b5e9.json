@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "muhammes", 
-            "mb_attribute": "Muhammes", 
-            "source": "http://musicbrainz.org/work/211a71a2-cd77-4948-9566-0315988329e5"
-        }, 
-        {
-            "attribute_key": "muhammes", 
-            "mb_tag": "muhammes", 
-            "source": "http://musicbrainz.org/recording/f097cd70-98a2-4d07-95b0-bb0695e3b5e9"
-        }
-    ], 
+    "instrumentation_voicing": "duo instrumental", 
     "form": [
         {
             "attribute_key": "pesrev", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "f097cd70-98a2-4d07-95b0-bb0695e3b5e9", 
+    "works": [
+        {
+            "mbid": "211a71a2-cd77-4948-9566-0315988329e5", 
+            "title": "Hicazk\u00e2r Pe\u015frevi"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "hicazkar", 
@@ -69,11 +64,16 @@
             "name": "\u0130hsan \u00d6zgen"
         }
     ], 
-    "instrumentation_voicing": "Duo instrumental", 
-    "works": [
+    "usul": [
         {
-            "mbid": "211a71a2-cd77-4948-9566-0315988329e5", 
-            "title": "Hicazk\u00e2r Pe\u015frevi"
+            "attribute_key": "muhammes", 
+            "mb_attribute": "Muhammes", 
+            "source": "http://musicbrainz.org/work/211a71a2-cd77-4948-9566-0315988329e5"
+        }, 
+        {
+            "attribute_key": "muhammes", 
+            "mb_tag": "muhammes", 
+            "source": "http://musicbrainz.org/recording/f097cd70-98a2-4d07-95b0-bb0695e3b5e9"
         }
     ]
 }

@@ -1,31 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "fahte", 
-            "mb_attribute": "Fahte", 
-            "source": "http://musicbrainz.org/work/4abab307-e784-46fe-8a67-427d54b32511"
-        }, 
-        {
-            "attribute_key": "aksaksemai", 
-            "mb_attribute": "Aksaksemai", 
-            "source": "http://musicbrainz.org/work/9afa81b7-5d65-4235-b66c-a766e3ed1281"
-        }, 
-        {
-            "attribute_key": "fahte", 
-            "mb_attribute": "Fahte", 
-            "source": "http://musicbrainz.org/work/9afa81b7-5d65-4235-b66c-a766e3ed1281"
-        }, 
-        {
-            "attribute_key": "aksaksemai", 
-            "mb_tag": "aksaksemai", 
-            "source": "http://musicbrainz.org/recording/b6f6b8c1-83c2-4a27-b5fc-976d17881402"
-        }, 
-        {
-            "attribute_key": "fahte", 
-            "mb_tag": "fahte", 
-            "source": "http://musicbrainz.org/recording/b6f6b8c1-83c2-4a27-b5fc-976d17881402"
-        }
-    ], 
+    "instrumentation_voicing": "duo instrumental", 
     "form": [
         {
             "attribute_key": "pesrev", 
@@ -68,6 +42,16 @@
         }
     ], 
     "mbid": "b6f6b8c1-83c2-4a27-b5fc-976d17881402", 
+    "works": [
+        {
+            "mbid": "4abab307-e784-46fe-8a67-427d54b32511", 
+            "title": "Acemk\u00fcrdi Pe\u015frev"
+        }, 
+        {
+            "mbid": "9afa81b7-5d65-4235-b66c-a766e3ed1281", 
+            "title": "Acemk\u00fcrdi Sazsemaisi"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "acemkurdi", 
@@ -103,15 +87,31 @@
             "name": "Neva \u00d6zgen"
         }
     ], 
-    "instrumentation_voicing": "Duo instrumental", 
-    "works": [
+    "usul": [
         {
-            "mbid": "4abab307-e784-46fe-8a67-427d54b32511", 
-            "title": "Acemk\u00fcrdi Pe\u015frev"
+            "attribute_key": "fahte", 
+            "mb_attribute": "Fahte", 
+            "source": "http://musicbrainz.org/work/4abab307-e784-46fe-8a67-427d54b32511"
         }, 
         {
-            "mbid": "9afa81b7-5d65-4235-b66c-a766e3ed1281", 
-            "title": "Acemk\u00fcrdi Sazsemaisi"
+            "attribute_key": "aksaksemai", 
+            "mb_attribute": "Aksaksemai", 
+            "source": "http://musicbrainz.org/work/9afa81b7-5d65-4235-b66c-a766e3ed1281"
+        }, 
+        {
+            "attribute_key": "fahte", 
+            "mb_attribute": "Fahte", 
+            "source": "http://musicbrainz.org/work/9afa81b7-5d65-4235-b66c-a766e3ed1281"
+        }, 
+        {
+            "attribute_key": "aksaksemai", 
+            "mb_tag": "aksaksemai", 
+            "source": "http://musicbrainz.org/recording/b6f6b8c1-83c2-4a27-b5fc-976d17881402"
+        }, 
+        {
+            "attribute_key": "fahte", 
+            "mb_tag": "fahte", 
+            "source": "http://musicbrainz.org/recording/b6f6b8c1-83c2-4a27-b5fc-976d17881402"
         }
     ]
 }

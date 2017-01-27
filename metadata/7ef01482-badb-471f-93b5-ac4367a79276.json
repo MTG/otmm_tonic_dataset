@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "aksak", 
-            "mb_attribute": "Aksak", 
-            "source": "http://musicbrainz.org/work/2b67dacd-f4da-4dc6-95ef-dbe0bcf8c764"
-        }, 
-        {
-            "attribute_key": "aksak", 
-            "mb_tag": "aksak", 
-            "source": "http://musicbrainz.org/recording/7ef01482-badb-471f-93b5-ac4367a79276"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal without accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "7ef01482-badb-471f-93b5-ac4367a79276", 
+    "works": [
+        {
+            "mbid": "2b67dacd-f4da-4dc6-95ef-dbe0bcf8c764", 
+            "title": "Dile D\u00fc\u015ft\u00fcm Senin Y\u00fcz\u00fcnden"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "karcigar", 
@@ -57,11 +52,16 @@
             "name": "Sabite Tur G\u00fclerman"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal without accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "2b67dacd-f4da-4dc6-95ef-dbe0bcf8c764", 
-            "title": "Dile D\u00fc\u015ft\u00fcm Senin Y\u00fcz\u00fcnden"
+            "attribute_key": "aksak", 
+            "mb_attribute": "Aksak", 
+            "source": "http://musicbrainz.org/work/2b67dacd-f4da-4dc6-95ef-dbe0bcf8c764"
+        }, 
+        {
+            "attribute_key": "aksak", 
+            "mb_tag": "aksak", 
+            "source": "http://musicbrainz.org/recording/7ef01482-badb-471f-93b5-ac4367a79276"
         }
     ]
 }

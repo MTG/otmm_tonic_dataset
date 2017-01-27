@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "agiraksak", 
-            "mb_attribute": "A\u011f\u0131raksak", 
-            "source": "http://musicbrainz.org/work/186760d0-f2dc-4f66-bec3-a0bee1e84160"
-        }, 
-        {
-            "attribute_key": "agiraksak", 
-            "mb_tag": "a\u011f\u0131raksak", 
-            "source": "http://musicbrainz.org/recording/4371d5e2-42d0-4ec8-b150-e0db0539c750"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "4371d5e2-42d0-4ec8-b150-e0db0539c750", 
+    "works": [
+        {
+            "mbid": "186760d0-f2dc-4f66-bec3-a0bee1e84160", 
+            "title": "H\u00fcsn\u00fcne Etvar-\u0131 Naz\u0131n"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "karcigar", 
@@ -62,11 +57,16 @@
             "name": "Bekir S\u0131dk\u0131 Sezgin"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "186760d0-f2dc-4f66-bec3-a0bee1e84160", 
-            "title": "H\u00fcsn\u00fcne Etvar-\u0131 Naz\u0131n"
+            "attribute_key": "agiraksak", 
+            "mb_attribute": "A\u011f\u0131raksak", 
+            "source": "http://musicbrainz.org/work/186760d0-f2dc-4f66-bec3-a0bee1e84160"
+        }, 
+        {
+            "attribute_key": "agiraksak", 
+            "mb_tag": "a\u011f\u0131raksak", 
+            "source": "http://musicbrainz.org/recording/4371d5e2-42d0-4ec8-b150-e0db0539c750"
         }
     ]
 }

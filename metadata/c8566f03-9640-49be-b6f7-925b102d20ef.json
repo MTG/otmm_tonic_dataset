@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "aksaksemai", 
-            "mb_attribute": "Aksaksemai", 
-            "source": "http://musicbrainz.org/work/e5654095-0ec2-4017-a503-ab8ca7dc993e"
-        }, 
-        {
-            "attribute_key": "aksaksemai", 
-            "mb_tag": "aksaksemai", 
-            "source": "http://musicbrainz.org/recording/c8566f03-9640-49be-b6f7-925b102d20ef"
-        }
-    ], 
+    "instrumentation_voicing": "solo instrumental", 
     "form": [
         {
             "attribute_key": "sazsemaisi", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "c8566f03-9640-49be-b6f7-925b102d20ef", 
+    "works": [
+        {
+            "mbid": "e5654095-0ec2-4017-a503-ab8ca7dc993e", 
+            "title": "Acemk\u00fcrdi Sazsemaisi"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "acemkurdi", 
@@ -60,11 +55,16 @@
             "name": "[unknown]"
         }
     ], 
-    "instrumentation_voicing": "Solo instrumental", 
-    "works": [
+    "usul": [
         {
-            "mbid": "e5654095-0ec2-4017-a503-ab8ca7dc993e", 
-            "title": "Acemk\u00fcrdi Sazsemaisi"
+            "attribute_key": "aksaksemai", 
+            "mb_attribute": "Aksaksemai", 
+            "source": "http://musicbrainz.org/work/e5654095-0ec2-4017-a503-ab8ca7dc993e"
+        }, 
+        {
+            "attribute_key": "aksaksemai", 
+            "mb_tag": "aksaksemai", 
+            "source": "http://musicbrainz.org/recording/c8566f03-9640-49be-b6f7-925b102d20ef"
         }
     ]
 }

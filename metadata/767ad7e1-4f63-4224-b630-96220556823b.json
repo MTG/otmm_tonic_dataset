@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "curcuna", 
-            "mb_attribute": "Curcuna", 
-            "source": "http://musicbrainz.org/work/50c5fca0-f0e1-434f-9736-7f1805d91cda"
-        }, 
-        {
-            "attribute_key": "kapali_curcuna", 
-            "mb_tag": "curcuna", 
-            "source": "http://musicbrainz.org/recording/767ad7e1-4f63-4224-b630-96220556823b"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal without accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "767ad7e1-4f63-4224-b630-96220556823b", 
+    "works": [
+        {
+            "mbid": "50c5fca0-f0e1-434f-9736-7f1805d91cda", 
+            "title": "Pek Revad\u0131r Sevdi\u011fim"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "suzinak", 
@@ -57,11 +52,16 @@
             "name": "M\u00fclkiye Toper"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal without accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "50c5fca0-f0e1-434f-9736-7f1805d91cda", 
-            "title": "Pek Revad\u0131r Sevdi\u011fim"
+            "attribute_key": "curcuna", 
+            "mb_attribute": "Curcuna", 
+            "source": "http://musicbrainz.org/work/50c5fca0-f0e1-434f-9736-7f1805d91cda"
+        }, 
+        {
+            "attribute_key": "kapali_curcuna", 
+            "mb_tag": "curcuna", 
+            "source": "http://musicbrainz.org/recording/767ad7e1-4f63-4224-b630-96220556823b"
         }
     ]
 }

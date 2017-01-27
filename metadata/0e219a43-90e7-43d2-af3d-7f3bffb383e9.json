@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "aksak", 
-            "mb_attribute": "Aksak", 
-            "source": "http://musicbrainz.org/work/f50d3f31-8c30-4918-8fa7-3e4c4fec8fe4"
-        }, 
-        {
-            "attribute_key": "aksak", 
-            "mb_tag": "aksak", 
-            "source": "http://musicbrainz.org/recording/0e219a43-90e7-43d2-af3d-7f3bffb383e9"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -42,6 +31,12 @@
         }
     ], 
     "mbid": "0e219a43-90e7-43d2-af3d-7f3bffb383e9", 
+    "works": [
+        {
+            "mbid": "f50d3f31-8c30-4918-8fa7-3e4c4fec8fe4", 
+            "title": "Kerem K\u0131l Bu Dil-i Zare"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "bestenigar", 
@@ -69,11 +64,16 @@
             "name": "Nerkis Han\u0131m"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "f50d3f31-8c30-4918-8fa7-3e4c4fec8fe4", 
-            "title": "Kerem K\u0131l Bu Dil-i Zare"
+            "attribute_key": "aksak", 
+            "mb_attribute": "Aksak", 
+            "source": "http://musicbrainz.org/work/f50d3f31-8c30-4918-8fa7-3e4c4fec8fe4"
+        }, 
+        {
+            "attribute_key": "aksak", 
+            "mb_tag": "aksak", 
+            "source": "http://musicbrainz.org/recording/0e219a43-90e7-43d2-af3d-7f3bffb383e9"
         }
     ]
 }

@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "muhammes", 
-            "mb_attribute": "Muhammes", 
-            "source": "http://musicbrainz.org/work/6f2b316f-f951-4453-9233-2b62e16fcd05"
-        }, 
-        {
-            "attribute_key": "muhammes", 
-            "mb_tag": "muhammes", 
-            "source": "http://musicbrainz.org/recording/50ca994d-f899-4d3a-ad3a-8c07d97a5c90"
-        }
-    ], 
+    "instrumentation_voicing": "duo instrumental", 
     "form": [
         {
             "attribute_key": "pesrev", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "50ca994d-f899-4d3a-ad3a-8c07d97a5c90", 
+    "works": [
+        {
+            "mbid": "6f2b316f-f951-4453-9233-2b62e16fcd05", 
+            "title": "Ferahfeza Pe\u015frev"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "ferahfeza", 
@@ -70,11 +65,16 @@
             "name": "\u0130hsan \u00d6zgen"
         }
     ], 
-    "instrumentation_voicing": "Duo instrumental", 
-    "works": [
+    "usul": [
         {
-            "mbid": "6f2b316f-f951-4453-9233-2b62e16fcd05", 
-            "title": "Ferahfeza Pe\u015frev"
+            "attribute_key": "muhammes", 
+            "mb_attribute": "Muhammes", 
+            "source": "http://musicbrainz.org/work/6f2b316f-f951-4453-9233-2b62e16fcd05"
+        }, 
+        {
+            "attribute_key": "muhammes", 
+            "mb_tag": "muhammes", 
+            "source": "http://musicbrainz.org/recording/50ca994d-f899-4d3a-ad3a-8c07d97a5c90"
         }
     ]
 }

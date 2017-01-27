@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "aksak", 
-            "mb_attribute": "Aksak", 
-            "source": "http://musicbrainz.org/work/0c08cb62-9a7b-4844-a10e-04ea4620b33e"
-        }, 
-        {
-            "attribute_key": "aksak", 
-            "mb_tag": "aksak", 
-            "source": "http://musicbrainz.org/recording/121d0a7d-25a8-43be-b32b-3a3d54eef86c"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "121d0a7d-25a8-43be-b32b-3a3d54eef86c", 
+    "works": [
+        {
+            "mbid": "0c08cb62-9a7b-4844-a10e-04ea4620b33e", 
+            "title": "Nur Salk\u0131m\u0131s\u0131n G\u00fcl ki Bahar Baht\u0131na Yans\u0131n"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "kurdilihicazkar", 
@@ -204,11 +199,16 @@
             "name": "Nam\u0131k Ta\u015fp\u0131narl\u0131"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "0c08cb62-9a7b-4844-a10e-04ea4620b33e", 
-            "title": "Nur Salk\u0131m\u0131s\u0131n G\u00fcl ki Bahar Baht\u0131na Yans\u0131n"
+            "attribute_key": "aksak", 
+            "mb_attribute": "Aksak", 
+            "source": "http://musicbrainz.org/work/0c08cb62-9a7b-4844-a10e-04ea4620b33e"
+        }, 
+        {
+            "attribute_key": "aksak", 
+            "mb_tag": "aksak", 
+            "source": "http://musicbrainz.org/recording/121d0a7d-25a8-43be-b32b-3a3d54eef86c"
         }
     ]
 }

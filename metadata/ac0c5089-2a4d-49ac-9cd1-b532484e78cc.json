@@ -1,11 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "devrikebir", 
-            "mb_attribute": "Devr-i Kebir", 
-            "source": "http://musicbrainz.org/work/a850baea-d661-404d-8715-f4b37e5d49fd"
-        }
-    ], 
+    "instrumentation_voicing": "choir", 
     "form": [
         {
             "attribute_key": "pesrev", 
@@ -57,6 +51,12 @@
         }
     ], 
     "mbid": "ac0c5089-2a4d-49ac-9cd1-b532484e78cc", 
+    "works": [
+        {
+            "mbid": "a850baea-d661-404d-8715-f4b37e5d49fd", 
+            "title": "K\u00fcrdi Pe\u015frevi"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "kurdi", 
@@ -120,11 +120,11 @@
             "name": "Do\u011fan Dikmen"
         }
     ], 
-    "instrumentation_voicing": "Choir", 
-    "works": [
+    "usul": [
         {
-            "mbid": "a850baea-d661-404d-8715-f4b37e5d49fd", 
-            "title": "K\u00fcrdi Pe\u015frevi"
+            "attribute_key": "devrikebir", 
+            "mb_attribute": "Devr-i Kebir", 
+            "source": "http://musicbrainz.org/work/a850baea-d661-404d-8715-f4b37e5d49fd"
         }
     ]
 }

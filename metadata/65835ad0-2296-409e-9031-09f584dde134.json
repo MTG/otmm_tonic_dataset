@@ -1,11 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "yuruksemai", 
-            "mb_attribute": "Y\u00fcr\u00fcksemai", 
-            "source": "http://musicbrainz.org/work/3ccfdae6-d6e1-4436-8f4a-4b777d28ada9"
-        }
-    ], 
+    "instrumentation_voicing": "choir", 
     "form": [
         {
             "attribute_key": "yuruksemai", 
@@ -40,6 +34,12 @@
         }
     ], 
     "mbid": "65835ad0-2296-409e-9031-09f584dde134", 
+    "works": [
+        {
+            "mbid": "3ccfdae6-d6e1-4436-8f4a-4b777d28ada9", 
+            "title": "Tuti-i Mucize Guyem Ne Desem Laf De\u011fil"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "segah", 
@@ -133,11 +133,11 @@
             "name": "Sarper Ero\u011flu"
         }
     ], 
-    "instrumentation_voicing": "Choir", 
-    "works": [
+    "usul": [
         {
-            "mbid": "3ccfdae6-d6e1-4436-8f4a-4b777d28ada9", 
-            "title": "Tuti-i Mucize Guyem Ne Desem Laf De\u011fil"
+            "attribute_key": "yuruksemai", 
+            "mb_attribute": "Y\u00fcr\u00fcksemai", 
+            "source": "http://musicbrainz.org/work/3ccfdae6-d6e1-4436-8f4a-4b777d28ada9"
         }
     ]
 }

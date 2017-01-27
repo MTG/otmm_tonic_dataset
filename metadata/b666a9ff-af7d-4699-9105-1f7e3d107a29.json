@@ -1,5 +1,11 @@
 {
-    "instrumentation_voicing": "Solo vocal without accompaniment", 
+    "usul": [
+        {
+            "attribute_key": "serbest", 
+            "mb_tag": "serbest", 
+            "source": "http://musicbrainz.org/recording/b666a9ff-af7d-4699-9105-1f7e3d107a29"
+        }
+    ], 
     "form": [
         {
             "attribute_key": "kuran_i_kerim", 
@@ -32,11 +38,5 @@
             "name": "Bekir S\u0131dk\u0131 Sezgin"
         }
     ], 
-    "usul": [
-        {
-            "attribute_key": "serbest", 
-            "mb_tag": "serbest", 
-            "source": "http://musicbrainz.org/recording/b666a9ff-af7d-4699-9105-1f7e3d107a29"
-        }
-    ]
+    "instrumentation_voicing": "solo vocal without accompaniment"
 }

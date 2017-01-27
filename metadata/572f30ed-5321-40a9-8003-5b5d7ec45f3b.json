@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "duyek", 
-            "mb_attribute": "D\u00fcyek", 
-            "source": "http://musicbrainz.org/work/dde597c9-c87b-4f75-9c74-2d808268e317"
-        }, 
-        {
-            "attribute_key": "duyek", 
-            "mb_tag": "d\u00fcyek", 
-            "source": "http://musicbrainz.org/recording/572f30ed-5321-40a9-8003-5b5d7ec45f3b"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -42,6 +31,12 @@
         }
     ], 
     "mbid": "572f30ed-5321-40a9-8003-5b5d7ec45f3b", 
+    "works": [
+        {
+            "mbid": "dde597c9-c87b-4f75-9c74-2d808268e317", 
+            "title": "Kader Kime \u015eikayet Edeyim Seni"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "hicaz", 
@@ -66,11 +61,16 @@
             "name": "Mediha \u015een Sancako\u011flu"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "dde597c9-c87b-4f75-9c74-2d808268e317", 
-            "title": "Kader Kime \u015eikayet Edeyim Seni"
+            "attribute_key": "duyek", 
+            "mb_attribute": "D\u00fcyek", 
+            "source": "http://musicbrainz.org/work/dde597c9-c87b-4f75-9c74-2d808268e317"
+        }, 
+        {
+            "attribute_key": "duyek", 
+            "mb_tag": "d\u00fcyek", 
+            "source": "http://musicbrainz.org/recording/572f30ed-5321-40a9-8003-5b5d7ec45f3b"
         }
     ]
 }

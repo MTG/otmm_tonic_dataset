@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "devrihindi", 
-            "mb_attribute": "Devr-i Hindi", 
-            "source": "http://musicbrainz.org/work/9b4354cb-bf8e-4457-a561-6ad9eae7e762"
-        }, 
-        {
-            "attribute_key": "devrihindi", 
-            "mb_tag": "devr-i hindi", 
-            "source": "http://musicbrainz.org/recording/4e59e16e-7fdb-4af4-894a-7950c326c630"
-        }
-    ], 
+    "instrumentation_voicing": "choir", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "4e59e16e-7fdb-4af4-894a-7950c326c630", 
+    "works": [
+        {
+            "mbid": "9b4354cb-bf8e-4457-a561-6ad9eae7e762", 
+            "title": "G\u00f6nl\u00fcm\u00fc Du\u00e7ar Eden"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "hicazkar", 
@@ -92,11 +87,16 @@
             "name": "\u015eehnaz U\u011furel"
         }
     ], 
-    "instrumentation_voicing": "Choir", 
-    "works": [
+    "usul": [
         {
-            "mbid": "9b4354cb-bf8e-4457-a561-6ad9eae7e762", 
-            "title": "G\u00f6nl\u00fcm\u00fc Du\u00e7ar Eden"
+            "attribute_key": "devrihindi", 
+            "mb_attribute": "Devr-i Hindi", 
+            "source": "http://musicbrainz.org/work/9b4354cb-bf8e-4457-a561-6ad9eae7e762"
+        }, 
+        {
+            "attribute_key": "devrihindi", 
+            "mb_tag": "devr-i hindi", 
+            "source": "http://musicbrainz.org/recording/4e59e16e-7fdb-4af4-894a-7950c326c630"
         }
     ]
 }

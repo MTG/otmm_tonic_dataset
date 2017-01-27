@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "aksak", 
-            "mb_attribute": "Aksak", 
-            "source": "http://musicbrainz.org/work/b12ecddc-6156-43ab-847d-8f1f82a3ca6c"
-        }, 
-        {
-            "attribute_key": "aksak", 
-            "mb_tag": "aksak", 
-            "source": "http://musicbrainz.org/recording/0f7259dc-a41a-4cff-ab2a-48de40474409"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "turku", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "0f7259dc-a41a-4cff-ab2a-48de40474409", 
+    "works": [
+        {
+            "mbid": "b12ecddc-6156-43ab-847d-8f1f82a3ca6c", 
+            "title": "Yan\u0131yor Mu Ye\u015fil K\u00f6\u015fk\u00fcn"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "huzzam", 
@@ -145,11 +140,16 @@
             "name": "Nuri G\u00fcn"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "b12ecddc-6156-43ab-847d-8f1f82a3ca6c", 
-            "title": "Yan\u0131yor Mu Ye\u015fil K\u00f6\u015fk\u00fcn"
+            "attribute_key": "aksak", 
+            "mb_attribute": "Aksak", 
+            "source": "http://musicbrainz.org/work/b12ecddc-6156-43ab-847d-8f1f82a3ca6c"
+        }, 
+        {
+            "attribute_key": "aksak", 
+            "mb_tag": "aksak", 
+            "source": "http://musicbrainz.org/recording/0f7259dc-a41a-4cff-ab2a-48de40474409"
         }
     ]
 }

@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "lenkfahte", 
-            "mb_attribute": "Lenk Fahte", 
-            "source": "http://musicbrainz.org/work/01631a50-fde4-42e2-82f8-52a62d0ff557"
-        }, 
-        {
-            "attribute_key": "lenkfahte", 
-            "mb_tag": "lenk fahte", 
-            "source": "http://musicbrainz.org/recording/15b80eba-dd7a-4523-9d75-3f12a2f44365"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "beste", 
@@ -33,6 +22,12 @@
         }
     ], 
     "mbid": "15b80eba-dd7a-4523-9d75-3f12a2f44365", 
+    "works": [
+        {
+            "mbid": "01631a50-fde4-42e2-82f8-52a62d0ff557", 
+            "title": "Merhem Koyup Onarma"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "acemasiran", 
@@ -57,11 +52,16 @@
             "name": "Alaeddin Yava\u015fca"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "01631a50-fde4-42e2-82f8-52a62d0ff557", 
-            "title": "Merhem Koyup Onarma"
+            "attribute_key": "lenkfahte", 
+            "mb_attribute": "Lenk Fahte", 
+            "source": "http://musicbrainz.org/work/01631a50-fde4-42e2-82f8-52a62d0ff557"
+        }, 
+        {
+            "attribute_key": "lenkfahte", 
+            "mb_tag": "lenk fahte", 
+            "source": "http://musicbrainz.org/recording/15b80eba-dd7a-4523-9d75-3f12a2f44365"
         }
     ]
 }

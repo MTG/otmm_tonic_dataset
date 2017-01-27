@@ -1,11 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "devrikebir", 
-            "mb_attribute": "Devr-i Kebir", 
-            "source": "http://musicbrainz.org/work/31385d3e-7014-485e-b77e-943beb8f9e29"
-        }
-    ], 
+    "instrumentation_voicing": "ensemble instrumental", 
     "form": [
         {
             "attribute_key": "pesrev", 
@@ -33,6 +27,12 @@
         }
     ], 
     "mbid": "a93b325d-41e1-4704-b9da-8ec5a6d1e584", 
+    "works": [
+        {
+            "mbid": "31385d3e-7014-485e-b77e-943beb8f9e29", 
+            "title": "Suzinak Pe\u015frev"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "suzinak", 
@@ -52,11 +52,11 @@
             "name": "[unknown]"
         }
     ], 
-    "instrumentation_voicing": "Ensemble instrumental", 
-    "works": [
+    "usul": [
         {
-            "mbid": "31385d3e-7014-485e-b77e-943beb8f9e29", 
-            "title": "Suzinak Pe\u015frev"
+            "attribute_key": "devrikebir", 
+            "mb_attribute": "Devr-i Kebir", 
+            "source": "http://musicbrainz.org/work/31385d3e-7014-485e-b77e-943beb8f9e29"
         }
     ]
 }

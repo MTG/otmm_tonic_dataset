@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "aksak", 
-            "mb_attribute": "Aksak", 
-            "source": "http://musicbrainz.org/work/a8eacb2a-6b10-4782-b298-cf489185a7be"
-        }, 
-        {
-            "attribute_key": "aksak", 
-            "mb_tag": "aksak", 
-            "source": "http://musicbrainz.org/recording/53e41af1-2154-46fe-a367-8b3db1702e21"
-        }
-    ], 
+    "instrumentation_voicing": "solo instrumental", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "53e41af1-2154-46fe-a367-8b3db1702e21", 
+    "works": [
+        {
+            "mbid": "a8eacb2a-6b10-4782-b298-cf489185a7be", 
+            "title": "Nereden Sevdim O Zalim Kad\u0131n\u0131"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "kurdilihicazkar", 
@@ -60,11 +55,16 @@
             "name": "Ahmet Meter"
         }
     ], 
-    "instrumentation_voicing": "Solo instrumental", 
-    "works": [
+    "usul": [
         {
-            "mbid": "a8eacb2a-6b10-4782-b298-cf489185a7be", 
-            "title": "Nereden Sevdim O Zalim Kad\u0131n\u0131"
+            "attribute_key": "aksak", 
+            "mb_attribute": "Aksak", 
+            "source": "http://musicbrainz.org/work/a8eacb2a-6b10-4782-b298-cf489185a7be"
+        }, 
+        {
+            "attribute_key": "aksak", 
+            "mb_tag": "aksak", 
+            "source": "http://musicbrainz.org/recording/53e41af1-2154-46fe-a367-8b3db1702e21"
         }
     ]
 }

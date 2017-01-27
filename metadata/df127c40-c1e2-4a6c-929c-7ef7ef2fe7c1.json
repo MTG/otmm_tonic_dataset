@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "musemmen", 
-            "mb_attribute": "M\u00fcsemmen", 
-            "source": "http://musicbrainz.org/work/27627605-5101-46fc-af87-7ffe73dad19b"
-        }, 
-        {
-            "attribute_key": "musemmen_ii", 
-            "mb_tag": "m\u00fcsemmen", 
-            "source": "http://musicbrainz.org/recording/df127c40-c1e2-4a6c-929c-7ef7ef2fe7c1"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "df127c40-c1e2-4a6c-929c-7ef7ef2fe7c1", 
+    "works": [
+        {
+            "mbid": "27627605-5101-46fc-af87-7ffe73dad19b", 
+            "title": "G\u00f6nl\u00fcm\u00fcn Bir Hali Var ki"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "ussak", 
@@ -62,11 +57,16 @@
             "name": "Bekir S\u0131dk\u0131 Sezgin"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "27627605-5101-46fc-af87-7ffe73dad19b", 
-            "title": "G\u00f6nl\u00fcm\u00fcn Bir Hali Var ki"
+            "attribute_key": "musemmen", 
+            "mb_attribute": "M\u00fcsemmen", 
+            "source": "http://musicbrainz.org/work/27627605-5101-46fc-af87-7ffe73dad19b"
+        }, 
+        {
+            "attribute_key": "musemmen_ii", 
+            "mb_tag": "m\u00fcsemmen", 
+            "source": "http://musicbrainz.org/recording/df127c40-c1e2-4a6c-929c-7ef7ef2fe7c1"
         }
     ]
 }

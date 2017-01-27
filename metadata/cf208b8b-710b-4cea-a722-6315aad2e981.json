@@ -1,5 +1,11 @@
 {
-    "instrumentation_voicing": "Solo instrumental", 
+    "usul": [
+        {
+            "attribute_key": "serbest", 
+            "mb_tag": "serbest", 
+            "source": "http://musicbrainz.org/recording/cf208b8b-710b-4cea-a722-6315aad2e981"
+        }
+    ], 
     "form": [
         {
             "attribute_key": "taksim", 
@@ -44,11 +50,5 @@
             "name": "Aka G\u00fcnd\u00fcz Kutbay"
         }
     ], 
-    "usul": [
-        {
-            "attribute_key": "serbest", 
-            "mb_tag": "serbest", 
-            "source": "http://musicbrainz.org/recording/cf208b8b-710b-4cea-a722-6315aad2e981"
-        }
-    ]
+    "instrumentation_voicing": "solo instrumental"
 }

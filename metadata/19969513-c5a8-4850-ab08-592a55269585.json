@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "semai", 
-            "mb_attribute": "Semai", 
-            "source": "http://musicbrainz.org/work/20612c85-686c-4598-b689-eda5322bc9a6"
-        }, 
-        {
-            "attribute_key": "semai", 
-            "mb_tag": "semai", 
-            "source": "http://musicbrainz.org/recording/19969513-c5a8-4850-ab08-592a55269585"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -42,6 +31,12 @@
         }
     ], 
     "mbid": "19969513-c5a8-4850-ab08-592a55269585", 
+    "works": [
+        {
+            "mbid": "20612c85-686c-4598-b689-eda5322bc9a6", 
+            "title": "Sevgin ya\u015fat\u0131r beni"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "rast", 
@@ -66,11 +61,16 @@
             "name": "Mediha \u015een Sancako\u011flu"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "20612c85-686c-4598-b689-eda5322bc9a6", 
-            "title": "Sevgin ya\u015fat\u0131r beni"
+            "attribute_key": "semai", 
+            "mb_attribute": "Semai", 
+            "source": "http://musicbrainz.org/work/20612c85-686c-4598-b689-eda5322bc9a6"
+        }, 
+        {
+            "attribute_key": "semai", 
+            "mb_tag": "semai", 
+            "source": "http://musicbrainz.org/recording/19969513-c5a8-4850-ab08-592a55269585"
         }
     ]
 }

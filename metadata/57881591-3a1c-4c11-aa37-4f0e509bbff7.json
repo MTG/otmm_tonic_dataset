@@ -1,11 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "aksaksemai", 
-            "mb_attribute": "Aksaksemai", 
-            "source": "http://musicbrainz.org/work/7d338307-ca89-4b5c-b93e-c797d0a4bf8d"
-        }
-    ], 
+    "instrumentation_voicing": "solo instrumental", 
     "form": [
         {
             "attribute_key": "sazsemaisi", 
@@ -33,6 +27,12 @@
         }
     ], 
     "mbid": "57881591-3a1c-4c11-aa37-4f0e509bbff7", 
+    "works": [
+        {
+            "mbid": "7d338307-ca89-4b5c-b93e-c797d0a4bf8d", 
+            "title": "\u015eevkefza Sazsemaisi"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "sevkefza", 
@@ -55,11 +55,11 @@
             "name": "Sadrettin \u00d6z\u00e7imi"
         }
     ], 
-    "instrumentation_voicing": "Solo instrumental", 
-    "works": [
+    "usul": [
         {
-            "mbid": "7d338307-ca89-4b5c-b93e-c797d0a4bf8d", 
-            "title": "\u015eevkefza Sazsemaisi"
+            "attribute_key": "aksaksemai", 
+            "mb_attribute": "Aksaksemai", 
+            "source": "http://musicbrainz.org/work/7d338307-ca89-4b5c-b93e-c797d0a4bf8d"
         }
     ]
 }

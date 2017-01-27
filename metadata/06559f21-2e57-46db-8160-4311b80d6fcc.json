@@ -1,11 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "serbest", 
-            "mb_tag": "serbest", 
-            "source": "http://musicbrainz.org/recording/06559f21-2e57-46db-8160-4311b80d6fcc"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [], 
     "releases": [
         {
@@ -22,6 +16,12 @@
         }
     ], 
     "mbid": "06559f21-2e57-46db-8160-4311b80d6fcc", 
+    "works": [
+        {
+            "mbid": "eba0d7d1-3e5f-45a7-847a-58470aa43427", 
+            "title": "Dinlerim Neyden Bazan Bir Hazin Sesle Seni"
+        }
+    ], 
     "makam": [], 
     "artists": [
         {
@@ -35,11 +35,11 @@
             "name": "Bekir S\u0131dk\u0131 Sezgin"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "eba0d7d1-3e5f-45a7-847a-58470aa43427", 
-            "title": "Dinlerim Neyden Bazan Bir Hazin Sesle Seni"
+            "attribute_key": "serbest", 
+            "mb_tag": "serbest", 
+            "source": "http://musicbrainz.org/recording/06559f21-2e57-46db-8160-4311b80d6fcc"
         }
     ]
 }

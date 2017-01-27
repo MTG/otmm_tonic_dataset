@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "curcuna", 
-            "mb_attribute": "Curcuna", 
-            "source": "http://musicbrainz.org/work/3458bb9d-9263-4261-bd58-9d165ecdc0fe"
-        }, 
-        {
-            "attribute_key": "kapali_curcuna", 
-            "mb_tag": "curcuna", 
-            "source": "http://musicbrainz.org/recording/071f1f26-6a79-4177-bd4a-e2e770cebeb6"
-        }
-    ], 
+    "instrumentation_voicing": "solo instrumental", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "071f1f26-6a79-4177-bd4a-e2e770cebeb6", 
+    "works": [
+        {
+            "mbid": "3458bb9d-9263-4261-bd58-9d165ecdc0fe", 
+            "title": "Emeller Aldat\u0131p Avutmu\u015f Beni"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "kurdilihicazkar", 
@@ -60,11 +55,16 @@
             "name": "Ahmet Meter"
         }
     ], 
-    "instrumentation_voicing": "Solo instrumental", 
-    "works": [
+    "usul": [
         {
-            "mbid": "3458bb9d-9263-4261-bd58-9d165ecdc0fe", 
-            "title": "Emeller Aldat\u0131p Avutmu\u015f Beni"
+            "attribute_key": "curcuna", 
+            "mb_attribute": "Curcuna", 
+            "source": "http://musicbrainz.org/work/3458bb9d-9263-4261-bd58-9d165ecdc0fe"
+        }, 
+        {
+            "attribute_key": "kapali_curcuna", 
+            "mb_tag": "curcuna", 
+            "source": "http://musicbrainz.org/recording/071f1f26-6a79-4177-bd4a-e2e770cebeb6"
         }
     ]
 }

@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "sofyan", 
-            "mb_attribute": "Sofyan", 
-            "source": "http://musicbrainz.org/work/e9ba654c-0373-48ae-bb81-ad9549d9fce4"
-        }, 
-        {
-            "attribute_key": "sofyan", 
-            "mb_tag": "sofyan", 
-            "source": "http://musicbrainz.org/recording/165d6ba9-fa99-4a17-ad39-bcdf8c73e1f6"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal without accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "165d6ba9-fa99-4a17-ad39-bcdf8c73e1f6", 
+    "works": [
+        {
+            "mbid": "e9ba654c-0373-48ae-bb81-ad9549d9fce4", 
+            "title": "Dumanl\u0131 Ba\u015flar\u0131 G\u00f6klere Ermi\u015f"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "huseyni", 
@@ -57,11 +52,16 @@
             "name": "M\u00fcnir Nurettin Sel\u00e7uk"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal without accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "e9ba654c-0373-48ae-bb81-ad9549d9fce4", 
-            "title": "Dumanl\u0131 Ba\u015flar\u0131 G\u00f6klere Ermi\u015f"
+            "attribute_key": "sofyan", 
+            "mb_attribute": "Sofyan", 
+            "source": "http://musicbrainz.org/work/e9ba654c-0373-48ae-bb81-ad9549d9fce4"
+        }, 
+        {
+            "attribute_key": "sofyan", 
+            "mb_tag": "sofyan", 
+            "source": "http://musicbrainz.org/recording/165d6ba9-fa99-4a17-ad39-bcdf8c73e1f6"
         }
     ]
 }

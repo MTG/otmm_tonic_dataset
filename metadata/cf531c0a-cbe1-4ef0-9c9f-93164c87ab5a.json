@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "semai", 
-            "mb_attribute": "Semai", 
-            "source": "http://musicbrainz.org/work/56d661d7-8c83-49f8-bcf0-0e00b60ef291"
-        }, 
-        {
-            "attribute_key": "semai", 
-            "mb_tag": "semai", 
-            "source": "http://musicbrainz.org/recording/cf531c0a-cbe1-4ef0-9c9f-93164c87ab5a"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "cf531c0a-cbe1-4ef0-9c9f-93164c87ab5a", 
+    "works": [
+        {
+            "mbid": "56d661d7-8c83-49f8-bcf0-0e00b60ef291", 
+            "title": "O A\u011fac\u0131n Alt\u0131n\u0131 Anmaz Olur Muyum"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "karcigar", 
@@ -62,11 +57,16 @@
             "name": "Mediha \u015een Sancako\u011flu"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "56d661d7-8c83-49f8-bcf0-0e00b60ef291", 
-            "title": "O A\u011fac\u0131n Alt\u0131n\u0131 Anmaz Olur Muyum"
+            "attribute_key": "semai", 
+            "mb_attribute": "Semai", 
+            "source": "http://musicbrainz.org/work/56d661d7-8c83-49f8-bcf0-0e00b60ef291"
+        }, 
+        {
+            "attribute_key": "semai", 
+            "mb_tag": "semai", 
+            "source": "http://musicbrainz.org/recording/cf531c0a-cbe1-4ef0-9c9f-93164c87ab5a"
         }
     ]
 }

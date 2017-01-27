@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "duyek", 
-            "mb_attribute": "D\u00fcyek", 
-            "source": "http://musicbrainz.org/work/3e969504-0931-4407-8b74-96a61fc9e460"
-        }, 
-        {
-            "attribute_key": "duyek", 
-            "mb_tag": "d\u00fcyek", 
-            "source": "http://musicbrainz.org/recording/9b063ea8-0c59-4c80-9606-4df8080d3b05"
-        }
-    ], 
+    "instrumentation_voicing": "choir", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "9b063ea8-0c59-4c80-9606-4df8080d3b05", 
+    "works": [
+        {
+            "mbid": "3e969504-0931-4407-8b74-96a61fc9e460", 
+            "title": "\u00d6mr\u00fcm\u00fcz\u00fcn Son Demi"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "huzzam", 
@@ -130,11 +125,16 @@
             "name": "Seyhun \u00c7elik"
         }
     ], 
-    "instrumentation_voicing": "Choir", 
-    "works": [
+    "usul": [
         {
-            "mbid": "3e969504-0931-4407-8b74-96a61fc9e460", 
-            "title": "\u00d6mr\u00fcm\u00fcz\u00fcn Son Demi"
+            "attribute_key": "duyek", 
+            "mb_attribute": "D\u00fcyek", 
+            "source": "http://musicbrainz.org/work/3e969504-0931-4407-8b74-96a61fc9e460"
+        }, 
+        {
+            "attribute_key": "duyek", 
+            "mb_tag": "d\u00fcyek", 
+            "source": "http://musicbrainz.org/recording/9b063ea8-0c59-4c80-9606-4df8080d3b05"
         }
     ]
 }

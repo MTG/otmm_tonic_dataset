@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "turkaksagi", 
-            "mb_attribute": "T\u00fcrkaksa\u011f\u0131", 
-            "source": "http://musicbrainz.org/work/54434d2a-c4a4-4470-be4d-264b5653c0fd"
-        }, 
-        {
-            "attribute_key": "turkaksagi_ii", 
-            "mb_tag": "t\u00fcrkaksa\u011f\u0131", 
-            "source": "http://musicbrainz.org/recording/6a3fad95-9d49-42a4-ba51-2774291fb029"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "6a3fad95-9d49-42a4-ba51-2774291fb029", 
+    "works": [
+        {
+            "mbid": "54434d2a-c4a4-4470-be4d-264b5653c0fd", 
+            "title": "A\u00e7m\u0131\u015ft\u0131 Alevler Gibi"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "suzidil", 
@@ -62,11 +57,16 @@
             "name": "Bekir S\u0131dk\u0131 Sezgin"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "54434d2a-c4a4-4470-be4d-264b5653c0fd", 
-            "title": "A\u00e7m\u0131\u015ft\u0131 Alevler Gibi"
+            "attribute_key": "turkaksagi", 
+            "mb_attribute": "T\u00fcrkaksa\u011f\u0131", 
+            "source": "http://musicbrainz.org/work/54434d2a-c4a4-4470-be4d-264b5653c0fd"
+        }, 
+        {
+            "attribute_key": "turkaksagi_ii", 
+            "mb_tag": "t\u00fcrkaksa\u011f\u0131", 
+            "source": "http://musicbrainz.org/recording/6a3fad95-9d49-42a4-ba51-2774291fb029"
         }
     ]
 }

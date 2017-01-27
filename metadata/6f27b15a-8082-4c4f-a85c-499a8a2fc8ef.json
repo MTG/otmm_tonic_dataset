@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "duyek", 
-            "mb_attribute": "D\u00fcyek", 
-            "source": "http://musicbrainz.org/work/48dc2fc5-fb47-429d-8a48-286a5b966c64"
-        }, 
-        {
-            "attribute_key": "duyek", 
-            "mb_tag": "d\u00fcyek", 
-            "source": "http://musicbrainz.org/recording/6f27b15a-8082-4c4f-a85c-499a8a2fc8ef"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "6f27b15a-8082-4c4f-a85c-499a8a2fc8ef", 
+    "works": [
+        {
+            "mbid": "48dc2fc5-fb47-429d-8a48-286a5b966c64", 
+            "title": "Olsa da Ho\u015f Kokulu Dikenidir"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "mahur", 
@@ -137,11 +132,16 @@
             "name": "Faik Dinleten"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "48dc2fc5-fb47-429d-8a48-286a5b966c64", 
-            "title": "Olsa da Ho\u015f Kokulu Dikenidir"
+            "attribute_key": "duyek", 
+            "mb_attribute": "D\u00fcyek", 
+            "source": "http://musicbrainz.org/work/48dc2fc5-fb47-429d-8a48-286a5b966c64"
+        }, 
+        {
+            "attribute_key": "duyek", 
+            "mb_tag": "d\u00fcyek", 
+            "source": "http://musicbrainz.org/recording/6f27b15a-8082-4c4f-a85c-499a8a2fc8ef"
         }
     ]
 }

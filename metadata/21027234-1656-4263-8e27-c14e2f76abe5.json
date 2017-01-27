@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "hafif", 
-            "mb_attribute": "Hafif", 
-            "source": "http://musicbrainz.org/work/52cfbdfb-ddb5-49b7-894b-f822caab2d02"
-        }, 
-        {
-            "attribute_key": "hafif", 
-            "mb_tag": "hafif", 
-            "source": "http://musicbrainz.org/recording/21027234-1656-4263-8e27-c14e2f76abe5"
-        }
-    ], 
+    "instrumentation_voicing": "solo instrumental", 
     "form": [
         {
             "attribute_key": "pesrev", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "21027234-1656-4263-8e27-c14e2f76abe5", 
+    "works": [
+        {
+            "mbid": "52cfbdfb-ddb5-49b7-894b-f822caab2d02", 
+            "title": "Hicaz Pe\u015frev"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "hicaz", 
@@ -60,11 +55,16 @@
             "name": "Fahri Karaduman"
         }
     ], 
-    "instrumentation_voicing": "Solo instrumental", 
-    "works": [
+    "usul": [
         {
-            "mbid": "52cfbdfb-ddb5-49b7-894b-f822caab2d02", 
-            "title": "Hicaz Pe\u015frev"
+            "attribute_key": "hafif", 
+            "mb_attribute": "Hafif", 
+            "source": "http://musicbrainz.org/work/52cfbdfb-ddb5-49b7-894b-f822caab2d02"
+        }, 
+        {
+            "attribute_key": "hafif", 
+            "mb_tag": "hafif", 
+            "source": "http://musicbrainz.org/recording/21027234-1656-4263-8e27-c14e2f76abe5"
         }
     ]
 }

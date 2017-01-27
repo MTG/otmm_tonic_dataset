@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "aksak", 
-            "mb_attribute": "Aksak", 
-            "source": "http://musicbrainz.org/work/96d0c31d-0e7a-4c00-a0cc-f261361131b4"
-        }, 
-        {
-            "attribute_key": "aksak", 
-            "mb_tag": "aksak", 
-            "source": "http://musicbrainz.org/recording/a4b36920-9ae0-47bb-beff-e4642dddb881"
-        }
-    ], 
+    "instrumentation_voicing": "choir", 
     "form": [
         {
             "attribute_key": "kocekce", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "a4b36920-9ae0-47bb-beff-e4642dddb881", 
+    "works": [
+        {
+            "mbid": "96d0c31d-0e7a-4c00-a0cc-f261361131b4", 
+            "title": "\u0130lkbahar Olunca"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "karcigar", 
@@ -101,11 +96,16 @@
             "name": "Do\u011fan Dikmen"
         }
     ], 
-    "instrumentation_voicing": "Choir", 
-    "works": [
+    "usul": [
         {
-            "mbid": "96d0c31d-0e7a-4c00-a0cc-f261361131b4", 
-            "title": "\u0130lkbahar Olunca"
+            "attribute_key": "aksak", 
+            "mb_attribute": "Aksak", 
+            "source": "http://musicbrainz.org/work/96d0c31d-0e7a-4c00-a0cc-f261361131b4"
+        }, 
+        {
+            "attribute_key": "aksak", 
+            "mb_tag": "aksak", 
+            "source": "http://musicbrainz.org/recording/a4b36920-9ae0-47bb-beff-e4642dddb881"
         }
     ]
 }

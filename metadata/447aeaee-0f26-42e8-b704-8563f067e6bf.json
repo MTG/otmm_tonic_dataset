@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "aksaksemai", 
-            "mb_attribute": "Aksaksemai", 
-            "source": "http://musicbrainz.org/work/aa62a6be-c7a0-4bc7-9931-4190af588d07"
-        }, 
-        {
-            "attribute_key": "aksaksemai", 
-            "mb_tag": "aksaksemai", 
-            "source": "http://musicbrainz.org/recording/447aeaee-0f26-42e8-b704-8563f067e6bf"
-        }
-    ], 
+    "instrumentation_voicing": "solo instrumental", 
     "form": [
         {
             "attribute_key": "sazsemaisi", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "447aeaee-0f26-42e8-b704-8563f067e6bf", 
+    "works": [
+        {
+            "mbid": "aa62a6be-c7a0-4bc7-9931-4190af588d07", 
+            "title": "Bestenig\u00e2r Saz Sem\u00e2\u00ee"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "bestenigar", 
@@ -60,11 +55,16 @@
             "name": "Necdet Ya\u015far"
         }
     ], 
-    "instrumentation_voicing": "Solo instrumental", 
-    "works": [
+    "usul": [
         {
-            "mbid": "aa62a6be-c7a0-4bc7-9931-4190af588d07", 
-            "title": "Bestenig\u00e2r Saz Sem\u00e2\u00ee"
+            "attribute_key": "aksaksemai", 
+            "mb_attribute": "Aksaksemai", 
+            "source": "http://musicbrainz.org/work/aa62a6be-c7a0-4bc7-9931-4190af588d07"
+        }, 
+        {
+            "attribute_key": "aksaksemai", 
+            "mb_tag": "aksaksemai", 
+            "source": "http://musicbrainz.org/recording/447aeaee-0f26-42e8-b704-8563f067e6bf"
         }
     ]
 }

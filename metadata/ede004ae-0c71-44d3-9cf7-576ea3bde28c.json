@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "senginsemai", 
-            "mb_attribute": "Senginsemai", 
-            "source": "http://musicbrainz.org/work/5cd61f0a-a996-4a26-8251-d02681238d39"
-        }, 
-        {
-            "attribute_key": "senginsemai", 
-            "mb_tag": "senginsemai", 
-            "source": "http://musicbrainz.org/recording/ede004ae-0c71-44d3-9cf7-576ea3bde28c"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "ede004ae-0c71-44d3-9cf7-576ea3bde28c", 
+    "works": [
+        {
+            "mbid": "5cd61f0a-a996-4a26-8251-d02681238d39", 
+            "title": "Cismin Gibi Ruhun da G\u00fczel Zannedip Ey Mah"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "kurdilihicazkar", 
@@ -81,11 +76,16 @@
             "name": "Haf\u0131z Kemal Bey"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "5cd61f0a-a996-4a26-8251-d02681238d39", 
-            "title": "Cismin Gibi Ruhun da G\u00fczel Zannedip Ey Mah"
+            "attribute_key": "senginsemai", 
+            "mb_attribute": "Senginsemai", 
+            "source": "http://musicbrainz.org/work/5cd61f0a-a996-4a26-8251-d02681238d39"
+        }, 
+        {
+            "attribute_key": "senginsemai", 
+            "mb_tag": "senginsemai", 
+            "source": "http://musicbrainz.org/recording/ede004ae-0c71-44d3-9cf7-576ea3bde28c"
         }
     ]
 }

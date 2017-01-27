@@ -1,21 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "devrikebir", 
-            "mb_attribute": "Devr-i Kebir", 
-            "source": "http://musicbrainz.org/work/22dde19f-a82b-48a2-ab74-6320775031b4"
-        }, 
-        {
-            "attribute_key": "devrikebir", 
-            "mb_attribute": "Devr-i Kebir", 
-            "source": "http://musicbrainz.org/work/92def4f6-dca5-452c-88d5-acc4aa87ab0b"
-        }, 
-        {
-            "attribute_key": "devrikebir", 
-            "mb_tag": "devrikebir", 
-            "source": "http://musicbrainz.org/recording/91b26f77-d1f8-4db8-9a5c-e6d4769372d7"
-        }
-    ], 
+    "instrumentation_voicing": "ensemble instrumental", 
     "form": [
         {
             "attribute_key": "pesrev", 
@@ -48,6 +32,16 @@
         }
     ], 
     "mbid": "91b26f77-d1f8-4db8-9a5c-e6d4769372d7", 
+    "works": [
+        {
+            "mbid": "22dde19f-a82b-48a2-ab74-6320775031b4", 
+            "title": "Neva Pe\u015frev"
+        }, 
+        {
+            "mbid": "92def4f6-dca5-452c-88d5-acc4aa87ab0b", 
+            "title": "Neva Ayin-i \u015eerif"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "neva", 
@@ -72,15 +66,21 @@
             "name": "Dede Efendi T\u00fcrk M\u00fczi\u011fi Toplulu\u011fu"
         }
     ], 
-    "instrumentation_voicing": "Ensemble instrumental", 
-    "works": [
+    "usul": [
         {
-            "mbid": "22dde19f-a82b-48a2-ab74-6320775031b4", 
-            "title": "Neva Pe\u015frev"
+            "attribute_key": "devrikebir", 
+            "mb_attribute": "Devr-i Kebir", 
+            "source": "http://musicbrainz.org/work/22dde19f-a82b-48a2-ab74-6320775031b4"
         }, 
         {
-            "mbid": "92def4f6-dca5-452c-88d5-acc4aa87ab0b", 
-            "title": "Neva Ayin-i \u015eerif"
+            "attribute_key": "devrikebir", 
+            "mb_attribute": "Devr-i Kebir", 
+            "source": "http://musicbrainz.org/work/92def4f6-dca5-452c-88d5-acc4aa87ab0b"
+        }, 
+        {
+            "attribute_key": "devrikebir", 
+            "mb_tag": "devrikebir", 
+            "source": "http://musicbrainz.org/recording/91b26f77-d1f8-4db8-9a5c-e6d4769372d7"
         }
     ]
 }

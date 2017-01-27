@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "aksak", 
-            "mb_attribute": "Aksak", 
-            "source": "http://musicbrainz.org/work/906fd932-864a-4764-8b25-57da63c17cec"
-        }, 
-        {
-            "attribute_key": "aksak", 
-            "mb_tag": "aksak", 
-            "source": "http://musicbrainz.org/recording/78b10888-e1a9-4d1c-b379-d5f61818ba04"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal without accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "78b10888-e1a9-4d1c-b379-d5f61818ba04", 
+    "works": [
+        {
+            "mbid": "906fd932-864a-4764-8b25-57da63c17cec", 
+            "title": "Bu Gece \u00c7amlarda"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "karcigar", 
@@ -57,11 +52,16 @@
             "name": "Safiye Ayla"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal without accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "906fd932-864a-4764-8b25-57da63c17cec", 
-            "title": "Bu Gece \u00c7amlarda"
+            "attribute_key": "aksak", 
+            "mb_attribute": "Aksak", 
+            "source": "http://musicbrainz.org/work/906fd932-864a-4764-8b25-57da63c17cec"
+        }, 
+        {
+            "attribute_key": "aksak", 
+            "mb_tag": "aksak", 
+            "source": "http://musicbrainz.org/recording/78b10888-e1a9-4d1c-b379-d5f61818ba04"
         }
     ]
 }

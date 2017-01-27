@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "aksak", 
-            "mb_attribute": "Aksak", 
-            "source": "http://musicbrainz.org/work/727dd9a3-7849-4215-960d-76e795ec9148"
-        }, 
-        {
-            "attribute_key": "aksak", 
-            "mb_tag": "aksak", 
-            "source": "http://musicbrainz.org/recording/3ce65301-e3f8-42b6-a5a1-d2fd1e045f13"
-        }
-    ], 
+    "instrumentation_voicing": "ensemble instrumental", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "3ce65301-e3f8-42b6-a5a1-d2fd1e045f13", 
+    "works": [
+        {
+            "mbid": "727dd9a3-7849-4215-960d-76e795ec9148", 
+            "title": "Safalar Getirdiniz"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "kurdilihicazkar", 
@@ -57,11 +52,16 @@
             "name": "Aziz T\u00fcrk Sanat M\u00fczi\u011fi Grubu"
         }
     ], 
-    "instrumentation_voicing": "Ensemble instrumental", 
-    "works": [
+    "usul": [
         {
-            "mbid": "727dd9a3-7849-4215-960d-76e795ec9148", 
-            "title": "Safalar Getirdiniz"
+            "attribute_key": "aksak", 
+            "mb_attribute": "Aksak", 
+            "source": "http://musicbrainz.org/work/727dd9a3-7849-4215-960d-76e795ec9148"
+        }, 
+        {
+            "attribute_key": "aksak", 
+            "mb_tag": "aksak", 
+            "source": "http://musicbrainz.org/recording/3ce65301-e3f8-42b6-a5a1-d2fd1e045f13"
         }
     ]
 }

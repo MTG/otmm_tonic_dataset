@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "ciftesofyan", 
-            "mb_attribute": "\u00c7iftesofyan", 
-            "source": "http://musicbrainz.org/work/e0e946bf-6db7-4b0d-bc48-de03f433f8a3"
-        }, 
-        {
-            "attribute_key": "aksak", 
-            "mb_tag": "aksak", 
-            "source": "http://musicbrainz.org/recording/fd33be60-69e8-4f2e-a863-e97438167daa"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "fd33be60-69e8-4f2e-a863-e97438167daa", 
+    "works": [
+        {
+            "mbid": "e0e946bf-6db7-4b0d-bc48-de03f433f8a3", 
+            "title": "\u00c7\u0131kal\u0131m Sayd-\u0131 \u015eikare"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "beyati", 
@@ -241,11 +236,16 @@
             "name": "Sedat G\u00fcndiyer"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "e0e946bf-6db7-4b0d-bc48-de03f433f8a3", 
-            "title": "\u00c7\u0131kal\u0131m Sayd-\u0131 \u015eikare"
+            "attribute_key": "ciftesofyan", 
+            "mb_attribute": "\u00c7iftesofyan", 
+            "source": "http://musicbrainz.org/work/e0e946bf-6db7-4b0d-bc48-de03f433f8a3"
+        }, 
+        {
+            "attribute_key": "aksak", 
+            "mb_tag": "aksak", 
+            "source": "http://musicbrainz.org/recording/fd33be60-69e8-4f2e-a863-e97438167daa"
         }
     ]
 }

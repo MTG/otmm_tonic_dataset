@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "sofyan", 
-            "mb_attribute": "Sofyan", 
-            "source": "http://musicbrainz.org/work/9c029551-c8eb-4a28-a3b2-007b4b4fa1d0"
-        }, 
-        {
-            "attribute_key": "sofyan", 
-            "mb_tag": "sofyan", 
-            "source": "http://musicbrainz.org/recording/90e0d854-10ed-444e-9fac-9150920d0e4b"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "tesbih", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "90e0d854-10ed-444e-9fac-9150920d0e4b", 
+    "works": [
+        {
+            "mbid": "9c029551-c8eb-4a28-a3b2-007b4b4fa1d0", 
+            "title": "S\u00fcbhanel Melik\u00fcl Mevl\u00fc"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "bestenigar", 
@@ -65,11 +60,16 @@
             "name": "[unknown]"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "9c029551-c8eb-4a28-a3b2-007b4b4fa1d0", 
-            "title": "S\u00fcbhanel Melik\u00fcl Mevl\u00fc"
+            "attribute_key": "sofyan", 
+            "mb_attribute": "Sofyan", 
+            "source": "http://musicbrainz.org/work/9c029551-c8eb-4a28-a3b2-007b4b4fa1d0"
+        }, 
+        {
+            "attribute_key": "sofyan", 
+            "mb_tag": "sofyan", 
+            "source": "http://musicbrainz.org/recording/90e0d854-10ed-444e-9fac-9150920d0e4b"
         }
     ]
 }

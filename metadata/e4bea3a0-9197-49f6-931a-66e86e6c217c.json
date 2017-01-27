@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "kapali_curcuna", 
-            "mb_attribute": "Kapal\u0131 Curcuna", 
-            "source": "http://musicbrainz.org/work/80f174d9-5999-4a35-b3df-bd82743d365d"
-        }, 
-        {
-            "attribute_key": "kapali_curcuna", 
-            "mb_tag": "curcuna", 
-            "source": "http://musicbrainz.org/recording/e4bea3a0-9197-49f6-931a-66e86e6c217c"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "e4bea3a0-9197-49f6-931a-66e86e6c217c", 
+    "works": [
+        {
+            "mbid": "80f174d9-5999-4a35-b3df-bd82743d365d", 
+            "title": "Bilmezsin D\u00fc\u015f\u00fcnd\u00fc\u011f\u00fcm A\u011flad\u0131klar\u0131m Nedir"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "beyati", 
@@ -62,11 +57,16 @@
             "name": "Bekir S\u0131dk\u0131 Sezgin"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "80f174d9-5999-4a35-b3df-bd82743d365d", 
-            "title": "Bilmezsin D\u00fc\u015f\u00fcnd\u00fc\u011f\u00fcm A\u011flad\u0131klar\u0131m Nedir"
+            "attribute_key": "kapali_curcuna", 
+            "mb_attribute": "Kapal\u0131 Curcuna", 
+            "source": "http://musicbrainz.org/work/80f174d9-5999-4a35-b3df-bd82743d365d"
+        }, 
+        {
+            "attribute_key": "kapali_curcuna", 
+            "mb_tag": "curcuna", 
+            "source": "http://musicbrainz.org/recording/e4bea3a0-9197-49f6-931a-66e86e6c217c"
         }
     ]
 }

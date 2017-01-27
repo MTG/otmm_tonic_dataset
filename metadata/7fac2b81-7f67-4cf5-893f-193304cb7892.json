@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "yuruksemai", 
-            "mb_attribute": "Y\u00fcr\u00fcksemai", 
-            "source": "http://musicbrainz.org/work/81c55651-85b2-4d6d-9a7a-78b2a3347f94"
-        }, 
-        {
-            "attribute_key": "yuruksemai", 
-            "mb_tag": "y\u00fcr\u00fcksemai", 
-            "source": "http://musicbrainz.org/recording/7fac2b81-7f67-4cf5-893f-193304cb7892"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "yuruksemai", 
@@ -46,6 +35,12 @@
         }
     ], 
     "mbid": "7fac2b81-7f67-4cf5-893f-193304cb7892", 
+    "works": [
+        {
+            "mbid": "81c55651-85b2-4d6d-9a7a-78b2a3347f94", 
+            "title": "G\u00f6rse \u0130demez Dil Seni"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "sultaniirak", 
@@ -81,11 +76,16 @@
             "name": "Kudsi Erguner"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "81c55651-85b2-4d6d-9a7a-78b2a3347f94", 
-            "title": "G\u00f6rse \u0130demez Dil Seni"
+            "attribute_key": "yuruksemai", 
+            "mb_attribute": "Y\u00fcr\u00fcksemai", 
+            "source": "http://musicbrainz.org/work/81c55651-85b2-4d6d-9a7a-78b2a3347f94"
+        }, 
+        {
+            "attribute_key": "yuruksemai", 
+            "mb_tag": "y\u00fcr\u00fcksemai", 
+            "source": "http://musicbrainz.org/recording/7fac2b81-7f67-4cf5-893f-193304cb7892"
         }
     ]
 }

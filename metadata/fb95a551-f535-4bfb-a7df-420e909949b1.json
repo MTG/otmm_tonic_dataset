@@ -1,5 +1,11 @@
 {
-    "instrumentation_voicing": "Solo instrumental", 
+    "usul": [
+        {
+            "attribute_key": "serbest", 
+            "mb_tag": "serbest", 
+            "source": "http://musicbrainz.org/recording/fb95a551-f535-4bfb-a7df-420e909949b1"
+        }
+    ], 
     "form": [
         {
             "attribute_key": "taksim", 
@@ -39,11 +45,5 @@
             "name": "S\u00fcleyman Ta\u015fp\u0131narl\u0131"
         }
     ], 
-    "usul": [
-        {
-            "attribute_key": "serbest", 
-            "mb_tag": "serbest", 
-            "source": "http://musicbrainz.org/recording/fb95a551-f535-4bfb-a7df-420e909949b1"
-        }
-    ]
+    "instrumentation_voicing": "solo instrumental"
 }

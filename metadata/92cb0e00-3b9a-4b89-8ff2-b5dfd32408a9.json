@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "hafif", 
-            "mb_attribute": "Hafif", 
-            "source": "http://musicbrainz.org/work/38fe4825-4ccd-464c-b08c-49a9423decfc"
-        }, 
-        {
-            "attribute_key": "hafif", 
-            "mb_tag": "hafif", 
-            "source": "http://musicbrainz.org/recording/92cb0e00-3b9a-4b89-8ff2-b5dfd32408a9"
-        }
-    ], 
+    "instrumentation_voicing": "ensemble instrumental", 
     "form": [
         {
             "attribute_key": "pesrev", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "92cb0e00-3b9a-4b89-8ff2-b5dfd32408a9", 
+    "works": [
+        {
+            "mbid": "38fe4825-4ccd-464c-b08c-49a9423decfc", 
+            "title": "Zavil Pe\u015frev"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "zavil", 
@@ -220,11 +215,16 @@
             "name": "Tar\u0131k Kemanc\u0131"
         }
     ], 
-    "instrumentation_voicing": "Ensemble instrumental", 
-    "works": [
+    "usul": [
         {
-            "mbid": "38fe4825-4ccd-464c-b08c-49a9423decfc", 
-            "title": "Zavil Pe\u015frev"
+            "attribute_key": "hafif", 
+            "mb_attribute": "Hafif", 
+            "source": "http://musicbrainz.org/work/38fe4825-4ccd-464c-b08c-49a9423decfc"
+        }, 
+        {
+            "attribute_key": "hafif", 
+            "mb_tag": "hafif", 
+            "source": "http://musicbrainz.org/recording/92cb0e00-3b9a-4b89-8ff2-b5dfd32408a9"
         }
     ]
 }

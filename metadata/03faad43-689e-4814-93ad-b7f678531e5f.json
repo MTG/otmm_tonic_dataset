@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "curcuna", 
-            "mb_attribute": "Curcuna", 
-            "source": "http://musicbrainz.org/work/87e40b7f-89a1-42b6-9cb4-6f7c0dff8eac"
-        }, 
-        {
-            "attribute_key": "kapali_curcuna", 
-            "mb_tag": "curcuna", 
-            "source": "http://musicbrainz.org/recording/03faad43-689e-4814-93ad-b7f678531e5f"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "03faad43-689e-4814-93ad-b7f678531e5f", 
+    "works": [
+        {
+            "mbid": "87e40b7f-89a1-42b6-9cb4-6f7c0dff8eac", 
+            "title": "Esir-i Z\u00fclf\u00fcn\u00fcm Ey Y\u00fcz\u00fc Mah\u0131m"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "ussak", 
@@ -129,11 +124,16 @@
             "name": "S\u00fcleyman Erguner"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "87e40b7f-89a1-42b6-9cb4-6f7c0dff8eac", 
-            "title": "Esir-i Z\u00fclf\u00fcn\u00fcm Ey Y\u00fcz\u00fc Mah\u0131m"
+            "attribute_key": "curcuna", 
+            "mb_attribute": "Curcuna", 
+            "source": "http://musicbrainz.org/work/87e40b7f-89a1-42b6-9cb4-6f7c0dff8eac"
+        }, 
+        {
+            "attribute_key": "kapali_curcuna", 
+            "mb_tag": "curcuna", 
+            "source": "http://musicbrainz.org/recording/03faad43-689e-4814-93ad-b7f678531e5f"
         }
     ]
 }

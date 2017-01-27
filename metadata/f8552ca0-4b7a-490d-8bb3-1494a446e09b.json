@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "devrikebir", 
-            "mb_attribute": "Devr-i Kebir", 
-            "source": "http://musicbrainz.org/work/a850baea-d661-404d-8715-f4b37e5d49fd"
-        }, 
-        {
-            "attribute_key": "devrikebir", 
-            "mb_tag": "devr-i kebir", 
-            "source": "http://musicbrainz.org/recording/f8552ca0-4b7a-490d-8bb3-1494a446e09b"
-        }
-    ], 
+    "instrumentation_voicing": "ensemble instrumental", 
     "form": [
         {
             "attribute_key": "pesrev", 
@@ -54,6 +43,12 @@
         }
     ], 
     "mbid": "f8552ca0-4b7a-490d-8bb3-1494a446e09b", 
+    "works": [
+        {
+            "mbid": "a850baea-d661-404d-8715-f4b37e5d49fd", 
+            "title": "K\u00fcrdi Pe\u015frevi"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "kurdi", 
@@ -108,11 +103,16 @@
             "name": "\u00d6zer \u00d6zel"
         }
     ], 
-    "instrumentation_voicing": "Ensemble instrumental", 
-    "works": [
+    "usul": [
         {
-            "mbid": "a850baea-d661-404d-8715-f4b37e5d49fd", 
-            "title": "K\u00fcrdi Pe\u015frevi"
+            "attribute_key": "devrikebir", 
+            "mb_attribute": "Devr-i Kebir", 
+            "source": "http://musicbrainz.org/work/a850baea-d661-404d-8715-f4b37e5d49fd"
+        }, 
+        {
+            "attribute_key": "devrikebir", 
+            "mb_tag": "devr-i kebir", 
+            "source": "http://musicbrainz.org/recording/f8552ca0-4b7a-490d-8bb3-1494a446e09b"
         }
     ]
 }

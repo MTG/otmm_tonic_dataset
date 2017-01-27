@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "serbest", 
-            "mb_attribute": "Serbest", 
-            "source": "http://musicbrainz.org/work/4f2ccde3-2508-41ae-9d08-b0e72bb6f0a4"
-        }, 
-        {
-            "attribute_key": "serbest", 
-            "mb_tag": "serbest", 
-            "source": "http://musicbrainz.org/recording/c2de5592-85fa-4884-9bab-ee20578104d6"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal without accompaniment", 
     "form": [
         {
             "attribute_key": "gazel", 
@@ -47,6 +36,12 @@
         }
     ], 
     "mbid": "c2de5592-85fa-4884-9bab-ee20578104d6", 
+    "works": [
+        {
+            "mbid": "4f2ccde3-2508-41ae-9d08-b0e72bb6f0a4", 
+            "title": "Makber"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "rast", 
@@ -66,11 +61,16 @@
             "name": "Haf\u0131z Burhan Sesy\u0131lmaz"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal without accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "4f2ccde3-2508-41ae-9d08-b0e72bb6f0a4", 
-            "title": "Makber"
+            "attribute_key": "serbest", 
+            "mb_attribute": "Serbest", 
+            "source": "http://musicbrainz.org/work/4f2ccde3-2508-41ae-9d08-b0e72bb6f0a4"
+        }, 
+        {
+            "attribute_key": "serbest", 
+            "mb_tag": "serbest", 
+            "source": "http://musicbrainz.org/recording/c2de5592-85fa-4884-9bab-ee20578104d6"
         }
     ]
 }

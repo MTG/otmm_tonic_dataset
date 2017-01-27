@@ -1,31 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "duyek", 
-            "mb_attribute": "D\u00fcyek", 
-            "source": "http://musicbrainz.org/work/e2d35746-f8c9-48a5-ba21-0646fa8ba56b"
-        }, 
-        {
-            "attribute_key": "curcuna", 
-            "mb_attribute": "Curcuna", 
-            "source": "http://musicbrainz.org/work/e2d35746-f8c9-48a5-ba21-0646fa8ba56b"
-        }, 
-        {
-            "attribute_key": "kapali_curcuna", 
-            "mb_tag": "curcuna", 
-            "source": "http://musicbrainz.org/recording/eceff368-5780-4d78-8283-87ce60691663"
-        }, 
-        {
-            "attribute_key": "sofyan", 
-            "mb_tag": "sofyan", 
-            "source": "http://musicbrainz.org/recording/eceff368-5780-4d78-8283-87ce60691663"
-        }, 
-        {
-            "attribute_key": "duyek", 
-            "mb_tag": "d\u00fcyek", 
-            "source": "http://musicbrainz.org/recording/eceff368-5780-4d78-8283-87ce60691663"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -53,6 +27,12 @@
         }
     ], 
     "mbid": "eceff368-5780-4d78-8283-87ce60691663", 
+    "works": [
+        {
+            "mbid": "e2d35746-f8c9-48a5-ba21-0646fa8ba56b", 
+            "title": "Leyla Aceb Neden Ses Vermiyor Feryad\u0131ma"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "hicazkar", 
@@ -77,11 +57,31 @@
             "name": "Bekir S\u0131dk\u0131 Sezgin"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "e2d35746-f8c9-48a5-ba21-0646fa8ba56b", 
-            "title": "Leyla Aceb Neden Ses Vermiyor Feryad\u0131ma"
+            "attribute_key": "duyek", 
+            "mb_attribute": "D\u00fcyek", 
+            "source": "http://musicbrainz.org/work/e2d35746-f8c9-48a5-ba21-0646fa8ba56b"
+        }, 
+        {
+            "attribute_key": "curcuna", 
+            "mb_attribute": "Curcuna", 
+            "source": "http://musicbrainz.org/work/e2d35746-f8c9-48a5-ba21-0646fa8ba56b"
+        }, 
+        {
+            "attribute_key": "kapali_curcuna", 
+            "mb_tag": "curcuna", 
+            "source": "http://musicbrainz.org/recording/eceff368-5780-4d78-8283-87ce60691663"
+        }, 
+        {
+            "attribute_key": "sofyan", 
+            "mb_tag": "sofyan", 
+            "source": "http://musicbrainz.org/recording/eceff368-5780-4d78-8283-87ce60691663"
+        }, 
+        {
+            "attribute_key": "duyek", 
+            "mb_tag": "d\u00fcyek", 
+            "source": "http://musicbrainz.org/recording/eceff368-5780-4d78-8283-87ce60691663"
         }
     ]
 }

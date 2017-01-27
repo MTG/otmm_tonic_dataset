@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "duyek", 
-            "mb_attribute": "D\u00fcyek", 
-            "source": "http://musicbrainz.org/work/40fde2cb-7e67-4192-aa16-4acbe5505d73"
-        }, 
-        {
-            "attribute_key": "duyek", 
-            "mb_tag": "d\u00fcyek", 
-            "source": "http://musicbrainz.org/recording/88be7dae-35d6-47c3-be09-be06d50a2659"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal without accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "88be7dae-35d6-47c3-be09-be06d50a2659", 
+    "works": [
+        {
+            "mbid": "40fde2cb-7e67-4192-aa16-4acbe5505d73", 
+            "title": "Olanlar Oldu"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "huzzam", 
@@ -57,11 +52,16 @@
             "name": "Burhan Dikencik"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal without accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "40fde2cb-7e67-4192-aa16-4acbe5505d73", 
-            "title": "Olanlar Oldu"
+            "attribute_key": "duyek", 
+            "mb_attribute": "D\u00fcyek", 
+            "source": "http://musicbrainz.org/work/40fde2cb-7e67-4192-aa16-4acbe5505d73"
+        }, 
+        {
+            "attribute_key": "duyek", 
+            "mb_tag": "d\u00fcyek", 
+            "source": "http://musicbrainz.org/recording/88be7dae-35d6-47c3-be09-be06d50a2659"
         }
     ]
 }

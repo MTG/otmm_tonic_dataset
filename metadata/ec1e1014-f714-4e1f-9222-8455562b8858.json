@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "agiraksak", 
-            "mb_attribute": "A\u011f\u0131raksak", 
-            "source": "http://musicbrainz.org/work/d8f70cd1-ea9a-4ec3-bb38-40335d222d7f"
-        }, 
-        {
-            "attribute_key": "agiraksak", 
-            "mb_tag": "a\u011f\u0131raksak", 
-            "source": "http://musicbrainz.org/recording/ec1e1014-f714-4e1f-9222-8455562b8858"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "ec1e1014-f714-4e1f-9222-8455562b8858", 
+    "works": [
+        {
+            "mbid": "d8f70cd1-ea9a-4ec3-bb38-40335d222d7f", 
+            "title": "Yand\u0131 Dil A\u015fk\u0131na Ey \u015euh-i \u015eenim"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "acemasiran", 
@@ -92,11 +87,16 @@
             "name": "Do\u011fan Dikmen"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "d8f70cd1-ea9a-4ec3-bb38-40335d222d7f", 
-            "title": "Yand\u0131 Dil A\u015fk\u0131na Ey \u015euh-i \u015eenim"
+            "attribute_key": "agiraksak", 
+            "mb_attribute": "A\u011f\u0131raksak", 
+            "source": "http://musicbrainz.org/work/d8f70cd1-ea9a-4ec3-bb38-40335d222d7f"
+        }, 
+        {
+            "attribute_key": "agiraksak", 
+            "mb_tag": "a\u011f\u0131raksak", 
+            "source": "http://musicbrainz.org/recording/ec1e1014-f714-4e1f-9222-8455562b8858"
         }
     ]
 }

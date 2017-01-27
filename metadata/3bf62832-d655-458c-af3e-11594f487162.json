@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "duyek", 
-            "mb_attribute": "D\u00fcyek", 
-            "source": "http://musicbrainz.org/work/f59a69ea-8900-4886-a285-5774a19f4081"
-        }, 
-        {
-            "attribute_key": "duyek", 
-            "mb_tag": "d\u00fcyek", 
-            "source": "http://musicbrainz.org/recording/3bf62832-d655-458c-af3e-11594f487162"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "3bf62832-d655-458c-af3e-11594f487162", 
+    "works": [
+        {
+            "mbid": "f59a69ea-8900-4886-a285-5774a19f4081", 
+            "title": "Neyle Konu\u015ftum"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "ussak", 
@@ -62,11 +57,16 @@
             "name": "[unknown]"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "f59a69ea-8900-4886-a285-5774a19f4081", 
-            "title": "Neyle Konu\u015ftum"
+            "attribute_key": "duyek", 
+            "mb_attribute": "D\u00fcyek", 
+            "source": "http://musicbrainz.org/work/f59a69ea-8900-4886-a285-5774a19f4081"
+        }, 
+        {
+            "attribute_key": "duyek", 
+            "mb_tag": "d\u00fcyek", 
+            "source": "http://musicbrainz.org/recording/3bf62832-d655-458c-af3e-11594f487162"
         }
     ]
 }

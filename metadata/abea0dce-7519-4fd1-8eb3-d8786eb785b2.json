@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "agiraksak", 
-            "mb_attribute": "A\u011f\u0131raksak", 
-            "source": "http://musicbrainz.org/work/76549e37-b93d-47b0-abb5-85b6a163a745"
-        }, 
-        {
-            "attribute_key": "agiraksak", 
-            "mb_tag": "a\u011f\u0131raksak", 
-            "source": "http://musicbrainz.org/recording/abea0dce-7519-4fd1-8eb3-d8786eb785b2"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal without accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "abea0dce-7519-4fd1-8eb3-d8786eb785b2", 
+    "works": [
+        {
+            "mbid": "76549e37-b93d-47b0-abb5-85b6a163a745", 
+            "title": "Bir Katre \u0130\u00e7en \u00c7e\u015fm-i P\u00fcrhun-i Fenadan"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "beyati", 
@@ -57,11 +52,16 @@
             "name": "Isaac Algazi"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal without accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "76549e37-b93d-47b0-abb5-85b6a163a745", 
-            "title": "Bir Katre \u0130\u00e7en \u00c7e\u015fm-i P\u00fcrhun-i Fenadan"
+            "attribute_key": "agiraksak", 
+            "mb_attribute": "A\u011f\u0131raksak", 
+            "source": "http://musicbrainz.org/work/76549e37-b93d-47b0-abb5-85b6a163a745"
+        }, 
+        {
+            "attribute_key": "agiraksak", 
+            "mb_tag": "a\u011f\u0131raksak", 
+            "source": "http://musicbrainz.org/recording/abea0dce-7519-4fd1-8eb3-d8786eb785b2"
         }
     ]
 }

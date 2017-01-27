@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "raksaksagi", 
-            "mb_attribute": "Raksaksa\u011f\u0131", 
-            "source": "http://musicbrainz.org/work/820b1b89-3596-42ec-b1b7-26d0974b0dd2"
-        }, 
-        {
-            "attribute_key": "raksaksagi_ii", 
-            "mb_tag": "raksaksa\u011f\u0131", 
-            "source": "http://musicbrainz.org/recording/6e91dd40-ae7c-448e-b49b-d136714cf9e2"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "tavsanca", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "6e91dd40-ae7c-448e-b49b-d136714cf9e2", 
+    "works": [
+        {
+            "mbid": "820b1b89-3596-42ec-b1b7-26d0974b0dd2", 
+            "title": "D\u00f6k Z\u00fclf\u00fcn\u00fc Meydana Gel"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "hisarbuselik", 
@@ -241,11 +236,16 @@
             "name": "Sedat G\u00fcndiyer"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "820b1b89-3596-42ec-b1b7-26d0974b0dd2", 
-            "title": "D\u00f6k Z\u00fclf\u00fcn\u00fc Meydana Gel"
+            "attribute_key": "raksaksagi", 
+            "mb_attribute": "Raksaksa\u011f\u0131", 
+            "source": "http://musicbrainz.org/work/820b1b89-3596-42ec-b1b7-26d0974b0dd2"
+        }, 
+        {
+            "attribute_key": "raksaksagi_ii", 
+            "mb_tag": "raksaksa\u011f\u0131", 
+            "source": "http://musicbrainz.org/recording/6e91dd40-ae7c-448e-b49b-d136714cf9e2"
         }
     ]
 }

@@ -1,11 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "aksaksemai", 
-            "mb_tag": "aksaksemai", 
-            "source": "http://musicbrainz.org/recording/70a9b17d-0ac8-4296-9321-ee396d2de4c9"
-        }
-    ], 
+    "instrumentation_voicing": "solo instrumental", 
     "form": [
         {
             "attribute_key": "sazsemaisi", 
@@ -33,6 +27,12 @@
         }
     ], 
     "mbid": "70a9b17d-0ac8-4296-9321-ee396d2de4c9", 
+    "works": [
+        {
+            "mbid": "5e5aa6ce-3295-42ea-84ce-16005862d7b0", 
+            "title": "Nihavent Saz Semai"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "nihavent", 
@@ -56,11 +56,11 @@
             "name": "Hulusi Babal\u0131k"
         }
     ], 
-    "instrumentation_voicing": "Solo instrumental", 
-    "works": [
+    "usul": [
         {
-            "mbid": "5e5aa6ce-3295-42ea-84ce-16005862d7b0", 
-            "title": "Nihavent Saz Semai"
+            "attribute_key": "aksaksemai", 
+            "mb_tag": "aksaksemai", 
+            "source": "http://musicbrainz.org/recording/70a9b17d-0ac8-4296-9321-ee396d2de4c9"
         }
     ]
 }

@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "agirduyek", 
-            "mb_attribute": "A\u011f\u0131rd\u00fcyek", 
-            "source": "http://musicbrainz.org/work/2f187fa9-a394-406a-bc84-8e7c9ac9a930"
-        }, 
-        {
-            "attribute_key": "agirduyek", 
-            "mb_tag": "a\u011f\u0131rd\u00fcyek", 
-            "source": "http://musicbrainz.org/recording/abd42697-231d-4c1a-8e9c-4cbae427cf7e"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "abd42697-231d-4c1a-8e9c-4cbae427cf7e", 
+    "works": [
+        {
+            "mbid": "2f187fa9-a394-406a-bc84-8e7c9ac9a930", 
+            "title": "Nerdesin Sinemde Ate\u015f"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "suzinak", 
@@ -62,11 +57,16 @@
             "name": "Bekir S\u0131dk\u0131 Sezgin"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "2f187fa9-a394-406a-bc84-8e7c9ac9a930", 
-            "title": "Nerdesin Sinemde Ate\u015f"
+            "attribute_key": "agirduyek", 
+            "mb_attribute": "A\u011f\u0131rd\u00fcyek", 
+            "source": "http://musicbrainz.org/work/2f187fa9-a394-406a-bc84-8e7c9ac9a930"
+        }, 
+        {
+            "attribute_key": "agirduyek", 
+            "mb_tag": "a\u011f\u0131rd\u00fcyek", 
+            "source": "http://musicbrainz.org/recording/abd42697-231d-4c1a-8e9c-4cbae427cf7e"
         }
     ]
 }

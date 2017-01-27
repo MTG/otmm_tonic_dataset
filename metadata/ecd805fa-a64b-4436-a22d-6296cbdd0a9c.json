@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "yuruksemai", 
-            "mb_attribute": "Y\u00fcr\u00fcksemai", 
-            "source": "http://musicbrainz.org/work/95407c40-399c-4af0-bed5-ebad201a10bf"
-        }, 
-        {
-            "attribute_key": "yuruksemai", 
-            "mb_tag": "y\u00fcr\u00fcksemai", 
-            "source": "http://musicbrainz.org/recording/ecd805fa-a64b-4436-a22d-6296cbdd0a9c"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "nakis", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "ecd805fa-a64b-4436-a22d-6296cbdd0a9c", 
+    "works": [
+        {
+            "mbid": "95407c40-399c-4af0-bed5-ebad201a10bf", 
+            "title": "Dervi\u015f Recayi Padi\u015fahi Nekened"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "bestenigar", 
@@ -92,11 +87,16 @@
             "name": "Do\u011fan Dikmen"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "95407c40-399c-4af0-bed5-ebad201a10bf", 
-            "title": "Dervi\u015f Recayi Padi\u015fahi Nekened"
+            "attribute_key": "yuruksemai", 
+            "mb_attribute": "Y\u00fcr\u00fcksemai", 
+            "source": "http://musicbrainz.org/work/95407c40-399c-4af0-bed5-ebad201a10bf"
+        }, 
+        {
+            "attribute_key": "yuruksemai", 
+            "mb_tag": "y\u00fcr\u00fcksemai", 
+            "source": "http://musicbrainz.org/recording/ecd805fa-a64b-4436-a22d-6296cbdd0a9c"
         }
     ]
 }

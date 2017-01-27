@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "sofyan", 
-            "mb_attribute": "Sofyan", 
-            "source": "http://musicbrainz.org/work/d7173539-f939-4e30-b10c-5f8bf5210935"
-        }, 
-        {
-            "attribute_key": "sofyan", 
-            "mb_tag": "sofyan", 
-            "source": "http://musicbrainz.org/recording/14fe6855-e77e-4980-bafc-ab0f6e9e08d2"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "14fe6855-e77e-4980-bafc-ab0f6e9e08d2", 
+    "works": [
+        {
+            "mbid": "d7173539-f939-4e30-b10c-5f8bf5210935", 
+            "title": "Bir G\u00fcn Kar\u015f\u0131la\u015f\u0131rsak"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "hicaz", 
@@ -225,11 +220,16 @@
             "name": "Bekir \u00dcnl\u00fcataer"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "d7173539-f939-4e30-b10c-5f8bf5210935", 
-            "title": "Bir G\u00fcn Kar\u015f\u0131la\u015f\u0131rsak"
+            "attribute_key": "sofyan", 
+            "mb_attribute": "Sofyan", 
+            "source": "http://musicbrainz.org/work/d7173539-f939-4e30-b10c-5f8bf5210935"
+        }, 
+        {
+            "attribute_key": "sofyan", 
+            "mb_tag": "sofyan", 
+            "source": "http://musicbrainz.org/recording/14fe6855-e77e-4980-bafc-ab0f6e9e08d2"
         }
     ]
 }

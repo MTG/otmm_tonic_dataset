@@ -1,5 +1,5 @@
 {
-    "usul": [], 
+    "instrumentation_voicing": "trio instrumental", 
     "form": [
         {
             "attribute_key": "sazsemaisi", 
@@ -35,6 +35,12 @@
         }
     ], 
     "mbid": "de6c9bc4-082f-46c1-ba88-65acf5d75520", 
+    "works": [
+        {
+            "mbid": "b4678320-3127-495c-b4e4-4d414da32d28", 
+            "title": "Nihavend Saz Semaisi"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "nihavent", 
@@ -73,11 +79,5 @@
             "name": "U\u011fur I\u015f\u0131k"
         }
     ], 
-    "instrumentation_voicing": "Trio instrumental", 
-    "works": [
-        {
-            "mbid": "b4678320-3127-495c-b4e4-4d414da32d28", 
-            "title": "Nihavend Saz Semaisi"
-        }
-    ]
+    "usul": []
 }

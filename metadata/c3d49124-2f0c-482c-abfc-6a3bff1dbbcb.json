@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "duyek", 
-            "mb_attribute": "D\u00fcyek", 
-            "source": "http://musicbrainz.org/work/3bb19d54-1c13-4f52-bee0-a9f183037383"
-        }, 
-        {
-            "attribute_key": "duyek", 
-            "mb_tag": "d\u00fcyek", 
-            "source": "http://musicbrainz.org/recording/c3d49124-2f0c-482c-abfc-6a3bff1dbbcb"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "ilahi", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "c3d49124-2f0c-482c-abfc-6a3bff1dbbcb", 
+    "works": [
+        {
+            "mbid": "3bb19d54-1c13-4f52-bee0-a9f183037383", 
+            "title": "Geldin Geri Gider Misin"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "acemasiran", 
@@ -65,11 +60,16 @@
             "name": "[unknown]"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "3bb19d54-1c13-4f52-bee0-a9f183037383", 
-            "title": "Geldin Geri Gider Misin"
+            "attribute_key": "duyek", 
+            "mb_attribute": "D\u00fcyek", 
+            "source": "http://musicbrainz.org/work/3bb19d54-1c13-4f52-bee0-a9f183037383"
+        }, 
+        {
+            "attribute_key": "duyek", 
+            "mb_tag": "d\u00fcyek", 
+            "source": "http://musicbrainz.org/recording/c3d49124-2f0c-482c-abfc-6a3bff1dbbcb"
         }
     ]
 }

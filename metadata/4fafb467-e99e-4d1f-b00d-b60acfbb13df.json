@@ -1,5 +1,5 @@
 {
-    "usul": [], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [], 
     "releases": [
         {
@@ -16,6 +16,12 @@
         }
     ], 
     "mbid": "4fafb467-e99e-4d1f-b00d-b60acfbb13df", 
+    "works": [
+        {
+            "mbid": "a4ad187b-3560-48c8-9ab3-50ca71ccece8", 
+            "title": "Nakdi\u015fah"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "saba", 
@@ -52,11 +58,5 @@
             "name": "Fahrettin Yark\u0131n"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
-        {
-            "mbid": "a4ad187b-3560-48c8-9ab3-50ca71ccece8", 
-            "title": "Nakdi\u015fah"
-        }
-    ]
+    "usul": []
 }

@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "sofyan", 
-            "mb_attribute": "Sofyan", 
-            "source": "http://musicbrainz.org/work/a903757e-2461-44f0-a654-2fa98742c676"
-        }, 
-        {
-            "attribute_key": "sofyan", 
-            "mb_tag": "sofyan", 
-            "source": "http://musicbrainz.org/recording/dff8d383-816c-417e-8321-7b6c5ce7ecb3"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "fantezi", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "dff8d383-816c-417e-8321-7b6c5ce7ecb3", 
+    "works": [
+        {
+            "mbid": "a903757e-2461-44f0-a654-2fa98742c676", 
+            "title": "Bir Garip Yolcuyum"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "muhayyerkurdi", 
@@ -225,11 +220,16 @@
             "name": "Bekir \u00dcnl\u00fcataer"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "a903757e-2461-44f0-a654-2fa98742c676", 
-            "title": "Bir Garip Yolcuyum"
+            "attribute_key": "sofyan", 
+            "mb_attribute": "Sofyan", 
+            "source": "http://musicbrainz.org/work/a903757e-2461-44f0-a654-2fa98742c676"
+        }, 
+        {
+            "attribute_key": "sofyan", 
+            "mb_tag": "sofyan", 
+            "source": "http://musicbrainz.org/recording/dff8d383-816c-417e-8321-7b6c5ce7ecb3"
         }
     ]
 }

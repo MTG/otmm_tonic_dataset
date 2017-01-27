@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "devrikebir", 
-            "mb_attribute": "Devr-i Kebir", 
-            "source": "http://musicbrainz.org/work/88038af9-6d66-4569-bc2e-3da5a12c6f6f"
-        }, 
-        {
-            "attribute_key": "devrikebir", 
-            "mb_tag": "devr-i kebir", 
-            "source": "http://musicbrainz.org/recording/79b7f9ff-0bff-446a-83d6-3b90a9ce0d44"
-        }
-    ], 
+    "instrumentation_voicing": "ensemble instrumental", 
     "form": [
         {
             "attribute_key": "pesrev", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "79b7f9ff-0bff-446a-83d6-3b90a9ce0d44", 
+    "works": [
+        {
+            "mbid": "88038af9-6d66-4569-bc2e-3da5a12c6f6f", 
+            "title": "Segah Pe\u015frev (Kabak Devri)"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "segah", 
@@ -84,11 +79,16 @@
             "name": "U\u011fur I\u015f\u0131k"
         }
     ], 
-    "instrumentation_voicing": "Ensemble instrumental", 
-    "works": [
+    "usul": [
         {
-            "mbid": "88038af9-6d66-4569-bc2e-3da5a12c6f6f", 
-            "title": "Segah Pe\u015frev (Kabak Devri)"
+            "attribute_key": "devrikebir", 
+            "mb_attribute": "Devr-i Kebir", 
+            "source": "http://musicbrainz.org/work/88038af9-6d66-4569-bc2e-3da5a12c6f6f"
+        }, 
+        {
+            "attribute_key": "devrikebir", 
+            "mb_tag": "devr-i kebir", 
+            "source": "http://musicbrainz.org/recording/79b7f9ff-0bff-446a-83d6-3b90a9ce0d44"
         }
     ]
 }

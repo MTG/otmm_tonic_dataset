@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "turkaksagi", 
-            "mb_attribute": "T\u00fcrkaksa\u011f\u0131", 
-            "source": "http://musicbrainz.org/work/b78bffc8-ebc9-42f8-9a12-9ca86c195a61"
-        }, 
-        {
-            "attribute_key": "turkaksagi_ii", 
-            "mb_tag": "t\u00fcrkaksa\u011f\u0131", 
-            "source": "http://musicbrainz.org/recording/5bb70380-788b-4a49-b499-1207750de617"
-        }
-    ], 
+    "instrumentation_voicing": "choir", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "5bb70380-788b-4a49-b499-1207750de617", 
+    "works": [
+        {
+            "mbid": "b78bffc8-ebc9-42f8-9a12-9ca86c195a61", 
+            "title": "Bilmem ki Safa Ne\u015fe Bu \u00d6mr\u00fcn Neresinde"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "karcigar", 
@@ -151,11 +146,16 @@
             "name": "Safinaz Rizeli"
         }
     ], 
-    "instrumentation_voicing": "Choir", 
-    "works": [
+    "usul": [
         {
-            "mbid": "b78bffc8-ebc9-42f8-9a12-9ca86c195a61", 
-            "title": "Bilmem ki Safa Ne\u015fe Bu \u00d6mr\u00fcn Neresinde"
+            "attribute_key": "turkaksagi", 
+            "mb_attribute": "T\u00fcrkaksa\u011f\u0131", 
+            "source": "http://musicbrainz.org/work/b78bffc8-ebc9-42f8-9a12-9ca86c195a61"
+        }, 
+        {
+            "attribute_key": "turkaksagi_ii", 
+            "mb_tag": "t\u00fcrkaksa\u011f\u0131", 
+            "source": "http://musicbrainz.org/recording/5bb70380-788b-4a49-b499-1207750de617"
         }
     ]
 }

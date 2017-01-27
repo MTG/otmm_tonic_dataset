@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "duyek", 
-            "mb_attribute": "D\u00fcyek", 
-            "source": "http://musicbrainz.org/work/2389cc8e-b82b-4bba-ae29-f9a53620b49d"
-        }, 
-        {
-            "attribute_key": "duyek", 
-            "mb_tag": "d\u00fcyek", 
-            "source": "http://musicbrainz.org/recording/3b934a39-1d6d-4f9d-9a2c-9a6e064b68cb"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal without accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "3b934a39-1d6d-4f9d-9a2c-9a6e064b68cb", 
+    "works": [
+        {
+            "mbid": "2389cc8e-b82b-4bba-ae29-f9a53620b49d", 
+            "title": "Bu G\u00fcnlerde Halimi Bir Anlasan \u015ea\u015fars\u0131n"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "ussak", 
@@ -57,11 +52,16 @@
             "name": "Suna Konak\u00e7\u0131"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal without accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "2389cc8e-b82b-4bba-ae29-f9a53620b49d", 
-            "title": "Bu G\u00fcnlerde Halimi Bir Anlasan \u015ea\u015fars\u0131n"
+            "attribute_key": "duyek", 
+            "mb_attribute": "D\u00fcyek", 
+            "source": "http://musicbrainz.org/work/2389cc8e-b82b-4bba-ae29-f9a53620b49d"
+        }, 
+        {
+            "attribute_key": "duyek", 
+            "mb_tag": "d\u00fcyek", 
+            "source": "http://musicbrainz.org/recording/3b934a39-1d6d-4f9d-9a2c-9a6e064b68cb"
         }
     ]
 }

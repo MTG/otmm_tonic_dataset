@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "duyek", 
-            "mb_attribute": "D\u00fcyek", 
-            "source": "http://musicbrainz.org/work/dd048a9d-f3a2-4370-92a8-87b4f49b55fe"
-        }, 
-        {
-            "attribute_key": "duyek", 
-            "mb_tag": "d\u00fcyek", 
-            "source": "http://musicbrainz.org/recording/02e67c8b-201c-4ca9-8f9e-ee31d5fe5555"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "02e67c8b-201c-4ca9-8f9e-ee31d5fe5555", 
+    "works": [
+        {
+            "mbid": "dd048a9d-f3a2-4370-92a8-87b4f49b55fe", 
+            "title": "Elem Ge\u00e7er Dedik Amma"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "suzinak", 
@@ -62,11 +57,16 @@
             "name": "Bekir S\u0131dk\u0131 Sezgin"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "dd048a9d-f3a2-4370-92a8-87b4f49b55fe", 
-            "title": "Elem Ge\u00e7er Dedik Amma"
+            "attribute_key": "duyek", 
+            "mb_attribute": "D\u00fcyek", 
+            "source": "http://musicbrainz.org/work/dd048a9d-f3a2-4370-92a8-87b4f49b55fe"
+        }, 
+        {
+            "attribute_key": "duyek", 
+            "mb_tag": "d\u00fcyek", 
+            "source": "http://musicbrainz.org/recording/02e67c8b-201c-4ca9-8f9e-ee31d5fe5555"
         }
     ]
 }

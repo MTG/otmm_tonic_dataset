@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "muhammes", 
-            "mb_attribute": "Muhammes", 
-            "source": "http://musicbrainz.org/work/4eba73f7-6152-4899-8747-1743a525b8ca"
-        }, 
-        {
-            "attribute_key": "muhammes", 
-            "mb_tag": "muhammes", 
-            "source": "http://musicbrainz.org/recording/48100ca4-fa1e-4b52-bcab-1ab21b0ea25e"
-        }
-    ], 
+    "instrumentation_voicing": "ensemble instrumental", 
     "form": [
         {
             "attribute_key": "pesrev", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "48100ca4-fa1e-4b52-bcab-1ab21b0ea25e", 
+    "works": [
+        {
+            "mbid": "4eba73f7-6152-4899-8747-1743a525b8ca", 
+            "title": "B\u00fbselik Pe\u015frev"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "buselik", 
@@ -174,11 +169,16 @@
             "name": "Aykut B\u00fcy\u00fck\u00e7\u0131nar"
         }
     ], 
-    "instrumentation_voicing": "Ensemble instrumental", 
-    "works": [
+    "usul": [
         {
-            "mbid": "4eba73f7-6152-4899-8747-1743a525b8ca", 
-            "title": "B\u00fbselik Pe\u015frev"
+            "attribute_key": "muhammes", 
+            "mb_attribute": "Muhammes", 
+            "source": "http://musicbrainz.org/work/4eba73f7-6152-4899-8747-1743a525b8ca"
+        }, 
+        {
+            "attribute_key": "muhammes", 
+            "mb_tag": "muhammes", 
+            "source": "http://musicbrainz.org/recording/48100ca4-fa1e-4b52-bcab-1ab21b0ea25e"
         }
     ]
 }

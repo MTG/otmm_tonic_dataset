@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "duyek", 
-            "mb_attribute": "D\u00fcyek", 
-            "source": "http://musicbrainz.org/work/18078a47-32cb-49bf-bd7c-e249dfa580e2"
-        }, 
-        {
-            "attribute_key": "duyek", 
-            "mb_tag": "d\u00fcyek", 
-            "source": "http://musicbrainz.org/recording/db30308f-6208-4c1f-8b73-e1a6a0375212"
-        }
-    ], 
+    "instrumentation_voicing": "choir", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "db30308f-6208-4c1f-8b73-e1a6a0375212", 
+    "works": [
+        {
+            "mbid": "18078a47-32cb-49bf-bd7c-e249dfa580e2", 
+            "title": "G\u00f6rd\u00fcm Bug\u00fcn O G\u00fczeli"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "hicazkar", 
@@ -156,11 +151,16 @@
             "name": "Safinaz Rizeli"
         }
     ], 
-    "instrumentation_voicing": "Choir", 
-    "works": [
+    "usul": [
         {
-            "mbid": "18078a47-32cb-49bf-bd7c-e249dfa580e2", 
-            "title": "G\u00f6rd\u00fcm Bug\u00fcn O G\u00fczeli"
+            "attribute_key": "duyek", 
+            "mb_attribute": "D\u00fcyek", 
+            "source": "http://musicbrainz.org/work/18078a47-32cb-49bf-bd7c-e249dfa580e2"
+        }, 
+        {
+            "attribute_key": "duyek", 
+            "mb_tag": "d\u00fcyek", 
+            "source": "http://musicbrainz.org/recording/db30308f-6208-4c1f-8b73-e1a6a0375212"
         }
     ]
 }

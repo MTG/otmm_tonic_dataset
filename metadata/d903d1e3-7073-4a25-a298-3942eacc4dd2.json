@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "fahte", 
-            "mb_attribute": "Fahte", 
-            "source": "http://musicbrainz.org/work/83291c8a-4ef1-4ffc-8b50-3fc03890f5a4"
-        }, 
-        {
-            "attribute_key": "fahte", 
-            "mb_tag": "fahte", 
-            "source": "http://musicbrainz.org/recording/d903d1e3-7073-4a25-a298-3942eacc4dd2"
-        }
-    ], 
+    "instrumentation_voicing": "solo instrumental", 
     "form": [
         {
             "attribute_key": "pesrev", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "d903d1e3-7073-4a25-a298-3942eacc4dd2", 
+    "works": [
+        {
+            "mbid": "83291c8a-4ef1-4ffc-8b50-3fc03890f5a4", 
+            "title": "\u015eedaraban Pe\u015frevi"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "sedaraban", 
@@ -60,11 +55,16 @@
             "name": "Erc\u00fcmend Batanay"
         }
     ], 
-    "instrumentation_voicing": "Solo instrumental", 
-    "works": [
+    "usul": [
         {
-            "mbid": "83291c8a-4ef1-4ffc-8b50-3fc03890f5a4", 
-            "title": "\u015eedaraban Pe\u015frevi"
+            "attribute_key": "fahte", 
+            "mb_attribute": "Fahte", 
+            "source": "http://musicbrainz.org/work/83291c8a-4ef1-4ffc-8b50-3fc03890f5a4"
+        }, 
+        {
+            "attribute_key": "fahte", 
+            "mb_tag": "fahte", 
+            "source": "http://musicbrainz.org/recording/d903d1e3-7073-4a25-a298-3942eacc4dd2"
         }
     ]
 }

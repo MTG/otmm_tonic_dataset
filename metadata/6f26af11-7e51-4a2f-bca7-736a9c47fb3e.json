@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "aksak", 
-            "mb_attribute": "Aksak", 
-            "source": "http://musicbrainz.org/work/32f053e2-f1ec-4eb4-ac33-d415fd3e623b"
-        }, 
-        {
-            "attribute_key": "aksak", 
-            "mb_tag": "aksak", 
-            "source": "http://musicbrainz.org/recording/6f26af11-7e51-4a2f-bca7-736a9c47fb3e"
-        }
-    ], 
+    "instrumentation_voicing": "choir", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "6f26af11-7e51-4a2f-bca7-736a9c47fb3e", 
+    "works": [
+        {
+            "mbid": "32f053e2-f1ec-4eb4-ac33-d415fd3e623b", 
+            "title": "Bir Dilberdir Beni Yakan"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "huseyni", 
@@ -558,11 +553,16 @@
             "name": "Nebahat Konu"
         }
     ], 
-    "instrumentation_voicing": "Choir", 
-    "works": [
+    "usul": [
         {
-            "mbid": "32f053e2-f1ec-4eb4-ac33-d415fd3e623b", 
-            "title": "Bir Dilberdir Beni Yakan"
+            "attribute_key": "aksak", 
+            "mb_attribute": "Aksak", 
+            "source": "http://musicbrainz.org/work/32f053e2-f1ec-4eb4-ac33-d415fd3e623b"
+        }, 
+        {
+            "attribute_key": "aksak", 
+            "mb_tag": "aksak", 
+            "source": "http://musicbrainz.org/recording/6f26af11-7e51-4a2f-bca7-736a9c47fb3e"
         }
     ]
 }

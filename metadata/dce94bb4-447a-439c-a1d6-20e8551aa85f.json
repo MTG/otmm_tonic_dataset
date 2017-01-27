@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "aksaksemai", 
-            "mb_attribute": "Aksaksemai", 
-            "source": "http://musicbrainz.org/work/e5654095-0ec2-4017-a503-ab8ca7dc993e"
-        }, 
-        {
-            "attribute_key": "aksaksemai", 
-            "mb_tag": "aksaksemai", 
-            "source": "http://musicbrainz.org/recording/dce94bb4-447a-439c-a1d6-20e8551aa85f"
-        }
-    ], 
+    "instrumentation_voicing": "ensemble instrumental", 
     "form": [
         {
             "attribute_key": "sazsemaisi", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "dce94bb4-447a-439c-a1d6-20e8551aa85f", 
+    "works": [
+        {
+            "mbid": "e5654095-0ec2-4017-a503-ab8ca7dc993e", 
+            "title": "Acemk\u00fcrdi Sazsemaisi"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "acemkurdi", 
@@ -270,11 +265,16 @@
             "name": "Osman Nuri \u00d6zpekel"
         }
     ], 
-    "instrumentation_voicing": "Ensemble instrumental", 
-    "works": [
+    "usul": [
         {
-            "mbid": "e5654095-0ec2-4017-a503-ab8ca7dc993e", 
-            "title": "Acemk\u00fcrdi Sazsemaisi"
+            "attribute_key": "aksaksemai", 
+            "mb_attribute": "Aksaksemai", 
+            "source": "http://musicbrainz.org/work/e5654095-0ec2-4017-a503-ab8ca7dc993e"
+        }, 
+        {
+            "attribute_key": "aksaksemai", 
+            "mb_tag": "aksaksemai", 
+            "source": "http://musicbrainz.org/recording/dce94bb4-447a-439c-a1d6-20e8551aa85f"
         }
     ]
 }

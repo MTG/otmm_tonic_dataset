@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "senginsemai", 
-            "mb_attribute": "Senginsemai", 
-            "source": "http://musicbrainz.org/work/a3923787-567a-464e-907d-e4958d1203eb"
-        }, 
-        {
-            "attribute_key": "senginsemai", 
-            "mb_tag": "senginsemai", 
-            "source": "http://musicbrainz.org/recording/d8639637-dbaf-4bc1-91a3-1eb932fd233b"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "d8639637-dbaf-4bc1-91a3-1eb932fd233b", 
+    "works": [
+        {
+            "mbid": "a3923787-567a-464e-907d-e4958d1203eb", 
+            "title": "G\u00fcnden G\u00fcne Efzun Oluyor Kahr\u0131 Azab\u0131n"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "suzinak", 
@@ -62,11 +57,16 @@
             "name": "Bekir S\u0131dk\u0131 Sezgin"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "a3923787-567a-464e-907d-e4958d1203eb", 
-            "title": "G\u00fcnden G\u00fcne Efzun Oluyor Kahr\u0131 Azab\u0131n"
+            "attribute_key": "senginsemai", 
+            "mb_attribute": "Senginsemai", 
+            "source": "http://musicbrainz.org/work/a3923787-567a-464e-907d-e4958d1203eb"
+        }, 
+        {
+            "attribute_key": "senginsemai", 
+            "mb_tag": "senginsemai", 
+            "source": "http://musicbrainz.org/recording/d8639637-dbaf-4bc1-91a3-1eb932fd233b"
         }
     ]
 }

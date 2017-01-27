@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "aksak", 
-            "mb_attribute": "Aksak", 
-            "source": "http://musicbrainz.org/work/fb8caeac-2e10-40cd-8c1a-935f1fca5587"
-        }, 
-        {
-            "attribute_key": "aksak", 
-            "mb_tag": "aksak", 
-            "source": "http://musicbrainz.org/recording/a4170fcb-1071-4055-b958-ead9744e0d3d"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "a4170fcb-1071-4055-b958-ead9744e0d3d", 
+    "works": [
+        {
+            "mbid": "fb8caeac-2e10-40cd-8c1a-935f1fca5587", 
+            "title": "A\u00e7\u0131ld\u0131 Nev-bahar Bir Gonce-i G\u00fcl"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "acemasiran", 
@@ -92,11 +87,16 @@
             "name": "Do\u011fan Dikmen"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "fb8caeac-2e10-40cd-8c1a-935f1fca5587", 
-            "title": "A\u00e7\u0131ld\u0131 Nev-bahar Bir Gonce-i G\u00fcl"
+            "attribute_key": "aksak", 
+            "mb_attribute": "Aksak", 
+            "source": "http://musicbrainz.org/work/fb8caeac-2e10-40cd-8c1a-935f1fca5587"
+        }, 
+        {
+            "attribute_key": "aksak", 
+            "mb_tag": "aksak", 
+            "source": "http://musicbrainz.org/recording/a4170fcb-1071-4055-b958-ead9744e0d3d"
         }
     ]
 }

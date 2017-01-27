@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "sofyan", 
-            "mb_attribute": "Sofyan", 
-            "source": "http://musicbrainz.org/work/787629e4-ab70-4223-a599-d14a8a8e89ed"
-        }, 
-        {
-            "attribute_key": "sofyan", 
-            "mb_tag": "sofyan", 
-            "source": "http://musicbrainz.org/recording/deadd528-5faf-4377-8c68-ea7145112c34"
-        }
-    ], 
+    "instrumentation_voicing": "solo instrumental", 
     "form": [
         {
             "attribute_key": "ilahi", 
@@ -42,6 +31,12 @@
         }
     ], 
     "mbid": "deadd528-5faf-4377-8c68-ea7145112c34", 
+    "works": [
+        {
+            "mbid": "787629e4-ab70-4223-a599-d14a8a8e89ed", 
+            "title": "Gelin Ey A\u015f\u0131klar"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "saba", 
@@ -64,11 +59,16 @@
             "name": "[unknown]"
         }
     ], 
-    "instrumentation_voicing": "Solo instrumental", 
-    "works": [
+    "usul": [
         {
-            "mbid": "787629e4-ab70-4223-a599-d14a8a8e89ed", 
-            "title": "Gelin Ey A\u015f\u0131klar"
+            "attribute_key": "sofyan", 
+            "mb_attribute": "Sofyan", 
+            "source": "http://musicbrainz.org/work/787629e4-ab70-4223-a599-d14a8a8e89ed"
+        }, 
+        {
+            "attribute_key": "sofyan", 
+            "mb_tag": "sofyan", 
+            "source": "http://musicbrainz.org/recording/deadd528-5faf-4377-8c68-ea7145112c34"
         }
     ]
 }

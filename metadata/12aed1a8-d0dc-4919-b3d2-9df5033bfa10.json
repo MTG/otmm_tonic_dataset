@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "muhammes", 
-            "mb_attribute": "Muhammes", 
-            "source": "http://musicbrainz.org/work/46f277e0-5e56-46a6-bfbf-af894e93be64"
-        }, 
-        {
-            "attribute_key": "sakil", 
-            "mb_tag": "sakil", 
-            "source": "http://musicbrainz.org/recording/12aed1a8-d0dc-4919-b3d2-9df5033bfa10"
-        }
-    ], 
+    "instrumentation_voicing": "ensemble instrumental", 
     "form": [
         {
             "attribute_key": "pesrev", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "12aed1a8-d0dc-4919-b3d2-9df5033bfa10", 
+    "works": [
+        {
+            "mbid": "46f277e0-5e56-46a6-bfbf-af894e93be64", 
+            "title": "\u015eevkefza Pe\u015frev"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "sevkefza", 
@@ -84,11 +79,16 @@
             "name": "U\u011fur I\u015f\u0131k"
         }
     ], 
-    "instrumentation_voicing": "Ensemble instrumental", 
-    "works": [
+    "usul": [
         {
-            "mbid": "46f277e0-5e56-46a6-bfbf-af894e93be64", 
-            "title": "\u015eevkefza Pe\u015frev"
+            "attribute_key": "muhammes", 
+            "mb_attribute": "Muhammes", 
+            "source": "http://musicbrainz.org/work/46f277e0-5e56-46a6-bfbf-af894e93be64"
+        }, 
+        {
+            "attribute_key": "sakil", 
+            "mb_tag": "sakil", 
+            "source": "http://musicbrainz.org/recording/12aed1a8-d0dc-4919-b3d2-9df5033bfa10"
         }
     ]
 }

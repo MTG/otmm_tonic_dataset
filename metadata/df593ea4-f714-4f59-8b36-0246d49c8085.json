@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "evfer", 
-            "mb_attribute": "Evfer", 
-            "source": "http://musicbrainz.org/work/dbca527d-a700-466c-93f6-83e3578c8277"
-        }, 
-        {
-            "attribute_key": "evfer", 
-            "mb_tag": "evfer", 
-            "source": "http://musicbrainz.org/recording/df593ea4-f714-4f59-8b36-0246d49c8085"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "df593ea4-f714-4f59-8b36-0246d49c8085", 
+    "works": [
+        {
+            "mbid": "dbca527d-a700-466c-93f6-83e3578c8277", 
+            "title": "Geldi Bir Hale G\u00f6n\u00fcl"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "acemkurdi", 
@@ -62,11 +57,16 @@
             "name": "Meral U\u011furlu"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "dbca527d-a700-466c-93f6-83e3578c8277", 
-            "title": "Geldi Bir Hale G\u00f6n\u00fcl"
+            "attribute_key": "evfer", 
+            "mb_attribute": "Evfer", 
+            "source": "http://musicbrainz.org/work/dbca527d-a700-466c-93f6-83e3578c8277"
+        }, 
+        {
+            "attribute_key": "evfer", 
+            "mb_tag": "evfer", 
+            "source": "http://musicbrainz.org/recording/df593ea4-f714-4f59-8b36-0246d49c8085"
         }
     ]
 }

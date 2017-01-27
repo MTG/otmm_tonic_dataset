@@ -1,36 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "aksak", 
-            "mb_attribute": "Aksak", 
-            "source": "http://musicbrainz.org/work/65b76df6-cb70-4fd8-8200-46d2fc5d5414"
-        }, 
-        {
-            "attribute_key": "evfer", 
-            "mb_attribute": "Evfer", 
-            "source": "http://musicbrainz.org/work/96001151-94f6-41ce-a757-367d3df19ef8"
-        }, 
-        {
-            "attribute_key": "nimsofyan", 
-            "mb_attribute": "Nimsofyan", 
-            "source": "http://musicbrainz.org/work/a7de0206-4f78-473c-8224-ac32c235f93a"
-        }, 
-        {
-            "attribute_key": "aksak", 
-            "mb_tag": "aksak", 
-            "source": "http://musicbrainz.org/recording/67c2ab9f-9a3f-4955-8351-0c8a4e7b1089"
-        }, 
-        {
-            "attribute_key": "aksak", 
-            "mb_tag": "aksak", 
-            "source": "http://musicbrainz.org/recording/67c2ab9f-9a3f-4955-8351-0c8a4e7b1089"
-        }, 
-        {
-            "attribute_key": "sofyan", 
-            "mb_tag": "sofyan", 
-            "source": "http://musicbrainz.org/recording/67c2ab9f-9a3f-4955-8351-0c8a4e7b1089"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -78,6 +47,20 @@
         }
     ], 
     "mbid": "67c2ab9f-9a3f-4955-8351-0c8a4e7b1089", 
+    "works": [
+        {
+            "mbid": "65b76df6-cb70-4fd8-8200-46d2fc5d5414", 
+            "title": "Gidelim G\u00f6ksu'ya Bir Alem-i \u00c2b Eyleyelim"
+        }, 
+        {
+            "mbid": "96001151-94f6-41ce-a757-367d3df19ef8", 
+            "title": "Kar\u015f\u0131yaka'da \u0130zmir'in G\u00fcl\u00fc"
+        }, 
+        {
+            "mbid": "a7de0206-4f78-473c-8224-ac32c235f93a", 
+            "title": "K\u00fcrdilihicazk\u00e2r Longa"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "kurdilihicazkar", 
@@ -115,19 +98,36 @@
             "name": "Meydan Fas\u0131l Heyeti"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "65b76df6-cb70-4fd8-8200-46d2fc5d5414", 
-            "title": "Gidelim G\u00f6ksu'ya Bir Alem-i \u00c2b Eyleyelim"
+            "attribute_key": "aksak", 
+            "mb_attribute": "Aksak", 
+            "source": "http://musicbrainz.org/work/65b76df6-cb70-4fd8-8200-46d2fc5d5414"
         }, 
         {
-            "mbid": "96001151-94f6-41ce-a757-367d3df19ef8", 
-            "title": "Kar\u015f\u0131yaka'da \u0130zmir'in G\u00fcl\u00fc"
+            "attribute_key": "evfer", 
+            "mb_attribute": "Evfer", 
+            "source": "http://musicbrainz.org/work/96001151-94f6-41ce-a757-367d3df19ef8"
         }, 
         {
-            "mbid": "a7de0206-4f78-473c-8224-ac32c235f93a", 
-            "title": "K\u00fcrdilihicazk\u00e2r Longa"
+            "attribute_key": "nimsofyan", 
+            "mb_attribute": "Nimsofyan", 
+            "source": "http://musicbrainz.org/work/a7de0206-4f78-473c-8224-ac32c235f93a"
+        }, 
+        {
+            "attribute_key": "aksak", 
+            "mb_tag": "aksak", 
+            "source": "http://musicbrainz.org/recording/67c2ab9f-9a3f-4955-8351-0c8a4e7b1089"
+        }, 
+        {
+            "attribute_key": "aksak", 
+            "mb_tag": "aksak", 
+            "source": "http://musicbrainz.org/recording/67c2ab9f-9a3f-4955-8351-0c8a4e7b1089"
+        }, 
+        {
+            "attribute_key": "sofyan", 
+            "mb_tag": "sofyan", 
+            "source": "http://musicbrainz.org/recording/67c2ab9f-9a3f-4955-8351-0c8a4e7b1089"
         }
     ]
 }

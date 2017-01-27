@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "curcuna", 
-            "mb_attribute": "Curcuna", 
-            "source": "http://musicbrainz.org/work/9a56af56-d465-4de9-aceb-9e6b36b05efc"
-        }, 
-        {
-            "attribute_key": "kapali_curcuna", 
-            "mb_tag": "curcuna", 
-            "source": "http://musicbrainz.org/recording/560f88b8-cb37-47f1-813f-d9a90bf35962"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "560f88b8-cb37-47f1-813f-d9a90bf35962", 
+    "works": [
+        {
+            "mbid": "9a56af56-d465-4de9-aceb-9e6b36b05efc", 
+            "title": "Bikes \u00fc Bi\u00e7areyim Ah A\u011flar\u0131m"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "karcigar", 
@@ -62,11 +57,16 @@
             "name": "Bekir S\u0131dk\u0131 Sezgin"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "9a56af56-d465-4de9-aceb-9e6b36b05efc", 
-            "title": "Bikes \u00fc Bi\u00e7areyim Ah A\u011flar\u0131m"
+            "attribute_key": "curcuna", 
+            "mb_attribute": "Curcuna", 
+            "source": "http://musicbrainz.org/work/9a56af56-d465-4de9-aceb-9e6b36b05efc"
+        }, 
+        {
+            "attribute_key": "kapali_curcuna", 
+            "mb_tag": "curcuna", 
+            "source": "http://musicbrainz.org/recording/560f88b8-cb37-47f1-813f-d9a90bf35962"
         }
     ]
 }

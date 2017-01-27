@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "hafif", 
-            "mb_attribute": "Hafif", 
-            "source": "http://musicbrainz.org/work/f45f3f43-a3ee-48d7-a46a-facf05745a80"
-        }, 
-        {
-            "attribute_key": "hafif", 
-            "mb_tag": "hafif", 
-            "source": "http://musicbrainz.org/recording/192b4ea0-3ca7-4a0c-8984-b16caa614136"
-        }
-    ], 
+    "instrumentation_voicing": "solo instrumental", 
     "form": [
         {
             "attribute_key": "pesrev", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "192b4ea0-3ca7-4a0c-8984-b16caa614136", 
+    "works": [
+        {
+            "mbid": "f45f3f43-a3ee-48d7-a46a-facf05745a80", 
+            "title": "Rast Pe\u015frev"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "rast", 
@@ -60,11 +55,16 @@
             "name": "Fahri Karaduman"
         }
     ], 
-    "instrumentation_voicing": "Solo instrumental", 
-    "works": [
+    "usul": [
         {
-            "mbid": "f45f3f43-a3ee-48d7-a46a-facf05745a80", 
-            "title": "Rast Pe\u015frev"
+            "attribute_key": "hafif", 
+            "mb_attribute": "Hafif", 
+            "source": "http://musicbrainz.org/work/f45f3f43-a3ee-48d7-a46a-facf05745a80"
+        }, 
+        {
+            "attribute_key": "hafif", 
+            "mb_tag": "hafif", 
+            "source": "http://musicbrainz.org/recording/192b4ea0-3ca7-4a0c-8984-b16caa614136"
         }
     ]
 }

@@ -1,11 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "muhammes", 
-            "mb_attribute": "Muhammes", 
-            "source": "http://musicbrainz.org/work/4eba73f7-6152-4899-8747-1743a525b8ca"
-        }
-    ], 
+    "instrumentation_voicing": "solo instrumental", 
     "form": [
         {
             "attribute_key": "pesrev", 
@@ -33,6 +27,12 @@
         }
     ], 
     "mbid": "2e1ee476-55b7-4c87-ac5a-1f8821cc5791", 
+    "works": [
+        {
+            "mbid": "4eba73f7-6152-4899-8747-1743a525b8ca", 
+            "title": "B\u00fbselik Pe\u015frev"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "buselik", 
@@ -55,11 +55,11 @@
             "name": "Salih Bilgin"
         }
     ], 
-    "instrumentation_voicing": "Solo instrumental", 
-    "works": [
+    "usul": [
         {
-            "mbid": "4eba73f7-6152-4899-8747-1743a525b8ca", 
-            "title": "B\u00fbselik Pe\u015frev"
+            "attribute_key": "muhammes", 
+            "mb_attribute": "Muhammes", 
+            "source": "http://musicbrainz.org/work/4eba73f7-6152-4899-8747-1743a525b8ca"
         }
     ]
 }

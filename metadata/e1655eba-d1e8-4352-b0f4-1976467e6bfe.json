@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "aksaksemai", 
-            "mb_attribute": "Aksaksemai", 
-            "source": "http://musicbrainz.org/work/ecf1b766-6d29-4d13-9fc8-4c02c38d4263"
-        }, 
-        {
-            "attribute_key": "aksaksemai", 
-            "mb_tag": "aksaksemai", 
-            "source": "http://musicbrainz.org/recording/e1655eba-d1e8-4352-b0f4-1976467e6bfe"
-        }
-    ], 
+    "instrumentation_voicing": "solo instrumental", 
     "form": [
         {
             "attribute_key": "sazsemaisi", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "e1655eba-d1e8-4352-b0f4-1976467e6bfe", 
+    "works": [
+        {
+            "mbid": "ecf1b766-6d29-4d13-9fc8-4c02c38d4263", 
+            "title": "Sultaniyegah Sazsemaisi"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "sultaniyegah", 
@@ -60,11 +55,16 @@
             "name": "Niyazi Say\u0131n"
         }
     ], 
-    "instrumentation_voicing": "Solo instrumental", 
-    "works": [
+    "usul": [
         {
-            "mbid": "ecf1b766-6d29-4d13-9fc8-4c02c38d4263", 
-            "title": "Sultaniyegah Sazsemaisi"
+            "attribute_key": "aksaksemai", 
+            "mb_attribute": "Aksaksemai", 
+            "source": "http://musicbrainz.org/work/ecf1b766-6d29-4d13-9fc8-4c02c38d4263"
+        }, 
+        {
+            "attribute_key": "aksaksemai", 
+            "mb_tag": "aksaksemai", 
+            "source": "http://musicbrainz.org/recording/e1655eba-d1e8-4352-b0f4-1976467e6bfe"
         }
     ]
 }

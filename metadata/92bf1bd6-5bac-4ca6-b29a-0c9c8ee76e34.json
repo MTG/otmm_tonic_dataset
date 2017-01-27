@@ -1,11 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "devrirevan", 
-            "mb_attribute": "Devr-i Revan", 
-            "source": "http://musicbrainz.org/work/b22c1476-70c9-48f6-b6a2-8f6ddc926a05"
-        }
-    ], 
+    "instrumentation_voicing": "trio instrumental", 
     "form": [
         {
             "attribute_key": "pesrev", 
@@ -41,6 +35,12 @@
         }
     ], 
     "mbid": "92bf1bd6-5bac-4ca6-b29a-0c9c8ee76e34", 
+    "works": [
+        {
+            "mbid": "b22c1476-70c9-48f6-b6a2-8f6ddc926a05", 
+            "title": "Buselik Pe\u015frev"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "buselik", 
@@ -79,11 +79,11 @@
             "name": "U\u011fur I\u015f\u0131k"
         }
     ], 
-    "instrumentation_voicing": "Trio instrumental", 
-    "works": [
+    "usul": [
         {
-            "mbid": "b22c1476-70c9-48f6-b6a2-8f6ddc926a05", 
-            "title": "Buselik Pe\u015frev"
+            "attribute_key": "devrirevan", 
+            "mb_attribute": "Devr-i Revan", 
+            "source": "http://musicbrainz.org/work/b22c1476-70c9-48f6-b6a2-8f6ddc926a05"
         }
     ]
 }

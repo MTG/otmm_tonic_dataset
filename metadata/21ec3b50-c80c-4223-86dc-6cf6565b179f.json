@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "aksak", 
-            "mb_attribute": "Aksak", 
-            "source": "http://musicbrainz.org/work/7ed821bf-9537-452c-8c54-1abac824f492"
-        }, 
-        {
-            "attribute_key": "aksak", 
-            "mb_tag": "aksak", 
-            "source": "http://musicbrainz.org/recording/21ec3b50-c80c-4223-86dc-6cf6565b179f"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal without accompaniment", 
     "form": [
         {
             "attribute_key": "kanto", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "21ec3b50-c80c-4223-86dc-6cf6565b179f", 
+    "works": [
+        {
+            "mbid": "7ed821bf-9537-452c-8c54-1abac824f492", 
+            "title": "Cilveli K\u0131z\u0131n Halleri Yakt\u0131 da B\u00fct\u00fcn Alemi"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "segah", 
@@ -57,11 +52,16 @@
             "name": "Radife Erten"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal without accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "7ed821bf-9537-452c-8c54-1abac824f492", 
-            "title": "Cilveli K\u0131z\u0131n Halleri Yakt\u0131 da B\u00fct\u00fcn Alemi"
+            "attribute_key": "aksak", 
+            "mb_attribute": "Aksak", 
+            "source": "http://musicbrainz.org/work/7ed821bf-9537-452c-8c54-1abac824f492"
+        }, 
+        {
+            "attribute_key": "aksak", 
+            "mb_tag": "aksak", 
+            "source": "http://musicbrainz.org/recording/21ec3b50-c80c-4223-86dc-6cf6565b179f"
         }
     ]
 }

@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "senginsemai", 
-            "mb_attribute": "Senginsemai", 
-            "source": "http://musicbrainz.org/work/9564e1a4-0463-4cc9-a28b-820a72e5dd50"
-        }, 
-        {
-            "attribute_key": "yuruksemai", 
-            "mb_tag": "y\u00fcr\u00fcksemai", 
-            "source": "http://musicbrainz.org/recording/15434940-b1f0-4ca4-9c7f-8a09b09d9bc2"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "yuruksemai", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "15434940-b1f0-4ca4-9c7f-8a09b09d9bc2", 
+    "works": [
+        {
+            "mbid": "9564e1a4-0463-4cc9-a28b-820a72e5dd50", 
+            "title": "Ben Gibi Sana A\u015f\u0131k-\u0131 \u00dcftade Bulunmaz"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "huseyni", 
@@ -97,11 +92,16 @@
             "name": "Meral U\u011furlu"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "9564e1a4-0463-4cc9-a28b-820a72e5dd50", 
-            "title": "Ben Gibi Sana A\u015f\u0131k-\u0131 \u00dcftade Bulunmaz"
+            "attribute_key": "senginsemai", 
+            "mb_attribute": "Senginsemai", 
+            "source": "http://musicbrainz.org/work/9564e1a4-0463-4cc9-a28b-820a72e5dd50"
+        }, 
+        {
+            "attribute_key": "yuruksemai", 
+            "mb_tag": "y\u00fcr\u00fcksemai", 
+            "source": "http://musicbrainz.org/recording/15434940-b1f0-4ca4-9c7f-8a09b09d9bc2"
         }
     ]
 }

@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "aksaksemai", 
-            "mb_attribute": "Aksaksemai", 
-            "source": "http://musicbrainz.org/work/17f6cc3d-cfbc-453c-96c7-83ca534ae713"
-        }, 
-        {
-            "attribute_key": "aksaksemai", 
-            "mb_tag": "aksaksemai", 
-            "source": "http://musicbrainz.org/recording/1f722d2f-d67a-4ce3-84b9-d8228238e559"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "agirsemai", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "1f722d2f-d67a-4ce3-84b9-d8228238e559", 
+    "works": [
+        {
+            "mbid": "17f6cc3d-cfbc-453c-96c7-83ca534ae713", 
+            "title": "\u00c7\u0131kmaz Derun-i Dilden Efendim Muhabbetin"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "beyati", 
@@ -225,11 +220,16 @@
             "name": "Tar\u0131k Kemanc\u0131"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "17f6cc3d-cfbc-453c-96c7-83ca534ae713", 
-            "title": "\u00c7\u0131kmaz Derun-i Dilden Efendim Muhabbetin"
+            "attribute_key": "aksaksemai", 
+            "mb_attribute": "Aksaksemai", 
+            "source": "http://musicbrainz.org/work/17f6cc3d-cfbc-453c-96c7-83ca534ae713"
+        }, 
+        {
+            "attribute_key": "aksaksemai", 
+            "mb_tag": "aksaksemai", 
+            "source": "http://musicbrainz.org/recording/1f722d2f-d67a-4ce3-84b9-d8228238e559"
         }
     ]
 }

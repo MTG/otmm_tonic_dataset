@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "agiraksak", 
-            "mb_attribute": "A\u011f\u0131raksak", 
-            "source": "http://musicbrainz.org/work/581c8ecb-80a9-4076-91c5-f4420c2bf1fe"
-        }, 
-        {
-            "attribute_key": "agiraksak", 
-            "mb_tag": "a\u011f\u0131raksak", 
-            "source": "http://musicbrainz.org/recording/2c011692-dc1c-433d-ac3e-9aafe9fed8d4"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "2c011692-dc1c-433d-ac3e-9aafe9fed8d4", 
+    "works": [
+        {
+            "mbid": "581c8ecb-80a9-4076-91c5-f4420c2bf1fe", 
+            "title": "B\u00fclb\u00fcl-i \u015eeydaya D\u00f6nd\u00fcm"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "beyati", 
@@ -62,11 +57,16 @@
             "name": "[unknown]"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "581c8ecb-80a9-4076-91c5-f4420c2bf1fe", 
-            "title": "B\u00fclb\u00fcl-i \u015eeydaya D\u00f6nd\u00fcm"
+            "attribute_key": "agiraksak", 
+            "mb_attribute": "A\u011f\u0131raksak", 
+            "source": "http://musicbrainz.org/work/581c8ecb-80a9-4076-91c5-f4420c2bf1fe"
+        }, 
+        {
+            "attribute_key": "agiraksak", 
+            "mb_tag": "a\u011f\u0131raksak", 
+            "source": "http://musicbrainz.org/recording/2c011692-dc1c-433d-ac3e-9aafe9fed8d4"
         }
     ]
 }

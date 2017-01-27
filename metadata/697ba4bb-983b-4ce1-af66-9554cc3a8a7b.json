@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "sofyan", 
-            "mb_attribute": "Sofyan", 
-            "source": "http://musicbrainz.org/work/902235f8-e11d-4f58-ab71-e27fe6bf1cd4"
-        }, 
-        {
-            "attribute_key": "sofyan", 
-            "mb_tag": "sofyan", 
-            "source": "http://musicbrainz.org/recording/697ba4bb-983b-4ce1-af66-9554cc3a8a7b"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "697ba4bb-983b-4ce1-af66-9554cc3a8a7b", 
+    "works": [
+        {
+            "mbid": "902235f8-e11d-4f58-ab71-e27fe6bf1cd4", 
+            "title": "Ne Do\u011fan G\u00fcne H\u00fckm\u00fcm Ge\u00e7er"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "mahur", 
@@ -62,11 +57,16 @@
             "name": "[unknown]"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "902235f8-e11d-4f58-ab71-e27fe6bf1cd4", 
-            "title": "Ne Do\u011fan G\u00fcne H\u00fckm\u00fcm Ge\u00e7er"
+            "attribute_key": "sofyan", 
+            "mb_attribute": "Sofyan", 
+            "source": "http://musicbrainz.org/work/902235f8-e11d-4f58-ab71-e27fe6bf1cd4"
+        }, 
+        {
+            "attribute_key": "sofyan", 
+            "mb_tag": "sofyan", 
+            "source": "http://musicbrainz.org/recording/697ba4bb-983b-4ce1-af66-9554cc3a8a7b"
         }
     ]
 }

@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "curcuna", 
-            "mb_attribute": "Curcuna", 
-            "source": "http://musicbrainz.org/work/e29005e2-745b-4ca7-8340-97966fc3881e"
-        }, 
-        {
-            "attribute_key": "kapali_curcuna", 
-            "mb_tag": "curcuna", 
-            "source": "http://musicbrainz.org/recording/f98e829c-1a9b-4170-a7d7-34a1a2d857ee"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal without accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "f98e829c-1a9b-4170-a7d7-34a1a2d857ee", 
+    "works": [
+        {
+            "mbid": "e29005e2-745b-4ca7-8340-97966fc3881e", 
+            "title": "Hazan ile Ge\u00e7ti G\u00fcl\u015fen-i Butsan"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "hicaz", 
@@ -57,11 +52,16 @@
             "name": "Perihan Alt\u0131nda\u011f S\u00f6zeri"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal without accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "e29005e2-745b-4ca7-8340-97966fc3881e", 
-            "title": "Hazan ile Ge\u00e7ti G\u00fcl\u015fen-i Butsan"
+            "attribute_key": "curcuna", 
+            "mb_attribute": "Curcuna", 
+            "source": "http://musicbrainz.org/work/e29005e2-745b-4ca7-8340-97966fc3881e"
+        }, 
+        {
+            "attribute_key": "kapali_curcuna", 
+            "mb_tag": "curcuna", 
+            "source": "http://musicbrainz.org/recording/f98e829c-1a9b-4170-a7d7-34a1a2d857ee"
         }
     ]
 }

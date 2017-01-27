@@ -1,11 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "aksaksemai", 
-            "mb_attribute": "Aksaksemai", 
-            "source": "http://musicbrainz.org/work/8509be65-254c-4340-b794-a41efc999069"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "agirsemai", 
@@ -38,6 +32,12 @@
         }
     ], 
     "mbid": "4273174f-0d2e-43ec-94cf-830fda6f85dc", 
+    "works": [
+        {
+            "mbid": "8509be65-254c-4340-b794-a41efc999069", 
+            "title": "Kimin Meft\u00fbnu Oldun Ey Per\u00ee R\u00fbyim, Nih\u00e2n S\u00f6yle"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "evcara", 
@@ -62,11 +62,11 @@
             "name": "Bekir S\u0131dk\u0131 Sezgin"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "8509be65-254c-4340-b794-a41efc999069", 
-            "title": "Kimin Meft\u00fbnu Oldun Ey Per\u00ee R\u00fbyim, Nih\u00e2n S\u00f6yle"
+            "attribute_key": "aksaksemai", 
+            "mb_attribute": "Aksaksemai", 
+            "source": "http://musicbrainz.org/work/8509be65-254c-4340-b794-a41efc999069"
         }
     ]
 }

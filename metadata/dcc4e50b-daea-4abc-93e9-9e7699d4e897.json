@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "sofyan", 
-            "mb_attribute": "Sofyan", 
-            "source": "http://musicbrainz.org/work/87d713ed-0a34-4324-a415-caf93cbee43f"
-        }, 
-        {
-            "attribute_key": "nimsofyan", 
-            "mb_tag": "nimsofyan", 
-            "source": "http://musicbrainz.org/recording/dcc4e50b-daea-4abc-93e9-9e7699d4e897"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal without accompaniment", 
     "form": [
         {
             "attribute_key": "turku", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "dcc4e50b-daea-4abc-93e9-9e7699d4e897", 
+    "works": [
+        {
+            "mbid": "87d713ed-0a34-4324-a415-caf93cbee43f", 
+            "title": "Bir Dalda \u0130ki Kiraz"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "saba", 
@@ -57,11 +52,16 @@
             "name": "Safiye Ayla"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal without accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "87d713ed-0a34-4324-a415-caf93cbee43f", 
-            "title": "Bir Dalda \u0130ki Kiraz"
+            "attribute_key": "sofyan", 
+            "mb_attribute": "Sofyan", 
+            "source": "http://musicbrainz.org/work/87d713ed-0a34-4324-a415-caf93cbee43f"
+        }, 
+        {
+            "attribute_key": "nimsofyan", 
+            "mb_tag": "nimsofyan", 
+            "source": "http://musicbrainz.org/recording/dcc4e50b-daea-4abc-93e9-9e7699d4e897"
         }
     ]
 }

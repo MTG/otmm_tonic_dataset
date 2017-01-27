@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "curcuna", 
-            "mb_attribute": "Curcuna", 
-            "source": "http://musicbrainz.org/work/6d751be2-101e-4920-98ac-02195fd8c845"
-        }, 
-        {
-            "attribute_key": "kapali_curcuna", 
-            "mb_tag": "curcuna", 
-            "source": "http://musicbrainz.org/recording/4c7e88a9-1674-4cf3-95e5-da7932cb4a2d"
-        }
-    ], 
+    "instrumentation_voicing": "choir", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "4c7e88a9-1674-4cf3-95e5-da7932cb4a2d", 
+    "works": [
+        {
+            "mbid": "6d751be2-101e-4920-98ac-02195fd8c845", 
+            "title": "Yare Tesir Eylemi\u015f"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "suzinak", 
@@ -398,11 +393,16 @@
             "name": "Asuman Demirba\u015f"
         }
     ], 
-    "instrumentation_voicing": "Choir", 
-    "works": [
+    "usul": [
         {
-            "mbid": "6d751be2-101e-4920-98ac-02195fd8c845", 
-            "title": "Yare Tesir Eylemi\u015f"
+            "attribute_key": "curcuna", 
+            "mb_attribute": "Curcuna", 
+            "source": "http://musicbrainz.org/work/6d751be2-101e-4920-98ac-02195fd8c845"
+        }, 
+        {
+            "attribute_key": "kapali_curcuna", 
+            "mb_tag": "curcuna", 
+            "source": "http://musicbrainz.org/recording/4c7e88a9-1674-4cf3-95e5-da7932cb4a2d"
         }
     ]
 }

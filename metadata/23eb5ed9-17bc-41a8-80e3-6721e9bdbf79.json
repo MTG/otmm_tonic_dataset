@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "aksak", 
-            "mb_attribute": "Aksak", 
-            "source": "http://musicbrainz.org/work/4a74d85b-0521-4503-82ae-e76cf94a6e6c"
-        }, 
-        {
-            "attribute_key": "aksak", 
-            "mb_tag": "aksak", 
-            "source": "http://musicbrainz.org/recording/23eb5ed9-17bc-41a8-80e3-6721e9bdbf79"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "23eb5ed9-17bc-41a8-80e3-6721e9bdbf79", 
+    "works": [
+        {
+            "mbid": "4a74d85b-0521-4503-82ae-e76cf94a6e6c", 
+            "title": "Z\u00fclf-i Zer-tar\u0131na"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "hicaz", 
@@ -62,11 +57,16 @@
             "name": "Bekir S\u0131dk\u0131 Sezgin"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "4a74d85b-0521-4503-82ae-e76cf94a6e6c", 
-            "title": "Z\u00fclf-i Zer-tar\u0131na"
+            "attribute_key": "aksak", 
+            "mb_attribute": "Aksak", 
+            "source": "http://musicbrainz.org/work/4a74d85b-0521-4503-82ae-e76cf94a6e6c"
+        }, 
+        {
+            "attribute_key": "aksak", 
+            "mb_tag": "aksak", 
+            "source": "http://musicbrainz.org/recording/23eb5ed9-17bc-41a8-80e3-6721e9bdbf79"
         }
     ]
 }

@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "evsat", 
-            "mb_attribute": "Evsat", 
-            "source": "http://musicbrainz.org/work/d271a01c-a717-49a1-a045-813b38c0d587"
-        }, 
-        {
-            "attribute_key": "evsat", 
-            "mb_tag": "evsat", 
-            "source": "http://musicbrainz.org/recording/d2cbc08b-fbbe-43d9-90a7-ca82a258b4eb"
-        }
-    ], 
+    "instrumentation_voicing": "duet", 
     "form": [
         {
             "attribute_key": "tevsihilahi", 
@@ -42,6 +31,12 @@
         }
     ], 
     "mbid": "d2cbc08b-fbbe-43d9-90a7-ca82a258b4eb", 
+    "works": [
+        {
+            "mbid": "d271a01c-a717-49a1-a045-813b38c0d587", 
+            "title": "Candan A\u015f\u0131k Oldum Vechin G\u00fcl\u00fcne"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "bestenigar", 
@@ -130,11 +125,16 @@
             "name": "\u00d6zer \u00d6zel"
         }
     ], 
-    "instrumentation_voicing": "Duet", 
-    "works": [
+    "usul": [
         {
-            "mbid": "d271a01c-a717-49a1-a045-813b38c0d587", 
-            "title": "Candan A\u015f\u0131k Oldum Vechin G\u00fcl\u00fcne"
+            "attribute_key": "evsat", 
+            "mb_attribute": "Evsat", 
+            "source": "http://musicbrainz.org/work/d271a01c-a717-49a1-a045-813b38c0d587"
+        }, 
+        {
+            "attribute_key": "evsat", 
+            "mb_tag": "evsat", 
+            "source": "http://musicbrainz.org/recording/d2cbc08b-fbbe-43d9-90a7-ca82a258b4eb"
         }
     ]
 }

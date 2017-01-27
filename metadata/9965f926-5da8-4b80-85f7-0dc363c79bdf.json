@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "aksaksemai", 
-            "mb_attribute": "Aksaksemai", 
-            "source": "http://musicbrainz.org/work/0c3aa184-4791-4352-a72b-ef1a0db2d638"
-        }, 
-        {
-            "attribute_key": "aksaksemai", 
-            "mb_tag": "aksaksemai", 
-            "source": "http://musicbrainz.org/recording/9965f926-5da8-4b80-85f7-0dc363c79bdf"
-        }
-    ], 
+    "instrumentation_voicing": "choir", 
     "form": [
         {
             "attribute_key": "agirsemai", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "9965f926-5da8-4b80-85f7-0dc363c79bdf", 
+    "works": [
+        {
+            "mbid": "0c3aa184-4791-4352-a72b-ef1a0db2d638", 
+            "title": "Nihan Ettim Seni Sinemde Ey Meh-pare Can\u0131ms\u0131n"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "sultaniyegah", 
@@ -130,11 +125,16 @@
             "name": "Sercan Halili"
         }
     ], 
-    "instrumentation_voicing": "Choir", 
-    "works": [
+    "usul": [
         {
-            "mbid": "0c3aa184-4791-4352-a72b-ef1a0db2d638", 
-            "title": "Nihan Ettim Seni Sinemde Ey Meh-pare Can\u0131ms\u0131n"
+            "attribute_key": "aksaksemai", 
+            "mb_attribute": "Aksaksemai", 
+            "source": "http://musicbrainz.org/work/0c3aa184-4791-4352-a72b-ef1a0db2d638"
+        }, 
+        {
+            "attribute_key": "aksaksemai", 
+            "mb_tag": "aksaksemai", 
+            "source": "http://musicbrainz.org/recording/9965f926-5da8-4b80-85f7-0dc363c79bdf"
         }
     ]
 }

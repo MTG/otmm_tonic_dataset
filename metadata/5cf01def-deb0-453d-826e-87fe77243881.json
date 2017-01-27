@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "agiraksak", 
-            "mb_attribute": "A\u011f\u0131raksak", 
-            "source": "http://musicbrainz.org/work/e59db893-ec37-4bc4-91df-10180f22cfec"
-        }, 
-        {
-            "attribute_key": "agiraksak", 
-            "mb_tag": "a\u011f\u0131raksak", 
-            "source": "http://musicbrainz.org/recording/5cf01def-deb0-453d-826e-87fe77243881"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "5cf01def-deb0-453d-826e-87fe77243881", 
+    "works": [
+        {
+            "mbid": "e59db893-ec37-4bc4-91df-10180f22cfec", 
+            "title": "Kunc-i Gamda Ruz \u00fc"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "ferahnak", 
@@ -62,11 +57,16 @@
             "name": "Bekir S\u0131dk\u0131 Sezgin"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "e59db893-ec37-4bc4-91df-10180f22cfec", 
-            "title": "Kunc-i Gamda Ruz \u00fc"
+            "attribute_key": "agiraksak", 
+            "mb_attribute": "A\u011f\u0131raksak", 
+            "source": "http://musicbrainz.org/work/e59db893-ec37-4bc4-91df-10180f22cfec"
+        }, 
+        {
+            "attribute_key": "agiraksak", 
+            "mb_tag": "a\u011f\u0131raksak", 
+            "source": "http://musicbrainz.org/recording/5cf01def-deb0-453d-826e-87fe77243881"
         }
     ]
 }

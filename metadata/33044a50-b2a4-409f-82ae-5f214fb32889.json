@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "senginsemai", 
-            "mb_attribute": "Senginsemai", 
-            "source": "http://musicbrainz.org/work/a34c64cc-12f8-4e85-a62d-d5b083ba6a4a"
-        }, 
-        {
-            "attribute_key": "senginsemai", 
-            "mb_tag": "senginsemai", 
-            "source": "http://musicbrainz.org/recording/33044a50-b2a4-409f-82ae-5f214fb32889"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal without accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -42,6 +31,12 @@
         }
     ], 
     "mbid": "33044a50-b2a4-409f-82ae-5f214fb32889", 
+    "works": [
+        {
+            "mbid": "a34c64cc-12f8-4e85-a62d-d5b083ba6a4a", 
+            "title": "G\u00f6rmezsem E\u011fer Sevdice\u011fim H\u00fcsn-i Mir'at\u0131n"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "hicazkar", 
@@ -61,11 +56,16 @@
             "name": "Nerkis Han\u0131m"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal without accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "a34c64cc-12f8-4e85-a62d-d5b083ba6a4a", 
-            "title": "G\u00f6rmezsem E\u011fer Sevdice\u011fim H\u00fcsn-i Mir'at\u0131n"
+            "attribute_key": "senginsemai", 
+            "mb_attribute": "Senginsemai", 
+            "source": "http://musicbrainz.org/work/a34c64cc-12f8-4e85-a62d-d5b083ba6a4a"
+        }, 
+        {
+            "attribute_key": "senginsemai", 
+            "mb_tag": "senginsemai", 
+            "source": "http://musicbrainz.org/recording/33044a50-b2a4-409f-82ae-5f214fb32889"
         }
     ]
 }

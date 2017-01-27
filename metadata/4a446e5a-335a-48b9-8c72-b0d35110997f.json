@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "curcuna", 
-            "mb_attribute": "Curcuna", 
-            "source": "http://musicbrainz.org/work/43be393c-3719-43d8-9ab4-68d756e406a5"
-        }, 
-        {
-            "attribute_key": "kapali_curcuna", 
-            "mb_tag": "curcuna", 
-            "source": "http://musicbrainz.org/recording/4a446e5a-335a-48b9-8c72-b0d35110997f"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -42,6 +31,12 @@
         }
     ], 
     "mbid": "4a446e5a-335a-48b9-8c72-b0d35110997f", 
+    "works": [
+        {
+            "mbid": "43be393c-3719-43d8-9ab4-68d756e406a5", 
+            "title": "G\u00fczel G\u00fcn G\u00f6rmedi Avare G\u00f6nl\u00fcm"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "huzzam", 
@@ -137,11 +132,16 @@
             "name": "Sedat G\u00fcndiyer"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "43be393c-3719-43d8-9ab4-68d756e406a5", 
-            "title": "G\u00fczel G\u00fcn G\u00f6rmedi Avare G\u00f6nl\u00fcm"
+            "attribute_key": "curcuna", 
+            "mb_attribute": "Curcuna", 
+            "source": "http://musicbrainz.org/work/43be393c-3719-43d8-9ab4-68d756e406a5"
+        }, 
+        {
+            "attribute_key": "kapali_curcuna", 
+            "mb_tag": "curcuna", 
+            "source": "http://musicbrainz.org/recording/4a446e5a-335a-48b9-8c72-b0d35110997f"
         }
     ]
 }

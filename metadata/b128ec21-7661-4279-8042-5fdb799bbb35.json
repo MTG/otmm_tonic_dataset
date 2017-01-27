@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "curcuna", 
-            "mb_attribute": "Curcuna", 
-            "source": "http://musicbrainz.org/work/8d7cec7c-35b1-41c1-a345-131188760980"
-        }, 
-        {
-            "attribute_key": "kapali_curcuna", 
-            "mb_tag": "curcuna", 
-            "source": "http://musicbrainz.org/recording/b128ec21-7661-4279-8042-5fdb799bbb35"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "b128ec21-7661-4279-8042-5fdb799bbb35", 
+    "works": [
+        {
+            "mbid": "8d7cec7c-35b1-41c1-a345-131188760980", 
+            "title": "Ey S\u0131ra S\u0131ra Dizilen Serviler"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "karcigar", 
@@ -62,11 +57,16 @@
             "name": "Bekir S\u0131dk\u0131 Sezgin"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "8d7cec7c-35b1-41c1-a345-131188760980", 
-            "title": "Ey S\u0131ra S\u0131ra Dizilen Serviler"
+            "attribute_key": "curcuna", 
+            "mb_attribute": "Curcuna", 
+            "source": "http://musicbrainz.org/work/8d7cec7c-35b1-41c1-a345-131188760980"
+        }, 
+        {
+            "attribute_key": "kapali_curcuna", 
+            "mb_tag": "curcuna", 
+            "source": "http://musicbrainz.org/recording/b128ec21-7661-4279-8042-5fdb799bbb35"
         }
     ]
 }

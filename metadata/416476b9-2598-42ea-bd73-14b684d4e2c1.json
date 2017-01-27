@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "aksak", 
-            "mb_attribute": "Aksak", 
-            "source": "http://musicbrainz.org/work/011a31dc-a768-45db-b362-72928942c86e"
-        }, 
-        {
-            "attribute_key": "aksak", 
-            "mb_tag": "aksak", 
-            "source": "http://musicbrainz.org/recording/416476b9-2598-42ea-bd73-14b684d4e2c1"
-        }
-    ], 
+    "instrumentation_voicing": "choir", 
     "form": [
         {
             "attribute_key": "kalenderi", 
@@ -62,6 +51,12 @@
         }
     ], 
     "mbid": "416476b9-2598-42ea-bd73-14b684d4e2c1", 
+    "works": [
+        {
+            "mbid": "011a31dc-a768-45db-b362-72928942c86e", 
+            "title": "Ebrulerinin Zahm-i Nihand\u0131r Ci\u011ferimde"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "hicaz", 
@@ -125,11 +120,16 @@
             "name": "Do\u011fan Dikmen"
         }
     ], 
-    "instrumentation_voicing": "Choir", 
-    "works": [
+    "usul": [
         {
-            "mbid": "011a31dc-a768-45db-b362-72928942c86e", 
-            "title": "Ebrulerinin Zahm-i Nihand\u0131r Ci\u011ferimde"
+            "attribute_key": "aksak", 
+            "mb_attribute": "Aksak", 
+            "source": "http://musicbrainz.org/work/011a31dc-a768-45db-b362-72928942c86e"
+        }, 
+        {
+            "attribute_key": "aksak", 
+            "mb_tag": "aksak", 
+            "source": "http://musicbrainz.org/recording/416476b9-2598-42ea-bd73-14b684d4e2c1"
         }
     ]
 }

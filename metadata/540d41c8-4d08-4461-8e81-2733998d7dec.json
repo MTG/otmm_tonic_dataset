@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "muhammes", 
-            "mb_attribute": "Muhammes", 
-            "source": "http://musicbrainz.org/work/6f2b316f-f951-4453-9233-2b62e16fcd05"
-        }, 
-        {
-            "attribute_key": "muhammes", 
-            "mb_tag": "muhammes", 
-            "source": "http://musicbrainz.org/recording/540d41c8-4d08-4461-8e81-2733998d7dec"
-        }
-    ], 
+    "instrumentation_voicing": "solo instrumental", 
     "form": [
         {
             "attribute_key": "pesrev", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "540d41c8-4d08-4461-8e81-2733998d7dec", 
+    "works": [
+        {
+            "mbid": "6f2b316f-f951-4453-9233-2b62e16fcd05", 
+            "title": "Ferahfeza Pe\u015frev"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "ferahfeza", 
@@ -60,11 +55,16 @@
             "name": "Necati \u00c7elik"
         }
     ], 
-    "instrumentation_voicing": "Solo instrumental", 
-    "works": [
+    "usul": [
         {
-            "mbid": "6f2b316f-f951-4453-9233-2b62e16fcd05", 
-            "title": "Ferahfeza Pe\u015frev"
+            "attribute_key": "muhammes", 
+            "mb_attribute": "Muhammes", 
+            "source": "http://musicbrainz.org/work/6f2b316f-f951-4453-9233-2b62e16fcd05"
+        }, 
+        {
+            "attribute_key": "muhammes", 
+            "mb_tag": "muhammes", 
+            "source": "http://musicbrainz.org/recording/540d41c8-4d08-4461-8e81-2733998d7dec"
         }
     ]
 }

@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "aksaksemai", 
-            "mb_attribute": "Aksaksemai", 
-            "source": "http://musicbrainz.org/work/1035e5bd-5f53-4a81-ad66-f861a51d8c4e"
-        }, 
-        {
-            "attribute_key": "aksaksemai", 
-            "mb_tag": "aksaksemai", 
-            "source": "http://musicbrainz.org/recording/87a48858-f3ed-4dcc-9355-5c18225b6781"
-        }
-    ], 
+    "instrumentation_voicing": "ensemble instrumental", 
     "form": [
         {
             "attribute_key": "sazsemaisi", 
@@ -46,6 +35,12 @@
         }
     ], 
     "mbid": "87a48858-f3ed-4dcc-9355-5c18225b6781", 
+    "works": [
+        {
+            "mbid": "1035e5bd-5f53-4a81-ad66-f861a51d8c4e", 
+            "title": "Neva Sazsemaisi"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "neva", 
@@ -81,11 +76,16 @@
             "name": "Linda Burman-Hall"
         }
     ], 
-    "instrumentation_voicing": "Ensemble instrumental", 
-    "works": [
+    "usul": [
         {
-            "mbid": "1035e5bd-5f53-4a81-ad66-f861a51d8c4e", 
-            "title": "Neva Sazsemaisi"
+            "attribute_key": "aksaksemai", 
+            "mb_attribute": "Aksaksemai", 
+            "source": "http://musicbrainz.org/work/1035e5bd-5f53-4a81-ad66-f861a51d8c4e"
+        }, 
+        {
+            "attribute_key": "aksaksemai", 
+            "mb_tag": "aksaksemai", 
+            "source": "http://musicbrainz.org/recording/87a48858-f3ed-4dcc-9355-5c18225b6781"
         }
     ]
 }

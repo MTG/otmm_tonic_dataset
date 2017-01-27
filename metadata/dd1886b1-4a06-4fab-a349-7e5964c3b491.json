@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "murekkepnimsofyan", 
-            "mb_attribute": "M\u00fcrekkep Nimsofyan", 
-            "source": "http://musicbrainz.org/work/d4a4f918-c8ca-4d97-bbb0-fb40246caec2"
-        }, 
-        {
-            "attribute_key": "duyek", 
-            "mb_tag": "d\u00fcyek", 
-            "source": "http://musicbrainz.org/recording/dd1886b1-4a06-4fab-a349-7e5964c3b491"
-        }
-    ], 
+    "instrumentation_voicing": "ensemble instrumental", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "dd1886b1-4a06-4fab-a349-7e5964c3b491", 
+    "works": [
+        {
+            "mbid": "d4a4f918-c8ca-4d97-bbb0-fb40246caec2", 
+            "title": "\u00d6l\u00fcrsem Yaz\u0131kt\u0131r Sana Kanmadan"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "segah", 
@@ -57,11 +52,16 @@
             "name": "Aziz T\u00fcrk Sanat M\u00fczi\u011fi Grubu"
         }
     ], 
-    "instrumentation_voicing": "Ensemble instrumental", 
-    "works": [
+    "usul": [
         {
-            "mbid": "d4a4f918-c8ca-4d97-bbb0-fb40246caec2", 
-            "title": "\u00d6l\u00fcrsem Yaz\u0131kt\u0131r Sana Kanmadan"
+            "attribute_key": "murekkepnimsofyan", 
+            "mb_attribute": "M\u00fcrekkep Nimsofyan", 
+            "source": "http://musicbrainz.org/work/d4a4f918-c8ca-4d97-bbb0-fb40246caec2"
+        }, 
+        {
+            "attribute_key": "duyek", 
+            "mb_tag": "d\u00fcyek", 
+            "source": "http://musicbrainz.org/recording/dd1886b1-4a06-4fab-a349-7e5964c3b491"
         }
     ]
 }

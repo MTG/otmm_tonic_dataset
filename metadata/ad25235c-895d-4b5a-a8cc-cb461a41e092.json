@@ -1,5 +1,5 @@
 {
-    "usul": [], 
+    "instrumentation_voicing": "trio instrumental", 
     "form": [
         {
             "attribute_key": "pesrev", 
@@ -39,6 +39,12 @@
         }
     ], 
     "mbid": "ad25235c-895d-4b5a-a8cc-cb461a41e092", 
+    "works": [
+        {
+            "mbid": "ce39ab0b-069c-4cd2-9da4-cd78be083a77", 
+            "title": "Nihavent Pe\u015frev"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "nihavent", 
@@ -77,11 +83,5 @@
             "name": "U\u011fur I\u015f\u0131k"
         }
     ], 
-    "instrumentation_voicing": "Trio instrumental", 
-    "works": [
-        {
-            "mbid": "ce39ab0b-069c-4cd2-9da4-cd78be083a77", 
-            "title": "Nihavent Pe\u015frev"
-        }
-    ]
+    "usul": []
 }

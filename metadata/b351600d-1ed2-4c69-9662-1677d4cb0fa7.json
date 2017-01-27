@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "duyek", 
-            "mb_attribute": "D\u00fcyek", 
-            "source": "http://musicbrainz.org/work/a65b0979-5d5d-4f0e-9f33-8486f4b225b4"
-        }, 
-        {
-            "attribute_key": "duyek", 
-            "mb_tag": "d\u00fcyek", 
-            "source": "http://musicbrainz.org/recording/b351600d-1ed2-4c69-9662-1677d4cb0fa7"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "b351600d-1ed2-4c69-9662-1677d4cb0fa7", 
+    "works": [
+        {
+            "mbid": "a65b0979-5d5d-4f0e-9f33-8486f4b225b4", 
+            "title": "Derdi Ba\u015ftan Atal\u0131m"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "mahur", 
@@ -137,11 +132,16 @@
             "name": "Faik Dinleten"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "a65b0979-5d5d-4f0e-9f33-8486f4b225b4", 
-            "title": "Derdi Ba\u015ftan Atal\u0131m"
+            "attribute_key": "duyek", 
+            "mb_attribute": "D\u00fcyek", 
+            "source": "http://musicbrainz.org/work/a65b0979-5d5d-4f0e-9f33-8486f4b225b4"
+        }, 
+        {
+            "attribute_key": "duyek", 
+            "mb_tag": "d\u00fcyek", 
+            "source": "http://musicbrainz.org/recording/b351600d-1ed2-4c69-9662-1677d4cb0fa7"
         }
     ]
 }

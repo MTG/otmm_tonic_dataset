@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "curcuna", 
-            "mb_attribute": "Curcuna", 
-            "source": "http://musicbrainz.org/work/50c5fca0-f0e1-434f-9736-7f1805d91cda"
-        }, 
-        {
-            "attribute_key": "kapali_curcuna", 
-            "mb_tag": "curcuna", 
-            "source": "http://musicbrainz.org/recording/9d39fada-8614-48e2-9a2a-f94089d47acc"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "9d39fada-8614-48e2-9a2a-f94089d47acc", 
+    "works": [
+        {
+            "mbid": "50c5fca0-f0e1-434f-9736-7f1805d91cda", 
+            "title": "Pek Revad\u0131r Sevdi\u011fim"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "suzinak", 
@@ -62,11 +57,16 @@
             "name": "Bekir S\u0131dk\u0131 Sezgin"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "50c5fca0-f0e1-434f-9736-7f1805d91cda", 
-            "title": "Pek Revad\u0131r Sevdi\u011fim"
+            "attribute_key": "curcuna", 
+            "mb_attribute": "Curcuna", 
+            "source": "http://musicbrainz.org/work/50c5fca0-f0e1-434f-9736-7f1805d91cda"
+        }, 
+        {
+            "attribute_key": "kapali_curcuna", 
+            "mb_tag": "curcuna", 
+            "source": "http://musicbrainz.org/recording/9d39fada-8614-48e2-9a2a-f94089d47acc"
         }
     ]
 }

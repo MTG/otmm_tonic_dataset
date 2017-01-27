@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "sofyan", 
-            "mb_attribute": "Sofyan", 
-            "source": "http://musicbrainz.org/work/a2e9116f-55a2-3427-a140-09bd7a5b1bed"
-        }, 
-        {
-            "attribute_key": "sofyan", 
-            "mb_tag": "sofyan", 
-            "source": "http://musicbrainz.org/recording/5be58089-8726-4cbc-854d-f3d6a3e34a2b"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal without accompaniment", 
     "form": [
         {
             "attribute_key": "kanto", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "5be58089-8726-4cbc-854d-f3d6a3e34a2b", 
+    "works": [
+        {
+            "mbid": "a2e9116f-55a2-3427-a140-09bd7a5b1bed", 
+            "title": "Ada Sahilleri"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "hicaz", 
@@ -57,11 +52,16 @@
             "name": "Hamiyet Y\u00fcceses"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal without accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "a2e9116f-55a2-3427-a140-09bd7a5b1bed", 
-            "title": "Ada Sahilleri"
+            "attribute_key": "sofyan", 
+            "mb_attribute": "Sofyan", 
+            "source": "http://musicbrainz.org/work/a2e9116f-55a2-3427-a140-09bd7a5b1bed"
+        }, 
+        {
+            "attribute_key": "sofyan", 
+            "mb_tag": "sofyan", 
+            "source": "http://musicbrainz.org/recording/5be58089-8726-4cbc-854d-f3d6a3e34a2b"
         }
     ]
 }

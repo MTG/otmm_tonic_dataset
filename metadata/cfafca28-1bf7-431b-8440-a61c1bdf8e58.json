@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "devrihindi", 
-            "mb_attribute": "Devr-i Hindi", 
-            "source": "http://musicbrainz.org/work/03bb671c-fe18-4d0e-8560-faede3150f5c"
-        }, 
-        {
-            "attribute_key": "devrihindi", 
-            "mb_tag": "devr-i hindi", 
-            "source": "http://musicbrainz.org/recording/cfafca28-1bf7-431b-8440-a61c1bdf8e58"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "cfafca28-1bf7-431b-8440-a61c1bdf8e58", 
+    "works": [
+        {
+            "mbid": "03bb671c-fe18-4d0e-8560-faede3150f5c", 
+            "title": "Seyr-i Mehtab Edelim"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "acemkurdi", 
@@ -62,11 +57,16 @@
             "name": "Zeki M\u00fcren"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "03bb671c-fe18-4d0e-8560-faede3150f5c", 
-            "title": "Seyr-i Mehtab Edelim"
+            "attribute_key": "devrihindi", 
+            "mb_attribute": "Devr-i Hindi", 
+            "source": "http://musicbrainz.org/work/03bb671c-fe18-4d0e-8560-faede3150f5c"
+        }, 
+        {
+            "attribute_key": "devrihindi", 
+            "mb_tag": "devr-i hindi", 
+            "source": "http://musicbrainz.org/recording/cfafca28-1bf7-431b-8440-a61c1bdf8e58"
         }
     ]
 }

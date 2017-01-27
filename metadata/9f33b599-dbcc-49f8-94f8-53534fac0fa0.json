@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "curcuna", 
-            "mb_attribute": "Curcuna", 
-            "source": "http://musicbrainz.org/work/1447eb4e-b6c2-4076-96ae-384eacd092d6"
-        }, 
-        {
-            "attribute_key": "kapali_curcuna", 
-            "mb_tag": "curcuna", 
-            "source": "http://musicbrainz.org/recording/9f33b599-dbcc-49f8-94f8-53534fac0fa0"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal without accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "9f33b599-dbcc-49f8-94f8-53534fac0fa0", 
+    "works": [
+        {
+            "mbid": "1447eb4e-b6c2-4076-96ae-384eacd092d6", 
+            "title": "Sine-i Suzan\u0131ma Ah\u0131m Yeter"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "hicaz", 
@@ -57,11 +52,16 @@
             "name": "Safiye Ayla"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal without accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "1447eb4e-b6c2-4076-96ae-384eacd092d6", 
-            "title": "Sine-i Suzan\u0131ma Ah\u0131m Yeter"
+            "attribute_key": "curcuna", 
+            "mb_attribute": "Curcuna", 
+            "source": "http://musicbrainz.org/work/1447eb4e-b6c2-4076-96ae-384eacd092d6"
+        }, 
+        {
+            "attribute_key": "kapali_curcuna", 
+            "mb_tag": "curcuna", 
+            "source": "http://musicbrainz.org/recording/9f33b599-dbcc-49f8-94f8-53534fac0fa0"
         }
     ]
 }

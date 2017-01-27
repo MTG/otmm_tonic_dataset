@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "nimsofyan", 
-            "mb_attribute": "Nimsofyan", 
-            "source": "http://musicbrainz.org/work/a97cdd34-fd97-417e-be5a-ca48cf803f78"
-        }, 
-        {
-            "attribute_key": "nimsofyan", 
-            "mb_tag": "nimsofyan", 
-            "source": "http://musicbrainz.org/recording/6ced17ad-eb3a-48dd-8582-79c8809c31e5"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -42,6 +31,12 @@
         }
     ], 
     "mbid": "6ced17ad-eb3a-48dd-8582-79c8809c31e5", 
+    "works": [
+        {
+            "mbid": "a97cdd34-fd97-417e-be5a-ca48cf803f78", 
+            "title": "Kap\u0131ld\u0131m Gidiyorum Baht\u0131m\u0131n R\u00fczgar\u0131na"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "hicaz_humayun", 
@@ -69,11 +64,16 @@
             "name": "Erc\u00fcmend Batanay"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "a97cdd34-fd97-417e-be5a-ca48cf803f78", 
-            "title": "Kap\u0131ld\u0131m Gidiyorum Baht\u0131m\u0131n R\u00fczgar\u0131na"
+            "attribute_key": "nimsofyan", 
+            "mb_attribute": "Nimsofyan", 
+            "source": "http://musicbrainz.org/work/a97cdd34-fd97-417e-be5a-ca48cf803f78"
+        }, 
+        {
+            "attribute_key": "nimsofyan", 
+            "mb_tag": "nimsofyan", 
+            "source": "http://musicbrainz.org/recording/6ced17ad-eb3a-48dd-8582-79c8809c31e5"
         }
     ]
 }

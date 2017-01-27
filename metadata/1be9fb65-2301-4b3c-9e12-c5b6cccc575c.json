@@ -1,11 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "semai", 
-            "mb_attribute": "Semai", 
-            "source": "http://musicbrainz.org/work/6db3bc92-3d53-41ed-b80e-112a0b7d86b9"
-        }
-    ], 
+    "instrumentation_voicing": "choir", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -40,6 +34,12 @@
         }
     ], 
     "mbid": "1be9fb65-2301-4b3c-9e12-c5b6cccc575c", 
+    "works": [
+        {
+            "mbid": "6db3bc92-3d53-41ed-b80e-112a0b7d86b9", 
+            "title": "Yine Bir G\u00fcl-nihal Ald\u0131 Bu G\u00f6nl\u00fcm\u00fc"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "rast", 
@@ -133,11 +133,11 @@
             "name": "Sarper Ero\u011flu"
         }
     ], 
-    "instrumentation_voicing": "Choir", 
-    "works": [
+    "usul": [
         {
-            "mbid": "6db3bc92-3d53-41ed-b80e-112a0b7d86b9", 
-            "title": "Yine Bir G\u00fcl-nihal Ald\u0131 Bu G\u00f6nl\u00fcm\u00fc"
+            "attribute_key": "semai", 
+            "mb_attribute": "Semai", 
+            "source": "http://musicbrainz.org/work/6db3bc92-3d53-41ed-b80e-112a0b7d86b9"
         }
     ]
 }

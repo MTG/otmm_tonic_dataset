@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "devrihindi", 
-            "mb_attribute": "Devr-i Hindi", 
-            "source": "http://musicbrainz.org/work/b69ad650-f167-435c-8df4-32210ead0953"
-        }, 
-        {
-            "attribute_key": "devrihindi", 
-            "mb_tag": "devr-i hindi", 
-            "source": "http://musicbrainz.org/recording/ed00bf78-9cda-4d22-8c88-ae7e239d450e"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal without accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "ed00bf78-9cda-4d22-8c88-ae7e239d450e", 
+    "works": [
+        {
+            "mbid": "b69ad650-f167-435c-8df4-32210ead0953", 
+            "title": "Yar Senden Kal\u0131nca Ayr\u0131"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "nihavent", 
@@ -57,11 +52,16 @@
             "name": "M\u00fcnir Nurettin Sel\u00e7uk"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal without accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "b69ad650-f167-435c-8df4-32210ead0953", 
-            "title": "Yar Senden Kal\u0131nca Ayr\u0131"
+            "attribute_key": "devrihindi", 
+            "mb_attribute": "Devr-i Hindi", 
+            "source": "http://musicbrainz.org/work/b69ad650-f167-435c-8df4-32210ead0953"
+        }, 
+        {
+            "attribute_key": "devrihindi", 
+            "mb_tag": "devr-i hindi", 
+            "source": "http://musicbrainz.org/recording/ed00bf78-9cda-4d22-8c88-ae7e239d450e"
         }
     ]
 }

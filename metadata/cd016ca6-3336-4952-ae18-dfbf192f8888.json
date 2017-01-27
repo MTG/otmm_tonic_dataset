@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "senginsemai", 
-            "mb_attribute": "Senginsemai", 
-            "source": "http://musicbrainz.org/work/fee97313-d2ac-40dc-8675-46751b32b7f6"
-        }, 
-        {
-            "attribute_key": "senginsemai", 
-            "mb_tag": "senginsemai", 
-            "source": "http://musicbrainz.org/recording/cd016ca6-3336-4952-ae18-dfbf192f8888"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "cd016ca6-3336-4952-ae18-dfbf192f8888", 
+    "works": [
+        {
+            "mbid": "fee97313-d2ac-40dc-8675-46751b32b7f6", 
+            "title": "Hal-i Dilimi \u015eerh Edemem"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "suzinak_zirgule", 
@@ -62,11 +57,16 @@
             "name": "Zeki M\u00fcren"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "fee97313-d2ac-40dc-8675-46751b32b7f6", 
-            "title": "Hal-i Dilimi \u015eerh Edemem"
+            "attribute_key": "senginsemai", 
+            "mb_attribute": "Senginsemai", 
+            "source": "http://musicbrainz.org/work/fee97313-d2ac-40dc-8675-46751b32b7f6"
+        }, 
+        {
+            "attribute_key": "senginsemai", 
+            "mb_tag": "senginsemai", 
+            "source": "http://musicbrainz.org/recording/cd016ca6-3336-4952-ae18-dfbf192f8888"
         }
     ]
 }

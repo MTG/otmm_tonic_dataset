@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "sofyan", 
-            "mb_attribute": "Sofyan", 
-            "source": "http://musicbrainz.org/work/525d6a8e-3a60-462e-bea6-0a137216bb99"
-        }, 
-        {
-            "attribute_key": "sofyan", 
-            "mb_tag": "sofyan", 
-            "source": "http://musicbrainz.org/recording/ef2d13de-e3a5-4d90-b1ed-52bdd8df70b6"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "mars", 
@@ -42,6 +31,12 @@
         }
     ], 
     "mbid": "ef2d13de-e3a5-4d90-b1ed-52bdd8df70b6", 
+    "works": [
+        {
+            "mbid": "525d6a8e-3a60-462e-bea6-0a137216bb99", 
+            "title": "Vicdan\u0131 Muazzam Olan Osmanl\u0131y\u0131z Biz"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "hicazkar", 
@@ -66,11 +61,16 @@
             "name": "Riyaset-i Cumhur Fas\u0131l Heyeti"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "525d6a8e-3a60-462e-bea6-0a137216bb99", 
-            "title": "Vicdan\u0131 Muazzam Olan Osmanl\u0131y\u0131z Biz"
+            "attribute_key": "sofyan", 
+            "mb_attribute": "Sofyan", 
+            "source": "http://musicbrainz.org/work/525d6a8e-3a60-462e-bea6-0a137216bb99"
+        }, 
+        {
+            "attribute_key": "sofyan", 
+            "mb_tag": "sofyan", 
+            "source": "http://musicbrainz.org/recording/ef2d13de-e3a5-4d90-b1ed-52bdd8df70b6"
         }
     ]
 }

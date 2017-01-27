@@ -1,5 +1,11 @@
 {
-    "instrumentation_voicing": "Solo instrumental", 
+    "usul": [
+        {
+            "attribute_key": "serbest", 
+            "mb_tag": "serbest", 
+            "source": "http://musicbrainz.org/recording/96702cde-f5f4-4d05-b6b7-750dccb49078"
+        }
+    ], 
     "form": [
         {
             "attribute_key": "taksim", 
@@ -44,11 +50,5 @@
             "name": "Taner Sayac\u0131o\u011flu"
         }
     ], 
-    "usul": [
-        {
-            "attribute_key": "serbest", 
-            "mb_tag": "serbest", 
-            "source": "http://musicbrainz.org/recording/96702cde-f5f4-4d05-b6b7-750dccb49078"
-        }
-    ]
+    "instrumentation_voicing": "solo instrumental"
 }

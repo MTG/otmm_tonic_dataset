@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "curcuna", 
-            "mb_attribute": "Curcuna", 
-            "source": "http://musicbrainz.org/work/6d751be2-101e-4920-98ac-02195fd8c845"
-        }, 
-        {
-            "attribute_key": "kapali_curcuna", 
-            "mb_tag": "curcuna", 
-            "source": "http://musicbrainz.org/recording/24287777-8cda-4700-ab3a-b605ac227ec8"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "24287777-8cda-4700-ab3a-b605ac227ec8", 
+    "works": [
+        {
+            "mbid": "6d751be2-101e-4920-98ac-02195fd8c845", 
+            "title": "Yare Tesir Eylemi\u015f"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "suzinak", 
@@ -62,11 +57,16 @@
             "name": "Bekir S\u0131dk\u0131 Sezgin"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "6d751be2-101e-4920-98ac-02195fd8c845", 
-            "title": "Yare Tesir Eylemi\u015f"
+            "attribute_key": "curcuna", 
+            "mb_attribute": "Curcuna", 
+            "source": "http://musicbrainz.org/work/6d751be2-101e-4920-98ac-02195fd8c845"
+        }, 
+        {
+            "attribute_key": "kapali_curcuna", 
+            "mb_tag": "curcuna", 
+            "source": "http://musicbrainz.org/recording/24287777-8cda-4700-ab3a-b605ac227ec8"
         }
     ]
 }

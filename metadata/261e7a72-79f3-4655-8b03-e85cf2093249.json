@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "semai", 
-            "mb_attribute": "Semai", 
-            "source": "http://musicbrainz.org/work/8d35da02-a82d-4c5f-8bb8-fdc3600bfc4c"
-        }, 
-        {
-            "attribute_key": "semai", 
-            "mb_tag": "semai", 
-            "source": "http://musicbrainz.org/recording/261e7a72-79f3-4655-8b03-e85cf2093249"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "261e7a72-79f3-4655-8b03-e85cf2093249", 
+    "works": [
+        {
+            "mbid": "8d35da02-a82d-4c5f-8bb8-fdc3600bfc4c", 
+            "title": "A\u011flam\u0131\u015f\u0131m G\u00fclm\u00fc\u015f\u00fcm"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "hicaz", 
@@ -225,11 +220,16 @@
             "name": "Bekir \u00dcnl\u00fcataer"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "8d35da02-a82d-4c5f-8bb8-fdc3600bfc4c", 
-            "title": "A\u011flam\u0131\u015f\u0131m G\u00fclm\u00fc\u015f\u00fcm"
+            "attribute_key": "semai", 
+            "mb_attribute": "Semai", 
+            "source": "http://musicbrainz.org/work/8d35da02-a82d-4c5f-8bb8-fdc3600bfc4c"
+        }, 
+        {
+            "attribute_key": "semai", 
+            "mb_tag": "semai", 
+            "source": "http://musicbrainz.org/recording/261e7a72-79f3-4655-8b03-e85cf2093249"
         }
     ]
 }

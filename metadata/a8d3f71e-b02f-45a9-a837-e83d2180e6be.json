@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "cengiharbi", 
-            "mb_attribute": "\u00c7eng-i Harbi", 
-            "source": "http://musicbrainz.org/work/68bb4bc3-f03e-4604-81e2-cb04dc2e5ed1"
-        }, 
-        {
-            "attribute_key": "cengiharbi", 
-            "mb_tag": "\u00e7eng-i harbi", 
-            "source": "http://musicbrainz.org/recording/a8d3f71e-b02f-45a9-a837-e83d2180e6be"
-        }
-    ], 
+    "instrumentation_voicing": "ensemble instrumental", 
     "form": [
         {
             "attribute_key": "mehter", 
@@ -33,6 +22,12 @@
         }
     ], 
     "mbid": "a8d3f71e-b02f-45a9-a837-e83d2180e6be", 
+    "works": [
+        {
+            "mbid": "68bb4bc3-f03e-4604-81e2-cb04dc2e5ed1", 
+            "title": "Neva \u00c7eng-i Harbi"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "neva", 
@@ -52,11 +47,16 @@
             "name": "Sarband"
         }
     ], 
-    "instrumentation_voicing": "Ensemble instrumental", 
-    "works": [
+    "usul": [
         {
-            "mbid": "68bb4bc3-f03e-4604-81e2-cb04dc2e5ed1", 
-            "title": "Neva \u00c7eng-i Harbi"
+            "attribute_key": "cengiharbi", 
+            "mb_attribute": "\u00c7eng-i Harbi", 
+            "source": "http://musicbrainz.org/work/68bb4bc3-f03e-4604-81e2-cb04dc2e5ed1"
+        }, 
+        {
+            "attribute_key": "cengiharbi", 
+            "mb_tag": "\u00e7eng-i harbi", 
+            "source": "http://musicbrainz.org/recording/a8d3f71e-b02f-45a9-a837-e83d2180e6be"
         }
     ]
 }

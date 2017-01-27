@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "aksaksemai", 
-            "mb_attribute": "Aksaksemai", 
-            "source": "http://musicbrainz.org/work/2b669eab-9326-4737-a947-19148c9877ff"
-        }, 
-        {
-            "attribute_key": "aksaksemai", 
-            "mb_tag": "aksaksemai", 
-            "source": "http://musicbrainz.org/recording/ed2d8f24-e7ba-4cf7-b43f-3e0773d853b9"
-        }
-    ], 
+    "instrumentation_voicing": "ensemble instrumental", 
     "form": [
         {
             "attribute_key": "sazsemaisi", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "ed2d8f24-e7ba-4cf7-b43f-3e0773d853b9", 
+    "works": [
+        {
+            "mbid": "2b669eab-9326-4737-a947-19148c9877ff", 
+            "title": "Bestenigar Sazsemaisi"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "bestenigar", 
@@ -84,11 +79,16 @@
             "name": "U\u011fur I\u015f\u0131k"
         }
     ], 
-    "instrumentation_voicing": "Ensemble instrumental", 
-    "works": [
+    "usul": [
         {
-            "mbid": "2b669eab-9326-4737-a947-19148c9877ff", 
-            "title": "Bestenigar Sazsemaisi"
+            "attribute_key": "aksaksemai", 
+            "mb_attribute": "Aksaksemai", 
+            "source": "http://musicbrainz.org/work/2b669eab-9326-4737-a947-19148c9877ff"
+        }, 
+        {
+            "attribute_key": "aksaksemai", 
+            "mb_tag": "aksaksemai", 
+            "source": "http://musicbrainz.org/recording/ed2d8f24-e7ba-4cf7-b43f-3e0773d853b9"
         }
     ]
 }

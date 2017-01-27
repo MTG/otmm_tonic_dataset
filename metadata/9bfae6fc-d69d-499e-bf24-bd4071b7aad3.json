@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "duyek", 
-            "mb_attribute": "D\u00fcyek", 
-            "source": "http://musicbrainz.org/work/80edbef5-81f2-4703-8187-7b54ac17f77a"
-        }, 
-        {
-            "attribute_key": "duyek", 
-            "mb_tag": "d\u00fcyek", 
-            "source": "http://musicbrainz.org/recording/9bfae6fc-d69d-499e-bf24-bd4071b7aad3"
-        }
-    ], 
+    "instrumentation_voicing": "duet", 
     "form": [
         {
             "attribute_key": "tevsihilahi", 
@@ -42,6 +31,12 @@
         }
     ], 
     "mbid": "9bfae6fc-d69d-499e-bf24-bd4071b7aad3", 
+    "works": [
+        {
+            "mbid": "80edbef5-81f2-4703-8187-7b54ac17f77a", 
+            "title": "Sana Ey \u015eah-\u0131 Rus\u00fcl Uymayan\u0131n Bitmez \u0130\u015fi"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "beyati", 
@@ -130,11 +125,16 @@
             "name": "\u00d6zer \u00d6zel"
         }
     ], 
-    "instrumentation_voicing": "Duet", 
-    "works": [
+    "usul": [
         {
-            "mbid": "80edbef5-81f2-4703-8187-7b54ac17f77a", 
-            "title": "Sana Ey \u015eah-\u0131 Rus\u00fcl Uymayan\u0131n Bitmez \u0130\u015fi"
+            "attribute_key": "duyek", 
+            "mb_attribute": "D\u00fcyek", 
+            "source": "http://musicbrainz.org/work/80edbef5-81f2-4703-8187-7b54ac17f77a"
+        }, 
+        {
+            "attribute_key": "duyek", 
+            "mb_tag": "d\u00fcyek", 
+            "source": "http://musicbrainz.org/recording/9bfae6fc-d69d-499e-bf24-bd4071b7aad3"
         }
     ]
 }

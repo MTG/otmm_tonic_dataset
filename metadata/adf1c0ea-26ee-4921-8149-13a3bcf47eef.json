@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "nimhafif", 
-            "mb_attribute": "Nimhafif", 
-            "source": "http://musicbrainz.org/work/589ff4cb-d9a5-4b3f-8c04-1e48f59a24b5"
-        }, 
-        {
-            "attribute_key": "nimhafif", 
-            "mb_tag": "nimhafif", 
-            "source": "http://musicbrainz.org/recording/adf1c0ea-26ee-4921-8149-13a3bcf47eef"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal without accompaniment", 
     "form": [
         {
             "attribute_key": "mars", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "adf1c0ea-26ee-4921-8149-13a3bcf47eef", 
+    "works": [
+        {
+            "mbid": "589ff4cb-d9a5-4b3f-8c04-1e48f59a24b5", 
+            "title": "Vur Pen\u00e7e-i Ali'deki"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "mahur", 
@@ -57,11 +52,16 @@
             "name": "M\u00fcnir Nurettin Sel\u00e7uk"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal without accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "589ff4cb-d9a5-4b3f-8c04-1e48f59a24b5", 
-            "title": "Vur Pen\u00e7e-i Ali'deki"
+            "attribute_key": "nimhafif", 
+            "mb_attribute": "Nimhafif", 
+            "source": "http://musicbrainz.org/work/589ff4cb-d9a5-4b3f-8c04-1e48f59a24b5"
+        }, 
+        {
+            "attribute_key": "nimhafif", 
+            "mb_tag": "nimhafif", 
+            "source": "http://musicbrainz.org/recording/adf1c0ea-26ee-4921-8149-13a3bcf47eef"
         }
     ]
 }

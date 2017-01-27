@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "curcuna", 
-            "mb_attribute": "Curcuna", 
-            "source": "http://musicbrainz.org/work/f9611c86-c656-4ca9-a536-5d6e11217637"
-        }, 
-        {
-            "attribute_key": "kapali_curcuna", 
-            "mb_tag": "curcuna", 
-            "source": "http://musicbrainz.org/recording/d35e07f4-fbf5-4efb-8a36-721565fa8044"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal without accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "d35e07f4-fbf5-4efb-8a36-721565fa8044", 
+    "works": [
+        {
+            "mbid": "f9611c86-c656-4ca9-a536-5d6e11217637", 
+            "title": "S\u00fczd\u00fck\u00e7e G\u00fczel G\u00f6zlerini"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "saba", 
@@ -57,11 +52,16 @@
             "name": "Tahir Engin \u0130\u00e7\u00f6z"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal without accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "f9611c86-c656-4ca9-a536-5d6e11217637", 
-            "title": "S\u00fczd\u00fck\u00e7e G\u00fczel G\u00f6zlerini"
+            "attribute_key": "curcuna", 
+            "mb_attribute": "Curcuna", 
+            "source": "http://musicbrainz.org/work/f9611c86-c656-4ca9-a536-5d6e11217637"
+        }, 
+        {
+            "attribute_key": "kapali_curcuna", 
+            "mb_tag": "curcuna", 
+            "source": "http://musicbrainz.org/recording/d35e07f4-fbf5-4efb-8a36-721565fa8044"
         }
     ]
 }

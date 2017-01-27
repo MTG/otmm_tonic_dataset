@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "remel", 
-            "mb_attribute": "Remel", 
-            "source": "http://musicbrainz.org/work/6edb594f-e758-478a-aeca-f4c41b3eb080"
-        }, 
-        {
-            "attribute_key": "remel", 
-            "mb_tag": "remel", 
-            "source": "http://musicbrainz.org/recording/8124c746-d494-48f8-9894-9851382e3304"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal without accompaniment", 
     "form": [
         {
             "attribute_key": "beste", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "8124c746-d494-48f8-9894-9851382e3304", 
+    "works": [
+        {
+            "mbid": "6edb594f-e758-478a-aeca-f4c41b3eb080", 
+            "title": "Dildar \u0130\u015fitip Velvele-i Efgan\u0131m"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "acemkurdi", 
@@ -57,11 +52,16 @@
             "name": "Kani Karaca"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal without accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "6edb594f-e758-478a-aeca-f4c41b3eb080", 
-            "title": "Dildar \u0130\u015fitip Velvele-i Efgan\u0131m"
+            "attribute_key": "remel", 
+            "mb_attribute": "Remel", 
+            "source": "http://musicbrainz.org/work/6edb594f-e758-478a-aeca-f4c41b3eb080"
+        }, 
+        {
+            "attribute_key": "remel", 
+            "mb_tag": "remel", 
+            "source": "http://musicbrainz.org/recording/8124c746-d494-48f8-9894-9851382e3304"
         }
     ]
 }

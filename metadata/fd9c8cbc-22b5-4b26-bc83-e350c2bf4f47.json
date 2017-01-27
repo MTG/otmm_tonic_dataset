@@ -1,5 +1,11 @@
 {
-    "instrumentation_voicing": "Solo instrumental", 
+    "usul": [
+        {
+            "attribute_key": "serbest", 
+            "mb_tag": "serbest", 
+            "source": "http://musicbrainz.org/recording/fd9c8cbc-22b5-4b26-bc83-e350c2bf4f47"
+        }
+    ], 
     "form": [
         {
             "attribute_key": "taksim", 
@@ -39,11 +45,5 @@
             "name": "C\u00fcneyt Kosal"
         }
     ], 
-    "usul": [
-        {
-            "attribute_key": "serbest", 
-            "mb_tag": "serbest", 
-            "source": "http://musicbrainz.org/recording/fd9c8cbc-22b5-4b26-bc83-e350c2bf4f47"
-        }
-    ]
+    "instrumentation_voicing": "solo instrumental"
 }

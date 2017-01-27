@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "agiraksak", 
-            "mb_attribute": "A\u011f\u0131raksak", 
-            "source": "http://musicbrainz.org/work/43c385bc-94e8-494b-985b-ad83ca081f29"
-        }, 
-        {
-            "attribute_key": "agiraksak", 
-            "mb_tag": "a\u011f\u0131raksak", 
-            "source": "http://musicbrainz.org/recording/61fdd14c-5a46-496c-a2c6-4a2efd04fba7"
-        }
-    ], 
+    "instrumentation_voicing": "ensemble instrumental", 
     "form": [
         {
             "attribute_key": "zeybek", 
@@ -42,6 +31,12 @@
         }
     ], 
     "mbid": "61fdd14c-5a46-496c-a2c6-4a2efd04fba7", 
+    "works": [
+        {
+            "mbid": "43c385bc-94e8-494b-985b-ad83ca081f29", 
+            "title": "Ya\u011fc\u0131lar Zeybe\u011fi"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "hicazkar", 
@@ -105,11 +100,16 @@
             "name": "U\u011fur I\u015f\u0131k"
         }
     ], 
-    "instrumentation_voicing": "Ensemble instrumental", 
-    "works": [
+    "usul": [
         {
-            "mbid": "43c385bc-94e8-494b-985b-ad83ca081f29", 
-            "title": "Ya\u011fc\u0131lar Zeybe\u011fi"
+            "attribute_key": "agiraksak", 
+            "mb_attribute": "A\u011f\u0131raksak", 
+            "source": "http://musicbrainz.org/work/43c385bc-94e8-494b-985b-ad83ca081f29"
+        }, 
+        {
+            "attribute_key": "agiraksak", 
+            "mb_tag": "a\u011f\u0131raksak", 
+            "source": "http://musicbrainz.org/recording/61fdd14c-5a46-496c-a2c6-4a2efd04fba7"
         }
     ]
 }

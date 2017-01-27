@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "curcuna", 
-            "mb_attribute": "Curcuna", 
-            "source": "http://musicbrainz.org/work/1da18db5-06a6-4680-b69a-041521926047"
-        }, 
-        {
-            "attribute_key": "kapali_curcuna", 
-            "mb_tag": "curcuna", 
-            "source": "http://musicbrainz.org/recording/474ae22b-5e50-42c3-971e-63c8f423d382"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "aranagme", 
@@ -54,6 +43,12 @@
         }
     ], 
     "mbid": "474ae22b-5e50-42c3-971e-63c8f423d382", 
+    "works": [
+        {
+            "mbid": "1da18db5-06a6-4680-b69a-041521926047", 
+            "title": "H\u00fcseyni Arana\u011fme (K\u00fcpe)"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "huseyni", 
@@ -106,11 +101,16 @@
             "name": "Sava\u015f \u015e. Bark\u00e7in"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "1da18db5-06a6-4680-b69a-041521926047", 
-            "title": "H\u00fcseyni Arana\u011fme (K\u00fcpe)"
+            "attribute_key": "curcuna", 
+            "mb_attribute": "Curcuna", 
+            "source": "http://musicbrainz.org/work/1da18db5-06a6-4680-b69a-041521926047"
+        }, 
+        {
+            "attribute_key": "kapali_curcuna", 
+            "mb_tag": "curcuna", 
+            "source": "http://musicbrainz.org/recording/474ae22b-5e50-42c3-971e-63c8f423d382"
         }
     ]
 }

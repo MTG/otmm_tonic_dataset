@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "aksak", 
-            "mb_attribute": "Aksak", 
-            "source": "http://musicbrainz.org/work/79e5a24b-0a93-4a4b-b892-359cb7fbaf5f"
-        }, 
-        {
-            "attribute_key": "aksak", 
-            "mb_tag": "aksak", 
-            "source": "http://musicbrainz.org/recording/271f1990-cf6d-48e4-ae7f-5a1ebca6dce5"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "271f1990-cf6d-48e4-ae7f-5a1ebca6dce5", 
+    "works": [
+        {
+            "mbid": "79e5a24b-0a93-4a4b-b892-359cb7fbaf5f", 
+            "title": "Da\u011flar Dayanmaz Eninine"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "ussak", 
@@ -62,11 +57,16 @@
             "name": "Bekir S\u0131dk\u0131 Sezgin"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "79e5a24b-0a93-4a4b-b892-359cb7fbaf5f", 
-            "title": "Da\u011flar Dayanmaz Eninine"
+            "attribute_key": "aksak", 
+            "mb_attribute": "Aksak", 
+            "source": "http://musicbrainz.org/work/79e5a24b-0a93-4a4b-b892-359cb7fbaf5f"
+        }, 
+        {
+            "attribute_key": "aksak", 
+            "mb_tag": "aksak", 
+            "source": "http://musicbrainz.org/recording/271f1990-cf6d-48e4-ae7f-5a1ebca6dce5"
         }
     ]
 }

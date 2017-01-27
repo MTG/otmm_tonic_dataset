@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "aksaksemai", 
-            "mb_attribute": "Aksaksemai", 
-            "source": "http://musicbrainz.org/work/e5dab1af-791a-4dd8-a150-bbf5bf3285c1"
-        }, 
-        {
-            "attribute_key": "aksaksemai", 
-            "mb_tag": "aksaksemai", 
-            "source": "http://musicbrainz.org/recording/925dcd71-2d28-4f63-9e16-bb612c8786ce"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "925dcd71-2d28-4f63-9e16-bb612c8786ce", 
+    "works": [
+        {
+            "mbid": "e5dab1af-791a-4dd8-a150-bbf5bf3285c1", 
+            "title": "Y\u0131llarca Yaz\u0131k Bo\u015f Yere"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "hicaz", 
@@ -153,11 +148,16 @@
             "name": "\u00dcmit G\u00fcrelman"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "e5dab1af-791a-4dd8-a150-bbf5bf3285c1", 
-            "title": "Y\u0131llarca Yaz\u0131k Bo\u015f Yere"
+            "attribute_key": "aksaksemai", 
+            "mb_attribute": "Aksaksemai", 
+            "source": "http://musicbrainz.org/work/e5dab1af-791a-4dd8-a150-bbf5bf3285c1"
+        }, 
+        {
+            "attribute_key": "aksaksemai", 
+            "mb_tag": "aksaksemai", 
+            "source": "http://musicbrainz.org/recording/925dcd71-2d28-4f63-9e16-bb612c8786ce"
         }
     ]
 }

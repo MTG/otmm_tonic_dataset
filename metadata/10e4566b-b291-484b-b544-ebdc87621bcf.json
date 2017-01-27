@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "darbifetih", 
-            "mb_attribute": "Darb-\u0131 Fetih", 
-            "source": "http://musicbrainz.org/work/98e04d11-0dee-4aab-a39a-50928158eb59"
-        }, 
-        {
-            "attribute_key": "darbifetih", 
-            "mb_tag": "darb-\u0131 fetih", 
-            "source": "http://musicbrainz.org/recording/10e4566b-b291-484b-b544-ebdc87621bcf"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "beste", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "10e4566b-b291-484b-b544-ebdc87621bcf", 
+    "works": [
+        {
+            "mbid": "98e04d11-0dee-4aab-a39a-50928158eb59", 
+            "title": "Gamzen Ki Ola Saki"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "bestenigar", 
@@ -105,11 +100,16 @@
             "name": "Mehmet Refik Kaya"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "98e04d11-0dee-4aab-a39a-50928158eb59", 
-            "title": "Gamzen Ki Ola Saki"
+            "attribute_key": "darbifetih", 
+            "mb_attribute": "Darb-\u0131 Fetih", 
+            "source": "http://musicbrainz.org/work/98e04d11-0dee-4aab-a39a-50928158eb59"
+        }, 
+        {
+            "attribute_key": "darbifetih", 
+            "mb_tag": "darb-\u0131 fetih", 
+            "source": "http://musicbrainz.org/recording/10e4566b-b291-484b-b544-ebdc87621bcf"
         }
     ]
 }

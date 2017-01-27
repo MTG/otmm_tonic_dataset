@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "hafif", 
-            "mb_attribute": "Hafif", 
-            "source": "http://musicbrainz.org/work/507d863a-6c39-4cb6-a0bc-61d9751578b2"
-        }, 
-        {
-            "attribute_key": "hafif", 
-            "mb_tag": "hafif", 
-            "source": "http://musicbrainz.org/recording/5e578396-0ea2-49e0-9859-440b590a19f9"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "beste", 
@@ -54,6 +43,12 @@
         }
     ], 
     "mbid": "5e578396-0ea2-49e0-9859-440b590a19f9", 
+    "works": [
+        {
+            "mbid": "507d863a-6c39-4cb6-a0bc-61d9751578b2", 
+            "title": "Ney Neva Eyler"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "ussak", 
@@ -106,11 +101,16 @@
             "name": "Sava\u015f \u015e. Bark\u00e7in"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "507d863a-6c39-4cb6-a0bc-61d9751578b2", 
-            "title": "Ney Neva Eyler"
+            "attribute_key": "hafif", 
+            "mb_attribute": "Hafif", 
+            "source": "http://musicbrainz.org/work/507d863a-6c39-4cb6-a0bc-61d9751578b2"
+        }, 
+        {
+            "attribute_key": "hafif", 
+            "mb_tag": "hafif", 
+            "source": "http://musicbrainz.org/recording/5e578396-0ea2-49e0-9859-440b590a19f9"
         }
     ]
 }

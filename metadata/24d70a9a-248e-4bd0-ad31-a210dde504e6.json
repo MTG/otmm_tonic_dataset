@@ -1,5 +1,11 @@
 {
-    "instrumentation_voicing": "Ensemble instrumental", 
+    "usul": [
+        {
+            "attribute_key": "serbest", 
+            "mb_tag": "serbest", 
+            "source": "http://musicbrainz.org/recording/24d70a9a-248e-4bd0-ad31-a210dde504e6"
+        }
+    ], 
     "form": [
         {
             "attribute_key": "taksim", 
@@ -36,11 +42,5 @@
             "name": "Aziz T\u00fcrk Sanat M\u00fczi\u011fi Grubu"
         }
     ], 
-    "usul": [
-        {
-            "attribute_key": "serbest", 
-            "mb_tag": "serbest", 
-            "source": "http://musicbrainz.org/recording/24d70a9a-248e-4bd0-ad31-a210dde504e6"
-        }
-    ]
+    "instrumentation_voicing": "ensemble instrumental"
 }

@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "curcuna", 
-            "mb_attribute": "Curcuna", 
-            "source": "http://musicbrainz.org/work/5fe97db5-f8c0-4e3a-bab8-c578173cae3c"
-        }, 
-        {
-            "attribute_key": "kapali_curcuna", 
-            "mb_tag": "curcuna", 
-            "source": "http://musicbrainz.org/recording/a8ff9420-e55f-4af7-9089-3fe29686bc54"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "turku", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "a8ff9420-e55f-4af7-9089-3fe29686bc54", 
+    "works": [
+        {
+            "mbid": "5fe97db5-f8c0-4e3a-bab8-c578173cae3c", 
+            "title": "Sar\u0131 Gelin"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "huseyni", 
@@ -65,11 +60,16 @@
             "name": "Malatyal\u0131 Fahri Kayahan"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "5fe97db5-f8c0-4e3a-bab8-c578173cae3c", 
-            "title": "Sar\u0131 Gelin"
+            "attribute_key": "curcuna", 
+            "mb_attribute": "Curcuna", 
+            "source": "http://musicbrainz.org/work/5fe97db5-f8c0-4e3a-bab8-c578173cae3c"
+        }, 
+        {
+            "attribute_key": "kapali_curcuna", 
+            "mb_tag": "curcuna", 
+            "source": "http://musicbrainz.org/recording/a8ff9420-e55f-4af7-9089-3fe29686bc54"
         }
     ]
 }

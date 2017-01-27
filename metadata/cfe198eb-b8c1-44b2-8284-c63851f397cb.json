@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "agirduyek", 
-            "mb_attribute": "A\u011f\u0131rd\u00fcyek", 
-            "source": "http://musicbrainz.org/work/5ee47b4f-b88d-4006-8df0-0b9c472cd145"
-        }, 
-        {
-            "attribute_key": "agirduyek", 
-            "mb_tag": "a\u011f\u0131rd\u00fcyek", 
-            "source": "http://musicbrainz.org/recording/cfe198eb-b8c1-44b2-8284-c63851f397cb"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal without accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "cfe198eb-b8c1-44b2-8284-c63851f397cb", 
+    "works": [
+        {
+            "mbid": "5ee47b4f-b88d-4006-8df0-0b9c472cd145", 
+            "title": "Uzun Sa\u00e7lar\u0131n"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "kurdilihicazkar", 
@@ -57,11 +52,16 @@
             "name": "Haf\u0131z Ahmed Bey"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal without accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "5ee47b4f-b88d-4006-8df0-0b9c472cd145", 
-            "title": "Uzun Sa\u00e7lar\u0131n"
+            "attribute_key": "agirduyek", 
+            "mb_attribute": "A\u011f\u0131rd\u00fcyek", 
+            "source": "http://musicbrainz.org/work/5ee47b4f-b88d-4006-8df0-0b9c472cd145"
+        }, 
+        {
+            "attribute_key": "agirduyek", 
+            "mb_tag": "a\u011f\u0131rd\u00fcyek", 
+            "source": "http://musicbrainz.org/recording/cfe198eb-b8c1-44b2-8284-c63851f397cb"
         }
     ]
 }

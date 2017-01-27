@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "evfer", 
-            "mb_attribute": "Evfer", 
-            "source": "http://musicbrainz.org/work/1bcdf477-fe54-4ba3-befe-5b6caf2879a9"
-        }, 
-        {
-            "attribute_key": "evfer", 
-            "mb_tag": "evfer", 
-            "source": "http://musicbrainz.org/recording/6d97f1f8-5f05-4c5c-b1ab-2757fdc3e746"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "6d97f1f8-5f05-4c5c-b1ab-2757fdc3e746", 
+    "works": [
+        {
+            "mbid": "1bcdf477-fe54-4ba3-befe-5b6caf2879a9", 
+            "title": "Yand\u0131k\u00e7a Oldu Suzan"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "suzidil", 
@@ -62,11 +57,16 @@
             "name": "Bekir S\u0131dk\u0131 Sezgin"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "1bcdf477-fe54-4ba3-befe-5b6caf2879a9", 
-            "title": "Yand\u0131k\u00e7a Oldu Suzan"
+            "attribute_key": "evfer", 
+            "mb_attribute": "Evfer", 
+            "source": "http://musicbrainz.org/work/1bcdf477-fe54-4ba3-befe-5b6caf2879a9"
+        }, 
+        {
+            "attribute_key": "evfer", 
+            "mb_tag": "evfer", 
+            "source": "http://musicbrainz.org/recording/6d97f1f8-5f05-4c5c-b1ab-2757fdc3e746"
         }
     ]
 }

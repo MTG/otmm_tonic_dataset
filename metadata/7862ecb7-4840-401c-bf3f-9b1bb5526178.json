@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "aksak", 
-            "mb_attribute": "Aksak", 
-            "source": "http://musicbrainz.org/work/2716d7d6-1f21-4d2e-9248-fd1c71ddb7d0"
-        }, 
-        {
-            "attribute_key": "aksak", 
-            "mb_tag": "aksak", 
-            "source": "http://musicbrainz.org/recording/7862ecb7-4840-401c-bf3f-9b1bb5526178"
-        }
-    ], 
+    "instrumentation_voicing": "choir", 
     "form": [
         {
             "attribute_key": "turku", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "7862ecb7-4840-401c-bf3f-9b1bb5526178", 
+    "works": [
+        {
+            "mbid": "2716d7d6-1f21-4d2e-9248-fd1c71ddb7d0", 
+            "title": "Fesle\u011fen Ektim G\u00fcl Bitti"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "isfahan", 
@@ -558,11 +553,16 @@
             "name": "Nebahat Konu"
         }
     ], 
-    "instrumentation_voicing": "Choir", 
-    "works": [
+    "usul": [
         {
-            "mbid": "2716d7d6-1f21-4d2e-9248-fd1c71ddb7d0", 
-            "title": "Fesle\u011fen Ektim G\u00fcl Bitti"
+            "attribute_key": "aksak", 
+            "mb_attribute": "Aksak", 
+            "source": "http://musicbrainz.org/work/2716d7d6-1f21-4d2e-9248-fd1c71ddb7d0"
+        }, 
+        {
+            "attribute_key": "aksak", 
+            "mb_tag": "aksak", 
+            "source": "http://musicbrainz.org/recording/7862ecb7-4840-401c-bf3f-9b1bb5526178"
         }
     ]
 }

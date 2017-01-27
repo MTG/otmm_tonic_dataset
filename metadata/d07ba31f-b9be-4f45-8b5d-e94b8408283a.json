@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "curcuna", 
-            "mb_attribute": "Curcuna", 
-            "source": "http://musicbrainz.org/work/6cc2d45a-6bd4-41ab-a5d3-8dafb3fbe47b"
-        }, 
-        {
-            "attribute_key": "kapali_curcuna", 
-            "mb_tag": "curcuna", 
-            "source": "http://musicbrainz.org/recording/d07ba31f-b9be-4f45-8b5d-e94b8408283a"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "d07ba31f-b9be-4f45-8b5d-e94b8408283a", 
+    "works": [
+        {
+            "mbid": "6cc2d45a-6bd4-41ab-a5d3-8dafb3fbe47b", 
+            "title": "Sana Gizli Bir Diyece\u011fim Var"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "nihavent", 
@@ -225,11 +220,16 @@
             "name": "Tar\u0131k Kemanc\u0131"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "6cc2d45a-6bd4-41ab-a5d3-8dafb3fbe47b", 
-            "title": "Sana Gizli Bir Diyece\u011fim Var"
+            "attribute_key": "curcuna", 
+            "mb_attribute": "Curcuna", 
+            "source": "http://musicbrainz.org/work/6cc2d45a-6bd4-41ab-a5d3-8dafb3fbe47b"
+        }, 
+        {
+            "attribute_key": "kapali_curcuna", 
+            "mb_tag": "curcuna", 
+            "source": "http://musicbrainz.org/recording/d07ba31f-b9be-4f45-8b5d-e94b8408283a"
         }
     ]
 }

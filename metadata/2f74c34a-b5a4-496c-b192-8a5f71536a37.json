@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "nimsofyan", 
-            "mb_attribute": "Nimsofyan", 
-            "source": "http://musicbrainz.org/work/56fee550-2348-4275-a969-5ddc9ff112c8"
-        }, 
-        {
-            "attribute_key": "nimsofyan", 
-            "mb_tag": "nimsofyan", 
-            "source": "http://musicbrainz.org/recording/2f74c34a-b5a4-496c-b192-8a5f71536a37"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "2f74c34a-b5a4-496c-b192-8a5f71536a37", 
+    "works": [
+        {
+            "mbid": "56fee550-2348-4275-a969-5ddc9ff112c8", 
+            "title": "Sen \u015eark\u0131 S\u00f6yledi\u011fin Zaman"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "sultaniyegah", 
@@ -62,11 +57,16 @@
             "name": "[unknown]"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "56fee550-2348-4275-a969-5ddc9ff112c8", 
-            "title": "Sen \u015eark\u0131 S\u00f6yledi\u011fin Zaman"
+            "attribute_key": "nimsofyan", 
+            "mb_attribute": "Nimsofyan", 
+            "source": "http://musicbrainz.org/work/56fee550-2348-4275-a969-5ddc9ff112c8"
+        }, 
+        {
+            "attribute_key": "nimsofyan", 
+            "mb_tag": "nimsofyan", 
+            "source": "http://musicbrainz.org/recording/2f74c34a-b5a4-496c-b192-8a5f71536a37"
         }
     ]
 }

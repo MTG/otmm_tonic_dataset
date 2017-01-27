@@ -1,21 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "muhammes", 
-            "mb_attribute": "Muhammes", 
-            "source": "http://musicbrainz.org/work/23be9bbb-6060-4c43-810c-fadd1d9c0e2b"
-        }, 
-        {
-            "attribute_key": "devrirevan", 
-            "mb_attribute": "Devr-i Revan", 
-            "source": "http://musicbrainz.org/work/23be9bbb-6060-4c43-810c-fadd1d9c0e2b"
-        }, 
-        {
-            "attribute_key": "devrirevan", 
-            "mb_tag": "devr-i revan", 
-            "source": "http://musicbrainz.org/recording/e2ff4b7d-7929-4413-ae2e-f7c4f180403a"
-        }
-    ], 
+    "instrumentation_voicing": "trio instrumental", 
     "form": [
         {
             "attribute_key": "pesrev", 
@@ -51,6 +35,12 @@
         }
     ], 
     "mbid": "e2ff4b7d-7929-4413-ae2e-f7c4f180403a", 
+    "works": [
+        {
+            "mbid": "23be9bbb-6060-4c43-810c-fadd1d9c0e2b", 
+            "title": "Rast Pe\u015frev"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "rast", 
@@ -89,11 +79,21 @@
             "name": "U\u011fur I\u015f\u0131k"
         }
     ], 
-    "instrumentation_voicing": "Trio instrumental", 
-    "works": [
+    "usul": [
         {
-            "mbid": "23be9bbb-6060-4c43-810c-fadd1d9c0e2b", 
-            "title": "Rast Pe\u015frev"
+            "attribute_key": "muhammes", 
+            "mb_attribute": "Muhammes", 
+            "source": "http://musicbrainz.org/work/23be9bbb-6060-4c43-810c-fadd1d9c0e2b"
+        }, 
+        {
+            "attribute_key": "devrirevan", 
+            "mb_attribute": "Devr-i Revan", 
+            "source": "http://musicbrainz.org/work/23be9bbb-6060-4c43-810c-fadd1d9c0e2b"
+        }, 
+        {
+            "attribute_key": "devrirevan", 
+            "mb_tag": "devr-i revan", 
+            "source": "http://musicbrainz.org/recording/e2ff4b7d-7929-4413-ae2e-f7c4f180403a"
         }
     ]
 }

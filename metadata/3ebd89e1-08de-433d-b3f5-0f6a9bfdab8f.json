@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "duyek", 
-            "mb_attribute": "D\u00fcyek", 
-            "source": "http://musicbrainz.org/work/5b03e1d5-41b0-44ca-a00a-0f4da1ba7bc9"
-        }, 
-        {
-            "attribute_key": "duyek", 
-            "mb_tag": "d\u00fcyek", 
-            "source": "http://musicbrainz.org/recording/3ebd89e1-08de-433d-b3f5-0f6a9bfdab8f"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "3ebd89e1-08de-433d-b3f5-0f6a9bfdab8f", 
+    "works": [
+        {
+            "mbid": "5b03e1d5-41b0-44ca-a00a-0f4da1ba7bc9", 
+            "title": "Ak\u015fam Yine G\u00f6lgenle Sabah Etti Bu G\u00f6nl\u00fcm"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "kurdilihicazkar", 
@@ -113,11 +108,16 @@
             "name": "H\u00fcsn\u00fc \u00d6zenen"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "5b03e1d5-41b0-44ca-a00a-0f4da1ba7bc9", 
-            "title": "Ak\u015fam Yine G\u00f6lgenle Sabah Etti Bu G\u00f6nl\u00fcm"
+            "attribute_key": "duyek", 
+            "mb_attribute": "D\u00fcyek", 
+            "source": "http://musicbrainz.org/work/5b03e1d5-41b0-44ca-a00a-0f4da1ba7bc9"
+        }, 
+        {
+            "attribute_key": "duyek", 
+            "mb_tag": "d\u00fcyek", 
+            "source": "http://musicbrainz.org/recording/3ebd89e1-08de-433d-b3f5-0f6a9bfdab8f"
         }
     ]
 }

@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "aksak", 
-            "mb_attribute": "Aksak", 
-            "source": "http://musicbrainz.org/work/65b76df6-cb70-4fd8-8200-46d2fc5d5414"
-        }, 
-        {
-            "attribute_key": "aksak", 
-            "mb_tag": "aksak", 
-            "source": "http://musicbrainz.org/recording/082f96fc-6b5f-472c-9c37-7500da6fca5f"
-        }
-    ], 
+    "instrumentation_voicing": "ensemble instrumental", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "082f96fc-6b5f-472c-9c37-7500da6fca5f", 
+    "works": [
+        {
+            "mbid": "65b76df6-cb70-4fd8-8200-46d2fc5d5414", 
+            "title": "Gidelim G\u00f6ksu'ya Bir Alem-i \u00c2b Eyleyelim"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "kurdilihicazkar", 
@@ -57,11 +52,16 @@
             "name": "Aziz T\u00fcrk Sanat M\u00fczi\u011fi Grubu"
         }
     ], 
-    "instrumentation_voicing": "Ensemble instrumental", 
-    "works": [
+    "usul": [
         {
-            "mbid": "65b76df6-cb70-4fd8-8200-46d2fc5d5414", 
-            "title": "Gidelim G\u00f6ksu'ya Bir Alem-i \u00c2b Eyleyelim"
+            "attribute_key": "aksak", 
+            "mb_attribute": "Aksak", 
+            "source": "http://musicbrainz.org/work/65b76df6-cb70-4fd8-8200-46d2fc5d5414"
+        }, 
+        {
+            "attribute_key": "aksak", 
+            "mb_tag": "aksak", 
+            "source": "http://musicbrainz.org/recording/082f96fc-6b5f-472c-9c37-7500da6fca5f"
         }
     ]
 }

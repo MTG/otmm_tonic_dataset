@@ -1,11 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "aksaksemai", 
-            "mb_attribute": "Aksaksemai", 
-            "source": "http://musicbrainz.org/work/5c4caffa-01f6-40a3-82ba-5e60b788415c"
-        }
-    ], 
+    "instrumentation_voicing": "duo instrumental", 
     "form": [
         {
             "attribute_key": "sazsemaisi", 
@@ -37,6 +31,12 @@
         }
     ], 
     "mbid": "d406b08a-f619-4713-af68-c7ddbcfa1f6b", 
+    "works": [
+        {
+            "mbid": "5c4caffa-01f6-40a3-82ba-5e60b788415c", 
+            "title": "Rast Saz Semaisi"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "rast", 
@@ -67,11 +67,11 @@
             "name": "Erkan Y\u00fcksel"
         }
     ], 
-    "instrumentation_voicing": "Duo instrumental", 
-    "works": [
+    "usul": [
         {
-            "mbid": "5c4caffa-01f6-40a3-82ba-5e60b788415c", 
-            "title": "Rast Saz Semaisi"
+            "attribute_key": "aksaksemai", 
+            "mb_attribute": "Aksaksemai", 
+            "source": "http://musicbrainz.org/work/5c4caffa-01f6-40a3-82ba-5e60b788415c"
         }
     ]
 }

@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "agiraksak", 
-            "mb_attribute": "A\u011f\u0131raksak", 
-            "source": "http://musicbrainz.org/work/5c25bc30-b9ea-4ba4-8606-955a1418b662"
-        }, 
-        {
-            "attribute_key": "agiraksak", 
-            "mb_tag": "a\u011f\u0131raksak", 
-            "source": "http://musicbrainz.org/recording/3b2b8417-0965-465b-ba46-819f3dca850c"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "3b2b8417-0965-465b-ba46-819f3dca850c", 
+    "works": [
+        {
+            "mbid": "5c25bc30-b9ea-4ba4-8606-955a1418b662", 
+            "title": "M\u00fcptelay\u0131 Derdi Hicrand\u0131r G\u00f6n\u00fcl"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "hicaz", 
@@ -62,11 +57,16 @@
             "name": "Bekir S\u0131dk\u0131 Sezgin"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "5c25bc30-b9ea-4ba4-8606-955a1418b662", 
-            "title": "M\u00fcptelay\u0131 Derdi Hicrand\u0131r G\u00f6n\u00fcl"
+            "attribute_key": "agiraksak", 
+            "mb_attribute": "A\u011f\u0131raksak", 
+            "source": "http://musicbrainz.org/work/5c25bc30-b9ea-4ba4-8606-955a1418b662"
+        }, 
+        {
+            "attribute_key": "agiraksak", 
+            "mb_tag": "a\u011f\u0131raksak", 
+            "source": "http://musicbrainz.org/recording/3b2b8417-0965-465b-ba46-819f3dca850c"
         }
     ]
 }

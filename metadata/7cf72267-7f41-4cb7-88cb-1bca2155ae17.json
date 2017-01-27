@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "duyek", 
-            "mb_attribute": "D\u00fcyek", 
-            "source": "http://musicbrainz.org/work/59a2fbf0-d371-4705-88f6-35d498c79b66"
-        }, 
-        {
-            "attribute_key": "duyek", 
-            "mb_tag": "d\u00fcyek", 
-            "source": "http://musicbrainz.org/recording/7cf72267-7f41-4cb7-88cb-1bca2155ae17"
-        }
-    ], 
+    "instrumentation_voicing": "duet", 
     "form": [
         {
             "attribute_key": "tevsihilahi", 
@@ -42,6 +31,12 @@
         }
     ], 
     "mbid": "7cf72267-7f41-4cb7-88cb-1bca2155ae17", 
+    "works": [
+        {
+            "mbid": "59a2fbf0-d371-4705-88f6-35d498c79b66", 
+            "title": "Usat-\u0131 \u00dcmmetinden Bir Zelilim Ya Ras\u00fclallah"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "suzinak", 
@@ -130,11 +125,16 @@
             "name": "\u00d6zer \u00d6zel"
         }
     ], 
-    "instrumentation_voicing": "Duet", 
-    "works": [
+    "usul": [
         {
-            "mbid": "59a2fbf0-d371-4705-88f6-35d498c79b66", 
-            "title": "Usat-\u0131 \u00dcmmetinden Bir Zelilim Ya Ras\u00fclallah"
+            "attribute_key": "duyek", 
+            "mb_attribute": "D\u00fcyek", 
+            "source": "http://musicbrainz.org/work/59a2fbf0-d371-4705-88f6-35d498c79b66"
+        }, 
+        {
+            "attribute_key": "duyek", 
+            "mb_tag": "d\u00fcyek", 
+            "source": "http://musicbrainz.org/recording/7cf72267-7f41-4cb7-88cb-1bca2155ae17"
         }
     ]
 }

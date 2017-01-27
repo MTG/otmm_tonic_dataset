@@ -1,5 +1,5 @@
 {
-    "usul": [], 
+    "instrumentation_voicing": "duo instrumental", 
     "form": [
         {
             "attribute_key": "nefes", 
@@ -27,6 +27,12 @@
         }
     ], 
     "mbid": "398c86b4-7e01-4ae9-bd7b-4430e3648257", 
+    "works": [
+        {
+            "mbid": "0ebfbe14-9cbe-4661-a829-c881812c9177", 
+            "title": "Saba Nefes"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "saba", 
@@ -57,11 +63,5 @@
             "name": "Neva \u00d6zgen"
         }
     ], 
-    "instrumentation_voicing": "Duo instrumental", 
-    "works": [
-        {
-            "mbid": "0ebfbe14-9cbe-4661-a829-c881812c9177", 
-            "title": "Saba Nefes"
-        }
-    ]
+    "usul": []
 }

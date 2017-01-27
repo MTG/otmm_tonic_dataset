@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "aydin", 
-            "mb_attribute": "Ayd\u0131n", 
-            "source": "http://musicbrainz.org/work/d67aa8f5-d4d8-4da1-9f67-071922b5595a"
-        }, 
-        {
-            "attribute_key": "aksak", 
-            "mb_tag": "aksak", 
-            "source": "http://musicbrainz.org/recording/3a2da49a-bf3e-4d90-8033-a9b221cbb292"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal without accompaniment", 
     "form": [
         {
             "attribute_key": "kocekce", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "3a2da49a-bf3e-4d90-8033-a9b221cbb292", 
+    "works": [
+        {
+            "mbid": "d67aa8f5-d4d8-4da1-9f67-071922b5595a", 
+            "title": "Yabandan Geldim"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "hicazkar", 
@@ -57,11 +52,16 @@
             "name": "Safiye Ayla"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal without accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "d67aa8f5-d4d8-4da1-9f67-071922b5595a", 
-            "title": "Yabandan Geldim"
+            "attribute_key": "aydin", 
+            "mb_attribute": "Ayd\u0131n", 
+            "source": "http://musicbrainz.org/work/d67aa8f5-d4d8-4da1-9f67-071922b5595a"
+        }, 
+        {
+            "attribute_key": "aksak", 
+            "mb_tag": "aksak", 
+            "source": "http://musicbrainz.org/recording/3a2da49a-bf3e-4d90-8033-a9b221cbb292"
         }
     ]
 }

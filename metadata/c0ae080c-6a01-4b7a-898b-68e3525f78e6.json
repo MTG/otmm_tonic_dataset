@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "duyek", 
-            "mb_attribute": "D\u00fcyek", 
-            "source": "http://musicbrainz.org/work/9823474a-ec2d-498f-a5b2-f0f798e2b11b"
-        }, 
-        {
-            "attribute_key": "duyek", 
-            "mb_tag": "d\u00fcyek", 
-            "source": "http://musicbrainz.org/recording/c0ae080c-6a01-4b7a-898b-68e3525f78e6"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal without accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "c0ae080c-6a01-4b7a-898b-68e3525f78e6", 
+    "works": [
+        {
+            "mbid": "9823474a-ec2d-498f-a5b2-f0f798e2b11b", 
+            "title": "Ba\u015fka S\u00f6z S\u00f6ylemem A\u015fktan Yana Ben"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "kurdilihicazkar", 
@@ -57,11 +52,16 @@
             "name": "Ferahnaz G\u00fcndo\u011fdu"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal without accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "9823474a-ec2d-498f-a5b2-f0f798e2b11b", 
-            "title": "Ba\u015fka S\u00f6z S\u00f6ylemem A\u015fktan Yana Ben"
+            "attribute_key": "duyek", 
+            "mb_attribute": "D\u00fcyek", 
+            "source": "http://musicbrainz.org/work/9823474a-ec2d-498f-a5b2-f0f798e2b11b"
+        }, 
+        {
+            "attribute_key": "duyek", 
+            "mb_tag": "d\u00fcyek", 
+            "source": "http://musicbrainz.org/recording/c0ae080c-6a01-4b7a-898b-68e3525f78e6"
         }
     ]
 }

@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "semai", 
-            "mb_attribute": "Semai", 
-            "source": "http://musicbrainz.org/work/e3f48221-7447-499d-84d0-b4c5b13367db"
-        }, 
-        {
-            "attribute_key": "semai", 
-            "mb_tag": "semai", 
-            "source": "http://musicbrainz.org/recording/71f55220-4120-4763-80c7-d9a979779df6"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal without accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "71f55220-4120-4763-80c7-d9a979779df6", 
+    "works": [
+        {
+            "mbid": "e3f48221-7447-499d-84d0-b4c5b13367db", 
+            "title": "G\u00f6nl\u00fcm\u00fcn B\u00fclb\u00fcl\u00fcs\u00fcn A\u015fk Bah\u00e7emin G\u00fcl\u00fcs\u00fcn"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "nihavent", 
@@ -60,11 +55,16 @@
             "name": "[unknown]"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal without accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "e3f48221-7447-499d-84d0-b4c5b13367db", 
-            "title": "G\u00f6nl\u00fcm\u00fcn B\u00fclb\u00fcl\u00fcs\u00fcn A\u015fk Bah\u00e7emin G\u00fcl\u00fcs\u00fcn"
+            "attribute_key": "semai", 
+            "mb_attribute": "Semai", 
+            "source": "http://musicbrainz.org/work/e3f48221-7447-499d-84d0-b4c5b13367db"
+        }, 
+        {
+            "attribute_key": "semai", 
+            "mb_tag": "semai", 
+            "source": "http://musicbrainz.org/recording/71f55220-4120-4763-80c7-d9a979779df6"
         }
     ]
 }

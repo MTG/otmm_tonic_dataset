@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "nimsofyan", 
-            "mb_attribute": "Nimsofyan", 
-            "source": "http://musicbrainz.org/work/8705e9de-bf2c-4590-8be3-f116131c8bb0"
-        }, 
-        {
-            "attribute_key": "nimsofyan", 
-            "mb_tag": "nimsofyan", 
-            "source": "http://musicbrainz.org/recording/1bd274e5-c6d5-430b-a533-f02247f80bd1"
-        }
-    ], 
+    "instrumentation_voicing": "ensemble instrumental", 
     "form": [
         {
             "attribute_key": "sirto", 
@@ -54,6 +43,12 @@
         }
     ], 
     "mbid": "1bd274e5-c6d5-430b-a533-f02247f80bd1", 
+    "works": [
+        {
+            "mbid": "8705e9de-bf2c-4590-8be3-f116131c8bb0", 
+            "title": "Hicazkar Sirto"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "hicazkar", 
@@ -108,11 +103,16 @@
             "name": "U\u011fur I\u015f\u0131k"
         }
     ], 
-    "instrumentation_voicing": "Ensemble instrumental", 
-    "works": [
+    "usul": [
         {
-            "mbid": "8705e9de-bf2c-4590-8be3-f116131c8bb0", 
-            "title": "Hicazkar Sirto"
+            "attribute_key": "nimsofyan", 
+            "mb_attribute": "Nimsofyan", 
+            "source": "http://musicbrainz.org/work/8705e9de-bf2c-4590-8be3-f116131c8bb0"
+        }, 
+        {
+            "attribute_key": "nimsofyan", 
+            "mb_tag": "nimsofyan", 
+            "source": "http://musicbrainz.org/recording/1bd274e5-c6d5-430b-a533-f02247f80bd1"
         }
     ]
 }

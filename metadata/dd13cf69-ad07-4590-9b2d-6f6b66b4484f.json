@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "aksak", 
-            "mb_attribute": "Aksak", 
-            "source": "http://musicbrainz.org/work/14376d0b-ab49-40a1-9dbe-3a1e59ea45b6"
-        }, 
-        {
-            "attribute_key": "aksak", 
-            "mb_tag": "aksak", 
-            "source": "http://musicbrainz.org/recording/dd13cf69-ad07-4590-9b2d-6f6b66b4484f"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal without accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "dd13cf69-ad07-4590-9b2d-6f6b66b4484f", 
+    "works": [
+        {
+            "mbid": "14376d0b-ab49-40a1-9dbe-3a1e59ea45b6", 
+            "title": "\u0130ltimas Etmeye Yare Var\u0131n\u0131z"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "muhayyer", 
@@ -57,11 +52,16 @@
             "name": "G\u00fclnaz Ataman"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal without accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "14376d0b-ab49-40a1-9dbe-3a1e59ea45b6", 
-            "title": "\u0130ltimas Etmeye Yare Var\u0131n\u0131z"
+            "attribute_key": "aksak", 
+            "mb_attribute": "Aksak", 
+            "source": "http://musicbrainz.org/work/14376d0b-ab49-40a1-9dbe-3a1e59ea45b6"
+        }, 
+        {
+            "attribute_key": "aksak", 
+            "mb_tag": "aksak", 
+            "source": "http://musicbrainz.org/recording/dd13cf69-ad07-4590-9b2d-6f6b66b4484f"
         }
     ]
 }

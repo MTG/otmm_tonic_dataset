@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "aksak", 
-            "mb_attribute": "Aksak", 
-            "source": "http://musicbrainz.org/work/f844e1aa-df05-4692-b5d6-8a7cf5718a3b"
-        }, 
-        {
-            "attribute_key": "aksak", 
-            "mb_tag": "aksak", 
-            "source": "http://musicbrainz.org/recording/db4f7a0e-eacc-4a62-9f65-4aa47a305ada"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal without accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "db4f7a0e-eacc-4a62-9f65-4aa47a305ada", 
+    "works": [
+        {
+            "mbid": "f844e1aa-df05-4692-b5d6-8a7cf5718a3b", 
+            "title": "Ver Saki"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "mahur", 
@@ -57,11 +52,16 @@
             "name": "M\u00fcnir Nurettin Sel\u00e7uk"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal without accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "f844e1aa-df05-4692-b5d6-8a7cf5718a3b", 
-            "title": "Ver Saki"
+            "attribute_key": "aksak", 
+            "mb_attribute": "Aksak", 
+            "source": "http://musicbrainz.org/work/f844e1aa-df05-4692-b5d6-8a7cf5718a3b"
+        }, 
+        {
+            "attribute_key": "aksak", 
+            "mb_tag": "aksak", 
+            "source": "http://musicbrainz.org/recording/db4f7a0e-eacc-4a62-9f65-4aa47a305ada"
         }
     ]
 }

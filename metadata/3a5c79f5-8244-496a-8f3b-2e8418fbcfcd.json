@@ -1,11 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "devrikebir", 
-            "mb_attribute": "Devr-i Kebir", 
-            "source": "http://musicbrainz.org/work/40300628-d472-4232-81ce-df599f4fbacc"
-        }
-    ], 
+    "instrumentation_voicing": "solo instrumental", 
     "form": [
         {
             "attribute_key": "pesrev", 
@@ -33,6 +27,12 @@
         }
     ], 
     "mbid": "3a5c79f5-8244-496a-8f3b-2e8418fbcfcd", 
+    "works": [
+        {
+            "mbid": "40300628-d472-4232-81ce-df599f4fbacc", 
+            "title": "Suzidil Pe\u015frev"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "suzidil", 
@@ -55,11 +55,11 @@
             "name": "Salih Bilgin"
         }
     ], 
-    "instrumentation_voicing": "Solo instrumental", 
-    "works": [
+    "usul": [
         {
-            "mbid": "40300628-d472-4232-81ce-df599f4fbacc", 
-            "title": "Suzidil Pe\u015frev"
+            "attribute_key": "devrikebir", 
+            "mb_attribute": "Devr-i Kebir", 
+            "source": "http://musicbrainz.org/work/40300628-d472-4232-81ce-df599f4fbacc"
         }
     ]
 }

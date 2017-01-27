@@ -1,5 +1,5 @@
 {
-    "usul": [], 
+    "instrumentation_voicing": "solo vocal without accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -27,6 +27,12 @@
         }
     ], 
     "mbid": "2aff84f1-0aec-48e1-b6e5-b39dc59e5570", 
+    "works": [
+        {
+            "mbid": "ac5848ad-e5a3-4729-99db-d8b32f9da255", 
+            "title": "Tazelendi Tab-i Alem"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "segah", 
@@ -46,11 +52,5 @@
             "name": "Bahriyeli \u015eehab"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal without accompaniment", 
-    "works": [
-        {
-            "mbid": "ac5848ad-e5a3-4729-99db-d8b32f9da255", 
-            "title": "Tazelendi Tab-i Alem"
-        }
-    ]
+    "usul": []
 }

@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "senginsemai", 
-            "mb_attribute": "Senginsemai", 
-            "source": "http://musicbrainz.org/work/cbbee73c-c5c6-4ec8-85f8-c731d67bcb2b"
-        }, 
-        {
-            "attribute_key": "senginsemai", 
-            "mb_tag": "senginsemai", 
-            "source": "http://musicbrainz.org/recording/1fd7a362-cf14-42fa-a6c6-0093857ca5eb"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "1fd7a362-cf14-42fa-a6c6-0093857ca5eb", 
+    "works": [
+        {
+            "mbid": "cbbee73c-c5c6-4ec8-85f8-c731d67bcb2b", 
+            "title": "Canan Okuyor A\u015fk\u0131n \u0130lahi Sesidir"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "acemasiran", 
@@ -62,11 +57,16 @@
             "name": "Bekir S\u0131dk\u0131 Sezgin"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "cbbee73c-c5c6-4ec8-85f8-c731d67bcb2b", 
-            "title": "Canan Okuyor A\u015fk\u0131n \u0130lahi Sesidir"
+            "attribute_key": "senginsemai", 
+            "mb_attribute": "Senginsemai", 
+            "source": "http://musicbrainz.org/work/cbbee73c-c5c6-4ec8-85f8-c731d67bcb2b"
+        }, 
+        {
+            "attribute_key": "senginsemai", 
+            "mb_tag": "senginsemai", 
+            "source": "http://musicbrainz.org/recording/1fd7a362-cf14-42fa-a6c6-0093857ca5eb"
         }
     ]
 }

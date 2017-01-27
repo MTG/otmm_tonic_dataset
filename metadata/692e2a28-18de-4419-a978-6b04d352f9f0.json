@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "aksak", 
-            "mb_attribute": "Aksak", 
-            "source": "http://musicbrainz.org/work/3d0a04bf-3ef9-4fc9-bbea-cbfa901e1e73"
-        }, 
-        {
-            "attribute_key": "aksak", 
-            "mb_tag": "aksak", 
-            "source": "http://musicbrainz.org/recording/692e2a28-18de-4419-a978-6b04d352f9f0"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "692e2a28-18de-4419-a978-6b04d352f9f0", 
+    "works": [
+        {
+            "mbid": "3d0a04bf-3ef9-4fc9-bbea-cbfa901e1e73", 
+            "title": "G\u00f6z S\u00fcz\u00fcp Yan Bak\u0131\u015f\u0131nla"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "karcigar", 
@@ -62,11 +57,16 @@
             "name": "Melihat G\u00fclses"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "3d0a04bf-3ef9-4fc9-bbea-cbfa901e1e73", 
-            "title": "G\u00f6z S\u00fcz\u00fcp Yan Bak\u0131\u015f\u0131nla"
+            "attribute_key": "aksak", 
+            "mb_attribute": "Aksak", 
+            "source": "http://musicbrainz.org/work/3d0a04bf-3ef9-4fc9-bbea-cbfa901e1e73"
+        }, 
+        {
+            "attribute_key": "aksak", 
+            "mb_tag": "aksak", 
+            "source": "http://musicbrainz.org/recording/692e2a28-18de-4419-a978-6b04d352f9f0"
         }
     ]
 }

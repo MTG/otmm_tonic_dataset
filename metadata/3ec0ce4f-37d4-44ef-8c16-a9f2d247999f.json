@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "duyek", 
-            "mb_attribute": "D\u00fcyek", 
-            "source": "http://musicbrainz.org/work/e9305087-0a65-4320-8370-9749b3c0b627"
-        }, 
-        {
-            "attribute_key": "duyek", 
-            "mb_tag": "d\u00fcyek", 
-            "source": "http://musicbrainz.org/recording/3ec0ce4f-37d4-44ef-8c16-a9f2d247999f"
-        }
-    ], 
+    "instrumentation_voicing": "ensemble instrumental", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "3ec0ce4f-37d4-44ef-8c16-a9f2d247999f", 
+    "works": [
+        {
+            "mbid": "e9305087-0a65-4320-8370-9749b3c0b627", 
+            "title": "Her Mevsim \u0130\u00e7imden"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "ussak", 
@@ -57,11 +52,16 @@
             "name": "Aziz T\u00fcrk Sanat M\u00fczi\u011fi Grubu"
         }
     ], 
-    "instrumentation_voicing": "Ensemble instrumental", 
-    "works": [
+    "usul": [
         {
-            "mbid": "e9305087-0a65-4320-8370-9749b3c0b627", 
-            "title": "Her Mevsim \u0130\u00e7imden"
+            "attribute_key": "duyek", 
+            "mb_attribute": "D\u00fcyek", 
+            "source": "http://musicbrainz.org/work/e9305087-0a65-4320-8370-9749b3c0b627"
+        }, 
+        {
+            "attribute_key": "duyek", 
+            "mb_tag": "d\u00fcyek", 
+            "source": "http://musicbrainz.org/recording/3ec0ce4f-37d4-44ef-8c16-a9f2d247999f"
         }
     ]
 }

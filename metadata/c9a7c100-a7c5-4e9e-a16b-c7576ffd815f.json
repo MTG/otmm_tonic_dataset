@@ -1,11 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "aksak", 
-            "mb_attribute": "Aksak", 
-            "source": "http://musicbrainz.org/work/0c68de91-39f7-4ffb-8914-94ed66d075c8"
-        }
-    ], 
+    "instrumentation_voicing": "choir", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -33,6 +27,12 @@
         }
     ], 
     "mbid": "c9a7c100-a7c5-4e9e-a16b-c7576ffd815f", 
+    "works": [
+        {
+            "mbid": "0c68de91-39f7-4ffb-8914-94ed66d075c8", 
+            "title": "Vefa Yoktur Akan Suda"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "huzzam", 
@@ -553,11 +553,11 @@
             "name": "Nebahat Konu"
         }
     ], 
-    "instrumentation_voicing": "Choir", 
-    "works": [
+    "usul": [
         {
-            "mbid": "0c68de91-39f7-4ffb-8914-94ed66d075c8", 
-            "title": "Vefa Yoktur Akan Suda"
+            "attribute_key": "aksak", 
+            "mb_attribute": "Aksak", 
+            "source": "http://musicbrainz.org/work/0c68de91-39f7-4ffb-8914-94ed66d075c8"
         }
     ]
 }

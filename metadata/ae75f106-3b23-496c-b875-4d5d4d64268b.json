@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "duyek", 
-            "mb_attribute": "D\u00fcyek", 
-            "source": "http://musicbrainz.org/work/cc14231f-94e9-4594-a001-eab0780d99db"
-        }, 
-        {
-            "attribute_key": "duyek", 
-            "mb_tag": "d\u00fcyek", 
-            "source": "http://musicbrainz.org/recording/ae75f106-3b23-496c-b875-4d5d4d64268b"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "ae75f106-3b23-496c-b875-4d5d4d64268b", 
+    "works": [
+        {
+            "mbid": "cc14231f-94e9-4594-a001-eab0780d99db", 
+            "title": "Bahar Oldu Sular Akar \u00c7ay\u0131ra"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "huzzam", 
@@ -62,11 +57,16 @@
             "name": "Bekir S\u0131dk\u0131 Sezgin"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "cc14231f-94e9-4594-a001-eab0780d99db", 
-            "title": "Bahar Oldu Sular Akar \u00c7ay\u0131ra"
+            "attribute_key": "duyek", 
+            "mb_attribute": "D\u00fcyek", 
+            "source": "http://musicbrainz.org/work/cc14231f-94e9-4594-a001-eab0780d99db"
+        }, 
+        {
+            "attribute_key": "duyek", 
+            "mb_tag": "d\u00fcyek", 
+            "source": "http://musicbrainz.org/recording/ae75f106-3b23-496c-b875-4d5d4d64268b"
         }
     ]
 }

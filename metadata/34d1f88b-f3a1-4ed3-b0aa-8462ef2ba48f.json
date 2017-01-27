@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "aksak", 
-            "mb_attribute": "Aksak", 
-            "source": "http://musicbrainz.org/work/f844e1aa-df05-4692-b5d6-8a7cf5718a3b"
-        }, 
-        {
-            "attribute_key": "aksak", 
-            "mb_tag": "aksak", 
-            "source": "http://musicbrainz.org/recording/34d1f88b-f3a1-4ed3-b0aa-8462ef2ba48f"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "34d1f88b-f3a1-4ed3-b0aa-8462ef2ba48f", 
+    "works": [
+        {
+            "mbid": "f844e1aa-df05-4692-b5d6-8a7cf5718a3b", 
+            "title": "Ver Saki"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "mahur", 
@@ -225,11 +220,16 @@
             "name": "Tar\u0131k Kemanc\u0131"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "f844e1aa-df05-4692-b5d6-8a7cf5718a3b", 
-            "title": "Ver Saki"
+            "attribute_key": "aksak", 
+            "mb_attribute": "Aksak", 
+            "source": "http://musicbrainz.org/work/f844e1aa-df05-4692-b5d6-8a7cf5718a3b"
+        }, 
+        {
+            "attribute_key": "aksak", 
+            "mb_tag": "aksak", 
+            "source": "http://musicbrainz.org/recording/34d1f88b-f3a1-4ed3-b0aa-8462ef2ba48f"
         }
     ]
 }

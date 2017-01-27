@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "duyek", 
-            "mb_attribute": "D\u00fcyek", 
-            "source": "http://musicbrainz.org/work/9f8a4b9c-8617-4dba-a4e3-090ffbad5418"
-        }, 
-        {
-            "attribute_key": "duyek", 
-            "mb_tag": "d\u00fcyek", 
-            "source": "http://musicbrainz.org/recording/ed3d9e55-94ab-4e1f-99e1-d0a8092cfa42"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "ed3d9e55-94ab-4e1f-99e1-d0a8092cfa42", 
+    "works": [
+        {
+            "mbid": "9f8a4b9c-8617-4dba-a4e3-090ffbad5418", 
+            "title": "Kendini Bulursun"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "huzzam", 
@@ -62,11 +57,16 @@
             "name": "Mediha \u015een Sancako\u011flu"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "9f8a4b9c-8617-4dba-a4e3-090ffbad5418", 
-            "title": "Kendini Bulursun"
+            "attribute_key": "duyek", 
+            "mb_attribute": "D\u00fcyek", 
+            "source": "http://musicbrainz.org/work/9f8a4b9c-8617-4dba-a4e3-090ffbad5418"
+        }, 
+        {
+            "attribute_key": "duyek", 
+            "mb_tag": "d\u00fcyek", 
+            "source": "http://musicbrainz.org/recording/ed3d9e55-94ab-4e1f-99e1-d0a8092cfa42"
         }
     ]
 }

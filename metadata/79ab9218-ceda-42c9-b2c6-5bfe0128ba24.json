@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "duyek", 
-            "mb_attribute": "D\u00fcyek", 
-            "source": "http://musicbrainz.org/work/4483d8ba-e418-4813-b42e-9e972d8a22e8"
-        }, 
-        {
-            "attribute_key": "duyek", 
-            "mb_tag": "d\u00fcyek", 
-            "source": "http://musicbrainz.org/recording/79ab9218-ceda-42c9-b2c6-5bfe0128ba24"
-        }
-    ], 
+    "instrumentation_voicing": "ensemble instrumental", 
     "form": [
         {
             "attribute_key": "kar", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "79ab9218-ceda-42c9-b2c6-5bfe0128ba24", 
+    "works": [
+        {
+            "mbid": "4483d8ba-e418-4813-b42e-9e972d8a22e8", 
+            "title": "Haydarname"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "rast", 
@@ -57,11 +52,16 @@
             "name": "Ensemble Ulvi Erguner"
         }
     ], 
-    "instrumentation_voicing": "Ensemble instrumental", 
-    "works": [
+    "usul": [
         {
-            "mbid": "4483d8ba-e418-4813-b42e-9e972d8a22e8", 
-            "title": "Haydarname"
+            "attribute_key": "duyek", 
+            "mb_attribute": "D\u00fcyek", 
+            "source": "http://musicbrainz.org/work/4483d8ba-e418-4813-b42e-9e972d8a22e8"
+        }, 
+        {
+            "attribute_key": "duyek", 
+            "mb_tag": "d\u00fcyek", 
+            "source": "http://musicbrainz.org/recording/79ab9218-ceda-42c9-b2c6-5bfe0128ba24"
         }
     ]
 }

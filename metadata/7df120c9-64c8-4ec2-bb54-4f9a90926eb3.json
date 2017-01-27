@@ -1,11 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "evfer", 
-            "mb_tag": "evfer", 
-            "source": "http://musicbrainz.org/recording/7df120c9-64c8-4ec2-bb54-4f9a90926eb3"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "ayin_i_serif", 
@@ -33,6 +27,12 @@
         }
     ], 
     "mbid": "7df120c9-64c8-4ec2-bb54-4f9a90926eb3", 
+    "works": [
+        {
+            "mbid": "2612a010-8d83-4056-90c2-7aa6569603e7", 
+            "title": "Sababuselik Ayin-i \u015eerif"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "sababuselik", 
@@ -57,11 +57,11 @@
             "name": "Dede Efendi T\u00fcrk M\u00fczi\u011fi Toplulu\u011fu"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "2612a010-8d83-4056-90c2-7aa6569603e7", 
-            "title": "Sababuselik Ayin-i \u015eerif"
+            "attribute_key": "evfer", 
+            "mb_tag": "evfer", 
+            "source": "http://musicbrainz.org/recording/7df120c9-64c8-4ec2-bb54-4f9a90926eb3"
         }
     ]
 }

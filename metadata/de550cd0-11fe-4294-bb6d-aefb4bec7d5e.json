@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "duyek", 
-            "mb_attribute": "D\u00fcyek", 
-            "source": "http://musicbrainz.org/work/7885f45e-bbfd-4918-a1e2-68e17f5bd982"
-        }, 
-        {
-            "attribute_key": "duyek", 
-            "mb_tag": "d\u00fcyek", 
-            "source": "http://musicbrainz.org/recording/de550cd0-11fe-4294-bb6d-aefb4bec7d5e"
-        }
-    ], 
+    "instrumentation_voicing": "duo instrumental", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "de550cd0-11fe-4294-bb6d-aefb4bec7d5e", 
+    "works": [
+        {
+            "mbid": "7885f45e-bbfd-4918-a1e2-68e17f5bd982", 
+            "title": "G\u00f6n\u00fcl A\u015fk\u0131nla G\u00f6zya\u015f\u0131 D\u00f6kmekten"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "rast", 
@@ -68,11 +63,16 @@
             "name": "Ergin K\u0131z\u0131lay"
         }
     ], 
-    "instrumentation_voicing": "Duo instrumental", 
-    "works": [
+    "usul": [
         {
-            "mbid": "7885f45e-bbfd-4918-a1e2-68e17f5bd982", 
-            "title": "G\u00f6n\u00fcl A\u015fk\u0131nla G\u00f6zya\u015f\u0131 D\u00f6kmekten"
+            "attribute_key": "duyek", 
+            "mb_attribute": "D\u00fcyek", 
+            "source": "http://musicbrainz.org/work/7885f45e-bbfd-4918-a1e2-68e17f5bd982"
+        }, 
+        {
+            "attribute_key": "duyek", 
+            "mb_tag": "d\u00fcyek", 
+            "source": "http://musicbrainz.org/recording/de550cd0-11fe-4294-bb6d-aefb4bec7d5e"
         }
     ]
 }

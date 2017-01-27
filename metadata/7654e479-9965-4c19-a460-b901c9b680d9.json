@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "sofyan", 
-            "mb_attribute": "Sofyan", 
-            "source": "http://musicbrainz.org/work/df43510e-c180-4e9e-bbef-781ecc4ba53a"
-        }, 
-        {
-            "attribute_key": "sofyan", 
-            "mb_tag": "sofyan", 
-            "source": "http://musicbrainz.org/recording/7654e479-9965-4c19-a460-b901c9b680d9"
-        }
-    ], 
+    "instrumentation_voicing": "duo instrumental", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "7654e479-9965-4c19-a460-b901c9b680d9", 
+    "works": [
+        {
+            "mbid": "df43510e-c180-4e9e-bbef-781ecc4ba53a", 
+            "title": "Bu Ne Sevgi Ah Bu Ne Izd\u0131rap"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "huzzam", 
@@ -68,11 +63,16 @@
             "name": "Ergin K\u0131z\u0131lay"
         }
     ], 
-    "instrumentation_voicing": "Duo instrumental", 
-    "works": [
+    "usul": [
         {
-            "mbid": "df43510e-c180-4e9e-bbef-781ecc4ba53a", 
-            "title": "Bu Ne Sevgi Ah Bu Ne Izd\u0131rap"
+            "attribute_key": "sofyan", 
+            "mb_attribute": "Sofyan", 
+            "source": "http://musicbrainz.org/work/df43510e-c180-4e9e-bbef-781ecc4ba53a"
+        }, 
+        {
+            "attribute_key": "sofyan", 
+            "mb_tag": "sofyan", 
+            "source": "http://musicbrainz.org/recording/7654e479-9965-4c19-a460-b901c9b680d9"
         }
     ]
 }

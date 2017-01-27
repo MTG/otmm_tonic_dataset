@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "curcuna", 
-            "mb_attribute": "Curcuna", 
-            "source": "http://musicbrainz.org/work/6be3b0dc-ec64-414f-860c-3161002e1670"
-        }, 
-        {
-            "attribute_key": "kapali_curcuna", 
-            "mb_tag": "curcuna", 
-            "source": "http://musicbrainz.org/recording/b721c741-01fb-441f-8000-f755d04a2f50"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal without accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "b721c741-01fb-441f-8000-f755d04a2f50", 
+    "works": [
+        {
+            "mbid": "6be3b0dc-ec64-414f-860c-3161002e1670", 
+            "title": "Kim Derdi ki A\u015fk\u0131m\u0131z Bir Hazin R\u00fcya Olur"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "hicaz", 
@@ -57,11 +52,16 @@
             "name": "Mualla Kurt"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal without accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "6be3b0dc-ec64-414f-860c-3161002e1670", 
-            "title": "Kim Derdi ki A\u015fk\u0131m\u0131z Bir Hazin R\u00fcya Olur"
+            "attribute_key": "curcuna", 
+            "mb_attribute": "Curcuna", 
+            "source": "http://musicbrainz.org/work/6be3b0dc-ec64-414f-860c-3161002e1670"
+        }, 
+        {
+            "attribute_key": "kapali_curcuna", 
+            "mb_tag": "curcuna", 
+            "source": "http://musicbrainz.org/recording/b721c741-01fb-441f-8000-f755d04a2f50"
         }
     ]
 }

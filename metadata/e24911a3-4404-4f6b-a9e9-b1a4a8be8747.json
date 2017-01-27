@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "aksaksemai", 
-            "mb_attribute": "Aksaksemai", 
-            "source": "http://musicbrainz.org/work/466e5844-80f0-47a8-842d-ade864150df1"
-        }, 
-        {
-            "attribute_key": "aksaksemai", 
-            "mb_tag": "aksaksemai", 
-            "source": "http://musicbrainz.org/recording/e24911a3-4404-4f6b-a9e9-b1a4a8be8747"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "agirsemai", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "e24911a3-4404-4f6b-a9e9-b1a4a8be8747", 
+    "works": [
+        {
+            "mbid": "466e5844-80f0-47a8-842d-ade864150df1", 
+            "title": "Firkat-i Yar Beni Yakt\u0131"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "acemkurdi", 
@@ -62,11 +57,16 @@
             "name": "Bekir S\u0131dk\u0131 Sezgin"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "466e5844-80f0-47a8-842d-ade864150df1", 
-            "title": "Firkat-i Yar Beni Yakt\u0131"
+            "attribute_key": "aksaksemai", 
+            "mb_attribute": "Aksaksemai", 
+            "source": "http://musicbrainz.org/work/466e5844-80f0-47a8-842d-ade864150df1"
+        }, 
+        {
+            "attribute_key": "aksaksemai", 
+            "mb_tag": "aksaksemai", 
+            "source": "http://musicbrainz.org/recording/e24911a3-4404-4f6b-a9e9-b1a4a8be8747"
         }
     ]
 }

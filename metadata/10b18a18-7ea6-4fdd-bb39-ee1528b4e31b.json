@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "agirduyek", 
-            "mb_attribute": "A\u011f\u0131rd\u00fcyek", 
-            "source": "http://musicbrainz.org/work/c478ff5f-c3d6-4c44-8e66-3d8a90c7833e"
-        }, 
-        {
-            "attribute_key": "agirduyek", 
-            "mb_tag": "a\u011f\u0131rd\u00fcyek", 
-            "source": "http://musicbrainz.org/recording/10b18a18-7ea6-4fdd-bb39-ee1528b4e31b"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal without accompaniment", 
     "form": [
         {
             "attribute_key": "kar_i_nev", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "10b18a18-7ea6-4fdd-bb39-ee1528b4e31b", 
+    "works": [
+        {
+            "mbid": "c478ff5f-c3d6-4c44-8e66-3d8a90c7833e", 
+            "title": "G\u00f6z\u00fcmde Daim Hayal-i Cana"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "rast", 
@@ -57,11 +52,16 @@
             "name": "M\u00fcnir Nurettin Sel\u00e7uk"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal without accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "c478ff5f-c3d6-4c44-8e66-3d8a90c7833e", 
-            "title": "G\u00f6z\u00fcmde Daim Hayal-i Cana"
+            "attribute_key": "agirduyek", 
+            "mb_attribute": "A\u011f\u0131rd\u00fcyek", 
+            "source": "http://musicbrainz.org/work/c478ff5f-c3d6-4c44-8e66-3d8a90c7833e"
+        }, 
+        {
+            "attribute_key": "agirduyek", 
+            "mb_tag": "a\u011f\u0131rd\u00fcyek", 
+            "source": "http://musicbrainz.org/recording/10b18a18-7ea6-4fdd-bb39-ee1528b4e31b"
         }
     ]
 }

@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "oynak", 
-            "mb_attribute": "Oynak", 
-            "source": "http://musicbrainz.org/work/4059d892-ef6c-4b32-a282-f5227aaf60a4"
-        }, 
-        {
-            "attribute_key": "oynak", 
-            "mb_tag": "oynak", 
-            "source": "http://musicbrainz.org/recording/0db48ce4-f018-4d7d-b75e-66a64db72067"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "0db48ce4-f018-4d7d-b75e-66a64db72067", 
+    "works": [
+        {
+            "mbid": "4059d892-ef6c-4b32-a282-f5227aaf60a4", 
+            "title": "Uykudan Art\u0131k Uyan"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "hicaz", 
@@ -62,11 +57,16 @@
             "name": "Bekir S\u0131dk\u0131 Sezgin"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "4059d892-ef6c-4b32-a282-f5227aaf60a4", 
-            "title": "Uykudan Art\u0131k Uyan"
+            "attribute_key": "oynak", 
+            "mb_attribute": "Oynak", 
+            "source": "http://musicbrainz.org/work/4059d892-ef6c-4b32-a282-f5227aaf60a4"
+        }, 
+        {
+            "attribute_key": "oynak", 
+            "mb_tag": "oynak", 
+            "source": "http://musicbrainz.org/recording/0db48ce4-f018-4d7d-b75e-66a64db72067"
         }
     ]
 }

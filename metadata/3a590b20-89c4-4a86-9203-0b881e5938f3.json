@@ -1,11 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "duyek", 
-            "mb_attribute": "D\u00fcyek", 
-            "source": "http://musicbrainz.org/work/071c556f-3b64-4b2d-b7a0-edd41f35994c"
-        }
-    ], 
+    "instrumentation_voicing": "solo instrumental", 
     "form": [
         {
             "attribute_key": "medhal", 
@@ -33,6 +27,12 @@
         }
     ], 
     "mbid": "3a590b20-89c4-4a86-9203-0b881e5938f3", 
+    "works": [
+        {
+            "mbid": "071c556f-3b64-4b2d-b7a0-edd41f35994c", 
+            "title": "Sultaniyegah Medhal"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "sultaniyegah", 
@@ -55,11 +55,11 @@
             "name": "Salih Bilgin"
         }
     ], 
-    "instrumentation_voicing": "Solo instrumental", 
-    "works": [
+    "usul": [
         {
-            "mbid": "071c556f-3b64-4b2d-b7a0-edd41f35994c", 
-            "title": "Sultaniyegah Medhal"
+            "attribute_key": "duyek", 
+            "mb_attribute": "D\u00fcyek", 
+            "source": "http://musicbrainz.org/work/071c556f-3b64-4b2d-b7a0-edd41f35994c"
         }
     ]
 }

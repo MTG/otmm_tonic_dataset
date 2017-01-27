@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "aksak", 
-            "mb_attribute": "Aksak", 
-            "source": "http://musicbrainz.org/work/c54336b1-99c0-4912-a013-0947588e541d"
-        }, 
-        {
-            "attribute_key": "aksak", 
-            "mb_tag": "aksak", 
-            "source": "http://musicbrainz.org/recording/be27fd20-022d-4fd7-85e9-051f062beab6"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "kanto", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "be27fd20-022d-4fd7-85e9-051f062beab6", 
+    "works": [
+        {
+            "mbid": "c54336b1-99c0-4912-a013-0947588e541d", 
+            "title": "Nas\u0131l Nas\u0131l Elden Gittin Ah"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "rast", 
@@ -116,11 +111,16 @@
             "name": "Safinaz Rizeli"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "c54336b1-99c0-4912-a013-0947588e541d", 
-            "title": "Nas\u0131l Nas\u0131l Elden Gittin Ah"
+            "attribute_key": "aksak", 
+            "mb_attribute": "Aksak", 
+            "source": "http://musicbrainz.org/work/c54336b1-99c0-4912-a013-0947588e541d"
+        }, 
+        {
+            "attribute_key": "aksak", 
+            "mb_tag": "aksak", 
+            "source": "http://musicbrainz.org/recording/be27fd20-022d-4fd7-85e9-051f062beab6"
         }
     ]
 }

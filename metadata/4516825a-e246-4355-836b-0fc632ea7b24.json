@@ -1,11 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "aksaksemai", 
-            "mb_attribute": "Aksaksemai", 
-            "source": "http://musicbrainz.org/work/8457bce2-07f0-4502-ae86-19b61c6bb77e"
-        }
-    ], 
+    "instrumentation_voicing": "solo instrumental", 
     "form": [
         {
             "attribute_key": "sazsemaisi", 
@@ -33,6 +27,12 @@
         }
     ], 
     "mbid": "4516825a-e246-4355-836b-0fc632ea7b24", 
+    "works": [
+        {
+            "mbid": "8457bce2-07f0-4502-ae86-19b61c6bb77e", 
+            "title": "Yegah Sazsemaisi"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "yegah", 
@@ -56,11 +56,11 @@
             "name": "Halil Dikmen"
         }
     ], 
-    "instrumentation_voicing": "Solo instrumental", 
-    "works": [
+    "usul": [
         {
-            "mbid": "8457bce2-07f0-4502-ae86-19b61c6bb77e", 
-            "title": "Yegah Sazsemaisi"
+            "attribute_key": "aksaksemai", 
+            "mb_attribute": "Aksaksemai", 
+            "source": "http://musicbrainz.org/work/8457bce2-07f0-4502-ae86-19b61c6bb77e"
         }
     ]
 }

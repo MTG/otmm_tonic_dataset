@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "duyek", 
-            "mb_attribute": "D\u00fcyek", 
-            "source": "http://musicbrainz.org/work/85ab24c7-b37f-494d-85e4-547b09cdfdcc"
-        }, 
-        {
-            "attribute_key": "duyek", 
-            "mb_tag": "d\u00fcyek", 
-            "source": "http://musicbrainz.org/recording/5a03158d-a6a5-4dca-8d1c-09fb25cfcd8f"
-        }
-    ], 
+    "instrumentation_voicing": "duet", 
     "form": [
         {
             "attribute_key": "tevsihilahi", 
@@ -42,6 +31,12 @@
         }
     ], 
     "mbid": "5a03158d-a6a5-4dca-8d1c-09fb25cfcd8f", 
+    "works": [
+        {
+            "mbid": "85ab24c7-b37f-494d-85e4-547b09cdfdcc", 
+            "title": "Gubar-\u0131 Payine Almam Cihan\u0131 Ya Rasulallah"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "beyati", 
@@ -130,11 +125,16 @@
             "name": "\u00d6zer \u00d6zel"
         }
     ], 
-    "instrumentation_voicing": "Duet", 
-    "works": [
+    "usul": [
         {
-            "mbid": "85ab24c7-b37f-494d-85e4-547b09cdfdcc", 
-            "title": "Gubar-\u0131 Payine Almam Cihan\u0131 Ya Rasulallah"
+            "attribute_key": "duyek", 
+            "mb_attribute": "D\u00fcyek", 
+            "source": "http://musicbrainz.org/work/85ab24c7-b37f-494d-85e4-547b09cdfdcc"
+        }, 
+        {
+            "attribute_key": "duyek", 
+            "mb_tag": "d\u00fcyek", 
+            "source": "http://musicbrainz.org/recording/5a03158d-a6a5-4dca-8d1c-09fb25cfcd8f"
         }
     ]
 }

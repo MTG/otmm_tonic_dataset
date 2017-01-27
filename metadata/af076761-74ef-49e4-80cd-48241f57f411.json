@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "zencir", 
-            "mb_attribute": "Zencir", 
-            "source": "http://musicbrainz.org/work/3122c992-e159-46a3-b0b2-57005dd76a80"
-        }, 
-        {
-            "attribute_key": "zencir", 
-            "mb_tag": "zencir", 
-            "source": "http://musicbrainz.org/recording/af076761-74ef-49e4-80cd-48241f57f411"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "beste", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "af076761-74ef-49e4-80cd-48241f57f411", 
+    "works": [
+        {
+            "mbid": "3122c992-e159-46a3-b0b2-57005dd76a80", 
+            "title": "Misalini Ne Zemin \u00fc Zaman G\u00f6rm\u00fc\u015ft\u00fcr"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "sultaniyegah", 
@@ -92,11 +87,16 @@
             "name": "Do\u011fan Dikmen"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "3122c992-e159-46a3-b0b2-57005dd76a80", 
-            "title": "Misalini Ne Zemin \u00fc Zaman G\u00f6rm\u00fc\u015ft\u00fcr"
+            "attribute_key": "zencir", 
+            "mb_attribute": "Zencir", 
+            "source": "http://musicbrainz.org/work/3122c992-e159-46a3-b0b2-57005dd76a80"
+        }, 
+        {
+            "attribute_key": "zencir", 
+            "mb_tag": "zencir", 
+            "source": "http://musicbrainz.org/recording/af076761-74ef-49e4-80cd-48241f57f411"
         }
     ]
 }

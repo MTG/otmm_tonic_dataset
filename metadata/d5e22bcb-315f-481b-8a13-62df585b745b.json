@@ -1,5 +1,11 @@
 {
-    "instrumentation_voicing": "Solo instrumental", 
+    "usul": [
+        {
+            "attribute_key": "serbest", 
+            "mb_tag": "serbest", 
+            "source": "http://musicbrainz.org/recording/d5e22bcb-315f-481b-8a13-62df585b745b"
+        }
+    ], 
     "form": [
         {
             "attribute_key": "taksim", 
@@ -43,11 +49,5 @@
             "name": "Serta\u00e7 Tezeren"
         }
     ], 
-    "usul": [
-        {
-            "attribute_key": "serbest", 
-            "mb_tag": "serbest", 
-            "source": "http://musicbrainz.org/recording/d5e22bcb-315f-481b-8a13-62df585b745b"
-        }
-    ]
+    "instrumentation_voicing": "solo instrumental"
 }

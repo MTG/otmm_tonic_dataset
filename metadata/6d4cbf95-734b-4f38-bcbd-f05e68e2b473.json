@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "aksak", 
-            "mb_attribute": "Aksak", 
-            "source": "http://musicbrainz.org/work/35260a95-1204-4100-915b-1217708ce60a"
-        }, 
-        {
-            "attribute_key": "aksak", 
-            "mb_tag": "aksak", 
-            "source": "http://musicbrainz.org/recording/6d4cbf95-734b-4f38-bcbd-f05e68e2b473"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal without accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "6d4cbf95-734b-4f38-bcbd-f05e68e2b473", 
+    "works": [
+        {
+            "mbid": "35260a95-1204-4100-915b-1217708ce60a", 
+            "title": "Cana Sana A\u015f\u0131k Nice"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "bestenigar", 
@@ -57,11 +52,16 @@
             "name": "Selma Sa\u011fba\u015f"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal without accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "35260a95-1204-4100-915b-1217708ce60a", 
-            "title": "Cana Sana A\u015f\u0131k Nice"
+            "attribute_key": "aksak", 
+            "mb_attribute": "Aksak", 
+            "source": "http://musicbrainz.org/work/35260a95-1204-4100-915b-1217708ce60a"
+        }, 
+        {
+            "attribute_key": "aksak", 
+            "mb_tag": "aksak", 
+            "source": "http://musicbrainz.org/recording/6d4cbf95-734b-4f38-bcbd-f05e68e2b473"
         }
     ]
 }

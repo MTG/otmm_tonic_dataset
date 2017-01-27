@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "aksaksemai", 
-            "mb_attribute": "Aksaksemai", 
-            "source": "http://musicbrainz.org/work/1dc8a983-8c66-477e-8c63-22409806f2e1"
-        }, 
-        {
-            "attribute_key": "aksaksemai", 
-            "mb_tag": "aksaksemai", 
-            "source": "http://musicbrainz.org/recording/69361bc7-f467-47ae-83b4-91f853a307cc"
-        }
-    ], 
+    "instrumentation_voicing": "solo instrumental", 
     "form": [
         {
             "attribute_key": "sazsemaisi", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "69361bc7-f467-47ae-83b4-91f853a307cc", 
+    "works": [
+        {
+            "mbid": "1dc8a983-8c66-477e-8c63-22409806f2e1", 
+            "title": "Beyati-Araban Sazsemaisi"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "beyati_araban", 
@@ -60,11 +55,16 @@
             "name": "Murat Aydemir"
         }
     ], 
-    "instrumentation_voicing": "Solo instrumental", 
-    "works": [
+    "usul": [
         {
-            "mbid": "1dc8a983-8c66-477e-8c63-22409806f2e1", 
-            "title": "Beyati-Araban Sazsemaisi"
+            "attribute_key": "aksaksemai", 
+            "mb_attribute": "Aksaksemai", 
+            "source": "http://musicbrainz.org/work/1dc8a983-8c66-477e-8c63-22409806f2e1"
+        }, 
+        {
+            "attribute_key": "aksaksemai", 
+            "mb_tag": "aksaksemai", 
+            "source": "http://musicbrainz.org/recording/69361bc7-f467-47ae-83b4-91f853a307cc"
         }
     ]
 }

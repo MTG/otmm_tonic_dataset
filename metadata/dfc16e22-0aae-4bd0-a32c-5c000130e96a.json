@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "agiraksak", 
-            "mb_attribute": "A\u011f\u0131raksak", 
-            "source": "http://musicbrainz.org/work/86c12055-b675-46b6-89a6-4568be1143d5"
-        }, 
-        {
-            "attribute_key": "agiraksak", 
-            "mb_tag": "a\u011f\u0131raksak", 
-            "source": "http://musicbrainz.org/recording/dfc16e22-0aae-4bd0-a32c-5c000130e96a"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "dfc16e22-0aae-4bd0-a32c-5c000130e96a", 
+    "works": [
+        {
+            "mbid": "86c12055-b675-46b6-89a6-4568be1143d5", 
+            "title": "Sevdi G\u00f6nl\u00fcm Ey Melek Sima Seni"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "acemkurdi", 
@@ -65,11 +60,16 @@
             "name": "Haf\u0131z Kemal Bey"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "86c12055-b675-46b6-89a6-4568be1143d5", 
-            "title": "Sevdi G\u00f6nl\u00fcm Ey Melek Sima Seni"
+            "attribute_key": "agiraksak", 
+            "mb_attribute": "A\u011f\u0131raksak", 
+            "source": "http://musicbrainz.org/work/86c12055-b675-46b6-89a6-4568be1143d5"
+        }, 
+        {
+            "attribute_key": "agiraksak", 
+            "mb_tag": "a\u011f\u0131raksak", 
+            "source": "http://musicbrainz.org/recording/dfc16e22-0aae-4bd0-a32c-5c000130e96a"
         }
     ]
 }

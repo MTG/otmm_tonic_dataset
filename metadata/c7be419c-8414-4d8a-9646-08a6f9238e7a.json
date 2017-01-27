@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "sofyan", 
-            "mb_attribute": "Sofyan", 
-            "source": "http://musicbrainz.org/work/6924cefb-9fad-483c-b50b-0f074a441e9d"
-        }, 
-        {
-            "attribute_key": "sofyan", 
-            "mb_tag": "sofyan", 
-            "source": "http://musicbrainz.org/recording/c7be419c-8414-4d8a-9646-08a6f9238e7a"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "c7be419c-8414-4d8a-9646-08a6f9238e7a", 
+    "works": [
+        {
+            "mbid": "6924cefb-9fad-483c-b50b-0f074a441e9d", 
+            "title": "Ni\u00e7in Mahzun Bakars\u0131n Sen Bana S\u00f6yle"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "muhayyer", 
@@ -92,11 +87,16 @@
             "name": "Safinaz Rizeli"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "6924cefb-9fad-483c-b50b-0f074a441e9d", 
-            "title": "Ni\u00e7in Mahzun Bakars\u0131n Sen Bana S\u00f6yle"
+            "attribute_key": "sofyan", 
+            "mb_attribute": "Sofyan", 
+            "source": "http://musicbrainz.org/work/6924cefb-9fad-483c-b50b-0f074a441e9d"
+        }, 
+        {
+            "attribute_key": "sofyan", 
+            "mb_tag": "sofyan", 
+            "source": "http://musicbrainz.org/recording/c7be419c-8414-4d8a-9646-08a6f9238e7a"
         }
     ]
 }

@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "sofyan", 
-            "mb_attribute": "Sofyan", 
-            "source": "http://musicbrainz.org/work/d82a2c92-13ed-4d12-af90-d3a36be24033"
-        }, 
-        {
-            "attribute_key": "sofyan", 
-            "mb_tag": "sofyan", 
-            "source": "http://musicbrainz.org/recording/66a119be-6c3b-4541-97c2-fab997dc71be"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal without accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "66a119be-6c3b-4541-97c2-fab997dc71be", 
+    "works": [
+        {
+            "mbid": "d82a2c92-13ed-4d12-af90-d3a36be24033", 
+            "title": "\u00c7ep\u00e7evre Bahar \u0130\u00e7inde"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "muhayyer", 
@@ -57,11 +52,16 @@
             "name": "M\u00fcnir Nurettin Sel\u00e7uk"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal without accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "d82a2c92-13ed-4d12-af90-d3a36be24033", 
-            "title": "\u00c7ep\u00e7evre Bahar \u0130\u00e7inde"
+            "attribute_key": "sofyan", 
+            "mb_attribute": "Sofyan", 
+            "source": "http://musicbrainz.org/work/d82a2c92-13ed-4d12-af90-d3a36be24033"
+        }, 
+        {
+            "attribute_key": "sofyan", 
+            "mb_tag": "sofyan", 
+            "source": "http://musicbrainz.org/recording/66a119be-6c3b-4541-97c2-fab997dc71be"
         }
     ]
 }

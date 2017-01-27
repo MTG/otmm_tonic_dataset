@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "agiraksak", 
-            "mb_attribute": "A\u011f\u0131raksak", 
-            "source": "http://musicbrainz.org/work/744df108-14e8-4f5c-a649-98b9f4977fde"
-        }, 
-        {
-            "attribute_key": "agiraksak", 
-            "mb_tag": "a\u011f\u0131raksak", 
-            "source": "http://musicbrainz.org/recording/c39b39dc-6118-4252-a663-8bb7ee1bc512"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal without accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "c39b39dc-6118-4252-a663-8bb7ee1bc512", 
+    "works": [
+        {
+            "mbid": "744df108-14e8-4f5c-a649-98b9f4977fde", 
+            "title": "Bu Neva-y\u0131 Dil-h\u0131ra\u015f"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "bestenigar", 
@@ -57,11 +52,16 @@
             "name": "Do\u011fan Dikmen"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal without accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "744df108-14e8-4f5c-a649-98b9f4977fde", 
-            "title": "Bu Neva-y\u0131 Dil-h\u0131ra\u015f"
+            "attribute_key": "agiraksak", 
+            "mb_attribute": "A\u011f\u0131raksak", 
+            "source": "http://musicbrainz.org/work/744df108-14e8-4f5c-a649-98b9f4977fde"
+        }, 
+        {
+            "attribute_key": "agiraksak", 
+            "mb_tag": "a\u011f\u0131raksak", 
+            "source": "http://musicbrainz.org/recording/c39b39dc-6118-4252-a663-8bb7ee1bc512"
         }
     ]
 }

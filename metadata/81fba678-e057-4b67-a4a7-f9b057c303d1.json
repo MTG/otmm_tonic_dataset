@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "aksak", 
-            "mb_attribute": "Aksak", 
-            "source": "http://musicbrainz.org/work/a6f1e216-df3b-46c8-b4a9-70268be5bef6"
-        }, 
-        {
-            "attribute_key": "aksak", 
-            "mb_tag": "aksak", 
-            "source": "http://musicbrainz.org/recording/81fba678-e057-4b67-a4a7-f9b057c303d1"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal without accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "81fba678-e057-4b67-a4a7-f9b057c303d1", 
+    "works": [
+        {
+            "mbid": "a6f1e216-df3b-46c8-b4a9-70268be5bef6", 
+            "title": "Kimseyi B\u00f6yle Peri\u015fan Etme Allah\u0131m Yeter"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "hicaz", 
@@ -57,11 +52,16 @@
             "name": "Koray Safkan"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal without accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "a6f1e216-df3b-46c8-b4a9-70268be5bef6", 
-            "title": "Kimseyi B\u00f6yle Peri\u015fan Etme Allah\u0131m Yeter"
+            "attribute_key": "aksak", 
+            "mb_attribute": "Aksak", 
+            "source": "http://musicbrainz.org/work/a6f1e216-df3b-46c8-b4a9-70268be5bef6"
+        }, 
+        {
+            "attribute_key": "aksak", 
+            "mb_tag": "aksak", 
+            "source": "http://musicbrainz.org/recording/81fba678-e057-4b67-a4a7-f9b057c303d1"
         }
     ]
 }

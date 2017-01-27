@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "duyek", 
-            "mb_attribute": "D\u00fcyek", 
-            "source": "http://musicbrainz.org/work/a6ef5379-dca5-4a6b-9d4e-6aee0a531dc7"
-        }, 
-        {
-            "attribute_key": "duyek", 
-            "mb_tag": "d\u00fcyek", 
-            "source": "http://musicbrainz.org/recording/a10fbfc2-15b7-4128-a5b5-09f3efb62e0d"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "a10fbfc2-15b7-4128-a5b5-09f3efb62e0d", 
+    "works": [
+        {
+            "mbid": "a6ef5379-dca5-4a6b-9d4e-6aee0a531dc7", 
+            "title": "Ben K\u00fcsk\u00fcn\u00fcm Fele\u011fe"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "rast", 
@@ -225,11 +220,16 @@
             "name": "Bekir \u00dcnl\u00fcataer"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "a6ef5379-dca5-4a6b-9d4e-6aee0a531dc7", 
-            "title": "Ben K\u00fcsk\u00fcn\u00fcm Fele\u011fe"
+            "attribute_key": "duyek", 
+            "mb_attribute": "D\u00fcyek", 
+            "source": "http://musicbrainz.org/work/a6ef5379-dca5-4a6b-9d4e-6aee0a531dc7"
+        }, 
+        {
+            "attribute_key": "duyek", 
+            "mb_tag": "d\u00fcyek", 
+            "source": "http://musicbrainz.org/recording/a10fbfc2-15b7-4128-a5b5-09f3efb62e0d"
         }
     ]
 }

@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "fer", 
-            "mb_attribute": "Fer", 
-            "source": "http://musicbrainz.org/work/ff8e2637-00f5-4675-8d76-6051ee1545c1"
-        }, 
-        {
-            "attribute_key": "fer", 
-            "mb_tag": "fer", 
-            "source": "http://musicbrainz.org/recording/69519d9b-3021-45e8-a14f-af20cbbfa18b"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "kar", 
@@ -54,6 +43,12 @@
         }
     ], 
     "mbid": "69519d9b-3021-45e8-a14f-af20cbbfa18b", 
+    "works": [
+        {
+            "mbid": "ff8e2637-00f5-4675-8d76-6051ee1545c1", 
+            "title": "\u015eevk-i Hayalinden"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "hicaz", 
@@ -106,11 +101,16 @@
             "name": "Sava\u015f \u015e. Bark\u00e7in"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "ff8e2637-00f5-4675-8d76-6051ee1545c1", 
-            "title": "\u015eevk-i Hayalinden"
+            "attribute_key": "fer", 
+            "mb_attribute": "Fer", 
+            "source": "http://musicbrainz.org/work/ff8e2637-00f5-4675-8d76-6051ee1545c1"
+        }, 
+        {
+            "attribute_key": "fer", 
+            "mb_tag": "fer", 
+            "source": "http://musicbrainz.org/recording/69519d9b-3021-45e8-a14f-af20cbbfa18b"
         }
     ]
 }

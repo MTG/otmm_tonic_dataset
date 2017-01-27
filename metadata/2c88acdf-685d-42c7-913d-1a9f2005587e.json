@@ -1,11 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "nimsofyan", 
-            "mb_attribute": "Nimsofyan", 
-            "source": "http://musicbrainz.org/work/981de4a1-1073-4ba3-a3fe-fb577c29cb42"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -33,6 +27,12 @@
         }
     ], 
     "mbid": "2c88acdf-685d-42c7-913d-1a9f2005587e", 
+    "works": [
+        {
+            "mbid": "981de4a1-1073-4ba3-a3fe-fb577c29cb42", 
+            "title": "Gam-\u0131 Hicr\u00e2nla Peri\u015fan Ne Karanl\u0131k Kaderim"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "hicaz", 
@@ -87,11 +87,11 @@
             "name": "[unknown]"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "981de4a1-1073-4ba3-a3fe-fb577c29cb42", 
-            "title": "Gam-\u0131 Hicr\u00e2nla Peri\u015fan Ne Karanl\u0131k Kaderim"
+            "attribute_key": "nimsofyan", 
+            "mb_attribute": "Nimsofyan", 
+            "source": "http://musicbrainz.org/work/981de4a1-1073-4ba3-a3fe-fb577c29cb42"
         }
     ]
 }

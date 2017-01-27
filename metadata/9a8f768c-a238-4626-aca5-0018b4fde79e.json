@@ -1,5 +1,5 @@
 {
-    "usul": [], 
+    "instrumentation_voicing": "duo instrumental", 
     "form": [
         {
             "attribute_key": "pesrev", 
@@ -31,6 +31,12 @@
         }
     ], 
     "mbid": "9a8f768c-a238-4626-aca5-0018b4fde79e", 
+    "works": [
+        {
+            "mbid": "07b72770-37f4-4893-90ce-2d40f4c10b6d", 
+            "title": "Arazb\u00e2r Pe\u015frevi"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "arazbar", 
@@ -61,11 +67,5 @@
             "name": "Derya T\u00fcrkan"
         }
     ], 
-    "instrumentation_voicing": "Duo instrumental", 
-    "works": [
-        {
-            "mbid": "07b72770-37f4-4893-90ce-2d40f4c10b6d", 
-            "title": "Arazb\u00e2r Pe\u015frevi"
-        }
-    ]
+    "usul": []
 }

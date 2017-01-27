@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "aksak", 
-            "mb_attribute": "Aksak", 
-            "source": "http://musicbrainz.org/work/a3afd990-6b3b-44ff-b4a5-7dcb0337222e"
-        }, 
-        {
-            "attribute_key": "aksak", 
-            "mb_tag": "aksak", 
-            "source": "http://musicbrainz.org/recording/eb4d2af4-851c-43f3-aaad-33a5b7bd3c34"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal without accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "eb4d2af4-851c-43f3-aaad-33a5b7bd3c34", 
+    "works": [
+        {
+            "mbid": "a3afd990-6b3b-44ff-b4a5-7dcb0337222e", 
+            "title": "Dil Yaresini And\u0131racak"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "hicaz", 
@@ -57,11 +52,16 @@
             "name": "M\u00fczeyyen Senar"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal without accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "a3afd990-6b3b-44ff-b4a5-7dcb0337222e", 
-            "title": "Dil Yaresini And\u0131racak"
+            "attribute_key": "aksak", 
+            "mb_attribute": "Aksak", 
+            "source": "http://musicbrainz.org/work/a3afd990-6b3b-44ff-b4a5-7dcb0337222e"
+        }, 
+        {
+            "attribute_key": "aksak", 
+            "mb_tag": "aksak", 
+            "source": "http://musicbrainz.org/recording/eb4d2af4-851c-43f3-aaad-33a5b7bd3c34"
         }
     ]
 }

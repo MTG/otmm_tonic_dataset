@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "duyek", 
-            "mb_attribute": "D\u00fcyek", 
-            "source": "http://musicbrainz.org/work/dc75e341-545c-455d-8a3b-486c60e0a249"
-        }, 
-        {
-            "attribute_key": "duyek", 
-            "mb_tag": "d\u00fcyek", 
-            "source": "http://musicbrainz.org/recording/517bba01-b366-4019-b13a-f36a35945783"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "517bba01-b366-4019-b13a-f36a35945783", 
+    "works": [
+        {
+            "mbid": "dc75e341-545c-455d-8a3b-486c60e0a249", 
+            "title": "Her Kimde Vard\u0131r A\u015fk \u0130ptilas\u0131"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "kurdilihicazkar", 
@@ -62,11 +57,16 @@
             "name": "Bekir S\u0131dk\u0131 Sezgin"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "dc75e341-545c-455d-8a3b-486c60e0a249", 
-            "title": "Her Kimde Vard\u0131r A\u015fk \u0130ptilas\u0131"
+            "attribute_key": "duyek", 
+            "mb_attribute": "D\u00fcyek", 
+            "source": "http://musicbrainz.org/work/dc75e341-545c-455d-8a3b-486c60e0a249"
+        }, 
+        {
+            "attribute_key": "duyek", 
+            "mb_tag": "d\u00fcyek", 
+            "source": "http://musicbrainz.org/recording/517bba01-b366-4019-b13a-f36a35945783"
         }
     ]
 }

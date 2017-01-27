@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "hafif", 
-            "mb_attribute": "Hafif", 
-            "source": "http://musicbrainz.org/work/09ac9ea1-f5d0-43b8-a632-13d7b2c536be"
-        }, 
-        {
-            "attribute_key": "hafif", 
-            "mb_tag": "hafif", 
-            "source": "http://musicbrainz.org/recording/84e63fbc-8826-4639-a865-2fd592b7ec64"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "beste", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "84e63fbc-8826-4639-a865-2fd592b7ec64", 
+    "works": [
+        {
+            "mbid": "09ac9ea1-f5d0-43b8-a632-13d7b2c536be", 
+            "title": "Can \u00fc Dilimiz Lutf-i Keremkar \u0130le Mamur"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "sultaniyegah", 
@@ -62,11 +57,16 @@
             "name": "Alaeddin Yava\u015fca"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "09ac9ea1-f5d0-43b8-a632-13d7b2c536be", 
-            "title": "Can \u00fc Dilimiz Lutf-i Keremkar \u0130le Mamur"
+            "attribute_key": "hafif", 
+            "mb_attribute": "Hafif", 
+            "source": "http://musicbrainz.org/work/09ac9ea1-f5d0-43b8-a632-13d7b2c536be"
+        }, 
+        {
+            "attribute_key": "hafif", 
+            "mb_tag": "hafif", 
+            "source": "http://musicbrainz.org/recording/84e63fbc-8826-4639-a865-2fd592b7ec64"
         }
     ]
 }

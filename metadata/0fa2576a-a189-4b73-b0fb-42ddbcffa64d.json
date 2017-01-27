@@ -1,11 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "serbest", 
-            "mb_tag": "serbest", 
-            "source": "http://musicbrainz.org/recording/0fa2576a-a189-4b73-b0fb-42ddbcffa64d"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [], 
     "releases": [
         {
@@ -22,6 +16,12 @@
         }
     ], 
     "mbid": "0fa2576a-a189-4b73-b0fb-42ddbcffa64d", 
+    "works": [
+        {
+            "mbid": "12d37933-82a9-4595-b91d-f629dcbf87b7", 
+            "title": "Neden Bu Kadar Zalim Oldun Dil-i Bi-\u00e7areye"
+        }
+    ], 
     "makam": [], 
     "artists": [
         {
@@ -35,11 +35,11 @@
             "name": "Bekir S\u0131dk\u0131 Sezgin"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "12d37933-82a9-4595-b91d-f629dcbf87b7", 
-            "title": "Neden Bu Kadar Zalim Oldun Dil-i Bi-\u00e7areye"
+            "attribute_key": "serbest", 
+            "mb_tag": "serbest", 
+            "source": "http://musicbrainz.org/recording/0fa2576a-a189-4b73-b0fb-42ddbcffa64d"
         }
     ]
 }

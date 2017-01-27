@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "nimsofyan", 
-            "mb_attribute": "Nimsofyan", 
-            "source": "http://musicbrainz.org/work/40c3fae1-0a1a-45d9-a62b-cc6ff17df67f"
-        }, 
-        {
-            "attribute_key": "nimsofyan", 
-            "mb_tag": "nimsofyan", 
-            "source": "http://musicbrainz.org/recording/4b518ca5-649b-4b1e-b4f1-f8cf35e784ec"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal without accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "4b518ca5-649b-4b1e-b4f1-f8cf35e784ec", 
+    "works": [
+        {
+            "mbid": "40c3fae1-0a1a-45d9-a62b-cc6ff17df67f", 
+            "title": "Bing\u00f6l'den S\u00fcz\u00fcl\u00fcrs\u00fcn"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "huseyni", 
@@ -57,11 +52,16 @@
             "name": "Alaeddin Yava\u015fca"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal without accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "40c3fae1-0a1a-45d9-a62b-cc6ff17df67f", 
-            "title": "Bing\u00f6l'den S\u00fcz\u00fcl\u00fcrs\u00fcn"
+            "attribute_key": "nimsofyan", 
+            "mb_attribute": "Nimsofyan", 
+            "source": "http://musicbrainz.org/work/40c3fae1-0a1a-45d9-a62b-cc6ff17df67f"
+        }, 
+        {
+            "attribute_key": "nimsofyan", 
+            "mb_tag": "nimsofyan", 
+            "source": "http://musicbrainz.org/recording/4b518ca5-649b-4b1e-b4f1-f8cf35e784ec"
         }
     ]
 }

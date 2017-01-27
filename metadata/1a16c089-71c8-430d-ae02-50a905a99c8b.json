@@ -1,11 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "hafif", 
-            "mb_attribute": "Hafif", 
-            "source": "http://musicbrainz.org/work/38fe4825-4ccd-464c-b08c-49a9423decfc"
-        }
-    ], 
+    "instrumentation_voicing": "solo instrumental", 
     "form": [
         {
             "attribute_key": "pesrev", 
@@ -33,6 +27,12 @@
         }
     ], 
     "mbid": "1a16c089-71c8-430d-ae02-50a905a99c8b", 
+    "works": [
+        {
+            "mbid": "38fe4825-4ccd-464c-b08c-49a9423decfc", 
+            "title": "Zavil Pe\u015frev"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "zavil", 
@@ -55,11 +55,11 @@
             "name": "Salih Bilgin"
         }
     ], 
-    "instrumentation_voicing": "Solo instrumental", 
-    "works": [
+    "usul": [
         {
-            "mbid": "38fe4825-4ccd-464c-b08c-49a9423decfc", 
-            "title": "Zavil Pe\u015frev"
+            "attribute_key": "hafif", 
+            "mb_attribute": "Hafif", 
+            "source": "http://musicbrainz.org/work/38fe4825-4ccd-464c-b08c-49a9423decfc"
         }
     ]
 }

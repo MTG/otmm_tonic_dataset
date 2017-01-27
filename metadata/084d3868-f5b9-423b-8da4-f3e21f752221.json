@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "hafif", 
-            "mb_attribute": "Hafif", 
-            "source": "http://musicbrainz.org/work/38fe4825-4ccd-464c-b08c-49a9423decfc"
-        }, 
-        {
-            "attribute_key": "hafif", 
-            "mb_tag": "hafif", 
-            "source": "http://musicbrainz.org/recording/084d3868-f5b9-423b-8da4-f3e21f752221"
-        }
-    ], 
+    "instrumentation_voicing": "ensemble instrumental", 
     "form": [
         {
             "attribute_key": "pesrev", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "084d3868-f5b9-423b-8da4-f3e21f752221", 
+    "works": [
+        {
+            "mbid": "38fe4825-4ccd-464c-b08c-49a9423decfc", 
+            "title": "Zavil Pe\u015frev"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "zavil", 
@@ -84,11 +79,16 @@
             "name": "U\u011fur I\u015f\u0131k"
         }
     ], 
-    "instrumentation_voicing": "Ensemble instrumental", 
-    "works": [
+    "usul": [
         {
-            "mbid": "38fe4825-4ccd-464c-b08c-49a9423decfc", 
-            "title": "Zavil Pe\u015frev"
+            "attribute_key": "hafif", 
+            "mb_attribute": "Hafif", 
+            "source": "http://musicbrainz.org/work/38fe4825-4ccd-464c-b08c-49a9423decfc"
+        }, 
+        {
+            "attribute_key": "hafif", 
+            "mb_tag": "hafif", 
+            "source": "http://musicbrainz.org/recording/084d3868-f5b9-423b-8da4-f3e21f752221"
         }
     ]
 }

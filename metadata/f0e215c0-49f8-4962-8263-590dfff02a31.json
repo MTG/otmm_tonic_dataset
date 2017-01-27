@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "duyek", 
-            "mb_attribute": "D\u00fcyek", 
-            "source": "http://musicbrainz.org/work/041f035c-7db9-47fd-a743-1341a0176a70"
-        }, 
-        {
-            "attribute_key": "duyek", 
-            "mb_tag": "d\u00fcyek", 
-            "source": "http://musicbrainz.org/recording/f0e215c0-49f8-4962-8263-590dfff02a31"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "turku", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "f0e215c0-49f8-4962-8263-590dfff02a31", 
+    "works": [
+        {
+            "mbid": "041f035c-7db9-47fd-a743-1341a0176a70", 
+            "title": "Sabahtan Kalkt\u0131m Ki G\u00fcne\u015f Parl\u0131yor"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "huseyni", 
@@ -89,11 +84,16 @@
             "name": "Ali Kocadin\u00e7"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "041f035c-7db9-47fd-a743-1341a0176a70", 
-            "title": "Sabahtan Kalkt\u0131m Ki G\u00fcne\u015f Parl\u0131yor"
+            "attribute_key": "duyek", 
+            "mb_attribute": "D\u00fcyek", 
+            "source": "http://musicbrainz.org/work/041f035c-7db9-47fd-a743-1341a0176a70"
+        }, 
+        {
+            "attribute_key": "duyek", 
+            "mb_tag": "d\u00fcyek", 
+            "source": "http://musicbrainz.org/recording/f0e215c0-49f8-4962-8263-590dfff02a31"
         }
     ]
 }

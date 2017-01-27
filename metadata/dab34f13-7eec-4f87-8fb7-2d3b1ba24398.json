@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "curcuna", 
-            "mb_attribute": "Curcuna", 
-            "source": "http://musicbrainz.org/work/74d2c020-d834-4c31-986a-b05552f8cbf2"
-        }, 
-        {
-            "attribute_key": "kapali_curcuna", 
-            "mb_tag": "curcuna", 
-            "source": "http://musicbrainz.org/recording/dab34f13-7eec-4f87-8fb7-2d3b1ba24398"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "dab34f13-7eec-4f87-8fb7-2d3b1ba24398", 
+    "works": [
+        {
+            "mbid": "74d2c020-d834-4c31-986a-b05552f8cbf2", 
+            "title": "D\u00f6kt\u00fcm Derdimi Tanburda"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "huzzam", 
@@ -62,11 +57,16 @@
             "name": "Meral U\u011furlu"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "74d2c020-d834-4c31-986a-b05552f8cbf2", 
-            "title": "D\u00f6kt\u00fcm Derdimi Tanburda"
+            "attribute_key": "curcuna", 
+            "mb_attribute": "Curcuna", 
+            "source": "http://musicbrainz.org/work/74d2c020-d834-4c31-986a-b05552f8cbf2"
+        }, 
+        {
+            "attribute_key": "kapali_curcuna", 
+            "mb_tag": "curcuna", 
+            "source": "http://musicbrainz.org/recording/dab34f13-7eec-4f87-8fb7-2d3b1ba24398"
         }
     ]
 }

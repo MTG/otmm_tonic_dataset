@@ -1,21 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "senginsemai", 
-            "mb_attribute": "Senginsemai", 
-            "source": "http://musicbrainz.org/work/9564e1a4-0463-4cc9-a28b-820a72e5dd50"
-        }, 
-        {
-            "attribute_key": "muhammes", 
-            "mb_attribute": "Muhammes", 
-            "source": "http://musicbrainz.org/work/db260504-980d-4a3b-8dff-90966c2989f6"
-        }, 
-        {
-            "attribute_key": "yuruksemai", 
-            "mb_tag": "y\u00fcr\u00fcksemai", 
-            "source": "http://musicbrainz.org/recording/10473d53-a780-4d67-8f3a-ee79829c6927"
-        }
-    ], 
+    "instrumentation_voicing": "ensemble instrumental", 
     "form": [
         {
             "attribute_key": "yuruksemai", 
@@ -53,6 +37,16 @@
         }
     ], 
     "mbid": "10473d53-a780-4d67-8f3a-ee79829c6927", 
+    "works": [
+        {
+            "mbid": "9564e1a4-0463-4cc9-a28b-820a72e5dd50", 
+            "title": "Ben Gibi Sana A\u015f\u0131k-\u0131 \u00dcftade Bulunmaz"
+        }, 
+        {
+            "mbid": "db260504-980d-4a3b-8dff-90966c2989f6", 
+            "title": "H\u00fcseyni Pe\u015frev"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "huseyni", 
@@ -77,15 +71,21 @@
             "name": "[unknown]"
         }
     ], 
-    "instrumentation_voicing": "Ensemble instrumental", 
-    "works": [
+    "usul": [
         {
-            "mbid": "9564e1a4-0463-4cc9-a28b-820a72e5dd50", 
-            "title": "Ben Gibi Sana A\u015f\u0131k-\u0131 \u00dcftade Bulunmaz"
+            "attribute_key": "senginsemai", 
+            "mb_attribute": "Senginsemai", 
+            "source": "http://musicbrainz.org/work/9564e1a4-0463-4cc9-a28b-820a72e5dd50"
         }, 
         {
-            "mbid": "db260504-980d-4a3b-8dff-90966c2989f6", 
-            "title": "H\u00fcseyni Pe\u015frev"
+            "attribute_key": "muhammes", 
+            "mb_attribute": "Muhammes", 
+            "source": "http://musicbrainz.org/work/db260504-980d-4a3b-8dff-90966c2989f6"
+        }, 
+        {
+            "attribute_key": "yuruksemai", 
+            "mb_tag": "y\u00fcr\u00fcksemai", 
+            "source": "http://musicbrainz.org/recording/10473d53-a780-4d67-8f3a-ee79829c6927"
         }
     ]
 }

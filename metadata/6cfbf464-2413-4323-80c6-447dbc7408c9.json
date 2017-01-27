@@ -1,11 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "fahte", 
-            "mb_attribute": "Fahte", 
-            "source": "http://musicbrainz.org/work/4abab307-e784-46fe-8a67-427d54b32511"
-        }
-    ], 
+    "instrumentation_voicing": "solo instrumental", 
     "form": [
         {
             "attribute_key": "pesrev", 
@@ -33,6 +27,12 @@
         }
     ], 
     "mbid": "6cfbf464-2413-4323-80c6-447dbc7408c9", 
+    "works": [
+        {
+            "mbid": "4abab307-e784-46fe-8a67-427d54b32511", 
+            "title": "Acemk\u00fcrdi Pe\u015frev"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "acemkurdi", 
@@ -56,11 +56,11 @@
             "name": "Salih Bilgin"
         }
     ], 
-    "instrumentation_voicing": "Solo instrumental", 
-    "works": [
+    "usul": [
         {
-            "mbid": "4abab307-e784-46fe-8a67-427d54b32511", 
-            "title": "Acemk\u00fcrdi Pe\u015frev"
+            "attribute_key": "fahte", 
+            "mb_attribute": "Fahte", 
+            "source": "http://musicbrainz.org/work/4abab307-e784-46fe-8a67-427d54b32511"
         }
     ]
 }

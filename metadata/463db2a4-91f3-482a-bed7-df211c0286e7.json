@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "senginsemai", 
-            "mb_attribute": "Senginsemai", 
-            "source": "http://musicbrainz.org/work/7c8933cf-9fc1-43cb-9331-9eebc984a345"
-        }, 
-        {
-            "attribute_key": "senginsemai", 
-            "mb_tag": "senginsemai", 
-            "source": "http://musicbrainz.org/recording/463db2a4-91f3-482a-bed7-df211c0286e7"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal without accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "463db2a4-91f3-482a-bed7-df211c0286e7", 
+    "works": [
+        {
+            "mbid": "7c8933cf-9fc1-43cb-9331-9eebc984a345", 
+            "title": "Yar A\u011flamadan"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "bestenigar", 
@@ -57,11 +52,16 @@
             "name": "Selma Sa\u011fba\u015f"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal without accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "7c8933cf-9fc1-43cb-9331-9eebc984a345", 
-            "title": "Yar A\u011flamadan"
+            "attribute_key": "senginsemai", 
+            "mb_attribute": "Senginsemai", 
+            "source": "http://musicbrainz.org/work/7c8933cf-9fc1-43cb-9331-9eebc984a345"
+        }, 
+        {
+            "attribute_key": "senginsemai", 
+            "mb_tag": "senginsemai", 
+            "source": "http://musicbrainz.org/recording/463db2a4-91f3-482a-bed7-df211c0286e7"
         }
     ]
 }

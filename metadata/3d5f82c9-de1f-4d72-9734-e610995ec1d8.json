@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "senginsemai", 
-            "mb_attribute": "Senginsemai", 
-            "source": "http://musicbrainz.org/work/0d420917-66e3-4926-9c5a-9b88e672ddf7"
-        }, 
-        {
-            "attribute_key": "senginsemai", 
-            "mb_tag": "senginsemai", 
-            "source": "http://musicbrainz.org/recording/3d5f82c9-de1f-4d72-9734-e610995ec1d8"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal without accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "3d5f82c9-de1f-4d72-9734-e610995ec1d8", 
+    "works": [
+        {
+            "mbid": "0d420917-66e3-4926-9c5a-9b88e672ddf7", 
+            "title": "Hala Kanayan"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "mahur", 
@@ -57,11 +52,16 @@
             "name": "Safiye Ayla"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal without accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "0d420917-66e3-4926-9c5a-9b88e672ddf7", 
-            "title": "Hala Kanayan"
+            "attribute_key": "senginsemai", 
+            "mb_attribute": "Senginsemai", 
+            "source": "http://musicbrainz.org/work/0d420917-66e3-4926-9c5a-9b88e672ddf7"
+        }, 
+        {
+            "attribute_key": "senginsemai", 
+            "mb_tag": "senginsemai", 
+            "source": "http://musicbrainz.org/recording/3d5f82c9-de1f-4d72-9734-e610995ec1d8"
         }
     ]
 }

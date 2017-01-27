@@ -1,5 +1,11 @@
 {
-    "instrumentation_voicing": "Solo instrumental", 
+    "usul": [
+        {
+            "attribute_key": "serbest", 
+            "mb_tag": "serbest", 
+            "source": "http://musicbrainz.org/recording/06a7aef4-a5cc-41e6-b5bb-7a529fea17c0"
+        }
+    ], 
     "form": [
         {
             "attribute_key": "taksim", 
@@ -32,11 +38,5 @@
             "name": "Fahri Karaduman"
         }
     ], 
-    "usul": [
-        {
-            "attribute_key": "serbest", 
-            "mb_tag": "serbest", 
-            "source": "http://musicbrainz.org/recording/06a7aef4-a5cc-41e6-b5bb-7a529fea17c0"
-        }
-    ]
+    "instrumentation_voicing": "solo instrumental"
 }

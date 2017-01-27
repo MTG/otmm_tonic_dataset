@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "duyek", 
-            "mb_attribute": "D\u00fcyek", 
-            "source": "http://musicbrainz.org/work/53bf3f1b-c618-425f-a179-d463db2ca918"
-        }, 
-        {
-            "attribute_key": "duyek", 
-            "mb_tag": "d\u00fcyek", 
-            "source": "http://musicbrainz.org/recording/7d345253-7b73-4d81-91ab-878188d9d127"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "7d345253-7b73-4d81-91ab-878188d9d127", 
+    "works": [
+        {
+            "mbid": "53bf3f1b-c618-425f-a179-d463db2ca918", 
+            "title": "Bir \u0130htimal Daha Var o da \u00d6lmek mi Dersin"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "nihavent", 
@@ -65,11 +60,16 @@
             "name": "Aziz T\u00fcrk Sanat M\u00fczi\u011fi Grubu"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "53bf3f1b-c618-425f-a179-d463db2ca918", 
-            "title": "Bir \u0130htimal Daha Var o da \u00d6lmek mi Dersin"
+            "attribute_key": "duyek", 
+            "mb_attribute": "D\u00fcyek", 
+            "source": "http://musicbrainz.org/work/53bf3f1b-c618-425f-a179-d463db2ca918"
+        }, 
+        {
+            "attribute_key": "duyek", 
+            "mb_tag": "d\u00fcyek", 
+            "source": "http://musicbrainz.org/recording/7d345253-7b73-4d81-91ab-878188d9d127"
         }
     ]
 }

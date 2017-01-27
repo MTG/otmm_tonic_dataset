@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "yuruksemai", 
-            "mb_attribute": "Y\u00fcr\u00fcksemai", 
-            "source": "http://musicbrainz.org/work/9b170a99-839a-4305-b21a-fef3e8512ece"
-        }, 
-        {
-            "attribute_key": "yuruksemai", 
-            "mb_tag": "y\u00fcr\u00fcksemai", 
-            "source": "http://musicbrainz.org/recording/519b78fe-7171-4e39-9ce3-780fb952998f"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "yuruksemai", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "519b78fe-7171-4e39-9ce3-780fb952998f", 
+    "works": [
+        {
+            "mbid": "9b170a99-839a-4305-b21a-fef3e8512ece", 
+            "title": "Biya ki Kadd-\u0131 T\u00fc Der"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "sazkar", 
@@ -62,11 +57,16 @@
             "name": "Bekir S\u0131dk\u0131 Sezgin"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "9b170a99-839a-4305-b21a-fef3e8512ece", 
-            "title": "Biya ki Kadd-\u0131 T\u00fc Der"
+            "attribute_key": "yuruksemai", 
+            "mb_attribute": "Y\u00fcr\u00fcksemai", 
+            "source": "http://musicbrainz.org/work/9b170a99-839a-4305-b21a-fef3e8512ece"
+        }, 
+        {
+            "attribute_key": "yuruksemai", 
+            "mb_tag": "y\u00fcr\u00fcksemai", 
+            "source": "http://musicbrainz.org/recording/519b78fe-7171-4e39-9ce3-780fb952998f"
         }
     ]
 }

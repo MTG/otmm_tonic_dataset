@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "duyek", 
-            "mb_attribute": "D\u00fcyek", 
-            "source": "http://musicbrainz.org/work/d5bd93bd-dd23-42b2-a01c-1dc1b28f21b9"
-        }, 
-        {
-            "attribute_key": "duyek", 
-            "mb_tag": "d\u00fcyek", 
-            "source": "http://musicbrainz.org/recording/3161fa35-b680-4421-b26f-063a9d236115"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -42,6 +31,12 @@
         }
     ], 
     "mbid": "3161fa35-b680-4421-b26f-063a9d236115", 
+    "works": [
+        {
+            "mbid": "d5bd93bd-dd23-42b2-a01c-1dc1b28f21b9", 
+            "title": "\u00c7i\u00e7eklerin G\u00fcl\u00fcyor"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "hicazkar", 
@@ -69,11 +64,16 @@
             "name": "Erc\u00fcmend Batanay"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "d5bd93bd-dd23-42b2-a01c-1dc1b28f21b9", 
-            "title": "\u00c7i\u00e7eklerin G\u00fcl\u00fcyor"
+            "attribute_key": "duyek", 
+            "mb_attribute": "D\u00fcyek", 
+            "source": "http://musicbrainz.org/work/d5bd93bd-dd23-42b2-a01c-1dc1b28f21b9"
+        }, 
+        {
+            "attribute_key": "duyek", 
+            "mb_tag": "d\u00fcyek", 
+            "source": "http://musicbrainz.org/recording/3161fa35-b680-4421-b26f-063a9d236115"
         }
     ]
 }

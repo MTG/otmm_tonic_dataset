@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "agiraksak", 
-            "mb_attribute": "A\u011f\u0131raksak", 
-            "source": "http://musicbrainz.org/work/6977702a-38c2-402e-b03e-589881fa11a9"
-        }, 
-        {
-            "attribute_key": "agiraksak", 
-            "mb_tag": "a\u011f\u0131raksak", 
-            "source": "http://musicbrainz.org/recording/004e0ad5-6b19-463e-a282-50014447b630"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -42,6 +31,12 @@
         }
     ], 
     "mbid": "004e0ad5-6b19-463e-a282-50014447b630", 
+    "works": [
+        {
+            "mbid": "6977702a-38c2-402e-b03e-589881fa11a9", 
+            "title": "Durmadan Aks\u0131n E\u011fer \u0130sterse Art\u0131k G\u00f6zya\u015f\u0131m"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "huzzam", 
@@ -137,11 +132,16 @@
             "name": "Sedat G\u00fcndiyer"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "6977702a-38c2-402e-b03e-589881fa11a9", 
-            "title": "Durmadan Aks\u0131n E\u011fer \u0130sterse Art\u0131k G\u00f6zya\u015f\u0131m"
+            "attribute_key": "agiraksak", 
+            "mb_attribute": "A\u011f\u0131raksak", 
+            "source": "http://musicbrainz.org/work/6977702a-38c2-402e-b03e-589881fa11a9"
+        }, 
+        {
+            "attribute_key": "agiraksak", 
+            "mb_tag": "a\u011f\u0131raksak", 
+            "source": "http://musicbrainz.org/recording/004e0ad5-6b19-463e-a282-50014447b630"
         }
     ]
 }

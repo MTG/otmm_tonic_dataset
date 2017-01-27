@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "curcuna", 
-            "mb_attribute": "Curcuna", 
-            "source": "http://musicbrainz.org/work/9c7f9af6-9375-46f2-864c-2f5a978794d0"
-        }, 
-        {
-            "attribute_key": "kapali_curcuna", 
-            "mb_tag": "curcuna", 
-            "source": "http://musicbrainz.org/recording/e2e735a4-a034-4bc5-971e-ae5fa5969c7c"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal without accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "e2e735a4-a034-4bc5-971e-ae5fa5969c7c", 
+    "works": [
+        {
+            "mbid": "9c7f9af6-9375-46f2-864c-2f5a978794d0", 
+            "title": "Anlatay\u0131m Halimi"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "rast", 
@@ -57,11 +52,16 @@
             "name": "M\u00fcnir Nurettin Sel\u00e7uk"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal without accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "9c7f9af6-9375-46f2-864c-2f5a978794d0", 
-            "title": "Anlatay\u0131m Halimi"
+            "attribute_key": "curcuna", 
+            "mb_attribute": "Curcuna", 
+            "source": "http://musicbrainz.org/work/9c7f9af6-9375-46f2-864c-2f5a978794d0"
+        }, 
+        {
+            "attribute_key": "kapali_curcuna", 
+            "mb_tag": "curcuna", 
+            "source": "http://musicbrainz.org/recording/e2e735a4-a034-4bc5-971e-ae5fa5969c7c"
         }
     ]
 }

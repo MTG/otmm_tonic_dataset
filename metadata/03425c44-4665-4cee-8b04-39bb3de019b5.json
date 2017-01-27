@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "semai", 
-            "mb_attribute": "Semai", 
-            "source": "http://musicbrainz.org/work/4457c208-f54f-441f-8260-a8f1a9f926ee"
-        }, 
-        {
-            "attribute_key": "semai", 
-            "mb_tag": "semai", 
-            "source": "http://musicbrainz.org/recording/03425c44-4665-4cee-8b04-39bb3de019b5"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal without accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "03425c44-4665-4cee-8b04-39bb3de019b5", 
+    "works": [
+        {
+            "mbid": "4457c208-f54f-441f-8260-a8f1a9f926ee", 
+            "title": "Eri\u015fti Nevbahar Eyyam\u0131 A\u00e7\u0131ld\u0131 G\u00fcl-i G\u00fcl\u015fen"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "nihavent", 
@@ -57,11 +52,16 @@
             "name": "Sabite Tur G\u00fclerman"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal without accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "4457c208-f54f-441f-8260-a8f1a9f926ee", 
-            "title": "Eri\u015fti Nevbahar Eyyam\u0131 A\u00e7\u0131ld\u0131 G\u00fcl-i G\u00fcl\u015fen"
+            "attribute_key": "semai", 
+            "mb_attribute": "Semai", 
+            "source": "http://musicbrainz.org/work/4457c208-f54f-441f-8260-a8f1a9f926ee"
+        }, 
+        {
+            "attribute_key": "semai", 
+            "mb_tag": "semai", 
+            "source": "http://musicbrainz.org/recording/03425c44-4665-4cee-8b04-39bb3de019b5"
         }
     ]
 }

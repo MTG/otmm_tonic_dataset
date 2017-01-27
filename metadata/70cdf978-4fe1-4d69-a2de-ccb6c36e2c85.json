@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "devrihindi", 
-            "mb_attribute": "Devr-i Hindi", 
-            "source": "http://musicbrainz.org/work/b63f78c6-74e1-44a9-a8c4-c2d07a47e799"
-        }, 
-        {
-            "attribute_key": "devrihindi", 
-            "mb_tag": "devr-i hindi", 
-            "source": "http://musicbrainz.org/recording/70cdf978-4fe1-4d69-a2de-ccb6c36e2c85"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal without accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "70cdf978-4fe1-4d69-a2de-ccb6c36e2c85", 
+    "works": [
+        {
+            "mbid": "b63f78c6-74e1-44a9-a8c4-c2d07a47e799", 
+            "title": "\u00d6yle Bir Afet-i Yekta-y\u0131 Emelsin"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "saba", 
@@ -57,11 +52,16 @@
             "name": "Neveser Gerginok"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal without accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "b63f78c6-74e1-44a9-a8c4-c2d07a47e799", 
-            "title": "\u00d6yle Bir Afet-i Yekta-y\u0131 Emelsin"
+            "attribute_key": "devrihindi", 
+            "mb_attribute": "Devr-i Hindi", 
+            "source": "http://musicbrainz.org/work/b63f78c6-74e1-44a9-a8c4-c2d07a47e799"
+        }, 
+        {
+            "attribute_key": "devrihindi", 
+            "mb_tag": "devr-i hindi", 
+            "source": "http://musicbrainz.org/recording/70cdf978-4fe1-4d69-a2de-ccb6c36e2c85"
         }
     ]
 }

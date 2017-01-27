@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "devrikebir", 
-            "mb_attribute": "Devr-i Kebir", 
-            "source": "http://musicbrainz.org/work/92def4f6-dca5-452c-88d5-acc4aa87ab0b"
-        }, 
-        {
-            "attribute_key": "yuruksemai", 
-            "mb_tag": "y\u00fcr\u00fcksemai", 
-            "source": "http://musicbrainz.org/recording/a0f0e53e-558b-43bb-8d06-3e17c77cbcac"
-        }
-    ], 
+    "instrumentation_voicing": "ensemble instrumental", 
     "form": [
         {
             "attribute_key": "pesrev", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "a0f0e53e-558b-43bb-8d06-3e17c77cbcac", 
+    "works": [
+        {
+            "mbid": "92def4f6-dca5-452c-88d5-acc4aa87ab0b", 
+            "title": "Neva Ayin-i \u015eerif"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "neva", 
@@ -52,11 +47,16 @@
             "name": "Dede Efendi T\u00fcrk M\u00fczi\u011fi Toplulu\u011fu"
         }
     ], 
-    "instrumentation_voicing": "Ensemble instrumental", 
-    "works": [
+    "usul": [
         {
-            "mbid": "92def4f6-dca5-452c-88d5-acc4aa87ab0b", 
-            "title": "Neva Ayin-i \u015eerif"
+            "attribute_key": "devrikebir", 
+            "mb_attribute": "Devr-i Kebir", 
+            "source": "http://musicbrainz.org/work/92def4f6-dca5-452c-88d5-acc4aa87ab0b"
+        }, 
+        {
+            "attribute_key": "yuruksemai", 
+            "mb_tag": "y\u00fcr\u00fcksemai", 
+            "source": "http://musicbrainz.org/recording/a0f0e53e-558b-43bb-8d06-3e17c77cbcac"
         }
     ]
 }

@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "nimdevir", 
-            "mb_attribute": "Nimdevir", 
-            "source": "http://musicbrainz.org/work/d55d3bbe-bd80-46f1-a619-7c0177afa3d6"
-        }, 
-        {
-            "attribute_key": "nimdevir", 
-            "mb_tag": "nimdevir", 
-            "source": "http://musicbrainz.org/recording/6503407f-688d-4b2e-89ea-5ff65d5dc9ad"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "beste", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "6503407f-688d-4b2e-89ea-5ff65d5dc9ad", 
+    "works": [
+        {
+            "mbid": "d55d3bbe-bd80-46f1-a619-7c0177afa3d6", 
+            "title": "C\u00fcday\u0131m G\u00fcl\u015fen-i Kuyinden"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "sultaniirak", 
@@ -73,11 +68,16 @@
             "name": "Kudsi Erguner"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "d55d3bbe-bd80-46f1-a619-7c0177afa3d6", 
-            "title": "C\u00fcday\u0131m G\u00fcl\u015fen-i Kuyinden"
+            "attribute_key": "nimdevir", 
+            "mb_attribute": "Nimdevir", 
+            "source": "http://musicbrainz.org/work/d55d3bbe-bd80-46f1-a619-7c0177afa3d6"
+        }, 
+        {
+            "attribute_key": "nimdevir", 
+            "mb_tag": "nimdevir", 
+            "source": "http://musicbrainz.org/recording/6503407f-688d-4b2e-89ea-5ff65d5dc9ad"
         }
     ]
 }

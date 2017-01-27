@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "turkaksagi", 
-            "mb_attribute": "T\u00fcrkaksa\u011f\u0131", 
-            "source": "http://musicbrainz.org/work/edfa485b-1418-499b-b032-7207a4d965da"
-        }, 
-        {
-            "attribute_key": "turkaksagi_ii", 
-            "mb_tag": "t\u00fcrkaksa\u011f\u0131", 
-            "source": "http://musicbrainz.org/recording/461a5280-bfd9-4db5-a3eb-df1a6bc64f63"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal without accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -38,6 +27,12 @@
         }
     ], 
     "mbid": "461a5280-bfd9-4db5-a3eb-df1a6bc64f63", 
+    "works": [
+        {
+            "mbid": "edfa485b-1418-499b-b032-7207a4d965da", 
+            "title": "Hala Ya\u015f\u0131yor Kalbimin Gizli Yerinde"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "nihavent", 
@@ -57,11 +52,16 @@
             "name": "Safiye Ayla"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal without accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "edfa485b-1418-499b-b032-7207a4d965da", 
-            "title": "Hala Ya\u015f\u0131yor Kalbimin Gizli Yerinde"
+            "attribute_key": "turkaksagi", 
+            "mb_attribute": "T\u00fcrkaksa\u011f\u0131", 
+            "source": "http://musicbrainz.org/work/edfa485b-1418-499b-b032-7207a4d965da"
+        }, 
+        {
+            "attribute_key": "turkaksagi_ii", 
+            "mb_tag": "t\u00fcrkaksa\u011f\u0131", 
+            "source": "http://musicbrainz.org/recording/461a5280-bfd9-4db5-a3eb-df1a6bc64f63"
         }
     ]
 }

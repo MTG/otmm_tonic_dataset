@@ -1,16 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "aksak", 
-            "mb_attribute": "Aksak", 
-            "source": "http://musicbrainz.org/work/3c47ae87-fd91-4e84-b60d-34ffc9aa7884"
-        }, 
-        {
-            "attribute_key": "aksak", 
-            "mb_tag": "aksak", 
-            "source": "http://musicbrainz.org/recording/8045c841-b1f9-4732-b2b4-dbf618bb7c94"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -42,6 +31,12 @@
         }
     ], 
     "mbid": "8045c841-b1f9-4732-b2b4-dbf618bb7c94", 
+    "works": [
+        {
+            "mbid": "3c47ae87-fd91-4e84-b60d-34ffc9aa7884", 
+            "title": "Yad\u0131mda O Sevdal\u0131"
+        }
+    ], 
     "makam": [
         {
             "attribute_key": "muhayyer", 
@@ -137,11 +132,16 @@
             "name": "Sedat G\u00fcndiyer"
         }
     ], 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "works": [
+    "usul": [
         {
-            "mbid": "3c47ae87-fd91-4e84-b60d-34ffc9aa7884", 
-            "title": "Yad\u0131mda O Sevdal\u0131"
+            "attribute_key": "aksak", 
+            "mb_attribute": "Aksak", 
+            "source": "http://musicbrainz.org/work/3c47ae87-fd91-4e84-b60d-34ffc9aa7884"
+        }, 
+        {
+            "attribute_key": "aksak", 
+            "mb_tag": "aksak", 
+            "source": "http://musicbrainz.org/recording/8045c841-b1f9-4732-b2b4-dbf618bb7c94"
         }
     ]
 }
