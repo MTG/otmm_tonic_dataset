@@ -1,7 +1,9 @@
 from morty.evaluator import Evaluator
 import json
+import os
 import numpy as np
 import logging
+from fileoperations.fileoperations import get_filenames_in_dir
 
 logging.basicConfig()  # removes
 logger = logging.getLogger()
@@ -119,7 +121,7 @@ def check_mismatches(rec_mbid, anno_times, mismatch_mbid, time_ignored_mbid):
 
 def test_removed():
     """
-    This test checks whether one of the removed recordings are re-introduced
+    This test checks if one of the removed recordings are re-introduced
     to the test dataset by mistake. If yes, it prompts to recheck the
     recording(s) manually
     """
@@ -145,3 +147,33 @@ def test_removed():
                  u"without revising removed.json".format(num_removed,
                                                          len(all_annos))
     assert num_removed == 0, assert_str
+
+
+def test_metadata():
+    """
+    This test checks if the MBIDs in annotations.json and ./metadata folder
+    are consistent
+    """
+    anno_mbids = json.load(open('./annotations.json'))
+    anno_mbids = set(anno_mbids.keys())
+
+    meta_mbids = get_filenames_in_dir('./metadata', keyword='*.json')[2]
+    meta_mbids = set(os.path.splitext(mm)[0] for mm in meta_mbids)
+
+    missing_meta = anno_mbids - meta_mbids
+    if missing_meta:
+        print "Missing these MBIDS the in ./metadata folder. Please add them!"
+        for mm in missing_meta:
+            print '   {}'.format(mm)
+
+            assert False, "Mismatch between the MBIDs in annotations.json " \
+                          "and ./metadata folder"
+
+    missing_anno = meta_mbids - anno_mbids
+    if missing_anno:
+        print "Extra MBIDS in the ./metadata folder. Please remove them!"
+        for ma in missing_anno:
+            print '   {}'.format(ma)
+
+            assert False, "Mismatch between the MBIDs in annotations.json " \
+                          "and ./metadata folder"
