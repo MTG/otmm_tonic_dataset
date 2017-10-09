@@ -126,7 +126,7 @@ __music_score__: String (joint audio-score analysis only). The name of the SymbT
 
 Additional resources
 ------------
-Most of the recordings in this dataset cannot be shared due to copyright. However relevant features are already computed and they can be downloaded from the [Dunya-makam](dunya.compmusic.upf.edu/makam) after registration. Please refer to the API documentation (http://dunya.compmusic.upf.edu/docs/makam.html) to how to access the data. 
+Most of the recordings in this dataset cannot be shared due to copyright. However relevant features are already computed and they can be downloaded from the [Dunya-makam](http://dunya.compmusic.upf.edu/makam/) after registration. Please refer to the API documentation (http://dunya.compmusic.upf.edu/docs/makam.html) to how to access the data. 
 
 During verification, several annotations are removed from time to time due to practical reasons. These recordings are listed in [removed.json](https://github.com/MTG/otmm_tonic_dataset/blob/master/removed.json). You can inspect the json file to see why each particular recording is removed.
 
