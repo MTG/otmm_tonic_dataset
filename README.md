@@ -112,17 +112,17 @@ An example recording is displayed below:
 
 Below, each dictionary key is explained in detail:
 
-__mbid__: String. The URL of the recording MBID in [MusicBrainz](musicbrainz.org)  
-__verified__: Boolean. _True_ means all annotations in the recording have been verified by another person within a window of 20 cents to the actual tonic frequency. See _Seeger, C. (1958)_ for the musicological justification of the cent precision.  
-__annotations__: List. Holds the list of annotation dictionaries  
-__time_interval__: 2 x 1 list of floats. The start and end time stamp of the tonic annotation in the recording. It is used when the tonic frequency (or symbol) changes within the performance. If there is no change, its value is empty.  
-__citation__: String. Relevant research paper the annotation is taken from.  
-__value__: Float. The annotation frequency in Hz.  
-__source__: String. The URL where the annotation is originally taken from. It point to the relevant commit/tag and file, where applicable. Note that the value might be different from the original by the final verifier.  
-__tonic_symbol__: String. Symbol of the tonic note according to the AEU theory. It is given in the [SymbTr](https://github.com/MTG/SymbTr) format, i.e. [letter][octave][accidental][comma]. Example: *B4b1*.  
-__octave_wrapped__: Boolean. _True_, if the annotator did/could not consider the octave information.  
-__observations__: String. The comments provided by the annotator.  
-__music_score__: String (joint audio-score analysis only). The name of the SymbTr-score used in the joint analysis
+__mbid__: _String_. The URL of the recording MBID in [MusicBrainz](musicbrainz.org)  
+__verified__: _Boolean_. _True_ means all annotations in the recording have been verified by another person within a window of 20 cents to the actual tonic frequency. See _Seeger, C. (1958)_ for the musicological justification of the cent precision. 
+__annotations__: _List_. Holds the list of annotation dictionaries  
+__time_interval__: _2 x 1 List of Floats_. The start and end time stamp of the tonic annotation in the recording. It is used when the tonic frequency (or symbol) changes within the performance. If there is no change, its value is empty.  
+__citation__: _String_. Relevant research paper the annotation is taken from.  
+__value__: _Float_. The annotation frequency in Hz.  
+__source__: _String_. The URL where the annotation is originally taken from. It points to the relevant commit/tag and file, where applicable. Note that the value might be different from the original by the final verifier.  
+__tonic_symbol__: _String_. Symbol of the tonic note according to the AEU theory. It is given in the [SymbTr](https://github.com/MTG/SymbTr) format, i.e. [letter][octave][accidental][comma]. Example: *B4b1*.  
+__octave_wrapped__: _Boolean_. _True_, if the annotator did/could not consider the octave information.  
+__observations__: _String_. The comments provided by the annotator.  
+__music_score__: _String_ (joint audio-score analysis only). The name of the SymbTr-score used in the joint analysis
 
 Additional resources
 ------------
