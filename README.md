@@ -120,7 +120,7 @@ __citation__: _String_. Relevant research paper the annotation is taken from.
 __value__: _Float_. The annotation frequency in Hz.  
 __source__: _String_. The URL where the annotation is originally taken from. It points to the relevant commit/tag and file, where applicable. Note that the value might be different from the original by the final verifier.  
 __tonic_symbol__: _String_. Symbol of the tonic note according to the AEU theory. It is given in the [SymbTr](https://github.com/MTG/SymbTr) format, i.e. [letter][octave][accidental][comma]. Example: *B4b1*.  
-__octave_wrapped__: _Boolean_. _True_, if the annotator did/could not consider the octave information.  
+__octave_wrapped__: _Boolean_. _False_, if the annotator did not (or is not able to) consider the octave of the tonic.  
 __observations__: _String_. The comments provided by the annotator.  
 __music_score__: _String_ (joint audio-score analysis only). The name of the SymbTr-score used in the joint analysis
 
